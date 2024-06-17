@@ -1,0 +1,1029 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "source": "SEARCH_AUTHOR_SNIPPETS",
+  "scholar_id": "bqZRdngAAAAJ",
+  "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=bqZRdngAAAAJ",
+  "name": "Donan Satria Yudha",
+  "affiliation": "Faculty of Biology, Universitas Gadjah Mada",
+  "email_domain": "@ugm.ac.id",
+  "interests": [
+    "Herpetology",
+    "Palaeontology",
+    "Evolutionary Biology",
+    "Animal Systematics"
+  ],
+  "citedby": 268,
+  "organization": 18213967212371915679,
+  "citedby5y": 230,
+  "hindex": 10,
+  "hindex5y": 9,
+  "i10index": 10,
+  "i10index5y": 9,
+  "cites_per_year": {
+    "2014": 1,
+    "2015": 2,
+    "2016": 6,
+    "2017": 7,
+    "2018": 17,
+    "2019": 19,
+    "2020": 21,
+    "2021": 41,
+    "2022": 51,
+    "2023": 77,
+    "2024": 21
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YdvSSBEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rury Eprilurahman",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MldxL2UAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Trijoko",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rlIm50gAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dwi Sendi Priyono",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rUkCzPIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rusyad Adi Suriyanto",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "h4zfZSIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Suwarno Hadisusanto",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TFptHqkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Alfonsus Toribio Eko Saputro",
+      "affiliation": ""
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_vVCy3AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aaron Bauer",
+      "affiliation": "Professor of Biology, Villanova University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xB2wQl4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Evy Arida",
+      "affiliation": "Research Center for Applied Zoology - BRIN"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SCFoxrwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sri Nopitasari",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JZxpXsUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aisyah Arimbi",
+      "affiliation": "Wildlife Conservation Society"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9hpBjFQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Akbar Reza",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "eOmD_SIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Maslim As-singkily",
+      "affiliation": "Wageningen University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hSQF7MIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "didit hadi Barianto",
+      "affiliation": "Senior lecturer of geology Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "byJ_XQMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "awal RIYANTO",
+      "affiliation": "BRIN (Research and Innovation National Agency)/LIPI Lembaga Ilmu Pengetahuan Indonesia/MZB"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Katak dan Kodok (ordo Anura) di Sepanjang Sungai Opak, Propinsi Daerah Istimewa Yogyakarta",
+        "pub_year": "2014",
+        "citation": "Jurnal Biologi 18 (2), 52-59, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10007239580270560558",
+      "cites_id": [
+        "10007239580270560558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Spesies Amfibi Dan Reptil Di Kawasan Suaka Margasatwa Sermo Daerah Istimewa Yogyakarta",
+        "pub_year": "2015",
+        "citation": "Jurnal MIPA 38 (1), 8-13, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14606176967089299397",
+      "cites_id": [
+        "14606176967089299397"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new small karst-dwelling species of Cyrtodactylus (Reptilia: Squamata: Gekkonidae) from Java, Indonesia",
+        "pub_year": "2014",
+        "citation": "Zootaxa 3785 (4), 589-599, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4030247485393409844",
+      "cites_id": [
+        "4030247485393409844"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman katak dan kodok (Amphibia: Anura) di Suaka Margasatwa Paliyan, Gunungkidul, Yogyakarta",
+        "pub_year": "2019",
+        "citation": "Jurnal Biologi Udayana 23 (2), 59-67, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=118178453741691069",
+      "cites_id": [
+        "118178453741691069"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antlers characterization for identification of deer species (Family Cervidae) in Indonesia",
+        "pub_year": "2019",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 4 (3), 97-106, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:hC7cP41nSMkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8652792028900216833",
+      "cites_id": [
+        "8652792028900216833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan Kemerataan Spesies Anggota Ordo Anura di Lereng Selatan Gunung Merapi Tahun 2012",
+        "pub_year": "2015",
+        "citation": "Majalah Ilmiah Biologi, Biosfera 32 (1), 1-10, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:qjMakFHDy7sC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4912757619224964174",
+      "cites_id": [
+        "4912757619224964174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Ikan di Sepanjang Sungai Boyong\u2013Code Propinsi Daerah Istimewa Yogyakarta",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 1 (1), 21-29, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16870863810139371171",
+      "cites_id": [
+        "16870863810139371171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Kadal dan Ular (Squamata: Reptilia) di Sepanjang Sungai Code, Daerah Istimewa Yogyakarta",
+        "pub_year": "2016",
+        "citation": "Biota, Jurnal Ilmiah Ilmu-Ilmu Hayati 1 (1), 31-38, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5348861431378698060",
+      "cites_id": [
+        "5348861431378698060"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kekayaan Fauna Gianyar, Bali: Udang, Ikan, Amfibi, Reptil, Burung dan Mamalia",
+        "pub_year": "2018",
+        "citation": "Ugm Press, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:HDshCWvjkbEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9814409956865914826",
+      "cites_id": [
+        "9814409956865914826"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bibliometric analysis of literature in Snake venom-related research worldwide (1933\u20132022)",
+        "pub_year": "2022",
+        "citation": "Animals 12 (16), 2058, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5538138199843359990",
+      "cites_id": [
+        "5538138199843359990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Katak dan Kodok di Sepanjang Sungai Code Propinsi Daerah Istimewa Yogyakarta",
+        "pub_year": "2013",
+        "citation": "Berkala Ilmiah Biologi 12 (1), 17-25, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13103410119757606291",
+      "cites_id": [
+        "13103410119757606291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Ikan di Sepanjang Sungai Opak Propinsi Daerah Istimewa Yogyakarta, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati 5 (2), 81-91, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:TFP_iSt0sucC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3432847770279688084,1897675267361086601",
+      "cites_id": [
+        "3432847770279688084",
+        "1897675267361086601"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and Distribution of Herpetofauna in Banyu Nibo Waterfall Ecotourism Region, Nglanggeran, Gunung Kidul, Special Region of Yogyakarta",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (1), 6-9, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11414788240650228852",
+      "cites_id": [
+        "11414788240650228852"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Katak dan Kodok (Amphibia: Anura) di Sungai Gadjah Wong, Daerah Istimewa Yogyakarta",
+        "pub_year": "2017",
+        "citation": "Biota 2 (2), 53-61, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4369693021786817907",
+      "cites_id": [
+        "4369693021786817907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sekilas Etnozoologi Masyarakat Dayak di Kalimantan",
+        "pub_year": "2012",
+        "citation": "Flora dan Fauna Kalimantan: Dokumentasi Hasil Tim Peneliti Ekspedisi \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=66680398587866660",
+      "cites_id": [
+        "66680398587866660"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity monitoring as a baseline for PROPER biodiversity protection program of PT. Geo Dipa Energi Dieng, Central Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (9), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13779775661966560099",
+      "cites_id": [
+        "13779775661966560099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring Anurans diversity along code river, province of daerah istimewa yogyakarta, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 7 (2), 132-138, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14335235013369595085",
+      "cites_id": [
+        "14335235013369595085"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity of sharks fossils in Plio-Pleistocene of Java, Indonesia",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:4DMP91E08xMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15855920359313274676",
+      "cites_id": [
+        "15855920359313274676"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman jenis katak dan kodok (ordo anura) di Sepanjang Sungai Opak Propinsi Daerah Istimewa Yogyakata",
+        "pub_year": "2014",
+        "citation": "Jurnal Biologi 18 (2), 52-59, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12165952519524274827",
+      "cites_id": [
+        "12165952519524274827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman jenis katak dan kodok di Sungai Code Propinsi Daerah Istimewa Yogyakarta",
+        "pub_year": "2013",
+        "citation": "Jurnal Berkala Ilmiah Biologi 10 (1), 17-25, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:35N4QoGY0k4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8043790147849359823",
+      "cites_id": [
+        "8043790147849359823"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity and species identity of the critically endangered Rote Island snake-necked turtle, Chelodina mccordi Rhodin, 1994",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012001, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:maZDTaKrznsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13403168374917844158",
+      "cites_id": [
+        "13403168374917844158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Herpetofauna community structure and distribution of Watu Joglo cave area, Gunung Kidul, Special Region of Yogyakarta",
+        "pub_year": "2020",
+        "citation": "BIO Web of Conferences 19, 00008, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494334342205986212",
+      "cites_id": [
+        "17494334342205986212"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marine-mollusc fossils (Mollusca: Bivalvia and Gastropoda) and their paleoenvironmental interpretation from the Situs manusia purba Sangiran area",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 020012-1 - 020012-12, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:WF5omc3nYNoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6409364832615701133",
+      "cites_id": [
+        "6409364832615701133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ular Welang, Bungarus fasciatus (Schneider, 1801), di Lereng Selatan Gunung Merapi, Daerah Istimewa Yogyakarta",
+        "pub_year": "2013",
+        "citation": "Majalah Ilmiah Biologi, Biosfera 30 (3), 113-118, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2387531322162539882",
+      "cites_id": [
+        "2387531322162539882"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dorsal colour patterns of Asian Water Monitor, Varanus salvator collected for trade in Cirebon, Indonesia",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Ethnobiology 3 (2), 133-138, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:r0BpntZqJG4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10052789445837561099",
+      "cites_id": [
+        "10052789445837561099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman hayati di Gianyar",
+        "pub_year": "2018",
+        "citation": "UGM PRESS, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:BqipwSGYUEgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12751125376611249336",
+      "cites_id": [
+        "12751125376611249336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Snakes and lizards (Reptilia: Squamata) of Gadjah Wong River area, Province of Daerah Istimewa Yogyakarta",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:aqlVkmm33-oC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5214355766130134318",
+      "cites_id": [
+        "5214355766130134318"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman flora dan fauna daerah aliran Sungai Pakerisan Kabupaten Gianyar",
+        "pub_year": "2024",
+        "citation": "UGM PRESS, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:ldfaerwXgEUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6576325178967714025",
+      "cites_id": [
+        "6576325178967714025"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistematika Kongkang Jeram Huia masonii (Boulenger, 1884) Berdasarkan Karakter Morfologi",
+        "pub_year": "2020",
+        "citation": "Bioma: Berkala Ilmiah Biologi 22 (2), 161-169, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:isC4tDSrTZIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7294358409512029126",
+      "cites_id": [
+        "7294358409512029126"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Pleistocene deer (Cervidae) in Java, Indonesia based on antlers characteristics",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13028522214483730640",
+      "cites_id": [
+        "13028522214483730640"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survei Awal Analisa Habitat Ditemukannya Labi-labi Bintang (Chitra chitra) di Sungai Sempor, Sleman, DIY",
+        "pub_year": "2019",
+        "citation": "WARTA HERPETOFAUNA, 25, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9149339593648340099",
+      "cites_id": [
+        "9149339593648340099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Snakes and Lizards (Reptilia: Squamata) of the Opak River Area, Province of Daerah Istimewa Yogyakarta, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 020013-1 - 020013-8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16340764282044140827",
+      "cites_id": [
+        "16340764282044140827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of the interaction between Calloselasma rhodostoma venom-derived peptides and cancer-associated hub proteins: A computational study",
+        "pub_year": "2023",
+        "citation": "Heliyon 9 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14937798914801505379",
+      "cites_id": [
+        "14937798914801505379"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring Keanekaragaman dan Kemelimpahan Ular (Squamata: Serpentes) di Sungai Gadjah Wong, Daerah Istimewa Yogyakarta",
+        "pub_year": "2023",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 21-30, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15366620535949847954",
+      "cites_id": [
+        "15366620535949847954"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Ular dan Kadal (Reptilia: Squamata) di Kawasan Karst Suaka Margasatwa Paliyan, Gunungkidul, Yogyakarta",
+        "pub_year": "2022",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 19-27, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:hMod-77fHWUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1891513476470897897",
+      "cites_id": [
+        "1891513476470897897"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparising DNA extraction from environmental DNA samples to reveal the diversity of freshwater metazoans",
+        "pub_year": "2021",
+        "citation": "Biogenesis Jurnal Ilmiah Biologi 9, 206-212, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12279375032268230842",
+      "cites_id": [
+        "12279375032268230842"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Karapas dan Chela sebagai Alat Identifikasi Fosil Kepiting (Decapoda: Brachyura) yang ditemukan di Jawa",
+        "pub_year": "2021",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 32-43, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:k_IJM867U9cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11772974658078926477",
+      "cites_id": [
+        "11772974658078926477"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity of ray-finned fishes (Actinopterygii) in Plio-Pleistocene Java",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (02), 149-156, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1004759126703945542",
+      "cites_id": [
+        "1004759126703945542"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penjumpaan ular jenis Calamaria lumbircoidea di area Ekowisata Taman Sungai Mudal, Kulon Progo, Yogyakarta",
+        "pub_year": "2019",
+        "citation": "WARTA HERPETOFAUNA 11 (1), 34-36, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6008793885646377613,16296244903782346392",
+      "cites_id": [
+        "6008793885646377613",
+        "16296244903782346392"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Zebrafish as Versatile Model for Assessing Animal Venoms and Toxins: Current Applications and Future Prospects",
+        "pub_year": "2024",
+        "citation": "Zebrafish, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species Identification of Rehabilitated Critically Endangered Orangutans Through DNA Forensic: Implication for Conservation",
+        "pub_year": "2024",
+        "citation": "Tropical Life Sciences Research 35 (1), 120-134, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring the Diversity of Lizards and Snakes (Reptilia: Squamata), Along the Boyong-Code River Area, Province of Daerah Istimewa Yogyakarta",
+        "pub_year": "2024",
+        "citation": "KnE Life Sciences, 127\u2013135-127\u2013135, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Amfibi dan Reptil di Kampus Universitas Gadjah Mada",
+        "pub_year": "2023",
+        "citation": "UGM PRESS, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring Keanekaragaman Amfibi dan Reptil di Bagian Hulu Sungai Code Menggunakan Metode environmental DNA.",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 14 (1), 8-20, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring Keanekaragaman dan Kemelimpahan Katak dan Kodok (Amphibia: Anura) di Sisi Timur Area Kampus UGM Yogyakarta",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "-STUDI SPESIES DAN STATUS KONSERVASI IKAN PISAU (FAMILI: NOTOPTERIDAE) YANG DIPERDAGANGKAN DI PASAR IKAN HIAS PARUNG, KABUPATEN BOGOR",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 15 (1), 31-42, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aquatic biodiversity in a pond on the airport landside areas through environmental DNA metabarcoding: Implementation for Aviation Security Management",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (7), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biostratigraphy and Paleobathimetry Microfossil Foraminifera in the Sentolo Formation on the Jambon Line, Bantul Regency, Special Region of Yogyakarta Province",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (1), 62239, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bibliometric Analysis of Literature in Snake Venom-Related Research Worldwide (1933\u20132022). Animals 2022, 12, 2058",
+        "pub_year": "2022",
+        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Shell Bone as an Identification Tool for Turtle Species (Reptiles: Testudines) in Java, Borneo, and Sumatra",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (1), 35-43, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan Distribusi Ular (Subordo serpentes) dan Kadal (Subordo lacertilia) Di Taman Sungai Mudal, Perbukitan Menoreh, Kulon Progo, Daerah Istimewa Yogyakarta",
+        "pub_year": "2017",
+        "citation": "Seminar Nasional Biodiversitas, Fakultas Matematika dan Ilmu Pengetahuan \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fauna di Kawasan Warisan Budaya Dunia Daerah Aliran Sungai Pakerisan Gianyar, Bali",
+        "pub_year": "2016",
+        "citation": "Keanekaragaman Flora & Fauna, Daerah Aliran Sungai Pakerisan, Kabupaten \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman fosil anggota ordo Foraminifera pada Formasi Pucangan di Desa Bukuran dan Krikilan, Kecamatan Kalijambe, Area Situs Manusia Purba Sangiran",
+        "pub_year": "2013",
+        "citation": "Berkala Ilmiah Biologi 12 (2), 26-33, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Mammalia di Kalimantan",
+        "pub_year": "2012",
+        "citation": "Flora dan Fauna Kalimantan: Dokumentasi Hasil Tim Peneliti Ekspedisi \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Ikan di Kalimantan",
+        "pub_year": "2012",
+        "citation": "Flora dan Fauna Kalimantan: Dokumentasi Hasil Tim Peneliti Ekspedisi \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Amfibi di Kalimantan",
+        "pub_year": "2012",
+        "citation": "Flora dan Fauna Kalimantan: Dokumentasi Hasil Tim Peneliti Ekspedisi \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Avifauna di Kalimantan",
+        "pub_year": "2012",
+        "citation": "Flora dan Fauna Kalimantan: Dokumentasi Hasil Tim Peneliti Ekspedisi \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Reptil di Kalimantan",
+        "pub_year": "2012",
+        "citation": "Flora dan Fauna Kalimantan: Dokumentasi Hasil Tim Peneliti Ekspedisi \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "R\u00e9\u00e9valuation du cr\u00e2ne Ngawi 1 (Homo erectus, Java, Indon\u00e9sie), apports de l\u2019imagerie 3D et des analyses multivari\u00e9es",
+        "pub_year": "2008",
+        "citation": "Institut de Pal\u00e9ontologie Humaine, Mus\u00e9um National d\u2019Histoire Naturelle \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "bqZRdngAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

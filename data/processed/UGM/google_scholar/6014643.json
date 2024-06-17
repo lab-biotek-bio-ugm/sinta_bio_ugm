@@ -1,0 +1,491 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "VashVaoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Raden Roro Upiek Ngesti Wibawaning Astuti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VashVaoAAAAJ&citpid=2",
+  "affiliation": "Lecturer of Parasitology Faculty of Biology Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Parasitology",
+    "Vector and Disease Control"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 41,
+  "citedby5y": 21,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 1,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2011": 1,
+    "2012": 1,
+    "2013": 1,
+    "2014": 3,
+    "2015": 3,
+    "2016": 4,
+    "2017": 4,
+    "2018": 3,
+    "2019": 2,
+    "2020": 6,
+    "2021": 2,
+    "2022": 4,
+    "2023": 5,
+    "2024": 2
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "h4zfZSIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Suwarno Hadisusanto",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vGCkhYcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Niken Satuti Nur Handayani",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "U-oApogAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Soenarwan Hery Poerwanto",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan mindi (Melia azedarach L.) sebagai anti parasit Trypanosoma evansi dan dampaknya terhadap struktur jaringan hepar dan ginjal mencit",
+        "pub_year": "2006",
+        "citation": "Kemajuan Terkini Penelitian Klaster Sains-Teknologi, 291-309, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5002649622307154756",
+      "cites_id": [
+        "5002649622307154756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh ekstrak etanol daun mindi (Melia azedarach L.) terhadap daya tetas telur, perkembangan dan mortalitas larva Aedes aegypti",
+        "pub_year": "2004",
+        "citation": "Laboratorium Parasitologi. Fakultas Biologi. Universitas Gajah Mada. Jogyakarta, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5632293975902316563",
+      "cites_id": [
+        "5632293975902316563"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengendalian vektor demam berdarah menggunakan lethal mosquito trap modification (LMM) di Kelurahan Pagutan Induk, Kota Mataram",
+        "pub_year": "2018",
+        "citation": "Jurnal Biosains 4 (3), 124-130, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:_kc_bZDykSQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3416029017183905213",
+      "cites_id": [
+        "3416029017183905213"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity, dominancy, and periodicity of mosquitoes in filariasis endemic areas in Samborejo Village Tirto District Pekalongan Regency",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Tropical and Infectious Disease 7 (6), 131-136, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17436449550846951011",
+      "cites_id": [
+        "17436449550846951011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymerase Chain Reaction for Detecting of Brugia malayi Larvae Infection in Mosquitoes",
+        "pub_year": "2004",
+        "citation": "3rd Eijkman Symposium, 1-5, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4584095753116692478",
+      "cites_id": [
+        "4584095753116692478"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Abundance and periodicity of Culex quinquefasciatus Say, 1823 (Diptera: Culicidae) as early indicator of filariasis transmission in Pekalongan, Central Java, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14918988344105596938",
+      "cites_id": [
+        "14918988344105596938"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Ekstrak Etanol daun Mindi, Melia azedarach L. Terhadap Daya tetas telur, Perkembangan dan Mortalitas larva Aedes albopictus",
+        "pub_year": "2005",
+        "citation": "Forum MIPA: Jurnal Penelitian dan Kajian Ilmiah MIPA 4 (1), 13-20, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:5nxA0vEk-isC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17038095104152905168",
+      "cites_id": [
+        "17038095104152905168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The oxidative stress-mediated effects in pregnant mice with Plasmodium berghei infection",
+        "pub_year": "2022",
+        "citation": "Adv. Anim. Vet. Sci 10 (3), 521-528, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2024394799623805347",
+      "cites_id": [
+        "2024394799623805347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A revised checklist of mosquitoes Genus Coquillettidia Dyar, 1905 (Diptera: Culicidae) from Indonesia with key to species",
+        "pub_year": "2020",
+        "citation": "Biodiversitas 21 (12), 5772-5777, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7862419298248663943",
+      "cites_id": [
+        "7862419298248663943"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of protein against Wuchereria bancrofti infection in Southern house mosquito Culex quinquefasciatus say, 1823 from filariasis endemic area",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:8k81kl-MbHgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4674088038651954791",
+      "cites_id": [
+        "4674088038651954791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactivities of mahoni\u2019s (Swietenia mahagoni (L.) Jacq.) Seed Ethanolic Extract On The Parasitemic Level of Plasmodium berghei in mice Mus musculus",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 422-426, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3831679943175620026",
+      "cites_id": [
+        "3831679943175620026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological index of rats in Southeast Sulawesi, Indonesia",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3095 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Biodiversity of Anopheles and Malaria Vector Control in Indonesia: A Review",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 101, 04004, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis Resistance of Malathion and Cypermethrin Insecticide on Aedes aegypti (Linnaeus, 1762) from Kaliwungu Kudus and Kotagede Yogyakarta Using CDC Bottle Bioassay",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 02001, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cladogram construction of mosquitos based on morphological characteristics",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 04016, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Existence of Leptospira interrogans on Rats and The Transmission Potency in Public Areas: School, Traditional Market, and Settlement in Yogyakarta",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Tropical and Infectious Disease 11 (2), 12, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potency of Secondary Metabolites from Salacca zalacca, Sonchus arvensis, and Carica papaya against Aedes aegypti L.",
+        "pub_year": "2023",
+        "citation": "Jurnal Penelitian Pendidikan IPA 9 (7), 4931-4937, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic Analysis of Culex tritaeniorhynchus and Culex vishnui Vector of Japanese Encephalitis Virus",
+        "pub_year": "2019",
+        "citation": "Global Medical & Health Communication (GMHC) 7 (3), 189-196, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactivity Study Of Moss Dumortiera Hirsuta (Swaegr.) Nees Ethanolic Extract On Parasitemic Level Of Plasmodium Berghei Vincke And Lips, 1948 In Mice (Mus musculus L.)",
+        "pub_year": "2017",
+        "citation": "Asian Journal of Pharmaceutical and Clinical Research 2017 (07), 5 S/d. 8, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Variability in Geographical Populations Of Cule x quinquefasciatus SA Y (Diptera: Culicidae) From Lymphatic Filariasis Endemic Areas Based on Random Amplified \u2026",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Variability in Geographical Populations Of Culex quinquefasciatus SAY (Diptera: Culicidae) F rom Lymphatic Filariasis Endemic Areas Based on Random Amplified \u2026",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Histological structure of Female Mice's (Mus musculus L.) Kidney Infected Trypanosoma evansi after administration of Meniran (Phyllantus neruri L.) Leaf or Root Extract",
+        "pub_year": "2011",
+        "citation": "2nd International Joint Symposium Frontier in Biomedical  Sciences: From \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eksplorasi Bionomik Nyamuk Vektor dan deteksi Cepat untuk Penentuan Endemisitas Filariasis",
+        "pub_year": "2009",
+        "citation": "Laporan Penelitian. DP2M-DIKT1. Nomor, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proportion of Brugia malayi Infection in Mosquitoes At Rogo and Mahoni Villages in Central Sulawesi",
+        "pub_year": "2004",
+        "citation": "the 9th Biological Science Graduate Congress (9th BSGC) Bangkok Thailand, 1-6, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Antrhopozoonoses Larva Cacing Cestoda (Ordo:Pseudophyllidea) Pada Ekstremitas Posterior Katak (Rana sp.)",
+        "pub_year": "2002",
+        "citation": "Seminar Sehari: Paradigma Baru penanggulangan Penyakit Parasitik dan \u2026, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat Infeksi Larva Procercoid (Cestoda: Pseudophyllidea) Pada Cyclops di Persawahan Sekitar Selokan Mataram Yogyakarta",
+        "pub_year": "2002",
+        "citation": "Seminar Sehari: Paradigma Baru penanggulangan Penyakit Parasitik dan \u2026, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalensi Infeksi Spargana (Cestoda: Pseudophyllidea) pada katak (Rana sp.) dan Kodok (Bufo sp.)",
+        "pub_year": "2002",
+        "citation": "Seminar Sehari: Paradigma Baru penanggulangan Penyakit Parasitik dan \u2026, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh insektisida carbofuran terhadap lama pembelahan Paramecium caudatum Ehrenberg (Protozoa: Ciliata)",
+        "pub_year": "2000",
+        "citation": "Seminar Ilmiah Nasional: dalam Rangka Lustrum ke IX Fakultas Biologi UGM \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diagnosis Askariasis dengan pemeriksaan antibodi pada saliva",
+        "pub_year": "1999",
+        "citation": "Majalah Kedokteran Indonesia/ The Journal of The Indonesian Medical \u2026, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh invasi larva cacing toxocara canis pada struktur histologis beberapa jaringan sasaran: laporan penelitian",
+        "pub_year": "1997",
+        "citation": "Lembaga Penelitian, Universitas Gadjah Mada, Departemen Pendidikan dan \u2026, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Archives of Infectious Diseases & Therapy",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VashVaoAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

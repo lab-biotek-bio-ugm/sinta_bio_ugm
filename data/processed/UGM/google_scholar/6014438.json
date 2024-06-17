@@ -1,0 +1,414 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "dxRdss4AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Abdul Razaq Chasani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dxRdss4AAAAJ&citpid=1",
+  "affiliation": "Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Sistematika Tumbuhan",
+    "Fikologi",
+    "Filogeografi"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 61,
+  "citedby5y": 58,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2018": 3,
+    "2019": 0,
+    "2020": 2,
+    "2021": 8,
+    "2022": 14,
+    "2023": 19,
+    "2024": 15
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MvYFFTEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Agus Suyono",
+      "affiliation": "Algal Culture, Biotechnology & Engineering Expert of Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "F8Z2zHEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anto Rimbawanto",
+      "affiliation": "Principal research scientist"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KlXLZMAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "AYPBC Widyatmoko",
+      "affiliation": "Senior Researcher, Molecular genetics"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aHXVjrsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rahadian Yudo Hartantyo",
+      "affiliation": "Lecturer of Physiology, Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VWGACcQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Laksmindra Fitria",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5ymLcisAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dwi Sartika",
+      "affiliation": "Departemen Biologi Tropika, Fakultas Biologi, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Z7sEZK4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ratna Susandarini",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "sXRwcrIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Siti Subandiyah",
+      "affiliation": "Professor at Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Numerical phenetic and phylogenetic relationships in silico among brown seaweeds (Phaeophyceae) from Gunungkidul, Yogyakarta, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15428169603314380498",
+      "cites_id": [
+        "15428169603314380498"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan Struktur Dan Komposisi Makroalga Di Pantai Drini dan Pantai Krakal",
+        "pub_year": "2020",
+        "citation": "Jurnal Kelautan: Indonesian Journal of Marine Science and Technology 13 (2 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2257651620769179617",
+      "cites_id": [
+        "2257651620769179617"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of structure and composition of seaweeds population in Porok and Greweng Coasts, Gunungkidul, Indonesia",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=457570508138057835",
+      "cites_id": [
+        "457570508138057835"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The anti-bacterial effect of phenolic compounds from three species of marine macroalgae",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11311446047540632606",
+      "cites_id": [
+        "11311446047540632606"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Macroalgae diversity at porok beach, gunungkidul, yogyakarta, Indonesia",
+        "pub_year": "2022",
+        "citation": "Journal of Agriculture and Applied Biology 3 (1), 50-61, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3106399985429176623",
+      "cites_id": [
+        "3106399985429176623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenetic analysis and habitat preferences of wild orchids in Gunung Gajah, Purworejo, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:qjMakFHDy7sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2338634268392067984",
+      "cites_id": [
+        "2338634268392067984"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan kekerabatan antar populasi jati (Tectona grandis, Linn. F.) berdasarkan penanda RAPD (Random amplified polymorphic DNA)",
+        "pub_year": "2013",
+        "citation": "Jurnal Pemuliaan Tanaman Hutan 7 (3), 151-166, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12523613118078545155",
+      "cites_id": [
+        "12523613118078545155"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variability and phylogenetic relationships of Begonia multangula based on atpB-rbcL non-coding spacer of cpDNA sequences",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (10), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10368235549803834230",
+      "cites_id": [
+        "10368235549803834230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of eight maize (Zea mays) cultivars from East Nusa Tenggara (Indonesia) based on inter simple sequence repeat markers",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (8), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8639813371297779799",
+      "cites_id": [
+        "8639813371297779799"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of Macroalgae in the Intertidal Zone of Gili Ketapang Beach, Probolinggo, Jawa Timur, Indonesia",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 98-101, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4001489126109453092",
+      "cites_id": [
+        "4001489126109453092"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ulva lactuca Linnaeus Potentially Promotes Reproductive Indices and Depressive-like Behavior of Hypertriglyceridemia Male Wistar Rats (Rattus norvegicus Berkenhout, 1769)",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (3), 228-238, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477748747292940416",
+      "cites_id": [
+        "16477748747292940416"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Camptostemon philippinensis, a new record of endangered mangrove species in the Balikpapan Bay, East Kalimantan, Indonesia",
+        "pub_year": "2024",
+        "citation": "F1000Research 12, 1394, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:roLk4NBRz8UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6774257055517367099",
+      "cites_id": [
+        "6774257055517367099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity and Phylogenetic Relationships of Mountain Papaya (Vasconcellea pubescens) in Dieng Plateau Based on Internal Transcribed Spacer Sequence",
+        "pub_year": "2023",
+        "citation": "AGRIVITA, Journal of Agricultural Science 45 (3), 600-612, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2304802268319319966",
+      "cites_id": [
+        "2304802268319319966"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and Phenetic Relationship of Mountain Papaya (Vasconcellea Pubescens) in Dieng Plateau Based on Morphological Marker",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (2), 88061, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dietary macroalgae Chaetomorpha linum supplementation improves morphology of small intestine and pectoral muscle, growth performance, and meat quality of broilers",
+        "pub_year": "2024",
+        "citation": "Veterinary World 17 (2), 470, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Macroalgal community structure and composition in intertidal zone of Sarangan Beach, Gunungkidul, Indonesia",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 04010, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "School Community Empowerment Program for Conservation of Riparian Vegetation around the Bedog River in Godean, Sleman",
+        "pub_year": "2023",
+        "citation": "Jurnal Pengabdian kepada Masyarakat (Indonesian Journal of Community \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Numerical Taxonomy of Marine Macroalgae Gracilariaceae from Southern Coast of Gunungkidul Based on Morpho-Anatomical and Phytochemical Characters",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 124-130, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEANEKARAGAMAN DAN KOMPOSISI SPESIES MAKROALGA LAUT PADA TIPOLOGI PANTAI YANG BERBEDA DI KAWASAN PESISIR GUNUNGKIDUL DI YOGYAKARTA",
+        "pub_year": "2021",
+        "citation": "BERITA BIOLOGI 20 (1), 13-21, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The assessment of genetic variability and taxonomic affinity of local pummelo accessions from Yogyakarta, Indonesia based on RAPD",
+        "pub_year": "2014",
+        "citation": "Indonesian Journal of Biotechnology 19 (2), 153-158, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi keragaman genetik dan hubungan kekerabatan Provenan jati (Tectona grandis Linn. f.) menggunakan penanda DNA",
+        "pub_year": "2007",
+        "citation": "Universitas Gadjah Mada, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "dxRdss4AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

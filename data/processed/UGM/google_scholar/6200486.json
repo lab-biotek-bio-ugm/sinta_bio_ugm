@@ -1,0 +1,272 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "9hpBjFQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Akbar Reza",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9hpBjFQAAAAJ&citpid=6",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Tropical Coastal Ecosystem",
+    "Community Dynamics",
+    "Human-Dimension",
+    "Socio-Ecological System",
+    "Management"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 56,
+  "citedby5y": 53,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2018": 3,
+    "2019": 1,
+    "2020": 3,
+    "2021": 11,
+    "2022": 15,
+    "2023": 18,
+    "2024": 4
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "W5C6h9AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Retno Peni Sancayaningsih",
+      "affiliation": "Laboratory of Ecology and Conservation"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "h4zfZSIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Suwarno Hadisusanto",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MD9koIMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dwinda Mariska Putri",
+      "affiliation": "National Research and Innovation Agency"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zzz61bUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ahmad Suyoko",
+      "affiliation": "Centre for Regenerative Medicine, The University of Edinburgh"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YdvSSBEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rury Eprilurahman",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "f2zADhgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nick Paul",
+      "affiliation": "Professor, University of the Sunshine Coast, Australia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XyTEFDYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Imran Lapong",
+      "affiliation": "Sekolah Tinggi Teknologi Kelautan Makassar"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "QM-qHH4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Edi Suryanto",
+      "affiliation": "Faculty of Animal Science, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "34Rwe5QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nur Faizah, S.Si., M.Biomed.",
+      "affiliation": "Master of Biomedical Science, UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "excmegUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Annas Rabbani",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ifOzc-4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Faradlina Mufti",
+      "affiliation": ""
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Measurement of microplastic density in the Karimunjawa National Park, Central Java, Indonesia",
+        "pub_year": "2018",
+        "citation": "Indo Pacific Journal of Ocean Life 2 (2), 54-58, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8346610233051248551",
+      "cites_id": [
+        "8346610233051248551"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of sea grapes (Caulerpa lentillifera) from Vietnamese company\u2019s products",
+        "pub_year": "2019",
+        "citation": "Marina Chimica Acta 20 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6337311064258055082",
+      "cites_id": [
+        "6337311064258055082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community empowerment program in Pinogu Subdistrict, Bone Bolango Regency, Gorontalo Province, Indonesia: Concerning to the unique biodiversity conservation",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Community Engagement 1 (2), 183-193, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18130975129415756190",
+      "cites_id": [
+        "18130975129415756190"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity, distribution and abundance of scleractinian coral in district-based marine protected Area Olele, Bone Bolango, Gorontalo-Indonesia",
+        "pub_year": "2017",
+        "citation": "KnE Life Sciences, 14-27, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11015113894346630032",
+      "cites_id": [
+        "11015113894346630032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity monitoring as a baseline for PROPER biodiversity protection program of PT. Geo Dipa Energi Dieng, Central Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (9), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13779775661966560099",
+      "cites_id": [
+        "13779775661966560099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community of phytoplankton in peatland canal, Riau, and wet dune slacks of Parangtritis, Yogyakarta, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (5), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3322865886496571225",
+      "cites_id": [
+        "3322865886496571225"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation Hope and Threat of Mangrove Restoration Program in Bogowonto Lagoon, Yogyakarta-Indonesia (2002-2014)",
+        "pub_year": "2017",
+        "citation": "KnE Life Sciences, 1-13, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13355857762044807188",
+      "cites_id": [
+        "13355857762044807188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Restoring Tropical Forests: Implementing an online module in an undergraduate biology course in Indonesia",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aquatic biodiversity in a pond on the airport landside areas through environmental DNA metabarcoding: Implementation for Aviation Security Management",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (7), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "9hpBjFQAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

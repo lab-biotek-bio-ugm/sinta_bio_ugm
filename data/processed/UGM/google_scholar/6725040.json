@@ -1,0 +1,318 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "LqNqu6UAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Aprilia Sufi Subiastuti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LqNqu6UAAAAJ&citpid=2",
+  "affiliation": "Doctor of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Virology",
+    "Plant Virology",
+    "Molecular Systematic",
+    "Plant Microbe",
+    "Viral Disease Management"
+  ],
+  "email_domain": "@mail.ugm.ac.id",
+  "citedby": 89,
+  "citedby5y": 89,
+  "hindex": 4,
+  "hindex5y": 4,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2020": 12,
+    "2021": 14,
+    "2022": 17,
+    "2023": 29,
+    "2024": 17
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6ImOpxkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Setiadi Daryono",
+      "affiliation": "Dosen Genetika dan Dekan  Fakultas Biologi UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Nt3OT2EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wiko Arif Wibowo",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9W1XKXoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sedyo Hartono",
+      "affiliation": "Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mS2Tv44AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Prasetya",
+      "affiliation": "Universitas Negeri Medan"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "83cid2AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yasir Sidiq",
+      "affiliation": "Universitas Muhammadiyah Surakarta"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection and identification of Begomovirus infecting Cucurbitaceae and Solanaceae in Yogyakarta, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (3), 738-744, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7887307323980301174",
+      "cites_id": [
+        "7887307323980301174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenotypic and genetic stability of new Indonesian melon cultivar (Cucumis melo L.\u2018Melonia\u2019) based on ISSR markers",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (4), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10733874304694037659",
+      "cites_id": [
+        "10733874304694037659"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bio-catharantin effects on phenotypic traits and chromosome number of shallots (Allium cepa L. var. Ascalonicum 'Tajuk').",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11429686971643446593",
+      "cites_id": [
+        "11429686971643446593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological studies of stability and identity of melon (Cucumis melo L.)\u2018Hikapel\u2019and comparative cultivars",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13619123843397193002",
+      "cites_id": [
+        "13619123843397193002"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of ethepon treatment on the formation of flower in melon (Cucumis melo L.)",
+        "pub_year": "2018",
+        "citation": "Proceeding of the ICTA, In Proceeding of the 2nd International Conference on \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14528097685092770448",
+      "cites_id": [
+        "14528097685092770448"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan pekarangan dan limbah rumah tangga untuk budidaya lele sebagai upaya memenuhi pangan keluarga selama pandemi covid-19",
+        "pub_year": "2022",
+        "citation": "Jurnal Inovasi Hasil Pengabdian Masyarakat (JIPEMAS) 5 (1), 1-10, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15374699346647297013",
+      "cites_id": [
+        "15374699346647297013"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of Resistance Against Begomovirus Using a SCAR Marker in Melon (Cucumis melo L. cv. Hikapel)",
+        "pub_year": "2017",
+        "citation": "Proceeding of the 1st International Conference on Tropical Agriculture, 13-21, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7292993553702371655",
+      "cites_id": [
+        "7292993553702371655"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Maggot Sebagai Pakan Alternatif Budidaya Nila pada Kawasan Agrowisata Minapadi",
+        "pub_year": "2022",
+        "citation": "JMM (Jurnal Masyarakat Mandiri) 6 (6), 4498-4505, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8207471963729343978",
+      "cites_id": [
+        "8207471963729343978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of ISSR-based Molecular Markers Associated with Ploidy Level of Orange Watermelon (Citrullus lanatus (Thunb.) Matsum & Nakai)",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 6 (3), 61858, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7780987209037301110",
+      "cites_id": [
+        "7780987209037301110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of Begomovirus infection on phenotypic characters of Cucumis melo L.\u2018Melona\u2019",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:qjMakFHDy7sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8867137938274261528",
+      "cites_id": [
+        "8867137938274261528"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of SCAR Marker Linked to Begomovirus Resistance in Melon (Cucumis melo L.).",
+        "pub_year": "2020",
+        "citation": "Jordan Journal of Biological Sciences 13 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11753584499093507479",
+      "cites_id": [
+        "11753584499093507479"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Masa Depan Biodiversitas Indonesia di Era Metaverse",
+        "pub_year": "2023",
+        "citation": "Uwais inspirasi indonesia, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15610687152518689456",
+      "cites_id": [
+        "15610687152518689456"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Screen House on Disease Severity and Coat Protein Diversity of Begomovirus-infected Capsicum frutescens L.'Cempluk'from Indonesia.",
+        "pub_year": "2021",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 44 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12486144347644066969",
+      "cites_id": [
+        "12486144347644066969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOLOGICAL RESPONSE AND MOLECULAR IDENTIFICATION OF THE BEGOMOVIRUS INFECTION IN THE NEW INDONESIAN MELON GENOTYPE KINAYA",
+        "pub_year": "2023",
+        "citation": "Pakistan Journal of Phytopathology 35 (2), 223-234, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stability of watermelon phenotype characters (Citrullus lanatus (Thunb.) Matsum. & Nakai) from crossing\u2640\u2018Putri Delima\u2019with\u2642\u2018Maduri\u2019",
+        "pub_year": "2021",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 9 (1), 50-56, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "LqNqu6UAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

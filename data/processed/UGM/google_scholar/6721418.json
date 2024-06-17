@@ -1,0 +1,84 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "d6My7UEAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Novita Yustinadiar",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=d6My7UEAAAAJ&citpid=1",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant Anatomy",
+    "Plant Structure and Development",
+    "Plant Microtechnique",
+    "Microalgae culture",
+    "Photobioreactor"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 26,
+  "citedby5y": 26,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2021": 6,
+    "2022": 9,
+    "2023": 8,
+    "2024": 3
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced biomass productivity of microalgae Nannochloropsis sp. in an airlift photobioreactor using low-frequency flashing light with blue LED",
+        "pub_year": "2020",
+        "citation": "Bioresources and Bioprocessing 7, 1-15, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "d6My7UEAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3628403709978244847",
+      "cites_id": [
+        "3628403709978244847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH FLASHING LIGHT DALAM  PENINGKATAN  PRODUKSI BIOMASSA MIKROALGA Nannochloropsis sp. PADA AIRLIFT FOTOBIOREAKTOR DENGAN SISTEM BATCH CULTURE",
+        "pub_year": "2013",
+        "citation": "Institute Teknologi Bandung, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "d6My7UEAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PENAMBAHAN 'SUPER ABSORBENT POLYMER' PADA MEDIA TUMBUH CAMPURAN ZEOLIT DAN KOMPOS TERHADAP PERTUMBUHAN TANAMAN MILLET PUTIH (Panicum miliaceum L.)",
+        "pub_year": "2009",
+        "citation": "Institut Teknologi Bandung, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "d6My7UEAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

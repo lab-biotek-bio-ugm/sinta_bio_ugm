@@ -1,0 +1,302 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "RCmY9RQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tyas Ikhsan Hikmawan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RCmY9RQAAAAJ&citpid=3",
+  "affiliation": "Faculty of Biology, Gadjah Mada University",
+  "interests": [
+    "Microbial ecology",
+    "Extremophiles",
+    "Marine ecology"
+  ],
+  "email_domain": "@kaust.edu.sa",
+  "citedby": 292,
+  "citedby5y": 172,
+  "hindex": 6,
+  "hindex5y": 5,
+  "i10index": 5,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2013": 2,
+    "2014": 4,
+    "2015": 29,
+    "2016": 22,
+    "2017": 27,
+    "2018": 32,
+    "2019": 33,
+    "2020": 26,
+    "2021": 26,
+    "2022": 45,
+    "2023": 28,
+    "2024": 14
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mXjQ2N8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ulrich Stingl",
+      "affiliation": "Asst Professor for Microbial Ecology, University of Florida"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "blJPHy4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Andr\u00e9 Antunes",
+      "affiliation": "Associate Prof, Macau University of Science and Technology (State Key Lab of Lunar and Planetary Sci"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "FjXM8FoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "David Kamanda Ngugi",
+      "affiliation": "Junior Group Leader"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ElM1rCAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mandeep Kaur",
+      "affiliation": "University of the Witwatersrand, South Africa"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nuyF7nYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sunil Sagar",
+      "affiliation": "Research Scientist, King Abdullah University of Science & Technology, Kingdom of Saudi Arabia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gTAXIO4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rania Siam",
+      "affiliation": "American University in Cairo"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rWbAdH8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mamoon Rashid",
+      "affiliation": "King Abdullah International Medical Research Center, National Guard Health Affair"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative genomics reveals adaptations of a halotolerant thaumarchaeon in the interfaces of brine pools in the Red Sea",
+        "pub_year": "2015",
+        "citation": "The ISME journal 9 (2), 396-411, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 77,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3184525465191856927",
+      "cites_id": [
+        "3184525465191856927"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of methanogens and sulfate-reducing bacteria in the interfaces of five deep-sea anoxic brines of the Red Sea",
+        "pub_year": "2015",
+        "citation": "Research in microbiology 166 (9), 688-699, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 56,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1904433167889504024",
+      "cites_id": [
+        "1904433167889504024"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytotoxic and apoptotic evaluations of marine bacteria isolated from brine-seawater interface of the Red Sea",
+        "pub_year": "2013",
+        "citation": "BMC complementary and Alternative medicine 13, 1-8, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 53,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14789931801304855466",
+      "cites_id": [
+        "14789931801304855466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of apoptosis in cancer cell lines by the Red Sea brine pool bacterial extracts",
+        "pub_year": "2013",
+        "citation": "BMC Complementary and Alternative Medicine 13, 1-12, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14994273868422119940",
+      "cites_id": [
+        "14994273868422119940"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Translational molecular ecology in practice: linking DNA-based methods to actionable marine environmental management",
+        "pub_year": "2020",
+        "citation": "Science of the Total Environment 744, 140780, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:nrtMV_XWKgEC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4445692447917057703",
+      "cites_id": [
+        "4445692447917057703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Draft Genome Sequences of Two Thiomicrospira Strains Isolated from the Brine-Seawater Interface of Kebrit Deep in the Red Sea",
+        "pub_year": "2016",
+        "citation": "Genome Announcements 4 (2), e00110-16, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:VLnqNzywnoUC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13632255582589727506,3114759348980649763",
+      "cites_id": [
+        "13632255582589727506",
+        "3114759348980649763"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial and temporal variability in the phytoplankton community of the Western Arabian Gulf and its regulation by physicochemical factors and zooplankton",
+        "pub_year": "2021",
+        "citation": "Regional Studies in Marine Science 47, 101982, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:EkHepimYqZsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5458241292426050257",
+      "cites_id": [
+        "5458241292426050257"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity, distribution, and density of marine mammals along the Saudi waters of the Arabian gulf: update from a multi-method approach",
+        "pub_year": "2021",
+        "citation": "Frontiers in Marine Science 8, 687445, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14862132366617780814",
+      "cites_id": [
+        "14862132366617780814"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marine Litter Survey at the Major Sea Turtle Nesting Islands in the Arabian Gulf Using In-Situ and Remote Sensing Methods",
+        "pub_year": "2021",
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 8582 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:zLWjf1WUPmwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15311354930173162950",
+      "cites_id": [
+        "15311354930173162950"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Haloferax profundi sp. nov. and Haloferax marisrubri sp. nov., Isolated from the Discovery Deep Brine-Seawater Interface in the Red Sea",
+        "pub_year": "2020",
+        "citation": "Microorganisms 8 (10), 1475, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:yB1At4FlUx8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5608242209435849095",
+      "cites_id": [
+        "5608242209435849095"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water quality sampler",
+        "pub_year": "2023",
+        "citation": "US Patent 11,782,044, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:URolC5Kub84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of zooplankton to a phytoplankton bloom in coastal waters of the Western Arabian Gulf",
+        "pub_year": "2019",
+        "citation": "INTEGRATIVE AND COMPARATIVE BIOLOGY 59, E289-E289, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supplementary Materials Haloferax profundi sp. nov. and Haloferax marisrubri sp. nov., Isolated from the Discovery Deep Brine-Seawater Interface in the Red Sea",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "RCmY9RQAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "source": "SEARCH_AUTHOR_SNIPPETS",
+  "scholar_id": "E85U-A4AAAAJ",
+  "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=E85U-A4AAAAJ",
+  "name": "Matin Nuhamunada",
+  "affiliation": "PhD Student, DTU Biosustain",
+  "email_domain": "@biosustain.dtu.dk",
+  "interests": [],
+  "citedby": 97,
+  "homepage": "https://orbit.dtu.dk/en/persons/matin-nuhamunada",
+  "citedby5y": 86,
+  "hindex": 6,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2016": 1,
+    "2017": 3,
+    "2018": 6,
+    "2019": 1,
+    "2020": 12,
+    "2021": 9,
+    "2022": 16,
+    "2023": 28,
+    "2024": 20
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MvYFFTEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Agus Suyono",
+      "affiliation": "Algal Culture, Biotechnology & Engineering Expert of Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IWBSUNwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nastiti Wijayanti",
+      "affiliation": "Justus Liebig University and Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KuOZZSAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tilmann Weber",
+      "affiliation": "Professor / Associate Scientific Director @ DTU Biosustain, Technical University of Denmark"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "g13UiaYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Omkar Mohite",
+      "affiliation": "Senior Bioinformatician, Bactobio Ltd."
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1G5y0UsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Lisna Hidayati",
+      "affiliation": "Lecturer of Faculty of Biology, Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of salinity on growth, dry weight and lipid content of the mixed microalgae culture isolated from Glagah as biodiesel substrate",
+        "pub_year": "2015",
+        "citation": "Journal of Life Sciences 9, 229-233, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4217747701264892394",
+      "cites_id": [
+        "4217747701264892394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of SARS-CoV-2 spike protein D614G mutation by qPCR-HRM analysis",
+        "pub_year": "2021",
+        "citation": "Heliyon 7 (9), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16967978932607056687",
+      "cites_id": [
+        "16967978932607056687"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Long-read metagenome-assembled genomes improve identification of novel complete biosynthetic gene clusters in a complex microbial activated sludge ecosystem",
+        "pub_year": "2022",
+        "citation": "Msystems 7 (6), e00632-22, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14232244268024784408",
+      "cites_id": [
+        "14232244268024784408"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UmetaFlow: an untargeted metabolomics workflow for high-throughput data processing and analysis",
+        "pub_year": "2023",
+        "citation": "Journal of Cheminformatics 15 (1), 52, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18290409370610890473",
+      "cites_id": [
+        "18290409370610890473"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipid Content from Monoculture of Micro Algae Chlorella zofingiensis D\u00f6nz and mixed culture of Glagah isolate in laboratory scale and raceway pond for biodiesel production",
+        "pub_year": "2016",
+        "citation": "Asian Journal of Microbiology, Biotechnology and Environmental Sciences 18 \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15894213738027562204",
+      "cites_id": [
+        "15894213738027562204"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The toughest recorded spider egg case silks are woven into composites with tear-resistant architectures",
+        "pub_year": "2016",
+        "citation": "Materials Science and Engineering: C 69, 195-199, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4599739430347906071",
+      "cites_id": [
+        "4599739430347906071"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evolutionary dynamics of SARS-CoV-2 circulating in Yogyakarta and Central Java, Indonesia: sequence analysis covering furin cleavage site (FCS) region of the spike protein",
+        "pub_year": "2022",
+        "citation": "International Microbiology 25 (3), 531-540, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4987603618405266128",
+      "cites_id": [
+        "4987603618405266128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico vaccine design against dengue virus type 2 envelope glycoprotein",
+        "pub_year": "2020",
+        "citation": "Hayati Journal of Biosciences 27 (3), 228-228, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5548995720390410817",
+      "cites_id": [
+        "5548995720390410817"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Glass coating natural fibres by diatomisation: A bright future for biofouling technology",
+        "pub_year": "2016",
+        "citation": "Materials Today Communications 7, 81-88, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8490224642757435122",
+      "cites_id": [
+        "8490224642757435122"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BGCFlow: systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets",
+        "pub_year": "2024",
+        "citation": "Nucleic Acids Research 52 (10), 5478-5495, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3000952209844920245",
+      "cites_id": [
+        "3000952209844920245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The high mutation rate at the D614G hotspot-furin cleavage site region increases the priming efficiency of the Spike protein by furin protease: analysis of Indonesian SARS-CoV \u2026",
+        "pub_year": "2023",
+        "citation": "Virusdisease 34 (2), 321-330, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10745381795304798884",
+      "cites_id": [
+        "10745381795304798884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2020",
+        "citation": "Journal of Biosciences 27 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:Se3iqnhoufwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13159455440109778657",
+      "cites_id": [
+        "13159455440109778657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Self-assembly of cellular micro-bio machine parts",
+        "pub_year": "2020",
+        "citation": "Journal of Micro-Bio Robotics 16, 111-121, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=686521601447327190",
+      "cites_id": [
+        "686521601447327190"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data mining and comparative analysis of human skin microbiome from EBI metagenomics database",
+        "pub_year": "2018",
+        "citation": "2018 1st International Conference on Bioinformatics, Biotechnology, and \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2303080807896745619",
+      "cites_id": [
+        "2303080807896745619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pigments characterization of macroalgae in Drini Beach, Gunungkidul, Yogyakarta for systematics study",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 294-299, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7564168195970851484",
+      "cites_id": [
+        "7564168195970851484"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A treasure trove of 1,034 actinomycete genomes",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.01. 16.574955, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expanding the genome information on Bacillales for biosynthetic gene cluster discovery",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.04. 24.590912, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of vancomycin on the growth and microbial dynamics of microalgae-bacteria consortium isolated from Glagah Beach, Yogyakarta",
+        "pub_year": "2020",
+        "citation": "Ecology, Environment and Conservation 26, S1-S7, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KANDUNGAN LIPID MIKROALGA KULTUR TUNGGAL Chlorella zofingiensis Donz DAN KULTUR CAMPURAN ISOLAT GLAGAH DALAM SKALA LABORATORIUM DAN RACEWAY POND",
+        "pub_year": "2014",
+        "citation": "Universitas Gadjah Mada, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "E85U-A4AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 3,
+    "not_available": 0
+  }
+}

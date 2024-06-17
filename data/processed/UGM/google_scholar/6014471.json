@@ -1,0 +1,219 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "KRVCCcgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Mukhlish Jamal Musa Holle",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KRVCCcgAAAAJ&citpid=7",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Ecology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 32,
+  "citedby5y": 32,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2019": 5,
+    "2020": 0,
+    "2021": 2,
+    "2022": 9,
+    "2023": 10,
+    "2024": 6
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "WxCX_lAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Shiro Tsuyuzaki",
+      "affiliation": "Graduate School of Environmental Earth Science, Hokkaido University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fifteen emerging challenges and opportunities for vegetation science: A horizon scan by early career researchers",
+        "pub_year": "2022",
+        "citation": "Journal of Vegetation Science 33 (1), e13119, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:IWHjjKOFINEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6382629269728292474",
+      "cites_id": [
+        "6382629269728292474"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of shrub patch sizes on the colonization of pioneer plants on the volcano Mount Koma, northern Japan",
+        "pub_year": "2018",
+        "citation": "Acta oecologica 93, 48-55, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=205045220333104448",
+      "cites_id": [
+        "205045220333104448"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytotoxic activity and apoptotic induction of leaves and fruit extract of screw pine (Pandanus tectorius) to T47D cell line",
+        "pub_year": "2013",
+        "citation": "The 1st Annual International Scholars Conference in Taiwan., April, 580-586, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:qjMakFHDy7sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13617282362349075448",
+      "cites_id": [
+        "13617282362349075448"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The gap between policy and practice for human rights in conservation: a case study in Papua Province, Indonesia",
+        "pub_year": "2023",
+        "citation": "Oryx 57 (3), 360-369, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:VjBpw8Hezy4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11101145098027736703",
+      "cites_id": [
+        "11101145098027736703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "What evidence exists on the relationship between agricultural production and biodiversity in tropical rainforest areas? A systematic map protocol",
+        "pub_year": "2021",
+        "citation": "Environmental Evidence 10, 1-13, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17603673556363453520",
+      "cites_id": [
+        "17603673556363453520"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CYTOTOXIC EFFECT OF AQUADEST, ETHANOLIC, AND CHLOROFORM EXTRACTS OF Spathoglottis plicata Blume ON BREAST CANCER CELLS LINE (T47D CELLS)",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences 2 (1), 64-69, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15575489146342812265",
+      "cites_id": [
+        "15575489146342812265"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A systematic map of evidence on the relationship between agricultural production and biodiversity in tropical rainforest areas",
+        "pub_year": "2024",
+        "citation": "Environmental Evidence 13 (1), 17, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:DGzKIA18-3YC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring the future of vegetable oils",
+        "pub_year": "2024",
+        "citation": "IUCN, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:J4E9jCG1tHUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Understanding Author Publishing Choices for Conservation Journals",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.08. 24.554591, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:HKviVsUxM5wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Altered litter and cellulose decomposition across an anthropogenic habitat modification gradient in Sulawesi, Indonesia",
+        "pub_year": "2022",
+        "citation": "bioRxiv, 2022.09. 02.506341, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tropical agroecosystem functions in a changing environment",
+        "pub_year": "2022",
+        "citation": "University of Oxford, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:cF7EPgIk0B4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STRUCTURE AND DIVERSITY OF URBAN FORESTS IN MALANG CITY, INDONESIA",
+        "pub_year": "2016",
+        "citation": "53rd Annual Meeting of Association for Tropical Biology and Conservation, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "KRVCCcgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 3,
+    "not_available": 0
+  }
+}

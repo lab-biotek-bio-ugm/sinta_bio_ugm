@@ -1,0 +1,165 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "3KjocbAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Arief Muammar",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3KjocbAAAAAJ&citpid=1",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Microbiology"
+  ],
+  "email_domain": "@mail.ugm.ac.id",
+  "citedby": 10,
+  "citedby5y": 10,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2021": 4,
+    "2022": 0,
+    "2023": 3,
+    "2024": 3
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "imwRiIsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Endah Retnaningrum",
+      "affiliation": "Prof. of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vGCkhYcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Niken Satuti Nur Handayani",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of Cellulolytic Microbes from Bio-Slurry",
+        "pub_year": "2021",
+        "citation": "Eksakta: Berkala Ilmiah Bidang MIPA (E-ISSN: 2549-7464) 22 (1), 27-34, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10938959747071792192",
+      "cites_id": [
+        "10938959747071792192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellobiohydrolase A (CBHA) gene cloning from Aspergillus niger to the yeast expression vector as a stages to create cellulosic ethanol strain",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16290475946507036641",
+      "cites_id": [
+        "16290475946507036641"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recognition of tRNAHis in an RNase P-Free Nanoarchaeum",
+        "pub_year": "2023",
+        "citation": "Microbiology Spectrum 11 (2), e04621-22, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5259306465492377253",
+      "cites_id": [
+        "5259306465492377253"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insertion of cellulase gene in yeast expression vector (pYY1 and pWYH257 Plasmid) as a candidate for cellulosic ethanol-producing strain",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (5), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u9175\u6bcd\u83cc biotin protein ligase \u5c0d histones biotinylation \u7684\u7814\u7a76",
+        "pub_year": "2016",
+        "citation": "National Central University, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modulating the Structure and Function of an Aminoacyl-Trna Synthetase  Cofactor by Biotinylation",
+        "pub_year": "2016",
+        "citation": "Global Conference on Life Science and Biological Engineering, 2, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Inheritance of Phenotype Character on Chickens (Gallus gallus domesticus, Linnaeus 1758) Derived from Crosses Between Backcross First Generation Chickens (BC1)",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS FENOTIP DAN PLOIDI TANAMAN MELON (Cucumis melo L.) KULTIVAR HIKADI HASIL PERENDAMAN EKSTRAK DAUN TAPAK DARA (Catharanthus roseus [L] G. Don.)",
+        "pub_year": "2013",
+        "citation": "Universitas Gadjah Mada, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "3KjocbAAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

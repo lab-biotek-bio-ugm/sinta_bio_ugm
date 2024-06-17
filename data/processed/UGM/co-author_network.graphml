@@ -1,0 +1,2601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="affiliation" attr.type="string"/>
+<key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="role" attr.type="string"/>
+<graph edgedefault="directed"><node id="TSsPJDEAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Abdul Rahman Siregar</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="p0YrSy0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Stefan Pöhlmann</data>
+  <data key="d2">Leiter der Abteilung Infektionsbiologie, Deutsches Primatenzentrum</data>
+</node>
+<node id="IWBSUNwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Nastiti Wijayanti</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="E4um8egAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">TRI WIBAWA</data>
+  <data key="d2">Faculty of Medicine Public Health and Nursing, Universitas Gadjah Mada</data>
+</node>
+<node id="dxRdss4AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Abdul Razaq Chasani</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="MvYFFTEAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Eko Agus Suyono</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="F8Z2zHEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Anto Rimbawanto</data>
+  <data key="d2">Principal research scientist</data>
+</node>
+<node id="KlXLZMAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">AYPBC Widyatmoko</data>
+  <data key="d2">Senior Researcher, Molecular genetics</data>
+</node>
+<node id="aHXVjrsAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Rahadian Yudo Hartantyo</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="VWGACcQAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Laksmindra Fitria</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="5ymLcisAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dwi Sartika</data>
+  <data key="d2">Departemen Biologi Tropika, Fakultas Biologi, Universitas Gadjah Mada</data>
+</node>
+<node id="Z7sEZK4AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Ratna Susandarini</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="sXRwcrIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Siti Subandiyah</data>
+  <data key="d2">Professor at Universitas Gadjah Mada</data>
+</node>
+<node id="9hpBjFQAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Akbar Reza</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="W5C6h9AAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Retno Peni Sancayaningsih</data>
+  <data key="d2">Laboratory of Ecology and Conservation</data>
+</node>
+<node id="h4zfZSIAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Suwarno Hadisusanto</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="MD9koIMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dwinda Mariska Putri</data>
+  <data key="d2">National Research and Innovation Agency</data>
+</node>
+<node id="zzz61bUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ahmad Suyoko</data>
+  <data key="d2">Centre for Regenerative Medicine, The University of Edinburgh</data>
+</node>
+<node id="YdvSSBEAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Rury Eprilurahman</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="f2zADhgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nick Paul</data>
+  <data key="d2">Professor, University of the Sunshine Coast, Australia</data>
+</node>
+<node id="XyTEFDYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Imran Lapong</data>
+  <data key="d2">Sekolah Tinggi Teknologi Kelautan Makassar</data>
+</node>
+<node id="QM-qHH4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Edi Suryanto</data>
+  <data key="d2">Faculty of Animal Science, Universitas Gadjah Mada</data>
+</node>
+<node id="34Rwe5QAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nur Faizah, S.Si., M.Biomed.</data>
+  <data key="d2">Master of Biomedical Science, UGM</data>
+</node>
+<node id="excmegUAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Annas Rabbani</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="ifOzc-4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Faradlina Mufti</data>
+  <data key="d2"></data>
+</node>
+<node id="Yk9_c94AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Andhika Puspito Nugroho</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="LqNqu6UAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Aprilia Sufi Subiastuti</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="6ImOpxkAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Budi Setiadi Daryono</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="Nt3OT2EAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Wiko Arif Wibowo</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="9W1XKXoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sedyo Hartono</data>
+  <data key="d2">Gadjah Mada University</data>
+</node>
+<node id="mS2Tv44AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Eko Prasetya</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="83cid2AAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Yasir Sidiq</data>
+  <data key="d2">Universitas Muhammadiyah Surakarta</data>
+</node>
+<node id="asPm8Q0AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Ardaning Nuriliani</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="3KjocbAAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Arief Muammar</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="imwRiIsAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Endah Retnaningrum</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="vGCkhYcAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Niken Satuti Nur Handayani</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="Nfo6rbwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Aries Bagus Sasongko</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="wmsORQkAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Bambang Agus Suripto</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="cBX80sYAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Bambang Retnoaji</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="uafT9kgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Parvez Alam</data>
+  <data key="d2">Reader at The University of Edinburgh, UK</data>
+</node>
+<node id="Ij6ILSUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Adhityo Wicaksono</data>
+  <data key="d2">Postdoctoral Researcher, Dept. of Biochemistry, Faculty of Science, Chulalongkorn …</data>
+</node>
+<node id="Ynebb8kAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Saifullah Hidayat</data>
+  <data key="d2">Department of Biology Education, UIN Walisongo, Semarang, Indonesia</data>
+</node>
+<node id="qLOIZhkAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Luthfi Nurhidayat</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="iRp3uCAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Anita Restu Puji Raharjeng</data>
+  <data key="d2">UIN Raden Fatah Palembang</data>
+</node>
+<node id="t4LrsqoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">RC Hidayat Soesilohadi</data>
+  <data key="d2">Faculty of Biology Universitas Gadjah Mada</data>
+</node>
+<node id="kjPCDGYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Boby Muslimin</data>
+  <data key="d2">National Research and Innovation Agency (BRIN)</data>
+</node>
+<node id="_zDWrqkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Agung Endro Nugroho</data>
+  <data key="d2">Professor of Pharmacology, Faculty of Pharmacy, Universitas Gadjah Mada</data>
+</node>
+<node id="j6oArY4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ika Dewi Ana (ORCID ID: 0000-0001-9957-4247)</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="q6qPFe8AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Nur Indah Septriani</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="blP_GPIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nanang Fakhrudin</data>
+  <data key="d2">Faculty of Pharmacy, Universitas Gadjah Mada</data>
+</node>
+<node id="T4ybZUAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Swastika Oktavia</data>
+  <data key="d2">Universitas Mathla'ul Anwar Banten</data>
+</node>
+<node id="d3AbyHAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Colin Robert</data>
+  <data key="d2">Lecturer, Materials Science and Engineering, University of Sheffield</data>
+</node>
+<node id="8i4T1wEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Lailiana Garna Nurhidayati</data>
+  <data key="d2">Lecturer of Pharmacy, Universitas Bhamada Slawi</data>
+</node>
+<node id="wa9UlrgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ryutaro Akiyama</data>
+  <data key="d2">Nara Institute of Science and Technology</data>
+</node>
+<node id="z0-S85wAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Zulfadhli</data>
+  <data key="d2">Universitas Teuku Umar</data>
+</node>
+<node id="Jgl2UPMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Adolfo Rivero-Müller</data>
+  <data key="d2">Medical University of Lublin</data>
+</node>
+<node id="10W8sxMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sayati Mandia</data>
+  <data key="d2">Apikes Iris, Universitas Andalas, Universitas Gajah Mada</data>
+</node>
+<node id="d3e0necAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hari Marta Saputra</data>
+  <data key="d2">Department of Biology, Faculty of Mathematics and Natural Sciences, Bengkulu University</data>
+</node>
+<node id="Uryl430AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Zainuddin LUBIS</data>
+  <data key="d2">Lecturer Of Geomatics Engineering, Politeknik Negeri Batam</data>
+</node>
+<node id="Py6tS9QAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Amir Husni</data>
+  <data key="d2">Departemen Perikanan Fakultas Pertanian Universitas Gadjah Mada</data>
+</node>
+<node id="GFDVy2YAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Yessi Ayu Putri Manganang</data>
+  <data key="d2">Politeknik Negeri Nusa Utara</data>
+</node>
+<node id="BcGzILwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Slamet Widiyanto</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="Ah32njAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Chinthaka Hewavitharane (PhD)</data>
+  <data key="d2">Pacific Community (SPC)</data>
+</node>
+<node id="L1e9n7wAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Karunia Galih Permadani</data>
+  <data key="d2">Pendidikan Biologi</data>
+</node>
+<node id="nXtbTw8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Reza Pertiwi</data>
+  <data key="d2">Universitas Bengkulu</data>
+</node>
+<node id="0VfYnp0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sudarsono</data>
+  <data key="d2">STKIP BIMA</data>
+</node>
+<node id="7KGP6IUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Yuny Erwanto</data>
+  <data key="d2">Gadjah Mada University</data>
+</node>
+<node id="j8LfK8cAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">sri yulianto joko prasetyo</data>
+  <data key="d2">Fakultas Teknologi Informasi UKSW Salatiga</data>
+</node>
+<node id="Hp95hn4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dyah Ayu Widiasih</data>
+  <data key="d2">Veterinary Public Health, Faculty of Veterinary Medicine, Gadjah Mada University</data>
+</node>
+<node id="1MqjpUwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Tri Rini Nuringtyas</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="DL_mMUIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Wisnu Nurcahyo</data>
+  <data key="d2">Professor. Department of Veterinary Parasitology. Universitas Gadjah Mada</data>
+</node>
+<node id="CcWjaZIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Gusti Ngurah Mahardika</data>
+  <data key="d2">Faculty of Veterinary Medicine or Fakultas Kedokteran Hewan, Udayana University, Bali-Indonesia</data>
+</node>
+<node id="ZV0MTQkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Isna Rasdianah Aziz</data>
+  <data key="d2">Lecturer Department of Biology, Faculty of Science and Technology, Universitas Islam Negeri Alauddin</data>
+</node>
+<node id="_wk2Pg4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Irfan Dwidya Prijambada</data>
+  <data key="d2">Professor of Environmental Biotechnology, Universitas Gadjah Mada</data>
+</node>
+<node id="ds53YvcAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Diah Rachmawati</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="1Yr2wBEAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Dila Hening Windyaraini</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="bqZRdngAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Donan Satria Yudha</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="MldxL2UAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Trijoko</data>
+  <data key="d2">Faculty of Biology, Universitas Gadjah Mada</data>
+</node>
+<node id="rlIm50gAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Dwi Sendi Priyono</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="rUkCzPIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rusyad Adi Suriyanto</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="TFptHqkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Alfonsus Toribio Eko Saputro</data>
+  <data key="d2"></data>
+</node>
+<node id="_vVCy3AAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Aaron Bauer</data>
+  <data key="d2">Professor of Biology, Villanova University</data>
+</node>
+<node id="xB2wQl4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Evy Arida</data>
+  <data key="d2">Research Center for Applied Zoology - BRIN</data>
+</node>
+<node id="SCFoxrwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sri Nopitasari</data>
+  <data key="d2">Faculty of Biology, Universitas Gadjah Mada</data>
+</node>
+<node id="JZxpXsUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Aisyah Arimbi</data>
+  <data key="d2">Wildlife Conservation Society</data>
+</node>
+<node id="eOmD_SIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Maslim As-singkily</data>
+  <data key="d2">Wageningen University</data>
+</node>
+<node id="hSQF7MIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">didit hadi Barianto</data>
+  <data key="d2">Senior lecturer of geology Gadjah Mada University</data>
+</node>
+<node id="byJ_XQMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">awal RIYANTO</data>
+  <data key="d2">BRIN (Research and Innovation National Agency)/LIPI Lembaga Ilmu Pengetahuan Indonesia/MZB</data>
+</node>
+<node id="FPH7dqYAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Wahyu Aristyaning Putri</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="zBH0bk8AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Fajar Sofyantoro</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="G-wgx3sAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Achmad Farajallah</data>
+  <data key="d2">Department of Biology, Bogor Agricultural University Indonesia</data>
+</node>
+<node id="12CrTFIAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Tuty Arisuryanti</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="NkxEGMAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Bambang Purwantara</data>
+  <data key="d2">Bogor Agricultural University - FKH IPB - Fakultas Kedokteran Hewan - Institut Pertanian Bogor - IPB</data>
+</node>
+<node id="wuF-Xo0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">DIAH IRAWATI DWI ARINI</data>
+  <data key="d2">Badan Riset Inovasi Nasional</data>
+</node>
+<node id="lL3u35YAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Andri Frediansyah</data>
+  <data key="d2">National Research and Innovation Agency (BRIN) ; Scopus ID:  56897210000</data>
+</node>
+<node id="JPF91lMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">miftahul jannah</data>
+  <data key="d2">Universitas Islam As-Syafiiyah</data>
+</node>
+<node id="A3Ern2YAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Rifqi Hariri</data>
+  <data key="d2">Research Center for Biosystematics and Evolution - BRIN</data>
+</node>
+<node id="kpe8HnoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dwi Anggorowati Rahayu</data>
+  <data key="d2">Dosen, Universitas Negeri Surabaya</data>
+</node>
+<node id="PyiNSH8AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Dwi Umi Siswanti</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="dNcZCegAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Immanuel Sanka</data>
+  <data key="d2">Tallinn University of Technology</data>
+</node>
+<node id="2YN8-AsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Zusron</data>
+  <data key="d2">Marine Biology Study Club, Faculty of Biology, Universitas Gadjah Mada</data>
+</node>
+<node id="xb7DGo8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ko Nomura</data>
+  <data key="d2">Nagoya University</data>
+</node>
+<node id="8eShEpgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Riza-Arief Putranto</data>
+  <data key="d2">Universitas Esa Unggul</data>
+</node>
+<node id="BbAf-1cAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Wahyu Wilopo</data>
+  <data key="d2">Professor of Environmental Geology,  Dept. of Geological  Engineering, Gadjah Mada University</data>
+</node>
+<node id="qBhw3GsAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Yekti Asih Purwestri</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="DOUjwSQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Burhanuddin Ihsan</data>
+  <data key="d2">Borneo University of Tarakan</data>
+</node>
+<node id="DEUn5SsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">I Wayan Warmada</data>
+  <data key="d2">Associate Professor,  Universitas Gadjah Mada</data>
+</node>
+<node id="D-O4f0MAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Miftahul Ilmi</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="5nspleUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Andriyanto</data>
+  <data key="d2">Universitas Merangin</data>
+</node>
+<node id="ftOYbeAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Serafica Btari Christiyani Kusumaningr...</data>
+  <data key="d2">Universitas Tidar</data>
+</node>
+<node id="-FqY7JcAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Endang Semiarti</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="3rq47_kAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Aziz Purwantoro</data>
+  <data key="d2">Faculty of Agriculture, Universitas Gadjah Mada</data>
+</node>
+<node id="71K8_hoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rindang Dwiyani</data>
+  <data key="d2">Lecturer at Faculty of Agriculture, Udayana University, Indonesia</data>
+</node>
+<node id="oZmVTc8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ixora Sartika Mercuriani</data>
+  <data key="d2">Universitas Negeri Yogyakarta</data>
+</node>
+<node id="8U74n-sAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Jaka Widada</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="Xcc3n5QAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hasebe Mitsuyasu</data>
+  <data key="d2">National Institute for Basic Biology</data>
+</node>
+<node id="IDgASZ4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Stalis Norma Ethica</data>
+  <data key="d2">Medical Laboratory Science, Postgraduate Program, UNIMUS</data>
+</node>
+<node id="nj2ZDI4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Tri Joko Raharjo</data>
+  <data key="d2">Department of Chemsitry Universitas Gadjah Mada</data>
+</node>
+<node id="oy8eji8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sulastri Isminingsih</data>
+  <data key="d2">universitas sultan ageng tirtayasa</data>
+</node>
+<node id="cN94q3EAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">edy setiti wida utami</data>
+  <data key="d2">AIRLANGGA UNIVERSITY</data>
+</node>
+<node id="g9fVw3wAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Agus Slamet (https://orcid.org/0000-00...</data>
+  <data key="d2">Universitas Muhammadiyah Buton</data>
+</node>
+<node id="k6rqHswAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Taryono Taryono</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="6JhjMmgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Fitri Nadifah</data>
+  <data key="d2">Prodi D3 Analis STIKES Guna Bangsa Yogyakarta</data>
+</node>
+<node id="LQacaM0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">sismindari</data>
+  <data key="d2"></data>
+</node>
+<node id="ipMy6GsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Kim Hou Chia</data>
+  <data key="d2">Postdoctoral Researcher, UCL Cancer Institute, University College London</data>
+</node>
+<node id="8mMi8vkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Tomoyuki FUKUDA</data>
+  <data key="d2">Niigata University Graduate School of Medical and Dental Sciences</data>
+</node>
+<node id="Lo8QJMIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rela Adi Himarosa</data>
+  <data key="d2">Universitas Muhammadiyah Yogyakarta</data>
+</node>
+<node id="wt_G_jAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Safaa Abdulrahman Turkistani</data>
+  <data key="d2">Fakeeh College for Medical Science</data>
+</node>
+<node id="1JVo69oAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Kazuhiro Shiozaki</data>
+  <data key="d2">Nara Institute of Science and Technology, University of California Davis</data>
+</node>
+<node id="qfNnEgUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Respati Tri Swasono, Ph.D.</data>
+  <data key="d2">Department of Chemistry, Universitas Gadjah Mada</data>
+</node>
+<node id="vJ28JagAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Wisnu Ananta Kusuma</data>
+  <data key="d2">Associate Professor, Department of Computer Science, IPB University (Bogor Agricultural …</data>
+</node>
+<node id="cdHdKvQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Kenny Lischer</data>
+  <data key="d2">University of Indonesia</data>
+</node>
+<node id="bcI75fIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Yen Teng Tai, Ph.D.</data>
+  <data key="d2">Penn State Health</data>
+</node>
+<node id="Z4e7zHoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Tomotake Kanki</data>
+  <data key="d2">新潟大学　教授</data>
+</node>
+<node id="bsD5BikAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Saad Alhumaid</data>
+  <data key="d2">School of Pharmacy, University of Tasmania, Hobart 7000, Australia</data>
+</node>
+<node id="elVo92MAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Prof. Abbas Al Mutair</data>
+  <data key="d2">Wollongong University, Almoosa Health Group,</data>
+</node>
+<node id="dF76aswAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Jajar Setiawan</data>
+  <data key="d2">Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada</data>
+</node>
+<node id="LrDUsvcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Khoiruddin Anshori</data>
+  <data key="d2">Master student, Universitas Gadjah Mada</data>
+</node>
+<node id="UAnShRcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sandro Vento</data>
+  <data key="d2">University of Puthisastra</data>
+</node>
+<node id="YFp3nLgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hendrix Indra Kusuma</data>
+  <data key="d2">Departemen Biologi, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Syiah …</data>
+</node>
+<node id="-5KMBIwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ameen S. Alwashmi</data>
+  <data key="d2">Department of Medical Laboratories, College of Applied Medical Science, Qassim University</data>
+</node>
+<node id="T-35ztEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Mohammed Ahmed Garout</data>
+  <data key="d2">Umm Al-Qura University</data>
+</node>
+<node id="WpZq2eIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Amer Alshengeti</data>
+  <data key="d2">Associate professor- Taibah University</data>
+</node>
+<node id="GCVQswUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sudarisman Sudarisman</data>
+  <data key="d2">Universitas muhammadiyah yogyakarta</data>
+</node>
+<node id="FiUozBsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Krisdiyanto</data>
+  <data key="d2">Universitas Muhammadiyah Yogyakarta</data>
+</node>
+<node id="cxsjds8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Budi Nur Rahman</data>
+  <data key="d2">Universitas Muhammadiyah Yogyakarta</data>
+</node>
+<node id="bWkmoJoAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Hendry Tssg Saragih</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="J4li_t0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sandi Fransisco Pratama</data>
+  <data key="d2">Universitas Negeri Padang</data>
+</node>
+<node id="JXWTV4sAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Senny Helmiati</data>
+  <data key="d2">Department of Fisheries, Universitas Gadjah Mada</data>
+</node>
+<node id="cJRbfYwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Sukirno</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="vfB7fAQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Widya Wasityastuti</data>
+  <data key="d2">Medical Faculty of Gadjah Mada University, Indonesia</data>
+</node>
+<node id="eWURYlcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Joko Nugroho Wahyu Karyadi</data>
+  <data key="d2">UNIVERSITAS GADJAH MADA</data>
+</node>
+<node id="POZ5y0AAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Chusnul Azhar</data>
+  <data key="d2">UIN Sunan Kalijaga Yogyakarta</data>
+</node>
+<node id="07niZtsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Raden Roro Risang Ayu Dewayani Putri</data>
+  <data key="d2">Magister Biologi, Universitas Gadjah Mada</data>
+</node>
+<node id="Gro7b_wAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rohit Sharma</data>
+  <data key="d2">Centre for Biodiversity Exploration and Conservation</data>
+</node>
+<node id="vAN3q74AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Kunihiro Ohta</data>
+  <data key="d2">The University of Tokyo</data>
+</node>
+<node id="WjM7OFkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Adhi Prasetyo</data>
+  <data key="d2">MAN 2 Kota Sukabumi</data>
+</node>
+<node id="tTPZiJYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Arisa ODA</data>
+  <data key="d2">東京大学</data>
+</node>
+<node id="j8B7MwEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Firzan Nainu</data>
+  <data key="d2">Department of Pharmacy, Faculty of Pharmacy, Hasanuddin University</data>
+</node>
+<node id="mqkaLTQAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Rarastoeti Pratiwi</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="1G5y0UsAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Lisna Hidayati</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="96Q1zykAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Azmatun Fildzah</data>
+  <data key="d2">Universitas Muhammadiyah Yogyakarta</data>
+</node>
+<node id="e0lCOdUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dicky Moch Rizal</data>
+  <data key="d2">Lecturer of faculty of medicine, Universitas Gadjah Mada</data>
+</node>
+<node id="CceRU2kAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ina Karlina</data>
+  <data key="d2">Master's Program in Biology, Gadjah Mada University</data>
+</node>
+<node id="JDkJf08AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Made Bagus Auriva Mataram</data>
+  <data key="d2">Faculty of Veterinary Medicine - Universitas Brawijaya</data>
+</node>
+<node id="2wJCug0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Arya Iswara</data>
+  <data key="d2">Universitas Muhammadiyah Semarang</data>
+</node>
+<node id="ggCxRRIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Anjar Tri Wibowo</data>
+  <data key="d2">Department of Biology, Faculty of Science and Technology, University of Airlangga</data>
+</node>
+<node id="gVm8FSsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Evy Prastiyanto</data>
+  <data key="d2">Universitas Muhammadiyah Semarang (Unimus)</data>
+</node>
+<node id="oBLr-DwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Woro Anindito Sri Tunjung</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="ZuIicpwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dr. Rohit Sharma</data>
+  <data key="d2">Department of Biotechnology Engineering, Chandigarh University</data>
+</node>
+<node id="zAPCbnkAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Ganies Riza Aristya</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="akqIOYYAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Rina Sri Kasiamdari</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="5K0zVokAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dr. Heri Prabowo, MSc. (Scopus ID: 57...</data>
+  <data key="d2">Peneliti Balittas, Litbang, Kementerian Pertanian. (S1 dan S2 UGM, S3 Universitas Brawijaya).</data>
+</node>
+<node id="06nKzQMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Eko Suyanto</data>
+  <data key="d2">Brawijaya University</data>
+</node>
+<node id="7g1TBpgAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Hari Purwanto</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="nliKdrMAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Ignatius Sudaryadi</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="u8385HUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ali Agus</data>
+  <data key="d2">Faculty of Animal Science, Universitas Gadjah Mada</data>
+</node>
+<node id="zdPFZaoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nafiatul Umami</data>
+  <data key="d2">Laboratory of Forage and Pasture Science, Faculty of Animal Science, Universitas Gadjah Mada</data>
+</node>
+<node id="zO8AXyAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dr. Rika Raffiudin</data>
+  <data key="d2">Department of Biology, Bogor Agricultural University</data>
+</node>
+<node id="ivV1cYUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nurul Insani Shullia</data>
+  <data key="d2">Biology Education, Faculty of Teacher Training and Education, University of Jember</data>
+</node>
+<node id="JHLikMoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Lilik Sutiarso</data>
+  <data key="d2">Professor of Agricultural System and Machinery, Universitas Gadjah Mada</data>
+</node>
+<node id="2S8BCpUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Atris Suyantohadi</data>
+  <data key="d2">Fakultas Teknologi Pertanian, Universitas Gadjah Mada</data>
+</node>
+<node id="q4HTA-4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Tonny K. Moekasan</data>
+  <data key="d2">Pusat Riset Hortikultura-BRIN</data>
+</node>
+<node id="xZV7_LkAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Heri Sujadmiko</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="I3fdzE0AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Indra Lesmana</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="oO9RlQUAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Kumala Dewi</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="X8IjBKwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Fajar Lukitowati</data>
+  <data key="d2">Badan Tenaga Nuklir Nasional</data>
+</node>
+<node id="g7A2PuQAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Zuliyati Rohmah</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="4y8d3aoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Siti Isrina Oktavia Salasia</data>
+  <data key="d2">Professor of Veterinary Clinical Pathology, Gadjah Mada University</data>
+</node>
+<node id="tKUlcJ0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Onny Nurrahman Marwayana</data>
+  <data key="d2">Research Center for Biology, Indonesian Institute of Sciences</data>
+</node>
+<node id="NYGf0jsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Kindi Adam</data>
+  <data key="d2">Researcher, NIHRD</data>
+</node>
+<node id="HlpmaxQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Warsito Purwo Taruno</data>
+  <data key="d2">C-Tech Labs Edwar Technology Co.</data>
+</node>
+<node id="rP3sBfoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Firman Alamsyah</data>
+  <data key="d2">Universitas Al-Azhar Indonesia</data>
+</node>
+<node id="-AQcmPsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nisrina Firdausi</data>
+  <data key="d2">Research Center for Pharmaceutical Ingredients and Traditional Medicine, The National Agency of</data>
+</node>
+<node id="XfGfpAMAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Laurentius Hartanto Nugroho</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="PHI8Cf4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sitarina Widyarini</data>
+  <data key="d2">Associate Professor Veterinary Science, Gadjah Mada University</data>
+</node>
+<node id="0eGwHRsAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Ludmilla Fitri Untari</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="6S3ZJtsAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Maryani</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="E85U-A4AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Matin Nuhamunada</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="KuOZZSAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Tilmann Weber</data>
+  <data key="d2">Professor / Associate Scientific Director @ DTU Biosustain, Technical University of Denmark</data>
+</node>
+<node id="g13UiaYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Omkar Mohite</data>
+  <data key="d2">Senior Bioinformatician, Bactobio Ltd.</data>
+</node>
+<node id="hRKblrQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">HJ Heeres</data>
+  <data key="d2"></data>
+</node>
+<node id="8eWo5bIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Prof. Dr Ir Chusnul Hidayat</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="SY31yxEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Arne Hommes</data>
+  <data key="d2">Rijksuniversiteit Groningen</data>
+</node>
+<node id="RkXVoxgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Gert-Jan Euverink</data>
+  <data key="d2">University of Groningen</data>
+</node>
+<node id="3iGuniAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ekowati Chasanah</data>
+  <data key="d2">Research Profesor at Research Center of Marine and Aquatic Bioindustry, NRIA</data>
+</node>
+<node id="zTGHeI4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Marc Van der Maarel</data>
+  <data key="d2"></data>
+</node>
+<node id="HI1VZYwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Yusuf Abduh</data>
+  <data key="d2">Lecturer of Bio-engineering, Institut Teknologi Bandung</data>
+</node>
+<node id="wbD_inkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Wibowo Mangunwardoyo</data>
+  <data key="d2">Departement Biology, Faculty of Mathematic and Natutal Sciences Universitas Indonesia</data>
+</node>
+<node id="sJ8UgjsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Mahrus Ali</data>
+  <data key="d2">University of Lampung, Indonesia</data>
+</node>
+<node id="vEaXD9YAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">M. Ali Azis Hasan Rizki</data>
+  <data key="d2">Universitas Islam Al Azhar</data>
+</node>
+<node id="YhPtFJYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ega Delva</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="d3mqIVUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ridwan</data>
+  <data key="d2">Universitas Muslim Buton</data>
+</node>
+<node id="d_PUN-0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nur Rayani</data>
+  <data key="d2">Universitas Halu Oleo</data>
+</node>
+<node id="qhDO5x4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Misri Gozan</data>
+  <data key="d2">Professor of Bioprocess Engineering, Universitas Indonesia</data>
+</node>
+<node id="ynx9c0IAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Yano Surya Pradana</data>
+  <data key="d2">Department of Chemical Engineering, Universitas Gadjah Mada</data>
+</node>
+<node id="DHfwJ8EAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Chikmatul Alifiyatin</data>
+  <data key="d2">Master Graduate Student, Universitas Gadjah Mada</data>
+</node>
+<node id="lScl_T0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Jimmy Al Fa'is</data>
+  <data key="d2">Master Student, Gadjah Mada University</data>
+</node>
+<node id="TN6r-7oAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Syamsul Arif Ardiansyah</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="KRVCCcgAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Mukhlish Jamal Musa Holle</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="WxCX_lAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Shiro Tsuyuzaki</data>
+  <data key="d2">Graduate School of Environmental Earth Science, Hokkaido University</data>
+</node>
+<node id="_2X-Qk8AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Mulyati</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="KKw74bMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Aris Haryanto</data>
+  <data key="d2">Gadjah Mada University, Yogyakarta, Indonesia</data>
+</node>
+<node id="pa0HgLcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dyah Widiastuti</data>
+  <data key="d2">Peneliti Badan Litbang Kesehatan</data>
+</node>
+<node id="9yVGmm8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">naidu srivatsava</data>
+  <data key="d2">Indian Institute of Technology Ropar</data>
+</node>
+<node id="gLU2fTAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Camelia Herdini</data>
+  <data key="d2">Otorhinolaryngology Head and Neck Surgery Department Faculty of Medicine Universitas Gadjah Mada</data>
+</node>
+<node id="U3ATsRYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Peni Indrayudha</data>
+  <data key="d2">Fakultas Farmasi Universitas Muhammadiyah Surakarta</data>
+</node>
+<node id="AFx_JxMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">rini widayanti</data>
+  <data key="d2">Faculty of Veterinary Medicine, Universitas Gadjah Mada</data>
+</node>
+<node id="d6My7UEAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Novita Yustinadiar</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="aEA-VpUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">RUSTADI</data>
+  <data key="d2">Fakultas Pertanian, Universitas Gadjah Mada</data>
+</node>
+<node id="5rVgWBUAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Purnomo</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="VashVaoAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Rr Upiek Ngesti Wibawaning A</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="U-oApogAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Soenarwan Hery Poerwanto</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="5mCFmrgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Thomas von Rintelen</data>
+  <data key="d2">Museum für Naturkunde</data>
+</node>
+<node id="muW5WPUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Mun Hua Tan</data>
+  <data key="d2">University of Melbourne</data>
+</node>
+<node id="qUnfKd0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Han Ming Gan</data>
+  <data key="d2">Associate Professor, Sunway University</data>
+</node>
+<node id="6kOnBeQAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Sari Darmasiwi</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="HhRRmYwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Sidiq Permana Putra</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="dpAOZcoAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Siti Nurleily Marliana</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="iFL3uP8AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Siti Sumarmi</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="JvJSvrcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Giyantolin</data>
+  <data key="d2">Faculty of Biology, Universitas Gadjah Mada</data>
+</node>
+<node id="-u_ul9YSW_4C">
+  <data key="d0">coauthor</data>
+  <data key="d1">Wayan Tunas Artama</data>
+  <data key="d2">Faculty of Veterinary Medicine, Universitas Gadjah Mada</data>
+</node>
+<node id="tR_bSdgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Titi Marsifah</data>
+  <data key="d2">Faculty of Medicine, Public Health, and Nursing, Universitas Gadjah Mada</data>
+</node>
+<node id="DU3mJLwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Desak Putu Raka Paramita</data>
+  <data key="d2">Ocean University of China</data>
+</node>
+<node id="p5NpwrkAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Suharyanto</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="RzkihVUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Beby Masitho Batubara</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="PQVr308AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Wiflihani .</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="kqILUqMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Jamilah Nasution</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="w4FS67cAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Indra Muda</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="Y1g592sAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Irwan Nasution</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="iR9anWEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Yurial Arief Lubis</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="JkBqCnMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Armansyah Matondang</data>
+  <data key="d2">Universitas Medan Area, Medan Indonesia</data>
+</node>
+<node id="Y_NdcAoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ikbar Pratama</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="Xh-ZTEwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Abdul Latief</data>
+  <data key="d2">Universitas Samudra</data>
+</node>
+<node id="1uSINMwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Zulkarnen Mora</data>
+  <data key="d2">Universitas Samudra</data>
+</node>
+<node id="Ix4XV7cAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Diny Atrizka</data>
+  <data key="d2">Universitas Prima Indonesia</data>
+</node>
+<node id="TR87pg8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hadion Wijoyo</data>
+  <data key="d2">Assoc. Professor - STMIK Dharmapala Riau</data>
+</node>
+<node id="lXzOnXAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Budi Hartono</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="y5aPi_4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Heri Kusmanto</data>
+  <data key="d2">Universitas Sumatera Utara</data>
+</node>
+<node id="yq3qwhAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Syafruddin Ritonga</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="y0mRoNUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">eva sartika dasopang</data>
+  <data key="d2">Universitas Tjut Nyak Dhien</data>
+</node>
+<node id="OTx1vvgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nurlina</data>
+  <data key="d2">Universitas Samudra</data>
+</node>
+<node id="X5JUoOMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Usman Tarigan</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="e89cADYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">BAKHRUL KHAIR AMAL</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="tNe_FJ0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hodriani</data>
+  <data key="d2">Civic Education, Universitas Negeri Medan</data>
+</node>
+<node id="NPTWtk8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Joni Pranata</data>
+  <data key="d2">SDN 5 Pemenang Timur, KLU, NTB</data>
+</node>
+<node id="1GOPzRsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Onggal Sihite</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="ElZF8rwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rehia K. Isabella Barus</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="G_4Y8SYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Khalik Pratama</data>
+  <data key="d2">UNIVERSITAS MEDAN AREA</data>
+</node>
+<node id="h4XuosoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Inggit Prastiawan</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="2bwNJssAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">M. Rizal Yahya</data>
+  <data key="d2">Syiah Kuala University</data>
+</node>
+<node id="n1zhhLwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Evi Yunita  Kurniaty</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="LnhKwrwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Bahrum Jamil</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="OVEY8OIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Taufik Wal Hidayat</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="ilVTnCcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">FX Ari Agung Prastowo</data>
+  <data key="d2">Universitas Padjadjaran</data>
+</node>
+<node id="wzbCO2QAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">ADRIAN TAWAI</data>
+  <data key="d2">Universitas Halu Oleo</data>
+</node>
+<node id="Goc9cW8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Syardiansah</data>
+  <data key="d2">Program Studi Manajemen Fakultas Ekonomi Universitas Samudra</data>
+</node>
+<node id="EURNLnUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Darmin Tuwu</data>
+  <data key="d2">Universitas Halu Oleo</data>
+</node>
+<node id="JFbsUoIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Irwansyah</data>
+  <data key="d2">Universitas Islam Negeri Sumatera Utara</data>
+</node>
+<node id="bowPW_kAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhamad Chairul Basrun Umanailo</data>
+  <data key="d2">Universitas Iqra Buru</data>
+</node>
+<node id="ujzSssQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">John Tampil Purba</data>
+  <data key="d2">Universitas Pelita Harapan, Indonesia</data>
+</node>
+<node id="FYgvQjYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Abduloh</data>
+  <data key="d2">Universitas Singaperbangsa Karawang</data>
+</node>
+<node id="ARLV8u8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Wahid Wachyu Adi Winarto</data>
+  <data key="d2">UIN KH Abdurrahman Wahid Pekalongan</data>
+</node>
+<node id="KNl_zfcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hendri Hermawan Adinugraha</data>
+  <data key="d2">UIN KH Abdurrahman Wahid Pekalongan</data>
+</node>
+<node id="_nP4UdgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">JAMALUDIN</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="iqiKdzAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Khairina Ulfa Syaimi</data>
+  <data key="d2">Universitas Muslim Nusantara Al-Wasliyah</data>
+</node>
+<node id="5MpWyHAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Risydah Fadilah</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="XhvKruQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sari atika Parinduri</data>
+  <data key="d2">STAI Tebingtinggi Deli</data>
+</node>
+<node id="6xerYvQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Saidna Zulfiqar A. Bin Tahir</data>
+  <data key="d2">Universitas Iqra Buru</data>
+</node>
+<node id="bo1P4G8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Fajar Rezeki Ananda Lubis</data>
+  <data key="d2">Universitas Prima Indonesia</data>
+</node>
+<node id="xgJwNnsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Liza Shahnaz</data>
+  <data key="d2">Universitas Borneo Tarakan</data>
+</node>
+<node id="fkj79sQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rochmad Effendy</data>
+  <data key="d2">SCOPUS ID : 57201895546 : Orchid Id 0000-0002-6463-944X department of communicaion …</data>
+</node>
+<node id="QpUr29kAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Venny Eka Meidasari</data>
+  <data key="d2">Universitas Indraprasta PGRI</data>
+</node>
+<node id="iqr7dRMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Citra Ramadhan</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="8ZWvCy4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ferdinand Susilo</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="yITNedQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rholand Muary</data>
+  <data key="d2">Universitas Islam Negeri Sumatera Utara Medan</data>
+</node>
+<node id="Mw3P0XQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Akmal Umar</data>
+  <data key="d2">STIMI YAPMI Makassar</data>
+</node>
+<node id="xYMsTzcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Farida Hanum Siregar</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="eubwpI8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Babby Hasmayni</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="09x39cEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Endang Haryati</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="sP_PujEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Juhadi</data>
+  <data key="d2">STEI AL-AMAR SUBANG</data>
+</node>
+<node id="3EZZ6k0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Mohammad Syaifuddin</data>
+  <data key="d2">UIN KH Abdurrahman Wahid Pekalongan</data>
+</node>
+<node id="GxaGAGwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Anshar Daud</data>
+  <data key="d2">Institut Teknologi dan Bisnis Nobel Indonesia</data>
+</node>
+<node id="Z_o43bgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Assoc. Prof. Dr. Abdul Mufid, Lc., MSI</data>
+  <data key="d2">Sekolah Tinggi Agama Islam Khozinatul Ulum Blora</data>
+</node>
+<node id="Slgid9AAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dr. Yurulina Gulo, S.Th., M.Si</data>
+  <data key="d2">Lecturer STT BNKP Sundermann</data>
+</node>
+<node id="D_7fMuoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Prety Diawati</data>
+  <data key="d2">Universitasi Logistik dan Bisnis Internasional</data>
+</node>
+<node id="gAXr8nAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Azidah Abdul Kadir</data>
+  <data key="d2">Associate Professor of Family Medicine, Universiti Sains Malaysia</data>
+</node>
+<node id="o6ta23AAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nina Siti Salmaniah Siregar</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="CEJdAs8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nadra Ideyani  Vita</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="oUr8-MIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Effiati Juliana Hasibuan</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="SpIcp3MAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Adhi Wibowo</data>
+  <data key="d2">Sekolah Tinggi Ilmu Komputer Yos Sudarso Purwokerto</data>
+</node>
+<node id="_Tl_wL8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ayu Febryani</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="wJ3QKgYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nina Lisanty</data>
+  <data key="d2">Universitas Kadiri</data>
+</node>
+<node id="nZySvdQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Zarina Akbar</data>
+  <data key="d2">Faculty of Psychology Universitas Negeri Jakarta</data>
+</node>
+<node id="pl0kLO0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Mansur Azis</data>
+  <data key="d2">Pascasarjana STIE Amkop Makassar</data>
+</node>
+<node id="79GcbJQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rahmiati</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="8Oguxf4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Walid Musthafa Sembiring</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="J8NXQlYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nur Arif Nugraha</data>
+  <data key="d2">Politeknik Keuangan Negara STAN</data>
+</node>
+<node id="MoH9UF4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nazarudin</data>
+  <data key="d2">Universitas Islam Negeri Raden Fatah Palembang</data>
+</node>
+<node id="-3irPssAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">I Gusti Ayu Purnamawati</data>
+  <data key="d2">Accounting Programme of Diplomma III, Universitas Pendidikan Ganesha</data>
+</node>
+<node id="ukkifh0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">MARLON SIHOMBING</data>
+  <data key="d2">Universitas Sumatera Utara</data>
+</node>
+<node id="Xg7sD0YAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hatta Ridho</data>
+  <data key="d2">Universitas Sumatera Utara</data>
+</node>
+<node id="SwtKHGUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rizkan Zulyadi</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="KFz8ji0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">rully rochayati</data>
+  <data key="d2">Universitas PGRI Palembang</data>
+</node>
+<node id="JOBLE1IAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Robby Hidajat</data>
+  <data key="d2">universitas negeri malang</data>
+</node>
+<node id="6aoIO4gAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Anggreni Atmei Lubis</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="70TTbhQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">NIMIM ALI</data>
+  <data key="d2">UNIVERSITAS MUHAMMADIYAH LUWUK</data>
+</node>
+<node id="W2tO0lEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Evi Susilawati</data>
+  <data key="d2">Universitas Islam Sumatera Utara</data>
+</node>
+<node id="1BOdWmgAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">NASAIY AZIZ</data>
+  <data key="d2">Assoc.Professor of Islamic Law of Faculty of Sharia and Law, UIN AR-Raniry</data>
+</node>
+<node id="9bVZYGoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Aliimran Sinaga</data>
+  <data key="d2">Lecturer, Universitas Islam Negeri Sumatera Utara</data>
+</node>
+<node id="uToFMqAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">tamrin sikumbang</data>
+  <data key="d2">lecturer communication in Islamic state University of North Sumatera Medan</data>
+</node>
+<node id="yCsfpKsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Saiful Bahri</data>
+  <data key="d2">Institut Agama Islam Al-aziziyah</data>
+</node>
+<node id="gKQ1z64AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Darmayasa</data>
+  <data key="d2">Politeknik Pariwisata Makassar</data>
+</node>
+<node id="24oopLoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ansari Yamamah</data>
+  <data key="d2">Universitas Islam Negeri Sumatera Utara Medan</data>
+</node>
+<node id="vTCD7c4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">M. Yoserizal Saragih</data>
+  <data key="d2">Universitas Islam Negeri Sumatera Utara Medan</data>
+</node>
+<node id="PzE2CtcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dahlia Lubis</data>
+  <data key="d2">UNIVERSITAS ISLAM NEGERI SUMATERA UTARA</data>
+</node>
+<node id="2IdEtUUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">robert budi laksana</data>
+  <data key="d2">PGSD Universitas PGRI Palembang</data>
+</node>
+<node id="G-mkGl8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Fabian Arrizqi</data>
+  <data key="d2"></data>
+</node>
+<node id="MsPwAeoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Satrina Titania Siahaan</data>
+  <data key="d2">Universitas Terbuka, Universitas Negeri Medan</data>
+</node>
+<node id="i9SsZcwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Lukman Yudho Prakoso</data>
+  <data key="d2">Universitas Pertahanan RI</data>
+</node>
+<node id="QRU6i3gAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Marlina Deliana</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="gkBGgDcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nurmala Berutu</data>
+  <data key="d2">Lecturer, Universitas Negeri Medan</data>
+</node>
+<node id="kYEC7G0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Zulkarnain Siregar</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="s1luzOAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">drh. M. Zainul Fadli, M.Kes.</data>
+  <data key="d2">Universitas Islam Malang</data>
+</node>
+<node id="LC8KJAEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">MN Husain</data>
+  <data key="d2">Universitas Halu Oleo</data>
+</node>
+<node id="9zCjkx4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Anang Anas Azhar</data>
+  <data key="d2">Universitas Islam Negeri Sumatera Utara Medan, Indonesia</data>
+</node>
+<node id="uVpzIigAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Selamat Riadi</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="sbyfBSsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">M. Alfikri, S.Sos., M.Si.</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="BT4k0zAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dr. Adi Sumandiyar, S.Sos., M.Si.</data>
+  <data key="d2">Dekan Fisipol Unsa Makassar/ Scopus ID 57218314888</data>
+</node>
+<node id="O6NrfjoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">KRAUGUSTEELIANA KRAUGUSTEELIANA</data>
+  <data key="d2">Universitas Pembangunan Nasional Veteran Jakarta</data>
+</node>
+<node id="E8OoUkQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Solihah Titin Sumanti</data>
+  <data key="d2">UNIVERSITAS ISLAM NEGERI SUMATERA UTARA</data>
+</node>
+<node id="_KvPf1gAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nina Angelia</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="uVLWFHMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Datuk Imam Marzuki</data>
+  <data key="d2">STAIN MANDAILING NATAL</data>
+</node>
+<node id="2A32XXMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Robbi Rahim</data>
+  <data key="d2">Sekolah Tinggi Ilmu Manajemen Sukma</data>
+</node>
+<node id="ZjK2AooAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dedi Sahputra</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="etBUL7sAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Fahmi Sulaiman</data>
+  <data key="d2">Sekolah Tinggi Ilmu Manajemen (STIM) Sukma</data>
+</node>
+<node id="08l1PbsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">ZULFIA HANUM ALFI SYAHR</data>
+  <data key="d2">National Research and Innovation Agency</data>
+</node>
+<node id="6LQcgLsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Kartik Shankar</data>
+  <data key="d2">Dept of Pediatrics, University of Colorado School of Medicine, Anschutz Medical Campus</data>
+</node>
+<node id="JDx6sscAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dewi Anggraini</data>
+  <data key="d2">Politeknik Cendana</data>
+</node>
+<node id="--Iy7d4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ni Luh Supartini</data>
+  <data key="d2">Institut Pariwisata dan Bisnis Internasional</data>
+</node>
+<node id="MhwSteMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Syafrizaldi</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="wgAwregAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Gunawan Bata Ilyas</data>
+  <data key="d2">Sekolah Tinggi Ilmu Ekonomi Amkop Makassar</data>
+</node>
+<node id="MB72yPoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Montayana Meher</data>
+  <data key="d2">Universitas Medan Area</data>
+</node>
+<node id="I6Z704QAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Panji Suroso</data>
+  <data key="d2">Universitas Negeri Medan</data>
+</node>
+<node id="WkgvOHAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Abdulrahman Saad Aldawood</data>
+  <data key="d2">Professor of Economic Entomology, King Saud University, College of Food and Agriculture Sciences</data>
+</node>
+<node id="O8ibLlQAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dr. Mureed Husain</data>
+  <data key="d2">King Saud University</data>
+</node>
+<node id="uBaW-4YAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Said Ali Eid Elsalamouny</data>
+  <data key="d2">Professor, Dept. of Econ. Entomology &amp; Pesticides, Faculty of Agriculture, Cairo University, Egypt</data>
+</node>
+<node id="lMCKRS8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Koko Dwi Sutanto. Ph.D.</data>
+  <data key="d2">Researcher, King Saud University</data>
+</node>
+<node id="ZFm8UocAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">shehzad salman</data>
+  <data key="d2">Student of Entomology, King Saud University</data>
+</node>
+<node id="nKBamZkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hipny Alwandri</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="c_E8QCMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dr. Abdullah M. Alhamdan</data>
+  <data key="d2">King Saud University Ag Eng Dept., SA ; Ohio State University, USA</data>
+</node>
+<node id="GOKuqCwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Susilohadi</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="ABAF8Q0AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">MA Marfai (Prof.Dr.rer.nat Muh Aris Ma...</data>
+  <data key="d2">Head of Indonesian Geospasial Information Agency (BIG),Professor in Geography UGM</data>
+</node>
+<node id="HQu99LUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muh. Sri Yusal</data>
+  <data key="d2">Universitas Patompo</data>
+</node>
+<node id="YGr9SnEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Suhestri Suryaningsih</data>
+  <data key="d2">Fakultas Biologi Universitas jenderal soedirman</data>
+</node>
+<node id="xeAwmrkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sri Puji Saraswati</data>
+  <data key="d2">Doctor of Civil Engineering, Universitas Gadjah Mada</data>
+</node>
+<node id="hMhQVj4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Budi Mulyaningsih</data>
+  <data key="d2">Dept. Parasitologi FK UGM</data>
+</node>
+<node id="XegndvkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Nurul Khakhim</data>
+  <data key="d2">Lecture in Faculty of Geography, Universitas Gadjah Mada</data>
+</node>
+<node id="DxFcjcAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Agustinus Murdjoko</data>
+  <data key="d2">Fakultas Kehutanan, Universitas Papua</data>
+</node>
+<node id="J4FlkZIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hari Kusnanto Josef</data>
+  <data key="d2">Profesor Kedokteran Keluarga dan Komunitas, Universitas Gadjah Mada</data>
+</node>
+<node id="gz5YIGUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Febri Susanto</data>
+  <data key="d2">Research Center for Biotechnology, Universitas Gadjah Mada</data>
+</node>
+<node id="DxNIQEcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dyah Ismoyowati</data>
+  <data key="d2">Gadjah Mada University</data>
+</node>
+<node id="u0Sv3QUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Haviah Hafidhotul Ilmiah</data>
+  <data key="d2">Lecturer Faculty of Agriculture, Gadjah Mada University, Yogyakarta.</data>
+</node>
+<node id="wpTV3ykAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Muhammad Jahangir</data>
+  <data key="d2">University of Haripur</data>
+</node>
+<node id="-zWrTDUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">subagus wahyuono</data>
+  <data key="d2">Sekolah Tinggi Ilmu Kesehatan ISFI Banjarmasin</data>
+</node>
+<node id="jaW9y40AAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Utaminingsih</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="d-JgjnAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Yan Mardian</data>
+  <data key="d2">University of Indonesia</data>
+</node>
+<node id="tWdNNiMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">ANIS USWATUN KHASANAH</data>
+  <data key="d2">UIN Sultan Maulana Hasanuddin Banten</data>
+</node>
+<node id="eE9DTJMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Hanum Mukti Rahayu</data>
+  <data key="d2">Universitas Muhammadiyah Pontianak</data>
+</node>
+<node id="XFWwwxAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Laura Navika Yamani</data>
+  <data key="d2">Universitas Airlangga</data>
+</node>
+<node id="Rj97768AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Maria Inge Lusida</data>
+  <data key="d2">Institute of Tropical Disease, Airlangga University, Indonesia</data>
+</node>
+<node id="hS2QTmYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Neneng Ratnasari</data>
+  <data key="d2">medical doctor</data>
+</node>
+<node id="PkcYguoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Teguh Triyono (ORCID ID 0000-0001-...</data>
+  <data key="d2">Clinical Pathology and Laboratory Medicine Department, Faculty of Medicine, Universitas Gadjah Mada</data>
+</node>
+<node id="ssDhnwUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Agusdiwana Suarni</data>
+  <data key="d2">Universitas Muhammadiyah Makassar, Indonesia</data>
+</node>
+<node id="TjaczhcAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Arli Aditya Parikesit</data>
+  <data key="d2">Professor of Bioinformatics, Indonesia International Institute for Life Sciences</data>
+</node>
+<node id="VJzrQV8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dito Anurogo MD MSc PhD (Cand)</data>
+  <data key="d2">FKIK Unismuh Makassar and IPCTRM TMU Taiwan</data>
+</node>
+<node id="w963GbkAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Bernadeth F. Ticar</data>
+  <data key="d2">Iloilo Science and Technology University (ISAT U)</data>
+</node>
+<node id="1KhUXnIAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Therese Ariane Neri</data>
+  <data key="d2">Hankyong National University</data>
+</node>
+<node id="vC_a9PUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Thanh Tri Nguyen</data>
+  <data key="d2">Can Tho University</data>
+</node>
+<node id="KKKK6QsAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Solange I. Mussatto</data>
+  <data key="d2">Technical University of Denmark, Department of Biotechnology and Biomedicine</data>
+</node>
+<node id="GyrltScAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Jae-Min Lim</data>
+  <data key="d2">Department of Chemistry, Changwon National University</data>
+</node>
+<node id="Gcm2nyEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Vitor Hugo Pomin</data>
+  <data key="d2">Department of Biomolecular Sciences, University of Mississippi</data>
+</node>
+<node id="rBmkPm8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Christian Heiss</data>
+  <data key="d2">University of Georgia</data>
+</node>
+<node id="xEtC0b8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Stephanie Archer-Hartmann</data>
+  <data key="d2">Complex Carbohydrate Research Center; University of Georgia</data>
+</node>
+<node id="ZJHeqdEAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Parastoo Azadi</data>
+  <data key="d2">Complex Carbohydrate Research Center</data>
+</node>
+<node id="a2yrItMAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Justyna M. Dobruchowska, Ph.D.</data>
+  <data key="d2">Utrecht University</data>
+</node>
+<node id="URBmW-IAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ariana Vasconcelos</data>
+  <data key="d2">Researcher in biochemistry at the Federal University of Rio de Janeiro</data>
+</node>
+<node id="smnE0woAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rizkie Satriya Utama</data>
+  <data key="d2">Research Center for Oseanography, Indonesian Institute of Sciences</data>
+</node>
+<node id="-Taiq1AAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Grace Palmos</data>
+  <data key="d2">University of the Philippines Visayas</data>
+</node>
+<node id="T3r1vPwAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rini Rachmatika</data>
+  <data key="d2">Museum Zoologicum Bogoriense, National Research and Innovation Agency, BRIN</data>
+</node>
+<node id="DEZATQ4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Dawon Kang</data>
+  <data key="d2">Gyeongsang National University</data>
+</node>
+<node id="tBYaeyUAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">siti prijono</data>
+  <data key="d2">Senior Researcher</data>
+</node>
+<node id="RCmY9RQAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Tyas Ikhsan Hikmawan</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<node id="mXjQ2N8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Ulrich Stingl</data>
+  <data key="d2">Asst Professor for Microbial Ecology, University of Florida</data>
+</node>
+<node id="blJPHy4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">André Antunes</data>
+  <data key="d2">Associate Prof, Macau University of Science and Technology (State Key Lab of Lunar and Planetary Sci</data>
+</node>
+<node id="FjXM8FoAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">David Kamanda Ngugi</data>
+  <data key="d2">Junior Group Leader</data>
+</node>
+<node id="ElM1rCAAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Mandeep Kaur</data>
+  <data key="d2">University of the Witwatersrand, South Africa</data>
+</node>
+<node id="nuyF7nYAAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Sunil Sagar</data>
+  <data key="d2">Research Scientist, King Abdullah University of Science &amp; Technology, Kingdom of Saudi Arabia</data>
+</node>
+<node id="gTAXIO4AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Rania Siam</data>
+  <data key="d2">American University in Cairo</data>
+</node>
+<node id="rWbAdH8AAAAJ">
+  <data key="d0">coauthor</data>
+  <data key="d1">Mamoon Rashid</data>
+  <data key="d2">King Abdullah International Medical Research Center, National Guard Health Affair</data>
+</node>
+<node id="tNAkRUwAAAAJ">
+  <data key="d0">main</data>
+  <data key="d1">Siti Nurbaiti</data>
+  <data key="d2">Universitas Gadjah Mada</data>
+</node>
+<edge source="TSsPJDEAAAAJ" target="p0YrSy0AAAAJ"/>
+<edge source="TSsPJDEAAAAJ" target="IWBSUNwAAAAJ"/>
+<edge source="TSsPJDEAAAAJ" target="E4um8egAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="1MqjpUwAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="KKw74bMAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="E4um8egAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="1G5y0UsAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="pa0HgLcAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="8U74n-sAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="cBX80sYAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="E85U-A4AAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="9yVGmm8AAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="gLU2fTAAAAAJ"/>
+<edge source="IWBSUNwAAAAJ" target="U3ATsRYAAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="MvYFFTEAAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="F8Z2zHEAAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="KlXLZMAAAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="aHXVjrsAAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="VWGACcQAAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="5ymLcisAAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="Z7sEZK4AAAAJ"/>
+<edge source="dxRdss4AAAAJ" target="sXRwcrIAAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="uafT9kgAAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="dNcZCegAAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="2YN8-AsAAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="Jgl2UPMAAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="xb7DGo8AAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="6ImOpxkAAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="vGCkhYcAAAAJ"/>
+<edge source="MvYFFTEAAAAJ" target="8eShEpgAAAAJ"/>
+<edge source="aHXVjrsAAAAJ" target="VWGACcQAAAAJ"/>
+<edge source="aHXVjrsAAAAJ" target="BcGzILwAAAAJ"/>
+<edge source="aHXVjrsAAAAJ" target="MvYFFTEAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="aHXVjrsAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="BcGzILwAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="X8IjBKwAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="MvYFFTEAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="g7A2PuQAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="12CrTFIAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="4y8d3aoAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="IWBSUNwAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="tKUlcJ0AAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="NYGf0jsAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="dxRdss4AAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="HlpmaxQAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="qLOIZhkAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="mqkaLTQAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="rP3sBfoAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="-AQcmPsAAAAJ"/>
+<edge source="VWGACcQAAAAJ" target="YdvSSBEAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="W5C6h9AAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="h4zfZSIAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="MD9koIMAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="zzz61bUAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="YdvSSBEAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="f2zADhgAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="XyTEFDYAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="QM-qHH4AAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="34Rwe5QAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="excmegUAAAAJ"/>
+<edge source="9hpBjFQAAAAJ" target="ifOzc-4AAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="ABAF8Q0AAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="HQu99LUAAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="YGr9SnEAAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="xeAwmrkAAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="hMhQVj4AAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="XegndvkAAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="DxFcjcAAAAAJ"/>
+<edge source="h4zfZSIAAAAJ" target="J4FlkZIAAAAJ"/>
+<edge source="YdvSSBEAAAAJ" target="bqZRdngAAAAJ"/>
+<edge source="YdvSSBEAAAAJ" target="MldxL2UAAAAJ"/>
+<edge source="YdvSSBEAAAAJ" target="5mCFmrgAAAAJ"/>
+<edge source="YdvSSBEAAAAJ" target="muW5WPUAAAAJ"/>
+<edge source="YdvSSBEAAAAJ" target="qUnfKd0AAAAJ"/>
+<edge source="YdvSSBEAAAAJ" target="VWGACcQAAAAJ"/>
+<edge source="LqNqu6UAAAAJ" target="6ImOpxkAAAAJ"/>
+<edge source="LqNqu6UAAAAJ" target="Nt3OT2EAAAAJ"/>
+<edge source="LqNqu6UAAAAJ" target="9W1XKXoAAAAJ"/>
+<edge source="LqNqu6UAAAAJ" target="mS2Tv44AAAAJ"/>
+<edge source="LqNqu6UAAAAJ" target="83cid2AAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="imwRiIsAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="7KGP6IUAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="sXRwcrIAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="j8LfK8cAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="Hp95hn4AAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="1MqjpUwAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="DL_mMUIAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="CcWjaZIAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="ZV0MTQkAAAAJ"/>
+<edge source="6ImOpxkAAAAJ" target="_wk2Pg4AAAAJ"/>
+<edge source="3KjocbAAAAAJ" target="imwRiIsAAAAJ"/>
+<edge source="3KjocbAAAAAJ" target="vGCkhYcAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="BbAf-1cAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="6ImOpxkAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="qBhw3GsAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="DOUjwSQAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="DEUn5SsAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="_wk2Pg4AAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="ds53YvcAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="MvYFFTEAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="D-O4f0MAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="5nspleUAAAAJ"/>
+<edge source="imwRiIsAAAAJ" target="ftOYbeAAAAAJ"/>
+<edge source="vGCkhYcAAAAJ" target="AFx_JxMAAAAJ"/>
+<edge source="vGCkhYcAAAAJ" target="dNcZCegAAAAJ"/>
+<edge source="vGCkhYcAAAAJ" target="mqkaLTQAAAAJ"/>
+<edge source="vGCkhYcAAAAJ" target="8eShEpgAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="uafT9kgAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="IWBSUNwAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="Ij6ILSUAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="Ynebb8kAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="qLOIZhkAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="iRp3uCAAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="t4LrsqoAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="kjPCDGYAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="_zDWrqkAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="j6oArY4AAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="q6qPFe8AAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="blP_GPIAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="T4ybZUAAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="6ImOpxkAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="d3AbyHAAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="8i4T1wEAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="wa9UlrgAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="z0-S85wAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="Jgl2UPMAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="10W8sxMAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="d3e0necAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="Uryl430AAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="Py6tS9QAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="GFDVy2YAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="BcGzILwAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="Ah32njAAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="L1e9n7wAAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="nXtbTw8AAAAJ"/>
+<edge source="cBX80sYAAAAJ" target="0VfYnp0AAAAJ"/>
+<edge source="qLOIZhkAAAAJ" target="oBLr-DwAAAAJ"/>
+<edge source="qLOIZhkAAAAJ" target="cBX80sYAAAAJ"/>
+<edge source="q6qPFe8AAAAJ" target="cBX80sYAAAAJ"/>
+<edge source="q6qPFe8AAAAJ" target="aEA-VpUAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="qBhw3GsAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="1G5y0UsAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="gz5YIGUAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="XfGfpAMAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="DxNIQEcAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="u0Sv3QUAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="wpTV3ykAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="ds53YvcAAAAJ"/>
+<edge source="1MqjpUwAAAAJ" target="-zWrTDUAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="YdvSSBEAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="MldxL2UAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="rlIm50gAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="rUkCzPIAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="h4zfZSIAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="TFptHqkAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="_vVCy3AAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="xB2wQl4AAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="SCFoxrwAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="JZxpXsUAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="9hpBjFQAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="eOmD_SIAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="hSQF7MIAAAAJ"/>
+<edge source="bqZRdngAAAAJ" target="byJ_XQMAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="FPH7dqYAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="q6qPFe8AAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="zBH0bk8AAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="G-wgx3sAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="12CrTFIAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="bqZRdngAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="NkxEGMAAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="wuF-Xo0AAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="YdvSSBEAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="9hpBjFQAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="lL3u35YAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="IWBSUNwAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="h4zfZSIAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="MldxL2UAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="JPF91lMAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="A3Ern2YAAAAJ"/>
+<edge source="rlIm50gAAAAJ" target="kpe8HnoAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="qBhw3GsAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="d-JgjnAAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="vfB7fAQAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="tWdNNiMAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="eE9DTJMAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="XFWwwxAAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="Rj97768AAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="hS2QTmYAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="PkcYguoAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="ssDhnwUAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="TjaczhcAAAAJ"/>
+<edge source="FPH7dqYAAAAJ" target="VJzrQV8AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="FPH7dqYAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="q6qPFe8AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="lL3u35YAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="rlIm50gAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="ipMy6GsAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="8mMi8vkAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="Lo8QJMIAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="qBhw3GsAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="wt_G_jAAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="cBX80sYAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="1MqjpUwAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="bqZRdngAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="1JVo69oAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="qfNnEgUAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="vJ28JagAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="cdHdKvQAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="bcI75fIAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="Z4e7zHoAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="IWBSUNwAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="bsD5BikAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="elVo92MAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="dF76aswAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="LrDUsvcAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="UAnShRcAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="YFp3nLgAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="-5KMBIwAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="T-35ztEAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="WpZq2eIAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="asPm8Q0AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="GCVQswUAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="FiUozBsAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="cxsjds8AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="12CrTFIAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="iRp3uCAAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="bWkmoJoAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="qLOIZhkAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="J4li_t0AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="JXWTV4sAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="cJRbfYwAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="LqNqu6UAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="vfB7fAQAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="eWURYlcAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="POZ5y0AAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="07niZtsAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="Gro7b_wAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="vAN3q74AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="WjM7OFkAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="tTPZiJYAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="j8B7MwEAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="mqkaLTQAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="1G5y0UsAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="96Q1zykAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="e0lCOdUAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="CceRU2kAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="JDkJf08AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="2wJCug0AAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="ggCxRRIAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="gVm8FSsAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="6JhjMmgAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="oBLr-DwAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="TSsPJDEAAAAJ"/>
+<edge source="zBH0bk8AAAAJ" target="ZuIicpwAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="hRKblrQAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="8eWo5bIAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="SY31yxEAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="RkXVoxgAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="3iGuniAAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="zTGHeI4AAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="HI1VZYwAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="imwRiIsAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="wbD_inkAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="sJ8UgjsAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="akqIOYYAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="MvYFFTEAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="6ImOpxkAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="vEaXD9YAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="12CrTFIAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="YhPtFJYAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="d3mqIVUAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="d_PUN-0AAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="qhDO5x4AAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="ynx9c0IAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="DHfwJ8EAAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="lScl_T0AAAAJ"/>
+<edge source="D-O4f0MAAAAJ" target="TN6r-7oAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="3rq47_kAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="71K8_hoAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="oZmVTc8AAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="8U74n-sAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="Xcc3n5QAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="IDgASZ4AAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="nj2ZDI4AAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="oy8eji8AAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="cN94q3EAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="g9fVw3wAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="k6rqHswAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="6JhjMmgAAAAJ"/>
+<edge source="-FqY7JcAAAAJ" target="LQacaM0AAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="WkgvOHAAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="O8ibLlQAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="qhDO5x4AAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="t4LrsqoAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="uBaW-4YAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="lMCKRS8AAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="7g1TBpgAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="XfGfpAMAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="ZFm8UocAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="nKBamZkAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="nliKdrMAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="6ImOpxkAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="LqNqu6UAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="c_E8QCMAAAAJ"/>
+<edge source="cJRbfYwAAAAJ" target="mqkaLTQAAAAJ"/>
+<edge source="1G5y0UsAAAAJ" target="IWBSUNwAAAAJ"/>
+<edge source="1G5y0UsAAAAJ" target="oBLr-DwAAAAJ"/>
+<edge source="1G5y0UsAAAAJ" target="PHI8Cf4AAAAJ"/>
+<edge source="zAPCbnkAAAAJ" target="akqIOYYAAAAJ"/>
+<edge source="zAPCbnkAAAAJ" target="5K0zVokAAAAJ"/>
+<edge source="zAPCbnkAAAAJ" target="vGCkhYcAAAAJ"/>
+<edge source="zAPCbnkAAAAJ" target="06nKzQMAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="t4LrsqoAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="cJRbfYwAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="nliKdrMAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="u8385HUAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="zdPFZaoAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="zO8AXyAAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="ivV1cYUAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="1MqjpUwAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="JHLikMoAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="2S8BCpUAAAAJ"/>
+<edge source="7g1TBpgAAAAJ" target="q4HTA-4AAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="w963GbkAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="1KhUXnIAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="vC_a9PUAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="bWkmoJoAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="KKKK6QsAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="GyrltScAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="0eGwHRsAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="I3fdzE0AAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="Gcm2nyEAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="rBmkPm8AAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="xEtC0b8AAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="ZJHeqdEAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="a2yrItMAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="URBmW-IAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="asPm8Q0AAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="smnE0woAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="6ImOpxkAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="7KGP6IUAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="VWGACcQAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="-Taiq1AAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="T3r1vPwAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="12CrTFIAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="DEZATQ4AAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="tBYaeyUAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="1G5y0UsAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="qLOIZhkAAAAJ"/>
+<edge source="g7A2PuQAAAAJ" target="YdvSSBEAAAAJ"/>
+<edge source="E85U-A4AAAAJ" target="MvYFFTEAAAAJ"/>
+<edge source="E85U-A4AAAAJ" target="IWBSUNwAAAAJ"/>
+<edge source="E85U-A4AAAAJ" target="KuOZZSAAAAAJ"/>
+<edge source="E85U-A4AAAAJ" target="g13UiaYAAAAJ"/>
+<edge source="E85U-A4AAAAJ" target="1G5y0UsAAAAJ"/>
+<edge source="KRVCCcgAAAAJ" target="WxCX_lAAAAAJ"/>
+<edge source="VashVaoAAAAJ" target="h4zfZSIAAAAJ"/>
+<edge source="VashVaoAAAAJ" target="vGCkhYcAAAAJ"/>
+<edge source="VashVaoAAAAJ" target="U-oApogAAAAJ"/>
+<edge source="U-oApogAAAAJ" target="1Yr2wBEAAAAJ"/>
+<edge source="U-oApogAAAAJ" target="JvJSvrcAAAAJ"/>
+<edge source="U-oApogAAAAJ" target="-u_ul9YSW_4C"/>
+<edge source="U-oApogAAAAJ" target="tR_bSdgAAAAJ"/>
+<edge source="U-oApogAAAAJ" target="DU3mJLwAAAAJ"/>
+<edge source="U-oApogAAAAJ" target="h4zfZSIAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="RzkihVUAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="PQVr308AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="kqILUqMAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="w4FS67cAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Y1g592sAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="iR9anWEAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="JkBqCnMAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Y_NdcAoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Xh-ZTEwAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="1uSINMwAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Ix4XV7cAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="TR87pg8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="lXzOnXAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="y5aPi_4AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="yq3qwhAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="y0mRoNUAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="OTx1vvgAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="X5JUoOMAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="e89cADYAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="tNe_FJ0AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="NPTWtk8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="1GOPzRsAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="ElZF8rwAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="G_4Y8SYAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="h4XuosoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="2bwNJssAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="n1zhhLwAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="LnhKwrwAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="OVEY8OIAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="ilVTnCcAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="wzbCO2QAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Goc9cW8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="EURNLnUAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="JFbsUoIAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="bowPW_kAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="ujzSssQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="FYgvQjYAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="ARLV8u8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="KNl_zfcAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="_nP4UdgAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="iqiKdzAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="5MpWyHAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="XhvKruQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="6xerYvQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="bo1P4G8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="xgJwNnsAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="fkj79sQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="QpUr29kAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="iqr7dRMAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="8ZWvCy4AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="yITNedQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Mw3P0XQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="xYMsTzcAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="eubwpI8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="09x39cEAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="sP_PujEAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="3EZZ6k0AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="GxaGAGwAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Z_o43bgAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Slgid9AAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="D_7fMuoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="gAXr8nAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="o6ta23AAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="CEJdAs8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="oUr8-MIAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="SpIcp3MAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="_Tl_wL8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="wJ3QKgYAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="nZySvdQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="pl0kLO0AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="79GcbJQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="8Oguxf4AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="J8NXQlYAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="MoH9UF4AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="-3irPssAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="ukkifh0AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="Xg7sD0YAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="SwtKHGUAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="KFz8ji0AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="JOBLE1IAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="6aoIO4gAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="70TTbhQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="W2tO0lEAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="1BOdWmgAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="9bVZYGoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="uToFMqAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="yCsfpKsAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="gKQ1z64AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="24oopLoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="vTCD7c4AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="PzE2CtcAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="2IdEtUUAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="G-mkGl8AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="MsPwAeoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="i9SsZcwAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="QRU6i3gAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="gkBGgDcAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="kYEC7G0AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="s1luzOAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="LC8KJAEAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="9zCjkx4AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="uVpzIigAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="sbyfBSsAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="BT4k0zAAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="O6NrfjoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="E8OoUkQAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="_KvPf1gAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="uVLWFHMAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="2A32XXMAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="ZjK2AooAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="etBUL7sAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="08l1PbsAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="6LQcgLsAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="JDx6sscAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="--Iy7d4AAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="MhwSteMAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="wgAwregAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="MB72yPoAAAAJ"/>
+<edge source="p5NpwrkAAAAJ" target="I6Z704QAAAAJ"/>
+<edge source="RCmY9RQAAAAJ" target="mXjQ2N8AAAAJ"/>
+<edge source="RCmY9RQAAAAJ" target="blJPHy4AAAAJ"/>
+<edge source="RCmY9RQAAAAJ" target="FjXM8FoAAAAJ"/>
+<edge source="RCmY9RQAAAAJ" target="ElM1rCAAAAAJ"/>
+<edge source="RCmY9RQAAAAJ" target="nuyF7nYAAAAJ"/>
+<edge source="RCmY9RQAAAAJ" target="gTAXIO4AAAAJ"/>
+<edge source="RCmY9RQAAAAJ" target="rWbAdH8AAAAJ"/>
+</graph></graphml>

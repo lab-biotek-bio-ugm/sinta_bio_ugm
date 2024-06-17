@@ -1,0 +1,612 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "1G5y0UsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Lisna Hidayati",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1G5y0UsAAAAJ&citpid=1",
+  "affiliation": "Lecturer of Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Molecular Biology",
+    "Biomedical Sciences",
+    "Bioinformatics",
+    "Natural Products",
+    "Natural Pigment"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 128,
+  "citedby5y": 125,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 4,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2019": 6,
+    "2020": 6,
+    "2021": 29,
+    "2022": 36,
+    "2023": 31,
+    "2024": 12
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IWBSUNwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nastiti Wijayanti",
+      "affiliation": "Justus Liebig University and Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "oBLr-DwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Woro Anindito Sri Tunjung",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "PHI8Cf4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sitarina Widyarini",
+      "affiliation": "Associate Professor Veterinary Science, Gadjah Mada University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The antioxidant and cytotoxic activities of the chloroform extract of agarwood (Gyrinops versteegii (Gilg.) Domke) leaves on HeLa cell lines",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16878886926068812802",
+      "cites_id": [
+        "16878886926068812802"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytochemical analysis of agarwood (Gyrinops versteegii (Gilg.) Domke) leaves extracts as anticancer using GC-MS",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2194 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7179066138040618771",
+      "cites_id": [
+        "7179066138040618771"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of anticancer compounds in leaves extracts of agarwood (Aquilaria malaccensis (Lamk.))",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012036, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2937254194800884295",
+      "cites_id": [
+        "2937254194800884295"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial activity and composition of crude extracts of kaffir lime (Citrus hystrix DC.) leaves and callus: antibacterial activity of kaffir lime leaves and callus",
+        "pub_year": "2018",
+        "citation": "Proceedings of the Pakistan Academy of Sciences: B. Life and Environmental \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1621486604344461116",
+      "cites_id": [
+        "1621486604344461116"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of 2, 4-dichlorophenoxyacetic acid (2, 4-D) concentration on kaffir lime callus growth as raw material for cell suspension",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:UebtZRa9Y70C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17698155139832927217",
+      "cites_id": [
+        "17698155139832927217"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "implementasi inovasi budi daya stroberi di agrowisata Banyuroto Kabupaten Magelang melalui education for sustainable development",
+        "pub_year": "2017",
+        "citation": "Indon J Commun Engag 2 (2), 125-132, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6123780426101986531",
+      "cites_id": [
+        "6123780426101986531"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secondary Metabolite Profiling of Four Host Plants Leaves of Wild Silk Moth Attacus atlas L.",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Biotechnology 21 (2), 117-124, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7981706320105900723",
+      "cites_id": [
+        "7981706320105900723"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Anticancer Bioactive Compounds and Cytotoxicity of Citrus hystrix Dc. Callus Extract Post Preservation.",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Pharmacy/Majalah Farmasi Indonesia 32 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6017300112468080306",
+      "cites_id": [
+        "6017300112468080306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of growth factor in callus induction and bioactive compounds in seed explant of kaffir lime (Citrus hystrix DC.)",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Pharmacy 31 (2), 61, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:Se3iqnhoufwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17125511297144370774",
+      "cites_id": [
+        "17125511297144370774"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico vaccine design against dengue virus type 2 envelope glycoprotein",
+        "pub_year": "2020",
+        "citation": "Hayati Journal of Biosciences 27 (3), 228-228, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:0EnyYjriUFMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5548995720390410817",
+      "cites_id": [
+        "5548995720390410817"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiviral activity of agarwood Aquilaria malaccensis lamk and Gyrinops versteegii (Gilg.) Domke leaves ethanolic extract against dengue serotype 3 virus in vitro",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2231 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:roLk4NBRz8UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6298316266481574309",
+      "cites_id": [
+        "6298316266481574309"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Extraction Methods and Dyeing Standarization of Nila Leaves (Indigoferatinctoria Linn.) as Natural Dyes",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 187 (1), 012031, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16946529053058406728",
+      "cites_id": [
+        "16946529053058406728"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immunomodulatory activity of agarwood Aquilaria malaccensis Lamk. leaf extracts on Staphylococcus aureus-infected macrophages in vitro",
+        "pub_year": "2022",
+        "citation": "The Indonesian Biomedical Journal 14 (2), 156-63, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13988458028404629646",
+      "cites_id": [
+        "13988458028404629646"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant activity evaluation of agarwood Aquilaria malaccensis Lamk. leaves extract using DPPH, FRAP and ABTS assays",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 18-25, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2926407541557364033",
+      "cites_id": [
+        "2926407541557364033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolite profiling of agarwood (Gyrinops versteegii (Gilg.) Domke) leaves from difference growth locations using Thin Layer Chromatography",
+        "pub_year": "2021",
+        "citation": "Jurnal Biologi Tropis 21 (2), 615-623, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11761537984925002911",
+      "cites_id": [
+        "11761537984925002911"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainable production performance index measurement in small scale chicken slaughtering",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 524 (1), 012017, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14616610634970351622",
+      "cites_id": [
+        "14616610634970351622"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synergistic Activity of Cinnamomum burmannii (Nees & T. Nees) Blume and Aquilaria malaccensis Lamk. Extracts for Antidiabetic Study",
+        "pub_year": "2023",
+        "citation": "The Indonesian Biomedical Journal 15 (2), 132-40, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8768211355864594929",
+      "cites_id": [
+        "8768211355864594929"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callus Induction from Cotyledon of Gyrinops versteegii (Gilg.) Domke",
+        "pub_year": "2021",
+        "citation": "Jurnal Biologi Tropis 21 (2), 427-433, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:5nxA0vEk-isC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1944382896912989524",
+      "cites_id": [
+        "1944382896912989524"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Anticancer Bioactive Compounds and Cytotoxicity of Kaffir Lime (Citrus hystrix Dc.) Callus Extract Post Preservation",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Pharmacy, 179-192, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4215782042305451657",
+      "cites_id": [
+        "4215782042305451657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2020",
+        "citation": "Journal of Biosciences 27 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13159455440109778657",
+      "cites_id": [
+        "13159455440109778657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein profile of breast cancer cell line (T47D) with kaffir lime (Citrus hystrix DC.) leaf extract treatment",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17648566157067242547",
+      "cites_id": [
+        "17648566157067242547"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Konsentrasi Sukrosa terhadap Kadar Piperin pada Kalus Cabe Jawa (Piper retrofractum Vahl.)",
+        "pub_year": "2023",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 49-58, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17147833787496416031",
+      "cites_id": [
+        "17147833787496416031"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of \u03b1-glucosidase and \u03b1-amylase inhibition for antidiabetic potential of agarwood (Aquilaria malaccensis) leaves extract",
+        "pub_year": "2024",
+        "citation": "Biocatalysis and Agricultural Biotechnology 58, 103152, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-hypercholesterolemia, Anti-atherogenic, and Anti-hypertension Effects of Red Beetroot (Beta vulgaris L.) in Rats Induced by High Fat and Fructose Diet",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (2), 75914, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Halal Control Points (HCP) traceability of pokak to support local food development at Geoparks Bromo, Tengger, Semeru (BTS)",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1153 (1), 012003, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Machine Learning-Based Virtual Screening for Natural Compounds Potential on Inhibiting Acetylcholinesterase in the Treatment of Alzheimer\u2019s Disease",
+        "pub_year": "2023",
+        "citation": "BIO Web of Conferences 75, 03001, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Immunomodulatory Activity of Leaves Extract of Gaharu Gyrinops versteegii (Gilg.) Domke on Macrophage Cell of Mice (Mus musculus L.) in vitro",
+        "pub_year": "2022",
+        "citation": "BERITA BIOLOGI 21 (2), 101-109, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Imunomodulator Ekstrak Daun Gaharu Gyrinops versteegii (Gilg.) Domke terhadap Sel Makrofag Mencit (Mus musculus L.) secara In Vitro",
+        "pub_year": "2021",
+        "citation": "Skripsi. Fakultas Biologi. Universitas Gadjah Mada. Yogyakarta. Indonesia, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scientific Editorial Board: 1st International Conference on Bioinformatics, Biotechnology and Biomedical Engineering (BioMIC 2018)",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2099 (1), 010002, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: 1st International Conference on Bioinformatics, Biotechnology and Biomedical Engineering (BioMIC 2018)",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2099 (1), 010001, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scientific & Editorial (S&E) Board: Inventing Prosperous Future through Biological Research and Tropical Biodiversity Management",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 010002, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: Inventing Prosperous Future through Biological Research and Tropical Biodiversity Management",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 010001, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of buah merah (Pandanus conoideus Lamk) active fraction on cell proliferation, COX-2 and p53 expression of C3H mice breast cancer model",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEK FRAKSI AKTIF BUAH MERAH (Pandanus conoideus Lamk.) TERHADAP PROLIFERASI SEL, EKSPRESI COX-2 DAN P53, SERTA AKTIVITAS FAGOSITOSIS MAKROFAG PADA KANKER PAYUDARA MODEL MENCIT C3",
+        "pub_year": "2012",
+        "citation": "Universitas Gadjah Mada, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of buah merah active fraction (Pandanus conoideus Lamk.) on macrophages phagocytosis activity of C3H mice breast cancer model",
+        "pub_year": "2011",
+        "citation": "ICBS, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Therapeutic Effects of BRC Functional Food from Indonesian Black Rice on Body Weight and Haematological Parameters in Obese Rats",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (1), 85847, 0"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Photoprotective of Gyrinops versteegii (Gilg.) Domke Leaves Extract with Different Solvents and Its Spatial Distribution",
+        "citation": "JPSCR: Journal of Pharmaceutical Science and Clinical Research 8 (2), 265-277, 0"
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BioMIC 2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1G5y0UsAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

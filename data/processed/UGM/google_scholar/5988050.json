@@ -1,0 +1,1034 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "g7A2PuQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Zuliyati Rohmah",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=g7A2PuQAAAAJ&citpid=3",
+  "affiliation": "Faculty of Biology Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Animal structure and development",
+    "Marine natural product",
+    "Nutritional chemistry",
+    "Marine fisheries",
+    "Seafood"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "homepage": "https://acadstaff.ugm.ac.id/zuliyatirohmah",
+  "citedby": 145,
+  "citedby5y": 116,
+  "hindex": 9,
+  "hindex5y": 7,
+  "i10index": 7,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2015": 6,
+    "2016": 5,
+    "2017": 8,
+    "2018": 8,
+    "2019": 6,
+    "2020": 26,
+    "2021": 24,
+    "2022": 22,
+    "2023": 24,
+    "2024": 14
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "w963GbkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bernadeth F. Ticar",
+      "affiliation": "Iloilo Science and Technology University (ISAT U)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1KhUXnIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Therese Ariane Neri",
+      "affiliation": "Hankyong National University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vC_a9PUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Thanh Tri Nguyen",
+      "affiliation": "Can Tho University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bWkmoJoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hendry Saragih",
+      "affiliation": "Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KKKK6QsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Solange I. Mussatto",
+      "affiliation": "Technical University of Denmark, Department of Biotechnology and Biomedicine"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "GyrltScAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jae-Min Lim",
+      "affiliation": "Department of Chemistry, Changwon National University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "0eGwHRsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ludmilla Fitri Untari",
+      "affiliation": "University of Gadjah Mada, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "I3fdzE0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Indra Lesmana",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Gcm2nyEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Vitor Hugo Pomin",
+      "affiliation": "Department of Biomolecular Sciences, University of Mississippi"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rBmkPm8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Christian Heiss",
+      "affiliation": "University of Georgia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xEtC0b8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Stephanie Archer-Hartmann",
+      "affiliation": "Complex Carbohydrate Research Center; University of Georgia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ZJHeqdEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Parastoo Azadi",
+      "affiliation": "Complex Carbohydrate Research Center"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "a2yrItMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Justyna M. Dobruchowska, Ph.D.",
+      "affiliation": "Utrecht University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "URBmW-IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ariana Vasconcelos",
+      "affiliation": "Researcher in biochemistry at the Federal University of Rio de Janeiro"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "asPm8Q0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ardaning Nuriliani",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "smnE0woAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rizkie Satriya Utama",
+      "affiliation": "Research Center for Oseanography, Indonesian Institute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6ImOpxkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Setiadi Daryono",
+      "affiliation": "Dosen Genetika dan Dekan  Fakultas Biologi UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "7KGP6IUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yuny Erwanto",
+      "affiliation": "Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VWGACcQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Laksmindra Fitria",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-Taiq1AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Grace Palmos",
+      "affiliation": "University of the Philippines Visayas"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "T3r1vPwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rini Rachmatika",
+      "affiliation": "Museum Zoologicum Bogoriense, National Research and Innovation Agency, BRIN"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "12CrTFIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tuty Arisuryanti",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DEZATQ4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dawon Kang",
+      "affiliation": "Gyeongsang National University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tBYaeyUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "siti prijono",
+      "affiliation": "Senior Researcher"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1G5y0UsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Lisna Hidayati",
+      "affiliation": "Lecturer of Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qLOIZhkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Luthfi Nurhidayat",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YdvSSBEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rury Eprilurahman",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seasonal variations of nutritional components in cockles (Tegillarca granosa) processed from the Southern Coast of Korea",
+        "pub_year": "2017",
+        "citation": "Cogent Food & Agriculture 3 (1), 1360102, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14708896347784193003",
+      "cites_id": [
+        "14708896347784193003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enzyme-assisted extraction of anticoagulant polysaccharide from Liparis tessellatus eggs",
+        "pub_year": "2015",
+        "citation": "International journal of biological macromolecules 74, 601-607, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8923213405364980557",
+      "cites_id": [
+        "8923213405364980557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hyaluronidase-inhibitory activities of glycosaminoglycans from Liparis tessellatus eggs",
+        "pub_year": "2017",
+        "citation": "Carbohydrate polymers 161, 16-20, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:Zph67rFs4hoC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6465957232563010526",
+      "cites_id": [
+        "6465957232563010526"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Spirogyra jaoensis as a dietary supplement on growth, pectoralis muscle performance, and small intestine morphology of broiler chickens",
+        "pub_year": "2019",
+        "citation": "Veterinary World 12 (8), 1233, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5081534114754241361",
+      "cites_id": [
+        "5081534114754241361"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aquaculture Reports",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2025889647731985494",
+      "cites_id": [
+        "2025889647731985494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biocompatibility and structural characterization of glycosaminoglycans isolated from heads of silver-banded whiting (Sillago argentifasciata Martin & Montalban 1935)",
+        "pub_year": "2020",
+        "citation": "International journal of biological macromolecules 151, 663-676, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:-f6ydRqryjwC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2109723664595809590",
+      "cites_id": [
+        "2109723664595809590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGUATAN INDUSTRI BIBIT UNGGAS NASIONAL MELALUI PRODUKSIINDUKAN GAMA AYAM LOKAL UNGGUL",
+        "pub_year": "2012",
+        "citation": "JURNAL ILMU PENGETAHUANDAN TEKNOLOGI TEPATGUNA UNIVERSITAS GADJAH MA 1 (2012), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:HDshCWvjkbEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16257769377591845280",
+      "cites_id": [
+        "16257769377591845280"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of sea mustard (Undaria pinnatifida) sporophylls from South Korea as fucoidan source and its corresponding antioxidant activities",
+        "pub_year": "2019",
+        "citation": "Fisheries and Aquatic Sciences 22, 1-7, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:hC7cP41nSMkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=809297370465076248",
+      "cites_id": [
+        "809297370465076248"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-obesity effects of Lipid Extract from Sea-reared of Rainbow Trout (Oncorhynchus mykiss) Fed with Sea Squirt (Halocynthia roretzi) Tunic's Carotenoids and CLA",
+        "pub_year": "2016",
+        "citation": "Journal of Nutrition and Food Sciences 6 (4), 525-532, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:0EnyYjriUFMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10533370385066965368",
+      "cites_id": [
+        "10533370385066965368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of antioxidant and anti-inflammatory activities of ascidian tunic carotenoids as a source of color cosmetics",
+        "pub_year": "2013",
+        "citation": "KSBB Journal 28 (1), 36-41, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13755470545977347807",
+      "cites_id": [
+        "13755470545977347807"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi bakteri patogen pada olahan daging sapi penyebab klb keracunan pangan Di Temanggung tahun 2018",
+        "pub_year": "2019",
+        "citation": "Prosiding SNPBS (Seminar Nasional Pendidikan Biologi dan Saintek) Ke-4, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4867407479323651513",
+      "cites_id": [
+        "4867407479323651513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant activities in processed cockle (Tegillarca granosa) from the Yeosu",
+        "pub_year": "2017",
+        "citation": "\ub18d\uc5c5\uc0dd\uba85\uacfc\ud559\uc5f0\uad6c 51 (4), 131-138, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15838531379158468739",
+      "cites_id": [
+        "15838531379158468739"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of different culture conditions on nutritional value of Moina macrocopa as a live feed for fish fry production",
+        "pub_year": "2020",
+        "citation": "\ub18d\uc5c5\uc0dd\uba85\uacfc\ud559\uc5f0\uad6c 54 (6), 91-98, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6955276823890753092",
+      "cites_id": [
+        "6955276823890753092"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perilaku Nuri Bayan (Eclectus roratus) terhadap Perubahan Komposisi Koloni dengan Usia yang Berbeda",
+        "pub_year": "2021",
+        "citation": "Zoo Indonesia 30 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:k_IJM867U9cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4717455280953602903",
+      "cites_id": [
+        "4717455280953602903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skin regeneration effect of the glycosaminoglycans from Liparis tessellatus eggs",
+        "pub_year": "2017",
+        "citation": "International journal of biological macromolecules 105, 1369-1374, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15103268843049721203",
+      "cites_id": [
+        "15103268843049721203"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Evaluation on the Effectiveness as a Cosmetic Material of Glycosaminoglycans Extracted from Halocynthia roretzi Tunic",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14418176058846585758",
+      "cites_id": [
+        "14418176058846585758"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konsep Dasar Sel",
+        "pub_year": "2012",
+        "citation": "Biologi Sel, 1-50, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:blknAaTinKkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12042040009972702561",
+      "cites_id": [
+        "12042040009972702561"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of season and processing steps in nutritional components and bioactivities of blue mussels (Mytilus edulis)",
+        "pub_year": "2021",
+        "citation": "International Food Research Journal 28 (4), 752-762, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=695009372667959649",
+      "cites_id": [
+        "695009372667959649"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The development of integument and muscle in regenerated tail of Tokay gecko (Gekko gecko Linnaeus, 1758)",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16829044900387990694",
+      "cites_id": [
+        "16829044900387990694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Histopatologi Untuk Praktik Forensik: Review: Applications of Histopathology for Forensic Practice",
+        "pub_year": "2024",
+        "citation": "Borneo Journal of Medical Laboratory Technology 6 (2), 529-539, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gambaran Penyakit Neurodegeneratif: Huntington, Alzheimer, dan Parkinson: Sebuah Tinjauan",
+        "pub_year": "2024",
+        "citation": "Jurnal Biomedika dan Kesehatan 7 (1), 113-123, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Larutan Fiksatif Makromolekul pada Sediaan Histologis.",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 14 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Minyak Zaitun, Minyak Kelapa, dan Minyak Kelapa Sawit yang Dimurnikan sebagai Clearing Agent dalam Pembuatan Preparat Histologis.",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 14 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Variation Within Four Captive Chital (Axis axis) Populations in Indonesia",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (1), 74728, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphologicals and molecular characteristics of regang prawn (Macrobrachium sintangense De Man, 1898) from Special Region of Yogyakarta.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of season and processing steps in nutritional components and bioactivities of blue mussels (Mytilus edulis)",
+        "pub_year": "2021",
+        "citation": "International Food Research Journal (Malaysia), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter Morfologis dan Molekuler Udang Regang (Macrobrachium sintangense De Man, 1898) dari Daerah Istimewa Yogyakarta",
+        "pub_year": "2020",
+        "citation": "Universitas Gadjah Mada, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Histological Analysis Of Liver And Gills Of Climbing Pearch Anabas Testudineus (Bloch, 1792) From River Contaminated By Textile Waste In Wonoyoso, Pekalongan, Central Java",
+        "pub_year": "2019",
+        "citation": "Universitas Gadjah Mada, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Season and Processing Steps in Biochemical Composition, Bioactivity and Alcohol Dehydrogenase Activity of Blue Mussels (Mytilus edulis) from Southern Coast of Korea",
+        "pub_year": "2018",
+        "citation": "\ud55c\uad6d\uc218\uc0b0\ud574\uc591\uae30\uc220\ud559\ud68c \ud559\uc220\ubc1c\ud45c\ub300\ud68c, 276-276, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scientific & Editorial (S&E) Board: Inventing Prosperous Future through Biological Research and Tropical Biodiversity Management",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 010002, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: Inventing Prosperous Future through Biological Research and Tropical Biodiversity Management",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 010001, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seasonal variations of nutritional components in cockles (Tegillarca granosa) processed from the Southern Coast of Korea.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Antioxidant and Anti-Inflammatory Activitiesof Ascidian Tunic Carotenoids As a Source of Color Cosmetics",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Dietary Conjugated Linoleic Acid (CLA) and Carotenoids on Growth, Fatty Acid Composition, and 3T3-L1 Cells in Black Seabream (Acanthopagrus schlegeli)",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enzyme-assisted extraction of anticoagulant polysaccharide from Liparis tessellatus eggs",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Ascidian (Halocynthia roretzi) Tunic Carotenoid and Conjugated Linoleic Acid on Sea-reared Rainbow Trout (Onchorynchus mykiss) Growth",
+        "pub_year": "2015",
+        "citation": "\ud55c\uad6d\uc218\uc0b0\uacfc\ud559\ud68c \uc591\uc2dd\ubd84\uacfc \ud559\uc220\ub300\ud68c, 123-123, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANTIOXIDANT AND IMMUNOSTIMULATING ACTIVITY OF POLYSACCHARIDES EXTRACTED FROM CUBED-SNAILFISH (Liparis tessellatus Gilbert & Burke \u2026",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 78-85, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\uba4d\uac8c\uaecd\uc9c8 \uae00\ub9ac\ucf54\uc2a4\uc544\ubbf8\ub178\uae00\ub9ac\uce78\uc758 \ud654\uc7a5\ud488 \uc18c\uc7ac\ub85c\uc11c\uc758 \uc720\ud6a8\uc131 \ud3c9\uac00",
+        "pub_year": "2015",
+        "citation": "\ub18d\uc5c5\uc0dd\uba85\uacfc\ud559\uc5f0\uad6c 49 (3), 155-162, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ENHANCING GROWTH AND MUSCLE COLORATION OF SEA-REARED RAINBOW TROUT (Oncorhynchus mykiss) WITH ASCIDIANS'TUNIC CAROTENOIDS",
+        "pub_year": "2015",
+        "citation": "\ud55c\uad6d\uc218\uc0b0\uacfc\ud559\ud68c \uc591\uc2dd\ubd84\uacfc \ud559\uc220\ub300\ud68c, 592-592, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT OF HEATING PROCESS AND STORAGE TIME TO DRIED LAVER QUALITIES",
+        "pub_year": "2015",
+        "citation": "\ud55c\uad6d\uc218\uc0b0\uacfc\ud559\ud68c \uc591\uc2dd\ubd84\uacfc \ud559\uc220\ub300\ud68c, 86-86, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Dietary Conjugated Linoleic Acid (CLA) and Carotenoids on Growth, Fatty Acid Composition, and 3T3-L1 Cells in Black Seabream (Acanthopagrus schlegeli)",
+        "pub_year": "2015",
+        "citation": "\uc0dd\uba85\uacfc\ud559\ud68c\uc9c0 25 (5), 548-556, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CLA \ucca8\uac00\uc0ac\ub8cc\uac00 \uac10\uc131\ub3d4 (Acanthopagrus schlegeli) \uc131\uc7a5\uacfc \uc9c0\ubc29\uc0b0 \uc870\uc131 \ubc0f \ub0b4\uc7a5 \ucd94\ucd9c\uc9c0\ubc29\uc774 \uc9c0\ubc29\uc138\ud3ec 3T3-L1 \uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5",
+        "pub_year": "2015",
+        "citation": "Journal of Life Science 25 (5), 548-556, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Dietary AscidiansTunic Carotenoids on Growth Performance of Sea-Reared Rainbow Trout (Oncorhynchus mykiss)",
+        "pub_year": "2014",
+        "citation": "\ud55c\uad6d\uc218\uc0b0\uacfc\ud559\ud68c \uc591\uc2dd\ubd84\uacfc \ud559\uc220\ub300\ud68c, 158-158, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Dietary AscidiansTunic Carotenoids on Polyunsaturated Fatty Acid (PUFA) Status of Sea-Reared Rainbow Trout (Oncorhynchus mykiss)",
+        "pub_year": "2014",
+        "citation": "\ud55c\uad6d\uc218\uc0b0\uacfc\ud559\ud68c \uc591\uc2dd\ubd84\uacfc \ud559\uc220\ub300\ud68c, 159-159, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant Activities of Melibe sp Lipids and Polysaccharides Extract",
+        "pub_year": "2014",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 479-479, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactive Acid Soluble Collagen from Starfish (Asteroidea)",
+        "pub_year": "2014",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 534-534, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\uba4d\uac8c\uaecd\uc9c8 \uce74\ub85c\ud14c\ub178\uc774\ub4dc\uc758 \uc0c9\uc870 \ud654\uc7a5\ud488 \uc6d0\ub8cc\uc758 \ud56d\uc0b0\ud654, \ud56d\uc5fc\uc99d \uae30\ub2a5\uc131 \ud3c9\uac00",
+        "pub_year": "2013",
+        "citation": "KSBB Journal 28 (1), 36-41, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\uba4d\uac8c\uaecd\uc9c8 \uce74\ub85c\ud14c\ub178\uc774\ub4dc\uc758 \uc0c9\uc870 \ud654\uc7a5\ud488 \uc6d0\ub8cc\uc758\ud56d\uc0b0\ud654, \ud56d\uc5fc\uc99d \uae30\ub2a5\uc131 \ud3c9\uac00",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant Activity of Nudibranch (Melibe viridis) Glycosaminoglycans",
+        "pub_year": "2012",
+        "citation": "\ud55c\uad6d\ub2f9\uacfc\ud559\ud68c \ud559\uc220\ub300\ud68c, 100-100, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-inflammatory, Anti-cancer, and Cytotoxic Activities of Polysaccharides extracted from Liparis tesellatus eggs",
+        "pub_year": "2012",
+        "citation": "\ud55c\uad6d\ub2f9\uacfc\ud559\ud68c \ud559\uc220\ub300\ud68c, 100-100, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Atopic Skin Inflammation Improved by Using Extracts of Seaweed and Ascidians Tunic",
+        "pub_year": "2012",
+        "citation": "\ud55c\uad6d\ub2f9\uacfc\ud559\ud68c \ud559\uc220\ub300\ud68c, 89-89, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur dan perkembangan lensa mata ayam lokal (Gallus gallus domesticus)",
+        "pub_year": "2007",
+        "citation": "Universitas Gadjah Mada, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "JURNAL BIOMEDIKA DAN KESEHATAN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fixative Solution for Macromolecules in Histological Preparations",
+        "citation": "Berkala Ilmiah Biologi 14 (3), 41-49, 0"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a Framework for the Local Implementation of the SDGs\u2013Phase II",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OF COLONY COMPOSITION WITH VARIOUS AGES",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potency of Olive Oil, Coconut Oil, and Bleached Palm Oil as Clearing Agent in Histological Preparation",
+        "citation": "Berkala Ilmiah Biologi 14 (2), 48-54, 0"
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANTIOXIDANT AND IMMUNOSTIMULATING ACTIVITY OF POLYSACCHARIDES EXTRACTED FROM...",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "g7A2PuQAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

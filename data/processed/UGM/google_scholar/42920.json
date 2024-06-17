@@ -1,0 +1,2053 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "MvYFFTEAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Eko Agus Suyono",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MvYFFTEAAAAJ&citpid=3",
+  "affiliation": "Algal Culture, Biotechnology & Engineering Expert of Universitas Gadjah Mada",
+  "interests": [
+    "Algal Culture",
+    "Biotechnology & Engineering"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 758,
+  "citedby5y": 679,
+  "hindex": 16,
+  "hindex5y": 14,
+  "i10index": 21,
+  "i10index5y": 17,
+  "cites_per_year": {
+    "2014": 3,
+    "2015": 3,
+    "2016": 7,
+    "2017": 12,
+    "2018": 42,
+    "2019": 73,
+    "2020": 95,
+    "2021": 114,
+    "2022": 142,
+    "2023": 174,
+    "2024": 80
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uafT9kgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Parvez Alam",
+      "affiliation": "Reader at The University of Edinburgh, UK"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dNcZCegAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Immanuel Sanka",
+      "affiliation": "Tallinn University of Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2YN8-AsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Zusron",
+      "affiliation": "Marine Biology Study Club, Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Jgl2UPMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Adolfo Rivero-M\u00fcller",
+      "affiliation": "Medical University of Lublin"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xb7DGo8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ko Nomura",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6ImOpxkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Setiadi Daryono",
+      "affiliation": "Dosen Genetika dan Dekan  Fakultas Biologi UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vGCkhYcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Niken Satuti Nur Handayani",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8eShEpgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Riza-Arief Putranto",
+      "affiliation": "Universitas Esa Unggul"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solvent vapor treatment improves mechanical strength of electrospun polyvinyl alcohol nanofibers",
+        "pub_year": "2018",
+        "citation": "Heliyon 4 (4), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 83,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3145825893813524200",
+      "cites_id": [
+        "3145825893813524200"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil algae extraction of selected microalgae species grown in monoculture and mixed cultures for biodiesel production",
+        "pub_year": "2017",
+        "citation": "Energy Procedia 105, 277-282, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:_kc_bZDykSQC",
+      "num_citations": 56,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6741610696344169880",
+      "cites_id": [
+        "6741610696344169880"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of the upper limit of monoglyceride content in biodiesel for B30 implementation based on the measurement of the precipitate in a Biodiesel\u2013Petrodiesel fuel blend \u2026",
+        "pub_year": "2019",
+        "citation": "Fuel 258, 116104, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 52,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10805290304801873206",
+      "cites_id": [
+        "10805290304801873206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of Candida rugosa lipase as a biocatalyst for L-lactide ring-opening polymerization and polylactic acid production",
+        "pub_year": "2018",
+        "citation": "Biocatalysis and agricultural biotechnology 16, 683-691, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10489306763424814421",
+      "cites_id": [
+        "10489306763424814421"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polyacrylonitrile nanofiber-based quartz crystal microbalance for sensitive detection of safrole",
+        "pub_year": "2018",
+        "citation": "Sensors 18 (4), 1150, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:IWHjjKOFINEC",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4751259753972747682",
+      "cites_id": [
+        "4751259753972747682"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A comparison of nutritional values of Kappaphycus alvarezii, Kappaphycus striatum, and Kappaphycus spinosum from the farming sites in Gorontalo Province \u2026",
+        "pub_year": "2019",
+        "citation": "Journal of applied phycology 31, 725-730, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:mB3voiENLucC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13256996913296396437",
+      "cites_id": [
+        "13256996913296396437"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of salinity on growth, dry weight and lipid content of the mixed microalgae culture isolated from Glagah as biodiesel substrate",
+        "pub_year": "2015",
+        "citation": "Journal of Life Sciences 9, 229-233, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4217747701264892394",
+      "cites_id": [
+        "4217747701264892394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination of blue, red, white, and ultraviolet lights for increasing carotenoids and biomass of microalga Haematococcus pluvialis",
+        "pub_year": "2015",
+        "citation": "Procedia Environmental Sciences 28, 399-405, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:WF5omc3nYNoC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18367548882377867045",
+      "cites_id": [
+        "18367548882377867045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of computational fluid dynamics (CFD) on the raceway design for the cultivation of microalgae: a review",
+        "pub_year": "2020",
+        "citation": "Journal of Industrial Microbiology and Biotechnology 47 (4-5), 373-382, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3161908250080365407",
+      "cites_id": [
+        "3161908250080365407"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulation, stability test and in vitro penetration test of emulgel from tobacco leaves extract",
+        "pub_year": "2018",
+        "citation": "Journal of Young Pharmacists 10 (2s), S69, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1502334071493581043",
+      "cites_id": [
+        "1502334071493581043"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of microalgae species and lipid profiling of Glagah consortium for biodiesel development from local marine resource",
+        "pub_year": "2016",
+        "citation": "ARPN J. Eng. Appl. Sci 11 (16), 9970-9973, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17227594833142261274",
+      "cites_id": [
+        "17227594833142261274"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Swelling behavior in solvent vapor sensing based on Quartz Crystal Microbalance (QCM) Coated Polyacrylonitrile (PAN) nanofiber",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 367, 012020, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:HDshCWvjkbEC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18375551498843134388",
+      "cites_id": [
+        "18375551498843134388"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extractive-transesterification of Microalgae Arthrospira sp. using Methanol-Hexane Mixture as Solvent",
+        "pub_year": "2018",
+        "citation": "International Journal of Renewable Energy Research (IJRER) 8 (3), 1499-1507, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2952980779093995642",
+      "cites_id": [
+        "2952980779093995642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial symbionts isolated from mixed microalgae culture of Glagah Strains.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:aqlVkmm33-oC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2530677875302727034",
+      "cites_id": [
+        "2530677875302727034"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carapace surface architecture facilitates camouflage of the decorator crab Tiarinia cornigera",
+        "pub_year": "2016",
+        "citation": "Acta Biomaterialia 41, 52-59, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:UebtZRa9Y70C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4820250233048481185",
+      "cites_id": [
+        "4820250233048481185"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic transformation of the Indonesian black orchid (Coelogyne pandurata Lindley) through Agrobacterium tumefaciens for micropropagation",
+        "pub_year": "2010",
+        "citation": "Procedings of NIOC, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12304281706249630189",
+      "cites_id": [
+        "12304281706249630189"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of cultivation under different colors of light and growth kinetic study of Chlorella zofingiensis D\u00f6nz for biofuel production",
+        "pub_year": "2017",
+        "citation": "Energy Procedia 105, 270-276, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3168803817580161770",
+      "cites_id": [
+        "3168803817580161770"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polyacrylonitrile nanofiber as polar solvent N, N-dimethyl formamide sensor based on quartz crystal microbalance technique",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1011, 012067, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:-f6ydRqryjwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9398831938232201920",
+      "cites_id": [
+        "9398831938232201920"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of diatom pore-size on the structures and extensibilities of single mucilage molecules",
+        "pub_year": "2017",
+        "citation": "Carbohydrate research 448, 35-42, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14889219072518778195",
+      "cites_id": [
+        "14889219072518778195"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The environment, sustainability and universities in Indonesia: An examination of the nexus",
+        "pub_year": "2014",
+        "citation": "Schooling for sustainable development across the Pacific, 159-173, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6432884938849952860",
+      "cites_id": [
+        "6432884938849952860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modification of growth medium of mixed-culture species of microalgae isolated from southern java coastal region",
+        "pub_year": "2018",
+        "citation": "MATEC Web of Conferences 154, 01001, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11707408377778619330",
+      "cites_id": [
+        "11707408377778619330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of structure and composition of seaweeds population in Porok and Greweng Coasts, Gunungkidul, Indonesia",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:f2IySw72cVMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=457570508138057835",
+      "cites_id": [
+        "457570508138057835"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of silica on carbohydrate content of mixed culture Phaeodactylum sp. and Chlorella sp",
+        "pub_year": "2016",
+        "citation": "Biosciences Biotechnology Research Asia 13 (1), 109-114, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1834580469165564464",
+      "cites_id": [
+        "1834580469165564464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipid Content from Monoculture of Micro Algae Chlorella zofingiensis D\u00f6nz and mixed culture of Glagah isolate in laboratory scale and raceway pond for biodiesel production",
+        "pub_year": "2016",
+        "citation": "Asian Journal of Microbiology, Biotechnology and Environmental Sciences 18 \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:dshw04ExmUIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15894213738027562204",
+      "cites_id": [
+        "15894213738027562204"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and distribution of microalgae in coastal areas of East Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas 21 (3), 1149-1159, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9979859203155473719",
+      "cites_id": [
+        "9979859203155473719"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of nitrogen stress in mediumfor increasing carbohydrate as a bioethanol source and carotenoid as an antioxidant from Chlorella zofingiensis culture",
+        "pub_year": "2016",
+        "citation": "ARPN J. Eng. Appl. Sci. 11 (40), 2698-2701, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12068171402963204789",
+      "cites_id": [
+        "12068171402963204789"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikroalga: Kultivasi, Pemanenan, Ekstraksi, dan Konversi Energi",
+        "pub_year": "2023",
+        "citation": "UGM PRESS, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:bnK-pcrLprsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10706151775770730777",
+      "cites_id": [
+        "10706151775770730777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Tofu Wastewater and pH on the Growth Kinetics and Biomass Composition of Euglena sp.",
+        "pub_year": "2023",
+        "citation": "Current Applied Science and Technology, 10.55003/cast. 2022.02. 23.010 (16 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:sSrBHYA8nusC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3638527975158186306",
+      "cites_id": [
+        "3638527975158186306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chlorophyll in alginate-based edible film in inhibiting spoilage of fish snacks",
+        "pub_year": "2022",
+        "citation": "Canrea Journal: Food Technology, Nutritions, and Culinary Journal, 57-68, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:tOudhMTPpwUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1785555813826813732",
+      "cites_id": [
+        "1785555813826813732"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification Of Potential Bacteria On Several Lakes In East Java, Indonesia Based On 16S RRNA Sequence Analysis",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal Of Biosciences 28 (2), 136-136, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12497916304978660345",
+      "cites_id": [
+        "12497916304978660345"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of cultivation and growth rate kinetic for mixed cultures of local microalgae as third generation (G-3) bioethanol feedstock in thin layer photobioreactor",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1022 (1), 012051, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=79629851467604087",
+      "cites_id": [
+        "79629851467604087"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solvent vapor treatment improves mechanical strength of electrospun polyvinyl alcohol nanofibers, Heliyon, 4, e00592",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:08ZZubdj9fEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3787316797088831744",
+      "cites_id": [
+        "3787316797088831744"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitrogen sources affect the growth of local strain Euglena sp. isolated from Dieng Peatland, Central Java, Indonesia, and their potential as bio-avtur",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1151 (1), 012059, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:J-pR_7NvFogC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2535429009141899881",
+      "cites_id": [
+        "2535429009141899881"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Salinity and Bioflocculation during Euglena sp. Harvest on the Production of lipid, Chlorophyll, and Carotenoid with Skeletonema sp. as a Bioflocculant.",
+        "pub_year": "2022",
+        "citation": "Journal of Pure & Applied Microbiology 16 (4), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11368476237109082800",
+      "cites_id": [
+        "11368476237109082800"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of IAA Production on the Interaction of Microalgae and Bacteria in the Glagah Consortium",
+        "pub_year": "2020",
+        "citation": "Biosciences Biotechnology Research Asia 17 (1), 45-52, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:u_35RYKgDlwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16547772192948068101",
+      "cites_id": [
+        "16547772192948068101"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizations of microwave-assisted extraction and transesterification of bio-crude oil from spirulina (Arthrospira platensis)",
+        "pub_year": "2020",
+        "citation": "Korean Journal of Chemical Engineering 37, 466-474, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:rO6llkc54NcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1210968875482267092",
+      "cites_id": [
+        "1210968875482267092"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring Microalgae Population Growth by using Fe3O4 Nanoparticles-based Surface Plasmon Resonance (SPR) Biosensor",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Materials Science and Engineering 202 (1), 012077, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:4TOpqqG69KYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14635845610904173375",
+      "cites_id": [
+        "14635845610904173375"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Buku pedoman kuliah kerja nyata pembelajaran pemberdayaan masyarakat (KKN PPM) perguruan tinggi di Indonesia",
+        "pub_year": "2007",
+        "citation": "Direktorat Penelitian dan Pengabdian Kepada Masyarakat Direktorat Jenderal \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:Zph67rFs4hoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14429976273340995561",
+      "cites_id": [
+        "14429976273340995561"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies on bioflocculant exopolysaccharides (EPS) produced by Anabaena sp. and its application as bioflocculant for low cost harvesting of Chlorella sp.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10015387398404053784,7972485237301776854,13259346573009189921",
+      "cites_id": [
+        "10015387398404053784",
+        "7972485237301776854",
+        "13259346573009189921"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Activity of Mixed Microalgae Polysaccharides from Indonesia as Anti-Malaria in Vitro.",
+        "pub_year": "2022",
+        "citation": "Jurnal Ilmiah Perikanan dan Kelautan 14 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:LPZeul_q3PIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4701471830723808054",
+      "cites_id": [
+        "4701471830723808054"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of distinct nitrate concentrations on pigment content of mixed culture of Chlorella vulgaris and Dunaliella sp",
+        "pub_year": "2022",
+        "citation": "Asia-Pac. J. Mol. Biol. Biotechnol 30, 15-23, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:vRqMK49ujn8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12383585553629309865",
+      "cites_id": [
+        "12383585553629309865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The design of microalgae (Chlorella sp.) photobioreactor as a fa\u00e7ade bus shelter building in Indonesia",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2296 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:P5F9QuxV20EC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7096913286412309474",
+      "cites_id": [
+        "7096913286412309474"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of the effectiveness of microalgae harvesting with filtration and flocculation methods in WWTP ITDC Bali",
+        "pub_year": "2019",
+        "citation": "International Journal of Environmental and Science Education 14 (1), 1-12, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9518488782783827266",
+      "cites_id": [
+        "9518488782783827266"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochemical compounds and sub-chronic toxicity test of Chlorella sp. and Spirulina sp. isolated from Glagah Coastal Water",
+        "pub_year": "2018",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 24 (1), 58-64, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18277073177096430273",
+      "cites_id": [
+        "18277073177096430273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect High Salinity and Red-Blue Light Treatment on Lipid Content of the Microalgae Chlorella zofingiensis D\u00f6nz as Biodiesel Source",
+        "pub_year": "2016",
+        "citation": "Applied Mechanics and Materials 842, 103-110, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:ufrVoPGSRksC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8754146067489044008",
+      "cites_id": [
+        "8754146067489044008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Acidic pH on Growth Kinetics, Biomass Productivity, and Prima-ry Metabolite Contents of Euglena sp.",
+        "pub_year": "2023",
+        "citation": "Makara Journal of Science 27 (2), 3, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:HE397vMXCloC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17203739234456984254",
+      "cites_id": [
+        "17203739234456984254"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of Microalgal Metabolite Production through Euglena sp. Local Strain and Glagah Strain Consortia",
+        "pub_year": "2023",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 15 (1), 36-47, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7974868226500981902",
+      "cites_id": [
+        "7974868226500981902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of natural sunlight for microalgae cultivation in Yogyakarta",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 963 (1), 012041, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8812659280111909198",
+      "cites_id": [
+        "8812659280111909198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectivity of various media for biomass and lipid production of mixed culture of Glagah in open pond",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13897781765723661759",
+      "cites_id": [
+        "13897781765723661759"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Feasibility of Algae Photobioreactor as Fa\u00e7ade in the Office Building in Indonesia",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 322 (1), 012020, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17661216746571527835",
+      "cites_id": [
+        "17661216746571527835"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Glass coating natural fibres by diatomisation: A bright future for biofouling technology",
+        "pub_year": "2016",
+        "citation": "Materials Today Communications 7, 81-88, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8490224642757435122",
+      "cites_id": [
+        "8490224642757435122"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECTS OF CHROMIUM ON CHLOROPHYLL-a, CARBOHYDRATE AND PROTEIN CONTENTS IN Tetraselmis sp. (Butcher 1959)",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 556-556, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14245021195280091735",
+      "cites_id": [
+        "14245021195280091735"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFICATION OF THE SYMBIOTIC CYANOBACTERIA (BLUE-GREEN ALGAE) IN THE ROOT OF ORCHID SPATHOGLOTTIS PLICATA BLUME",
+        "pub_year": "2009",
+        "citation": "Phycologia 48 (4), 135-135, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1600358824804192532",
+      "cites_id": [
+        "1600358824804192532"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salinity treatment as bacterial control and its impact on growth and nutritional value of Spirulina (Arthrospira platensis) culture in open pond system.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:5ugPr518TE4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15457434058385806725",
+      "cites_id": [
+        "15457434058385806725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of IAA Phytohormone (Indole-3-Acetic Acid) on the Growth, Lipid, Protein, Carbohydrate, and Pigment Content in Euglena sp.",
+        "pub_year": "2023",
+        "citation": "Malaysian Journal of Fundamental and Applied Sciences 19 (4), 513-524, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13455867852581678999",
+      "cites_id": [
+        "13455867852581678999"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The content of lipid, chlorophyll, and carotenoid of Euglena sp. under various salinities",
+        "pub_year": "2022",
+        "citation": "Asia-Pac. J. Mol. Biol. Biotechnol 30, 114-122, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15510227552365222145",
+      "cites_id": [
+        "15510227552365222145"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of analytic hierarchy process in the selection of Botryococcus braunii cultivation technology for bio-crude oil production",
+        "pub_year": "2022",
+        "citation": "Frontiers in Renewable Energy 1 (1), 23-30, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:geHnlv5EZngC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10086473768186218196",
+      "cites_id": [
+        "10086473768186218196"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simultaneous Extraction and In-Situ Transesterification of Chlorella vulgaris Using Microwave-Assisted Method for Biodiesel Production",
+        "pub_year": "2021",
+        "citation": "Korean Journal of Materials Research 31 (4), 181-187, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:KxtntwgDAa4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1337952795603178571",
+      "cites_id": [
+        "1337952795603178571"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass productivity and lipid content between natural mixed culture consortia and artificial mixed culture",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:NhqRSupF_l8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11181906244799121556",
+      "cites_id": [
+        "11181906244799121556"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Self-assembly of cellular micro-bio machine parts",
+        "pub_year": "2020",
+        "citation": "Journal of Micro-Bio Robotics 16, 111-121, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=686521601447327190",
+      "cites_id": [
+        "686521601447327190"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spectroscopic Ellipsometry Based Biosensor on Gold Thin Film for Detection of Microalgae",
+        "pub_year": "2020",
+        "citation": "Key Engineering Materials 840, 412-417, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:a0OBvERweLwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17066929168920832513",
+      "cites_id": [
+        "17066929168920832513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inability of polysaccharides of Spirulina platensis to protect hepatocyte cells line on Toxoplasma gondii infection in vitro",
+        "pub_year": "2020",
+        "citation": "Journal of Global Pharma Technology 12 (1), 654-659, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:WbkHhVStYXYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14738526827141366890",
+      "cites_id": [
+        "14738526827141366890"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT OF RED LIGHT-BLUE AND NITROGEN STARVATION ON GROWTH OF MICROALGAE Tetraselmis sp.",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 670-672, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13194371782838881625",
+      "cites_id": [
+        "13194371782838881625"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Nitrogen Excess in Medium on Carotenoid and Chlorophyll Content of Chlorella Zofingiensis Donz Culture",
+        "pub_year": "2015",
+        "citation": "UAJY Int Smnr, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:TQgYirikUcIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16718857214343101888",
+      "cites_id": [
+        "16718857214343101888"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of photoperiodism on nutritional potency of Euglena sp. Indonesian strains.",
+        "pub_year": "2023",
+        "citation": "Malaysian Journal of Nutrition 29 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11442234765506576240",
+      "cites_id": [
+        "11442234765506576240"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of salinity and tofu whey wastewater on the growth kinetics, biomass, and primary metabolites in Euglena sp.",
+        "pub_year": "2023",
+        "citation": "Journal of Applied Biology & Biotechnology Vol 11 (6), 124-132, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:Mojj43d5GZwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9672706889596014590",
+      "cites_id": [
+        "9672706889596014590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Mercury Stress on the Growth and Lipid Content of Euglena sp. and Echinodorus palaefolius",
+        "pub_year": "2023",
+        "citation": "Jurnal Biodjati 8 (1), 172-179, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:olpn-zPbct0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6122721200940005316",
+      "cites_id": [
+        "6122721200940005316"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of low cost of microalgae chlorella sp. harvesting using cationic starch flocculation technique for biodiesel production",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1151 (1), 012042, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3388405507287397739",
+      "cites_id": [
+        "3388405507287397739"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of pH on Contamination Reduction and Metabolite Contents in Mass Cultures of Spirulina (Arthrospira platensis Gomont).",
+        "pub_year": "2023",
+        "citation": "International Journal on Advanced Science, Engineering & Information \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15897577920991977485",
+      "cites_id": [
+        "15897577920991977485"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular docking analysis of selected natural products from Halymenia sp. and Laurencia sp. seaweeds against plasmepsins as antimalarials",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1119 (1), 012048, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:eflP2zaiRacC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15474686541217004487",
+      "cites_id": [
+        "15474686541217004487"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of Microalgae Harvesting Technology for Bio-Crude Oil Production",
+        "pub_year": "2022",
+        "citation": "Frontiers in Renewable Energy 1 (1), 31-37, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3884043606208620197",
+      "cites_id": [
+        "3884043606208620197"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Economic analysis on the potential of palm oil empty fruit bunch pellets as alternative fuel to reduce the cost of the government\u2019s 3 kg LPG subsidy and its role in achieving \u2026",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 963 (1), 012046, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:738O_yMBCRsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4433064394709787360",
+      "cites_id": [
+        "4433064394709787360"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of inoculant density on the growth of glagah consortium culture",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 860 (1), 012033, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:XiSMed-E-HIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5629888338784499657",
+      "cites_id": [
+        "5629888338784499657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth kinetic of Chlorella sp. microalgae at flate plate photobioreactor",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2296 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11909295834661977962",
+      "cites_id": [
+        "11909295834661977962"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Concentrations differences of microalgal extracellular polymeric substances as edible coating in shelf-life extension of Fragaria spp.",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:abG-DnoFyZgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7466442197595083168",
+      "cites_id": [
+        "7466442197595083168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of biomass and lipid content of a mixed culture of glagah isolate and Arthrospira maxima in thin-layer photobioreactor using three different media (BBM, Farmpion and \u2026",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7211020554508250053",
+      "cites_id": [
+        "7211020554508250053"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of photoperiod on lipid production of mixed culture Arthrospira maxima Setchell et Gardner and microalgae consortium of Glagah isolate",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=787699457027093807",
+      "cites_id": [
+        "787699457027093807"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of microalgae-based biodiesel in Indonesia: Comparative study of microalgal oil extraction technologies",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17947102155122520710",
+      "cites_id": [
+        "17947102155122520710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation of Chlorella vulgaris in Anaerobically Digested Dairy Manure Wastewater (ADDMW) for Protein and Chlorophyll Production",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (9), 2035-2042, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5863669698857950510",
+      "cites_id": [
+        "5863669698857950510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic Population Analysis of Microalga With Metabarcoding Study In Consortium Microalga-Bacteria Isolated From Glagah Beach Yogyakarta Using Next Generation Sequencing (Ngs \u2026",
+        "pub_year": "2019",
+        "citation": "Plant Cell Biotechnology And Molecular Biology 20 (11-12), 466-472, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2356074259219184406",
+      "cites_id": [
+        "2356074259219184406"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Analysis of User\u2019s Intention in Using the Accounting Information System Technology",
+        "pub_year": "2012",
+        "citation": "China-USA Business Review 11 (10), 1378-1384, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4413896432771766865",
+      "cites_id": [
+        "4413896432771766865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikropropagasi tanaman anggrek hitam Coelogyne pandurata Lindl. dengan penyisipan gen penumbuh tunas melalui Agrobacterium",
+        "pub_year": "2010",
+        "citation": "Seminar Nasional Biologi UGM, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:SP6oXDckpogC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10489004742581088567",
+      "cites_id": [
+        "10489004742581088567"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Various Photoperiodic Conditions and Zn2+ Concentrations on Growth Rate and Metabolite Content in Euglena sp: Effect of Photoperiod and Zn2+ on Euglena sp.",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Life Science 14 (2), 237\u2013252-237\u2013252, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:UHK10RUVsp4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancing the microalgae Nannochloropsis sp. harvesting by chitosan-based flocculation-sedimentation for biofuel production",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2836 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth and Metabolite Enhancement of Acidophile Euglena sp. Isolated from Indonesia under Different Photoperiod Cycles.",
+        "pub_year": "2024",
+        "citation": "Scientific Journal of Fisheries & Marine/Jurnal Ilmiah Perikanan dan \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Removing contaminants and enhancing mutualism bacteria in Arthrospira (Spirulina) platensis mass culture using salinity adjustment and Azadirachta indica biopesticide",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3041 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Kinetic Modelling of Efficient Anabaena sp. Bioflocculation",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (1), 82196, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of Antioxidant effects of Polysaccharides of Mixed Microalgae Isolates Glagah Beach Yogyakarta and East Java, Indonesia",
+        "pub_year": "2024",
+        "citation": "Research Journal of Pharmacy and Technology 17 (1), 277-283, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:ye4kPcJQO24C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Salinity on The Growth and Fatty Acids Production of Euglena sp. Local Strain from Dieng Plateau, Indonesia",
+        "pub_year": "2023",
+        "citation": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology 18 (3 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salinity Induced the Growth and Proximate Composition of Euglena sp., Local Strain from Dieng, Indonesia",
+        "pub_year": "2023",
+        "citation": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology 18 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:5awf1xo2G04C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioremediation of Mercury-Polluted Water in Free Water Surface-Constructed Wetland System by Euglena sp. and Echinodorus palifolius (Nees & Mart.) JF Macbr.",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (3), 88143, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cobalamin and Thiamine Effect on Microalgae Biomass Production in the Glagah Consortium",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (3), 81949, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimisation of Bioflocculation Using Anabaena sp. and Navicula sp. for Harvesting of Glagah Microalgae Consortium.",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:PELIpwtuRlgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of acidic pH on chlorophyll, carotenoids, and carotenoid derivatives of Euglena sp. as antioxidants.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:Y5dfb0dijaUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tocopherol Content of Euglena sp. Isolated from Yogyakarta under Glucose and Ethanol Mixture Treatment",
+        "pub_year": "2023",
+        "citation": "Yuzuncu Y\u0131l University Journal of Agricultural Sciences 33 (3), 450-460, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:_B80troHkn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Different carbon source alternative medium improves Euglena sp. growth and paramylon production",
+        "pub_year": "2023",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 11 (1), 102-113, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENDAMPINGAN BANK SAMPAH SIMPATIK PROJECT MELALUI PENINGKATAN PRODUKTIVITAS DAN PEMASARAN ONLINE DI NAGORI SAIT BUTTU SARIBU KECAMATAN PAMATANG SIDAMANIK",
+        "pub_year": "2023",
+        "citation": "Jurnal Abdimas Bina Bangsa 4 (1), 437-444, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:WqliGbK-hY8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhacment of biomass, carbohydrates, lipids, and proteins content using co-culture of Glagah consortium and Lipomyces starkeyi",
+        "pub_year": "2023",
+        "citation": "Journal of Applied and Natural Science 15 (1), 15-22, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of pH and neem extract on metabolite content and bacterial contaminant of Arthrospira platensis cultures.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:N5tVd3kTz84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "JIPK",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Technology Selection of Microalgae Thermochemical Conversion to Bio-Crude Oil",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1105 (1), 012016, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The immunomodulatory effect of Glagah consortium microalgae polysaccharides based on splenocyte proliferation and cytokine production in vitro",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (10), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toksisitas Oral Akut Arthrospira maxima dan Chlorella vulgaris Isolat Glagah Pada Tikus (Rattus norvegicus Berkenhout, 1769) Galur Wistar",
+        "pub_year": "2022",
+        "citation": "Al-Kauniyah: Jurnal Biologi 15 (2), 209-219, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modern treatment strategies for marine pollution.",
+        "pub_year": "2022",
+        "citation": "Marine Ecology 43 (4), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modern treatment strategies for marine pollutionKumar, P. SenthilOxford, 2021. Elsevier (Academic Press), 191 pp. ISBN9780128222799 (paperback, US97. 50), ISBN: 9780128222805 \u2026",
+        "pub_year": "2022",
+        "citation": "Marine Ecology 43 (4), e12716, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Liquid Organic Fertilizer \u201cBio Ferti\u201d Application on the Growth Rate of Spirulina platensis by Using Haldane Model",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (2), 68944, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TOKSISITAS ORAL AKUT Arthrospira maxima DAN Chlorella vulgaris ISOLAT GLAGAH PADA TIKUS (Rattus norvegicus Berkenhout, 1769) GALUR WISTAR",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:D_sINldO8mEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The usage of palm oil mill effluent as a cultivation medium of Arthrospira maxima Setchell et Gardner",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of light on growth and lipid content of microalgae consortium of Glagah isolate and Arthrospira maxima (Setchell et Gardner)",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of differences in the form of photobioreactor prototypes and aeration period on Chlorella sp. cell growth in co-culture with bacteria",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2231 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of vancomycin on the growth and microbial dynamics of microalgae-bacteria consortium isolated from Glagah Beach, Yogyakarta",
+        "pub_year": "2020",
+        "citation": "Ecology, Environment and Conservation 26, S1-S7, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation of Chlorella vulgaris using Anaerobically Digested Dairy Manure Wastewater (ADDMW) for Protein and chlorophyll Production",
+        "pub_year": "2019",
+        "citation": "ON UNIVERSAL WELLBEING (ICUW 2019), 117, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The axenic treatments for Kappaphycus alvarezii (Rhodophyta) seedling in laboratory culture",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 139 (1), 012010, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tiarinia cornigera cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of sequence variation from SIT1 gene on diatom (Bacillariophyceae) using in silico PCR",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1755 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KANDUNGAN LIPID MIKROALGA KULTUR TUNGGAL Chlorella zofingiensis Donz DAN KULTUR CAMPURAN ISOLAT GLAGAH DALAM SKALA LABORATORIUM DAN RACEWAY POND",
+        "pub_year": "2014",
+        "citation": "Universitas Gadjah Mada, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTUMBUHAN DAN KANDUNGAN LIPID PADA MIKROALGA Tetraselmis sp. DENGAN MENGGUNAKAN KOMBINASI CAHAYA MERAH-BIRU DAN STARVASI NITROGEN SEBAGAI UPAYA UNTUK MENINGKATKAN PRODUKSI \u2026",
+        "pub_year": "2014",
+        "citation": "Universitas Gadjah Mada, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kandungan Protein Mikroalga Kultur Tunggal Chlorella zofingiensis Donz dan Kultur Campuran Isolat Glagah dalam Skala Laboratorium dan Raceway Pond",
+        "pub_year": "2014",
+        "citation": "Universitas Gadjah Mada, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH CAHAYA BIRU TERHADAP PENYERAPAN NITROGEN DAN FOSFOR DALAM LIMBAH CAIR PETERNAKAN SAPI SERTA KANDUNGAN KARBOHIDRAT Chlorella zofingiensis D\u00f6nz. DALAM FOTOBIOREAKTOR DATAR",
+        "pub_year": "2014",
+        "citation": "Text, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synergy Model of Local Development Planning in Regency and City with the Development of Java Economic Corridor for Supporting Master Plan for the Acceleration and Expansion of \u2026",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Frekuensi Pembentukan Tunas pada Mikropropagasi Tanaman Anggrek Hitam (Coelogyne pandurata Lindley) dengan Teknologi Tanaman Transgenik",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGGUNAAN PENANDA MOLEKULAR UNTUK DETEKSI GEN KETAHANAN VIRUS (Creb-2) PADA MELON (Cucumis melo L.) HASIL KULTUR IN VITRO",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Culture optimality, phylogenetic analysis and bioethanol production from Tetraselmis spp using yeast",
+        "pub_year": "2012",
+        "citation": "Poster exhibition of dept. Chemical and Biological Engineering, Chalmers \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioethanol production from biomass of marine microalgae with yeast",
+        "pub_year": "2011",
+        "citation": "Algae Biomass Summit, USA, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrolysis of carbohydrates in marine Tetraselmis sp by acid and enzymatic pre-treatments to obtain substrate for ethanol production",
+        "pub_year": "2011",
+        "citation": "Microalgae: Novel applications and frontlines, Sweden, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan biaya teknik kaudal+ intra vena anestesi dengan teknik inhalasi anestesi pada pasien anak",
+        "pub_year": "2000",
+        "citation": "Universitas Gadjah Mada, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTANIKA JOURNAL OF SOCIAL SCIENCES AND HUMANITIES",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:JQOojiI6XY0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of salinity and biopesticide on Arthrospira platensis mass culture growth, metabolites, and bacterial diversity",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin_Use of Candida rugosa lipase as a biocatalyst for L-lactide ring-opening polymerization and polylactic acid production",
+        "citation": "Elsevier BV, 0"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Designing PEM Electrolysis-Based Hydrogen Reactors in The Area of Baron Beach of Yogyakarta, Indonesia",
+        "citation": "Frontiers in Renewable Energy 1 (1), 38-43, 0"
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UJI EFEKTIVITAS ALAT SIRKULASI VERTIKAL DENGAN IDENTIFIKASI ALGA SEBAGAI BIOINDIKATOR UNTUK MENCEGAH TERJADINYA ALGAE BLOOM DI WADUK SAGULING",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chlorella vulgaris Beijerinck DAN Dunaliella sp.",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "(2016) Volume 11 Issue 15",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polyacrylonitrile nanofiber as polar solvent N, N-dimethyl formamide sensor based on quartz crystal microbalance",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Transformation of the Indonesian Black Orchid (Coelogyne pandurata Lindley) through Agrobacterium tumefaciens for Micropropagation Endang Semiarti1, 2, Ari Indrianto1 \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "MvYFFTEAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 5,
+    "not_available": 1
+  }
+}

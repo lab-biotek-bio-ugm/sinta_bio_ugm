@@ -1,0 +1,241 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "source": "SEARCH_AUTHOR_SNIPPETS",
+  "scholar_id": "6kOnBeQAAAAJ",
+  "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=6kOnBeQAAAAJ",
+  "name": "Sari Darmasiwi",
+  "affiliation": "Universitas Gadjah Mada",
+  "email_domain": "@ugm.ac.id",
+  "interests": [],
+  "citedby": 63,
+  "organization": 18213967212371915679,
+  "citedby5y": 59,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 1,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2017": 1,
+    "2018": 1,
+    "2019": 2,
+    "2020": 7,
+    "2021": 5,
+    "2022": 20,
+    "2023": 15,
+    "2024": 10
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regression model accuracy comparison on mangrove canopy density mapping",
+        "pub_year": "2017",
+        "citation": "Intern Confer on Scien and Techn 2 (7), 1-10, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12530239508283110631",
+      "cites_id": [
+        "12530239508283110631"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibiofilm activity and bioactive phenolic compounds of ethanol extract from the Hericium erinaceus basidiome",
+        "pub_year": "2022",
+        "citation": "Journal of advanced pharmaceutical technology & research 13 (2), 111-116, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:olpn-zPbct0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8577166717288246322",
+      "cites_id": [
+        "8577166717288246322"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential production of Aromatic Compounds in Flowers of Vanda tricolor",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=240588181202228663",
+      "cites_id": [
+        "240588181202228663"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Aspergillus Niger 65i6 lipase from solid-state fermentation using Jatropha seed cake medium",
+        "pub_year": "2015",
+        "citation": "Indonesian Journal of Biotechnology 20 (2), 108-116, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15575437615634619859",
+      "cites_id": [
+        "15575437615634619859"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological activities and chemical profile of Hericium erinaceus mycelium cultivated on mixed red and white jasmine rice",
+        "pub_year": "2022",
+        "citation": "Food Science and Technology 42, e08022, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:bnK-pcrLprsC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3218203817300875817",
+      "cites_id": [
+        "3218203817300875817"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aromatic compounds production by fungal solid state fermentation in Pandanus tectorius fruits",
+        "pub_year": "2016",
+        "citation": "Biosciences Biotechnology Research Asia 13 (1), 75-78, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17966941357173461806",
+      "cites_id": [
+        "17966941357173461806"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Edible biofilm formation from guava seed waste fermentation",
+        "pub_year": "2018",
+        "citation": "Physical Science and Engineering 1, 39-43, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12916802638245817782",
+      "cites_id": [
+        "12916802638245817782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of the nutritional value, mycochemicals, and antioxidant activities of Hericium erinaceus cultivated using jasmine rice",
+        "pub_year": "2022",
+        "citation": "Asian Journal of Agriculture and Biology, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:5awf1xo2G04C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5550868178618038615",
+      "cites_id": [
+        "5550868178618038615"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochemical responses and DNA damage of Chlorella pyrenoidosa H. Chick upon exposure to combined Cu and Cd at environmentally realistic levels",
+        "pub_year": "2020",
+        "citation": "Environment and Natural Resources Journal 18 (3), 290-303, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:XiVPGOgt02cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13663178154925893494",
+      "cites_id": [
+        "13663178154925893494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nutraceutical compounds production from guava seed waste fermentation",
+        "pub_year": "2018",
+        "citation": "Advanced Science Letters 24 (6), 4055-4057, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13966321032944638718",
+      "cites_id": [
+        "13966321032944638718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectivity of water hyacinth (Eichhornia crassipes (Mart.) Solms) as bio filter for microbiological water quality in Purwomartani Housing, Kalasan, Sleman, DIY",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 308 (1), 012008, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=464894041990964231",
+      "cites_id": [
+        "464894041990964231"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening isolat fungsi lipolitik indigenus dan karakterisasi lipase yang dihasilkan pada solid-state fermentation",
+        "pub_year": "2010",
+        "citation": "Universitas Gadjah Mada, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AJAB",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6kOnBeQAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

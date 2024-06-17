@@ -1,0 +1,838 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "bWkmoJoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Hendry Saragih",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bWkmoJoAAAAJ&citpid=3",
+  "affiliation": "Gadjah Mada University",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Animal Development Structure"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 257,
+  "citedby5y": 212,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2013": 2,
+    "2014": 4,
+    "2015": 13,
+    "2016": 6,
+    "2017": 3,
+    "2018": 16,
+    "2019": 21,
+    "2020": 34,
+    "2021": 34,
+    "2022": 42,
+    "2023": 50,
+    "2024": 31
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pewarisan karakter fenotip ayam hasil persilangan ayam pelung dengan ayam cemani",
+        "pub_year": "2010",
+        "citation": "Jurnal Veteriner 11 (4), 257-263, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11031638543027524507",
+      "cites_id": [
+        "11031638543027524507"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of cashew leaf extract on small intestine morphology and growth performance of Jawa Super chicken",
+        "pub_year": "2018",
+        "citation": "Veterinary world 11 (8), 1047, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10836137498022531521",
+      "cites_id": [
+        "10836137498022531521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PECAM-1-dependent heme oxygenase-1 regulation via an Nrf2-mediated pathway in endothelial cells",
+        "pub_year": "2014",
+        "citation": "Thrombosis and haemostasis 111 (06), 1077-1088, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8469273748016736343",
+      "cites_id": [
+        "8469273748016736343"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibodies against dengue virus nonstructural protein-1 induce heme oxygenase-1 via a redox-dependent pathway in human endothelial cells",
+        "pub_year": "2013",
+        "citation": "Free Radical Biology and Medicine 54, 85-92, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10226614888438464900",
+      "cites_id": [
+        "10226614888438464900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Spirogyra jaoensis as a dietary supplement on growth, pectoralis muscle performance, and small intestine morphology of broiler chickens",
+        "pub_year": "2019",
+        "citation": "Veterinary World 12 (8), 1233, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:Zph67rFs4hoC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5081534114754241361",
+      "cites_id": [
+        "5081534114754241361"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of varying levels of protein and energy in pre-stater feeds on pectoralis muscle development of Kampung Super Chicks (Gallus gallus gallus)",
+        "pub_year": "2017",
+        "citation": "Asian Journal of Animal and Veterinary Advances 12 (1), 31-37, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13347404105121137955",
+      "cites_id": [
+        "13347404105121137955"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymorphism of myostatin gene and its association with body weight traits in a hybrid of GAMA chicken (Gallus gallus domesticus Linn. 1758)",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (11), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17244384226710670259",
+      "cites_id": [
+        "17244384226710670259"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Varying Level of Crude Protein and Energy on Insulin like Growth Factor-I Gene Expression in Indonesian Hybrid Chicken",
+        "pub_year": "2016",
+        "citation": "International Journal of Poultry Science, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5424569818584626907",
+      "cites_id": [
+        "5424569818584626907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pakan aditif ekstrak etanol lumut hati meningkatkan pertumbuhan morfologi duodenum dan perkembangan otot dada ayam pedaging",
+        "pub_year": "2017",
+        "citation": "J Veteriner 18 (4), 617-623, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:ufrVoPGSRksC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18317301003863109965",
+      "cites_id": [
+        "18317301003863109965"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heme oxygenase-1 inhibits HLA class I antibody-dependent endothelial cell activation",
+        "pub_year": "2015",
+        "citation": "Plos one 10 (12), e0145306, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18085353884217257227",
+      "cites_id": [
+        "18085353884217257227"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of high-protein diet on body weight and pectoralis thoracicus muscle performance on pelung and broiler chicken (Gallus gallus domesticus)",
+        "pub_year": "2012",
+        "citation": "Animal Production 14 (3), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6267947978854971424",
+      "cites_id": [
+        "6267947978854971424"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth performance, morphometric of the small intestine, lymphoid organ, and ovary of laying hens supplemented with Dates (Phoenix dactylifera L.) extract in drinking water",
+        "pub_year": "2022",
+        "citation": "Veterinary World 15 (2), 350-359, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:mB3voiENLucC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=492488939632360065",
+      "cites_id": [
+        "492488939632360065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anadara granosa shell powder improves the metabolism, testosterone level, and sound frequency of Pelung chickens",
+        "pub_year": "2021",
+        "citation": "Veterinary World 14 (6), 1564, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18131010115079011604",
+      "cites_id": [
+        "18131010115079011604"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ameliorative effect of Mangosteen (Garcinia mangostana L.) peel infusion on the histopathological structures of the liver and kidney of rats (Rattus norvegicus Berkenhout, 1769 \u2026",
+        "pub_year": "2021",
+        "citation": "veterinary world 14 (6), 1579-1587, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17731884371942585943",
+      "cites_id": [
+        "17731884371942585943"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Body Weight Gain and Carcass Quality of the Hybrid Chicken Derived from the Crossing between Female F1 Kampung Super and Male F1 Kampung-Broiler",
+        "pub_year": "2021",
+        "citation": "JTBB, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:4DMP91E08xMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14865628509595714096",
+      "cites_id": [
+        "14865628509595714096"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosupplementation of Ethanolic Extract of Cashew Leaf (Anacardium occidentale L.) to Improve Weight Gain and Immunity of Jawa Super Chicken",
+        "pub_year": "2019",
+        "citation": "Acta VETERINARIA Indonesiana 7 (2), 57-65, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7818265906210459917",
+      "cites_id": [
+        "7818265906210459917"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pectoralis thoracicus muscle performance of hybrid chicken (F1) derived from crossbreed between broiler and pelung (Gallus gallus gallus)",
+        "pub_year": "2017",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 11 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5932326950054976729",
+      "cites_id": [
+        "5932326950054976729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Natural Aromatase Blocker Towards the Level of Testosterone in Rooster Layer [Gallus gallus gallus (Linn., 1758)]",
+        "pub_year": "2021",
+        "citation": "Key Engineering Materials 884, 251-255, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:dhFuZR0502QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4057147183196057330",
+      "cites_id": [
+        "4057147183196057330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenotypic characteristics of exotic-broiler, Kampung, male exotic-layer, KUB-1 and Pelung chickens.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=778687218987566515",
+      "cites_id": [
+        "778687218987566515"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of exposure to electromagnetic waves from 3G mobile phones on oxidative stress in fetal rats.",
+        "pub_year": "2018",
+        "citation": "Pakistan Veterinary Journal 38 (4), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14769598159660338037",
+      "cites_id": [
+        "14769598159660338037"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Histological Study on the Pancreatic\uf062-Cell Number of Indigenous Chicks in First Crossbred (F1)",
+        "pub_year": "2014",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 35 (3), 201-205, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4188636726071723262",
+      "cites_id": [
+        "4188636726071723262"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of male layer fed ration containing green algae (Spirogyra jaoensis) extract",
+        "pub_year": "2021",
+        "citation": "Tropical Animal Science Journal 44 (1), 100-107, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:aqlVkmm33-oC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16543308286869394269",
+      "cites_id": [
+        "16543308286869394269"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth morphology of the gastrointestinal tract, pectoralis thoracicus muscle, lymphoid organ and visceral index of kampong chicken",
+        "pub_year": "2024",
+        "citation": "Journal of the Saudi Society of Agricultural Sciences 23 (1), 34-41, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:RGFaLdJalmkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7827525878169943694",
+      "cites_id": [
+        "7827525878169943694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Goloba kusi (Hornstedtia scottiana [F. Muell.] K. Schum.) fruit as a feed additive to improve the histological structures and growth performance of broiler",
+        "pub_year": "2023",
+        "citation": "Veterinary World 16 (2), 329, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:r0BpntZqJG4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11600139131686942452",
+      "cites_id": [
+        "11600139131686942452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Histological structure of pectoralis thoracicus, small intestine, and growth performance of broiler chicken after supplementation of peanut hulls (Arachis hypogaea L.) Indones",
+        "pub_year": "2022",
+        "citation": "J. Anim. Sci 32 (1), 42-51, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18133575287907585373",
+      "cites_id": [
+        "18133575287907585373"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential development and marketing of jawa super chicken eggs to promote sustainable of food security at Ngoro-Oro Village, Gunungkidul during Covid-19 Pandemic",
+        "pub_year": "2022",
+        "citation": "Jurnal Pengabdian kepada Masyarakat (Indonesian Journal of Community \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14377905879450514942",
+      "cites_id": [
+        "14377905879450514942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek ekstrak etanolik jamur kuping pada performa pertumbuhan dan morfologi usus halus ayam jawa super",
+        "pub_year": "2021",
+        "citation": "Jurnal Veteriner 22 (2), 237-245, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:-f6ydRqryjwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4820859649901821284",
+      "cites_id": [
+        "4820859649901821284"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficiency of testosterone administration on the performance of day old chick (DOC) Layer: Cockscomb size, T3/T4 ratio, and histopathological description of bursa fabricius",
+        "pub_year": "2021",
+        "citation": "2nd International Conference on Veterinary, Animal, and Environmental \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:IWHjjKOFINEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2927373809522338186",
+      "cites_id": [
+        "2927373809522338186"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plumage colours stability in inbreed pelung chicken",
+        "pub_year": "2021",
+        "citation": "BIO Web of Conferences 33, 01005, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15392579080640195302",
+      "cites_id": [
+        "15392579080640195302"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Paracetamol on the Development of Zebrafish (Danio rerio).",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:blknAaTinKkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7074137642920624579",
+      "cites_id": [
+        "7074137642920624579"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanolic Extract of Black Rice \u2018Sembada Hitam\u2019 Bran Protects the Cytotoxic Effect of H2O2 on NIH3T3 Cells.",
+        "pub_year": "2023",
+        "citation": "Current Research in Nutrition and Food Science Journal 11 (1), 389-400, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13858890440503520545",
+      "cites_id": [
+        "13858890440503520545"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Oxidative Stress-Mediated Effects in Pregnant Mice with Plasmodium berghei Infection",
+        "pub_year": "2022",
+        "citation": "Advances in Animal and Veterinary Sciences 10 (3), 521-528, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2024394799623805347",
+      "cites_id": [
+        "2024394799623805347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of natural aromatase blocker on the growth comb and body weight of layer chicken",
+        "pub_year": "2022",
+        "citation": "BIO Web of Conferences 49, 01004, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8027919442045591709",
+      "cites_id": [
+        "8027919442045591709"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfologi Otot Pektoralis Ayam Petelur [Gallus gallus gallus (Linnaeus, 1758)] Betina Setelah Pemberian Infusa Buah Kurma (Phoenix dactilifera L.)",
+        "pub_year": "2020",
+        "citation": "Prosiding SNPBS (Seminar Nasional Pendidikan Biologi dan Saintek), 664-671, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14863087966088025300",
+      "cites_id": [
+        "14863087966088025300"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of early posthatch local feed in pectoralis muscle of Jawa Super chicks (Gallus gallus domesticus)",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1755 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4375845307081981059",
+      "cites_id": [
+        "4375845307081981059"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Ekstrak Etanol Propolis (EEP) Terhadap Hepatotoksisitas dan Stres Oksidasi Akibat Pemberian 2, 3, 7, 8-tetrachlorodibenzo-p-dioxin (TCDD) Secara Kronis Pada Tikus \u2026",
+        "pub_year": "2005",
+        "citation": "Universitas Gadjah Mada, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7601919734268546930",
+      "cites_id": [
+        "7601919734268546930"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Histopatologi Untuk Praktik Forensik: Review: Applications of Histopathology for Forensic Practice",
+        "pub_year": "2024",
+        "citation": "Borneo Journal of Medical Laboratory Technology 6 (2), 529-539, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nile Tilapia (Oreochromis niloticus) Gill Powder as a Novel Feed Additive for Enhanced Histological Structure and Performance in Broilers",
+        "pub_year": "2024",
+        "citation": "acta veterinaria eurasia 50 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extract of Black Rice (Oryza sativa L.\u2018Sembada Hitam\u2019) Bran Protect Cytotoxicity of Hydrogen Peroxide on Vero Cells in a Short Time Incubation: Black rice bran \u2018Sembada Hitam \u2026",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Life Science 14 (1), 1-12, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dietary macroalgae Chaetomorpha linum supplementation improves morphology of small intestine and pectoral muscle, growth performance, and meat quality of broilers",
+        "pub_year": "2024",
+        "citation": "veterinary world 17 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Larutan Fiksatif Makromolekul pada Sediaan Histologis.",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 14 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Minyak Zaitun, Minyak Kelapa, dan Minyak Kelapa Sawit yang Dimurnikan sebagai Clearing Agent dalam Pembuatan Preparat Histologis.",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 14 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performa anakan ayam supel (super pelung) hasil persilangan indukan ayam betina jawa super dan ayam jantan pelung",
+        "pub_year": "2023",
+        "citation": "Al-Kauniyah 16 (1), 201-211, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth, pectoralis muscle performance, and testis of pelung cockerels (Gallus gallus gallus [Linnaeus, 1758]) supplemented with blood clam shell powder (Anadara granosa \u2026",
+        "pub_year": "2023",
+        "citation": "Veterinary world 16 (3), 474, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Ekstrak Etanolik Daun Jambu Mete sebagai Pengganti Enramycin terhadap Performa Pertumbuhan Ayam Layer Jantan",
+        "pub_year": "2023",
+        "citation": "jurnal veteriner udayana 24 (4), 532-542, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfologi Pertumbuhan Tulang Toraks Ayam Kampung (Gallus gallus gallus) Pasca-Menetas Sampai Usia Sembilan Minggu",
+        "pub_year": "2023",
+        "citation": "Jurnal Sain Veteriner 41 (2), 255-266, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Egg quality determination of F1 and F2 chicken selected crossbred of broiler Cobb 500\u00d7 Pelung.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Production of Superior Hybrid Jawa Super Chicken as a Food Security Strategy During COVID-19 Pandemic in Ngoro-Oro Village, Patuk, Gunung Kidul, Yogyakarta",
+        "pub_year": "2022",
+        "citation": "Jurnal Pengabdian kepada Masyarakat (Indonesian Journal of Community \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Administrated Infused Water of Red Dragon Fruit (Hylocereus polyrhizus (FAC Weber) Britton & Rose) on Growth Performance of Broiler Chickens",
+        "pub_year": "2021",
+        "citation": "Veterinary Biomedical and Clinical Journal 3 (2), 27-34, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Performance, Histological Structure of Duodenum and Pectoralis Muscle of Kampung Chickens After Administration of Antibiotic Growth Promoter",
+        "pub_year": "2018",
+        "citation": "Buletin Peternakan 42 (2), 127-132, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of Protein Level on Feed with the Ovarian Follicle Development of Laying Hens Gallus gallus",
+        "pub_year": "2017",
+        "citation": "Proceeding of the 1st International Conference on Tropical Agriculture, 453-465, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PECAM-1-dependent regulation and protective effects of Heme Oxygenase-1 in the endothelium",
+        "pub_year": "2015",
+        "citation": "Bibliothek der Tier\u00e4rztlichen Hochschule Hannover, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Chlorpyrifos on Embryo Development of Wader Pari Fish (Rasbora lateristriata Bleeker, 1854)",
+        "citation": "Berkala Ilmiah Biologi 13 (2), 21-31, 0"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Kualitas Telur Ayam F1 dan F2 Anakan Biak Selektif Broiler Cobb 500 x Pelung",
+        "citation": "Buletin Veteriner Udayana Volume 14 (2), 129-147, 0"
+      },
+      "filled": false,
+      "author_pub_id": "bWkmoJoAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 2,
+    "not_available": 1
+  }
+}

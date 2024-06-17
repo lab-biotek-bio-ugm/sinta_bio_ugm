@@ -1,0 +1,612 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "wmsORQkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "bambang agus suripto",
+  "affiliation": "Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Vertebrate systematics and evolution"
+  ],
+  "email_domain": "@mail.ugm.ac.id",
+  "citedby": 139,
+  "citedby5y": 105,
+  "hindex": 7,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2008": 1,
+    "2009": 0,
+    "2010": 1,
+    "2011": 0,
+    "2012": 4,
+    "2013": 1,
+    "2014": 2,
+    "2015": 4,
+    "2016": 6,
+    "2017": 4,
+    "2018": 7,
+    "2019": 12,
+    "2020": 16,
+    "2021": 16,
+    "2022": 20,
+    "2023": 30,
+    "2024": 11
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Akuntansi manajemen",
+        "pub_year": "2013",
+        "citation": "Jakarta: Salemba Empat, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:Zph67rFs4hoC",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13868847106356846310",
+      "cites_id": [
+        "13868847106356846310"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relief jenis-jenis fauna dan setting lingkungannya pada pahatan dinding candi Borobudur (Fauna and environmental setting reliefs on sculptured wall of the Borobudur temple)",
+        "pub_year": "2001",
+        "citation": "Jurnal Manusia dan Lingkungan 8 (1), 37-48, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:WF5omc3nYNoC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18173257939036981365",
+      "cites_id": [
+        "18173257939036981365"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dkk. 2014",
+        "citation": "Edisi Kedua. \u00e2\u20ac \u0153Akuntansi Biaya\u00e2\u20ac, Penerbit Salemba Empat. Jakarta, 0"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3206806578202175977",
+      "cites_id": [
+        "3206806578202175977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determinan akuntabilitas pengelolaan keuangan organisasi nonlaba",
+        "pub_year": "2022",
+        "citation": "Jurnal Reviu Akuntansi Dan Keuangan 12 (2), 454-471, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=328122803248520248",
+      "cites_id": [
+        "328122803248520248"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Praktik Pelaporan Keuangan dalam Website Perusahaan Indonesia",
+        "pub_year": "2006",
+        "citation": "Jurnal akuntansi dan manajemen 17, 41-56, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6273725685963239514",
+      "cites_id": [
+        "6273725685963239514"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Babi hutan (Sus spp.) Di Pulau Jawa: Masa Lalu, Masa Kini, Dan Masa Yang Akan Datang",
+        "pub_year": "2000",
+        "citation": "Jurnal Konservasi Kehutanan 2 (1), 1-23, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8239770072028590049",
+      "cites_id": [
+        "8239770072028590049"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prinsip-prinsip dan Pengelolaan Sumberdaya Keanekaragaman Hayati di Indonesia",
+        "pub_year": "1998",
+        "citation": "Direktorat Jendral Pendidika inggi Departemen Pendidikan dan Kebudayaan \u2026, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7177713848795230150",
+      "cites_id": [
+        "7177713848795230150"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Public cemetery as a bird habitat in Yogyakarta, Indonesia",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8864692736213829833",
+      "cites_id": [
+        "8864692736213829833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Jenis-Jenis Tikus (Rodentia: Muridae) dan Pakan Alaminya di Daerah Pertanian Sekitar Hutan di Kabupaten Banggai, Sulawesi Tengah",
+        "pub_year": "2002",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 8 (1), 63-74, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7211456726310571035",
+      "cites_id": [
+        "7211456726310571035"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Economic Contribution of Fruit Bats (Family Pteropodidae) Through Durian Fruit Production in the Agroecosystem in Java Island",
+        "pub_year": "2021",
+        "citation": "7th International Conference on Research, Implementation, and Education of \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15075234410242800979",
+      "cites_id": [
+        "15075234410242800979"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diurnal bird community in the vicinity of Adisutjipto International Airport Yogyakarta",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8412185427397480993",
+      "cites_id": [
+        "8412185427397480993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman jenis kelelawar buah (Megachiroptera) dan pakan alaminya di Kecamatan Kokap, Kulon Progo, Yogyakarta",
+        "pub_year": "2001",
+        "citation": "Berkala Ilmiah Biologi 2 (2001), 2001"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17206855634582122915",
+      "cites_id": [
+        "17206855634582122915"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sudarmaji. 2002. The species of rats (Rodentia: Muridae) and their foods in agricultural area surounding forest Banggai Re-gency, Central Sulawesi",
+        "citation": "Jurnal perlindungan Tana-man Indonesia 8 (1), 63-74, 0"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:_kc_bZDykSQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15736307690002022400",
+      "cites_id": [
+        "15736307690002022400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Campuses in Yogyakarta as a bird habitat",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16837212880738415082",
+      "cites_id": [
+        "16837212880738415082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bird of Mesangat in East Kutai, East Kalimantan",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1813 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:qjMakFHDy7sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7075200620601831294",
+      "cites_id": [
+        "7075200620601831294"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DAILY ACTIVITIES OF BALI MYNA (Leucopsar rothschildi) AT BALI MYNA GUIDANCE CENTER, TEGAL BUNDER, BALI BARAT NATIONAL PARK",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 598-600, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6539828983520824307",
+      "cites_id": [
+        "6539828983520824307"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Composition of Bird Species in Plawangan, Gunung Merapi National Park",
+        "pub_year": "2013",
+        "citation": "Seminar, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7950579904113941825",
+      "cites_id": [
+        "7950579904113941825"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Burung Di Pulau Nisakambangan, Cilacap, Jawa Tengah: Keanekaragaman, Adaptasi Dan Jenis-jenis Penting Untuk Dilindungi (Birds in Nusakambangan Island, Cilacap, Central Java \u2026",
+        "pub_year": "2006",
+        "citation": "Jurnal Manusia dan Lingkungan 13 (1), 9-25, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3965437579314549997",
+      "cites_id": [
+        "3965437579314549997"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Jenis dan Peranan Kelelawar Buah Penyesap Nira Kelapa di Kecamatan Kokap Kabupaten Kulon Progo",
+        "pub_year": "2006",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 12 (1), 13-24, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2568704317522324836",
+      "cites_id": [
+        "2568704317522324836"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat kesejahteraan burung paruh bengkok di Taman Satwa Taru Jurug Surakarta",
+        "pub_year": "2021",
+        "citation": "Prosiding Seminar Nasional Biologi 7 (1), 318-327, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15761674031021151399",
+      "cites_id": [
+        "15761674031021151399"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytogeography of the Solidago rugosa Mill. Complex (Asteraceae: Astereae) in Eastern North America",
+        "pub_year": "2021",
+        "citation": "Taxonomy 1 (4), 290-301, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8751270686668713977",
+      "cites_id": [
+        "8751270686668713977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan Ruang Terbuka Hijau di Hotel Bintang Lima di Yogyakarta Sebagai Habitat Burung",
+        "pub_year": "2020",
+        "citation": "BIOTROPIC The Journal of Tropical Biology 4 (2), 119-133, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5248272643857460853",
+      "cites_id": [
+        "5248272643857460853"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Koloni Burung Cangak Abu (Ardea Cinerea Linnaeus) Di Area Bandar Udara Internasional Adisutjipto YOGYAKARTA (Grey Heron Colony (Ardea Cinerea Linnaeus) in YOGYAKARTA \u2026",
+        "pub_year": "2019",
+        "citation": "Jurnal Manusia dan Lingkungan 26 (1), 1-9, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16605118105111194683",
+      "cites_id": [
+        "16605118105111194683"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological variation of branjangan birds (Mirafra javanica Horsfield, 1821) traded in Java",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7983792620956651609",
+      "cites_id": [
+        "7983792620956651609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and Origin of Mammal Collection in Mini Zoo in Sleman, Yogyakarta Special Region",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 145-148, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Morfologi Burung Perkutut Berdasarkan Ras dan Warna Bulu yang Diternakkan di Daerah Istimewa Yogyakarta",
+        "pub_year": "2022",
+        "citation": "Biotropic: The Journal of Tropical Biology 6 (1), 37-46, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Kesiapan Pelepasliaran Beruang Madu (Helarctos Malayanus) di Wildlife Rescue Centre Jogja",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Conservation 10 (2), 66-71, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan Kemelimpahan Burung Pemangsa (Raptor) Migran di Kawasan Bukit 76 Kaliurang, Yogyakarta",
+        "pub_year": "2021",
+        "citation": "Biotropic: The Journal of Tropical Biology 5 (1), 1-8, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan Ruang Terbuka Hijau di Hotel Bintang Lima di Yogyakarta Sebagai Habitat Burung",
+        "pub_year": "2020",
+        "citation": "Biotropic: The Journal of Tropical Biology 4 (2), 119-133, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valuasi Ekonomi Biodiversitas: Kontribusi Ekonomi Keberadaan Kelelawar Buah (Subordo: Megachiroptera) sebagai Penyerbuk Durian (Durio zibethinus) di Pulau Jawa",
+        "pub_year": "2018",
+        "citation": "Seminar Nasional Biologi Tropika 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFIKASI JENIS FOSIL FORAM ANGGOTA FILUM FORAMINIFERA PADA FORMASI NANGGULAN, JALUR KALISONGGO, KULON PROGO, DAERAH ISTIMEWA YOGYAKARTA",
+        "pub_year": "2014",
+        "citation": "Text, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Babi hutan (Sus spp.) di Pulau Jawa, masa lalu, masa kini dan masa mendatang",
+        "pub_year": "2002",
+        "citation": "Prosiding Seminar Nasional Bioekologi dan Konservasi Ungulata, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMETAAN KONDISI SUMBERDAYA ALAM KAWASAN DATARAN TINGGI DIENG",
+        "pub_year": "2001",
+        "citation": "Fak. Geografi UGM, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An examination of generic concept",
+        "pub_year": "1993",
+        "citation": "University of Waterloo Ontario Canada, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Problem of establishment of taxa at the generic level= Permasalahan penempatan Taxa pada Tingkat Genus",
+        "pub_year": "1992",
+        "citation": "Berkala Ilmiah Biologi 1 (1992), 1992"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sifat-sifat anatomi tengkorak untuk identifikasi babi hutan muda sus scrofa vittatus boie. 1828 dan sus verrucosus verrucosus boie 1832 yang hidup di Pulau Jawa",
+        "pub_year": "1987",
+        "citation": "Universitas Gadjah Mada, 1987"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bird of Mesangat in East Kutai, East Kalimantan",
+        "pub_year": "1813",
+        "citation": "AIP Conference Proceedings 20017 (2017), 1813"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan Kemelimpahan Burung Pemangsa (Raptor) Migran yang Teramati dari Kawasan Bukit 76 Kaliurang, Yogyakarta",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas Burung di Pesisir Kabupaten Kulon Progo",
+        "citation": "Proceeding Biology Education Conference: Biology, Science, Enviromental, and \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "wmsORQkAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

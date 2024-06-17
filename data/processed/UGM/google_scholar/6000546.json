@@ -1,0 +1,585 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "PyiNSH8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dwi Umi Siswanti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PyiNSH8AAAAJ&citpid=4",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant Physiology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "homepage": "http://www.biologi.ugm.ac.id/",
+  "citedby": 89,
+  "citedby5y": 80,
+  "hindex": 6,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2015": 2,
+    "2016": 0,
+    "2017": 0,
+    "2018": 4,
+    "2019": 3,
+    "2020": 1,
+    "2021": 22,
+    "2022": 23,
+    "2023": 14,
+    "2024": 17
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of biofertilizer and salinity on growth and chlorophyll content of Amaranthus tricolor L",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 662 (1), 012019, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2798105517232884497",
+      "cites_id": [
+        "2798105517232884497"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertanian organik terpadu di Desa Wukirsari, Sleman, Yogyakarta sebagai usaha pemulihan kesuburan lahan terimbas erupsi merapi 2010 dan pencapaian Desa Mandiri Sejahtera",
+        "pub_year": "2015",
+        "citation": "Jurnal Pengabdian kepada Masyarakat (Indonesian Journal of Community \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10375787047831471331",
+      "cites_id": [
+        "10375787047831471331"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produktivitas Tanaman padi (Oryza sativa L.) Segreng Terhadap Aplikasi Sludge Biogas di Lahan Sawah Desa Wukirsari, Cangkringan, Sleman",
+        "pub_year": "2018",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 6 (1), 64-70, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8649680166656244586",
+      "cites_id": [
+        "8649680166656244586"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth rate and capsaicin level of curly red chili (Capsicum annum L.) on biofertilizer and biogas sludge application",
+        "pub_year": "2019",
+        "citation": "Jurnal Biodjati 4 (1), 126-137, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5428688009639129489",
+      "cites_id": [
+        "5428688009639129489"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan tiga kultivar padi (Oryza sativa L.) terhadap aplikasi pupuk bio cair dan kondisi tanah pertanian pasca erupsi Merapi 2010",
+        "pub_year": "2013",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 1 (2), 110-115, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2335847228895052948",
+      "cites_id": [
+        "2335847228895052948"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sudjino.(2018). Produktivitas Tanaman padi (Oryza sativa L.) cv Segreng Setelah Aplikasi Sludge Biogas di Lahan Sawah Desa Wukirsari, Cangkringan, Sleman [Productivity of rice \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11949402644348590717",
+      "cites_id": [
+        "11949402644348590717"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of biofertilizer and salinity stress on Amaranthus tricolor L. growth and total leaf chlorophyll content",
+        "pub_year": "2021",
+        "citation": "BIO Web of Conferences 33, 02004, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9312152491061732456",
+      "cites_id": [
+        "9312152491061732456"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Acidic pH on Growth Kinetics, Biomass Productivity, and Prima-ry Metabolite Contents of Euglena sp.",
+        "pub_year": "2023",
+        "citation": "Makara Journal of Science 27 (2), 3, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:_kc_bZDykSQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17203739234456984254",
+      "cites_id": [
+        "17203739234456984254"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of biofertilizer on growth and metaxylem diameter of Amaranthus tricolor L. in salinity stress condition",
+        "pub_year": "2021",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 9 (2), 178-188, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12500599132756371741",
+      "cites_id": [
+        "12500599132756371741"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Capsaicin level and anatomy response of curly red chili (Capsicum annuum L.) to bio fertilizer and sludge biogas application",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13983483823769497034",
+      "cites_id": [
+        "13983483823769497034"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons fisiologis padi (Oryza sativa L.)\u201cSegreng\u201d dan \u201cMenthik Wangi\u201d terhadap aplikasi pupuk organik cair dan dekomposer",
+        "pub_year": "2014",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 2 (2), 89-93, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12263966706408764969",
+      "cites_id": [
+        "12263966706408764969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant Response and Nitrate Reductase Activity in vivo on Rice (Oryza sativa L.) Cultivars IR-64 to Biofertilizer Application And Drought",
+        "pub_year": "2011",
+        "citation": "Proceeding ICBS Faculty of Biology, Universitas Gadjah Mada, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10543231118398915339",
+      "cites_id": [
+        "10543231118398915339"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salinity treatment as bacterial control and its impact on growth and nutritional value of Spirulina (Arthrospira platensis) culture in open pond system.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15457434058385806725",
+      "cites_id": [
+        "15457434058385806725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of IAA Phytohormone (Indole-3-Acetic Acid) on the Growth, Lipid, Protein, Carbohydrate, and Pigment Content in Euglena sp.",
+        "pub_year": "2023",
+        "citation": "Malaysian Journal of Fundamental and Applied Sciences 19 (4), 513-524, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13455867852581678999",
+      "cites_id": [
+        "13455867852581678999"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Water Availability on Physiological Factors of Cayenne Pepper Plant Capsicum frutescens L.",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 344-349, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11534978266777572361",
+      "cites_id": [
+        "11534978266777572361"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of biofertilizer and salinity stress on productivity and vitamin C levels of Amaranthus tricolor L.",
+        "pub_year": "2021",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 9 (2), 146-155, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:5nxA0vEk-isC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7655813550254216431",
+      "cites_id": [
+        "7655813550254216431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Grain Quality of Rice (Oryza sativa L.)\u2018Menthik Wangi\u2019of Organic Farming Yields",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (2), 105-105, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:Se3iqnhoufwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14140605972265808849",
+      "cites_id": [
+        "14140605972265808849"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Bio Fertilizer and Biogas Sludge to Curly Red Chili (Capsicum annuum L.) at Wukirsari Village, Cangkringan, Sleman",
+        "pub_year": "2019",
+        "citation": "Jurnal Pengabdian kepada Masyarakat (Indonesian Journal of Community \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17394716723573220695",
+      "cites_id": [
+        "17394716723573220695"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological response of mangrove ecosystem to the conservation of Teluk Adang Sanctuary in East Kalimantan, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6711331073264279609",
+      "cites_id": [
+        "6711331073264279609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Mercury Stress on the Growth and Lipid Content of Euglena sp. and Echinodorus palaefolius",
+        "pub_year": "2023",
+        "citation": "Biodjati 8 (1), 172-179, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6122721200940005316",
+      "cites_id": [
+        "6122721200940005316"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of biofertilizer and manure application on growth rate and chlorophyll content of spinach (Amaranthus tricolor L.) under salinity stress condition",
+        "pub_year": "2021",
+        "citation": "BIO Web of Conferences 33, 05003, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:UebtZRa9Y70C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3659585699315874158",
+      "cites_id": [
+        "3659585699315874158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Development of Antioxidant Nutraceuticals containing Chrysanthemum indicum L. Gummy Candy",
+        "pub_year": "2024",
+        "citation": "Majalah Obat Tradisional (Trad. Med. J.) 29 (1), 37-45, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of root anatomy and vitamin C content of Brassica juncea L. on biofertilizer application in a saline environment",
+        "pub_year": "2023",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 11 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Pupuk Berbahan Sampah Organik Sebagai Upaya Mengatasi Darurat Sampah Dan Mewujudkan Ketahanan Pangan Berrkelanjutan",
+        "pub_year": "2023",
+        "citation": "Prosiding Kontribusi Forum Akademisi SAC 1 (1), 612-622, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioremediation of Mercury-Polluted Water in Free Water Surface-Constructed Wetland System by Euglena sp. and Echinodorus palifolius (Nees & Mart.) JF Macbr.",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (3), 88143, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimisation of Bioflocculation Using Anabaena sp. and Navicula sp. for Harvesting of Glagah Microalgae Consortium.",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth response, chlorophyll content, and nitrate reductase activity of mustard greens (Brassica rapa L.) to salinity stress post application of biofertilizer in hydroponic system",
+        "pub_year": "2022",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 10 (2), 155-167, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of alkaline and drought stress on growth and SOD content in basil plant (Ocimum americanum).",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Alkaline and Drought Stress on Growth and SOD (Superoxide dismutase) Content in Basil Plant (Ocimum americanum L.)",
+        "pub_year": "2022",
+        "citation": "Jurnal Biodjati 7 (1), 119-131, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth and Productivity of Lurik Peanuts (Arachis hypogaea L. var. Lurikensis) after Biofertilizer-Sludge Biogas Application",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 505-512, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Viability, productivity, and anatomical response of groundnuts (Arachis hypogaea L.) to biofertilizer-sludge biogas applications",
+        "pub_year": "2021",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 9 (1), 57-65, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sludge biogas made from cow feces increases rice (Oryza sativa L.)\u2018Segreng\u2019growth in green house scale",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological response of'Segreng'rice plant (Oryza sativa L.) to biogas sludge at Wukirsari Village, Cangkringan, Sleman",
+        "pub_year": "2018",
+        "citation": "Biology, Medicine, & Natural Product Chemistry 7 (1), 21-26, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertanian Organik Terpadu Desa Wukirsari sebagai Usaha Memulihkan Kesuburan Lahan Terimbas Erupsi Merapi 2010 dan Mencapai Desa Mandiri Sejahtera",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH ABU VULKANIK TERHADAP PERTUMBUHAN DAN PRODUKTIVITAS TANAMAN KEDELAI (Glycine max (L.) Merr)",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons Akar Rhyzophorasp terhadap Aktivitas Pelabuhan Tongkang Batubara di Cagar alam Teluk Adang, Kalimantan Timur",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons tanaman dan aktivitas nitrat reduktase in vivo tanaman padi (Oryza sativa L.) kultivar IR-64 terhaadp pupuk bio cair dan cekaman kekeringan",
+        "pub_year": "2010",
+        "citation": "Universitas Gadjah Mada, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTANIKA JOURNAL OF SOCIAL SCIENCES AND HUMANITIES",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "PyiNSH8AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

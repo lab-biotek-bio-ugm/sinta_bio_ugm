@@ -1,0 +1,45 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "jaW9y40AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Utaminingsih",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jaW9y40AAAAJ&citpid=2",
+  "affiliation": "Biology Faculty, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant structure and development"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "hindex": 0,
+  "hindex5y": 0,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {},
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Accumulation tissues and content of capsaisin in the fruit of capsicum frutescens L., capsicum annum L. var abreviata Eingerhuth and Capsicum annum L. var longum Send during \u2026",
+        "pub_year": "2011",
+        "citation": "Prosiding International Conference on Biological Science Faculty of Biology \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "jaW9y40AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

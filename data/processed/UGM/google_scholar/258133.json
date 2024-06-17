@@ -1,0 +1,815 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "D-O4f0MAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Miftahul Ilmi",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=D-O4f0MAAAAJ&citpid=6",
+  "affiliation": "Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Microbiology",
+    "Enzyme",
+    "Industrial Microbiology",
+    "Mycology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "homepage": "http://acadstaff.ugm.ac.id/ilmi",
+  "citedby": 213,
+  "citedby5y": 181,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 6,
+  "i10index5y": 6,
+  "cites_per_year": {
+    "2015": 1,
+    "2016": 4,
+    "2017": 6,
+    "2018": 21,
+    "2019": 22,
+    "2020": 25,
+    "2021": 31,
+    "2022": 50,
+    "2023": 37,
+    "2024": 16
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hRKblrQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "HJ Heeres",
+      "affiliation": ""
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8eWo5bIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Prof. Dr Ir Chusnul Hidayat",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SY31yxEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arne Hommes",
+      "affiliation": "Rijksuniversiteit Groningen"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "RkXVoxgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Gert-Jan Euverink",
+      "affiliation": "University of Groningen"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3iGuniAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ekowati Chasanah",
+      "affiliation": "Research Profesor at Research Center of Marine and Aquatic Bioindustry, NRIA"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zTGHeI4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Marc Van der Maarel",
+      "affiliation": ""
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "HI1VZYwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Yusuf Abduh",
+      "affiliation": "Lecturer of Bio-engineering, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "imwRiIsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Endah Retnaningrum",
+      "affiliation": "Prof. of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "wbD_inkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wibowo Mangunwardoyo",
+      "affiliation": "Departement Biology, Faculty of Mathematic and Natutal Sciences Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "sJ8UgjsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mahrus Ali",
+      "affiliation": "University of Lampung, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "akqIOYYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kasiamdari, Rina Sri",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MvYFFTEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Agus Suyono",
+      "affiliation": "Algal Culture, Biotechnology & Engineering Expert of Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6ImOpxkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Setiadi Daryono",
+      "affiliation": "Dosen Genetika dan Dekan  Fakultas Biologi UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vEaXD9YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "M. Ali Azis Hasan Rizki",
+      "affiliation": "Universitas Islam Al Azhar"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "12CrTFIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tuty Arisuryanti",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YhPtFJYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ega Delva",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "d3mqIVUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ridwan",
+      "affiliation": "Universitas Muslim Buton"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "d_PUN-0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nur Rayani",
+      "affiliation": "Universitas Halu Oleo"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qhDO5x4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Misri Gozan",
+      "affiliation": "Professor of Bioprocess Engineering, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ynx9c0IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yano Surya Pradana",
+      "affiliation": "Department of Chemical Engineering, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DHfwJ8EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Chikmatul Alifiyatin",
+      "affiliation": "Master Graduate Student, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "lScl_T0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jimmy Al Fa'is",
+      "affiliation": "Master Student, Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TN6r-7oAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Syamsul Arif Ardiansyah",
+      "affiliation": "Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Process intensification of catalytic liquid-liquid solid processes: Continuous biodiesel production using an immobilized lipase in a centrifugal contactor separator",
+        "pub_year": "2017",
+        "citation": "Chemical Engineering Journal 321, 76-85, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 61,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1961426784545469030",
+      "cites_id": [
+        "1961426784545469030"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilisation of Jatropha press cake as substrate in biomass and lipase production from Aspergillus niger 65I6 and Rhizomucor miehei CBS 360.62",
+        "pub_year": "2017",
+        "citation": "Biocatalysis and Agricultural Biotechnology 9, 103-107, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15724115107311869897",
+      "cites_id": [
+        "15724115107311869897"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic studies on the transesterification of sunflower oil with 1-butanol catalyzed by Rhizomucor miehei lipase in a biphasic aqueous-organic system",
+        "pub_year": "2016",
+        "citation": "Biochemical engineering journal 114, 110-118, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5838610883206985585",
+      "cites_id": [
+        "5838610883206985585"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Process Intensification of Enzymatic Fatty acid butyl ester Synthesis using a Continuous Centrifugal Contactor Separator",
+        "pub_year": "2018",
+        "citation": "Industrial & Engineering Chemistry Research 57 (2), 470\u2013482, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5621714067039503329",
+      "cites_id": [
+        "5621714067039503329"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi dan Klasifikasi Numerik Khamir dari Madu Hutan Sulawesi Tengah",
+        "pub_year": "2018",
+        "citation": "Jurnal Mikologi Indonesia 2 (2), 112-128, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13832079894920113992",
+      "cites_id": [
+        "13832079894920113992"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipase-producing Filamentous Fungi from Non-dairy Creamer Industrial Waste",
+        "pub_year": "2020",
+        "citation": "Microbiology and Biotechnology Letters 48 (2), 167-178, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:5nxA0vEk-isC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13224434760217181725",
+      "cites_id": [
+        "13224434760217181725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of Mung Bean Sprout (Tauge) as Alternative Fungal Growth Medium",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1241, 012015, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11804516956297798165",
+      "cites_id": [
+        "11804516956297798165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan bakteri kitinolitik dari limbah pengolahan udang",
+        "pub_year": "2009",
+        "citation": "Jurnal Pascapanen dan Bioteknologi Kelautan dan Perikanan 4 (1), 59-68, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6729750754437663646",
+      "cites_id": [
+        "6729750754437663646"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carbon Dots Modification for Escherichia Coli Detection: Variation of Colistin Sulphate Concentration",
+        "pub_year": "2019",
+        "citation": "Oriental Journal of Chemistry 35 (1), 49-55, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:WF5omc3nYNoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12816120400806720976",
+      "cites_id": [
+        "12816120400806720976"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enzymatic biodiesel synthesis using novel process intensification principles",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:qUcmZB5y_30C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14633097317312990368",
+      "cites_id": [
+        "14633097317312990368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and partial characterization of crude extracellular enzymes from bacteria isolated from shrimp waste processing",
+        "pub_year": "2012",
+        "citation": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology 7 (1 \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7841388613441186003",
+      "cites_id": [
+        "7841388613441186003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Medium for Lipase Production from Zygosaccharomyces mellis SG1. 2 Using Statistical Experiment Design",
+        "pub_year": "2021",
+        "citation": "Microbiology and Biotechnology Letters 49 (3), 337\u2013345, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13545025759736339733",
+      "cites_id": [
+        "13545025759736339733"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential Yeast from Indonesian Wild Forest Honey Showing Ability to Produce Lipase for Lipid Transesterification",
+        "pub_year": "2019",
+        "citation": "Microbiology and Biotechnology Letters 47 (4), 555-564, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13421862950309869572",
+      "cites_id": [
+        "13421862950309869572"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increasing lipid production from Zygosaccharomyces siamensis AP1 in molasses substrate using sequencing batch method",
+        "pub_year": "2023",
+        "citation": "Preparative Biochemistry & Biotechnology 53 (3), 288-296, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:4DMP91E08xMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13531484714403374818",
+      "cites_id": [
+        "13531484714403374818"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island Based on Ribosomal Regions ITS1/ITS2 and D1/D2",
+        "pub_year": "2022",
+        "citation": "Mycobiology 50 (2), 132-141, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:aqlVkmm33-oC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17744641076090609579",
+      "cites_id": [
+        "17744641076090609579"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Oleaginous Filamentous Fungi Isolated from Soil of Baturraden Botanical Garden, Central Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 736 (1), 012060, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:Zph67rFs4hoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8822463703471158874",
+      "cites_id": [
+        "8822463703471158874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and antimicrobial activity of lactic acid bacteria from the digestive tract of eels (Monopterus albus)",
+        "pub_year": "2019",
+        "citation": "Asian Journal of Tropical Biotechnology 16 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:ufrVoPGSRksC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13345080508594180518",
+      "cites_id": [
+        "13345080508594180518"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Numerik Khamir dari Nektar Bunga Kebun Raya Baturraden dan Panggeran Hargobinangun",
+        "pub_year": "2018",
+        "citation": "Jurnal Mikologi Indonesia 2 (2), 90-98, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=346466264202752489",
+      "cites_id": [
+        "346466264202752489"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of water content and carbon source addition on lipase production from Aspergillus aculeatus Ms. 11 using spent coffee ground",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012055, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335584675153430650",
+      "cites_id": [
+        "18335584675153430650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipid production from Zygosaccharomyces siamensis ap1 using sequencing batch method with acetic acid as carbon source",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743, 012096, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=421555881066701052",
+      "cites_id": [
+        "421555881066701052"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipase production from Aspergillus aculeatus Ms. 11 in broth medium with variation of agitation speed",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2353 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5876179589774079564",
+      "cites_id": [
+        "5876179589774079564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Actinomycetes from the Soil of Chilli Plantation in Yogyakarta Showing an Antagonism to Fusarium oxysporum FU3",
+        "pub_year": "2019",
+        "citation": "Jurnal Biodjati 4 (2), 214-224, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:roLk4NBRz8UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=535362864904034940",
+      "cites_id": [
+        "535362864904034940"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan Isolat Khamir Oleaginous dari Nektar Bunga dan Madu Hutan",
+        "pub_year": "2018",
+        "citation": "Jurnal Mikologi Indonesia 2 (2), 99-111, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7901400377100855644",
+      "cites_id": [
+        "7901400377100855644"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimum medium for lipase production by lipolytic filamentous fungi isolated from Kendari landfill soil",
+        "pub_year": "2021",
+        "citation": "ASEAN Journal on Science and Technology for Development 38 (1), 5, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2238332246316587860",
+      "cites_id": [
+        "2238332246316587860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic Population Analysis of Microalga With Metabarcoding Study In Consortium Microalga-Bacteria Isolated From Glagah Beach Yogyakarta Using Next Generation Sequencing (Ngs \u2026",
+        "pub_year": "2019",
+        "citation": "Plant Cell Biotechnology And Molecular Biology 20 (11-12), 466-472, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2356074259219184406",
+      "cites_id": [
+        "2356074259219184406"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Random Mutagenesis of Lipomyces maratuensis InaCC Y720 Using Commercial UV Lamp To Increase Lipid Production",
+        "pub_year": "2024",
+        "citation": "Al-Kauniyah: Jurnal Biologi 17 (2), 286-292, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Mucor irregularis Isolated From Fruits in Producing Microbial Lipid",
+        "pub_year": "2024",
+        "citation": "Malaysian Applied Biology 53 (1), 19-26, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inducing Fungal Pelletization Using Affordable Microparticle",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 07001, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LIPID PRODUCTION FROM BR. 2.2 OLEAGINOUS FUNGAL ISOLATE USING ACETATE, GLYCEROL, AND MOLASSES AS CARBON SOURCES",
+        "pub_year": "2023",
+        "citation": "Jurnal Bioteknologi & Biosains Indonesia (JBBI) 10 (1), 68-75, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Various Agitation Speeds on Lipid Production from Fungal BR 2.2 Isolate",
+        "pub_year": "2023",
+        "citation": "3rd International Conference on Biology, Science and Education (IcoBioSE \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AKTIVITAS DAN KARAKTERISASI MIKOSIN ANTI Zygosaccharomyces rouxii FNCC 3006 DARI ISOLAT KHAMIR OSMOFILIK ASAL NEKTAR BUNGA DAN MADU",
+        "pub_year": "2022",
+        "citation": "BERITA BIOLOGI 21 (3), 211-220, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipase Production of Aspergillus aculeatus MS. 11 Using Solid State Fermentation on Rubber Seed Press Cake",
+        "pub_year": "2022",
+        "citation": "4th International Conference on Life Sciences and Biotechnology (ICOLIB 2021 \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Water Concentration on Growth Media on Lipid Production by Oleaginous Fungi Isolate BR 2.2",
+        "pub_year": "2022",
+        "citation": "Jurnal Riset Biologi dan Aplikasinya 4 (2), 51-56, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Variasi Kadar Air pada Produksi Lipase oleh Aspergillus aculeatus Ms. 11 dengan Fermentasi Substrat Padat Menggunakan Medium Press-Cake Biji Karet",
+        "pub_year": "2022",
+        "citation": "Jurnal Biologi Indonesia 18 (2), 139-145, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipid Production from Zygosaccharomyces siamensis AP1 Using Glycerol as a Carbon Source",
+        "pub_year": "2021",
+        "citation": "Advances in Biological Sciences Research 15, 71-75, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan Enzim Invertase dari Khamir Asal Nektar dan Madu Hutan",
+        "pub_year": "2020",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 37 (3), 141-146, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of nectar yeast from Central Java based on RAPD method",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260, 020029, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol producing yeast isolated from Indonesian flower nectar and wild forrest honey",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260, 060022, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of vancomycin on the growth and microbial dynamics of microalgae-bacteria consortium isolated from Glagah Beach, Yogyakarta",
+        "pub_year": "2020",
+        "citation": "Ecology, Environment and Conservation 26, S1-S7, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Isolat Khamir Osmofilik pada Madu Hutan dari Sulawesi Tengah Ditinjau Menggunakan Teknik RAPD",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "D-O4f0MAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 5,
+    "not_available": 0
+  }
+}

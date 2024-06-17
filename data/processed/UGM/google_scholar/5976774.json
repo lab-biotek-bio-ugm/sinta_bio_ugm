@@ -1,0 +1,244 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "aHXVjrsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Rahadian Yudo Hartantyo",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=aHXVjrsAAAAJ&citpid=4",
+  "affiliation": "Lecturer of Physiology, Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Animal physiology",
+    "Neurobiology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "homepage": "https://rahadianyudo.staff.ugm.ac.id/",
+  "citedby": 9,
+  "citedby5y": 8,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2020": 2,
+    "2021": 1,
+    "2022": 1,
+    "2023": 1,
+    "2024": 3
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VWGACcQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Laksmindra Fitria",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BcGzILwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Slamet Widiyanto",
+      "affiliation": "Associate Prof. of Animal Physiology, Faculty of Biology, Gadjah Mada University, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MvYFFTEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Agus Suyono",
+      "affiliation": "Algal Culture, Biotechnology & Engineering Expert of Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochemical compounds and sub-chronic toxicity test of Chlorella sp. and Spirulina sp. isolated from Glagah Coastal Water",
+        "pub_year": "2018",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 24 (1), 58-64, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18277073177096430273",
+      "cites_id": [
+        "18277073177096430273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ulva lactuca Linnaeus Potentially Promotes Reproductive Indices and Depressive-like Behavior of Hypertriglyceridemia Male Wistar Rats (Rattus norvegicus Berkenhout, 1769)",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (3), 228-238, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477748747292940416",
+      "cites_id": [
+        "16477748747292940416"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of addition MarolisTM probiotics for broiler performance and meat quality (Gallus gallus domesticus Linnaeus, 1758)",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8577080714934172055",
+      "cites_id": [
+        "8577080714934172055"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of administration MarolisTM probiotic on haematology profile and organs function (liver and kidney) of broiler chickens (Gallus gallus domesticus Linnaeus, 1758)",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5999196331504902431",
+      "cites_id": [
+        "5999196331504902431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Animal model for Sporadic Dementia of Alzheimer\u2019s type (SDAT) using streptozotocin and lipopolysaccharide combinations in rats",
+        "pub_year": "2020",
+        "citation": "Journal of the Medical Sciences (Berkala ilmu Kedokteran) 52 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=167121138464260228",
+      "cites_id": [
+        "167121138464260228"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toksisitas Oral Akut Arthrospira maxima dan Chlorella vulgaris Isolat Glagah Pada Tikus (Rattus norvegicus Berkenhout, 1769) Galur Wistar",
+        "pub_year": "2022",
+        "citation": "Al-Kauniyah: Jurnal Biologi 15 (2), 209-219, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TOKSISITAS ORAL AKUT Arthrospira maxima DAN Chlorella vulgaris ISOLAT GLAGAH PADA TIKUS (Rattus norvegicus Berkenhout, 1769) GALUR WISTAR",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performa Memori Eksplisit dan Histopatologi Hipokampus Tikus (Rattus norvegicus Berkenhout, 1769) Jantan Galur Wistar Hipertrigliseridemia dengan Perlakuan Ulva lactuca L.",
+        "pub_year": "2021",
+        "citation": "Universitas Gadjah Mada, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH Ulva lactuca L. TERHADAP PERILAKU SERUPA DEPRESI TIKUS (Rattus norvegicus Berkenhout, 1769) JANTAN GALUR WISTAR HIPERTRIGLISERIDEMIA",
+        "pub_year": "2020",
+        "citation": "Universitas Gadjah Mada, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Voluntary Diving Exercise Improves Hippocampus-dependent Learning in Rats",
+        "pub_year": "2020",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 8 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ameliorative Effect of Infused Watercress on Rat Galactopoiesis Following Maternal Separation",
+        "pub_year": "2018",
+        "citation": "Journal of Tropical Life Science 8 (3), 267305, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scientific & Editorial (S&E) Board: Inventing Prosperous Future through Biological Research and Tropical Biodiversity Management",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 010002, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERILAKU MATERNAL TIKUS PUTIH (Rattus norvegicus Berkenhout, 1769) POST PARTUM DENGAN PERLAKUAN URIN TIKUS JANTAN",
+        "pub_year": "2013",
+        "citation": "Universitas Gadjah Mada, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "aHXVjrsAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

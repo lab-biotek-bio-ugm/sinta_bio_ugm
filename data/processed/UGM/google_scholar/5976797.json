@@ -1,0 +1,592 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "TSsPJDEAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dr.rer.nat. Abdul Rahman Siregar, S.Si. M.Biotech.",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=TSsPJDEAAAAJ&citpid=7",
+  "affiliation": "Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Infection Biology",
+    "Virology",
+    "Microbiology",
+    "Biotechnology",
+    "One Health"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 13,
+  "citedby5y": 9,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2015": 2,
+    "2016": 2,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 1,
+    "2021": 0,
+    "2022": 3,
+    "2023": 3,
+    "2024": 2
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "p0YrSy0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Stefan P\u00f6hlmann",
+      "affiliation": "Leiter der Abteilung Infektionsbiologie, Deutsches Primatenzentrum"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IWBSUNwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nastiti Wijayanti",
+      "affiliation": "Justus Liebig University and Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "E4um8egAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "TRI WIBAWA",
+      "affiliation": "Faculty of Medicine Public Health and Nursing, Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Fosmid-Based System for the Generation of Recombinant Cercopithecine Alphaherpesvirus 2 Encoding Reporter Genes",
+        "pub_year": "2019",
+        "citation": "Viruses 11 (11), 1026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3746127412637062566",
+      "cites_id": [
+        "3746127412637062566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Early Detection and Serotyping of Dengue Viruses by Using Reverse Transcription Polymerase Chain Reaction (RT-PCR) 2 Primers",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Biotechnology 16 (2), 71-75, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:_kc_bZDykSQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9641190314640098102",
+      "cites_id": [
+        "9641190314640098102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Recombinant System and Reporter Viruses for Papiine Alphaherpesvirus 2",
+        "pub_year": "2022",
+        "citation": "Viruses 14 (1), 91, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13588397382992649148",
+      "cites_id": [
+        "13588397382992649148"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Primate simplexviruses differ in tropism for macaque cells",
+        "pub_year": "2023",
+        "citation": "Microorganisms 11 (1), 26, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3011646131084829397",
+      "cites_id": [
+        "3011646131084829397"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Squid Ink (Loligo sp.) as Alternative for Food Bipreservation",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5626919505388530320,4975182924121599105",
+      "cites_id": [
+        "5626919505388530320",
+        "4975182924121599105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Early Detection and Serotyping of Dengue Viruses Clinical Isolates Using Reverse Transcription Polymerase Chain Reaction (RT-PCR) 2 Primers",
+        "pub_year": "2012",
+        "citation": "Indonesian Journal of Biotechnology 16 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15026514348396631557",
+      "cites_id": [
+        "15026514348396631557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of novel iron Oxide/Carbon dots green nanocomposites for bacteria detection and antibacterial agent applications",
+        "pub_year": "2024",
+        "citation": "Microchemical Journal, 110899, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalence and antimicrobial resistance profiles of multidrug-resistant bacterial isolates from urinary tract infections in Indonesian patients: A cross-sectional study",
+        "pub_year": "2024",
+        "citation": "Clinical Infection in Practice 22, 100359, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recombinant System and Reporter Viruses for Macacine alphaherpesvirus 1",
+        "pub_year": "2024",
+        "citation": "Annual Meeting of the GfV 2024, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Petunjuk Praktikum Koleksi Kultur dan Teknik Mikrobiologi",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biotransformation of n-butanol to fruity-like bio flavor by Indonesian lactic acid bacteria",
+        "pub_year": "2023",
+        "citation": "International Conference on Food and Agriculture Sciences 2023, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recombinant system for The generation of primate simplexviruses",
+        "pub_year": "2023",
+        "citation": "Mini-Symposium of Joint Collaboration, Research Talk and Scholarship \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementation of Bioinformatics in Fermentation Industry: Metagenomic Study for Predicting the Kombucha Origin",
+        "pub_year": "2023",
+        "citation": "International Conference on Science and Technology 2023, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recombinant Systems and Reporter Viruses for Primate Simplexviruses",
+        "pub_year": "2023",
+        "citation": "Annual Meeting of the GfV 2023, Germany, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The establishment of a recombinant system for Papiine alphaherpesvirus 2",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Petunjuka Praktikum Mikrobiologi Bahan Makanan",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DRUG DELIVERY SYSTEM DESIGN OF bacteriophage Q\u03b2 IN TRIPLE NEGATIVE BREAST CANCER (TNBC) THERAPY USING ANTI-miRNA 105/93-3p",
+        "pub_year": "2022",
+        "citation": "SynBio 2022, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Petunjuk Praktikum Sistematika Mikrobia",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Petunjuk Praktikum Mikrobiologi",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of fosmid libraries for establishing recombinant system of Herpesvirus papio2 (HVP2)",
+        "pub_year": "2019",
+        "citation": "International Conference on Biological Sciences, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas metabolit sekunder Aktinomisetes SM117 terhadap Virus Newcastle Disese",
+        "pub_year": "2017",
+        "citation": "Fakultas Biologi UGM, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi molekular isolat bakteri tanah dari kebun percobaan LIPI berdasarkan gen 16S rRNA",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji antibakteri bioplastik chitosan industri terhadap Staphylococcus aureus FNCC 0047",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstrak etanolik daun teh (Camellia sinensis L.) dan daun kemangi (Ocimum tenuiflorum L.) sebagai biopreservative agent pada ikan kembung (Rastregiller)",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya antifungi ekstrak etanolik bawang merah (Alluim ascalonicum L.) terhadap Candida albicans ATCC 10231",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya antibakteri ekstrak bawang merah (Allium ascalonicum L.) terhadap Staphilococcus aureus 0047 dan Eschericia coli 0091 secara invitro",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstrak etanolik daun teh (Camellia sinensis L.) dan daun kemangi (Ocimum tenuiflorum L.) sebagai agen biopreservsi pada ikan nila (Oreochromis niloticus).",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Sekuen Gen Pengkode Protein GFP pada Bakteri Azotobacter vinelandii dan Neisseria gonorrhoe",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Sensitivitas Antibiotik Amoksisilin Terhadap Keanekaragaman Bakteri Pada Saluran Pencernaan Manusia",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antibakteri Bioplastik Chitosan Terhadap Bakteri Salmonella typhii",
+        "pub_year": "2016",
+        "citation": "Fakultas Biologi UGM, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Petunjuk Praktikum Magang Kementrian Pertanian RI di Laboratorium Mikrobiologi, Fakultas Biologi UGM, Yogyakarta",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil protein Flagellin dua strain Salmonella typhi berbasis SDS-PAGE",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi enzim selulase yang dihasilkan isolat bakteri pada limbah biogas Pusat Pengembangan Inovasi Agroteknologi UGM",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi enzim amilase pada isolat bakteri limbah digester biogas Pusat Pengembangan Inovasi Agroteknologi (PIA) UGM",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosintesis Selulosa Ekstra Selular (Nata) Dari Ekstrak Buah Durian (Durio zibertinus Murr.) oleh Bakteri Gluconacetobacter xylinus Dengan Variasi Konsentrasi Sukrosa",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioetanol hasil fermentasi limbah kulit buah melon (Curcumis melo L.) dengan Saccharomyces cerevisiae",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Leptospira spp. pada darah tikus tertangkap di Kelurahan Umbulharjo, Cangkringan, Sleman, DI Yogyakarta",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Petunjuk Praktikum Mikrobiologi Tanah",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan fermentasi bioetanol dari sampah makroalgae di Pesisir Pantai Gunung Kidul melalui teknik fusi protoplas Saccharomyces sereviceae dan Zygosaccharomyces rouxii",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi dini dan serotiping sampel klinik virus dengue menggunakan RT-PCR 2 primer",
+        "pub_year": "2010",
+        "citation": "Universitas Gadjah Mada, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bakteri Guano dan Aktivitasnya Terhadap Angiogenesis",
+        "pub_year": "2008",
+        "citation": "Fakultas Biologi UGM, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "TSsPJDEAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

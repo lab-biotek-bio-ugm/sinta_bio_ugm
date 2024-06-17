@@ -1,0 +1,1586 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "cJRbfYwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sukirno Sukirno",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cJRbfYwAAAAJ&citpid=2",
+  "affiliation": "Entomology Laboratory Faculty of Biology Gadjah Mada University",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Entomology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "homepage": "http://sukirnobio.staff.ugm.ac.id/",
+  "citedby": 328,
+  "citedby5y": 307,
+  "hindex": 10,
+  "hindex5y": 10,
+  "i10index": 12,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "2015": 1,
+    "2016": 3,
+    "2017": 4,
+    "2018": 11,
+    "2019": 13,
+    "2020": 23,
+    "2021": 47,
+    "2022": 97,
+    "2023": 89,
+    "2024": 37
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "WkgvOHAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Abdulrahman Saad Aldawood",
+      "affiliation": "Professor of Economic Entomology, King Saud University, College of Food and Agriculture Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "O8ibLlQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Mureed Husain",
+      "affiliation": "King Saud University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qhDO5x4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Misri Gozan",
+      "affiliation": "Professor of Bioprocess Engineering, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "t4LrsqoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "RC Hidayat Soesilohadi",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uBaW-4YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Said Ali Eid Elsalamouny",
+      "affiliation": "Professor, Dept. of Econ. Entomology & Pesticides, Faculty of Agriculture, Cairo University, Egypt"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "lMCKRS8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Koko Dwi Sutanto. Ph.D.",
+      "affiliation": "Researcher, King Saud University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "7g1TBpgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hari Purwanto",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XfGfpAMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Laurentius H. Nugroho",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ZFm8UocAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "shehzad salman",
+      "affiliation": "Student of Entomology, King Saud University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nKBamZkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hipny Alwandri",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nliKdrMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ignatius Sudaryadi",
+      "affiliation": "UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6ImOpxkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Setiadi Daryono",
+      "affiliation": "Dosen Genetika dan Dekan  Fakultas Biologi UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LqNqu6UAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aprilia Sufi Subiastuti",
+      "affiliation": "Doctor of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "c_E8QCMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Abdullah M. Alhamdan",
+      "affiliation": "King Saud University Ag Eng Dept., SA ; Ohio State University, USA"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mqkaLTQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rarastoeti Pratiwi",
+      "affiliation": "Lecturer at Faculty of Biology Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of carbon dioxide against different developmental stages of Cadra cautella and Tribolium castaneum",
+        "pub_year": "2017",
+        "citation": "Environmental Science and Pollution Research 24, 12787-12795, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6733081634758388902",
+      "cites_id": [
+        "6733081634758388902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Natural Additives to Enhance the Persistence of Spodoptera littoralis (Lepidoptera: Noctuidae) Nucleopolyhedrovirus (SpliMNPV) Under Field \u2026",
+        "pub_year": "2017",
+        "citation": "Journal of economic entomology 110 (3), 924-930, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16614129611764856410",
+      "cites_id": [
+        "16614129611764856410"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and characterization of L-lactide and polylactic acid (PLA) from L-lactic acid for biomedical applications",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1817 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:35N4QoGY0k4C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17674789544429430720",
+      "cites_id": [
+        "17674789544429430720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of some non-invasive approaches for the detection of red palm weevil infestation",
+        "pub_year": "2020",
+        "citation": "Saudi Journal of Biological Sciences 27 (1), 401-406, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=800805006044938662",
+      "cites_id": [
+        "800805006044938662"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rice husk extracts ability to reduce the corrosion rate of mild steel",
+        "pub_year": "2018",
+        "citation": "International Journal of Chemical Engineering and Applications 9 (4), 143-146, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:abG-DnoFyZgC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14059707150816506093",
+      "cites_id": [
+        "14059707150816506093"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The efficacy and persistence of Spodoptera littoralis nucleopolyhedrovirus (SpliMNPV) applied in UV protectants against the beet army worm, Spodoptera exigua (Lepidoptera \u2026",
+        "pub_year": "2018",
+        "citation": "Pakistan Journal of Zoology 50 (5), 1895 - 1902, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13621517307900004291",
+      "cites_id": [
+        "13621517307900004291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Sosis Daging Ayam Dengan Penambahan Tepung Tapioka",
+        "pub_year": "2020",
+        "citation": "Jurnal Ilmu dan Teknologi Peternakan Indonesia (JITPI) Indonesian Journal of \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:SP6oXDckpogC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16274159996848816834",
+      "cites_id": [
+        "16274159996848816834"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE EFFECTIVENESS OF CARBON DIOXIDE AND NITROGEN ON DIFFERENT DEVELOPMENTAL STAGES OF Cadra cautella (LEPIDOPTERA: PYRALIDAE)",
+        "pub_year": "2017",
+        "citation": "Pakistan Journal of Agricultural Sciences 54 (4), 731 - 736, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942049296435298990",
+      "cites_id": [
+        "942049296435298990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developing student social attitude self-assessment instruments: A study in vocational high school",
+        "pub_year": "2022",
+        "citation": "REID (Research and Evaluation in Education) 8 (1), 1-12, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17964969555484342809",
+      "cites_id": [
+        "17964969555484342809"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectiveness of Samia ricini Drury (Lepidoptera: Saturniidae) and Attacus atlas L.(Lepidoptera: Saturniidae) cocoon extracts as ultraviolet protectants of Bacillus \u2026",
+        "pub_year": "2022",
+        "citation": "International Journal of Tropical Insect Science 42 (1), 255-260, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17592015355353746654",
+      "cites_id": [
+        "17592015355353746654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE EFFECTIVENESS OF SPINOSAD AND NEEM EXTRACT AGAINST Spodoptera littoralis (BOISD.) AND Spodoptera exigua (HUBNER): EXPLORING POSSIBILITIES TO ENHANCE THE BIO-PESTICIDE \u2026",
+        "pub_year": "2017",
+        "citation": "Pakistan Journal of Agricultural Sciences 54 (4), 743 - 751, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3702885544385975550",
+      "cites_id": [
+        "3702885544385975550"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Artificial Diets for Attacus atlas (Lepidoptera: Saturniidae) in Yogyakarta Special Region, Indonesia",
+        "pub_year": "2013",
+        "citation": "Journal of economic entomology 106 (6), 2364-2370, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13421251767880253028",
+      "cites_id": [
+        "13421251767880253028"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Total Phenolic, Total Flavonoid, Scopoletin Contents and Antioxidant Activity of Extract of Ripened Noni Juice",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Applied Chemistry 23 (2), 55-62, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2658176506496191621",
+      "cites_id": [
+        "2658176506496191621"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Undescribed color polymorphism of the Asiatic palm weevil, Rhynchophorus vulneratus Panzer (Coleoptera: Curculionidae) in Indonesia: biodiversity study based on COI gene",
+        "pub_year": "2018",
+        "citation": "Florida entomologist 101 (4), 642-648, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13110381105889126525",
+      "cites_id": [
+        "13110381105889126525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of red palm weevil, Rhynchophorus ferrugineus Oliv. (Coleoptera: Curculionidae) in the Kingdom of Saudi Arabia: studies on the phenotypic and DNA barcodes",
+        "pub_year": "2020",
+        "citation": "International Journal of Tropical Insect Science 40 (4), 899-908, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:roLk4NBRz8UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10230232080912889202",
+      "cites_id": [
+        "10230232080912889202"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA barcoding of the fire ant genus Solenopsis Westwood (Hymenoptera: Formicidae) from the Riyadh region, the Kingdom of Saudi Arabia",
+        "pub_year": "2020",
+        "citation": "Saudi journal of biological sciences 27 (1), 184-188, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15404508626576007549",
+      "cites_id": [
+        "15404508626576007549"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Palm Weevil Diversity in Indonesia: Description of Phenotypic Variability in Asiatic Palm Weevil, Rhynchophorus vulneratus (Coleoptera: Curculionidae) (Accepted)",
+        "pub_year": "2018",
+        "citation": "Journal of the Entomological Research Society 20 (3), 01 - 22, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3545979732467315366",
+      "cites_id": [
+        "3545979732467315366"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Meat traits of Muscovy ducks fed on phytonutrition meal",
+        "pub_year": "2014",
+        "citation": "International Journal of Poultry Science 13 (4), 204-207, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16743645795974658476",
+      "cites_id": [
+        "16743645795974658476"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of N-Hexane and Ethanol Extract of Giant Calotrope (Calotropis gigantea L.) Leaves as Insecticide Against Shallot Pest Spodoptera exigua (H\u00fcbner)",
+        "pub_year": "2022",
+        "citation": "the 7th International Conference on Biological Science (ICBS 2021) 22 (ABSR \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3378244400300686954",
+      "cites_id": [
+        "3378244400300686954"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Altitude on Odonata Biodiversity in the Paddy Field of Sleman Regency, Special Region of Yogyakarta",
+        "pub_year": "2022",
+        "citation": "the 7th International Conference on Biological Science (ICBS 2021) 22 (ABSR \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8512268001645365390",
+      "cites_id": [
+        "8512268001645365390"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Motivasi kerja guru sekolah dasar ditinjau dari karakteristik demografi",
+        "pub_year": "2019",
+        "citation": "Premiere Educandum 9 (1), 523513, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4242766979031816683",
+      "cites_id": [
+        "4242766979031816683"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semi-artificial diet developed for the successful rearing of red palm weevil: Rhynchophorus ferrugineus (Coleoptera: Dryophthoridae) in the laboratory",
+        "pub_year": "2022",
+        "citation": "Journal of King Saud University-Science 34 (7), 102272, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16755585624217682451",
+      "cites_id": [
+        "16755585624217682451"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of Damselfly (Odanata: Zygoptera) diversity in wet dune slack habitat with canopied and non-canopied areas of Gumuk Pasir Parangkusumo, Yogyakarta, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 736 (1), 012046, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11148470148125391623",
+      "cites_id": [
+        "11148470148125391623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary study of orthopterans biodiversity in the paddy fields of Sleman Regency, Special Region of Yogyakarta",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 662 ((2021) 012016), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:0EnyYjriUFMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14047288712202545927",
+      "cites_id": [
+        "14047288712202545927"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diseminasi teknologi pembuatan abon yang berbasis daging ayam petelur afkir",
+        "pub_year": "2020",
+        "citation": "Prosiding PEPADU 2, 39-43, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13324078722103103833",
+      "cites_id": [
+        "13324078722103103833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Artikel_Effect of Temperature and Concentration of SnCl2 on Depolymerization Process of L-Lactide Synthesis from L-Lactic Acid via Short Polycondensation",
+        "pub_year": "2015",
+        "citation": "International Journal of Applied Engineering Research 10 (21), 41942-41946, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:M05iB0D1s5AC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7318297947994264768",
+      "cites_id": [
+        "7318297947994264768"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biolubricant from spent bleaching earth oil through propylene glycol ester synthesis",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4019648729566411065",
+      "cites_id": [
+        "4019648729566411065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Personality traits to develop entrepreneurship skills of college students: a case study of student entrepreneurial program",
+        "pub_year": "2020",
+        "citation": "Technium Soc. Sci. J. 12, 229, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:P5F9QuxV20EC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13063637794778391694",
+      "cites_id": [
+        "13063637794778391694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UV Protectant Ability of Attacus atlas L. (Lepidoptera: Saturniidae) Sericin Extract to Increase Nucleopolyhedrovirus Effectiveness against Beet Army Worm, Spodoptera exigua \u2026",
+        "pub_year": "2022",
+        "citation": "the 7th International Conference on Biological Science (ICBS 2021) 22 (ABSR), 82, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=264734523111124345",
+      "cites_id": [
+        "264734523111124345"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan pekarangan dan limbah rumah tangga untuk budidaya lele sebagai upaya memenuhi pangan keluarga selama pandemi covid-19",
+        "pub_year": "2022",
+        "citation": "Jurnal Inovasi Hasil Pengabdian Masyarakat (JIPEMAS) 5 (1), 1-10, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15374699346647297013",
+      "cites_id": [
+        "15374699346647297013"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and characterization of ethylene glycol ester from spent bleaching earth oil and ethylene glycol as hydraulic lubricants",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4525620703794702698",
+      "cites_id": [
+        "4525620703794702698"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effectiveness of Red Spinach (Amaranthus tricolor L.) and Green Spinach (Amaranthus hybridus L.) Extracts for Bacillus thuringiensis var. kurstaki Protectant against UVB \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (2), 143-148, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:UebtZRa9Y70C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13434749155285901809",
+      "cites_id": [
+        "13434749155285901809"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Aloe (Aloe vera L.) as a protectant of Bacillus thuringiensis var kurstaki against ultraviolet light and biological control agenst of (Spodoptera litura Fab.)",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings THE 6TH INTERNATIONAL CONFERENCE ON BIOLOGICAL \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:8k81kl-MbHgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12420227677883855694",
+      "cites_id": [
+        "12420227677883855694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Weight Determination and Structure Identification of Bombyx mori Fibroin as Material in Dentistry",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings THE 6TH INTERNATIONAL CONFERENCE ON BIOLOGICAL \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4413687713516930094",
+      "cites_id": [
+        "4413687713516930094"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Photocatalytic esterification process for methyl ester synthesis from kemiri sunan oil: A novel approach",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2085 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:lSLTfruPkqcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15587265285536191094",
+      "cites_id": [
+        "15587265285536191094"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sintesis Polilaktida (PLA) dari Asam Laktat Dengan Metode Polimerisasi Pembukaan Cincin Menggunakan Katalis Lipase",
+        "pub_year": "2016",
+        "citation": "Prosiding Semnastek, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4726930638302466274",
+      "cites_id": [
+        "4726930638302466274"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A bibliometric analysis of botanical insecticides for Lepidopteran insects over the period 1985-2022",
+        "pub_year": "2023",
+        "citation": "Plant Science Today 10 (1), 232-241, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4358123844284472163",
+      "cites_id": [
+        "4358123844284472163"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Liquid Organic Fertilizer Byproduct of Black Soldier Fly Maggot to the Growth of Mustard Plant (Brassica juncea L.)",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (1), 70530, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:k_IJM867U9cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18418322171621409243",
+      "cites_id": [
+        "18418322171621409243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Maggot Sebagai Pakan Alternatif Budidaya Nila pada Kawasan Agrowisata Minapadi",
+        "pub_year": "2022",
+        "citation": "JMM (Jurnal Masyarakat Mandiri) 6 (6), 4498-4505, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:r0BpntZqJG4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8207471963729343978",
+      "cites_id": [
+        "8207471963729343978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carcass characteristics and pure meat production of broiler chickens in traditional markets on Lombok and Sumbawa islands",
+        "pub_year": "2022",
+        "citation": "Journal Advances in Animal and Veterinary Sciences (AAVS) 10 (7), 1602-1610, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:KxtntwgDAa4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14116189309299724686",
+      "cites_id": [
+        "14116189309299724686"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of Insect Based on Growth Stages of Rice (Oryza sativa L. \u2018IR 64\u2019) at High Altitude in Kepurun Village, Manisrenggo Sub-district, Klaten District, Central Java",
+        "pub_year": "2022",
+        "citation": "the 7th International Conference on Biological Science (ICBS 2021) 22 (ABSR \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7701454323617149452",
+      "cites_id": [
+        "7701454323617149452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Aplikasi Marketplace Untuk Selebgram Berbasis Web",
+        "pub_year": "2021",
+        "citation": "Jurnal Algoritma 18 (2), 418-423, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1930554776425368467",
+      "cites_id": [
+        "1930554776425368467"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization and characterization of facile synthesis of pentaethylenehexamine-terminated polyisobutylene",
+        "pub_year": "2021",
+        "citation": "Rasayan J. Chem 2021, 40-46, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14168374369370432204",
+      "cites_id": [
+        "14168374369370432204"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on the loss of value of Khodari date fruit infested by almond moth (Lepidoptera: Pyralidae)",
+        "pub_year": "2020",
+        "citation": "Florida Entomologist 103 (4), 425-430, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8132498652413878823",
+      "cites_id": [
+        "8132498652413878823"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beef Sousage Traits Enhanced With Celery Leaf Powder (Apium graveolens L) As Antioxidant Source And Natural Preservatives",
+        "pub_year": "2020",
+        "citation": "Journal of critical reviews (JCR) 7 (19), 4488-4497, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8233597423454250549",
+      "cites_id": [
+        "8233597423454250549"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Of Effect Additional Amount of Different Carrageen on Quality of Lomek Fish Meatballs (Harpodon Nehereues)",
+        "pub_year": "2017",
+        "citation": "Jurnal Online Mahasiswa Fakultas Perikanan dan Ilmu Kelautan Universitas \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5416687633996409894",
+      "cites_id": [
+        "5416687633996409894"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution Analysis of Asiatic Palm Weevil Rhynchophorus vulneratus Panzer (Coleoptera: Dryphthoridae) using GIS Technique and the Interaction with Coconut Beetle Oryctes \u2026",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (5), 918-926, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10684086670500367816",
+      "cites_id": [
+        "10684086670500367816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effects of Ultraviolet B on The Efficacy of Bacillus thuringiensis var. kurstaki Formulations Against Tobacco Armyworm, Spodoptera litura (Lepidoptera: Noctuidae)",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (1), 17-27, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8479056674471265352",
+      "cites_id": [
+        "8479056674471265352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Meta-Analysis Study on Spodoptera exigua and Spodoptera litura Control: Biopesticides vs. Synthetic Pesticides",
+        "pub_year": "2022",
+        "citation": "the 7th International Conference on Biological Science (ICBS 2021) 22 (ABSR \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11098474475522531232",
+      "cites_id": [
+        "11098474475522531232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of PIB-amine from polyisobutylene and diamine with its performance test as deposit control additive in one cylinder gasoline engine",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:hMod-77fHWUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9309811774019763494",
+      "cites_id": [
+        "9309811774019763494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prototipe Model Pengembangan Diri berbasis Participatory Multiple Intelligences sebagai Penguatan Karakter dan Literasi Siswa",
+        "pub_year": "2019",
+        "citation": "Prosiding University Research Colloquium, 466-476, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:ldfaerwXgEUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3389529954026528530",
+      "cites_id": [
+        "3389529954026528530"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Artikel_Effect of Polycondensation Temperature to Oligomer Yield and Depolimerisation Side Reaction",
+        "pub_year": "2018",
+        "citation": "World Chemical Engineering Journal 2 (1), 12-16, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17362661078474865128",
+      "cites_id": [
+        "17362661078474865128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TA: Rancang Bangun Aplikasi Pengelolaan Aset Teknologi Informasi pada Rumah Sakit Islam Jemursari Surabaya",
+        "pub_year": "2016",
+        "citation": "Institut Bisnis dan Informatika Stikom Surabaya, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:XiSMed-E-HIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11970511735203491245",
+      "cites_id": [
+        "11970511735203491245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek pemberian ekstrak dan minyak buah merah (Pandanus conoideus lam) terhadap toksisitas sel limfosit manusia secara in vitro",
+        "pub_year": "2009",
+        "citation": "Indonesian Journal of Plant Medicine 2 (1), 141996, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6688947732854362193",
+      "cites_id": [
+        "6688947732854362193"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROGRAM KERJA PENGEMBANGAN UMKM (SCALLING UP UMKM) USAHA MAKANAN DI DESA BAYONGBONG",
+        "pub_year": "2024",
+        "citation": "Jurnal PkM MIFTEK 5 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Butterflies (Order: Lepidoptera) in Pondok Ambung, Tanjung Puting National Park, Kalimantan Tengah",
+        "pub_year": "2024",
+        "citation": "Jurnal Biologi Tropis 24 (1), 572-578, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sosialisasi Implementasi Smart Agriculture System berbasis IoT di SMK Informatika Bandung",
+        "pub_year": "2024",
+        "citation": "SOROT: Jurnal Pengabdian Kepada Masyarakat 3 (1), 75-80, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toxicity of Ocimum basilicum L. leaf extract against Spodoptera exigua H\u00fcbner (Lepidoptera: Noctuidae)",
+        "pub_year": "2024",
+        "citation": "Plant Science Today 11 (1), 606-615, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosensors for virus detection",
+        "pub_year": "2024",
+        "citation": "CONTEMPORARY PHYSICS, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosensors for virus detection: by Adil Denizli and Yeseren Saylan, Bristol, IOP Publishing, 2021, 184 pp., $190.000 (hardcover), ISBN 9780750338677. Scope: textbook. Level \u2026",
+        "pub_year": "2024",
+        "citation": "Contemporary Physics, 1-3, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Pupuk Berbahan Sampah Organik Sebagai Upaya Mengatasi Darurat Sampah Dan Mewujudkan Ketahanan Pangan Berrkelanjutan",
+        "pub_year": "2023",
+        "citation": "Prosiding Kontribusi Forum Akademisi SAC 1 (1), 612-622, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactive Compund Profile of Muntingia Calabura Leaf Extract with Different Polarity Solvent",
+        "pub_year": "2023",
+        "citation": "Syntax Literate; Jurnal Ilmiah Indonesia 8 (10), 6035-6046, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Samia cynthia ricini Boisduval (Lepidoptera: Saturniidae) Cocoon Extract as UV Protectant of Bacillus thuringiensis kurstaki in Controlling Beet Armyworm \u2026",
+        "pub_year": "2023",
+        "citation": "Pertanika JOURNAL OF TROPICAL AGRICULTURAL SCIENCE 46 (1), 347-357, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Attacus atlas (L.) sericin extract as an effective UV Protectant of Bacillus thuringiensis serotype kurstaki for controlling Spodoptera litura (Fab.)",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (1), 74633, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sinergisme Ekstrak Kunyit, Kelor, Cengkeh, dan Sirih Merah dengan Bacillus thuringiensis var. kurstaki Berl. terhadap Larva Ulat Grayak (Spodoptera litura Fab.)(Lepidoptera \u2026",
+        "pub_year": "2022",
+        "citation": "Berkala Ilmiah Biologi 13 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IG Sukadana, IW Warmada, F. Pratiwi, A. Harijoko, TB Adimedha, AW Yogatama..... 87",
+        "pub_year": "2022",
+        "citation": "atom indonesia 48 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Atlas moth (Attacus atlas Linnaeus, 1758) silk sericin protein: the effect of extraction methods and storage time on its content",
+        "pub_year": "2022",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 10 (1), 7-15, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synergism of Turmeric, Moringa, Clove, and Red Betel Extracts with Bacillus thuringiensis var. kurstaki Berl. against Taro Caterpillar (Spodoptera litura Fab.) (Lepidoptera \u2026",
+        "pub_year": "2022",
+        "citation": "Berkala Ilmiah Biologi 13 (3), 36-42, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "COCONUT SHELL AND STRAW CHARCOALS TO PROTECT Bacillus thuringiensis AGAINST ULTRAVIOLET B AND SUNLIGHT TO CONTROL TOBACCO ARMYWORM, Spodoptera litura (FABRICIUS, 1775 \u2026",
+        "pub_year": "2022",
+        "citation": "Serangga 27 (3), 106-118, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of n-hexane and ethanol extract of papaya (Carica papaya L.) leaves as shallot pest (Spodoptera exigua H\u00fcbner) natural insecticide",
+        "pub_year": "2022",
+        "citation": "Jurnal Biologi Udayana 26 (2), 216-223, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "COCONUT SHELL AND STRAW CHARCOALS TO PROTECT Bacillus thuringiensis AGAINST ULTRAVIOLET B AND SUNLIGHT TO CONTROL TOBACCO ARMYWORM, Spodoptera litura (FABRICIUS, 1775 \u2026",
+        "pub_year": "2022",
+        "citation": "Serangga 27 (3), 106-118, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectivity of Spodoptera littoralis Nucleopolyhedrovirus (Spli MNPV) and Natural Additives Mixtures against Spodoptera litura Fab.(Lepidoptera: Noctuidae) on Cabbage Plants",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (2), 71134, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and abundance of insect pollinator on dimocarpus longan l. in Sawitsari research station, Sleman, Yogyakarta",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 819 (1), 012070, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EGI (Education Of Egg Incubator) di Apit Aik Guna Revitalisasi Ekonomi Pasca Gempa",
+        "pub_year": "2021",
+        "citation": "Jurnal Pengabdian Masyarakat Sains Indonesia 3 (1), 6-12, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Odonata in Parangkusumo Sand Dune Yogyakarta, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 736 (1), 012047, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penerapan Teknologi Potong Beku Dalam Pembuatan Keripik Paru Pada Kelompok PKK \u201cMavilla\u201d Dusun Bajur Kecamatan Labu Api Kabupaten Lombok Barat",
+        "pub_year": "2021",
+        "citation": "Jurnal Pepadu 2 (1), 102-106, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lethality Test of Some Varieties of Sea Cucumber Extract Against Artemia Salina, as Natural Food Additive in Meat-Based Functional Food",
+        "pub_year": "2021",
+        "citation": "Asian Journal of Applied Research for Community Development and Empowerment \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Short Review Potential Biopesticide for Managing Pest of Shallot Spodoptera exigua H\u00fcbner (Lepidoptera: Noctuidae)",
+        "pub_year": "2021",
+        "citation": "Annals of Biological sciences, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Book Chapter_Emas Hitam dari Tandan Kosong Sawit Bioplastik Poli Asam Laktat",
+        "pub_year": "2020",
+        "citation": "UI Publishing, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethyl tert-butyl ether (ETBE) from isobutylene as gasoline bioadditive, the preparation and performance test",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethyl tert-butyl ether (ETBE) as gasoline bioadditive, the preparation and performance test",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Immersion Time on The Ability of Tannins to Inhibit The Corrosion Rate of Mild Steel In 1M H2SO4 Solution",
+        "pub_year": "2020",
+        "citation": "World Chemical Engineering Journal 4 (1), 35-38, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendampingan Usaha Beternak dan Pengolahan Daging Ayam Pada Kelompok Peternak Unggas Di Desa Truwai Kecamatan Pujut Kabupaten Lombok Tengah",
+        "pub_year": "2019",
+        "citation": "Jurnal Gema Ngabdi 1 (3), 147-152, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of natural additives to enhance the persistence of Spodoptera littoralis nucleopolyhedrovirus (SpliMNPV) under Saudi field conditions",
+        "pub_year": "2018",
+        "citation": "Entomology 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The efficacy and persistence of Spodoptera littoralis nucleopolyhedrovirus (Spli MNPV) applied in UV protectants against the beet armyworm, Spodoptera exigua (H\u00fcbner \u2026",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Palm weevil diversity in Indonesia: description of phenotypic variability in Asiatic palm weevil, Rhynchophorus vulneratus (Coleoptera: Curculionidae).",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Undescribed color polymorphism of the Asiatic palm weevil, Rhynchophorus vulneratus Panzer (Coleoptera: Curculionidae) in Indonesia: biodiversity study based \u2026",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of carbon dioxide against different developmental stages of Cadra cautella and Tribolium castaneum.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectiveness of spinosad and neem extract against Spodoptera littoralis (Boisd.) and Spodoptera exigua (Hubner): exploring possibilities to enhance the bio \u2026",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Artikel_Sintesis Polilaktida (PLA) dari Asam Laktat dengan Metode Polimerisasi Pembukaan Cincin Menggunakan Katalis Lipase",
+        "pub_year": "2016",
+        "citation": "Prosiding Seminar Nasional Sains dan Teknologi, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of mangosten (garcinia mangostana l.) shell extract on quality changes of fresh catfish (pangasius hypophthalmus) stored at room temperature",
+        "pub_year": "2014",
+        "citation": "Jurnal Online Mahasiswa Fakultas Perikanan dan Ilmu Kelautan Universitas \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:08ZZubdj9fEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE EFFECT OF ADDITION OF BEETROOT FLOUR (Beta vulgaris L) AS SUBSTITUTION OF TAPIOCA FLOUR ON CATFISH (Pangasius sp) SAUSAGE TOWARD CONSUMER ACCEPTANCE",
+        "citation": "Jurnal Online Mahasiswa (JOM) Bidang Perikanan dan Ilmu Kelautan 5 (1), 1-10, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE EFFECT OF THE DIFFERENT DOSES OFAspergillus oryzae STARTER ADDITION ON THE QUALITY OF SKIPJACK (Katsuwonus pelamis) KATSUOBUSHI",
+        "citation": "Jurnal Online Mahasiswa (JOM) Bidang Perikanan dan Ilmu Kelautan 6, 1-14, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect Of Different Types Of Meat On The Acceptance Of Skipjack Tuna (Katsuwonus Pelamis)",
+        "citation": "Jurnal Online Mahasiswa Fakultas Perikanan dan Ilmu Kelautan Universitas \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDY CONSUMER RECEPTION OF NORI SEAWEED (Echeuma cottonii) WITH THE ADDITION PROTEIN CONCENTRATE OF FISH GABUS (Channa striata)",
+        "citation": "Jurnal Online Mahasiswa (JOM) Bidang Perikanan dan Ilmu Kelautan 5 (1), 1-11, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Consumer acceptance of catfish (Pangasius hypophthalmus) nugget by soaked with liquid smoke",
+        "citation": "Jurnal Online Mahasiswa Fakultas Perikanan dan Ilmu Kelautan Universitas \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peptone Extraction of Yellow Pike Conger (Congresox Talabon) Processing Waste as a Medium Growth Nutritional Microorganisms",
+        "citation": "Jurnal Online Mahasiswa Fakultas Perikanan dan Ilmu Kelautan Universitas \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peer Review Meat Traits of Muscovy ducks fed on Phytonutrition Meal",
+        "citation": "Asian Network for Scientific Information, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Korespondensi_Effect of Temperature and Concentration of SnCl2 on Depolymerization Process of L-Lactide Synthesis from L-Lactic Acid via Short Polycondensation",
+        "citation": "Research India Publications, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin_Effect of Temperature and Concentration of SnCl2 on Depolymerization Process of L-Lactide Synthesis from L-Lactic Acid via Short Polycondensation",
+        "citation": "Research India Publications, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin_Use of Candida rugosa lipase as a biocatalyst for L-lactide ring-opening polymerization and polylactic acid production",
+        "citation": "Elsevier BV, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cJRbfYwAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

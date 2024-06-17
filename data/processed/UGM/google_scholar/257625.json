@@ -1,0 +1,366 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "5rVgWBUAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Purnomo",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5rVgWBUAAAAJ&citpid=1",
+  "affiliation": "Fakultas Biologi Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Sistemtika tumbuhan",
+    "Fitogeografi",
+    "Genetika",
+    "Etnobotani"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 120,
+  "citedby5y": 98,
+  "hindex": 8,
+  "hindex5y": 7,
+  "i10index": 7,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2014": 3,
+    "2015": 1,
+    "2016": 3,
+    "2017": 6,
+    "2018": 8,
+    "2019": 19,
+    "2020": 12,
+    "2021": 30,
+    "2022": 17,
+    "2023": 14,
+    "2024": 6
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter fenotip jahe merah (Zingiber officinale var rubrum) hasil poliploidisasi dengan kolkisin",
+        "pub_year": "2017",
+        "citation": "Journal of Biology 10 (2), 91-97, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2476737459738059558",
+      "cites_id": [
+        "2476737459738059558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variability and classification of Indonesian yams (Dioscorea spp.) based on RAPD analysis.",
+        "pub_year": "2016",
+        "citation": "SABRAO Journal of Breeding & Genetics 48 (4), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:qjMakFHDy7sC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16421824537875672404",
+      "cites_id": [
+        "16421824537875672404"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan sentra budidaya melon di Pantai Bocor Kabupaten Kebumen melalui implementasi education for sustainable development",
+        "pub_year": "2016",
+        "citation": "Bioeksperimen: Jurnal Penelitian Biologi 2 (1), 44-53, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3812851733667485993",
+      "cites_id": [
+        "3812851733667485993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "I. Sumardi, H. Shiwachi",
+        "pub_year": "2012",
+        "citation": "Genetic variability and classification of Indonesian yams (Dioscorea spp \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:ufrVoPGSRksC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13090821327411572585,2864548082072626158",
+      "cites_id": [
+        "13090821327411572585",
+        "2864548082072626158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Traditional usages of taro (colocasia spp.) by ethnic communities in Borneo",
+        "pub_year": "2017",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 9 (2), 248-256, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:UebtZRa9Y70C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13711117774865852819",
+      "cites_id": [
+        "13711117774865852819"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bamboo species (Poaceae: Bambusoideae) from Selayar Island",
+        "pub_year": "2017",
+        "citation": "Floribunda 5 (6), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3815366144980973867",
+      "cites_id": [
+        "3815366144980973867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic relationship of Indonesian water yam (Dioscorea alata L.) cultivars based on DNA marker using ITS-rDNA analysis",
+        "pub_year": "2017",
+        "citation": "Journal of Agricultural Science 9 (2), 154-161, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:Se3iqnhoufwC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11312951720502202693",
+      "cites_id": [
+        "11312951720502202693"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variability and intraspecific classification of Indonesian edible canna (Canna indica L.) based on RAPD marker analysis.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8339065107113399945",
+      "cites_id": [
+        "8339065107113399945"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The classification of Bambusa spp. from Celebes based on the micromorphological characters of leaf epidermis",
+        "pub_year": "2017",
+        "citation": "Journal of Tropical Life Science 7 (3), 197-203, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2977628447706833872",
+      "cites_id": [
+        "2977628447706833872"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Teknologi Budidaya Kelengkeng Super Sleman di Padukuhan Gejayan",
+        "pub_year": "2016",
+        "citation": "Bioedukasi: Jurnal Pendidikan Biologi 9 (1), 57-61, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2567057485625356653",
+      "cites_id": [
+        "2567057485625356653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Adaptasi Multimusim Karakter Fenotip Kultivar Melodi Gama 3 (cucumis melo l.): Usaha Penguatan Industri Benih Nasional",
+        "pub_year": "2013",
+        "citation": "Prosiding Seminar Biologi 10 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13273729035473981525",
+      "cites_id": [
+        "13273729035473981525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIASI GENETIK PISANG TONGKAT LANGIT (Musa troglodytarum L.) BERDASARKAN KARAKTER MORFOLOGIS DAN MOLEKULAR",
+        "pub_year": "2011",
+        "citation": "Universitas Gadjah Mada, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3839121740115827455",
+      "cites_id": [
+        "3839121740115827455"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "S, Daryono, Rugayah, I. Sumardi, and H. Shiwachi. 2012b. Phenetic analysis and intra-spesific classification of Indonesian water yam germplasm (Dioscorea alata L.) based on \u2026",
+        "citation": "Sabrao J of Breeding and Genetics 44 (2), 277-291, 0"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:roLk4NBRz8UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8143852828051174665",
+      "cites_id": [
+        "8143852828051174665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter fenotip dan genotip cabai Katokkon (Capsicum annuum L.) hasil poliploidisasi dengan kolkhisin",
+        "pub_year": "2016",
+        "citation": "Universitas Gadjah Mada. http://etd. repository. ugm. ac. id/penelitian \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6048128012564740285",
+      "cites_id": [
+        "6048128012564740285"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIABILITY AND INTRASPECIES CLASSIFICATION OF PUMKIN (Cucurbita moschata (Duch. ex Lam.) Duch. ex Poir.) BASED ON MORPHOLOGICAL \u2026",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 286-293, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=817047792975751507",
+      "cites_id": [
+        "817047792975751507"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman dan Klasifikasi Intraspesies Ganyong (Canna indica L.) di Pulau Jawa Berdasarkan Karakter Morfologis dan Molekular",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3251849808992900821",
+      "cites_id": [
+        "3251849808992900821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIABILITY AND INTRASPESIFIC CLASSIFICATION OF GEMBILI (Dioscorea esculenta (Lour.) Burk.) BASED ON MORPHOLOGICAL CHARACTERS.",
+        "pub_year": "2017",
+        "citation": "SABRAO Journal of Breeding & Genetics 49 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik, Struktur Populasi, dan Hubungan Kekerabatan Bambusa spp. di Pulau Sulawesi dan Sekitarnya",
+        "pub_year": "2017",
+        "citation": "Universitas Gadjah Mada, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIABILITAS DAN KLASIFIKASI INTRASPESIES BUAH MERAH (Pandanus conoideus Lam.) DI PEGUNUNGAN ARFAK PAPUA BARAT BERDASARKAN KARAKTER MORFOLOGIS DAN MOLEKULAR",
+        "pub_year": "2017",
+        "citation": "Universitas Gadjah Mada, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KERAGAMAN DAN KLASIFIKASI INTRASPESIES GEMBOLO (Dioscorea bulbifera L.) DI DAERAH ISTIMEWA YOGYAKARTA BERDASARKAN KARAKTER MORFOLOGIS DAN MOLEKULAR",
+        "pub_year": "2016",
+        "citation": "Universitas Gadjah Mada, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KLASIFIKASI INTRASPESIES TALAS (Colocasia esculenta (L.) Schott) DI JAWA BERDASARKAN KARAKTER MORFOLOGIS DAN MOLEKULAR",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "5rVgWBUAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

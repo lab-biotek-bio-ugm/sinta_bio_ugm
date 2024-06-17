@@ -1,0 +1,119 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "I3fdzE0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Indra Lesmana",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=I3fdzE0AAAAJ&citpid=4",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Molecular Genetics"
+  ],
+  "email_domain": "@mail.ugm.ac.id",
+  "citedby": 31,
+  "citedby5y": 29,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 2,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2018": 2,
+    "2019": 2,
+    "2020": 1,
+    "2021": 7,
+    "2022": 5,
+    "2023": 9,
+    "2024": 5
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Spirogyra jaoensis as a dietary supplement on growth, pectoralis muscle performance, and small intestine morphology of broiler chickens",
+        "pub_year": "2019",
+        "citation": "Veterinary World 12 (8), 1233, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "I3fdzE0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5081534114754241361",
+      "cites_id": [
+        "5081534114754241361"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of varying levels of protein and energy in pre-stater feeds on pectoralis muscle development of Kampung Super Chicks (Gallus gallus gallus)",
+        "pub_year": "2017",
+        "citation": "Asian Journal of Animal and Veterinary Advances 12 (1), 31-37, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "I3fdzE0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13347404105121137955",
+      "cites_id": [
+        "13347404105121137955"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenotypic characteristics of exotic-broiler, Kampung, male exotic-layer, KUB-1 and Pelung chickens.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "I3fdzE0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=778687218987566515",
+      "cites_id": [
+        "778687218987566515"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of early posthatch local feed in pectoralis muscle of Jawa Super chicks (Gallus gallus domesticus)",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1755 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "I3fdzE0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4375845307081981059",
+      "cites_id": [
+        "4375845307081981059"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEWARISAN CREST DAN POLIMORFISME GEN HOXC8 PADA AYAM HIBRIDA (Gallus gallus domestictus. Linn., 1758) HASIL PERSILANGAN AYAM KAMPUNG DENGAN AYAM MAHKOTA",
+        "pub_year": "2014",
+        "citation": "Universitas Gadjah Mada, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "I3fdzE0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

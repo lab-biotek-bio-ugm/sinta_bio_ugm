@@ -1,0 +1,393 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "q6qPFe8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Nur Indah Septriani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q6qPFe8AAAAJ&citpid=1",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Animal Biology",
+    "Animal Development",
+    "Fisheries Biology",
+    "Life history of fishes"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 20,
+  "citedby5y": 19,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2023": 7,
+    "2024": 12
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cBX80sYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bambang retnoaji",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aEA-VpUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "RUSTADI",
+      "affiliation": "Fakultas Pertanian, Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth in chikungunya virus-related research in ASEAN and South Asian countries from 1967 to 2022 following disease emergence: a bibliometric and graphical analysis",
+        "pub_year": "2023",
+        "citation": "Globalization and Health 19 (1), 9, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2993764502548700434",
+      "cites_id": [
+        "2993764502548700434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A bibliometric analysis of Indonesia biodiversity identification through DNA barcoding research from 2004-2021",
+        "pub_year": "2023",
+        "citation": "Natural and Life Sciences Communications 22 (1), 1-16, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13735795320254337942",
+      "cites_id": [
+        "13735795320254337942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Maggot Sebagai Pakan Alternatif Budidaya Nila pada Kawasan Agrowisata Minapadi",
+        "pub_year": "2022",
+        "citation": "JMM (Jurnal Masyarakat Mandiri) 6 (6), 4498-4505, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8207471963729343978",
+      "cites_id": [
+        "8207471963729343978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Global research trends in non-alcoholic fatty liver disease",
+        "pub_year": "2015",
+        "citation": "Hepatology 15 (1), 11-20, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12361671280908182435",
+      "cites_id": [
+        "12361671280908182435"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Paracetamol on the Development of Zebrafish (Danio rerio).",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:roLk4NBRz8UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7074137642920624579",
+      "cites_id": [
+        "7074137642920624579"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological changes in silvering stages of Anguilla bicolor bicolor collected from Segara Anakan, Central Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "La Mer 57, 18, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13440144861033238751",
+      "cites_id": [
+        "13440144861033238751"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Fucoidan Terhadap Struktur Hepar Ikan Zebra (Danio rerio, Hamilton 1822) yang Diberi Parasetamol Dosis Tinggi",
+        "pub_year": "2024",
+        "citation": "Al-Kauniyah: Jurnal Biologi 17 (2), 257-267, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Histopatologi Untuk Praktik Forensik: Review: Applications of Histopathology for Forensic Practice",
+        "pub_year": "2024",
+        "citation": "Borneo Journal of Medical Laboratory Technology 6 (2), 529-539, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Zebrafish as Versatile Model for Assessing Animal Venoms and Toxins: Current Applications and Future Prospects",
+        "pub_year": "2024",
+        "citation": "Zebrafish, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unraveling The Impact of Feed Protein Content on Catfish (Clarias sp.) Growth, Survival, Meat Quality and Gastrointestinal Histology",
+        "pub_year": "2024",
+        "citation": "Jurnal Biota, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bibliometric analysis of organoids in regenerative medicine-related research worldwide over two decades (2002\u20132022)",
+        "pub_year": "2024",
+        "citation": "Regenerative Medicine 19 (3), 119-133, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Maggot as an Alternative for Catfish Feed Cultivation on Narrow Land, Caturtunggal, Depok, Sleman, Yogyakarta",
+        "pub_year": "2023",
+        "citation": "AIJR Proceedings, 266-272, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mutualism Symbiosis of Silkworm and Catfish Aquacultureto Provide Fish-based Protein for Local Community in Salak Malang Hamlet, Banjarharjo Village, Kalibawang District, Kulon \u2026",
+        "pub_year": "2023",
+        "citation": "AIJR Proceedings, 141-145, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Zero-Waste System Education in Ecotourism Area of Kebonagung Village, Imogiri District, Yogyakarta Province, Indonesia",
+        "pub_year": "2023",
+        "citation": "AIJR Proceedings, 235-243, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Differences in Swim Bladder Histology of Anguilla bicolor bicolor at Various Stages of Sexual Maturity",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (2), 74702, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Histopathological evaluation of hepatic tissue of yellow Rasbora (Rasbora lateristriata) exposed to paracetamol",
+        "pub_year": "2023",
+        "citation": "Biological Environment and Pollution 3 (1), 8-14, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Produk Wedang Uwuh Bunga Turi Sebagai Sarana Branding Desa Wisata Kebonagung, Imogiri, Bantul",
+        "pub_year": "2023",
+        "citation": "Jurnal Pengabdian, Riset, Kreativitas, Inovasi, dan Teknologi Tepat Guna 1 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfologi Pertumbuhan Tulang Toraks Ayam Kampung (Gallus gallus gallus) Pasca-Menetas Sampai Usia Sembilan Minggu",
+        "pub_year": "2023",
+        "citation": "Jurnal Sain Veteriner 41 (2), 255-266, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gonad homogeneity, maturity, and gonado-somatic index of wild indonesian eel (Anguilla bicolor bicolor McClelland, 1844)",
+        "pub_year": "2023",
+        "citation": "Natural and Life Sciences Communications 22 (3), e2023046, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Locomotion Index and Retinal Thickness of the Eye Anguilla bicolor bicolor in its Developmental Stage",
+        "pub_year": "2023",
+        "citation": "Jurnal Biota 9 (1), 15-24, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Budidaya Lele di Lahan Sempit Kalurahan Caturtunggal ber-basis Pakan Alternatif pada Era Pandemi Covid-19",
+        "pub_year": "2022",
+        "citation": "Jurdimas (Jurnal Pengabdian Kepada Masyarakat) Royal 5 (3), 320-325, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u4e2d\u90e8\u30b8\u30e3\u30ef\u306e\u30bb\u30ac\u30e9\u30a2\u30ca\u30ab\u30f3\u306b\u304a\u3051\u308bAnguilla bicolor bicolor\u306e\u9280\u5316\u5909\u614b\u306b\u4f34\u3046\u5f62\u614b\u5909\u5316",
+        "pub_year": "2019",
+        "citation": "La mer 57 (3-4), 89-107, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water Quality and Productivity of Dryland Catfish Pond Based on Existing Technology and Land Priority in Gunungkidul",
+        "pub_year": "2015",
+        "citation": "Aquacultura Indonesiana 16 (2), 56, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carrying Capacity Based on Multi-Criteria Evaluation of Marginal Land for Catfish Farming in Gunungkidul Regency, Yogyakarta",
+        "pub_year": "2015",
+        "citation": "International Journal of Chemical, Environmental & Biological Sciences \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DAYA DUKUNG LINGKUNGAN LAHAN KRITIS DALAM PENGEMBANGAN BUDI DAYA LELE DI KABUPATEN GUNUNGKIDUL, YOGYAKARTA",
+        "pub_year": "2014",
+        "citation": "Universitas Gadjah Mada, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BUDIDAYA LELE DI LAHAN SEMPIT KALURAHAN CATURTUNGGAL BERBASIS PAKAN ALTERNATIF",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q6qPFe8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

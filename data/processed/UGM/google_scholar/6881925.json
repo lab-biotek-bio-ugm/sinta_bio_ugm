@@ -1,0 +1,152 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "tNAkRUwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Siti Nurbaiti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tNAkRUwAAAAJ&citpid=1",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant Biotechnology",
+    "Tissue culture"
+  ],
+  "email_domain": "@mail.ugm.ac.id",
+  "citedby": 7,
+  "citedby5y": 7,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2021": 1,
+    "2022": 0,
+    "2023": 3,
+    "2024": 3
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proline-related gene expressions contribute to physiological changes of East Nusa Tenggara (Indonesia) local rice cultivars during drought stress",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (7), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=820132554258504284",
+      "cites_id": [
+        "820132554258504284"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seed halopriming: a promising strategy to induce salt tolerance in Indonesian pigmented rice",
+        "pub_year": "2023",
+        "citation": "Plants 12 (15), 2879, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=118571851068905351",
+      "cites_id": [
+        "118571851068905351"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of putative RKD homologous gene with microspore embryogenesis in the local pigmented rice cultivar'Segreng'.",
+        "pub_year": "2021",
+        "citation": "SABRAO Journal of Breeding & Genetics 53 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8754339404253869308",
+      "cites_id": [
+        "8754339404253869308"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developmental the pattern of embryogenic microspore of rice (Oryza sativa L.) based on morphological characteristic",
+        "pub_year": "2019",
+        "citation": "Berkala Penelitian Hayati 25 (1), 7-11, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10174870359887387427",
+      "cites_id": [
+        "10174870359887387427"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proline-related gene expression contribute to physiological changes of east Nusa Tenggara (Indonesia) local rice cultivars during drought stress.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi dan Perkembangan Mikrospora Embriogenik Padi (Oryza sativa L.'Segreng')",
+        "pub_year": "2022",
+        "citation": "Universitas Gadjah Mada, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Poliploidi Jeruk Nipis (Citrus aurantifolia (Christm.) Swingle) dengan Perlakuan Kolkisin Secara In Vitro",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Embriogenesis Mikrospora Padi (Oryza sativa L.) Dengan Cekaman Starvasi Dan Suhu Tinggi",
+        "citation": "Proceeding Biology Education Conference: Biology, Science, Enviromental, and \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tNAkRUwAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

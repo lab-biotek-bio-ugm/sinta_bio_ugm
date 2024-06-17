@@ -1,0 +1,793 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "Z7sEZK4AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ratna Susandarini",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z7sEZK4AAAAJ&citpid=1",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant Systematics",
+    "Plant Structure and Development",
+    "Palynology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 243,
+  "citedby5y": 213,
+  "hindex": 10,
+  "hindex5y": 8,
+  "i10index": 10,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "2004": 1,
+    "2005": 2,
+    "2006": 1,
+    "2007": 3,
+    "2008": 0,
+    "2009": 0,
+    "2010": 0,
+    "2011": 1,
+    "2012": 1,
+    "2013": 1,
+    "2014": 2,
+    "2015": 2,
+    "2016": 1,
+    "2017": 5,
+    "2018": 7,
+    "2019": 14,
+    "2020": 26,
+    "2021": 36,
+    "2022": 50,
+    "2023": 67,
+    "2024": 20
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of taxonomic affinity of Indonesian pummelo (Citrus maxima (Burm.) Merr.) based on morphological characters.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:ufrVoPGSRksC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9576539701881561065",
+      "cites_id": [
+        "9576539701881561065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnobotanical study of plants used as food and for maternal health care by the Malays communities in Kampar Kiri Hulu, Riau, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:4TOpqqG69KYC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4075891790567488581",
+      "cites_id": [
+        "4075891790567488581"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphology and taxonomic relationships of shallot (Allium cepa L. group aggregatum) cultivars from Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10780166480391882544",
+      "cites_id": [
+        "10780166480391882544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "n-Hexane Insoluble Fraction of Plantago lanceolata Exerts Anti-Inflammatory Activity in Mice by Inhibiting Cyclooxygenase-2 and Reducing Chemokines Levels",
+        "pub_year": "2017",
+        "citation": "Scientia Pharmaceutica 85 85, 12, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:0EnyYjriUFMC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15950103775066652505",
+      "cites_id": [
+        "15950103775066652505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological variation within the Drosera indica (Droseraceae) complex in northern Australia",
+        "pub_year": "2002",
+        "citation": "Australian Journal of Botany 50 (2), 207-214, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5503951783937194548",
+      "cites_id": [
+        "5503951783937194548"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Melissopalynological analysis of honey produced by two species of stingless bees in Lombok Island, Indonesia",
+        "pub_year": "2020",
+        "citation": "Nusantara Bioscience 12 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5390002780523138904",
+      "cites_id": [
+        "5390002780523138904"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological variability and taxonomic relationship of Sorghum bicolor (L.) Moench accessions based on qualitative characters",
+        "pub_year": "2020",
+        "citation": "Annual Research & Review in Biology 35 (6), 40-52, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15813898730969614111",
+      "cites_id": [
+        "15813898730969614111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species diversity and potential use of Asteraceae in tawangmangu, karanganyar regency, central java",
+        "pub_year": "2019",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 4 (01), 18-23, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2001246650103997411",
+      "cites_id": [
+        "2001246650103997411"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Indonesian pigmented rice (Oryza sativa) based on morphology and Single Nucleotide Polymorphisms",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (4), 1208-1214, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11327591245632407571",
+      "cites_id": [
+        "11327591245632407571"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of bioactive compounds from two orchid species and preliminary test of their cytotoxicity against T47D breast cancer cells",
+        "pub_year": "2016",
+        "citation": "International Journal of Pharmacognosy and Phytochemical Research 8 (1), 150-155, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14398580915852221332",
+      "cites_id": [
+        "14398580915852221332"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microsatellite polymorphism for molecular characterization of pomelo (Citrus maxima) accessions from Indonesia:-",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (6), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9198559169673129158",
+      "cites_id": [
+        "9198559169673129158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pollen diversity and secondary metabolites in honey produced by Apis dorsata binghami from Central Sulawesi, Indonesia",
+        "pub_year": "2020",
+        "citation": "Journal of Pharmacognosy and Phytochemistry 9 (2), 2305-2309, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17679100332668882415",
+      "cites_id": [
+        "17679100332668882415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan hubungan kekerabatan fenetik spesies anggota famili Asteraceae di jalur pendakian Gunung Lawu berdasarkan karakter morfologis",
+        "pub_year": "2022",
+        "citation": "Bioma: Berkala Ilmiah Biologi 24 (1), 43-53, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5838329330511861939",
+      "cites_id": [
+        "5838329330511861939"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological diversity and phenetic relationship of wild and cultivated Begonia based on morphology and leaf venation",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=535660040598382241",
+      "cites_id": [
+        "535660040598382241"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Medicinal plants diversity in Bukit Rimbang Bukit Baling wildlife reserve, Riau, Indonesia",
+        "pub_year": "2020",
+        "citation": "Intl J Herb Med 8 (4), 33-38, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12593903651800214896",
+      "cites_id": [
+        "12593903651800214896"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sarcotheca celebica Veldkamp: persebarannya di Sulawesi, status konservasi dan kelangkaan",
+        "pub_year": "2018",
+        "citation": "Jurnal Biologi Indonesia 14 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:WF5omc3nYNoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13105455704266470944",
+      "cites_id": [
+        "13105455704266470944"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemotaxonomy of Indonesian Citrus maxima based on Leaf Essential Oils",
+        "pub_year": "2016",
+        "citation": "OnLine Journal of Biological Sciences 16 (1), 26-33, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:UebtZRa9Y70C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4217559999225127912",
+      "cites_id": [
+        "4217559999225127912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of wild edible fruits in the agroforestry area of Cigalontang Village, Tasikmalaya, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (7), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:IWHjjKOFINEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4566458090442209964",
+      "cites_id": [
+        "4566458090442209964"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotypic variability and relationships of Sorghum bicolor accessions from Java Island, Indonesia based on IRAP markers",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (12), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7639822990748926740",
+      "cites_id": [
+        "7639822990748926740"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Role of leaf architecture for the identification of agarwood-producing species Aquilaria malaccensis Lam. and Gyrinops versteegii (Gilg.) Domke at vegetative stage.",
+        "pub_year": "2019",
+        "citation": "Journal of Biological Sciences 19 (6), 396-406, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15587573532475706142",
+      "cites_id": [
+        "15587573532475706142"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative leaf and stem anatomy of ten Piper species from Indonesia",
+        "pub_year": "2019",
+        "citation": "Asian Journal of Agriculture and Biology 7 (3) 7 (3), 434-441, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1158049150106877634",
+      "cites_id": [
+        "1158049150106877634"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman flora dan fauna daerah aliran Sungai Pakerisan Kabupaten Gianyar",
+        "pub_year": "2024",
+        "citation": "UGM PRESS, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6576325178967714025",
+      "cites_id": [
+        "6576325178967714025"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Gleicheniaceae from Rokan Hulu, Riau based on ISSR Marker",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (1), 1-9, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:4DMP91E08xMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7385589009920414225",
+      "cites_id": [
+        "7385589009920414225"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation on morphology and spore characters of Dicranopteris and Sticherus (Gleicheniaceae) from Rokan Hulu District, Riau, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (10), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14538005587686584159",
+      "cites_id": [
+        "14538005587686584159"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variations of morphology, anatomy, and metabolite profiles of Citrus reticulata Blanco cv. Tawangmangu grafts produced by shoot tip grafting using several rootstocks",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (10), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:Zph67rFs4hoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16288386572193439368",
+      "cites_id": [
+        "16288386572193439368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The plant species diversity of Lasitae protected nature forest and nearby area, district of Barru, South Sulawesi",
+        "pub_year": "2020",
+        "citation": "J Trop Biodiv Biotechnol 5 (2), 89-99, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6608872791529490378",
+      "cites_id": [
+        "6608872791529490378"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological variability and taxonomic affinity of cocoa (Theobroma cacao L.) clones from Central Sulawesi, Indonesia",
+        "pub_year": "2020",
+        "citation": "Current Botany 11 (1), 60-64, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4151920175217669376",
+      "cites_id": [
+        "4151920175217669376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pollen analysis of Apis cerana honey from Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Journal of Pharmacognosy and Phytochemistry 8 (4) 8 (4), 3224-3230, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15900117434743189563",
+      "cites_id": [
+        "15900117434743189563"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rafflesia hasseltii Suringar (Rafflesiaceae): a new record to Kalimantan, Indonesia.",
+        "pub_year": "2019",
+        "citation": "Reinwardtia 18 (2), 65-70, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6197976800071486744",
+      "cites_id": [
+        "6197976800071486744"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustaining rainforest remnants in plantation landscapes: degree of oil palm stand-induced edge effects on forest microclimate and regeneration",
+        "pub_year": "2022",
+        "citation": "CERNE 28, e103039, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13330782426288116045",
+      "cites_id": [
+        "13330782426288116045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Composition of terpenoid compounds in essential oils extracted from stems of eight Piper species and their role in taxonomic relationships",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (8), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9861600925011196134",
+      "cites_id": [
+        "9861600925011196134"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species Diversity and Potential Utilization of Moraceae in Nglanggeran Ancient Volcano, Gunungkidul Regency, Yogyakarta",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (3), 183-188, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:_kc_bZDykSQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15843674256435265692",
+      "cites_id": [
+        "15843674256435265692"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heterophylly in Murraya exotica L.(Rutaceae)",
+        "pub_year": "2016",
+        "citation": "American Journal of Agricultural and Biological Sciences, 45-50, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16625313105701119715",
+      "cites_id": [
+        "16625313105701119715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The genus Murraya (Rutaceae) in Java",
+        "pub_year": "2011",
+        "citation": "Floribunda 4 (3), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1632765409480930109",
+      "cites_id": [
+        "1632765409480930109"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative study of the leaf anatomy of Dendrobium species (Orchidaceae) from South Kalimantan, Indonesia and its taxonomic significance",
+        "pub_year": "2024",
+        "citation": "Plant Science Today 11 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of simple sequence repeats variations for the assessment of genotypic diversity in Centella asiatica (L.) Urb.",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intraspecific Variability and Phenetic Relationships of Centella Asiatica (L.) Urb. Accessions from Central Java Based on Morphological Characters\u2019",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (1), 86477, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Morfologi Citrus jambhiri Lush. dan Hubungan Kekerabatannya dengan Citrus amblycarpa (Hassk.) Ochse",
+        "pub_year": "2023",
+        "citation": "Al-Kauniyah: Jurnal Biologi 16 (2), 255-268, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Primary and Secondary Metabolites of Apis cerana Honey using FTIR-ATR Diamond Spectroscopy and Their Botanical Origin",
+        "pub_year": "2023",
+        "citation": "Biology, Medicine, & Natural Product Chemistry 12 (2), 467-475, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of orchid species on the Cemara Kandang hiking track, Mount Lawu, Central Java.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Flora Diversity of Lasitae Protected Nature Forest and the Nearby Area, District of Barru, South Sulawesi",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KAJIAN PERSEBARAN dan POTENSI JATI PASIR (Guettarda speciosa L.) di INDONESIA",
+        "pub_year": "2019",
+        "citation": "BERITA BIOLOGI 18 (1), 117-123, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Role of Leaf Architecture for the Identification of agarwood-producing Species Aquilaria malaccensis Lam. and Gyrinops versteegii (Gilg.) Domke at Vegetative Stage",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Antiinflammatory Activity of N-Hexane Insoluble Fraction of Plantago Lanceolata Leaves and Its Major Compound on Mice",
+        "pub_year": "2017",
+        "citation": "Planta Medica International Open 4 (S 01), Tu-PO-123, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pellacalyx Symphiodiscus STAFP FROM LONG BAGUN, MAHAKAM HULU: MORPHOLOGICAL CHARACTERIZATION AND ITS DISTRIBUTION",
+        "pub_year": "2017",
+        "citation": "Berita Biologi 16 (2), 213-216, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potret Kecil Keanekaragaman Tumbuhan di Relik Hutan Daerah Tedung sebagai Suaka Flora di Kabupaten Gianyar",
+        "pub_year": "2016",
+        "citation": "Keanekaragaman Flora dan Fauna Daerah Aliran Sungai Pakerisan Kabupaten \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The assessment of genetic variability and taxonomic affinity of local pummelo accessions from Yogyakarta, Indonesia based on RAPD",
+        "pub_year": "2014",
+        "citation": "Indonesian Journal of Biotechnology 19 (2), 153-158, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of taxonomic affinity of Indonesian pummelo (Citrus maxima (Burm.) Merr.) based on morphological characters",
+        "pub_year": "2013",
+        "citation": "American Journal of Agricultural and Biological Sciences 8 (3), 182-190, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological variability and taxonomic affinity of cocoa (Theobroma cacao L.) clones from Central Sulawesi, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of morphology, ISSR profile, and taxonomic relationship of rough lemon, nasnaran mandarin and kaffir lime",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Z7sEZK4AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

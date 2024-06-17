@@ -1,0 +1,1646 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "akqIOYYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Kasiamdari, Rina Sri",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=akqIOYYAAAAJ&citpid=3",
+  "affiliation": "Faculty of Biology Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Mycology",
+    "Plant Systematics",
+    "Soil Biology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 722,
+  "citedby5y": 547,
+  "hindex": 14,
+  "hindex5y": 12,
+  "i10index": 28,
+  "i10index5y": 18,
+  "cites_per_year": {
+    "2003": 3,
+    "2004": 7,
+    "2005": 2,
+    "2006": 10,
+    "2007": 6,
+    "2008": 4,
+    "2009": 3,
+    "2010": 7,
+    "2011": 4,
+    "2012": 6,
+    "2013": 7,
+    "2014": 3,
+    "2015": 3,
+    "2016": 15,
+    "2017": 36,
+    "2018": 41,
+    "2019": 58,
+    "2020": 80,
+    "2021": 105,
+    "2022": 133,
+    "2023": 114,
+    "2024": 55
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of the mycorrhizal fungus, Glomus coronatum, and soil phosphorus on infection and disease caused by binucleate Rhizoctonia and Rhizoctonia solani on mung \u2026",
+        "pub_year": "2002",
+        "citation": "Plant and Soil 238, 235-244, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 95,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4818961983127535503",
+      "cites_id": [
+        "4818961983127535503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and pathogenicity of Fusarium oxysporum as the Causal Agent of Fusarium wilt in chili (Capsicum annuum L.)",
+        "pub_year": "2014",
+        "citation": "Microbiology Indonesia 8 (3), 5, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14327151273459656655",
+      "cites_id": [
+        "14327151273459656655"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparation of Fungal Inoculum for Leaf Litter Composting from Selected Fungi",
+        "pub_year": "2014",
+        "citation": "ARPN Journal of Agricultural and Biological Science 9 (3), 89-95, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:IWHjjKOFINEC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17818917033833769729",
+      "cites_id": [
+        "17818917033833769729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and identification of endophytic fungi from leave and stem of Calopogonium mucunoides",
+        "pub_year": "2018",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 3 (1), 30, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:rO6llkc54NcC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6856577033324614423",
+      "cites_id": [
+        "6856577033324614423"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decolorization and detoxification of batik dye effluent containing Indigosol Blue-04B using fungi isolated from contaminated dye effluent",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Biotechnology 23 (2), 54-60, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:yD5IFk8b50cC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=167789595286945112",
+      "cites_id": [
+        "167789595286945112"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficiency of Aspergillus sp. 3 to reduce chromium, sulfide, ammonia, phenol, and fat from batik wastewater",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 308 (1), 012003, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:abG-DnoFyZgC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12470090563578615470",
+      "cites_id": [
+        "12470090563578615470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Association of arbuscular mycorrhizal fungi (AMF) with Brachiaria precumbens (Poaceae) in tailing and its potential to increase the growth of maize (Zea mays)",
+        "pub_year": "2017",
+        "citation": "Biodiversitas Journal of Biological Diversity 18 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:blknAaTinKkC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17458046419726677523",
+      "cites_id": [
+        "17458046419726677523"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tumbuhan Duku: Senyawa Bioaktif, Aktivitas Farmakologis dan Prospeknya dalam Bidang Kesehatan",
+        "pub_year": "2013",
+        "citation": "Jurnal Biologi Papua 5 (2), 84-93, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11071876989358524009",
+      "cites_id": [
+        "11071876989358524009"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keberadaan Fungi Mikoriza Arbuskula Di Kawasan Tailing Tambang Emas Timika Sebagai Upaya Rehabilitasi Lahan Ramah Lingkungan (the Presence of Arbuscular Mycorrhizal Fungi in \u2026",
+        "pub_year": "2014",
+        "citation": "Jurnal Manusia dan Lingkungan 21 (3), 295-303, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2922132163101123472",
+      "cites_id": [
+        "2922132163101123472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioremediation of Indigosol Blue 04B Batik Effluent by Indigenous Fungal Isolates, Aspergillus spp.",
+        "pub_year": "2018",
+        "citation": "Omni-Akuatika 14 (2), 11-20, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:u_35RYKgDlwC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11471835566562207854",
+      "cites_id": [
+        "11471835566562207854"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Orchid mycorrhizal fungi: identification of Rhizoctonia from West Kalimantan",
+        "pub_year": "2016",
+        "citation": "Microbiology Indonesia 9 (4), 3, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7670400186200443747",
+      "cites_id": [
+        "7670400186200443747"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of binucleate Rhizoctonia as a contaminant in pot cultures of arbuscular mycorrhizal fungi and development of a PCR-based method of detection",
+        "pub_year": "2002",
+        "citation": "Mycological research 106 (12), 1417-1426, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18178941381630681432",
+      "cites_id": [
+        "18178941381630681432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi dan uji patogenisitas Colletotrichum spp. dari cabai merah (Capsicum annuum): Kasus di Kricaan, Magelang, Jawa Tengah",
+        "pub_year": "2021",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 26 (2), 243-250, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:5ugPr518TE4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12213482027586872407",
+      "cites_id": [
+        "12213482027586872407"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi morfologi dan anatomi stroberi (Fragaria x ananassa D. cv. Festival) hasil induksi kolkisin",
+        "pub_year": "2015",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 3 (2), 66-75, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:_kc_bZDykSQC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13634834989891628599",
+      "cites_id": [
+        "13634834989891628599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of random amplified polymorphism DNA markers linked to Powdery Mildew resistance gene in Melon",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Biotechnology 16 (2), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:uLbwQdceFCQC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13020273405210425078",
+      "cites_id": [
+        "13020273405210425078"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of fungal inoculum application on changes in organic matter of leaf litter composting",
+        "pub_year": "2019",
+        "citation": "Polish Journal of Soil Science 52 (1), 143, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6177132106047306219",
+      "cites_id": [
+        "6177132106047306219"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Systemic inducing resistance against late blight by applying antagonistTrichoderma Viride",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1025, 012053, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3364324036789471937",
+      "cites_id": [
+        "3364324036789471937"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The occurrence and identification of powdery mildew on melon in Java, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP conference proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:mB3voiENLucC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1038659060932320275",
+      "cites_id": [
+        "1038659060932320275"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The phylogenetic relationship among varieties of Lansium domesticum Correa based on ITS rDNA sequences",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Biotechnology 18 (2), 123-132, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:TQgYirikUcIC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6142615742318012782",
+      "cites_id": [
+        "6142615742318012782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of the conditions for the decolorization of batik wastewater by Aspergillus sp. 3",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2094 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:f2IySw72cVMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4119012450923499749",
+      "cites_id": [
+        "4119012450923499749"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bazzania Gray (Lepidoziaceae, Marchantiophyta) in Central Java, Indonesia",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (3), 875-887, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4581594212995426539",
+      "cites_id": [
+        "4581594212995426539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi jamur antagonis Trichoderma viride terhadap pengurangan intensitas serangan penyakit hawar daun serta hasil tanaman kentang",
+        "pub_year": "2015",
+        "citation": "Prosiding KPSDA 1 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13128383675707488401",
+      "cites_id": [
+        "13128383675707488401"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter makromorfologi dan mikromorfologi duku, kokosan, langsat dalam penentuan status taksonomi pada kategori infraspesies",
+        "pub_year": "2013",
+        "citation": "Biospecies 6 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=845302298865975056",
+      "cites_id": [
+        "845302298865975056"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic relatedness among duku, kokosan, and pisitan in Indonesia based on random amplified polymorphic DNA markers",
+        "pub_year": "2012",
+        "citation": "Indonesian Journal of Biotechnology 17 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1399848751703811335",
+      "cites_id": [
+        "1399848751703811335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of random amplified polymorphism DNA markers linked to CMV-B2 resistance gene in melon",
+        "pub_year": "2009",
+        "citation": "Hayati Journal of Biosciences 16 (4), 142-146, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13677139630699066903",
+      "cites_id": [
+        "13677139630699066903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Binucleate Rhizoctonia isolate from mycorrhizal pot cultures: its morphological characteristics and pathogenicity",
+        "pub_year": "2000",
+        "citation": "Berkala Ilmiah Biologi 2 (2000), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10555000275191547504",
+      "cites_id": [
+        "10555000275191547504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinerja enzim ganda pada pretreatment mikroalga untuk produksi bioetanol",
+        "pub_year": "2017",
+        "citation": "Jurnal Bahan Alam Terbarukan 5 (2), 92-100, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:isC4tDSrTZIC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4426755663018094673",
+      "cites_id": [
+        "4426755663018094673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan Cendawan Trichoderma spp. untuk Pengendalian Phytophthora infestans secara in vitro",
+        "pub_year": "2016",
+        "citation": "Jurnal Fitopatologi Indonesia 12 (3), 96-96, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9585150475809863685",
+      "cites_id": [
+        "9585150475809863685"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Masa inkubasi gejala penyakit hawar daun tanaman kentang yang diinduksi ketahanannya oleh jamur antagonis Trichoderma viride",
+        "pub_year": "2016",
+        "citation": "Bioma: Berkala Ilmiah Biologi 18 (2), 41-47, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6715221255106801245",
+      "cites_id": [
+        "6715221255106801245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of Class II Chitinase Gene in Chilli (Capsicum annuum L.) as Response to Fusarium oxysporum pathogen attack",
+        "pub_year": "2015",
+        "citation": "Asian Journal of Plant Pathology 9 (3), 142-147, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2408989365249675494",
+      "cites_id": [
+        "2408989365249675494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic activity of siderophore-producing bacteria from black rice rhizosphere against rice blast fungus Pyricularia oryzae",
+        "pub_year": "2021",
+        "citation": "Korean Society for Microbiology and Biotechnology 49 (2), 217-224, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:XiVPGOgt02cC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3478881018410622303",
+      "cites_id": [
+        "3478881018410622303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "rbcL and matK chloroplast DNA composition of green chireta (Andrographis paniculata) from Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (12), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8904920484585498032",
+      "cites_id": [
+        "8904920484585498032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Antimikroba Metabolit Bioaktif Jamur Shiitake (Lentinula edodes (Berk.) Pegler) yang Dikultur pada Tiga Jenis Medium Fermentasi",
+        "pub_year": "2011",
+        "citation": "Majalah Obat Tradisional 16 (3), 132-137, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8277392756102039052",
+      "cites_id": [
+        "8277392756102039052"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Pest Control Based on Morphological Character Variation on 20 Varieties and Genetic Variation Based on RAPD of Sugarcane (Saccharum officinarum L.) in Indonesia",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 347 (1), 012103, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:738O_yMBCRsC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4871089199529312164",
+      "cites_id": [
+        "4871089199529312164"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resistance response of chilli (Capsicum annuum L.) F1 to Fusarium oxysporum involves expression of the CaChi2 gene",
+        "pub_year": "2018",
+        "citation": "Tropical life sciences research 29 (2), 29, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8832750374169606035",
+      "cites_id": [
+        "8832750374169606035"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi, seleksi, dan identifikasi kapang kitinolitik yang diisolasi dari tanah pembuangan limbah udang dan Rizosfer Solanaceae",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2862695070908080008",
+      "cites_id": [
+        "2862695070908080008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Presence of Arbuscular Mycorrhizal Fungi on Fern from Tailing Deposition Area of Gold Mine in Timika, Indonesia",
+        "pub_year": "2016",
+        "citation": "International Journal of Environmental Bioremediation & Biodegradation 4 (1 \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:qUcmZB5y_30C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18310617004725553015",
+      "cites_id": [
+        "18310617004725553015"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The growth response of pokem (Setaria italica L.) inoculated with arbuscular mycorrhizal fungi (AMF) from tailings area",
+        "pub_year": "2021",
+        "citation": "Journal of Degraded and Mining Lands Management 8 (4), 2873, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:bnK-pcrLprsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=834873258861713590",
+      "cites_id": [
+        "834873258861713590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA Barcoding and Phylogenetic Analysis Sugarcane (Saccharum officinarum L.) Based on matK ( maturase K) Gene",
+        "pub_year": "2020",
+        "citation": "Key Engineering Materials 840, 162-170, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5071458997156473177",
+      "cites_id": [
+        "5071458997156473177"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficiency of Aspergillus sp. 3 to Reduce Chromium, Sulfide, Ammonia, Phenol, and Fat From Batik Wastewater. IOP Conf",
+        "pub_year": "2019",
+        "citation": "Ser. Earth Environ. Sci 308, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11521488023263295131",
+      "cites_id": [
+        "11521488023263295131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFICATION OF ANTHRACHNOSE DISEASE ON STRAWBERRY FRUIT (Fragraria vesca L.) AND ITS CONTROL BY BETEL (Piper betle L.) LEAF EXTRACT",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 458-465, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14280692882490039631",
+      "cites_id": [
+        "14280692882490039631"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological Variation And Phenetic Relationship Of Hyacinth Bean (Lablab Purpureus (L.) Sweet) In Lombok, West Nusa Tenggara",
+        "pub_year": "2011",
+        "citation": "Proceeding ICBB (The International Conference on Bioscience and \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=282022121395446051",
+      "cites_id": [
+        "282022121395446051"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and PCR-based characterisation of Podosphaera aphanis (Wallr.) U. Braun & S. Takamatsu causing powdery mildew disease in strawberry in Java",
+        "pub_year": "2021",
+        "citation": "Archives of Phytopathology and Plant Protection 54 (15), 990-1000, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11832521207929424907",
+      "cites_id": [
+        "11832521207929424907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variations of strawberry cultivars of Fragaria x ananassa and Fragaria vesca based on RAPD",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (3), 770-775, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:D03iK_w7-QYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1446236882496105613",
+      "cites_id": [
+        "1446236882496105613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential yeast from Indonesian wild forest honey showing ability to produce lipase for lipid transesterification",
+        "pub_year": "2019",
+        "citation": "Microbiology and Biotechnology Letters 47 (4), 555-564, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13421862950309869572",
+      "cites_id": [
+        "13421862950309869572"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new species of Glyphis Ach. and three new records of Graphis Adans.(Graphidaceae) from Bali Island, Indonesia.",
+        "pub_year": "2018",
+        "citation": "Bangladesh Journal of Plant Taxonomy 25 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:a0OBvERweLwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17517141717375907180",
+      "cites_id": [
+        "17517141717375907180"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic relationships of nine cultivars of strawberries (Fragaria spp.) based on anatomical and morphological characters",
+        "pub_year": "2017",
+        "citation": "Planta Tropika 5 (2), 116-126, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8631646230339022873",
+      "cites_id": [
+        "8631646230339022873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sitotoksisitas Ekstrak Aspergillus fumigatus dari Daun Mekai (Albertisia papuana Becc.) terhadap Sel Kanker Payudara T47D dan MCF-7",
+        "pub_year": "2015",
+        "citation": "BIO-SITE| Biologi dan Sains Terapan 1 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5046662666108350382",
+      "cites_id": [
+        "5046662666108350382"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Kekerabatan Fenetik Jamur Shiitake (Lentinula edodes (Berk.) Pegler) berdasarkan Karakter Morfologi",
+        "pub_year": "2011",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 28 (2), 110-117, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:-f6ydRqryjwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13179387024340103174",
+      "cites_id": [
+        "13179387024340103174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological Treatment of Naphthol Yellow S and Batik Effluent using Aspergillus tamarii and Aspergillus sclerotiorum",
+        "pub_year": "2023",
+        "citation": "Research Journal of Chemistry and Environment 27 (6), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12165028650468086289",
+      "cites_id": [
+        "12165028650468086289"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The inhibition of Fusarium wilt in Chili by Endophytic Fungi isolated from Green Betel (Piper betle L.) Leaf",
+        "pub_year": "2022",
+        "citation": "Journal of Natural Sciences and Mathematics Research 8 (2), 84-93, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:SdhP9T11ey4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18129933720650399246",
+      "cites_id": [
+        "18129933720650399246"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity, Abundance, and Traditional Uses of Asteraceae Species in Mount Bisma, Dieng Plateau, Kejajar, Wonosobo, Central Java",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (1), 1-15, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4116881907711413268",
+      "cites_id": [
+        "4116881907711413268"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lignification on potatoes by application of trichoderma viride",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 518 (1), 012075, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2866292544915090439",
+      "cites_id": [
+        "2866292544915090439"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of green chireta (Andrographis paniculata (Burm. f.) Wall. Ex Nees.) from Indonesia based on ISSR and RAPD markers",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (1), 61-68, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:LPZeul_q3PIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12291445606435994334",
+      "cites_id": [
+        "12291445606435994334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and characterization of molecular markers for sugarcane (Saccharum officinarum L.) resistance to shoot borer pest",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 468 (1), 012018, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:sSrBHYA8nusC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3212242407093617776",
+      "cites_id": [
+        "3212242407093617776"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Indonesian\u2019s sugarcane varieties (Saccharum officinarum) based on RAPD molecular markers",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:NhqRSupF_l8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3097396440543568610",
+      "cites_id": [
+        "3097396440543568610"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New records of Graphis (Graphidaceae, Ascomycota) in Bali Island, Indonesia",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (1), 112-118, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:M05iB0D1s5AC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13952136986226814762",
+      "cites_id": [
+        "13952136986226814762"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological Characteristics and Kinship Relationship of Mushroom Schizophyllum commune Fr.",
+        "pub_year": "2017",
+        "citation": "Journal of Natural Sciences and Mathematics Research 1 (2), 65-71, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:BqipwSGYUEgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13711304937160393240",
+      "cites_id": [
+        "13711304937160393240"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi intraspesifik cempedak (Artocarpus integer (Thunb.) Merr.) Kalimantan dan Jawa berdasarkan karakter morfologis dan molekular",
+        "pub_year": "2015",
+        "citation": "Yogyakarta: Universitas Gajah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:PELIpwtuRlgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13495889971226182998",
+      "cites_id": [
+        "13495889971226182998"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological control activities of plant growth promoting Rhizobacteria from organic and nonorganic rice fields against rice sheath blight pathogen (Rhizoctonia solani K\u00fchn)",
+        "pub_year": "2021",
+        "citation": "Korean Society for Microbiology and Biotechnology 49 (3), 374-383, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:J-pR_7NvFogC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14872479388357937880",
+      "cites_id": [
+        "14872479388357937880"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of strawberry cultivars in banyuroto, Magelang, Indonesia based on cleaved amplified polymorphic sequence",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (6), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1028452864664578133",
+      "cites_id": [
+        "1028452864664578133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of Molecular Markers ISSR, SSR and RFLP to Study the Genetic Variation of Strawberry Cultivars",
+        "pub_year": "2019",
+        "citation": "American Journal of Agricultural and Biological Sciences 14 (1), 61-68, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6165670619767312638",
+      "cites_id": [
+        "6165670619767312638"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of SCDR 1 and P5CS genes in cultivar of environmental stress tolerant superior sugarcane (Saccharum officinarum L.).",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2828639917398093104",
+      "cites_id": [
+        "2828639917398093104"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Komparatif Penurunan Warna Limbah Cair Batik Menggunakan Aspergillus Niger",
+        "pub_year": "2016",
+        "citation": "Prosiding Symbion, 269-278, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10249794095125412211",
+      "cites_id": [
+        "10249794095125412211"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Genetik Kacang Komak (Lablab purpureus (L.) Sweet) Menggunakan Penanda RAPD di Pulau Lombok, Nusa Tenggara Barat",
+        "pub_year": "2016",
+        "citation": "Biota: Biologi dan Pendidikan Biologi 9 (2), 272-279, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:k_IJM867U9cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6238389814749256052",
+      "cites_id": [
+        "6238389814749256052"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Antagonisme Tiga Isolat Fungi Endofit Anggrek Bulan Terhadap F. Oxysporum Secara in vitro",
+        "pub_year": "2016",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 4 (1), 47-52, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10465226266353814669",
+      "cites_id": [
+        "10465226266353814669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi ketahanan kultivar tanaman melon (cucumis melo L.) Terhadap jamur tepung (powdery mildew) isolat Ngawi",
+        "pub_year": "2014",
+        "citation": "Tesis. Gadjah Mada. Yogyakarta, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4955101409309775368",
+      "cites_id": [
+        "4955101409309775368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Identification of Rhizoctonia Associated with Phalaenopsis amabilis (L.) Blume Roots",
+        "pub_year": "2011",
+        "citation": "Proceeding ICBB (The International Conference on Bioscience and \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7069511043650412947",
+      "cites_id": [
+        "7069511043650412947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interactions between arbuscular mycorrhizal fungi and other root-infecting fungi",
+        "pub_year": "2001",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9215327413747514106",
+      "cites_id": [
+        "9215327413747514106"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ketahanan tiga varietas jagung (Zea mays L.) terhadap infeksi jamur penyakit bulai Peronosclerospora maydis",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 14 (1), 21-31, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:ye4kPcJQO24C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16105823043582883357,14655286557521330319",
+      "cites_id": [
+        "16105823043582883357",
+        "14655286557521330319"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological, Molecular Characterization, and Physico-chemical Analysis of Trichoderma yunnanense as Indigosol Golden Yellow Dye-decolorizing Fungus.",
+        "pub_year": "2022",
+        "citation": "Philippine Journal of Science 151, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3673641814779696981",
+      "cites_id": [
+        "3673641814779696981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and identification of fungi isolated from batik wastewaters for decolorization of Remazol Black B dye and batik effluent.",
+        "pub_year": "2022",
+        "citation": "Journal of Degraded & Mining Lands Management 10 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6605954653892518330",
+      "cites_id": [
+        "6605954653892518330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of the Sheath Blight Complex of Fungi in Rice (Oryza sativa L.)",
+        "pub_year": "2022",
+        "citation": "Egyptian Journal of Botany 62 (3), 739-745, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7461660599565763566",
+      "cites_id": [
+        "7461660599565763566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Inokulasi Mikoriza VA Terhadap Pertumbuhan Bawang Dayak (Eleutherine palmifolia (L.) Merr.) Pada Tanah Marginal",
+        "pub_year": "2021",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 38 (1), 47-54, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16771755057727831882",
+      "cites_id": [
+        "16771755057727831882"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of environmental stress tolerant superior sugarcane (Saccharum officinarum L.)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 458 (1), 012004, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=160243016123011141",
+      "cites_id": [
+        "160243016123011141"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection and analysis of delayed-ripening genes in the growth of strawberries (Fragaria\u00d7 ananassa) treated 1-naphtaleneacetic acid",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1374 (1), 012008, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10537041462768757027",
+      "cites_id": [
+        "10537041462768757027"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variation and characterization of the sucrose synthase 2 gene (Sus2) in sugarcane based molecular markers",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (11), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4866277227132756706",
+      "cites_id": [
+        "4866277227132756706"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi inokulum vesikular arbuskular mikoriza pada inang Sorghum bicolor (L.) Moench dengan variasi jenis inokulum dan pupuk NPK",
+        "pub_year": "2019",
+        "citation": "Jurnal Riset Biologi dan Aplikasinya 1 (2), 80-86, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17302249209471143664",
+      "cites_id": [
+        "17302249209471143664"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEANEKARAGAMAN JENIS TUMBUHAN PENYUSUN VEGETASI LANTAI SEKITAR QUARRY di KAWASAN TAMBANG EMAS TRADISIONAL, SEKOTONG, LOMBOK BARAT",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8155687724701445940",
+      "cites_id": [
+        "8155687724701445940"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi intraspesifik stevia (Stevia rebaudiana (Bertoni) Bertoni) koleksi Balai Besar Penelitian dan Pengembangan Tanaman Obat dan Obat Tradisional (B2P2TO-TO) berdasarkan \u2026",
+        "pub_year": "2010",
+        "citation": "Universitas Gadjah Mada, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7427922204253660107",
+      "cites_id": [
+        "7427922204253660107"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Binucleate Rhizoctonia sebagai Penghambat Peronosclerospora maydis Penyebab Penyakit Bulai pada Tanaman Jagung (Zea mays L.)",
+        "pub_year": "2024",
+        "citation": "Jurnal Agrotek Tropika 12 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENETIC VARIATION OF FEI BANANA (MUSA TROGLODYTARUM L.) IN MALUKU ISLANDS USING RAPD MARKERS.",
+        "pub_year": "2024",
+        "citation": "SABRAO Journal of Breeding & Genetics 56 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:_Ybze24A_UAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi dan Seleksi Fungi Endofit Daun Sirih Hijau (Piper betle L.) Penghasil Enzim Selulase",
+        "pub_year": "2023",
+        "citation": "Berkala Ilmiah Biologi 14 (3), 23-31, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship analysis of FaPYR1 and FaCHS genes encoding fruit ripening of three species of strawberries (Fragaria spp.) fruit",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Curvularia eragrostidis (Henn.) JA Mey. the Leaf Spot Pathogen of Oil Palm (Elaeis guineensis Jacq.) and It\u2019s Control by False Elder (Peronema canescens Jack \u2026",
+        "pub_year": "2023",
+        "citation": "International Journal of Oil Palm 6 (2), 25\u201334-25\u201334, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mechanism and kinetic model of microalgal enzymatic hydrolysis for prospective bioethanol conversion",
+        "pub_year": "2023",
+        "citation": "RSC advances 13 (31), 21403-21413, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi dan Karakterisasi Fungi Pendegradasi Pewarna Indigosol Golden Yellow dan Naftol Blue Black pada Limbah Industri Batik di Pekalongan",
+        "pub_year": "2022",
+        "citation": "Universitas Gadjah Mada, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of mycorrhizal va inoculation on the growth of dayak onion (Eleutherine palmifolia (L.) Merr.) on marginal soil.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:UHK10RUVsp4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and Pathogenicity of Rhizoctonia solani K\u00fchn Associated with Sheath Blight in Local Rice Varieties (Oryza sativa L.) of Special Region of Yogyakarta",
+        "pub_year": "2021",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 25 (2), 148-159, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use of DNA Barcoding and Phylogenetic Analysis to Improve Identification of Usnea spp. Based on ITS rDNA",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 6 (1), 58635, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection and Identification of Polymorphism in Mutant Strawberry (Fragaria spp.) Plants Based on Cleaved Amplified Polymorphic Sequences Molecular Markers",
+        "pub_year": "2020",
+        "citation": "PLANTA TROPIKA 8 (1), 15-20, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and characterization of molecular markers for sugarcane stem borer (Saccharum officinarum L.) resistance genes",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012049, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of polymorphisms on strawberry (Fragaria spp.) based on cleavage amplified polymorphic sequence",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi, Seleksi, dan Identifikasi Kapang Kitinolitik yang Diisolasi dari Tanah Pembuangan Limbah Udang dan Rizosfer Solanaceae",
+        "pub_year": "2016",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 1-8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and Patogenisity Test of Fusarium spp. That Caused Crown Rot of Moth Orchid (Phalaenopsis sp.)",
+        "pub_year": "2016",
+        "citation": "Research Report, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cell Disruption Mikroalga Secara Enzimatis dengan Sellulase",
+        "pub_year": "2015",
+        "citation": "Reaktor 15 (4), 213-217, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ACCESSIONS RELATIONSHIP OF PURWOCENG (Pimpinella pruatjan Molkenb.) BASED ON MORPHOLOGICAL CHARACTERS Hubungan Fenetik Aksesi Purwoceng (Pimpinella pruatjan Molkenb \u2026",
+        "pub_year": "2014",
+        "citation": "Badan Penelitian dan Pengembangan Kesehatan, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Genetik Berdasarkan Penanda Molekular Random Amplified Polymorphic DNA Pada Jamur Shiitake (Lentinula edodes)",
+        "pub_year": "2011",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 178-186, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Pathogenicity Test Of Binucleate Rhizoctonia AND Rhizoctonia solani On Mung Bean (Mgna radiata L. WUczeck)",
+        "pub_year": "2004",
+        "citation": "Berkala Ilmiah Biologi 3 (2004), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antifungal Effect of Leaf Extracts on the Groundnut Late Leaf Spot Pathogen Cercosporidium personatum",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia, 0"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:W5xh706n7nkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological Characters and Phenetic Relationship of Pineapple (Ananas comosus) from Central Java and Riau Provinces, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Genetik Berdasarkan Penanda Molekular Random Amplified Polymorphic DNA Pada Jamur Shiitake (Lentinula edodes)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IMPROVEMENT OF CENTRAL DEVELOPMENT INNOVATION OF EDU PARK NATURAL TOURISM AREA BASED ON ORGANIC AGRICULTURE IN BANYUROTO VILLAGE, SAWANGAN, MAGELANG",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons Ketahanan Tanaman Cabai Merah (Capsicum annuum L.) Indonesia terhadap Infeksi Fusarium oxysporum Indonesian Chili (Capsicum annuum L.) Resistance Response to Fusarium \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial Activity Of Bioactive Metabolites Of (Lentinula Edodes (Berk.) Pegler) Cultured Onthree Types Of Fermentation Media",
+        "citation": "Majalah Obat Tradisional 16 (3), 133-138, 0"
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISTIK JAMUR EKTOMIKORHIZA GENUS Scleroderma PADA MELINJO (Gnetum gnemon L.) DI KABUPATEN BATANG",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "akqIOYYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

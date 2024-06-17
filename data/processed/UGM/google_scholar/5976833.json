@@ -1,0 +1,810 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "VWGACcQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Laksmindra Fitria",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VWGACcQAAAAJ&citpid=3",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "animal physiology",
+    "laboratory animal science",
+    "hematology",
+    "reproductive biology",
+    "preclinical trial"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "homepage": "http://acadstaff.ugm.ac.id/laksmindra.fitria",
+  "citedby": 266,
+  "citedby5y": 217,
+  "hindex": 8,
+  "hindex5y": 6,
+  "i10index": 6,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2015": 2,
+    "2016": 3,
+    "2017": 22,
+    "2018": 12,
+    "2019": 30,
+    "2020": 38,
+    "2021": 40,
+    "2022": 42,
+    "2023": 48,
+    "2024": 18
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aHXVjrsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rahadian Yudo Hartantyo",
+      "affiliation": "Lecturer of Physiology, Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BcGzILwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Slamet Widiyanto",
+      "affiliation": "Associate Prof. of Animal Physiology, Faculty of Biology, Gadjah Mada University, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X8IjBKwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Fajar Lukitowati",
+      "affiliation": "Badan Tenaga Nuklir Nasional"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MvYFFTEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Agus Suyono",
+      "affiliation": "Algal Culture, Biotechnology & Engineering Expert of Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "g7A2PuQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Zuliyati Rohmah",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "12CrTFIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tuty Arisuryanti",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4y8d3aoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Siti Isrina Oktavia Salasia",
+      "affiliation": "Professor of Veterinary Clinical Pathology, Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IWBSUNwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nastiti Wijayanti",
+      "affiliation": "Justus Liebig University and Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tKUlcJ0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Onny Nurrahman Marwayana",
+      "affiliation": "Research Center for Biology, Indonesian Institute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NYGf0jsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kindi Adam",
+      "affiliation": "Researcher, NIHRD"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dxRdss4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Abdul Razaq Chasani",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "HlpmaxQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Warsito Purwo Taruno",
+      "affiliation": "C-Tech Labs Edwar Technology Co."
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qLOIZhkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Luthfi Nurhidayat",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mqkaLTQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rarastoeti Pratiwi",
+      "affiliation": "Lecturer at Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rP3sBfoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Firman Alamsyah",
+      "affiliation": "Universitas Al-Azhar Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-AQcmPsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nisrina Firdausi",
+      "affiliation": "Research Center for Pharmaceutical Ingredients and Traditional Medicine, The National Agency of"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YdvSSBEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rury Eprilurahman",
+      "affiliation": "Faculty of Biology, Universitas Gadjah Mada"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil hematologi tikus (Rattus norvegicus Berkenhout, 1769) galur wistar jantan dan betina umur 4, 6, dan 8 minggu",
+        "pub_year": "2014",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 2 (2), 94-100, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 100,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=861191109658203813",
+      "cites_id": [
+        "861191109658203813"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil reproduksi jantan tikus (Rattus norvegicus Berkenhout, 1769) galur wistar stadia muda, pradewasa, dan dewasa",
+        "pub_year": "2015",
+        "citation": "J Biol Papua 7 (1), 29-36, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2700212333057096496",
+      "cites_id": [
+        "2700212333057096496"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh antikoagulan dan waktu penyimpanan terhadap profil hematologis tikus (Rattus norvegicus Berkenhout, 1769) galur wistar",
+        "pub_year": "2017",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 33 (1), 22-30, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:roLk4NBRz8UC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17280031121199413589",
+      "cites_id": [
+        "17280031121199413589"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nilai rujukan untuk evaluasi fungsi hati dan ginjal pada tikus (Rattus norvegicus Berkenhout, 1769) Galur Wistar",
+        "pub_year": "2019",
+        "citation": "Jurnal Pendidikan Matematika dan IPA 10 (2), 243-258, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2220500102095606022",
+      "cites_id": [
+        "2220500102095606022"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji toksisitas oral akut single dose filtrat buah luwingan (Ficus hispida Lf) pada tikus (Rattus norvegicus Berkenhout, 1769) galur Wistar",
+        "pub_year": "2019",
+        "citation": "Jurnal Mangifera Edu 4 (1), 1-18, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:_kc_bZDykSQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14552468599058067925",
+      "cites_id": [
+        "14552468599058067925"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "P. Uji Potensi Buah Luwingan (Ficus hispida Lf) Sebagai Penurun Kadar Kolesterol Darah dengan Hewan Model Tikus Wistar (Rattus norvegicus Berkenhout, 1769) Hiperlipidemia",
+        "pub_year": "2015",
+        "citation": "Laporan Penelitian Fakultas Biologi Dana BOPTN 2015, 1-20, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2736936518850594165",
+      "cites_id": [
+        "2736936518850594165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Single-dose acute oral toxicity study of chloroform extract of snake plant (Sansevieria trifasciata Prain.) leaf in Wistar rats (Rattus norvegicus Berkenhout, 1769)",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (1), 69389, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:TFP_iSt0sucC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12166381489270006206",
+      "cites_id": [
+        "12166381489270006206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-obesity effects of Lipid Extract from Sea-reared of Rainbow Trout (Oncorhynchus mykiss) Fed with Sea Squirt (Halocynthia roretzi) Tunic's Carotenoids and CLA",
+        "pub_year": "2016",
+        "citation": "Journal of Nutrition and Food Sciences 6 (4), 525-532, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10533370385066965368",
+      "cites_id": [
+        "10533370385066965368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mulyati. 2014. Profil hematologi tikus (Rattus norvegicus Berkenhout, 1769) galur Wistar jantan dan betina umur 4, 6, dan 8 minggu",
+        "citation": "Biogenesis 2 (2), 94-100, 0"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13064008116512299695",
+      "cites_id": [
+        "13064008116512299695"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi propolis sebagai imunomodulator pada tikus (Rattus norvegicus Berkenhout, 1769) galur Wistar yang diinduksi Penisilin-G",
+        "pub_year": "2015",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 3 (2), 124-131, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2605341615008331460",
+      "cites_id": [
+        "2605341615008331460"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toksisitas Oral Subakut Filtrat Buah Luwingan (Ficus hispida Lf) pada Tikus Riul [Rattus norvegicus (Berkenhout, 1769)] Wistar Jantan {Subacute Oral Toxicity Study of Hairy Fig \u2026",
+        "pub_year": "2021",
+        "citation": "Jurnal Biologi Indonesia 17 (1), 81-91, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2123121190391264044",
+      "cites_id": [
+        "2123121190391264044"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Toksisitas Oral Repeated Dose Filtrat Buah Luwingan (Ficus hispida Lf) Menggunakan Model Tikus (Rattus norvegicus Berkenhout, 1769) Galur Wistar",
+        "pub_year": "2020",
+        "citation": "Berita Biologi 19 (3A), 297-308, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7645878657830454669",
+      "cites_id": [
+        "7645878657830454669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochemical compounds and sub-chronic toxicity test of Chlorella sp. and Spirulina sp. isolated from Glagah Coastal Water",
+        "pub_year": "2018",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 24 (1), 58-64, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18277073177096430273",
+      "cites_id": [
+        "18277073177096430273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mulyati., CM Tiraya, dan AS Budi. 2015. Profil Reproduksi Jantan Tikus ( Rattus norvegicus Berkenhout, 1769) Galur Wistar Stadia Muda, Pradewasa, dan Dewasa",
+        "citation": "Jurnal Biologi Papua 7 (1), 29-36, 0"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6593708463714423602",
+      "cites_id": [
+        "6593708463714423602"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hematology profile of guinea pigs [Cavia porcellus (Linnaeus, 1758)] based on sex and age",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 47-52, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8480404496967020658",
+      "cites_id": [
+        "8480404496967020658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelatihan Pembuatan Ekoenzim dan Keranjang Takakura untuk Pengolahan Sampah Dapur",
+        "pub_year": "2023",
+        "citation": "CARADDE: Jurnal Pengabdian Kepada Masyarakat 5 (3), 530-539, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:GnPB-g6toBAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=532332918134292",
+      "cites_id": [
+        "532332918134292"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Health comparison between guinea pigs raised in uncontrolled and controlled environments",
+        "pub_year": "2022",
+        "citation": "Veterinary World 15 (6), 1575, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8539377386535112524",
+      "cites_id": [
+        "8539377386535112524"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive Toxicity Study of Hairy Fig (Ficus hispida Lf) Fruits on Male Wistar Rats (Rattus norvegicus Berkenhout, 1769)",
+        "pub_year": "2022",
+        "citation": "Berkala Ilmiah Biologi 13 (1), 1-14, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:hMod-77fHWUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10367839971001367085",
+      "cites_id": [
+        "10367839971001367085"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ulva lactuca Linnaeus potentially promotes reproductive indices and depressive-like behavior of hypertriglyceridemia male Wistar rats (Rattus norvegicus Berkenhout, 1769)",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (3), 228-238, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:TQgYirikUcIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477748747292940416",
+      "cites_id": [
+        "16477748747292940416"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PO-111 Non-contact electric fields inhibit the growth of breast cancer cells in animal models and induce local immune reaction",
+        "pub_year": "2018",
+        "citation": "ESMO Open 3, A269, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:isC4tDSrTZIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16395405451151288921",
+      "cites_id": [
+        "16395405451151288921"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UjI TokSISITAS oRAl AkUT FIlTRAT PsEUDObULb AnggRek meRpATI (DENDRObIUM CRUMENAtUM SWARTZ.) pADA TIkUS pUTIh (RAttUs NORVEGICUs BeRkenhoUT, 1769) gAlUR WISTAR",
+        "pub_year": "2015",
+        "citation": "Kaunia: Integration and Interconnection Islam and Science Journal 11 (2 \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:UebtZRa9Y70C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10983077787820861760",
+      "cites_id": [
+        "10983077787820861760"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh pemberian fraksi protein ekstrak kuda laut (Hippocampus kuda Bleeker, 1852) terhadap peningkatan kadar hemoglobin mencit (Mus musculus L)",
+        "pub_year": "2014",
+        "citation": "Jurnal Kefarmasian Indonesia, 83-90, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2604994261782009152",
+      "cites_id": [
+        "2604994261782009152"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Illiy dan Indah Riwantrisna, Dewi. 2016",
+        "citation": "Pengaruh Antikoagulan dan Waktu Penyimpanan terhadap Profil Hematologis \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:k_IJM867U9cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17045106059353796691",
+      "cites_id": [
+        "17045106059353796691"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENDAMPINGAN PENGOLAHAN SAMPAH ORGANIK MENJADI PUPUK KOMPOS DAN PUPUK KANDANG",
+        "pub_year": "2024",
+        "citation": "JMM (Jurnal Masyarakat Mandiri) 8 (1), 818-830, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:lSLTfruPkqcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=281475397973993268",
+      "cites_id": [
+        "281475397973993268"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hemotoxicity of Hairy Fig (Ficus hispida Lf) Fruits on Male Wistar Rats (Rattus norvegicus Berkenhout, 1769)",
+        "pub_year": "2022",
+        "citation": "Jurnal Biodjati 7 (2), 234-246, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:BqipwSGYUEgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8283290596260185502",
+      "cites_id": [
+        "8283290596260185502"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hematology Profile of Female Guinea Pig (Cavia porcellus (Linnaeus, 1758)) with Diet Variations",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 26-38, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:maZDTaKrznsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2452929479204147226",
+      "cites_id": [
+        "2452929479204147226"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Health comparison between guinea pigs raised in uncontrolled and controlled environments. Veterinary World, 15 (6), 1575-1582",
+        "pub_year": "2022",
+        "citation": "Abstract, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10705211025690250039",
+      "cites_id": [
+        "10705211025690250039"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toksisitas Reproduktif Buah Luwingan (Ficus hispida Lf.) pada Tikus (Rattus norvegicus Berkenhout, 1769) Jantan Galur Wistar Reproductive Toxicity of Hairy Fig (Ficus hispida \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:blknAaTinKkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11046539341472291309",
+      "cites_id": [
+        "11046539341472291309"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Safety Evaluation of Snake Plant (Sansevieria trifasciata) Leaves Extract as Potential Herbal Medicine",
+        "pub_year": "2024",
+        "citation": "Jurnal Biota, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of microscopic meat quality parameters in guinea pig [Cavia porcellus (Linnaeus, 1758)], broiler chicken, and local catfish as protein source",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 06005, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of carcass weight and proximate composition as guinea pig [Cavia porcellus (Linnaeus, 1758)] meat quality indicator",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 06004, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Catfish Clarias gariepinus (Burchell, 1822) under Different Rearing Methods and Feed Types",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 02008, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONSUMSI PAKAN DAN MINUM SERTA NILAI FEED CONVERSION RATIO (FCR) PADA MARMUT [Cavia porcellus (Linnaeus, 1758)] TUA DAN DEWASA DENGAN VARIASI SUPLEMENTASI SAYURAN DAN BUAH",
+        "pub_year": "2023",
+        "citation": "Gunung Djati Conference Series 35, 84-92, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROFIL HEMATOLOGIS MARMUT [Cavia Porcellus (LINNAEUS, 1758)] JANTAN DAN BETINA PADA TINGKATAN USIA YANG BERBEDA",
+        "pub_year": "2023",
+        "citation": "Gunung Djati Conference Series 35, 75-83, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROFIL LIPID DAN INDEKS LIPID PADA MARMUT BETINA [Cavia porcellus (Linnaeus, 1758)] DEWASA DAN TUA",
+        "pub_year": "2023",
+        "citation": "Gunung Djati Conference Series 35, 93-102, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toksisitas Oral Akut Arthrospira maxima dan Chlorella vulgaris Isolat Glagah Pada Tikus (Rattus norvegicus Berkenhout, 1769) Galur Wistar",
+        "pub_year": "2022",
+        "citation": "Al-Kauniyah: Jurnal Biologi 15 (2), 209-219, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Voluntary Diving Exercise Improves Hippocampus-dependent Learning in Rats",
+        "pub_year": "2020",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 8 (1), 15-21, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ameliorative Effect of Infused Watercress on Rat Galactopoiesis Following Maternal Separation",
+        "pub_year": "2018",
+        "citation": "Journal of Tropical Life Science 8 (3), 267305, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TESTOSTERONE AND CORTISOL LEVEL IN FECAL JAVA DEER (Cervus russa timorensis Mul. & Schl 1844) MALE IN CAPTIVITY BUNDER GUNUNG KIDUL \u2026",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 362-362, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Level insulin of diabetic rat model by streptozotocin-induced.",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi testosteron mencit (Mus musculus L.) setelah pemberian ekstrak kuda laut (Hippocampus kuda Bleeker 1852)",
+        "pub_year": "2007",
+        "citation": "Universitas Gadjah Mada, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Single-Dose Oral Toxicity Study of Chloroform Extract of Kaffir Lime (Citrus hystrix DC.) Leaves in Wistar Rats (Rattus norvegicus Berkenhout, 1769)",
+        "citation": "Berkala Ilmiah Biologi 15 (1), 43-56, 0"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Daun Kemangi (Ocimum basilicum L.) untuk Meningkatkan Kapasitas Reproduksi Betina pada Tikus Wistar (Rattus norvegicus Berkenhout, 1769)",
+        "citation": "Proceeding Biology Education Conference: Biology, Science, Enviromental, and \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "VWGACcQAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

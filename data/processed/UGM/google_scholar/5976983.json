@@ -1,0 +1,788 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "Yk9_c94AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Andhika Puspito Nugroho",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yk9_c94AAAAJ&citpid=2",
+  "affiliation": "Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Ecotoxicology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 228,
+  "citedby5y": 191,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 9,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2011": 1,
+    "2012": 9,
+    "2013": 3,
+    "2014": 6,
+    "2015": 3,
+    "2016": 4,
+    "2017": 5,
+    "2018": 6,
+    "2019": 6,
+    "2020": 19,
+    "2021": 29,
+    "2022": 28,
+    "2023": 62,
+    "2024": 47
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytoremediation of electroplating wastewater by vetiver grass (Chrysopogon zizanoides L.)",
+        "pub_year": "2021",
+        "citation": "Scientific reports 11 (1), 14482, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:_kc_bZDykSQC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9343817092140951801",
+      "cites_id": [
+        "9343817092140951801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sintesis dan aplikasi nanopartikel kitosan sebagai adsorben Cd dan antibakteri koliform",
+        "pub_year": "2017",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 5 (1), 42-48, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11935965117274036132",
+      "cites_id": [
+        "11935965117274036132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microplastic pollution in Rawa Jombor Reservoir, Klaten, Central Java, Indonesia: accumulation in aquatic fauna, heavy metal interactions, and health risk assessment",
+        "pub_year": "2022",
+        "citation": "Water, Air, & Soil Pollution 233 (4), 112, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1741559365503221077",
+      "cites_id": [
+        "1741559365503221077"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of copper on lipid peroxidation, glutathione, metallothionein, and antioxidative enzymes in the freshwater mussel Anodonta anatina",
+        "pub_year": "2012",
+        "citation": "Toxicological & environmental chemistry 94 (5), 918-929, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14891907536925988858",
+      "cites_id": [
+        "14891907536925988858"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uptake, distribution, and bioaccumulation of copper in the freshwater mussel Anodonta anatina",
+        "pub_year": "2011",
+        "citation": "Toxicological & Environmental Chemistry 93 (9), 1838-1850, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7137974873126011471",
+      "cites_id": [
+        "7137974873126011471"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uptake and release of chromium and nickel by Vetiver grass (Chrysopogon zizanioides (L.) Roberty)",
+        "pub_year": "2021",
+        "citation": "SN Applied Sciences 3, 1-13, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8657157688496831879",
+      "cites_id": [
+        "8657157688496831879"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Health risk assessment and microplastic pollution in streams through accumulation and interaction by heavy metals",
+        "pub_year": "2023",
+        "citation": "Global Journal of Environmental Science and Management 9 (4), 719-740, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:hC7cP41nSMkC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18247898398066850261",
+      "cites_id": [
+        "18247898398066850261"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Producing Cu-loaded algae for feeding experiments: effects of copper on Parachlorella kessleri",
+        "pub_year": "2011",
+        "citation": "Toxicological & Environmental Chemistry 93 (3), 537-548, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10204034546163223097",
+      "cites_id": [
+        "10204034546163223097"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combined effects of copper and cadmium on Chlorella pyrenoidosa H.Chick: subcellular accumulation, distribution, and growth inhibition",
+        "pub_year": "2017",
+        "citation": "Toxicological & Environmental Chemistry 99 (9-10), 1368-1377, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13343785409556905098",
+      "cites_id": [
+        "13343785409556905098"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microplastic pollution in the inlet and outlet networks of Rawa Jombor Reservoir: Accumulation in aquatic fauna, interactions with heavy metals, and health risk assessment",
+        "pub_year": "2022",
+        "citation": "Environment and Natural Resources Journal 20 (2), 192-208, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:4TOpqqG69KYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5685812429208821356",
+      "cites_id": [
+        "5685812429208821356"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sugiyarto. 2015",
+        "citation": "Kajian perilaku kera ekor panajang (macaca fascicularis) dan lutung \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:r0BpntZqJG4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10912817935406670193",
+      "cites_id": [
+        "10912817935406670193"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of copper exposure on calcium, carbohydrate, and protein levels in the freshwater mussel Anodonta anatina",
+        "pub_year": "2012",
+        "citation": "Toxicological & Environmental Chemistry 94 (1), 99-108, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6835086732879581234",
+      "cites_id": [
+        "6835086732879581234"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Tofu Wastewater and pH on the Growth Kinetics and Biomass Composition of Euglena sp.",
+        "pub_year": "2023",
+        "citation": "Current Applied Science and Technology, 10.55003/cast. 2022.02. 23.010 (16 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3638527975158186306",
+      "cites_id": [
+        "3638527975158186306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant Dispersal at Bangka Post-Tin Mining Revegetated Land Correlated with Soil Chemical Physical Properties and Heavy Metal Distribution",
+        "pub_year": "2022",
+        "citation": "International Conference on Sustainable Environment, Agriculture and Tourism \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3340311556282185936",
+      "cites_id": [
+        "3340311556282185936"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioakumulasi Timbal (Pb) Pada Makroalga Padina australis Hauck Di Perairan Laut Kota Makassar, Sulawesi Selatan",
+        "pub_year": "2020",
+        "citation": "Bioma 20 (2020), 8-14, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:-f6ydRqryjwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7820824252815234449",
+      "cites_id": [
+        "7820824252815234449"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of chitosan of shrimp Penaeus sp. as cadmium adsorbent",
+        "pub_year": "2014",
+        "citation": "Toxicological & Environmental Chemistry 96 (7), 1029-1033, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1806224316628054504",
+      "cites_id": [
+        "1806224316628054504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochemical responses and DNA damage of Chlorella pyrenoidosa H. Chick upon exposure to combined Cu and Cd at environmentally realistic levels",
+        "pub_year": "2020",
+        "citation": "Environment and Natural Resources Journal, 290-303, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13663178154925893494",
+      "cites_id": [
+        "13663178154925893494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECTS OF CHROMIUM ON CHLOROPHYLL-a, CARBOHYDRATE AND PROTEIN CONTENTS IN Tetraselmis sp. (Butcher 1959)",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 556-556, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14245021195280091735",
+      "cites_id": [
+        "14245021195280091735"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Residues of non-phthalate plasticizers in seawater and sediments from Osaka Bay, Japan",
+        "pub_year": "2024",
+        "citation": "Marine Pollution Bulletin 199, 115947, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3817942513618310829",
+      "cites_id": [
+        "3817942513618310829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Literature review and experiment: Diversity of bacteria in forest, revegetated post-mining land, and active tin mining with a metagenomic approach",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Science and Technology 8 (1), 19-48, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14082866432625885788",
+      "cites_id": [
+        "14082866432625885788"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Accumulation of Microplastics and Histological Analysis on Marine Fish from Coastal Waters of Baru and Trisik Beaches, Special Region of Yogyakarta: 10.32526/ennrj/21/202200207",
+        "pub_year": "2023",
+        "citation": "Environment and Natural Resources Journal 21 (2), 153-170, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11350009193557818344",
+      "cites_id": [
+        "11350009193557818344"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical and Histochemical Responses of Vetiver Grass (Chrysopogon zizanioides L. Roberty) to Phytoremediation Ability of Liquid Batik Waste: 10.32526/ennrj/20/202100232",
+        "pub_year": "2022",
+        "citation": "Environment and Natural Resources Journal 20 (4), 359-368, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15293735517297304748",
+      "cites_id": [
+        "15293735517297304748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioakumulasi ion tembaga pada ikan nila (Oreochromis niloticus L.) di Instalasi Pengolahan Air Limbah (IPAL), Bantul",
+        "pub_year": "2019",
+        "citation": "Akuatika Indonesia 4 (2), 57-64, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3651878745459757065",
+      "cites_id": [
+        "3651878745459757065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEK LAJU KARBONDIOKSIDA (CO\u2082) TERHADAP MORFOLOGI DAN LAJU PERTUMBUHAN POPULASI Spirulina platensis (Gomont)[The Effect Of Carbon Dioxide (Co\u2082) Rate To The Morphology And The \u2026",
+        "pub_year": "2017",
+        "citation": "Journal Penelitian Kehutanan FALOAK 1 (2), 75-84, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9028971984847861356",
+      "cites_id": [
+        "9028971984847861356"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Active biomonitoring in streams by using multimarker approaches of mussels",
+        "pub_year": "2024",
+        "citation": "Global Journal of Environmental Science and Management 10 (3), 1171-1196, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12505194857294837007",
+      "cites_id": [
+        "12505194857294837007"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Individual and Combined Effects of Pesticides with Active Ingredients of Mancozeb and Methomyl on the DNA Damage of Daphnia magna (Straus, 1820; Cladocera, Daphniidae): 10 \u2026",
+        "pub_year": "2023",
+        "citation": "Environment and Natural Resources Journal 21 (4), 333-344, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:HDshCWvjkbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6770155771853137670",
+      "cites_id": [
+        "6770155771853137670"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution Analysis of Asiatic Palm Weevil Rhynchophorus vulneratus Panzer (Coleoptera: Dryphthoridae) using GIS Technique and the Interaction with Coconut Beetle Oryctes \u2026",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (5), 918-926, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10684086670500367816",
+      "cites_id": [
+        "10684086670500367816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrated assessment of biomarker responses in algae Chlorella sorokiniana exposed to copper and cadmium",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (8), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4322652027879448319",
+      "cites_id": [
+        "4322652027879448319"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioaccumulation of Lead (Pb) in the macroalgae Padina australis Hauck in Makassar Marine Waters, South Sulawesi, Indonesia",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 380 (1), 012021, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:8k81kl-MbHgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7798245647139708488",
+      "cites_id": [
+        "7798245647139708488"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECTS OF CHROMIUM (Cr) ON FRESHWATER MUSSEL Anodonta woodiana (Lea, 1834): DISTRIBUTION, BIOACCUMULATION, AND GENOMIC DNA \u2026",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 180-180, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3179686142447040845",
+      "cites_id": [
+        "3179686142447040845"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Butterflies (Order: Lepidoptera) in Pondok Ambung, Tanjung Puting National Park, Kalimantan Tengah",
+        "pub_year": "2024",
+        "citation": "Jurnal Biologi Tropis 24 (1), 572-578, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CO2 Uptake and Domestic Wastewater Treatment by Chlorella vulgaris",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1313 (1), 012007, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Salinity on The Growth and Fatty Acids Production of Euglena sp. Local Strain from Dieng Plateau, Indonesia",
+        "pub_year": "2023",
+        "citation": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology 18 (3 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salinity Induced the Growth and Proximate Composition of Euglena sp., Local Strain from Dieng, Indonesia",
+        "pub_year": "2023",
+        "citation": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology 18 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian kualitas air dan strategi pengelolaan Rawa Jombor, Klaten, Jawa Tengah",
+        "pub_year": "2023",
+        "citation": "Jurnal Teknosains 13 (1), 31-45, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytoremediation of nickel by Paraserianthes falcataria with varying levels of manure",
+        "pub_year": "2023",
+        "citation": "Jurnal Biolokus: Jurnal Penelitian Pendidikan Biologi dan Biologi 6 (1), 88-95, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combined Effect of Pesticides Containing Active Ingredients of Chlorpyrifos and Mancozeb on the DNA Damage of Chlorella Sorokiniana Shihira and Krauss",
+        "pub_year": "2022",
+        "citation": "Jurnal Pendidikan IPA Indonesia 11 (4), 640-648, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toxicity of Copper (Cu) and Chromium (Cr) on the Seed Germination of Mung Bean (Vigna radiata L.)",
+        "pub_year": "2022",
+        "citation": "Journal of Biotechnology and Natural Science 2 (2), 40-48, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil Contamination in Randukuning Landfill: Morpho-logical-Physiological Responses of Celosia argentea L. and Cleome rutidosperma",
+        "pub_year": "2022",
+        "citation": "DC Jurnal Biodjati 7 (2), 212-224, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Copper on Accumulation, Plant Growth, Superoxide Dismutase Activity and Total Phenolic Compounds in Paddy (Oryza sativa L. \u2018Cempo Merah\u2019) Leaves",
+        "pub_year": "2018",
+        "citation": "Proceeding of the 2nd International Conference on Tropical Agriculture, 195-203, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Akumulasi Mn dalam Cairan Tubuh Ligumia nasuta (Say, 1817) di Sungai Ciputri Bandung Jawa Barat",
+        "pub_year": "2016",
+        "citation": "BIO-SITE| Biologi dan Sains Terapan 2 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECTS OF CHROMIUM ON PROTEIN AND CARBOHYDRATE LEVELS IN THE MANTLE OF FRESHWATER MUSSEL Anodonta woodiana (Lea, 1834)",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 667-669, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AKUMULASI Mn PADA KERANG Ligumia nasuta (Say, 1817) DI SUNGAI CIPUTRI, BANDUNG, JAWA BARAT",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Copper Exposure of Freshwater Mussels (Anodonta anatina): Some Physiological Effects",
+        "pub_year": "2012",
+        "citation": "PQDT-Global, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of copper on freshwater mussels: Distribution, bioaccumulation, and effects on calcium homeostasis",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiple effects of copper on the freshwater mussel Anodonta anatina",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan algae coklat (Sargassum sp) untuk penurunan kandungan kadmium dalam ren tikus putih (Rattus norwegicus L) yang terdedah CdCl2",
+        "pub_year": "2004",
+        "citation": "Berkala Ilmiah Biologi. 2004 Juni; 3 (3), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INDEKS PENULIS VOLUME 31",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek Kadmium (Cd) pada Kandungan Kalsium (Ca) Insang dan Ginjal Kerang Air Tawarelongaria Orientalis (Lea, 1840)",
+        "citation": "Proceeding Biology Education Conference: Biology, Science, Enviromental, and \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioakumulasi Kadmium (Cd) Pada Mantel, Insang, Dan Ginjal Kerang Air Tawar Elongaria Orientalis (Lea, 1840)",
+        "citation": "Proceeding Biology Education Conference: Biology, Science, Enviromental, and \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT of CADMIUM (CD) ACCUMULATION on PROTEIN LEVELS of GILLS and KIDNEYS FRESHWATER MUSSEL Elongaria orientalis (LEA, 1840)",
+        "citation": "Exploration and Conservation of Biodiversity, 75, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of Mangrove Crab (Scylla sp.) shell chitosan as heavy metal lead (Pb) adsorbent",
+        "citation": "IBSC2014 proceedings are published in electronic form only. There is no \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Yk9_c94AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

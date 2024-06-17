@@ -1,0 +1,2858 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "-FqY7JcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Endang Semiarti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-FqY7JcAAAAJ&citpid=2",
+  "affiliation": "Professor of Plant Tissue Culture/Plant Biotechnology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant Biotechnology",
+    "Genetic Engineering",
+    "Orchidology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 2181,
+  "citedby5y": 927,
+  "hindex": 18,
+  "hindex5y": 16,
+  "i10index": 34,
+  "i10index5y": 30,
+  "cites_per_year": {
+    "1999": 7,
+    "2000": 8,
+    "2001": 16,
+    "2002": 35,
+    "2003": 56,
+    "2004": 48,
+    "2005": 58,
+    "2006": 56,
+    "2007": 73,
+    "2008": 63,
+    "2009": 57,
+    "2010": 83,
+    "2011": 66,
+    "2012": 98,
+    "2013": 85,
+    "2014": 58,
+    "2015": 66,
+    "2016": 92,
+    "2017": 76,
+    "2018": 135,
+    "2019": 91,
+    "2020": 154,
+    "2021": 201,
+    "2022": 206,
+    "2023": 184,
+    "2024": 89
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3rq47_kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aziz Purwantoro",
+      "affiliation": "Faculty of Agriculture, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "71K8_hoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rindang Dwiyani",
+      "affiliation": "Lecturer at Faculty of Agriculture, Udayana University, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "oZmVTc8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ixora Sartika Mercuriani",
+      "affiliation": "Universitas Negeri Yogyakarta"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8U74n-sAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jaka Widada",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Xcc3n5QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hasebe Mitsuyasu",
+      "affiliation": "National Institute for Basic Biology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IDgASZ4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Stalis Norma Ethica",
+      "affiliation": "Medical Laboratory Science, Postgraduate Program, UNIMUS"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nj2ZDI4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tri Joko Raharjo",
+      "affiliation": "Department of Chemsitry Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "oy8eji8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sulastri Isminingsih",
+      "affiliation": "universitas sultan ageng tirtayasa"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cN94q3EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "edy setiti wida utami",
+      "affiliation": "AIRLANGGA UNIVERSITY"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "g9fVw3wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agus Slamet (https://orcid.org/0000-00...",
+      "affiliation": "Universitas Muhammadiyah Buton"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "k6rqHswAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Taryono Taryono",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6JhjMmgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Fitri Nadifah",
+      "affiliation": "Prodi D3 Analis STIKES Guna Bangsa Yogyakarta"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LQacaM0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "sismindari",
+      "affiliation": ""
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ASYMMETRIC LEAVES2 gene of Arabidopsis thaliana regulates formation of a symmetric lamina, establishment of venation and repression of meristem \u2026",
+        "pub_year": "2001",
+        "citation": "Development 128 (10), 1771-1783, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:yD5IFk8b50cC",
+      "num_citations": 529,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11439871334314753353",
+      "cites_id": [
+        "11439871334314753353"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ASYMMETRIC LEAVES2 Gene of Arabidopsis thaliana, Required for Formation of a Symmetric Flat Leaf Lamina, Encodes a Member of a Novel Family of \u2026",
+        "pub_year": "2002",
+        "citation": "Plant and Cell Physiology 43 (5), 467-478, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:f2IySw72cVMC",
+      "num_citations": 446,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12302733444099934430",
+      "cites_id": [
+        "12302733444099934430"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of the ASYMMETRIC LEAVES2 gene in the adaxial domain of Arabidopsis leaves represses cell proliferation in this domain and is critical for the \u2026",
+        "pub_year": "2007",
+        "citation": "The Plant Journal 51 (2), 173-184, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Mojj43d5GZwC",
+      "num_citations": 217,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18348963351992381018",
+      "cites_id": [
+        "18348963351992381018"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of the transposition pattern of the Ac element in Arabidopsis thaliana using endonuclease\u2009I-SceI",
+        "pub_year": "1997",
+        "citation": "Proceedings of the National Academy of Sciences 94 (16), 8675-8680, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 82,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=227329437248284821",
+      "cites_id": [
+        "227329437248284821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated transformation of the wild orchid species Phalaenopsis amabilis",
+        "pub_year": "2007",
+        "citation": "Plant Biotechnology 24 (3), 265-272, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:olpn-zPbct0C",
+      "num_citations": 77,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18160900180926658837",
+      "cites_id": [
+        "18160900180926658837"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of thidiazuron on direct somatic embryo formation from various types of explant in Phalaenopsis amabilis (L.) blume orchid",
+        "pub_year": "2017",
+        "citation": "Hayati journal of Biosciences 24 (4), 201-205, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5575751413583764500",
+      "cites_id": [
+        "5575751413583764500"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi anggrek alam Indonesia Vanda tricolor Lindl. varietas Suavis melalui kultur embrio secara in-vitro",
+        "pub_year": "2012",
+        "citation": "Jurnal Bumi Lestari 12 (1), 93-98, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:J-pR_7NvFogC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17931340969871554405",
+      "cites_id": [
+        "17931340969871554405"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "High-frequency genetic transformation of Phalaenopsis amabilis orchid using tomato extract-enriched medium for the pre-culture of protocorms",
+        "pub_year": "2010",
+        "citation": "The Journal of Horticultural Science and Biotechnology 85 (3), 205-210, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16671746093884162988",
+      "cites_id": [
+        "16671746093884162988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of somatic embryogenesis through overexpression of ATRKD4 genes in Phalaenopsis \u201cSogo Vivien\u201d",
+        "pub_year": "2015",
+        "citation": "Indonesian journal of biotechnology 20 (1), 42-53, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3505315411625788753",
+      "cites_id": [
+        "3505315411625788753"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotypic and phenotypic characterization of Alcaligenes javaensis JG3 potential as an effective biodegrader",
+        "pub_year": "2022",
+        "citation": "BIOTROPIA, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11792088708298284034",
+      "cites_id": [
+        "11792088708298284034"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of moaC and a nontarget gene fragments of food\u2010borne pathogen Alcaligenes sp. JG3 using degenerate colony and arbitrary PCRs",
+        "pub_year": "2017",
+        "citation": "Journal of food safety 37 (4), e12345, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6674790449721961122",
+      "cites_id": [
+        "6674790449721961122"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative evaluation of conventional versus rapid methods for amplifiable genomic DNA isolation of cultured Azospirillum sp. JG3",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Chemistry 13 (3), 248-253, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11417834640166870814",
+      "cites_id": [
+        "11417834640166870814"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan kecepatan pertumbuhan embrio anggrek Vanda tricolor Lindl. pada medium diperkaya dengan ekstrak tomat",
+        "pub_year": "2009",
+        "citation": "Prosiding Bioteknologi, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7983662050148274878",
+      "cites_id": [
+        "7983662050148274878"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Micropropagation of Dendrobium phalaenopsis orchid through overexpression of embryo gene AtRKD4",
+        "pub_year": "2018",
+        "citation": "AGRIVITA Journal of Agricultural Science 40 (2), 284-294, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4655499912845054166",
+      "cites_id": [
+        "4655499912845054166"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peptone and tomato extract induced early stage of embryo development of Dendrobium phalaenopsis Orchid",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 1 (2), 77-84, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11160772705973715330",
+      "cites_id": [
+        "11160772705973715330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Amplification of Azospirillum sp. JG3 glpd gene fragment using degenerate primers generated by web-based tools",
+        "pub_year": "2013",
+        "citation": "The Journal of Microbiology, Biotechnology and Food Sciences 3 (3), 231, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13264499130084395654",
+      "cites_id": [
+        "13264499130084395654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Cahaya dan Temperatur terhadap Pertumbuhan Tunas dan Profil Protein Tanaman Anggrek Phalaenopsis amabilis Transgenik Pembawa Gen Ubipro:: PaFT",
+        "pub_year": "2016",
+        "citation": "Bioeksperimen: Jurnal Penelitian Biologi 2 (2), 76-90, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:35N4QoGY0k4C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9712956492746242161",
+      "cites_id": [
+        "9712956492746242161"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated transformation of Indonesian orchids for micropropagation",
+        "pub_year": "2011",
+        "citation": "Genetic Transformation, 215-240, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:NhqRSupF_l8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13009557431435949143",
+      "cites_id": [
+        "13009557431435949143"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Direct Somatic Embryogenesis and Regeneration of an Indonesian orchid Phalaenopsis amabilis (L.) Blume under a Variety of Plant Growth Regulators, Light Regime, and Organic \u2026",
+        "pub_year": "2020",
+        "citation": "Jordan Journal of Biological Sciences 13 (4), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16931159657884313574",
+      "cites_id": [
+        "16931159657884313574"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of CRISPR/Cas9 genome editing system for molecular breeding of orchids",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Biotechnology 25 (1), 61-68, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980159518272075448",
+      "cites_id": [
+        "6980159518272075448"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Orchid biotechnology for Indonesian orchids conservation and industry",
+        "pub_year": "2018",
+        "citation": "AIP conference proceedings 2002 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17985137633369125812",
+      "cites_id": [
+        "17985137633369125812"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and biochemical responses of Saccharum spontaneum L. accessions to drought stress",
+        "pub_year": "2014",
+        "citation": "Journal of Tropical Life Science 4 (1), 61-66, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5046021463595002441",
+      "cites_id": [
+        "5046021463595002441"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tolerance of accessions of glagah (Saccharum spontaneum) to drought stress and their accumulation of proline.",
+        "pub_year": "2013",
+        "citation": "American Journal of Agricultural and Biological Sciences 8 (1), 1-11, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13025434628158791982",
+      "cites_id": [
+        "13025434628158791982"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture of orchids: The roles of class-1 Knox gene in shoot development",
+        "pub_year": "2014",
+        "citation": "Berkala Penelitian Hayati 20 (1), 18-27, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14473865691820307723",
+      "cites_id": [
+        "14473865691820307723"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biotechnology Approaches on Characterization, Mass Propagation, and Breeding of Indonesian Orchids Dendrobium lineale (Rolfe.) and Vanda tricolor (Lindl \u2026",
+        "pub_year": "2020",
+        "citation": "Orchids Phytochemistry, Biology and Horticulture: Fundamentals and \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:WbkHhVStYXYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14701983255973286111",
+      "cites_id": [
+        "14701983255973286111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan awal protocorm anggrek Phalaenopsis amabilis secara in vitro setelah penambahan zat pengatur tumbuh \u03b1-naphtaleneacetic acid dan thidiazuron",
+        "pub_year": "2017",
+        "citation": "Biosfera 34 (1), 9-14, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7242570608358762989",
+      "cites_id": [
+        "7242570608358762989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of genetic variability in seedlings of Spathoglottis plicata orchids through X-ray irradiation",
+        "pub_year": "2017",
+        "citation": "Biodiversitas Journal of Biological Diversity 18 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:eflP2zaiRacC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17018970372442188878",
+      "cites_id": [
+        "17018970372442188878"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman anggrek di Daerah Istimewa Yogyakarta",
+        "pub_year": "2018",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 4 (1), 63-68, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:tOudhMTPpwUC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11217292070475329336",
+      "cites_id": [
+        "11217292070475329336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INDUCTION OF IN VITRO FLOWERING OF INDONESIAN WILD ORCHID, Phalaenopsis amabilis (L.) Blume",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 398-404, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:blknAaTinKkC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1579726611942944876",
+      "cites_id": [
+        "1579726611942944876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pesona kecantikan anggrek vanda",
+        "pub_year": "2009",
+        "citation": "Penerbit Kanisius 1 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11951468029348869230",
+      "cites_id": [
+        "11951468029348869230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Micropropagation of sandalwood (Santalum album L.) endemic plant from East Nusa Tenggara, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP conference proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11272964205795222691",
+      "cites_id": [
+        "11272964205795222691"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi anggrek hitam (Coelogyne pandurata Lindl.) melalui mikropropagasi pada berbagai medium kultur",
+        "pub_year": "2016",
+        "citation": "Prosiding Simposium Nasional Pendidikan Biologi (Symbion 2016) 27, 393-404, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:roLk4NBRz8UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1745605525266173684",
+      "cites_id": [
+        "1745605525266173684"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Important role of mycorrhiza for seed germination and growth of Dendrobium orchids",
+        "pub_year": "2021",
+        "citation": "J Trop Biodiv Biotech 6 (2), jtbb60805, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13222124923082861336",
+      "cites_id": [
+        "13222124923082861336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated transformation facillitates the CRISPR/Cas9 genome editing system in Dendrobium macrophyllum A. Rich orchid",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17581653446950068900",
+      "cites_id": [
+        "17581653446950068900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of an agrobacterium-delivered CRISPR/Cas9 for Phalaenopsis amabilis (L.) Blume genome editing system",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8267536812530956892",
+      "cites_id": [
+        "8267536812530956892"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Micropropagation of mini orchid hybrid Phalaenopsis \u201cSogo Vivien\u201d",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 1 (1), 45-53, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:1qzjygNMrQYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17740261470295153781",
+      "cites_id": [
+        "17740261470295153781"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential production of Aromatic Compounds in Flowers of Vanda tricolor",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=240588181202228663",
+      "cites_id": [
+        "240588181202228663"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callus induction from various organs of dragon fruit, apple and tomato on some mediums.",
+        "pub_year": "2017",
+        "citation": "Pakistan Journal of Biological Sciences: PJBS 20 (5), 244-252, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:abG-DnoFyZgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12839675830327919505",
+      "cites_id": [
+        "12839675830327919505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kebutuhan inovasi dalam pengembangan industri anggrek yang berdaya saing dan berbasis sumber daya lokal",
+        "pub_year": "2012",
+        "citation": "Prosiding Seminar Nasional Anggrek, 21-28, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:bnK-pcrLprsC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18114619387615931481",
+      "cites_id": [
+        "18114619387615931481"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The expression analysis of AtRKD4 transgene in Dendrobium lineale Rolfe transgenic orchid carrying 35S:: GR:: AtRKD4 for micropropagation",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:u_35RYKgDlwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10976513062547655188",
+      "cites_id": [
+        "10976513062547655188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity of wild orchids in the southern slope of Mount Merapi, Yogyakarta, Indonesia eight years after the 2010 eruption",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (9), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=264673905076427631",
+      "cites_id": [
+        "264673905076427631"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEPTON TERHADAP PERTUMBUHAN EMBRIO ANGGREK Vanda tricolor Lindley var. Suasiv ASAL MERAPI SECARA IN VITRO",
+        "pub_year": "2018",
+        "citation": "Scripta Biologica 5 (1), 47-50, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:dhFuZR0502QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5765026156002367379",
+      "cites_id": [
+        "5765026156002367379"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH THIDIAZURON DAN NAPHTALENE ACETIC ACID UNTUK INDUKSI EMBRIOGENESIS SOMATIK DARI DAUN ANGGREK Phalaenopsis \u201cSogo Vivien\u201d",
+        "pub_year": "2017",
+        "citation": "Journal of Mathematics and Natural Sciences 7 (1), 31-40, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Se3iqnhoufwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13722905946837559443,17672367522755834559",
+      "cites_id": [
+        "13722905946837559443",
+        "17672367522755834559"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Overexpression of PaFT gene in the wild orchid Phalaenopsis amabilis (L.) Blume",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12834341227351362349",
+      "cites_id": [
+        "12834341227351362349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Genetik Anggrek Alam Phalaenopsis amabilis (L.) Blume Hasil Iradiasi Sinar Gamma",
+        "pub_year": "2013",
+        "citation": "Jurnal Ilmiah Aplikasi Isotop dan Radiasi 8 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1280825968495336288",
+      "cites_id": [
+        "1280825968495336288"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variation of natural orchid phalaenopsis amabilis (L.) blume produce gamma ray irradiation; Variasi genetik anggrek alam phalaenopsis amabilis (L.) blume hasil iradiasi \u2026",
+        "pub_year": "2012",
+        "citation": "Jurnal Ilmiah Aplikasi Isotop dan Radiasi 8, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:t6usbXjVLHcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15849791019736612125",
+      "cites_id": [
+        "15849791019736612125"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Embriogenesis somatik anggrek bulan Phalaenopsis amabilis (L.) Bl: struktur dan pola perkembangan",
+        "pub_year": "2007",
+        "citation": "Berkala Penelitian Hayati 13 (1), 33-38, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:lSLTfruPkqcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9384597437554864552",
+      "cites_id": [
+        "9384597437554864552"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Anticancer Bioactive Compounds and Cytotoxicity of Citrus hystrix Dc. Callus Extract Post Preservation.",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Pharmacy/Majalah Farmasi Indonesia 32 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Ug5p-4gJ2f0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6017300112468080306",
+      "cites_id": [
+        "6017300112468080306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The expression of AtRKD4 transgene during induction of somatic embryogenesis in transgenic Dendrobium phalaenopsis orchid carrying 35S:: GR:: AtRKD4",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362192652967030532",
+      "cites_id": [
+        "7362192652967030532"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenotypic and molecular characterization of multishoots development in transgenic Phalaenopsis Amabilis (L.) Blume harboring 35S:: KNAT1 (KNOTTED-LIKE Arabidopsis thaliana 1)",
+        "pub_year": "2018",
+        "citation": "Biotropia 25 (1), 11-21, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10655591684975684385",
+      "cites_id": [
+        "10655591684975684385"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Roles of the ASYMMETRIC LEAVES2 gene in floral organ development in Arabidopsis thaliana",
+        "pub_year": "2012",
+        "citation": "Plant Biotechnology 29 (1), 1-8, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:XiVPGOgt02cC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18143982492551733338",
+      "cites_id": [
+        "18143982492551733338"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenotypic variation and genetic alteration of Spathoglottis plicata resulted from in vitro cultured seed irradiated with X-Ray",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (5), 1642-1648, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5253692064128808607",
+      "cites_id": [
+        "5253692064128808607"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformasi gen pembungaan melalui Agrobacterium tumefaciens secara in-vitro pada tanaman anggrek Vanda tricolor",
+        "pub_year": "2016",
+        "citation": "Agrotrop J. Agric. Sci 6 (1), 83-89, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:5awf1xo2G04C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13919607815529723987",
+      "cites_id": [
+        "13919607815529723987"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of genetic transformation efficiency in Vanda tricolor orchid using acetosyringone",
+        "pub_year": "2010",
+        "citation": "ANNALES BOGORIENSES 14 (2), 27-32, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:HE397vMXCloC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18264369508181795657",
+      "cites_id": [
+        "18264369508181795657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The transposition pattern of the Ac element in tobacco cultured cells",
+        "pub_year": "2001",
+        "citation": "Genes & genetic systems 76 (2), 131-139, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:_kc_bZDykSQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3578986971332325761",
+      "cites_id": [
+        "3578986971332325761"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro germination and flowering of Dendrobium capra JJ smith, an endemic orchid of java",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (2), 172-172, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17529441417391225209",
+      "cites_id": [
+        "17529441417391225209"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Study of Secondary Metabolite in Vanilla planifolia to inhibit NUDT5 as Breast Cancer Target",
+        "pub_year": "2021",
+        "citation": "Nusantara Science and Technology Proceedings, 31-37, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ye4kPcJQO24C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5677407874606658259",
+      "cites_id": [
+        "5677407874606658259"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction and growth kinetics callus of tomato (Solanum lycopersicum)",
+        "pub_year": "2020",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 12 (1), 35-41, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11276852961128155535",
+      "cites_id": [
+        "11276852961128155535"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture and characterization of the HSP70 gene on Vanda tricolor Lindley var. Suavis \u2018Queen Maxima\u2019",
+        "pub_year": "2020",
+        "citation": "BIO web of conferences 28, 03004, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9552398698432457599",
+      "cites_id": [
+        "9552398698432457599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Innovation of Natural Orchid Cultivation Technology for Tourism Development in Banyunganti Hamlet, Jatimulyo Village, Girimulyo Sub-District, Kulon Progo District, Yogyakarta",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (3), 178-182, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:SdhP9T11ey4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3066546436030959611",
+      "cites_id": [
+        "3066546436030959611"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of microspore embryogenesis of eggplant (Solanum melongena L.)\u2018Gelatik\u2019",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (02), 124-131, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:70eg2SAEIzsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10154191085700664708",
+      "cites_id": [
+        "10154191085700664708"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and conservation strategy of orchids under anthropogenic influence in Taman Wisata Alam Curug Setawing, Yogyakarta",
+        "pub_year": "2018",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 4 (2), 173-177, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:BqipwSGYUEgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8575505345292634755",
+      "cites_id": [
+        "8575505345292634755"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh \u03b1-Naphtaleneacetic Acid (NAA) Terhadap Embriogenesis Somatik Anggrek Bulan Phalaenopsis Amabilis (L.) Bl",
+        "pub_year": "2007",
+        "citation": "Biodiversitas 8 (4), 295-299, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:5nxA0vEk-isC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1962415809374597383",
+      "cites_id": [
+        "1962415809374597383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Asymmetric Leaves2 (AS2) Gene of Arabidopsis Thaliana Regulates Lamina Formation and is Required for Patterning of Leaf Venation",
+        "pub_year": "2001",
+        "citation": "Progress in Biotechnology 18, 63-68, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16357986556994599983",
+      "cites_id": [
+        "16357986556994599983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stability of T-DNA integration in Phalaenopsis \u201cSogo Vivien\u201d transgenic orchid carrying 35S:: Gal4:: AtRKD4:: GR",
+        "pub_year": "2018",
+        "citation": "Biology, Medicine, & Natural Product Chemistry 7 (1), 5-13, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=309841515467616656",
+      "cites_id": [
+        "309841515467616656"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Peptone on Embryo Development of Orchid During In Vitro Culture",
+        "pub_year": "2017",
+        "citation": "Proceeding of the 1st International Conference on Tropical Agriculture, 85-93, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12739379347849318879",
+      "cites_id": [
+        "12739379347849318879"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Micropropagation of Orchid Carrying Knotted1? Like from Arabidopsis thaliana (Knat1) Gene",
+        "pub_year": "2015",
+        "citation": "Plant Tissue Culture and Biotechnology 25 (1), 13-20, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10700107186512779727",
+      "cites_id": [
+        "10700107186512779727"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sintesis Protein Selama Embriogenesis Somatik Anggrek Bulan Phalaenopsis amabilis (L.)",
+        "pub_year": "2007",
+        "citation": "Biodiversitas 8, 188-191, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:IWHjjKOFINEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6038777918372785502",
+      "cites_id": [
+        "6038777918372785502"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of the R-RS Site-Specific Recombination System in Plants",
+        "pub_year": "2000",
+        "citation": "Plant Molecular Biology Manual, 117-141, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16997497192991085731",
+      "cites_id": [
+        "16997497192991085731"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of early flowering mutant gene in Phalaenopsis amabilis (L.) Blume for sgRNA construction in CRISPR/Cas9 genome editing system",
+        "pub_year": "2023",
+        "citation": "Brazilian Journal of Biology 84, e268133, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:MLfJN-KU85MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=395190214459724525",
+      "cites_id": [
+        "395190214459724525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical studies and evaluation of genetic stability in plantlets derived from somatic embryos of Arabica coffee",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (3), 510-521, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:p__nRnzSRKYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=117452341948965413",
+      "cites_id": [
+        "117452341948965413"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of an efficient primary callus induction for embryogenic potential of Coffea arabica",
+        "pub_year": "2022",
+        "citation": "Pelita Perkebunan (a Coffee and Cocoa Research Journal) 38 (2), 108-119, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:vDijr-p_gm4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11194943261126621024",
+      "cites_id": [
+        "11194943261126621024"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimalisasi Pemanfaatan Teknik Kultur Jaringan Tumbuhan Dalam Mendukung SDGs 2030 Melalui Sains dan Entrepreneurship",
+        "pub_year": "2022",
+        "citation": "Seminar Nasional Sains dan Entrepreneurship, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:BUYA1_V_uYcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6168804849756199005",
+      "cites_id": [
+        "6168804849756199005"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Culture of Phalaenopsis amabilis (L.) Blume Orchid for Seedling Production with Banana Extract Supplementation and Light Treatment for Ex Situ Conservation",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (3), 70868, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2855137323593069434",
+      "cites_id": [
+        "2855137323593069434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic transformation via plant tissue culture techniques: Current and future approaches",
+        "pub_year": "2022",
+        "citation": "Advances in Plant Tissue Culture, 131-156, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:zLWjf1WUPmwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8870393412337178733",
+      "cites_id": [
+        "8870393412337178733"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture of Dendrobium lineale Rolfe orchid for plant breeding and propagation",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 913 (1), 012066, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:tKAzc9rXhukC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7523996153374700927",
+      "cites_id": [
+        "7523996153374700927"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Anticancer Bioactive Compounds and Cytotoxicity of Kaffir Lime (Citrus hystrix Dc.) Callus Extract Post Preservation",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Pharmacy, 179-192, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4215782042305451657",
+      "cites_id": [
+        "4215782042305451657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytoprotective activity of tomato and carrot callus on human dermal fibroblast adult (HDFa)",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2099 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13648316222790504850",
+      "cites_id": [
+        "13648316222790504850"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro shoot induction from intact protocorm and early stage development in Dendrobium phalaenopsis",
+        "pub_year": "2018",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 4 (1), 20-27, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14505707547421490677",
+      "cites_id": [
+        "14505707547421490677"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi tunas dari protokorm intak dan fase awal perkembangan Dendrobium phalaenopsis secara in vitro",
+        "pub_year": "2018",
+        "citation": "Pros Sem Nas Masy Biodiv Indon 4 (1), 20-27, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:0EnyYjriUFMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15397797290034519476",
+      "cites_id": [
+        "15397797290034519476"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of Phalaenopsis amabilis L. blume orchid resistance to hygromycin",
+        "pub_year": "2012",
+        "citation": "Indonesian Journal of Biotechnology 17 (2), 107-113, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=97537247887833820",
+      "cites_id": [
+        "97537247887833820"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insertion of a Flowering gene, PaFT, into Phalaenopsis amabilis orchid using Agrobacterium tumefaciens",
+        "pub_year": "2012",
+        "citation": "5th Indonesia Biotechnology Conference, 152-161, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:geHnlv5EZngC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16214462118962873366",
+      "cites_id": [
+        "16214462118962873366"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi isolat Rhizoctonia sp. patogenik dan Rhizoctonia mikoriza pada tanaman anggrek tanah Spathoglottis plicata",
+        "pub_year": "2011",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 371-380, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8381945668492386553",
+      "cites_id": [
+        "8381945668492386553"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of high-frequency genetic transformation method of Indonesian orchid species mediated by Agrobacterium tumefaciens",
+        "pub_year": "2011",
+        "citation": "Proceedings of Nagoya International Orchid Congress, Japan, 32-39, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7180820569346760714",
+      "cites_id": [
+        "7180820569346760714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Genotip Hibrida hasil persilangan anggrek local Vanda tricolor Lindl var suavis asal Merapi dan Vanda Limbata Blume dengan PCR-RFLP pada daerah intergenerik trnL-F \u2026",
+        "pub_year": "2010",
+        "citation": "Seminar Nasional Biologi. Bidang Keaneka ragaman hayati, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11577190671884618846",
+      "cites_id": [
+        "11577190671884618846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan karakter morfologi dan molekuler Vanda tricolor Lindl. var suavis forma Merapi dan Vanda tricolor Lindl. var suavis forma Bali",
+        "pub_year": "2009",
+        "citation": "Proceeding of Seminar Nasional Biologi XX dan Kongres PBI XIV UIN Maliki \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:D_sINldO8mEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17009192231112970303",
+      "cites_id": [
+        "17009192231112970303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRODUKSI GALUR MURNI MELALUI INDUKSI EMBRIOGENIK MIKROSPORA CABAI MERAH BESAR DENGAN STRES",
+        "pub_year": "2004",
+        "citation": "Zuriat 15 (2), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7353243496430816635",
+      "cites_id": [
+        "7353243496430816635"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AS1 and AS2, which are required for the development of leaf shape and venation pattern, are the repressors of class 1-KNOX",
+        "pub_year": "2002",
+        "citation": "Plant Cell Physiol 43, S138, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5811365950491192065",
+      "cites_id": [
+        "5811365950491192065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maryani 2021. Effect of 2, 4-D and BAP on morphological characters and genetic stability of kaffir lime (Citrus hystrix DC.) callus cultures among generations. CMUJ",
+        "citation": "Nat. Sci 20 (3), e2021067, 0"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16402154111316628777",
+      "cites_id": [
+        "16402154111316628777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cell line screening and characterization of bioactive compounds from kaffir lime (Citrus hystrix DC.) cell suspension elicited by yeast and isopentenyl pyrophosphate.",
+        "pub_year": "2023",
+        "citation": "Science Asia 49 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:oNZyr7d5Mn4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13532410196898298874",
+      "cites_id": [
+        "13532410196898298874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and Molecular Characterization of Variegated-Leaf Pattern in Dendrobium \u2018Burana Green\u2019Based on the Structure of VAR2 Gene",
+        "pub_year": "2023",
+        "citation": "3rd International Conference on Smart and Innovative Agriculture (ICoSIA \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:kuK5TVdYjLIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17225185084916683231",
+      "cites_id": [
+        "17225185084916683231"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regeneration and development of Coffea arabica L. plants through indirect somatic embryogenesis",
+        "pub_year": "2023",
+        "citation": "Coffee Science-ISSN 1984-3909 18, e182078-e182078, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:vbGhcppDl1QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3011143057995401131",
+      "cites_id": [
+        "3011143057995401131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated transformation by using immerse and agroinfiltration method for genome editing of orchids with CRISPR/Cas9.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:L7CI7m0gUJcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3509182650685066454",
+      "cites_id": [
+        "3509182650685066454"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytological Analysis of Aerides odorata Lour. from Sleman, Special Region of Yogyakarta",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 545-552, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:yB1At4FlUx8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5776675671388521913",
+      "cites_id": [
+        "5776675671388521913"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Kaffir Lime (Citrus hystrix DC) Cell Line Derived from Seed Explant After Yeast Elicitation Using Pure and Technical Grade Yeast",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (1), 68650, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13751958804678011821",
+      "cites_id": [
+        "13751958804678011821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Floral morphology and chromosome characteristics of bamboo orchid from Menoreh Hills, Kulonprogo.",
+        "pub_year": "2021",
+        "citation": "Journal of Agricultural Sciences (Sri Lanka) 16 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9323574782018607989",
+      "cites_id": [
+        "9323574782018607989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure analysis of genes involved in flower color formation of the orchid Spathoglottis plicata Blume",
+        "pub_year": "2021",
+        "citation": "II International Symposium on Tropical and Subtropical Ornamentals 1334, 143-152, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18421368790211327183",
+      "cites_id": [
+        "18421368790211327183"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of putative RKD homologous gene with microspore embryogenesis in the local pigmented rice cultivar'Segreng'.",
+        "pub_year": "2021",
+        "citation": "SABRAO Journal of Breeding & Genetics 53 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:W5xh706n7nkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8754339404253869308",
+      "cites_id": [
+        "8754339404253869308"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stable transformant of Phalaenopsis amabilis somatic embryo carrying 35S:: AtRKD4 develops into normal phenotype of transgenic plant",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 6 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7423814566985637678",
+      "cites_id": [
+        "7423814566985637678"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenotype and genotype characterization of Phalaenopsis amabilis (L.) Blume Orchid Transformant Harboring Construct UBI:: Cas9:: U3:: PDS3",
+        "pub_year": "2020",
+        "citation": "Jurnal Hortikultura Indonesia 11 (3), 212-220, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:_Ybze24A_UAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14208348783179392885",
+      "cites_id": [
+        "14208348783179392885"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stability of AtRKD4 gene integration in the genome of Dendrobium phalaenopsis fitzg. Transformants induces somatic embryogenesis",
+        "pub_year": "2020",
+        "citation": "Propagation of Ornamental Plants 20 (4), 129-138, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:N5tVd3kTz84C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5174487805047853616",
+      "cites_id": [
+        "5174487805047853616"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developmental the pattern of embryogenic microspore of rice (Oryza sativa L.) based on morphological characteristic",
+        "pub_year": "2019",
+        "citation": "Berkala Penelitian Hayati 25 (1), 7-11, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10174870359887387427",
+      "cites_id": [
+        "10174870359887387427"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytoprotective activity of carrot and tomato callus extracts and the ex\u2010pression of cytokines in UV\u2010B irradiated fibroblast cells",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Biotechnology 24 (2), 94-100, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16734496964522642880",
+      "cites_id": [
+        "16734496964522642880"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Orchids diversity in Province of Yogyakarta",
+        "pub_year": "2018",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 4 (1), 63-68, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4803043681012640680",
+      "cites_id": [
+        "4803043681012640680"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of LEAFY homologous gene partial sequences from Dendrobium capra JJ Smith Endemic Orchid of Java Island",
+        "pub_year": "2018",
+        "citation": "Berkala Penelitian Hayati 23 (2), 53-56, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:08ZZubdj9fEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15112642966422914331",
+      "cites_id": [
+        "15112642966422914331"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROPAGASI Dendrobium stratiotes Rchb. f. DENGAN BENZILADENIN SECARA IN VITRO",
+        "pub_year": "2018",
+        "citation": "AGROSAINTIFIKA 1 (1), 14-21, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:sSrBHYA8nusC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15950813589560197939",
+      "cites_id": [
+        "15950813589560197939"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic expression of POH1 gene in shoot development during in vitro culture of Phalaenopsis orchid",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:P5F9QuxV20EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13201864278779816096",
+      "cites_id": [
+        "13201864278779816096"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Early detection of the orchid flowering gene PaFT1 in tobacco cells using a GFP reporter",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Biotechnology 21 (1), 12-21, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9253649203085668654",
+      "cites_id": [
+        "9253649203085668654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular characterization of natural orchid in South slopes of Mount Merapi, Sleman regency, Yogyakarta",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:u9iWguZQMMsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14304787130399126360",
+      "cites_id": [
+        "14304787130399126360"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan Vitamin C dan acetosyringone pada transformasi genetik anggrek Vanda tricolor Lindl. var. suavis melalui Agrobacterium tumefaciens",
+        "pub_year": "2012",
+        "citation": "Bionatura 14 (3), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14847601930792302618,2625740295750228512",
+      "cites_id": [
+        "14847601930792302618",
+        "2625740295750228512"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikropropagasi tanaman anggrek hitam Coelogyne pandurata Lindl. dengan penyisipan gen penumbuh tunas melalui Agrobacterium",
+        "pub_year": "2010",
+        "citation": "Seminar Nasional Biologi UGM, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10489004742581088567",
+      "cites_id": [
+        "10489004742581088567"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein synthesis during somatic embryogenesis of moon orchid Phalaenopsis amabilis (L.) Bl.",
+        "pub_year": "2007",
+        "citation": "Biodiversitas Journal of Biological Diversity 8 (3), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:a0OBvERweLwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11483909744437632280",
+      "cites_id": [
+        "11483909744437632280"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formation of a symmetric flat leaf lamina in Arabidopsis",
+        "pub_year": "2003",
+        "citation": "Morphogenesis and Pattern Formation in Biological Systems: Experiments and \u2026, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:k_IJM867U9cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7636119981744422502",
+      "cites_id": [
+        "7636119981744422502"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mutation of the VAR2 gene plays a role as one of the causes of leaf variegation in the moth orchid Phalaenopsis \u2018Sogo Vivien\u2019",
+        "pub_year": "2024",
+        "citation": "Horticulture, Environment, and Biotechnology, 1-12, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:HbR8gkJAVGIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of Chalcone Synthase (CHS) Gene in Variegated-Flower of Dendrobium'Enobi'and Phalaenopsis Hybrid Orchids",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (2), 382-391, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:PoWvk5oyLR8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of aquaporin-encoding gene from cassava (Manihot esculenta Crantz) genotype \u201cUbi Kuning\u201d induced by drought stress",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2972 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Dip1O2bNi0gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modification of In Vitro Culture Method of Paphiopedilum glaucophyllum for Callus Induction",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:S16KYo8Pm5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Approach for DNA Barcoding using Phylogenetic Analysis of Coelogyne spp. based on the mat K, rpo C1, rbc L and nrDNA Markers",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (3), 73130, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:WZBGuue-350C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Analysis of Phalaenopsis Orchid Homeobox1 (POH1) Functional Gene for Shoot Development in Phalaenopsis Orchid",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (3), 83934, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:-FonjvnnhkoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifica\u00e7\u00e3o do gene mutante de flora\u00e7\u00e3o precoce em Phalaenopsis amabilis (L.) Blume para constru\u00e7\u00e3o de sgRNA no sistema de edi\u00e7\u00e3o de genoma CRISPR/Cas9",
+        "pub_year": "2023",
+        "citation": "Brazilian Journal of Biology 84, e268133, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:lmc2jWPfTJgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Analysis of the Phalaemopsis amabilis FLOWERING TIME (PaFT) Gene Function",
+        "pub_year": "2023",
+        "citation": "3rd International Conference on Smart and Innovative Agriculture (ICoSIA \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:gsN89kCJA0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Automatic Dual Sequence Control Temporary Immersion Bioreactor Systems for Micropropagation Coelogyne pandurata Lindl.",
+        "pub_year": "2023",
+        "citation": "BIO Web of Conferences 80, 06002, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:SpbeaW3--B0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikropropagasi Coffea arabica L. Klon AS2K Melalui Embriogenesis Somatik dan Transformasi Genetik dengan Gen AtRKD4",
+        "pub_year": "2023",
+        "citation": "Universitas Gadjah Mada, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:e_rmSamDkqQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of AtRKD4 gene and induction of somatic embryo in transformant of Phalaenopsis amabilis carrying 35S:: GR:: AtRKD4",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:kz9GbA2Ns4gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of 2, 4-D, thidiazuron and BAP on calli induction of arabica coffee (Coffea arabica L.)",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1133 (1), 012010, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:4MWp96NkSFoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectivity of thidiazuron and 1\u2010naphthaleneacetic acid on somatic embryo induction in transgenic Dendrobium phalaenopsis Fitzg. carrying 35S:: GR:: AtRKD4",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Biotechnology 27 (3), 133-141, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:URolC5Kub84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENENTUAN TAHAP PERKEMBANGAN MIKROSPORA TERONG cv. Fabian UNTUK INDUKSI MIKROSPORA EMBRIOGENIK",
+        "pub_year": "2022",
+        "citation": "Prosiding Seminar Nasional Biologi dan Sains. Volume, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversitas dan Kekerabatan Fenetik Spesies Anggrek Alam di Kawasan Ekowisata Ayunan Langit, Kulonprogo",
+        "pub_year": "2022",
+        "citation": "Al-Kauniyah: Jurnal Biologi 15 (2), 277-289, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:KUbvn5osdkgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Transformation in Prokaryotic and Eukaryotic Cells",
+        "pub_year": "2022",
+        "citation": "Molecular Cloning, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of Vanda Orchid Homeobox Gene from Vanda tricolor var. Suavis Lindl. form Merapi",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 255-260, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of Dendrobium spp. Secondary Metabolites as Medicinal Source for SARS-CoV-2",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 424-430, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:nrtMV_XWKgEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Study of Secondary Metabolites in Dendrobium spp. as SARS-CoV-2 Antivirus on Main Protease (Mpro)",
+        "pub_year": "2022",
+        "citation": "Jurnal Riset Biologi dan Aplikasinya 4 (1), 19-25, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of Orchids Secondary Metabolites as Anti-Cancer and Antimicrobial Based on Prediction of Phytochemical Activity with Online PASS-Software",
+        "pub_year": "2022",
+        "citation": "Journal of Agromedicine and Medical Sciences 8 (1), 25-33, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:VLnqNzywnoUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of CRISPR/Cas9 genome editing system in Indonesian orchid Dendrobium lineale Rolfe",
+        "pub_year": "2021",
+        "citation": "II International Symposium on Tropical and Subtropical Ornamentals 1334, 205-214, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:fEOibwPWpKIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated transformation by using immerse and agroinfiltration method for genome editing of orchids with CRISPR/Cas9",
+        "pub_year": "2021",
+        "citation": "II International Symposium on Tropical and Subtropical Ornamentals 1334, 263-272, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of AtRKD4 protein during induction of somatic embryogenesis in Dendrobium lineale Rolfe transgenic orchids carrying 35S:: GR:: AtRKD4",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 6 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of 2,4-D and BAP on morphological characters and genetic stability of kaffir lime (Citrus hystrix DC.) callus cultures among generations.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:q3CdL3IzO_QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2021",
+        "citation": "Journal of Biosciences 28 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:k8Z6L05lTy4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLASI DAN KARAKTERISASI GEN Vanda Orchid Homeobox 1 (VOH1) DARI Vanda tricolor Var. Suavis Lindl. Forma Merapi",
+        "pub_year": "2021",
+        "citation": "Universitas Gadjah Mada, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ipzZ9siozwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterisation of putative embryo gene DlRKD4 from Indonesian orchid Dendrobium lineale rolfe",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Thidiazuron dan Air Kelapa terhadap Perkembangan in vitro Protokorm Vanda tricolor Lindley var. suavis",
+        "pub_year": "2020",
+        "citation": "SEMINAR NASIONAL BIOLOGI 2019 (IP2B III), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Pengembangan Keanekaragaman Anggrek Spesies Gunung Api Purba Nglanggeran, Yogyakarta serta Usaha Konservasinya",
+        "pub_year": "2019",
+        "citation": "Fakultas Biologi Universitas Kristen Satya Wacana, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SCREENING OF RESTRICTION ENZYMES FOR THE DEVELOPMENT OF RESTRICTION FRAGMENT-BASED, GENOMIC BIOMARKER OF ALCALIGENES JAVAENSIS",
+        "pub_year": "2019",
+        "citation": "Ethica 5 (1), 62-72, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pepton terhadap Efisiensi Perkecambahan Biji Anggrek Dendrobium lineale Rolfe",
+        "pub_year": "2018",
+        "citation": "Seminar Nasional Biologi Tropika 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Bibit Anggrek dengan Induksi Embrio Somatik untuk Usaha Konservasi Anggrek Alam Indonesia",
+        "pub_year": "2018",
+        "citation": "Seminar Nasional Biologi Tropika 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Journal of Tropical Biodiversity and Biotechnology",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 1, 45-53, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:uWiczbcajpAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of High Temperature Resistance gene (HSP70) of Vanda tricolor var. suavis forma Merapi orchids",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (3), 404-408, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INDUKSI PEMBUNGAAN IN VITRO PADA ANGGREK BULAN Phalaenopsis amabilis (L.) Blume INDONESIA IN VITRO FLOWERING OF INDONESIAN Phalaenopsis amabilis (L.) Blume",
+        "pub_year": "2014",
+        "citation": "Jurnal Pertanian Agros 16 (2), 273-277, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In planta transformation method for T-DNA transfer in orchids",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 303-307, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IN VITRO FLOWERING OF INDONESIAN Phalaenopsis amabilis (L.) Blume",
+        "pub_year": "2014",
+        "citation": "Jurnal Pertanian Agros, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:35r97b3x0nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Medium untuk Kultur in vitro Anggrek Vanda tricolor Lindl. var. suavis forma Merapi",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antifungal activity of secondary metabolites produced by Dumortiera hirsuta.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:XoXfffV-tXoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environmental conservation indonesia orchid Vanda tricolor Lindl. suavis varieties through in vitro culture of embryos.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:EkHepimYqZsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DEVELOPMENT OF SITE AND GENETIC IMPROVEMENT IN INTEGRATED BIO-CYCLES FARMING SYSTEM FOR SUSTAINABLE DEVELOPMENT",
+        "pub_year": "2012",
+        "citation": "DEVELOPMENT 24, 26, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "APLIKASI TEKNIK EMBRIOGENESIS MIKROSPORA UNTUK MERAKIT GALUR MURNI PADI (Oryza sativa. L)",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:UHK10RUVsp4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONSERVASI ANGGREK ALAM Vanda tricolor Lindl. ASLI INDONESIA MELALUI PERBANYAKAN SOMAKLONAL",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Frekuensi Pembentukan Tunas pada Mikropropagasi Tanaman Anggrek Hitam (Coelogyne pandurata Lindley) dengan Teknologi Tanaman Transgenik",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi senyawa bioaktif antimikroba pada Dumortiera hirsuta dengan bioteknologi kultur jaringan: Identifikasi senyawa bioaktif antimikroba pada lumut hati (Dumortiera hirsuta)",
+        "pub_year": "2011",
+        "citation": "UNIVERSITAS AIRLANGGA, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antimikroba Ekstrak Lumut Hati Dumortiera Hirsuta",
+        "pub_year": "2010",
+        "citation": "Berkala Penelitian Hayati (Journal of Biological Researches) 16 (1), 75-81, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:b1wdh0AR-JQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HOMOLOGI FUNGSI GEN KNAT1 (Knotted 1\u2013like Arabidopsis thaliana) PADA ANGGREK BULAN Phalaenopsis amabilis (L.) Bl. DENGAN MEDIATOR Agrobacterium tumefaciens",
+        "pub_year": "2009",
+        "citation": "Jurnal Agroekoteknologi 1 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TRANSFORMASI GEN ARABIDOPSIS ASYMETRIC LEAVES2 (AS2) PADA ANGGREK PHALAENOPSIS AMABILIS (L.) Blume DENGAN MEDIATOR AGROBAKTERIUM TUMEFACIENS",
+        "pub_year": "2009",
+        "citation": "Widyariset 12 (1), 155-164, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of \u00ce\u00b1-Naphtaleneacetic Acid (NAA) on somatic embryogenesis moon orchid Phalaenopsis amabilis (L.) Bl.",
+        "pub_year": "2007",
+        "citation": "Biodiversitas Journal of Biological Diversity 8 (4), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein synthesis during somatic embryogenesis of moon orchid Phalaenopsis amabilis (L.) Bl.",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:z_wVstp3MssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of \u03b1-Naphtaleneacetic Acid (NAA) on somatic embryogenesis moon orchid Phalaenopsis amabilis (L.) Bl.",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shoot Development Programs in Phalaenopsis amabilis Orchid Plant",
+        "pub_year": "2007",
+        "citation": "Plant and Cell Physiology Supplement Supplement to Plant and Cell Physiology \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u30b7\u30ed\u30a4\u30cc\u30ca\u30ba\u30ca\u306e ASYMMETRIC LEAVES2 \u306e\u89e3\u6790",
+        "pub_year": "2004",
+        "citation": "\u65e5\u672c\u690d\u7269\u751f\u7406\u5b66\u4f1a\u5e74\u4f1a\u304a\u3088\u3073\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0 \u8b1b\u6f14\u8981\u65e8\u96c6 \u7b2c 45 \u56de\u65e5\u672c\u690d\u7269\u751f\u7406\u5b66\u4f1a\u5e74\u4f1a \u2026, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analyses of ASYMMETRIC LEAVES2 in arabidopsis",
+        "pub_year": "2004",
+        "citation": "PLANT AND CELL PHYSIOLOGY 45, S164-S164, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of partners of ASYMMETRIC LEAVES2",
+        "pub_year": "2003",
+        "citation": "Plant and Cell Physiology Supplement Supplement to Plant and Cell Physiology \u2026, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ASYMMETRIC LEAVES1 and ASYMMETRIC LEAVES2 proteins of Arabidopsis thaliana forms a protein complex that is involved in a symmetrical leaf development",
+        "pub_year": "2003",
+        "citation": "PLANT AND CELL PHYSIOLOGY 44, S145-S145, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ASYMMETRIC LEAVES2 and ASYMMETRIC LEAVES1 proteins of Arabidopsis thaliana forms a protein complex that is involved in a development of symmetrical leaves",
+        "pub_year": "2002",
+        "citation": "PLANT AND CELL PHYSIOLOGY 43, S137-S137, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALYSES OF THE FUNCTIONS OF AS1 AND AS2 IN ARABIDOPSIS",
+        "pub_year": "2001",
+        "citation": "Plant and cell physiology 42 (Supplement), s67, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular-genetic analysis of the ASYMMETRIC LEAVES2 (AS2) gene of Arabidopsis thaliana",
+        "pub_year": "2001",
+        "citation": "\u540d\u53e4\u5c4b\u5927\u5b66, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The transposition pattern of the Ac element in tobacco [Nicotiana tabacum] cultured cells",
+        "pub_year": "2001",
+        "citation": "Genes and Genetic Systems (Japan) 76 (2), 2001"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALYSIS OF THE EXPRESSION PATTERN OF GENES WHICH ARE RELATED TO THE LEAF DEVELOPMENT",
+        "pub_year": "2000",
+        "citation": "Plant and cell physiology 41 (Supplement), s213, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MOLECULAR-GENETIC ANALYSIS OF THE AS2 GENE ON THE MECHANISM OF SYMMETRICAL LEAF DEVEL OPMENT IN Arabidopsis thaliana",
+        "pub_year": "2000",
+        "citation": "Plant and cell physiology 41 (Supplement), s212, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The transposition pattern of the Ac element and its use for targeted transposition in Arabidopsis thaliana",
+        "pub_year": "1999",
+        "citation": "\ud55c\uad6d\uc2dd\ubb3c\ud559\ud68c \uc2ec\ud3ec\uc9c0\uc6c0, 11-15, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of the ASYMMETRIC LEAVES 2 (AS2) gene of Arabidopsis thaliana in leaf development",
+        "pub_year": "1998",
+        "citation": "\u65e5\u672c\u690d\u7269\u5b66\u4f1a\u5927\u4f1a\u7814\u7a76\u767a\u8868\u8a18\u9332= Proceedings of the annual meeting of the \u2026, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protoplast fusion of Phalaenopsis and Dendrobium.",
+        "pub_year": "1991",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:ruyezt5ZtCIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan metode fusi protoplas untuk pemuliaan tanaman anggrek",
+        "pub_year": "1989",
+        "citation": "Universitas Gadjah Mada, 1989"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:NJ774b8OgUMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biotechnology Approach to Improve the Quality and Quantity of Orchids for the Agricultural Industry in Indonesia",
+        "citation": "PROCEEDING OF, 16, 0"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:xtoqd-5pKcoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of AtRKD4 Protein During Somatic Embryogenesis In Dendrobium lineale Rolfe Transgenic Orchids Carrying 35S:: GR:: AtRKD4",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Transformation of the Indonesian Black Orchid (Coelogyne pandurata Lindley) through Agrobacterium tumefaciens for Micropropagation Endang Semiarti1, 2, Ari Indrianto1 \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENE DISCOVERY RELATED TO VEGETATIVE AND TRANSITION FROM VEGETATIVE TO REPRODUCTIVE STAGE IN PLANT DEVELOPMENT",
+        "citation": "PRE-BREEDING AND GENE DISCOVERY FOR FOOD AND RENEWABLE ENERGY SECURITY, 79, 0"
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INDUKSI DAN EFISIENSI PRODUKSI KALUS TOMAT (Solanum lycopersicum L.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH IRRADIASI SINAR GAMMA PADA PERTUMBUHAN PLANTLET",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of genetic variability in seedlings of Spathoglottis plicata orchids through X-ray irradiation",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AIR KELAPA UNTUK PEMBENTUKAN MULTISHOOT PADA PROTOKORM ANGGREK BULAN (PHALAENOPSIS AMABILIS) TRANSGENIK PEMBAWA GEN PENGINDUKSI PEMBUNGAAN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-FqY7JcAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

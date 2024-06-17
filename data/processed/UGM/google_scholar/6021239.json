@@ -1,0 +1,813 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "oBLr-DwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Woro Anindito Sri Tunjung",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oBLr-DwAAAAJ&citpid=4",
+  "affiliation": "Faculty of Biology Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Biochemistry",
+    "Molecular Biology",
+    "Traditional medicine"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 383,
+  "citedby5y": 284,
+  "hindex": 12,
+  "hindex5y": 10,
+  "i10index": 14,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "2006": 1,
+    "2007": 1,
+    "2008": 5,
+    "2009": 3,
+    "2010": 2,
+    "2011": 3,
+    "2012": 11,
+    "2013": 6,
+    "2014": 11,
+    "2015": 9,
+    "2016": 17,
+    "2017": 10,
+    "2018": 15,
+    "2019": 24,
+    "2020": 50,
+    "2021": 59,
+    "2022": 54,
+    "2023": 68,
+    "2024": 28
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-cancer effect of kaffir lime (Citrus hystrix DC) leaf extract in cervical cancer and neuroblastoma cell lines",
+        "pub_year": "2015",
+        "citation": "Procedia Chemistry 14, 465-468, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 67,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5226377896925199699",
+      "cites_id": [
+        "5226377896925199699"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Role of the hyaluronan receptor CD44 during porcine oocyte maturation",
+        "pub_year": "2007",
+        "citation": "Journal of Reproduction and Development 53 (2), 263-270, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13921855498196008209",
+      "cites_id": [
+        "13921855498196008209"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression and glycosylation with polylactosamine of CD44 antigen on macrophages during follicular atresia in pig ovaries",
+        "pub_year": "2006",
+        "citation": "Biology of reproduction 74 (3), 501-510, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15996040117476711009",
+      "cites_id": [
+        "15996040117476711009"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Volatile organic compounds of kaffir lime (Citrus hystrix DC.) leaves fractions and their potency as traditional medicine",
+        "pub_year": "2017",
+        "citation": "Biosciences Biotechnology Research Asia 14 (4), 1235, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5029361715199044296",
+      "cites_id": [
+        "5029361715199044296"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DETECTION OF ALKALOID, FLAVONOID, AND TERPENOID COMPOUNDS IN BREAD (Artocarpus communis Forst.) LEAVES AND PULPS",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 129-133, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6720177390133370506",
+      "cites_id": [
+        "6720177390133370506"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of hyaluronan to inhibit caspase activation in porcine granulosa cells",
+        "pub_year": "2009",
+        "citation": "Biochemical and biophysical research communications 382 (1), 160-164, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5696998158255238749",
+      "cites_id": [
+        "5696998158255238749"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anthocyanin, nutrient contents, and antioxidant activity of black rice bran of Oryza sativa L.\u2018Cempo Ireng\u2019from Sleman, Yogyakarta, Indonesia",
+        "pub_year": "2017",
+        "citation": "Indonesian Journal of Biotechnology 22 (1), 49-54, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:0EnyYjriUFMC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7610573079836616192",
+      "cites_id": [
+        "7610573079836616192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Black rice bran extracts and fractions containing cyanidin 3-glucoside and peonidin 3-glucoside induce apoptosis in human cervical cancer cells",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Biotechnology 20 (1), 69-76, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:ufrVoPGSRksC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=532487472516217335",
+      "cites_id": [
+        "532487472516217335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antihyperuricemic activity of ginger flower (Etlingera elatior Jack.) extract in beef broth-induced hyperuricemic rats (Rattus norvegicus)",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1755 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=694891726314867458",
+      "cites_id": [
+        "694891726314867458"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of hyaluronan synthase 1 and distribution of hyaluronan during follicular atresia in pig ovaries",
+        "pub_year": "2009",
+        "citation": "Biology of reproduction 80 (2), 249-257, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3053950473856620919",
+      "cites_id": [
+        "3053950473856620919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Apoptosis induction on human breast cancer T47D cell line by extracts of Ancorina sp.",
+        "pub_year": "2019",
+        "citation": "F1000Research 8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6661549930600079071",
+      "cites_id": [
+        "6661549930600079071"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial activity and composition of crude extracts of kaffir lime (Citrus hystrix DC.) leaves and callus: antibacterial activity of kaffir lime leaves and callus",
+        "pub_year": "2018",
+        "citation": "Proceedings of the Pakistan Academy of Sciences: B. Life and Environmental \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:aqlVkmm33-oC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1621486604344461116",
+      "cites_id": [
+        "1621486604344461116"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactive compound profile of melon leaf extract (Cucumis melo L.\u2018Hikapel\u2019) infected by downy mildew",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (11), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:dhFuZR0502QC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11396705985485588463",
+      "cites_id": [
+        "11396705985485588463"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CCL2 and IL18 expressions may associate with the anti-proliferative effect of noncontact electro capacitive cancer therapy in vivo",
+        "pub_year": "2019",
+        "citation": "F1000Research 8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=468443085077728230",
+      "cites_id": [
+        "468443085077728230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of 2, 4-dichlorophenoxyacetic acid (2, 4-D) concentration on kaffir lime callus growth as raw material for cell suspension",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:-f6ydRqryjwC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17698155139832927217",
+      "cites_id": [
+        "17698155139832927217"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulation and characterization of Kaffir lime oil nanoemulsion",
+        "pub_year": "2017",
+        "citation": "Biosciences Biotechnology Research Asia 14 (3), 915-922, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:UebtZRa9Y70C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4722914413821142117",
+      "cites_id": [
+        "4722914413821142117"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE FLAVONOIDS CONTENT IN LEAVES AND FRUITS OF PAPAYA (Carica papaya L.) VAR. CALIFORNIA AND VAR. GANDUL",
+        "pub_year": "2015",
+        "citation": "KnE life sciences, 154-158, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=587989579357195016",
+      "cites_id": [
+        "587989579357195016"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CCL2 and IL18 Expressions May Associate with the Anti-Proliferative Effect of Noncontact Electro Capacitive Cancer Therapy in Vivo. F1000Research",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5013799044344431391",
+      "cites_id": [
+        "5013799044344431391"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytotoxicity and apoptosis induction by kaffir lime leaves extract (Citrus hystrix DC.) in HeLa cells culture (human cervical cancer cell line)",
+        "pub_year": "2015",
+        "citation": "KnE Life Sciences, 631-631, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15304716418087541139",
+      "cites_id": [
+        "15304716418087541139"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Anticancer Bioactive Compounds and Cytotoxicity of Citrus hystrix Dc. Callus Extract Post Preservation.",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Pharmacy/Majalah Farmasi Indonesia 32 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6017300112468080306",
+      "cites_id": [
+        "6017300112468080306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Active Fractions of Black Rice Bran cv Cempo Ireng Inducing Apoptosis and S-phase Cell Cycle Arrest in T47D Breast Cancer Cells.",
+        "pub_year": "2019",
+        "citation": "Journal of Mathematical & Fundamental Sciences 50 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:4DMP91E08xMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16034433240771868821",
+      "cites_id": [
+        "16034433240771868821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of diazepam on kidney function and histological structure of white rat\u2019s kidney",
+        "pub_year": "2016",
+        "citation": "Berkala Penelitian Hayati 22 (1), 1-6, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:Se3iqnhoufwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=976242014194135675",
+      "cites_id": [
+        "976242014194135675"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of diet rice pellets (Oryza sativa l.)\u2018Cempo Ireng\u2019,\u2018Cempo Abang\u2019, and \u2018IR-64\u2019to lipid serum profile of white rat (Rattus norvegicus Berkenhout, 1769) hyperlipidemia",
+        "pub_year": "2013",
+        "citation": "Proceeding of Seminar and Workshop on Nutrigenomic, Yogyakarta March, 12-18, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3952705115879911863",
+      "cites_id": [
+        "3952705115879911863"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of growth factor in callus induction and bioactive compounds in seed explant of kaffir lime (Citrus hystrix DC.)",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Pharmacy 31 (2), 61, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17125511297144370774",
+      "cites_id": [
+        "17125511297144370774"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callogenesis of Dayak Onion (Eleutherine palmifolia) Bulb in response of Picloram, 2, 4-D, and Kinetin",
+        "pub_year": "2023",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 15 (2), 270-280, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:BqipwSGYUEgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9758764079511003989",
+      "cites_id": [
+        "9758764079511003989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of BSA B1 bacteria and its potency of purified cellulase to hydrolyze Chlorella zofingiensis",
+        "pub_year": "2015",
+        "citation": "Indonesian Journal of Biotechnology 20 (1), 77-87, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7947591790524041801",
+      "cites_id": [
+        "7947591790524041801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Anticancer Bioactive Compounds and Cytotoxicity of Kaffir Lime (Citrus hystrix Dc.) Callus Extract Post Preservation",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Pharmacy, 179-192, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4215782042305451657",
+      "cites_id": [
+        "4215782042305451657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulation of alginate beads to encapsulated kaffir lime callus",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14305811059469238553",
+      "cites_id": [
+        "14305811059469238553"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein profile of breast cancer cell line (T47D) with kaffir lime (Citrus hystrix DC.) leaf extract treatment",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17648566157067242547",
+      "cites_id": [
+        "17648566157067242547"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maryani 2021. Effect of 2, 4-D and BAP on morphological characters and genetic stability of kaffir lime (Citrus hystrix DC.) callus cultures among generations. CMUJ",
+        "citation": "Nat. Sci 20 (3), e2021067, 0"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16402154111316628777",
+      "cites_id": [
+        "16402154111316628777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cell line screening and characterization of bioactive compounds from kaffir lime (Citrus hystrix DC.) cell suspension elicited by yeast and isopentenyl pyrophosphate.",
+        "pub_year": "2023",
+        "citation": "Science Asia 49 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13532410196898298874",
+      "cites_id": [
+        "13532410196898298874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Kaffir Lime (Citrus hystrix DC) Cell Line Derived from Seed Explant After Yeast Elicitation Using Pure and Technical Grade Yeast",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (1), 68650, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13751958804678011821",
+      "cites_id": [
+        "13751958804678011821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mosquitoes repellent potency of four species plants belong to Rutaceae family",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:hC7cP41nSMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15246126215515887620",
+      "cites_id": [
+        "15246126215515887620"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CCL2 and IL18 expressions may associate with the anti-proliferative effect of noncontact electro capacitive cancer therapy in vivo",
+        "pub_year": "2019",
+        "citation": "F1000Research 8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8600644986628872171,11672976822097288291",
+      "cites_id": [
+        "8600644986628872171",
+        "11672976822097288291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Pemanfaatan Tanaman Tradisional Indonesia untuk Perawatan Kulit atau Rambut",
+        "pub_year": "2024",
+        "citation": "Biotropic: The Journal of Tropical Biology 8 (1), 12-22, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficacy of Different Solvents in the Extraction of Bioactive Compounds and Anti-cancer Activities of Thymus vulgaris Leaves and Twigs.",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Pharmacy/Majalah Farmasi Indonesia 34 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callogenesis, growth and bioactive compounds of kaffir lime (Citrus hystrix DC.) callus derived from leaf and stem explants.",
+        "pub_year": "2023",
+        "citation": "Songklanakarin Journal of Science & Technology 45 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan Kalus Dari Eksplan Daun dan Batang Serta Sitotoksisitas Ekstrak Kalus dan Sel Lini Biji Jeruk Purut (Citrus hystrix DC.) Terhadap Sel T47D",
+        "pub_year": "2022",
+        "citation": "Universitas Gadjah Mada, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of 2,4-D and BAP on morphological characters and genetic stability of kaffir lime (Citrus hystrix DC.) callus cultures among generations.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil Senyawa Bioaktif Ekstrak Kalus Biji Jeruk Purut (Citrus hystrix DC.) Pasca Induksi Metil Jasmonat",
+        "pub_year": "2019",
+        "citation": "Biotropic: The Journal of Tropical Biology 3 (2), 146-160, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "extracts of sp. Ancorina [version 1; peer review: 2 approved with",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extract of Elicited Kaffir Lime (Citrus hystrix DC.) Cells Suspension by Saccharomyces cereviseae H. and Its Citotoxicity against T47D Cells",
+        "pub_year": "2018",
+        "citation": "Indian Journal of Physiotherapy and Occupational Therapy 12 (4), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH DIAZEPAM TERHADAP KADAR UREUM DAN KREATININ URIN SERTA STRUKTUR HISTOLOGIS GINJAL TIKUS PUTIH (Rattus norvegicus, Berkenhout 1769)",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Apoptosis melalui Peningkatan Ekspresi Protein Caspase-8,-9 dengan Ekstrak Daun Jeruk Purut (Citrus hystrix) pada Sel T47D (Human Breast Cancer Cell Line)",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AKTIVITAS SITOTOKSIK DAN INDUKSI APOPTOSIS EKSTRAK DAUN JERUK PURUT (Citrus hystrix DC.) TERHADAP SEL T47D (Human Breast Cancer Cell Line)",
+        "pub_year": "2014",
+        "citation": "Universitas Gadjah Mada, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of hyaluronan in porcine granulosa cells and its apoptosis inhibitory mechanisms",
+        "pub_year": "2009",
+        "citation": "\u6771\u5317\u5927\u5b66, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Binding of Hyaluronan and CD44 Involves on Apoptosis Inhibition of Granulosa Cells in Pig COCG Culture",
+        "pub_year": "2008",
+        "citation": "The Journal of Reproduction and Development Supplement The 101st Meeting of \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibitory action of FSH in apoptosis of swine granulosa cells in COCG culture involves hyaluronan synthesis in an intrinsic pathway.",
+        "pub_year": "2007",
+        "citation": "BIOLOGY OF REPRODUCTION, 226-226, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficacy of Different Solvents in the Extraction of Bioactive Compounds and Anticancer Activities of Thyme (Thymus vulgaris L.) Leaves and Twigs",
+        "citation": "Indonesian Journal of Pharmacy, 419\u2013430-419\u2013430, 0"
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "with reservations",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CCL2 and IL18 expressions may associate with the anti-proliferative effect of noncontact electro capacitive cancer",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "extracts of sp. Ancorina [version 1; referees: awaiting peer",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oBLr-DwAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

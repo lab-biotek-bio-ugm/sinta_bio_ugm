@@ -1,0 +1,551 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "6S3ZJtsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Maryani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6S3ZJtsAAAAJ&citpid=4",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Biologi",
+    "struktur perkembangan tumbuhan",
+    "anatomi tumbuhan",
+    "jaringan tumbuhan"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 274,
+  "citedby5y": 101,
+  "hindex": 6,
+  "hindex5y": 6,
+  "i10index": 6,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2001": 2,
+    "2002": 3,
+    "2003": 21,
+    "2004": 12,
+    "2005": 9,
+    "2006": 5,
+    "2007": 8,
+    "2008": 17,
+    "2009": 13,
+    "2010": 14,
+    "2011": 11,
+    "2012": 5,
+    "2013": 13,
+    "2014": 7,
+    "2015": 6,
+    "2016": 8,
+    "2017": 12,
+    "2018": 6,
+    "2019": 3,
+    "2020": 16,
+    "2021": 16,
+    "2022": 30,
+    "2023": 25,
+    "2024": 9
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cyclic GMP modulates stomatal opening induced by natriuretic peptides and immunoreactive analogues",
+        "pub_year": "2001",
+        "citation": "Plant Physiology and Biochemistry 39 (5), 385-394, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 83,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15887118634505586912",
+      "cites_id": [
+        "15887118634505586912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natriuretic peptides and immunoreactants modify osmoticum-dependent volume changes in Solanum tuberosum L. mesophyll cell protoplasts",
+        "pub_year": "2001",
+        "citation": "Plant Science 161 (3), 443-452, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 57,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16078512855735280010",
+      "cites_id": [
+        "16078512855735280010"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In situ localization associates biologically active plant natriuretic peptide immuno\u2010analogues with conductive tissue and stomata",
+        "pub_year": "2003",
+        "citation": "Journal of experimental botany 54 (387), 1553-1564, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16215026210580599842",
+      "cites_id": [
+        "16215026210580599842"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant natriuretic peptide immunoreactants modulate plasma-membrane H+ gradients in Solanum tuberosum L. leaf tissue vesicles.",
+        "pub_year": "2000",
+        "citation": "Archives of Biochemistry and Biophysics 376, 456-458, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5102112447344931846",
+      "cites_id": [
+        "5102112447344931846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Leaf physiological and anatomical characters contribute to drought tolerance of Nusa Tenggara Timur local rice cultivars",
+        "pub_year": "2021",
+        "citation": "Journal of Crop Science and Biotechnology 24 (3), 337-348, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6086836157199436281",
+      "cites_id": [
+        "6086836157199436281"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and anatomical characteristics of Indonesian rice roots from East Nusa Tenggara contribute to drought tolerance",
+        "pub_year": "2021",
+        "citation": "Asian Journal of Agriculture and Biology 1, 1-11, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:hC7cP41nSMkC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16092575870855962176",
+      "cites_id": [
+        "16092575870855962176"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh pupuk nitrogen dan ethepon terhadap pertumbuhan, pembungaan dan hasil padi lokal (Oryza sativa L. cv. Rojolele).",
+        "pub_year": "2010",
+        "citation": "BIOTA 15 (3), 448-458, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:0EnyYjriUFMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17804319887874424915",
+      "cites_id": [
+        "17804319887874424915"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical responses of marigold (Tagetes erecta L.) roots and stems to batik wastewater",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:HDshCWvjkbEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9351917827239621541",
+      "cites_id": [
+        "9351917827239621541"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of Microspore Embryogenesis of Eggplant (Solanum melongena L.) \u2018Gelatik\u2019",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 5 (2), 124-131, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:aqlVkmm33-oC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10154191085700664708",
+      "cites_id": [
+        "10154191085700664708"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survival and root structure changes of rice seedlings in different cultivars under submergence condition",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7481210035715182744",
+      "cites_id": [
+        "7481210035715182744"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maturity effect on the antioxidant activity of leaves and fruits of Rhodomyrtus tomentosa (Aiton.) Hassk.",
+        "pub_year": "2022",
+        "citation": "AIMS Agriculture and Food 7 (2), 282-296, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15149656634300743341",
+      "cites_id": [
+        "15149656634300743341"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Anatomi Epidermis Daun Lima Kultivar Melon (Cucumis melo L.) Berdasarkan Resistensinya Terhadap Jamur Tepung Sphaerotheca fuliginea Poll.",
+        "pub_year": "2009",
+        "citation": "Jurnal Ilmiah Ilmu-ilmu Hayati-BIOTA 14 (2), 105-114, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:UebtZRa9Y70C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16335785671724364562",
+      "cites_id": [
+        "16335785671724364562"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical and Histochemical Responses of Vetiver Grass (Chrysopogon zizanioides L. Roberty) to Phytoremediation Ability of Liquid Batik Waste: 10.32526/ennrj/20/202100232",
+        "pub_year": "2022",
+        "citation": "Environment and Natural Resources Journal 20 (4), 359-368, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15293735517297304748",
+      "cites_id": [
+        "15293735517297304748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Grain Quality of Rice (Oryza sativa L.)\u2018Menthik Wangi\u2019of Organic Farming Yields",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (2), 105-105, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14140605972265808849",
+      "cites_id": [
+        "14140605972265808849"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maryani 2021. Effect of 2, 4-D and BAP on morphological characters and genetic stability of kaffir lime (Citrus hystrix DC.) callus cultures among generations. CMUJ",
+        "pub_year": "2021",
+        "citation": "Nat. Sci 20 (3), e2021067, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:mB3voiENLucC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16402154111316628777",
+      "cites_id": [
+        "16402154111316628777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Priming Duration with Salicylic Acid under Salinity Stress on Growth and Leaf Anatomy of Sweet Corn (Zea mays L.)",
+        "pub_year": "2018",
+        "citation": "Ilmu Pertanian (Agricultural Science) 3 (1), 36-45, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:Zph67rFs4hoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6549760766147668554",
+      "cites_id": [
+        "6549760766147668554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and phenetic relationship of black potato (Coleus tuberosus Benth.) in Yogyakarta based on morphological and leaf anatomical characters",
+        "pub_year": "2018",
+        "citation": "AIP Conf. Proc: International Conference on Biological Science: Inventing \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16840503064630501037",
+      "cites_id": [
+        "16840503064630501037"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root Anatomy and Growth Responses of Soybean (Glycine max (L.) Merr.) \u2018Wilis\u2019 to NaCl Stress",
+        "pub_year": "2017",
+        "citation": "Proceeding of The 1st International Conference on Agriculture Science, 209-218, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12563506926183463651",
+      "cites_id": [
+        "12563506926183463651"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root Anatomy and Growth of Capsicum frutescens L. on Verticulture with Different Watering Supply",
+        "pub_year": "2017",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 2 (1), 1-9, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16975308418977252431",
+      "cites_id": [
+        "16975308418977252431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological response of mangrove ecosystem to the conservation of Teluk Adang Sanctuary in East Kalimantan, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6711331073264279609",
+      "cites_id": [
+        "6711331073264279609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enzymatic Antioxidant Activity and Physiological Responses of Local Swamp Rice Cultivars from Kalimantan Indonesia Under Iron Toxicity During Vegetative Stage",
+        "pub_year": "2023",
+        "citation": "Journal of Crop Science and Biotechnology 26 (https://doi.org/10.1007/s12892 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enzymatic antioxidant activity and physiological responses of local swamp rice cultivars from Kalimantan-Indonesia under iron toxicity during vegetative stage",
+        "pub_year": "2022",
+        "citation": "Journal of Crop Science and Biotechnology, 1-18, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons Anatomis dan Fisiologis Tanaman Kacang Tanah (Arachis hypogaea L.) terhadap Aplikasi Gibberellic Acid (GA3) dan Sludge Biogas",
+        "pub_year": "2022",
+        "citation": "BioEksakta Jurnal Ilmiah Biologi Unsoed 4 (2), 99-108, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Cekaman Air pada Masa Penanaman terhadap Anatomi dan Fungsi Xilem serta Waktu Pajang Bunga Potong Kenikir (Tagetes erecta L.)",
+        "pub_year": "2022",
+        "citation": "Vegetalika 11 (2), 93-107, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STRUKTUR ANATOMI DAN DIFERENSIASI BATANG Myrmecodia pendens Merr. & LM Perry",
+        "pub_year": "2021",
+        "citation": "Buletin Kebun Raya 24 (3), 141-151, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical responses of Zinnia violacea Cav. roots and stems to batik wastewater",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Batik liquid waste inhibited germination and degraded root tissues of Tagetes erecta L. and Zinnia violacea Cav.",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of low pH on physiological characters in vegetatif phase of Kalimantan local swamp rice (Oryza sativa L.)",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical structure, flavonoid content, and antioxidant activity of Rhodomyrtus tomentosa leaves and fruits on different age and maturity level",
+        "pub_year": "2019",
+        "citation": "BIODIVERSITAS 20 (12), 3619-3625, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and phenetic analysis of tomboreso (Dioscorea pentaphylla L.) in Yogyakarta based on morphological and leaf anatomical characters",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002, 020049: 1-9, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectivity of rice husk ash in enhancing drought tolerance on different rice cultivars",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings: International Conference of Biological Science \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Rice Husk Ash on Physiological Responses of Rice (Oryza sativa L.) \u2018Cempo Merah\u2019 and \u2018Segreng\u2019 Under Drought Conditions",
+        "pub_year": "2017",
+        "citation": "Proceeding of The 1st International Conference on Tropical Agriculture, 63-71, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological characteristics of pea (Pisum sativum L.) and wheat (Triticum aestivum L.) plants irradiated with UV-B.",
+        "pub_year": "1997",
+        "citation": "Jurnal Manusia dan Lingkungan, 9: 19-37 9, 19-37, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical changes of pea leaves exposed to UV-B radiation.",
+        "pub_year": "1997",
+        "citation": "Biologi 1 (10), 415-429, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "6S3ZJtsAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

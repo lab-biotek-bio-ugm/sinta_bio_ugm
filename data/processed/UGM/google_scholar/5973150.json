@@ -1,0 +1,586 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "zAPCbnkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ganies Riza Aristya, Ph.D.",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zAPCbnkAAAAJ&citpid=3",
+  "affiliation": "Faculty of Biology, Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant Molecular Genetics"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 123,
+  "citedby5y": 112,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 5,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2016": 2,
+    "2017": 3,
+    "2018": 4,
+    "2019": 12,
+    "2020": 8,
+    "2021": 23,
+    "2022": 27,
+    "2023": 32,
+    "2024": 8
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "akqIOYYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kasiamdari, Rina Sri",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5K0zVokAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Heri Prabowo, MSc. (Scopus ID: 57...",
+      "affiliation": "Peneliti Balittas, Litbang, Kementerian Pertanian. (S1 dan S2 UGM, S3 Universitas Brawijaya)."
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vGCkhYcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Niken Satuti Nur Handayani",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "06nKzQMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Suyanto",
+      "affiliation": "Brawijaya University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi kromosom tumbuhan dan hewan",
+        "pub_year": "2018",
+        "citation": "UGM PRESS, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18004343801945938003",
+      "cites_id": [
+        "18004343801945938003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial cell factories for the production of polyhydroxyalkanoates",
+        "pub_year": "2021",
+        "citation": "Essays in Biochemistry 65 (2), 337-353, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9307768632342999214",
+      "cites_id": [
+        "9307768632342999214"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi morfologi dan anatomi stroberi (Fragaria x ananassa D. cv. Festival) hasil induksi kolkisin",
+        "pub_year": "2015",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 3 (2), 66-75, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13634834989891628599",
+      "cites_id": [
+        "13634834989891628599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polyhydroxybutyrate (PHB) production from crude glycerol by genetic engineering of Rhodotorula glutinis",
+        "pub_year": "2022",
+        "citation": "Bioresource Technology Reports 18, 101048, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=375426951302659707",
+      "cites_id": [
+        "375426951302659707"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter fenotipik tanaman stroberi festival (Fragaria X Ananassa D.) hasil induksi kolkisin pada konsentrasi 0, 05% dan 0, 01%",
+        "pub_year": "2014",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 2 (2), 70-78, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:_kc_bZDykSQC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11009429902391169446",
+      "cites_id": [
+        "11009429902391169446"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "rbcL and matK chloroplast DNA composition of green chireta (Andrographis paniculata) from Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (12), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8904920484585498032",
+      "cites_id": [
+        "8904920484585498032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Pest Control Based on Morphological Character Variation on 20 Varieties and Genetic Variation Based on RAPD of Sugarcane (Saccharum officinarum L.) in Indonesia",
+        "pub_year": "2019",
+        "citation": "International Conference on SAFE (Sustainable Agriculture, Food and Energy \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4871089199529312164",
+      "cites_id": [
+        "4871089199529312164"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA Barcoding and Phylogenetic Analysis Sugarcane (Saccharum officinarum L.) Based on matK ( maturase K) Gene",
+        "pub_year": "2020",
+        "citation": "Key Engineering Materials 840, 162-170, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:Zph67rFs4hoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5071458997156473177",
+      "cites_id": [
+        "5071458997156473177"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pewarisan Sifat Ketahanan Hidup dan Karakter Fenotipik Melon (Cucumis melo L.\u201cTALITA\u201d & \u201cTANIA\u201d) Hasil Persilangan Backcross dan Testcross Induk Tacapa Pada Kondisi Karst \u2026",
+        "pub_year": "2014",
+        "citation": "Biogenesis: Jurnal Ilmiah Biologi 2 (1), 34-42, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8234038265090427402",
+      "cites_id": [
+        "8234038265090427402"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and PCR-based characterisation of Podosphaera aphanis (Wallr.) U. Braun & S. Takamatsu causing powdery mildew disease in strawberry in Java",
+        "pub_year": "2021",
+        "citation": "Archives of Phytopathology and Plant Protection 54 (15-16), 990-1000, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:4TOpqqG69KYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11832521207929424907",
+      "cites_id": [
+        "11832521207929424907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variations of strawberry cultivars of Fragaria x ananassa and Fragaria vesca based on RAPD",
+        "pub_year": "2019",
+        "citation": "Biodiversitas, Journal of Biological Diversity 20 (Internasional Jurnal \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1446236882496105613",
+      "cites_id": [
+        "1446236882496105613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of green chireta (Andrographis paniculata (Burm. f.) Wall. Ex Nees.) from Indonesia based on ISSR and RAPD markers",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (1), 61-68, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12291445606435994334",
+      "cites_id": [
+        "12291445606435994334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and characterization of molecular markers for sugarcane (Saccharum officinarum L.) resistance to shoot borer pest",
+        "pub_year": "2020",
+        "citation": "Southeast Asia Plant Protection Conference 2019 14 August 2019, IPB \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:8k81kl-MbHgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3212242407093617776",
+      "cites_id": [
+        "3212242407093617776"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of strawberry cultivars in Banyuroto, Magelang, Indonesia based on Cleaved Amplified Polymorphic Sequence",
+        "pub_year": "2019",
+        "citation": "Biodiversitas, Journal of Biological Diversity 20 (International Journal \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1028452864664578133",
+      "cites_id": [
+        "1028452864664578133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi ketahanan kultivar tanaman melon (cucumis melo L.) Terhadap jamur tepung (powdery mildew) isolat Ngawi",
+        "pub_year": "2014",
+        "citation": "Tesis. Gadjah Mada. Yogyakarta, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4955101409309775368",
+      "cites_id": [
+        "4955101409309775368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of environmental stress tolerant superior sugarcane (Saccharum officinarum L.)",
+        "pub_year": "2020",
+        "citation": "ICoSI 2019 The 3rd International Conference on Sustainability and Innovation \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=160243016123011141",
+      "cites_id": [
+        "160243016123011141"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection and analysis of delayed-ripening genes in the growth of strawberries (Fragaria\u00d7 ananassa) treated 1-naphtaleneacetic acid",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1374 (1), 012008, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10537041462768757027",
+      "cites_id": [
+        "10537041462768757027"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Kromosom Stroberi Festival (Fragaria x ananassa D. cv. Festival) Hasil Poliploidisasi",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:ufrVoPGSRksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16607328525381384168",
+      "cites_id": [
+        "16607328525381384168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Genetik Tanaman Melon (Cucumis melo L.) Berdasarkan Penanda Molekular Inter-Simple Sequence Repeat",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3792033597362343790",
+      "cites_id": [
+        "3792033597362343790"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship analysis of FaPYR1 and FaCHS genes encoding fruit ripening of three species of strawberries (Fragaria spp.) fruit",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and characterization of molecular markers for sugarcane stem borer (Saccharum officinarum L.) resistance genes",
+        "pub_year": "2020",
+        "citation": "The 3rd International Conference on Biosciences (The 3rd ICoBio) 2019 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EKSPRESI GEN FaPYR1 DAN FaCHS BUAH STROBERI Fragaria moschata Duch.",
+        "pub_year": "2018",
+        "citation": "Universitas Gadjah Mada, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIASI GENETIK KULTIVAR STROBERI (Fragaria spp.) BERDASARKAN SSR",
+        "pub_year": "2017",
+        "citation": "Universitas Gadjah Mada, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PREVALENSI DAN DETEKSI GEN TERPAUT KETAHANAN RTSV PADA TANAMAN PADI (Oryza sativa L.) BERDASARKAN Simple Sequence Repeat",
+        "pub_year": "2017",
+        "citation": "Universitas Gadjah Mada, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EKSPRESI TEMPORAL GEN FaCHS PADA PERTUMBUHAN DAN PERKEMBANGAN BUAH STROBERI (Fragaria x ananassa D.'Festival'& Fragaria vesca L. subsp. californica Cham. & Schltdl.'Californica')",
+        "pub_year": "2017",
+        "citation": "Universitas Gadjah Mada, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIASI GENETIK KULTIVAR STROBERI (Fragaria spp.) BERDASARKAN RFLP",
+        "pub_year": "2017",
+        "citation": "Universitas Gadjah Mada, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pewarisan dan Deteksi Gen Ketahanan Powdery Mildew pada Tanaman Stroberi (Fragaria spp.) di Indonesia berdasarkan Sequence Characterized Amplified Region",
+        "pub_year": "2017",
+        "citation": "Universitas Gadjah Mada, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekspresi Temporal Gen faPYR1 pada Pertumbuhan dan Perkembangan Buah Stroberi Fragaria vesca-Californica-dan Fragaria x ananassa-Festival",
+        "pub_year": "2016",
+        "citation": "Universitas Gadjah Mada, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISASI SITOGENETIK TUJUH KULTIVAR DARI DUA SPESIES Fragaria DI BALAI PENELITIAN TANAMAN JERUK DAN BUAH SUB-TROPIKA, MALANG, JAWA TIMUR",
+        "pub_year": "2016",
+        "citation": "Universitas Gadjah Mada, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIASI GENETIK KULTIVAR STROBERI Fragaria x ananassa Duch. & Fragaria vesca L. BERDASARKAN PENANDA MOLEKULAR RANDOM AMPLIFIED POLYMORPHIC DNA",
+        "pub_year": "2016",
+        "citation": "Universitas Gadjah Mada, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Polimorfisme Tanaman Stroberi (Fragaria spp.) Kultivar'Californica'dan'Festival'Berdasarkan Penanda Molekular Cleaved Amplified Polymorphic Sequences",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISASI MORFOLOGI DAN ANATOMI STROBERI (Fragaria vesca L. subsp. californica (Cham. & Schltdl.)) HASIL INDUKSI KOLKISIN",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTER FENOTIP Cucumis melo L. cv. TACAPA DAN KULTIVAR MELON KOMERSIAL HASIL UJI MULTILOKASI DAN MULTIMUSIM",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Virus dengan PCR pada Krisan",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTER FENOTIPIK TANAMAN STROWBERI (Fragaria x annanasa CALIFORNICA) HASIL INDUKSI KHOLKISIN",
+        "pub_year": "2014",
+        "citation": "SEMINAR NASIONAL SINERGI PANGAN, PAKAN DAN ENERGI TERBARUKAN 1 (1), 224-229, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi gen ketahanan terhadap powdery mildew pada melon (Cucumis melo L.) hasil persilangan resiprok indukan ACTION 434 dan PI 371795",
+        "pub_year": "2014",
+        "citation": "Jurnal Penelitian dan Pengembangan 9 6 (9), 25-39, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zAPCbnkAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

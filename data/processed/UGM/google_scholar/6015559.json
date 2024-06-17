@@ -1,0 +1,772 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "7g1TBpgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Hari Purwanto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7g1TBpgAAAAJ&citpid=1",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Entomologi"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 205,
+  "citedby5y": 184,
+  "hindex": 8,
+  "hindex5y": 7,
+  "i10index": 8,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2010": 2,
+    "2011": 2,
+    "2012": 0,
+    "2013": 5,
+    "2014": 1,
+    "2015": 2,
+    "2016": 2,
+    "2017": 1,
+    "2018": 4,
+    "2019": 4,
+    "2020": 24,
+    "2021": 14,
+    "2022": 45,
+    "2023": 69,
+    "2024": 28
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "t4LrsqoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "RC Hidayat Soesilohadi",
+      "affiliation": "Faculty of Biology Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cJRbfYwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sukirno Sukirno",
+      "affiliation": "Entomology Laboratory Faculty of Biology Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nliKdrMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ignatius Sudaryadi",
+      "affiliation": "UGM"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "u8385HUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ali Agus",
+      "affiliation": "Faculty of Animal Science, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zdPFZaoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nafiatul Umami",
+      "affiliation": "Laboratory of Forage and Pasture Science, Faculty of Animal Science, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zO8AXyAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Rika Raffiudin",
+      "affiliation": "Department of Biology, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ivV1cYUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nurul Insani Shullia",
+      "affiliation": "Biology Education, Faculty of Teacher Training and Education, University of Jember"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1MqjpUwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tri Rini Nuringtyas",
+      "affiliation": "Associate Professor in Faculty of Biology, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JHLikMoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Lilik Sutiarso",
+      "affiliation": "Professor of Agricultural System and Machinery, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2S8BCpUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Atris Suyantohadi",
+      "affiliation": "Fakultas Teknologi Pertanian, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "q4HTA-4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tonny K. Moekasan",
+      "affiliation": "Pusat Riset Hortikultura-BRIN"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological characteristics and morphometrics of stingless bees (Hymenoptera: Meliponini) in Yogyakarta, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (6), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 65,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6396958559376123777",
+      "cites_id": [
+        "6396958559376123777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular phylogeny of stingless bees in the Special Region of Yogyakarta revealed using partial 16S rRNA mitochondrial gene",
+        "pub_year": "2020",
+        "citation": "Buletin Peternakan 44 (4), 225-232, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12216629008252137947",
+      "cites_id": [
+        "12216629008252137947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sex pheromone components of the rice leaffolder, Cnaphalocrocis medinalis (Lepidoptera: Crambidae), in Indonesia",
+        "pub_year": "2009",
+        "citation": "Journal of Asia-Pacific Entomology 12 (2), 97-99, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18298617082622737956",
+      "cites_id": [
+        "18298617082622737956"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species description, morphometric measurement and molecular identification of stingless bees (Hymenoptera: Apidae: meliponini) in meliponiculture industry in West Java Province \u2026",
+        "pub_year": "2021",
+        "citation": "Serangga 26 (1), 13-33, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:WF5omc3nYNoC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16665622534789443609",
+      "cites_id": [
+        "16665622534789443609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stingless bees from meliponiculture in South Kalimantan, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14007152871915143891",
+      "cites_id": [
+        "14007152871915143891"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity, distribution, and nest characteristics of stingless bees (Hymenoptera: Meliponini) in Baluran National Park, East Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (8), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:_kc_bZDykSQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18238929129690050345",
+      "cites_id": [
+        "18238929129690050345"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectiveness of Samia ricini Drury (Lepidoptera: Saturniidae) and Attacus atlas L.(Lepidoptera: Saturniidae) cocoon extracts as ultraviolet protectants of Bacillus \u2026",
+        "pub_year": "2022",
+        "citation": "International Journal of Tropical Insect Science 42 (1), 255-260, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17592015355353746654",
+      "cites_id": [
+        "17592015355353746654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity, abundance, and distribution patterns of stingless bees (Hymenoptera: Meliponini) in Yogyakarta, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:UebtZRa9Y70C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8744742680484522419",
+      "cites_id": [
+        "8744742680484522419"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphology, morphometrics, and molecular characteristics of Apis cerana and Apis nigrocincta from Central Sulawesi, Indonesia",
+        "pub_year": "2021",
+        "citation": "Jurnal Biologi Tropis 21 (2), 368-382, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:ufrVoPGSRksC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18104557466449372856",
+      "cites_id": [
+        "18104557466449372856"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Controlling culex quinquefasciatus say, 1823 (Diptera: Culicidae) using several lysinibacillus sphaericus isolates endogenic to Indonesia",
+        "pub_year": "2021",
+        "citation": "Jurnal Biologi Tropis 21 (1), 298-304, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12269511263473010711",
+      "cites_id": [
+        "12269511263473010711"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi DNA dan Gen Resisten Terhadap Virus AI (Avian Influenza) pada Itik Pitalah sebagai Sumber Daya Genetik Sumatera Barat dengan PCR (Polymerase Chain Reaction)",
+        "pub_year": "2012",
+        "citation": "Universitas Andalas, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:HDshCWvjkbEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1266345610373368444",
+      "cites_id": [
+        "1266345610373368444"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Entomological origin detection of honey from Apis mellifera and Apis cerana javana in Indonesia based on the Major Royal Jelly Protein 2 (mrjp2) gene",
+        "pub_year": "2023",
+        "citation": "Journal of Apicultural Research 62 (2), 330-333, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:roLk4NBRz8UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1957997801900152198",
+      "cites_id": [
+        "1957997801900152198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Updated Species Check-list of the Indonesian Stingless Bees (Hymenoptera, Apidae, Apinae, Meliponini)",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (2), 77160, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11381186292545583111",
+      "cites_id": [
+        "11381186292545583111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UV protectant ability of Attacus atlas L.(Lepidoptera: Saturniidae) sericin extract to increase nucleopolyhedrovirus effectiveness against Beet army worm, Spodoptera exigua \u2026",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 82-89, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=264734523111124345",
+      "cites_id": [
+        "264734523111124345"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Senyawa metabolit sekunder pada daun muda dan tua empat jenis tanaman pakan alami ulat atakas (Attacus atlas L.)",
+        "pub_year": "2007",
+        "citation": "Berkala Ilmiah Biologi 6, 63-70, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12569288734164468387",
+      "cites_id": [
+        "12569288734164468387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular detection of the pathogen of Apis mellifera (Hymenoptera: Apidae) in honey in Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (5), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13196225866948545898",
+      "cites_id": [
+        "13196225866948545898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of synthetic sex pheromone traps on the cabbage cluster caterpillar, Crocidolomia pavonana and its host preference in the vegetable yield of Indonesia",
+        "pub_year": "2007",
+        "citation": "Journal of ISSAAS [International Society for Southeast Asian Agricultural \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3287916539982705931",
+      "cites_id": [
+        "3287916539982705931"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric and molecular identification, domestication, and potentials of stingless bees (Apidae: Meliponini) in Mount Halimun Salak National Park, West Java, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7689085868532318729",
+      "cites_id": [
+        "7689085868532318729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effects of Ultraviolet B on The Efficacy of Bacillus thuringiensis var. kurstaki Formulations Against Tobacco Armyworm, Spodoptera litura (Lepidoptera: Noctuidae)",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (1), 17-27, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8479056674471265352",
+      "cites_id": [
+        "8479056674471265352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Lysinibacillus sphaericus sebagai PGPR pada Tanaman Cabai dan Pengaruhnya terhadap Populasi Aphis gossypii Glover",
+        "pub_year": "2020",
+        "citation": "Prosiding Seminar Nasional Biologi IP2B IV 2020_e ISSN 2746, 7902, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18297114572191427326",
+      "cites_id": [
+        "18297114572191427326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalence of nucleopolyhedroviruses on Spodoptera litura larvae in Indonesia.",
+        "pub_year": "1997",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14974184528167046615",
+      "cites_id": [
+        "14974184528167046615"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Taxonomic study on selected species of stingless bees (Hymenoptera: Apidae: Meliponini) in Sulawesi Island, Indonesia",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (5), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological index of rats in Southeast Sulawesi, Indonesia",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3095 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Biodiversity of Anopheles and Malaria Vector Control in Indonesia: A Review",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 101, 04004, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cladogram construction of mosquitos based on morphological characteristics",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 94, 04016, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of the Cultivation of \u2018Sleman\u2019Longan Cultivar and Local Klanceng Bees by Applying Appropriate Techniques and Technology Integrated Agricultural Systems (SIMANTRI \u2026",
+        "pub_year": "2023",
+        "citation": "AIJR Proceedings, 7-15, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UJI PATOGENISITAS ISOLAT ENTEROBACTER AEROGENES B4 SEBAGAI BIOINSEKTISIDA TERHADAP HAMA KUBIS",
+        "pub_year": "2022",
+        "citation": "CALYPTRA 11 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sinergisme Ekstrak Kunyit, Kelor, Cengkeh, dan Sirih Merah dengan Bacillus thuringiensis var. kurstaki Berl. terhadap Larva Ulat Grayak (Spodoptera litura Fab.)(Lepidoptera \u2026",
+        "pub_year": "2022",
+        "citation": "Berkala Ilmiah Biologi 13 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectivity of Spodoptera littoralis Nucleopolyhedrovirus (Spli MNPV) and Natural Additives Mixtures against Spodoptera litura Fab.(Lepidoptera: Noctuidae) on Cabbage Plants",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (2), 71134, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat Serangan Grayak Spodoptera litura Pada Cabai Rawit (Capsicum frutescens) Dengan Pemberian Bakteri Lysinibacillus sphaericus",
+        "pub_year": "2021",
+        "citation": "Bioma: Berkala Ilmiah Biologi 23 (2), 149-158, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genome analysis of Lysinibacillus sphaericus isolate 6.2 pathogenic to Culex quinquefasciatus Say, 1823 (Diptera: Culicidae)",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (11), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Draft Genome of Lysinibacillus sphaericus Isolate 229C Pathogenic to Vector Mosquitoes",
+        "pub_year": "2021",
+        "citation": "Jurnal Biologi Tropis 21 (2), 576-586, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFISIENSI LUBANG RESAPAN BIOPORI (LRB) PADA BEBERAPA TANAH Studi Kasus: Komplek Perumahan Sleman, Perumahan Glagahsari, Perumahan Piyungan EFFICIENCY OF BIOPORY INFILTRATION \u2026",
+        "pub_year": "2021",
+        "citation": "University Technology Yogyakarta, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterisation of Lysinibacillus sphaericus strains",
+        "pub_year": "2016",
+        "citation": "Cardiff University, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design of control system for silkworm's growth chamber to improve the quality of raw-silk.",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 10th International Agricultural Engineering Conference \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECTS OF FOOD AVAILABILITY OF KEBEN (Barringtonia asiatica kurtz.) TO THE DEVELOPMENT OF LATE INSTARS OF Attacus atlas (L.) (LEPIDOPTERA: SATURNIIDAE) REARED OUTDOOR WITHOUT \u2026",
+        "pub_year": "2006",
+        "citation": "3rd Life Sciences Postgraduate Conference, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya bunuh beberapa Isolat Spodoptera litura-multiplenucleopolyhedrovirus sebagai agensia hayati untuk pengendalian ulat grayak, Spodoptera litura (Fab.) hama pada tanman Cabai",
+        "pub_year": "2002",
+        "citation": "Berkala Ilmiah Biologi 2 (2002), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji efikasi Isolat Spodoptera Litura-multiplenucleopolyhedrovirus sebagai agensia pengendalian ulat grayak Spodoptera Litura (Fab.), hama pada tanaman cabai di lapangan",
+        "pub_year": "2002",
+        "citation": "Berkala Ilmiah Biologi 2 (2002), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGENDALIAN HAMA DAN PENYAKIT BENIH KEDELAI DALAM KEMASAN DENGAN RADIASI SINAR GAMMA CO 60",
+        "pub_year": "2001",
+        "citation": "Lembaga Penelitian UGM, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalence des virus de polyedroses nucleaires chez les larves de Spodoptera litura en Indonesie",
+        "pub_year": "1997",
+        "citation": "Annales ANPP (France), 1997"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi dan karakterisasi scopelodes unicolor nuclear polyhedrosis virus",
+        "pub_year": "1997",
+        "citation": "Universitas Gadjah Mada, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survey of Spodoptera litura nucleopolyhedroviruses in Indonesia",
+        "pub_year": "1996",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Major Royal Jelly Protein 2 (mrjp2) Gene Detection in Apis dorsata Fabricius, 1793, Apis dorsata binghami Cockerell, 1906, Apis florea Fabricius, 1787, and Apis nigrocincta \u2026",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (2), 85987, 0"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synergism of Turmeric, Moringa, Clove, and Red Betel Extracts with Bacillus thuringiensis var. kurstaki Berl. against Taro Caterpillar (Spodoptera litura Fab.)(Lepidoptera \u2026",
+        "citation": "Berkala Ilmiah Biologi 13 (3), 36-42, 0"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain Sistem Kontrol Ruang Pertumbuhan Ulat Sutera untuk Meningkatkan Kualitas Produksi Sutera Alam",
+        "citation": "agriTECH 24 (4), 186-196, 0"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Kinerja Teknologi Kontrol Tepat Guna untuk Peningkatan Kualitas Produksi Sutera Alam",
+        "citation": "agriTECH 26 (4), 0"
+      },
+      "filled": false,
+      "author_pub_id": "7g1TBpgAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}
