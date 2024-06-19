@@ -1,0 +1,740 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "16rCA5wAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Irfan Mustafa",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=16rCA5wAAAAJ&citpid=2",
+  "affiliation": "Brawijaya University",
+  "organization": 15077197145172930606,
+  "interests": [
+    "Environmental Microbiology",
+    "Microbial Diversity",
+    "Bioremediation"
+  ],
+  "email_domain": "@ub.ac.id",
+  "citedby": 103,
+  "citedby5y": 99,
+  "hindex": 6,
+  "hindex5y": 6,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2014": 1,
+    "2015": 1,
+    "2016": 0,
+    "2017": 1,
+    "2018": 0,
+    "2019": 7,
+    "2020": 15,
+    "2021": 21,
+    "2022": 20,
+    "2023": 23,
+    "2024": 12
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of lactic acid bacteria isolated from fermented mare's milk products based on PCR-RFLP analysis",
+        "pub_year": "2018",
+        "citation": "International Conference on Green Agro-industry and Bioeconomy 18\u201320 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:4DMP91E08xMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16772241585908249349,7653123605358823886",
+      "cites_id": [
+        "16772241585908249349",
+        "7653123605358823886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Endophytic Bacteria from the Traditional Medicinal Plants Leaves that Have Anti-phytopathogens Activity",
+        "pub_year": "2019",
+        "citation": "Journal of Tropical Life Science 9 (1), 53-63, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6851432945283931244",
+      "cites_id": [
+        "6851432945283931244"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Newly isolated ligninolytic bacteria and its applications for multiple dye degradation",
+        "pub_year": "2023",
+        "citation": "Water, Air, & Soil Pollution 234 (6), 359, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13144135516368622804",
+      "cites_id": [
+        "13144135516368622804"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profile of microbial community of naturally fermented Sumbawa mare\u2019s milk using next-generation sequencing",
+        "pub_year": "2019",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 24 (2), 65-69, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:8k81kl-MbHgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16188902215141548587",
+      "cites_id": [
+        "16188902215141548587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organic cocoa farming in Indonesia: Constraints and development strategies",
+        "pub_year": "2021",
+        "citation": "Organic Agriculture 11 (3), 445-455, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3861565652494145633",
+      "cites_id": [
+        "3861565652494145633"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat modification with refugia blocks for improving arthropod richness and diversity in paddy field",
+        "pub_year": "2019",
+        "citation": "International Journal of Civil Engineering and Technology 10 (8), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:0EnyYjriUFMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13565715618365572771",
+      "cites_id": [
+        "13565715618365572771"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of potential pathogen bacteria causing tuber rot in porang (Amorphophallus muelleri Blume)",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Life Science 10 (2), 99-104, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:Se3iqnhoufwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10634860515186800742",
+      "cites_id": [
+        "10634860515186800742"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of endophytic bacteria isolated from Ficus septica as phytoremediation promoting agent of Cr (VI) contaminated soil",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (5), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:5nxA0vEk-isC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15666292853333832475",
+      "cites_id": [
+        "15666292853333832475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organic farming system of cocoa plantations in South Malang, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743 (1), 012030, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11218216205493606737",
+      "cites_id": [
+        "11218216205493606737"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of 2,2-DCP degrading bacteria isolated from a paddy field at a rural area in Malang, Indonesia",
+        "pub_year": "2018",
+        "citation": "Malaysian Journal of Microbiology 14 (7), 674-679, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11409212029043806624",
+      "cites_id": [
+        "11409212029043806624"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosistem pertanian apel lokal Malang",
+        "pub_year": "2011",
+        "citation": "The Journal of Experimental Life Science 1 (2), 95-101, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7561719091466689431",
+      "cites_id": [
+        "7561719091466689431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengkajian Potensi Bakteri Termofilik dari Sumur Minyak Bumi di Jatibarang dalam Penera-pan MEOR",
+        "pub_year": "2006",
+        "citation": "Tesis. Institut Teknologi Bandung, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1703541845037572274",
+      "cites_id": [
+        "1703541845037572274"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of Plantaricin-Encoding Gene and Its Partial Purification in Lactobacillus plantarum BP102",
+        "pub_year": "2023",
+        "citation": "Jurnal Biodjati 8 (2), 233-247, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:k_IJM867U9cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11792320966618568394",
+      "cites_id": [
+        "11792320966618568394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Changes in Essential Soil Nutrients and Soil Disturbance Directly Affected Soil Microbial Community Structure: A Metagenomic Approach",
+        "pub_year": "2022",
+        "citation": "Journal of Ecological Engineering 23 (7), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7876880848253341667",
+      "cites_id": [
+        "7876880848253341667"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vegetation composition in gold post-mining land of PT. Sultra Utama Nickel, Bombana District",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 883 (1), 012065, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:r0BpntZqJG4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17813706782103344132",
+      "cites_id": [
+        "17813706782103344132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity and abundance of butterfly [Lepidoptera] in several urban green spaces of Malang city",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 741 (1), 012057, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12702748305132524067",
+      "cites_id": [
+        "12702748305132524067"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and identification of hydrocarbon-degrading bacteria that tolerant to saponin of Sapindus rarak plant",
+        "pub_year": "2019",
+        "citation": "Jurnal Biodjati 4 (1), 79-88, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11629834071665477392",
+      "cites_id": [
+        "11629834071665477392"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A single epitope of Epstein-Barr Virus stimulate IgG production in mice",
+        "pub_year": "2018",
+        "citation": "Annals of medicine and surgery 35, 55-58, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5180419866318452524",
+      "cites_id": [
+        "5180419866318452524"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of heterotrophic thiosulfate-oxidizing bacteria and their role in a conserved tidal flat in the Ariake Sea, Japan",
+        "pub_year": "2015",
+        "citation": "Journal of Ecology and The Natural Environment 7 (4), 106-112, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14516196799565020407",
+      "cites_id": [
+        "14516196799565020407"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Degradation of Petroleum Refinery Waste by a Consortium of Hydrocarbonoclastic Bacteria on Several C: n: p Ratio",
+        "pub_year": "2012",
+        "citation": "Journal of Tropical Life Science 2 (1), 96034, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17642943175453201988",
+      "cites_id": [
+        "17642943175453201988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and identification of nitrogen-fixing rhizobacteria associated with Cocoa plantation (Theobroma cacao L) as biofertilizer agent",
+        "pub_year": "2022",
+        "citation": "The Journal of Experimental Life Science 12 (3), 75-80, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2817215720445927194",
+      "cites_id": [
+        "2817215720445927194"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Pengawetan Nano Edible Coating Kombinasi Gelatin Tulang Sapi dan Pektin Kulit Apel pada Kacang Tanah",
+        "pub_year": "2021",
+        "citation": "Rona Teknik Pertanian 14 (1), 26-37, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8764111609178802801",
+      "cites_id": [
+        "8764111609178802801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial Population Dynamics of Natural Fermentation of Sumbawa Mare\u2019s Milk Using Metagenomic Approach",
+        "pub_year": "2021",
+        "citation": "Microbiology Indonesia 15 (2), 2-2, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3644321476980040896",
+      "cites_id": [
+        "3644321476980040896"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosurfactant production and diesel-fuel removal by isolated bacteria from Kalimas Estuary, Madura Strait",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743 (1), 012062, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5703815853054558634",
+      "cites_id": [
+        "5703815853054558634"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of nitrogen sources on anti-phytopathogenic activities fermented filtrate of Bacillus subtilis AAF2",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012005, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:UebtZRa9Y70C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11003805198796189704",
+      "cites_id": [
+        "11003805198796189704"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectiveness of banana tuber and goat rumen as bio activator of liquid biopesticide fertilizers",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012020, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5194564824617728487",
+      "cites_id": [
+        "5194564824617728487"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of botanical pesticide combined with Beauveria bassiana on mortality, nutritional index and fecundity of Spodoptera litura L.",
+        "pub_year": "2024",
+        "citation": "Cogent Food & Agriculture 10 (1), 2320816, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity of indigenous and potential bacteria as bioremediator of palm oil mill secondary effluent (POMSE) by metagenomics assessment",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (3), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tofu Whey-Based Media for Probiotic Lactiplantibacillus plantarum D4 as a Halal Starter Culture",
+        "pub_year": "2024",
+        "citation": "Indonesian Journal of Halal Research 6 (1), 26-35, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil Properties and Macrofauna Community in a Converted Intensive Rice Field into an Organic Polyculture in Malang Regency, Indonesia: Soil Properties and Macrofauna Community \u2026",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Life Science 14 (1), 119\u2013130-119\u2013130, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytochemical Screening and Antibacterial Activity of Ethanolic Extracts from Delonix regia Against Laboratory Strains of Diarrheal Bacteria",
+        "pub_year": "2024",
+        "citation": "JKPK (Jurnal Kimia dan Pendidikan Kimia) 9 (1), 50-68, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of Chitinolytic Bacteria as Biocontrol Agent for Pathogenic Fungi on Cocoa Fruit in Sumbermanjing District, Malang",
+        "pub_year": "2023",
+        "citation": "The Journal of Experimental Life Science 13 (1), 29-34, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Identification of Rhizosphere Bacteria Associated with Taro (Colocasia esculenta L. Schott) as Plant Growth Promoting Rhizobacteria",
+        "pub_year": "2022",
+        "citation": "The Journal of Experimental Life Science 12 (2), 39-45, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The removal of remazol brilliant blue dyes from liquid waste using nano montmorillonite from bentonite of Bener Meriah Aceh",
+        "pub_year": "2022",
+        "citation": "Jurnal Natural 22 (2), 68-72, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The removal of remazol brilliant blue dyes from liquid waste using nano montmorillonite from bentonite of Bener Meriah Aceh",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hidrogel Berasaskan Pektin Kulit Buah Naga (Hylocereus polyrhizus) sebagai Pembawa Ubat melalui Sistem Penghantar Oral [(Pectin Based Hydrogel from Dragon Fruit Peels \u2026",
+        "pub_year": "2021",
+        "citation": "Sains Malaysiana, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The efficacy of eggplant (Solanum melongena) extract as bioinsecticide on mortality of Helopeltis antonii",
+        "pub_year": "2021",
+        "citation": "Journal of Entomological Research 45 (4), 665-668, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategies to improve weaving cloth production to support Betang Long House tourism in Sintang, West Kalimantan, Indonesia",
+        "pub_year": "2019",
+        "citation": "International Journal of Scientific and Research Publications 9 (12), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Rhizosphere Bacteria and Their Potency as Phytoremediation Promoting Agents for Cr (VI) Contaminated Soil",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012033, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Business model analysis and determination of production cost of Micro, Small and Medium Enterprises (MSME) Product Businesses Talok Village, Turen Distric, Malang with Business \u2026",
+        "pub_year": "2018",
+        "citation": "Berdikari: Jurnal Pengabdian Masyarakat Indonesia 1 (2), 85-97, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community structure of H S-oxidizing bacteria at Midorikawa mudflat, Japan",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community structure of H",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Removal of humic acid from peat soils by using AlCl3 prior to DNA extraction",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1844 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community composition of autotrophic thiosulfate oxidizers in tidal flat sediment from the Ariake Sea during growth in continuous culture.",
+        "pub_year": "2015",
+        "citation": "Journal of Pure and Applied Microbiology 9 (Special Edition 2), 51-57, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "3P-108 Analysis of bacterial community for sulfur cycle in conserved tidal flats in Ariake sea",
+        "pub_year": "2013",
+        "citation": "\u65e5\u672c\u751f\u7269\u5de5\u5b66\u4f1a\u5927\u4f1a\u8b1b\u6f14\u8981\u65e8\u96c6 65, 215, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISASI BAKTERI TERMOFILIK INDIGEN SUMUR MINYAK BUMI DI JAWA BARAT",
+        "pub_year": "2009",
+        "citation": "Seminar Nasional Biologi XX dan Kongres PBI XIV UIN Maliki Malang, 353, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lactic Acidosis, New Paradigm",
+        "pub_year": "2002",
+        "citation": "MEDICAL JOURNAL OF MALAYSIA 57, 69-69, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Finally, we welcome you to Malang, a city known for its cooler temperature, beautiful surrounding countryside, and attractive streets lined with historical buildings. We hope \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eco-friendly Technology and Policy on Industrial and Regional Planning for Mitigation of Climate Change",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "16rCA5wAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

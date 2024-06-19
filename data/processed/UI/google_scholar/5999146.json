@@ -1,0 +1,575 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "DevFRj0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Andi Eko Maryanto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DevFRj0AAAAJ&citpid=1",
+  "affiliation": "Department Biology, Faculty of Mathematics and Natural Sciences, Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Biology Conservation",
+    "Molecular Biology",
+    "Bioinformatics"
+  ],
+  "email_domain": "@ui.ac.id",
+  "citedby": 50,
+  "citedby5y": 50,
+  "hindex": 4,
+  "hindex5y": 4,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2019": 1,
+    "2020": 3,
+    "2021": 4,
+    "2022": 16,
+    "2023": 20,
+    "2024": 5
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determinaton of sex, age, and spatial distribution of sumatran elephant (Elephas maximus sumatranus) in Bukit Barisan Selatan National Park",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=956100753963538482",
+      "cites_id": [
+        "956100753963538482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of the antifungal activity of marine actinomycetes isolates against the phytopathogenic fungi Colletotrichum siamense KA: A preliminary study for new antifungal \u2026",
+        "pub_year": "2021",
+        "citation": "Pharmacia 68 (4), 837-843, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:4DMP91E08xMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17567330053947412316",
+      "cites_id": [
+        "17567330053947412316"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic potential of Streptomyces cellulosae SM12 against Ganoderma sp. TB3 and Ganoderma sp. TB4",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012055, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=525684895472360747",
+      "cites_id": [
+        "525684895472360747"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and screening of amylase activity of primary moulds in Ragi Tapai of Indonesia",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3239034154605005167",
+      "cites_id": [
+        "3239034154605005167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dampak smartphone terhadap perkembangan sosial dan keagamaan anak usia baligh di Desa Bandu Agung Kecamatan Kaur Utara Kabupaten Kaur",
+        "pub_year": "2019",
+        "citation": "IAIN Bengkulu, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16488254266234651504",
+      "cites_id": [
+        "16488254266234651504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibition of the phytopathogenic fungi Curvularia lunata BM and Ganoderma sp. TB4 by antifungal compounds produced by Bacillus siamensis LDR grown on hanjeli (Coix lacryma \u2026",
+        "pub_year": "2022",
+        "citation": "Pharmacia 69 (1), 203-210, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=420683896415369715",
+      "cites_id": [
+        "420683896415369715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic study of Sumatran Microhyla heymonsi Vogt, 1911 (Anura: Microhylidae) based on 16S rRNA mitochondrial gene",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012063, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5928354072080473033",
+      "cites_id": [
+        "5928354072080473033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Methods to maximize environmental DNA (eDNA) for detection the presence of Alligator Gar (Atractosteus spatula)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 538 (1), 012018, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14918596233483456791",
+      "cites_id": [
+        "14918596233483456791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of environmental DNA approaches to detect alligator gar (Atractosteus spatula) from water samples",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012013, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6217906459962885407",
+      "cites_id": [
+        "6217906459962885407"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonist effect of Bacillus spp. against Aspergillus niger CP isolated from cocopeat powder",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 846 (1), 012001, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4012622790251862843",
+      "cites_id": [
+        "4012622790251862843"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antifungal potential from Bacillus sp. against phytopathogenic fungus Colletotrichum sp.",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2374 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15745791929871979211",
+      "cites_id": [
+        "15745791929871979211"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potency of Bacillus siamensis LDR as Biocontrol Agent Against Fungal Phytopathogen",
+        "pub_year": "2021",
+        "citation": "3rd KOBI Congress, International and National Conferences (KOBICINC 2020 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12854432142082507331",
+      "cites_id": [
+        "12854432142082507331"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of DNA barcoding to detect mislabeling of fish fillet products from Jabodetabek\u2019s market",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 538 (1), 012021, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5262922052208844991",
+      "cites_id": [
+        "5262922052208844991"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fermentation of antimicrobial substances of Streptomyces sp. BCy isolated from seagrass Cymodocearotundata using two different media",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3151215003796466330",
+      "cites_id": [
+        "3151215003796466330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of red-eared slider (Trachemys scripta elegans) using environmental DNA with cytochrome b primer",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1111 (1), 012052, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10771177383292772599",
+      "cites_id": [
+        "10771177383292772599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of UV-B Radiation Intensity on Hsp70, mtHsc70-1, and cpHsc70-2 Gene Expression in Synedrella nodiflora (L.) Gaertn. Leaf Under Field Conditions",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 246-254, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6779217298588775303",
+      "cites_id": [
+        "6779217298588775303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Kualitas Janggel Jagung Sebagai Pakan Sapi Induk Bunting Melalui Proses Amoniasi-Fermentasi (Amofer)",
+        "pub_year": "2021",
+        "citation": "Jurnal Riset Agribisnis dan Peternakan 6 (1), 21-30, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16911451447485580566",
+      "cites_id": [
+        "16911451447485580566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The study of Heat shock protein 70 (Hsp70) gene expression on Ageratum conyzoides L. and Synedrella nodiflora L. in Universitas Indonesia, Depok and Cibodas Botanical Garden",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012059, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9423462667768933873",
+      "cites_id": [
+        "9423462667768933873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of two rapid DNA extraction for DNA based identification from fish fillet products",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 538 (1), 012027, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5712303312744492169",
+      "cites_id": [
+        "5712303312744492169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of isolated lactic acid bacilli bacteria from black glutinous rice (Oryza sativa L.) tapai and its antimicrobial activity in mung bean (Vigna radiata L.) milk",
+        "pub_year": "2024",
+        "citation": "Kuwait Journal of Science 51 (2), 100161, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of rice straw for ruminant feed on several rice varieties",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 99, 01001, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic activity of Bacillus siamensis LDR against Curvularia lunata BM",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2738 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of DNA Extraction Method for Forensics Studies of Preserved Hair and Skin Samples from Sumatran Tiger (Panthera tigris sumatrae, Pocock 1929)",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (5), 816-824, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of performance and gene OsFER1 expression of six rice varieties with FeSO4 stress treatment",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of the 12S rRNA and COI Regions of Mitochondrial DNA for eDNA Detection of Alligator Gar (Atractosteus spatula)",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 443-448, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of potential biocontrol agent Bacillus sp.",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2374 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Local Adaptation of Invasive Plant, Synedrella nodiflora, in Urban Tropical Lowland Landscape, Universitas Indonesia",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 6 (3), 64622, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of antimicrobial compound from two potential actinomycetes SRM 2 and SD 17 using soluble and local starch",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012065, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Heat Shock Protein (Hsp) 70 gene expression of Emilia sonchifolia L. and Sphagneticola trilobata L. in Universitas Indonesia, Depok and Kebun Raya Cibodas",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012047, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performa Stenotaphrum secundatum yang Ditanam di Bawah Naungan Pohon Karet (Hevea brasiliensis) di Lahan Kering Masam",
+        "pub_year": "2020",
+        "citation": "Prosiding Seminar Nasional Teknologi Peternakan dan Veteriner 20 (20), 731-742, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiplex PCR for identification of fish substitution in fish fillet products",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 538 (1), 012014, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using environmental DNA from sediment samples to detect invasive alligator gar (Atractosteus spatula) in an artificial pond",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012008, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variation of Elephas maximus sumatranus from Bukit Barisan Selatan National Park, Indonesia",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Amylase activity of actinomycetes isolated from mangrove litter at Pramuka Island, Kepulauan Seribu, DKI Jakarta, Indonesia",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coliform detection in Indonesian Ragi Tapai as an indicator of unhygienic processes using chromogenic media",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Memproduksi Ragi Tape Unggul Dengan Memanfaatkan Mikroorganisme Indigenous",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Allelic pattern and diversity in wild stocks of the giant freshwater prawn (Macrobrachium rosenbergii) from Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kuwait Journal of Science",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "DevFRj0AAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

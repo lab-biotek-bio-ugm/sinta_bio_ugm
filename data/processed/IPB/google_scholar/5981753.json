@@ -1,0 +1,2560 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "4uRcsN0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ni Wayan Kurniani Karja",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4uRcsN0AAAAJ&citpid=3",
+  "affiliation": "lecturer at IPB",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Reproductive biotechnology",
+    "Reproductive Genomic and Proteomic",
+    "Procution Embryo In Vitro"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 1876,
+  "citedby5y": 627,
+  "hindex": 23,
+  "hindex5y": 15,
+  "i10index": 41,
+  "i10index5y": 18,
+  "cites_per_year": {
+    "2002": 5,
+    "2003": 20,
+    "2004": 14,
+    "2005": 34,
+    "2006": 70,
+    "2007": 73,
+    "2008": 67,
+    "2009": 76,
+    "2010": 101,
+    "2011": 109,
+    "2012": 103,
+    "2013": 96,
+    "2014": 109,
+    "2015": 79,
+    "2016": 85,
+    "2017": 87,
+    "2018": 101,
+    "2019": 83,
+    "2020": 110,
+    "2021": 118,
+    "2022": 118,
+    "2023": 138,
+    "2024": 54
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KzXTL60AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Asmarani Kusumawati",
+      "affiliation": "Faculty of Veterinary Medicine, Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VBa3E5sAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "ADNYANE, I Ketut Mudite",
+      "affiliation": "Bogor Agricultural University (IPB)"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developmental competence of in vitro-fertilized porcine oocytes after in vitro maturation and solid surface vitrification: effect of cryopreservation on oocyte antioxidative \u2026",
+        "pub_year": "2007",
+        "citation": "Cryobiology 55 (2), 115-126, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:GnPB-g6toBAC",
+      "num_citations": 213,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16379582246360246213",
+      "cites_id": [
+        "16379582246360246213"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of oxygen tension on the development and quality of porcine in vitro fertilized embryos",
+        "pub_year": "2004",
+        "citation": "Theriogenology 62 (9), 1585-1595, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 107,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8470079290890208249",
+      "cites_id": [
+        "8470079290890208249"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of ovary storage time and temperature on DNA fragmentation and development of porcine oocytes",
+        "pub_year": "2005",
+        "citation": "Journal of Reproduction and Development 51 (1), 87-97, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 94,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17656129783338285910",
+      "cites_id": [
+        "17656129783338285910"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro maturation, fertilization and development of domestic cat oocytes recovered from ovaries collected at three stages of the reproductive cycle",
+        "pub_year": "2002",
+        "citation": "Theriogenology 57 (9), 2289-2298, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 87,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14160094587296179036",
+      "cites_id": [
+        "14160094587296179036"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Addition of glutathione or thioredoxin to culture medium reduces intracellular redox status of porcine IVM/IVF embryos, resulting in improved development to the blastocyst stage",
+        "pub_year": "2006",
+        "citation": "Molecular Reproduction and Development: Incorporating Gamete Research 73 (8 \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 81,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7068945439654253347",
+      "cites_id": [
+        "7068945439654253347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Size distribution and meiotic competence of oocytes obtained from bitch ovaries at various stages of the oestrous cycle",
+        "pub_year": "2001",
+        "citation": "Reproduction, Fertility and Development 13 (3), 151-155, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:yD5IFk8b50cC",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1059236813008983747",
+      "cites_id": [
+        "1059236813008983747"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of DNA fragmentation in bovine somatic nuclear transfer embryos using TUNEL",
+        "pub_year": "2002",
+        "citation": "REPRODUCTION-CAMBRIDGE- 124 (6), 813-819, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 73,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9322129476431768636",
+      "cites_id": [
+        "9322129476431768636"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development to the blastocyst stage, the oxidative state, and the quality of early developmental stage of porcine embryos cultured in alteration of glucose concentrations in \u2026",
+        "pub_year": "2006",
+        "citation": "Reproductive Biology and Endocrinology 4, 1-12, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 62,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=318418469838314951",
+      "cites_id": [
+        "318418469838314951"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Blastocysts derived from in vitro-fertilized cat oocytes after vitrification and dilution with sucrose",
+        "pub_year": "2004",
+        "citation": "Cryobiology 48 (3), 341-348, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 61,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11678162550909638279",
+      "cites_id": [
+        "11678162550909638279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developmental competence of cat oocytes from ovaries stored at various temperature for 24 h",
+        "pub_year": "2007",
+        "citation": "Journal of Reproduction and Development 53 (2), 271-277, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 56,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6544970403663440405",
+      "cites_id": [
+        "6544970403663440405"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro development of polyspermic porcine oocytes: Relationship between early fragmentation and excessive number of penetrating spermatozoa",
+        "pub_year": "2008",
+        "citation": "Animal reproduction science 107 (1-2), 131-147, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6218933590652613255",
+      "cites_id": [
+        "6218933590652613255"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of protein supplementation on development to the hatching and hatched blastocyst stages of cat IVF embryos",
+        "pub_year": "2002",
+        "citation": "Reproduction, Fertility and Development 14 (5), 291-296, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9036877927032371565",
+      "cites_id": [
+        "9036877927032371565"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of hexoses on in vitro oocyte maturation and embryo development in pigs",
+        "pub_year": "2006",
+        "citation": "Theriogenology 65 (2), 332-343, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15142623478590242676",
+      "cites_id": [
+        "15142623478590242676"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of DNA fragmentation of porcine embryos exposed to cryoprotectants",
+        "pub_year": "2005",
+        "citation": "Reproduction in domestic animals 40 (5), 429-432, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16060390026813829953",
+      "cites_id": [
+        "16060390026813829953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of cooling ovaries before oocyte aspiration on meiotic competence of porcine oocytes and of exposing in vitro matured oocytes to ambient temperature on in vitro \u2026",
+        "pub_year": "2003",
+        "citation": "Cryobiology 47 (2), 102-108, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=138527133322992401",
+      "cites_id": [
+        "138527133322992401"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship between Oxygen Consumption and Sex of Bovine In Vitro Fertilized Embryos",
+        "pub_year": "2005",
+        "citation": "Reproduction in domestic animals 40 (1), 51-56, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10921960881367325147",
+      "cites_id": [
+        "10921960881367325147"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison between effects of 3\u2010isobutyl\u20101\u2010methylxanthine and FSH on gap junctional communication, LH\u2010receptor expression, and meiotic maturation of cumulus\u2013oocyte complexes in \u2026",
+        "pub_year": "2008",
+        "citation": "Molecular Reproduction and Development: Incorporating Gamete Research 75 (5 \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17573011343691694192",
+      "cites_id": [
+        "17573011343691694192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diploid porcine parthenotes produced by inhibition of first polar body extrusion during in vitro maturation of follicular oocytes",
+        "pub_year": "2006",
+        "citation": "Reproduction 132 (4), 559-570, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=128812952541392384",
+      "cites_id": [
+        "128812952541392384"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil biokimia darah pada sapi perah yang mengalami kawin berulang",
+        "pub_year": "2013",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 7 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11659952129378980376",
+      "cites_id": [
+        "11659952129378980376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maturation and fertilisation of sheep oocytes cultured in serum-free medium containing silk protein sericin",
+        "pub_year": "2015",
+        "citation": "Acta Veterinaria Hungarica 63 (1), 110-117, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:O3NaXMp0MMsC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18375743387449501032",
+      "cites_id": [
+        "18375743387449501032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of size and storage temperature on meiotic competence of domestic cat oocytes.",
+        "pub_year": "2001",
+        "citation": "The Veterinary Record 148 (4), 116-118, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:WF5omc3nYNoC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13375275886213014277",
+      "cites_id": [
+        "13375275886213014277"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of replacement of pyruvate/lactate in culture medium with glucose on preimplantation development of porcine embryos in vitro",
+        "pub_year": "2004",
+        "citation": "Journal of Reproduction and Development 50 (5), 587-592, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12826651372537309560",
+      "cites_id": [
+        "12826651372537309560"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Serum\u2010Free Culture Media on in vitro Development of Domestic Cat Embryos Following In Vitro Maturation and Fertilization",
+        "pub_year": "2002",
+        "citation": "Reproduction in domestic animals 37 (6), 352-356, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ufrVoPGSRksC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5075194948020278058",
+      "cites_id": [
+        "5075194948020278058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of electric field strengths on fusion and in vitro development of domestic cat embryos derived by somatic cell nuclear transfer",
+        "pub_year": "2006",
+        "citation": "Theriogenology 66 (5), 1237-1242, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6934755844175772187",
+      "cites_id": [
+        "6934755844175772187"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship between DNA fragmentation and nuclear status of in vitro-matured porcine oocytes: role of cumulus cells",
+        "pub_year": "2005",
+        "citation": "Reproduction, Fertility and Development 16 (8), 773-780, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:roLk4NBRz8UC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1930900147892721919",
+      "cites_id": [
+        "1930900147892721919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro development and post-thaw survival of blastocysts derived from delipidated zygotes from domestic cats",
+        "pub_year": "2006",
+        "citation": "Theriogenology 65 (2), 415-423, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:UebtZRa9Y70C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10872520580825757026",
+      "cites_id": [
+        "10872520580825757026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalensi dan faktor resiko kawin berulang pada sapi perah pada tingkat peternak",
+        "pub_year": "2013",
+        "citation": "Jurnal Veteriner 14 (4), 452-461, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13492563112534310475",
+      "cites_id": [
+        "13492563112534310475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation between age, testosterone and adiponectin concentrations, and sperm abnormalities in Simmental bulls",
+        "pub_year": "2021",
+        "citation": "Veterinary World 14 (8), 2124, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:Y5dfb0dijaUC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5887048899318673978",
+      "cites_id": [
+        "5887048899318673978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etika Penelitian Dan Publikasi Ilmiah",
+        "pub_year": "2021",
+        "citation": "PT Penerbit IPB Press, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:JoZmwDi-zQgC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7579861142576009631",
+      "cites_id": [
+        "7579861142576009631"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRM1 Gene Expression and Its Protein Abundance in Frozen-Thawed Spermatozoa as Potential Fertility Markers in Breeding Bulls",
+        "pub_year": "2022",
+        "citation": "Veterinary Sciences 9 (3), 111, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:PR6Y55bgFSsC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17292143561901085286",
+      "cites_id": [
+        "17292143561901085286"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Breed and age effects on concentration of adiponectin and reproductive performance in Anglo Nubian, Etawah grade and its crossbred bucks",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:J-pR_7NvFogC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1282805514342565534",
+      "cites_id": [
+        "1282805514342565534"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas low density lipoprotein dan kuning telur ayam dan puyuh pada pengawetan semen ayam Merawang",
+        "pub_year": "2017",
+        "citation": "Jurnal Veteriner 18 (3), 345-352, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16041500706290343077",
+      "cites_id": [
+        "16041500706290343077"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of sperm bovine protamine as a protein marker of semen production and quality at the National Artificial Insemination Center of Indonesia",
+        "pub_year": "2021",
+        "citation": "Veterinary World 14 (9), 2473, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:PELIpwtuRlgC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1034291824371315738",
+      "cites_id": [
+        "1034291824371315738"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengendalian folikulogenesis ovarium dengan pemberian ekstrak biji kapas",
+        "pub_year": "2017",
+        "citation": "Jurnal Sain Veteriner 35 (1), 71-80, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:KxtntwgDAa4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10492393262906804216",
+      "cites_id": [
+        "10492393262906804216"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat perkembangan awal embrio sapi in vitro menggunakan media tunggal berbahan dasar tissue culture medium (TCM) 199",
+        "pub_year": "2013",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 7 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:pqnbT2bcN3wC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17636522611149974499",
+      "cites_id": [
+        "17636522611149974499"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristic of frozen-thawed epididymal spermatozoa and refrigerated storage of ram spermatozoa",
+        "pub_year": "2010",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 35 (1), 63-67, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13494571693283945958",
+      "cites_id": [
+        "13494571693283945958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development to the blastocyst stage of porcine somatic cell nuclear transfer embryos reconstructed by the fusion of cumulus cells and cytoplasts prepared by gradient centrifugation",
+        "pub_year": "2007",
+        "citation": "Cloning and Stem Cells 9 (2), 216-228, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:XD-gHx7UXLsC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17757125761298401408",
+      "cites_id": [
+        "17757125761298401408"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics and fertility of Sumatran tiger spermatozoa cryopreserved with different sugars",
+        "pub_year": "2016",
+        "citation": "Cryoletters 37 (4), 264-271, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15684013936896005049",
+      "cites_id": [
+        "15684013936896005049"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of the Reproductive Status on Morphological Oocyte Quality and Developmental Competence of Oocytes after In Vitro Fertilization and Somatic Cell Nuclear \u2026",
+        "pub_year": "2008",
+        "citation": "Reproduction in domestic animals 43 (2), 157-161, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4003656567511151539",
+      "cites_id": [
+        "4003656567511151539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of cycloheximide on in vitro development of electrically activated feline oocytes",
+        "pub_year": "2005",
+        "citation": "Journal of Reproduction and Development 51 (6), 783-786, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:0EnyYjriUFMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5859856474276563397",
+      "cites_id": [
+        "5859856474276563397"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of culture medium on in vitro development of domestic cat embryos reconstructed by nuclear transplantation",
+        "pub_year": "2001",
+        "citation": "Theriogenology 55 (1), 268, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:Se3iqnhoufwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12483138820461660239",
+      "cites_id": [
+        "12483138820461660239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Gerakan Spermatozoa Sapi setelah Diinkubasi dalam Media Fertilisasi dengan Imbuhan Heparin dan/atau Kafein.",
+        "pub_year": "2020",
+        "citation": "Jurnal Veteriner 21 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9870784676778664593",
+      "cites_id": [
+        "9870784676778664593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Status akrosom dan kualitas post-thawed spermatozoa pada beberapa rumpun sapi dari dua balai inseminasi buatan",
+        "pub_year": "2017",
+        "citation": "Acta Veterinaria Indonesiana 5 (2), 81-88, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:K3LRdlH-MEoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6498118456418354955",
+      "cites_id": [
+        "6498118456418354955"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kemampuan fertilisasi spermatozoa sexing dan perkembangan awal embrio secara in vitro pada sapi",
+        "pub_year": "2016",
+        "citation": "Jurnal Sain Veteriner 34 (2), 225-232, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:dshw04ExmUIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5202671239533308206",
+      "cites_id": [
+        "5202671239533308206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik frozen-thawed spermatozoa domba Garut yang dikriopreservasi dalam pengencer yang mendapat imbuhan Orvus ES Paste",
+        "pub_year": "2014",
+        "citation": "Jurnal Veteriner 15 (4), 454-460, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ns9cj8rnVeAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3254885584495919898",
+      "cites_id": [
+        "3254885584495919898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nuclear maturation of porcine oocytes in vitro: effect of the cumulus-oocyte complexes quality",
+        "pub_year": "2008",
+        "citation": "Indo J Biotech 13, 1078-1084, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6317653581124916346",
+      "cites_id": [
+        "6317653581124916346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nuclear status and DNA fragmentation of oocytes from porcine, bovine and feline ovaries stored at 4\u00b0 C for 5 days",
+        "pub_year": "2014",
+        "citation": "CryoLetters 35 (1), 48-53, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:isC4tDSrTZIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18298540995564797054",
+      "cites_id": [
+        "18298540995564797054"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of cat embryos produced by intracytoplasmic injection of spermatozoa stored in alcohol",
+        "pub_year": "2005",
+        "citation": "Reproduction in domestic animals 40 (6), 511-515, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12941848633709189609",
+      "cites_id": [
+        "12941848633709189609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality of chilled canine semen in tris-egg yolk extender supplemented with sericin",
+        "pub_year": "2021",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 15 (1), 15-20, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:wbdj-CoPYUoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16468681908478928209",
+      "cites_id": [
+        "16468681908478928209"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Imbuhan Pentoxifylline dalam Pengencer Tris Kuning Telur dan Omega-3 dalam Pengencer Skim untuk Meningkatkan Kualitas Semen Beku Kambing Sapera",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:epqYDVWIO7EC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3651394452787236000",
+      "cites_id": [
+        "3651394452787236000"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of semen collection technique using electroejaculator and semen cryopreservation of Javan leopard (Panthera pardus melas Cuvier, 1809)",
+        "pub_year": "2021",
+        "citation": "Veterinary World 14 (12), 3156, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:SdhP9T11ey4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2575524463352035761",
+      "cites_id": [
+        "2575524463352035761"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibitory effect of iodoacetate on developmental competence of porcine early stage embryos in vitro",
+        "pub_year": "2009",
+        "citation": "HAYATI Journal of Biosciences 16 (1), 25-29, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:aqlVkmm33-oC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6929430016045744390",
+      "cites_id": [
+        "6929430016045744390"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat maturasi in vitro oosit kambing dalam medium dengan suplementasi serum dan albumin",
+        "pub_year": "2009",
+        "citation": "J. Veteriner 10 (4), 194-197, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18101550151103008609",
+      "cites_id": [
+        "18101550151103008609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "133 VITRIFICATION CAUSES DAMAGE OF THE ANTIOXIDANT DEFENSE SYSTEM IN IVM PORCINE OOCYTES",
+        "pub_year": "2007",
+        "citation": "Reproduction, Fertility and Development 19 (1), 184-184, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5792030271915332360",
+      "cites_id": [
+        "5792030271915332360"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of donor cell type and culture medium on in vitro development of domestic cat embryos reconstructed by nuclear transplantation",
+        "pub_year": "2001",
+        "citation": "Asian-Australasian Journal of Animal Sciences 14 (8), 1057-1061, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:5nxA0vEk-isC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2076791378151894192",
+      "cites_id": [
+        "2076791378151894192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik dan respons estrus domba setelah pemberian progesteron-controlled internal drug release Selama 12 dan 13 Hari",
+        "pub_year": "2018",
+        "citation": "Jurnal Veteriner 19 (4), 135-140, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:geHnlv5EZngC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6576874361419291972",
+      "cites_id": [
+        "6576874361419291972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Status DNA dan Karakteristik Spermatozoa Kauda Epididimis Domba Pascapenyimpanan pada Suhu 4oC",
+        "pub_year": "2017",
+        "citation": "Jurnal Veteriner Juni 18 (2), 167-174, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:_xSYboBqXhAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=315705817016110446",
+      "cites_id": [
+        "315705817016110446"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kompetensi Maturasi dan Fertilisasi Oosit Domba Prapubertas Secara In Vitro",
+        "pub_year": "2017",
+        "citation": "Jurnal Veteriner Maret 18 (1), 51-58, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:D03iK_w7-QYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9764165173510518609",
+      "cites_id": [
+        "9764165173510518609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cysteamine in maturation medium enhances nuclear maturation and fertilization rate of sheep oocytes in vitro",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (4), 290-290, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:1qzjygNMrQYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15752263069217105981",
+      "cites_id": [
+        "15752263069217105981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya fertilisasi spermatozoa kauda epididimis domba dengan atau tanpa swim up sebelum fertilisasi",
+        "pub_year": "2017",
+        "citation": "Acta Veterinaria Indonesiana 5 (1), 1-7, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8322524417311046965",
+      "cites_id": [
+        "8322524417311046965"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas oosit domba dari ovarium setelah penyimpanan pada suhu dan periode waktu yang berbeda",
+        "pub_year": "2013",
+        "citation": "Acta Veterinaria Indonesiana 1 (2), 45-50, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5489283006361029917",
+      "cites_id": [
+        "5489283006361029917"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fetal bovine serum meningkatkan maturasi inti oosit kelinci setelah dimaturasi secara in vitro",
+        "pub_year": "2010",
+        "citation": "Jurnal Veteriner 11 (3), 173-178, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:bFI3QPDXJZMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11954675554350703403",
+      "cites_id": [
+        "11954675554350703403"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "328 MEIOTIC COMPETENCE AND DNA FRAGMENTATION OF PORCINE OOCYTES FROM OVARIES STORED IN VARIOUS TEMPERATURES",
+        "pub_year": "2003",
+        "citation": "Reproduction, Fertility and Development 16 (2), 283-284, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:8k81kl-MbHgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11145967377607230207",
+      "cites_id": [
+        "11145967377607230207"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Spermatozoa Domba yang Diinkubasi Dalam Medium Fertilisasi dengan Waktu dan Konsentrasi Berbeda",
+        "pub_year": "2022",
+        "citation": "Acta VETERINARIA Indonesiana 10 (3), 201-210, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:uLbwQdceFCQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1022987256317569305",
+      "cites_id": [
+        "1022987256317569305"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRODUCTIVITY AND FRESH SEMEN CHARACTERISTICS OF SIMMENTAL BULL DIFFERENT AGES",
+        "pub_year": "2022",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 16 (1), 23-28, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:JQOojiI6XY0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9349025665925051816",
+      "cites_id": [
+        "9349025665925051816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of testicular cell development of 5\u2010day\u2010old mice in culture in vitro",
+        "pub_year": "2020",
+        "citation": "Animal Science Journal 91 (1), e13332, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:BrmTIyaxlBUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9838545304159158716",
+      "cites_id": [
+        "9838545304159158716"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Kambing Sapera yang Dibekukan dalam Pengencer Tris Kuning Telur dengan Imbuhan Pentoxifylline",
+        "pub_year": "2018",
+        "citation": "J Vet 19, 404-411, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15635067011935573358",
+      "cites_id": [
+        "15635067011935573358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructure changes in buffalo (Bubalus bubalis) oocytes before and after maturation in vitro with sericin",
+        "pub_year": "2017",
+        "citation": "Animal Science Journal 88 (12), 1911-1915, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:xtRiw3GOFMkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5185796473530081907",
+      "cites_id": [
+        "5185796473530081907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas oosit kerbau dari status reproduksi ovarium yang berlainan",
+        "pub_year": "2017",
+        "citation": "Jurnal Sain Veteriner 35 (2), 216-222, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:XiSMed-E-HIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2407126848921793587",
+      "cites_id": [
+        "2407126848921793587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kafein dalam medium maturasi meningkatkan fertilisasi dan menekan frekuensi polispermi oosit domba dengan maturasi diperpanjang",
+        "pub_year": "2017",
+        "citation": "J. Vet 18, 337-344, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:P5F9QuxV20EC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5059041791902685585",
+      "cites_id": [
+        "5059041791902685585"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat Maturasi dan Fertilisasi Oosit Domba yang Dimaturasi dalam Media dengan Imbuhan \u03b2-Mercaptoethanol Secara In Vitro",
+        "pub_year": "2015",
+        "citation": "Jurnal Veteriner Desember 16 (4), 585-591, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:35N4QoGY0k4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1832964650565377430",
+      "cites_id": [
+        "1832964650565377430"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Successful long term culture of immature porcine sertoli cells in the reconstructed testicular cell cord",
+        "pub_year": "2006",
+        "citation": "Journal of Reproduction and Development 52 (3), 383-389, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:dfsIfKJdRG4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10636460802030040554",
+      "cites_id": [
+        "10636460802030040554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profiling of seminal plasma proteins to identify the fertility of Simmental bull with low semen quality",
+        "pub_year": "2023",
+        "citation": "Journal of Advanced Veterinary and Animal Research 10 (3), 370, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:yB1At4FlUx8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6313025377865669958",
+      "cites_id": [
+        "6313025377865669958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penambahan \u00e1-tocopherol sebagai Antioksidan pada Pengencer Tris Kuning Telur Spermatozoa Kucing pada Suhu 4\u00b0 C.",
+        "pub_year": "2021",
+        "citation": "Jurnal Veteriner 22 (4), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:1yQoGdGgb4wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5210583191407355008",
+      "cites_id": [
+        "5210583191407355008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Movement pattern of bull sperm following incubation in fertilization media supplemented with heparin and/or caffeine.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:b1wdh0AR-JQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=82564840739991739",
+      "cites_id": [
+        "82564840739991739"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat proliferasi primordial germ cells secara in vitro dalam medium kultur dengan penambahan leukemia inhibitory factor",
+        "pub_year": "2019",
+        "citation": "J Veteriner 20 (4), 526-533, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:eflP2zaiRacC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17626578278893508313",
+      "cites_id": [
+        "17626578278893508313"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektifitas Penambahan Insulin dalam Media Maturasi dan atau Media Kultur pada Tingkat Maturasi Oosit dan Perkembangan Awal Embrio Sapi secara In Vitro",
+        "pub_year": "2019",
+        "citation": "Jurnal Sain Veteriner 37 (2), 135-142, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14063966448081592566",
+      "cites_id": [
+        "14063966448081592566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan sel endometrium domba setelah inkubasi dalam kolagenase dan dikultur in vitro dengan estradiol dan progesteron",
+        "pub_year": "2019",
+        "citation": "Jurnal Veteriner Jurnal Veteriner September 20 (3), 298-306, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:LPZeul_q3PIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16822126608871780903",
+      "cites_id": [
+        "16822126608871780903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi bakteri dan efektivitas antibiotik dalam pengencer untuk mengontrol pertumbuhan bakteri pada semen sapi Friesian holstein",
+        "pub_year": "2019",
+        "citation": "Jurnal Veteriner Universitas Pertanian Bogor 20 (140), 147, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:8AbLer7MMksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17234909231641557757",
+      "cites_id": [
+        "17234909231641557757"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kompetensi Maturasi Oosit in vitro dan Kajian Histologi Folikel dari Ovarium Domba Pascapenyimpanan pada Suhu 4 C",
+        "pub_year": "2018",
+        "citation": "Acta VETERINARIA Indonesiana 6 (2), 16-23, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:tS2w5q8j5-wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1118823016576378833",
+      "cites_id": [
+        "1118823016576378833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalence and risk factors of repeat breeding in dairy cows at the farmer level.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:TFP_iSt0sucC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12948843040938322601",
+      "cites_id": [
+        "12948843040938322601"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Low Density Lipoprotein (LDL) dari Kuning Telur Ayam terhadap Kualitas Semen Cair Domba Effectivity of Low Density Lipoprotein (LDL) from Hen Eggyolk in Liquid \u2026",
+        "citation": "CALL FOR PAPERS DECEMBER 2020, 293, 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:eq2jaN3J8jMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15475193218623490710",
+      "cites_id": [
+        "15475193218623490710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bovine nucleoprotein transitions genes and protein abundance as valuable markers of sperm motility and the correlation with fertility",
+        "pub_year": "2024",
+        "citation": "Theriogenology 215, 86-94, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:uc_IGeMz5qoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11542936165100039284",
+      "cites_id": [
+        "11542936165100039284"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Semen dan Korelasi antara Konsentrasi Testosteron dengan Libido Pejantan Sapi Simental",
+        "pub_year": "2022",
+        "citation": "Acta Veterinaria Indonesiana 10 (1), 1-7, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:dQ2og3OwTAUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1642129243345478306",
+      "cites_id": [
+        "1642129243345478306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nanokitosan Efektif Menekan Jumlah Bakteri Gram Negatif dan Gram Positif Penyebab Endometritis pada Sapi Friesian Holstein secara In Vitro.",
+        "pub_year": "2021",
+        "citation": "Jurnal Veteriner 22 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:_B80troHkn4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1171253832217937123",
+      "cites_id": [
+        "1171253832217937123"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristic and estrus response of ewe treated with progesterone-CIDR 12 and 13 days interval.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:LI9QrySNdTsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8414096671025853292",
+      "cites_id": [
+        "8414096671025853292"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality of sapera buck semen frozen in Tris Egg Yolk extender added with pentoxifylline.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:tuHXwOkdijsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3528951674237532538",
+      "cites_id": [
+        "3528951674237532538"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengendalian Folikulogenesis Ovarium Mencit (Mus Musculus) Dengan Pemberian Ekstrak Biji Kapas (Gossypium Hirsutum).",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultural University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:4MWp96NkSFoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10967528631074540739",
+      "cites_id": [
+        "10967528631074540739"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat fertilisasi oosit domba dari ovarium yang disimpan pada suhu dan waktu yang berbeda secara in vitro",
+        "pub_year": "2015",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 9 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17545601253967450447",
+      "cites_id": [
+        "17545601253967450447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Spermatozoa Domba yang Disentrifugasi sebelum Dibekukan dengan Pengencer Laktosa Pasca-Thawing",
+        "pub_year": "2014",
+        "citation": "Acta VETERINARIA Indonesiana 2 (1), 31-35, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:YFjsv_pBGBYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=950249121851555564",
+      "cites_id": [
+        "950249121851555564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Repeat Breeder of Dairy Cows in Farmer Level",
+        "pub_year": "2012",
+        "citation": "Jurnal Sain Veteriner 30 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2402642851512149064",
+      "cites_id": [
+        "2402642851512149064"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developmental Competence of Early Stage Porcine Embryos Cultured in Medium with Different Energy Substrate in vitro",
+        "pub_year": "2006",
+        "citation": "Indonesian Journal of Biotechnology 11 (1), 855-861, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:-f6ydRqryjwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12458871814812778271",
+      "cites_id": [
+        "12458871814812778271"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh penambahan fetal bovine serum pada medium maturasi oosit terhadap perkembangan embrio sapi peranakan ongole secara in vitro",
+        "pub_year": "1997",
+        "citation": "Universitas Gadjah Mada, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:tkaPQYYpVKoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16413159344763527544",
+      "cites_id": [
+        "16413159344763527544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE QUALITY OF CHILLED RAM SEMEN AFTER STORAGE IN EXTENDER WITH ADDITION OF MELATONIN AT 4\u00b0 C",
+        "pub_year": "2024",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 18 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:oNZyr7d5Mn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE QUALITY OF CHILLED RAM SEMEN AFTER STORAGE IN EXTENDER WITH ADDITION OF MELATONIN AT 4\u00b0 C.",
+        "pub_year": "2024",
+        "citation": "Indonesian Journal of Veterinary Science/Jurnal Kedokteran Hewan 18 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:-FonjvnnhkoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality of aceh cattle ovaries added with bovine pituitary extract in the vitrification medium",
+        "pub_year": "2024",
+        "citation": "Adv. Anim. Vet. Sci 12 (4), 624-628, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:M7yex6snE4oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Korelasi Konsentrasi Testosteron Darah terhadap Kualitas Semen Segar Ayam Kampung Unggul Balitbangtan (KUB) dengan Fenotip Berbeda",
+        "pub_year": "2023",
+        "citation": "Jurnal Sain Veteriner 41 (3), 384-394, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ipzZ9siozwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Difference in morphology and Dazl and Vasa expression of male germ cells at fetal dan infant ages in mice.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:gsN89kCJA0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of carbohydrate type and phenotype on the quality of post-thawing frozen semen of KUB chicken.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:kzcrU_BdoSEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality of Chilled Ram Semen in Tris Egg Yolk Extender Added with Different Concentrations of Glutamine: Quality of Chilled Ram semen in extender added with glutamine",
+        "pub_year": "2023",
+        "citation": "Jurnal Riset Veteriner Indonesia (Journal of The Indonesian Veterinary \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:VLnqNzywnoUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbedaan Morfologi dan Ekspresi Dazl dan Vasa pada Sel Germinal Fetus dan Anak Mencit Jantan.",
+        "pub_year": "2023",
+        "citation": "Jurnal Veteriner 24 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:z_wVstp3MssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Sperm Number and Antioxidant Melatonin in Extender on the Quality of Post-Thawing Sheep Spermatozoa.",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Animal & Veterinary Sciences 28 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:NJ774b8OgUMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGEMBANGAN PENANDA FERTILITAS SEBAGAI ALAT BANTU \u201cAKURAT\u201d DALAM UPAYA OPTIMALISASI SAPI PEJANTAN UNGGUL DALAM PROGRAM INSEMINASI BUATAN",
+        "pub_year": "2022",
+        "citation": "Policy Brief Pertanian, Kelautan, dan Biosains Tropika 4 (1), 220-224, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:kuK5TVdYjLIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE EFFECTIVITY OF CYSTEAMINE SUPPLEMENTATION ON IMPROVING THE IN VITRO FERTILIZATION RATE OF SHEEP OOCYTES",
+        "pub_year": "2021",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 15 (4 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:5awf1xo2G04C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Addition of \u00e1-Tocopherol as an antioxidant to tris-egg yolk diluents of cat spermatozoa at temperature 4\u00b0 C.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:KUbvn5osdkgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The histopathology of ram's cauda epididymis storaged at 4\u00b0 C with Dulbecco's modified eagle medium.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:TIZ-Mc8IlK0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality and maturation rate of domestic cat oocyte f rom ovary stored in different storage time and medium.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:g3aElNc5_aQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas dan Tingkat Maturasi Oosit Kucing Domestik dari Ovarium yang Disimpan dalam Media dan Waktu yang Berbeda.",
+        "pub_year": "2021",
+        "citation": "Jurnal Veteriner 22 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:9vf0nzSNQJEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nanocitosan effectively suppresses bacteria gram negative and gram positive causes of endometritis in Friesian Holstein cow in vitro.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:tYavs44e6CUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gambaran Histopatologi Kauda Epididimis Domba yang Disimpan pada Suhu 4\u00b0 C dalam Dulbecco's Modified Eagle Medium.",
+        "pub_year": "2021",
+        "citation": "Jurnal Veteriner 22 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penambahan \u03b1-Tocopherol sebagai Antioksidan dalam Pengencer Tris Kuning Telur Spermatozoa Kucing pada Suhu 4 \u2070C",
+        "pub_year": "2021",
+        "citation": "IPB University, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:L7CI7m0gUJcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Spermatozoa Kauda Epididimis Kucing dalam Pengencer Tris Kuning Telur Omega 3 dan Tris Susu Skim",
+        "pub_year": "2021",
+        "citation": "IPB University, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:EYYDruWGBe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penambahan L-Cysteine terhadap Kualitas Semen Cair Anjing dalam Pengencer Tris Kuning Telur",
+        "pub_year": "2021",
+        "citation": "IPB University, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat Fertilisasi in vitro Oosit Domba setelah Difertilisasi dalam Media dengan Penambahan Cysteamine",
+        "pub_year": "2021",
+        "citation": "IPB University, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:vDijr-p_gm4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vaksinasi Rabies oleh Abdi Nusantara XIII FKH IPB Bersama Dinas Pertanian Kota Padang",
+        "pub_year": "2020",
+        "citation": "Jurnal Pusat Inovasi Masyarakat (PIM) 2 (2), 286-288, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Conditioned Medium Sel Testikuler dalam Mendukung Spermatogenesis In Vitro pada Mencit: Sebuah Prospek untuk Mengatasi Masalah Infertilitas pada Jantan",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:BUYA1_V_uYcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adiponectin: Potential Protein Hormone as a Candidate Biomarker for Male Fertility",
+        "pub_year": "2019",
+        "citation": "WARTAZOA. Indonesian Bulletin of Animal and Veterinary Sciences 29 (4), 183-192, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:_Ybze24A_UAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro proliferation rate of mice primordial germ cells in the culture medium with addition of leukemia inhibitory factor.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:MLfJN-KU85MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PCS-4 In Vivo Embryo Production at Cipelang Livestock Embryo Centre",
+        "pub_year": "2018",
+        "citation": "Hemera Zoa, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PF-17 The Development of Crude Testicular Cells in In Vitro Culture",
+        "pub_year": "2018",
+        "citation": "Hemera Zoa, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:08ZZubdj9fEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Insulin-Like Growth Factor-I (IGF-I) dalam Media Maturasi In Vitro Pada Pematangan Inti dan Fertilisasi Oosit Sapi Bali",
+        "pub_year": "2018",
+        "citation": "Acta VETERINARIA Indonesiana 6 (1), 24-29, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Cair Anjing dalam Pengencer Tris-Kuning Telur dengan Penambahan Sericin",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:hMsQuOkrut0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Cair Anjing dengan atau tanpa Plasma Semen dalam Pengencer Tris-Skim atau Tris-Kuning Telur.",
+        "pub_year": "2018",
+        "citation": "Bogor Agriculture University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:vbGhcppDl1QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Ekstrak Low Density Lipoprotein (LDL) dari Kuning Telur Ayam terhadap Kualitas Semen Cair Domba.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:BwyfMAYsbu0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Kadar Total Protein Plasma Puyuh (Coturnix coturnix japonica) yang Diberi Deksametason dan Angkak dengan Pencitraan Digital.",
+        "pub_year": "2018",
+        "citation": "Bogor Agriculture University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Segar dan Semen Beku Kambing Pejantan Peranakan Etawah (PE) dan Boer di Balai Inseminasi Buatan Lembang",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:zLWjf1WUPmwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Individu dan Rumpun terhadap Kualitas Semen Segar dan Semen Beku Sapi Brahman dan Ongole di Balai Inseminasi Buatan Lembang.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:EkHepimYqZsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Cair Domba dalam Pengencer Tris-Kuning Telur yang Disentrifugasi dan Ditambahkan Glutamin",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:0KyAp5RtaNEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan Sel Endometrium Domba Setelah Inkubasi dalam Kolagenase dan Dikultur In Vitro dalam Medium dengan Estradiol dan Progesteron.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:fEOibwPWpKIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Caffeine supplementation in maturation medium improve normal fertilization and reduced the frequency of polyspermy in sheep oocytes with the maturation prolonged.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:lmc2jWPfTJgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA status and characteristic of sperm cauda epididymal ram after storage at 4\u00b0 C.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developmental competence of maturation and fertilization prepubertal sheep oocytes in vitro.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:kz9GbA2Ns4gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Low Density Lipoprotein dan Kuning Telur Ayam dan Puyuh pada Pengawetan Semen Ayam Merawang (EFFECTIVESS OF LOW DENSITY LIPOPROTEIN AND EGG YOLK FROM CHICKEN AND \u2026",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:k8Z6L05lTy4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gambaran Histologis Ovarium Kucing Domestik (Felis catus) yang Disimpan pada Suhu 4\u00b0 C Selama Tujuh Hari",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Dan Periode Fertil Semen Ayam Merawang Yang Dipreservasi Dalam Pengencer Dengan Low Density Lipoprotein (Ldl) Ayam Atau Puyuh",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:j8SEvjWlNXcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peran Insulin-Like Growth Factor-I (IGF-I) dan Cairan Folikel terhadap Kompetensi Perkembangan In Vitro Embrio Sapi Bali",
+        "pub_year": "2017",
+        "citation": "IPB (Bogor Agricultural University), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:-_dYPAW6P2MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Fertilisasi Spermatozoa Kauda Epididimis Domba Dengan Atau Tanpa Swim Up Sebelum Fertilisasi",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultural University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ILKRHgRFtOwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Morfologi Spermatozoa Kauda Epididimis Domba Pascapenyimpanan Epididimis Pada Suhu 4 \u00bac Selama Beberapa Hari",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultral University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:nrtMV_XWKgEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelacakan Kerusakan Akrosom Spermatozoa Domba Selama Proses Pembekuan dengan Teknik Histokimia Lektin (DETECTION OF ACROSOMAL DAMAGE OF RAM SPERMATOZOA DURING FREEZING PROCESS \u2026",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formation of an Antral Follicle-Like Structure by Bovine Cumulus-Oocyte Complexes Embedded with Fragmin/Protamine Microparticles",
+        "pub_year": "2015",
+        "citation": "Animal Biotechnology 26 (4), 273-275, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat Maturasi dan Fertilisasi Oosit Domba yang Dimaturasi dalam Media yang Ditambahkan Sericin In Vitro",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:p__nRnzSRKYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keberhasilan Superovulasi pada Beberapa Bangsa Sapi dengan Preparat Hormon yang Berbeda",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:URolC5Kub84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics and in vitro fertilization ability of cauda epididymal and ejaculated ram sperm",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:uWiczbcajpAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Spermatozoa Domba Selama Proses Pembekuan dengan Medium Pengencer yang Ditambahkan Glutation",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics and fertility of Sumatran tiger spermatozoa cryopreserved with different type of cryoprotective sugars",
+        "pub_year": "2012",
+        "citation": "The Journal of Reproduction and Development Supplement The 105th Meeting of \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation and in vitro fertilizing ability of ram spermatozoa from cold storage epididimides",
+        "pub_year": "2012",
+        "citation": "The Journal of Reproduction and Development Supplement The 105th Meeting of \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Status Meiotik oosit kucing setelah masturasi in vitro pada waktu yang berbeda",
+        "pub_year": "2009",
+        "citation": "Hemera Zoa 1 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "183 ADDITION OF DIPHENYLENEIODONIUM OR DEHYDROEPIANDROSTERONE TO CULTURE MEDIA INHIBITS REACTIVE OXYGEN SPECIES PRODUCTION DURING THE EARLY CLEAVAGE STAGES OF IN VITRO-PRODUCED \u2026",
+        "pub_year": "2007",
+        "citation": "Reproduction, Fertility and Development 19 (1), 208-208, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "35 RELATIONSHIP BETWEEN THE ONSET OF ENUCLEATION DURING MEIOTIC MATURATION OF RECIPIENT OOCYTES AND DEVELOPMENTAL ABILITY OF SOMATIC CELL NUCLEAR TRANSFER EMBRYOS IN PIGS",
+        "pub_year": "2007",
+        "citation": "Reproduction, Fertility and Development 19 (1), 136-136, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "350 EFFECT OF INDIRECT MAINTENANCE OF INTRACELLULAR cAMP IN CUMULUS\u2013OOCYTE COMPLEXES USING 3-ISOBUTYL-1-METHYLXANTHINE ON GAP JUNCTIONAL COMMUNICATIONS AND OOCYTE MEIOTIC \u2026",
+        "pub_year": "2007",
+        "citation": "Reproduction, Fertility and Development 19 (1), 290-290, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A pig model for early cessation of spermatogenesis.",
+        "pub_year": "2006",
+        "citation": "BIOLOGY OF REPRODUCTION, 115-116, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "172 ADMINISTRATION OF GLUTATHIONE OR THIOREDOXIN TO MEDIUM REDUCES INTRACELLULAR REDOX STATUS AND IMPROVES EMBRYONIC DEVELOPMENT TO THE BLASTOCYST STAGE OF PORCINE IVM/IVF OOCYTES",
+        "pub_year": "2006",
+        "citation": "Reproduction, Fertility and Development 18 (2), 194-194, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "34 DEVELOPMENTAL ABILITY OF ZONA-FREE PORCINE CLONED EMBRYOS RECONSTRUCTED BY SOMATIC CELLS AND CENTRIFUGED CYTOPLASTS",
+        "pub_year": "2006",
+        "citation": "Reproduction, Fertility and Development 18 (2), 125-126, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "165 EFFECTS OF GLUCOSE CONCENTRATIONS ON IN VITRO DEVELOPMENT AND THE INTRACELLULAR OXIDATIVE STATE OF IN VITRO-PRODUCED PORCINE EMBRYOS",
+        "pub_year": "2006",
+        "citation": "Reproduction, Fertility and Development 18 (2), 190-191, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "318 INHIBITION OF FIRST POLAR BODY EXTRUSION BY CYTOCHALASIN B DURING IN VITRO MATURATION OF PORCINE OOCYTES LEADS TO RE-ARRANGEMENT OF THE SEGREGATED CHROMOSOMES AND \u2026",
+        "pub_year": "2006",
+        "citation": "Reproduction, Fertility and Development 18 (2), 266-266, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship between Nucleus Swelling and Development Competence of Bovine Cloned Embryos Reconstructed by Enucleated Oocytes with Serum-starved or Serum-fed Fetal Somatic Cells",
+        "pub_year": "2005",
+        "citation": "Indonesian Journal of Biotechnology 10 (2), 822-829, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FKBP6 deficiency in rats disorders homologous chromosome pairing, but not sex chromosome inactivation.",
+        "pub_year": "2005",
+        "citation": "BIOLOGY OF REPRODUCTION, 162-162, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "126 EFFECTS OF THE REPRODUCTIVE STATUS ON DEVELOPMENTAL COMPETENCE OF RECIPIENT OOCYTES AFTER SOMATIC CELL NUCLEAR TRANSFER IN CAT",
+        "pub_year": "2004",
+        "citation": "Reproduction, Fertility and Development 17 (2), 213-214, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies of in-vitro production of domestic cat embryos",
+        "pub_year": "2004",
+        "citation": "\u5c71\u53e3\u5927\u5b66, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agca, Yuksel, 146 Agung, B., 341",
+        "pub_year": "2004",
+        "citation": "Cryobiology 48, 366-367, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "152 EFFECT OF REPLACEMENT OF PYRUVATE/LACTATE IN CULTURE MEDIUM WITH GLUCOSE ON PREIMPLANTATION DEVELOPMENT OF PORCINE EMBRYOS IN VITRO",
+        "pub_year": "2003",
+        "citation": "Reproduction, Fertility and Development 16 (2), 198-198, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "322 MEIOTIC COMPETENCE OF CANINE OOCYTES EMBEDDED IN COLLAGEN GELS",
+        "pub_year": "2003",
+        "citation": "Reproduction, Fertility and Development 16 (2), 281-281, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ABSTRACTS FOR POSTER PRESENTATION-Oocyte Maturation-SIZE DISTRIBUTION AND MEIOTIC COMPETENCE OF OOCYTES OBTAINED FROM OVARIES OF BITCHES AT VARIOUS ESTROUS CYCLES",
+        "pub_year": "2001",
+        "citation": "Theriogenology 55 (1), 490-490, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ABSTRACTS FOR POSTER PRESENTATION-Cloning/Nuclear Transfer-THE EFFECTS OF CULTURE MEDIUM ON IN VITRO DEVELOPMENT OF DOMESTIC CAT EMBRYOS RECONSTRUCTED BY NUCLEAR TRANSPLANTATION",
+        "pub_year": "2001",
+        "citation": "Theriogenology 55 (1), 268-268, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Age-dependent variations in proteomic characteristics of spermatozoa in Simmental bull",
+        "citation": "Frontiers in Veterinary Science 11, 1393706, 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:WZBGuue-350C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH LAMA TRANSPORTASI OVARIUM DAN MEDIUM SELEKSI SPERMATOZOA TERHADAP PERKEMBANGAN AWAL EMBRIO SAPI IN VITRO",
+        "citation": "Perhimpunan Dokter Hewan Indonesia (IndonesianVeterinary Medical Association), 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Acrosome Status of Ram Spermatozoa after Storage in Epididymis at 4 oc",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:35r97b3x0nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Hubungan Adiponektin dan Fertilitas pada Kambing Jantan Persilangan Anglo Nubian dengan Peranakan Etawah",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:evX43VCCuoAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MORFOLOGI SPERMATOZOA DARI EPIDIDYMIS DOMBA PASCA PENYIMPANA N PADA SUHU 4\u00b0 C",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Pustaka Penerapan Inseminasi Buatan dan Penyimpanan Semen pada Ular",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:tzM49s52ZIMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Beku Domba Yang Dibekukan Dengan Konsentrasi Gliserol Berbeda",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Cair Domba dalam Pengencer Tris Kuning Telur-Glukosa dengan Penambahan Melatonin sebagai Antioksidan",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat Pematangan Dan Fertilisasi Oosit Domba Yang Dimaturasi Dalam Medium Dengan Serum Atau Komponen Pengganti Serum",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:tKAzc9rXhukC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vaksinasi Rabies oleh Abdi Nusantara XIII FKH IPB Bersama Dinas Pertanian Kota Padang (Rabies Vaccination by Abdi Nusantara XIII FKH IPB with Padang Agriculture Department)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:Fu2w8maKXqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Development of Crude Testicular Cells in In Vitro Culture",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:W5xh706n7nkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Semen Kambing Sapera yang dibekukan dalam Pengencer Tris Kuning",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fertilizing Ability of Post-Thaw of Epididymal Spermatozoa Stored for 48 H at 4\u00b0 C Prior Cryopreservation in Domestic Cat",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "4uRcsN0AAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 3,
+    "not_available": 0
+  }
+}

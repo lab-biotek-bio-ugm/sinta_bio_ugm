@@ -1,0 +1,1761 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "KoKTdu0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ivan Permana Putra",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KoKTdu0AAAAJ&citpid=4",
+  "affiliation": "Mycology Division, Department of Biology, IPB University(Bogor Agricultural University)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Mycology"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 497,
+  "citedby5y": 475,
+  "hindex": 12,
+  "hindex5y": 12,
+  "i10index": 15,
+  "i10index5y": 15,
+  "cites_per_year": {
+    "2014": 2,
+    "2015": 1,
+    "2016": 1,
+    "2017": 3,
+    "2018": 8,
+    "2019": 12,
+    "2020": 81,
+    "2021": 124,
+    "2022": 92,
+    "2023": 135,
+    "2024": 23
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-FlEgvYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rudy Hermawan",
+      "affiliation": "Doctoral course in Tottori University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cFM82kUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Oktan Dwi Nurhayat",
+      "affiliation": "National Research and Innovation Agency (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vVrm6tAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mada Triandala Sibero",
+      "affiliation": "Lecturer, Dept. of Marine Science, Fac. of Fisheries and Marine Science, Diponegoro University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "0quqpAgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wahyu Aji Mahardhika",
+      "affiliation": "Biologi, Universitas Diponegoro"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ragam dan potensi jamur makro asal taman wisata Mekarsari Jawa Barat",
+        "pub_year": "2018",
+        "citation": "Al-Kauniyah 11 (2), 133-150, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 57,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6739845128753157364",
+      "cites_id": [
+        "6739845128753157364"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ragam jamur asal serasah dan tanah di Taman Nasional Ujung Kulon Indonesia",
+        "pub_year": "2017",
+        "citation": "Jurnal Sumberdaya Hayati 3 (1), 1-7, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=822382534000424263",
+      "cites_id": [
+        "822382534000424263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Diversity and Potency of Some Macro Mushroom at Gunung Gede Pangrango National Park",
+        "pub_year": "2019",
+        "citation": "Buletin Plasma Nutfah 25 (2), 1-14, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14628799133992622358",
+      "cites_id": [
+        "14628799133992622358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Komunitas Pemburu Jamur Indonesia",
+        "pub_year": "2020",
+        "citation": "Haura Publishing ISBN :978-623-6565-82-7, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3915250134477206325",
+      "cites_id": [
+        "3915250134477206325"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PANDUAN KARAKTERISASI JAMUR MAKROSKOPIK DI INDONESIA: BAGIAN 1 \u2013 DESKRIPSI CIRI MAKROSKOPIS",
+        "pub_year": "2021",
+        "citation": "Jurnal Penelitian Kehutanan Wallacea 10 (1), 25-37, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:TQgYirikUcIC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7193419765438893441",
+      "cites_id": [
+        "7193419765438893441"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of domestication on the endophytic fungal diversity associated with wild Zingiberaceae at Mount Halimun Salak National Park",
+        "pub_year": "2015",
+        "citation": "HAYATI Journal of Biosciences 22 (4), 157-162, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5339962420133429088",
+      "cites_id": [
+        "5339962420133429088"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RECORD ON MACROSCOPIC FUNGI AT IPB UNIVERSITY CAMPUS FOREST : DESCRIPTION AND POTENTIAL UTILIZATION",
+        "pub_year": "2020",
+        "citation": "http://jurnal.untidar.ac.id/index.php/ijose/article/view/2180/1255 4 (1), 1-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:Se3iqnhoufwC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9147958005327281685",
+      "cites_id": [
+        "9147958005327281685"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kasus keracunan Inocybe sp. di Indonesia",
+        "pub_year": "2020",
+        "citation": "Prosiding Seminar Nasional Biologi 6 (1), 148-153, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3534313476204854740",
+      "cites_id": [
+        "3534313476204854740"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scleroderma spp. in Indonesia : Poisoning Case and Potential Utilization",
+        "pub_year": "2020",
+        "citation": "JUSTEK : Jurnal Sains dan Teknologi 3 (2), 37-45, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18258498370308039502,1091688990682332907",
+      "cites_id": [
+        "18258498370308039502",
+        "1091688990682332907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Beberapa Jamur Liar yang Tumbuh di Sekitar Pemukiman Penduduk",
+        "pub_year": "2021",
+        "citation": "Quagga: Jurnal Pendidikan dan Biologi 13 (1), 48-59, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16558912728809066938",
+      "cites_id": [
+        "16558912728809066938"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FANTASTIC FUNGI AROUND US: A CASE STUDY OF IPB UNIVERSITY CAMPUS FOREST",
+        "pub_year": "2020",
+        "citation": "Jurnal Pena Sains 7 (2), 68-82, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:_kc_bZDykSQC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14271858929283538439",
+      "cites_id": [
+        "14271858929283538439"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Taksonomi dan Potensi Beberapa Jamur Liar di Pulau Belitong",
+        "pub_year": "2020",
+        "citation": "JUSTEK : Jurnal Sains dan Teknologi 3 (1), 24-31, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2576500750503919690",
+      "cites_id": [
+        "2576500750503919690"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ragam Dan Potensi Jamur Makro Asal Taman Wisata Mekarsari Jawa Barat. Al-Kauniyah: Jurnal Biologi, 11 (2), 133\u2013150",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:aqlVkmm33-oC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1715092756065964681",
+      "cites_id": [
+        "1715092756065964681"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KASUS-KASUS KERACUNAN JAMUR LIAR DI INDONESIA",
+        "pub_year": "2022",
+        "citation": "The Indonesian Journal of Health Ecology 20 (3), 215-230, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:2P1L_qKh6hAC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10859470730384086091",
+      "cites_id": [
+        "10859470730384086091"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Pemanfaatan Schizophyllum commune di Kampung Udapi Hilir, Papua Barat",
+        "pub_year": "2021",
+        "citation": "Integrated Lab Journal 9 (1), 18-28, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3056831560646197418",
+      "cites_id": [
+        "3056831560646197418"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Notes of some macroscopic fungi at IPB University Campus Forest: diversity and potency",
+        "pub_year": "2019",
+        "citation": "Biota: Biologi dan Pendidikan Biologi 12 (2), 57-71, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16417388331005815173",
+      "cites_id": [
+        "16417388331005815173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Makrofungi di Lingkungan Universitas Diponegoro dan Potensi Pemanfaatannya",
+        "pub_year": "2021",
+        "citation": "Prosiding Biologi UIN Alauddin Makassar 2021, 260-275, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:RGFaLdJalmkC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8832975104475539442",
+      "cites_id": [
+        "8832975104475539442"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of some wild edible mushrooms with economic value in Belitong Island, The Province of Bangka Belitung",
+        "pub_year": "2020",
+        "citation": "Jurnal Wasian 7 (2), 121-135, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:dhFuZR0502QC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10060293552930830313",
+      "cites_id": [
+        "10060293552930830313"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Notes of Some Macroscopic Fungi at IPB University Campus Forest: Diversity and Potency. Biota, 12 (2), 57-71",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17278897315213273899",
+      "cites_id": [
+        "17278897315213273899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunikasi singkat: laporan keberadaan jamur beracun Podostroma cf. cornu-damae dari luar Bogor di Indonesia",
+        "pub_year": "2020",
+        "citation": "Konservasi Hayati 16 (2), 65-70, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8824302346032804304",
+      "cites_id": [
+        "8824302346032804304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CATATAN KELOMPOK ASCOMYCOTA MAKROSKOPIK DI INDONESIA",
+        "pub_year": "2021",
+        "citation": "Pro-Life 8 (1), 57-71, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10934194751820176545",
+      "cites_id": [
+        "10934194751820176545"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DIVERSITY AND POTENTIAL UTILIZATION OF SOME WILD MACROSCOPIC FUNGI AROUND IPB UNIVERSITY CAMPUS BUILDING",
+        "pub_year": "2020",
+        "citation": "Jurnal Pendidikan Matematika dan IPA 11 (2), 257-270, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12335751812210576968",
+      "cites_id": [
+        "12335751812210576968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Beberapa Jamur Makro di Pulau Belitong: Deskripsi dan Potensinya Note on Macro Fungi on Belitong Island: Description and Potential",
+        "pub_year": "2020",
+        "citation": "Bioeduscience 4 (01), 11-20, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:0EnyYjriUFMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18430683510344423991",
+      "cites_id": [
+        "18430683510344423991"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An Introduction to Indonesian Wild Shiitake",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (6), 1132-1138, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11128118708511071017",
+      "cites_id": [
+        "11128118708511071017"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and Molecular Study of \ud835\ude13\ud835\ude26\ud835\ude31\ud835\ude2a\ud835\ude34\ud835\ude35\ud835\ude22 \ud835\ude34\ud835\ude30\ud835\ude33\ud835\ude25\ud835\ude2a\ud835\ude25\ud835\ude22 in Indonesia",
+        "pub_year": "2022",
+        "citation": "Philippine Journal of Science 151 (4), 1333-1336, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:HoB7MX3m0LUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14923579436551866260",
+      "cites_id": [
+        "14923579436551866260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Termitomyces di Kawasan Urban Kecamatan Gunungpati, Kota Semarang, Jawa Tengah",
+        "pub_year": "2021",
+        "citation": "Buletin Plasma Nutfah 27 (2), 101-112, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:YFjsv_pBGBYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9662022101656560942",
+      "cites_id": [
+        "9662022101656560942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Calvatia rugosa: Epigeous Puffball Mushroom Reported from West Java",
+        "pub_year": "2021",
+        "citation": "Science Education and Application Journal 3 (1), 1-6, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:HDshCWvjkbEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6771313952411558691",
+      "cites_id": [
+        "6771313952411558691"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan bobot hidup kerbau lumpur berdasarkan pengukuran morfologi",
+        "pub_year": "1985",
+        "citation": "Bogor Agricultural University (IPB), 1985"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:eJXPG6dFmWUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=796546405783184620",
+      "cites_id": [
+        "796546405783184620"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Poisoning Case of Chlorophyllum cf. molybdites in Indonesia",
+        "pub_year": "2021",
+        "citation": "JURNAL PEMBELAJARAN DAN BIOLOGI NUKLEUS 7 (1), 186-194, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:-f6ydRqryjwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5899372360229193789",
+      "cites_id": [
+        "5899372360229193789"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ULASAN : POLITIK SIMBIOSIS FUNGI DAN TUMBUHAN",
+        "pub_year": "2020",
+        "citation": "Jurnal Pro-Life 7 (2), 144-156, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14726579168578236717",
+      "cites_id": [
+        "14726579168578236717"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Calvatia pyriformis : A New Record in Indonesia",
+        "pub_year": "2018",
+        "citation": "JUSTEK : Jurnal Sains dan Teknologi 1 (2), 26-29, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:4DMP91E08xMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7232218234248450392",
+      "cites_id": [
+        "7232218234248450392"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "P.(2020b). Potensi Beberapa Jamur Pangan Liar yang Bernilai Ekonomi di Pulau Belitong, Provinsi Kepulauan Bangka Belitung",
+        "citation": "Jurnal Wasian 7 (2), 121-135, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:KxtntwgDAa4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11578332314490837023",
+      "cites_id": [
+        "11578332314490837023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Jamur Beracun Clitocybe sp. di Gresik, Indonesia (Studi Kasus)",
+        "pub_year": "2021",
+        "citation": "Media Penelitian dan Pengembangan Kesehatan 31 (2), 119-124, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:k_IJM867U9cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9712805199413035497",
+      "cites_id": [
+        "9712805199413035497"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deskripsi    dan    Potensi    Jamur Makro Asal    Hutan    Adat Penembahen,   Desa   Juhar,   Kabupaten   Tanah   Karo,   Sumatra Utara",
+        "pub_year": "2021",
+        "citation": "Jurnal Mikologi Indonesia 5 (1), 48-54, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11766324643909633111",
+      "cites_id": [
+        "11766324643909633111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KASUS-KASUS KERACUNAN JAMUR LIAR DI INDONESIA Poisoning Cases of Wild Edible Mushrooms in Indonesia",
+        "pub_year": "2021",
+        "citation": "J. Ekol. Kesehat 20, 215-230, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:8AbLer7MMksC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14833967560574286709",
+      "cites_id": [
+        "14833967560574286709"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Notes Some Macro Fungi From Taman Eden 100, Kawasan Toba, Sumatera Utara, Indonesia: Description and Its Potency",
+        "pub_year": "2021",
+        "citation": "BIOEDUSCIENCE 5 (1), 30-39, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2987372676309721554",
+      "cites_id": [
+        "2987372676309721554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mycological characterization of white pustule symptom on ipomea reptans poir leaves in bogor-Indonesia",
+        "pub_year": "2020",
+        "citation": "BIOSEL (Biology Science and Education): Jurnal Penelitian Science dan \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9712599007004279244",
+      "cites_id": [
+        "9712599007004279244"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ALLELOPATHIC ACTIVITY OF SOME WILD MUSHROOM IN INDONESIA",
+        "pub_year": "2020",
+        "citation": "Fungal Territory 3 (1), 1-3, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:roLk4NBRz8UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10490263647160989229",
+      "cites_id": [
+        "10490263647160989229"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Note on Macro Fungi on Belitong Island: Description and Potential",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:70eg2SAEIzsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15368978740745829001",
+      "cites_id": [
+        "15368978740745829001"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eksplorasi Jamur Di Desa Kedung Pacul, Klaten dan Potensi Pemanfaatannya",
+        "citation": "Bioma: Berkala Ilmiah Biologi 24 (1), 8-23, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:rO6llkc54NcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1110550086019438813",
+      "cites_id": [
+        "1110550086019438813"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ghost fungus Omphalotus nidiformis (Berk.), new to Indonesia, poisoned foragers",
+        "pub_year": "2023",
+        "citation": "Kuwait Journal of Science 50 (3), 326-332, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:P5F9QuxV20EC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=22295821022986529",
+      "cites_id": [
+        "22295821022986529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Review: Current Checklist of Local Names and Utilization Information of Indonesian Wild Mushrooms",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (3), jtbb71407, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:a0OBvERweLwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11686599907137117511",
+      "cites_id": [
+        "11686599907137117511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KERAGAMAN JAMUR EKTOMIKORIZA DI KAWASAN HUTAN PENELITIAN HAURBENTES, JAWA BARAT",
+        "pub_year": "2022",
+        "citation": "Jurnal Penelitian Ekosistem Dipterokarpa 8 (1), 1-16, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:u_35RYKgDlwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2553627036011110424",
+      "cites_id": [
+        "2553627036011110424"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytological comparison of mycelial aggregates of Rhizopogon roseolus with and without the ectomycorrhiza host",
+        "pub_year": "2022",
+        "citation": "Mycologia 114 (3), 533-543, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:pqnbT2bcN3wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=229425142173761859",
+      "cites_id": [
+        "229425142173761859"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eksplorasi Jamur Desa Tulung Agung, Lampung Timur dan Potensi Pemanfaatannya",
+        "pub_year": "2022",
+        "citation": "Bioma: Berkala Ilmiah Biologi 24 (2), 105-119, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9096571958965537957",
+      "cites_id": [
+        "9096571958965537957"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laporan kasus keracunan Chlorophyllum cf. molybdites di Surabaya, Indonesia",
+        "pub_year": "2021",
+        "citation": "Jurnal Agercolere 3 (1), 1-6, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:mB3voiENLucC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4315951557280499105",
+      "cites_id": [
+        "4315951557280499105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Pendahuluan Jamur Makroskopis di Area Outlet Danau Lindu, Sulawesi Tengah",
+        "pub_year": "2020",
+        "citation": "Journal of Biology Science and Education 8 (2), 664-673, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:maZDTaKrznsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10015085134902207683",
+      "cites_id": [
+        "10015085134902207683"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Lumut Sebagai Zat Antimikrob",
+        "pub_year": "2010",
+        "citation": "Bogor Agricultural University, Institut Pertanian Bogor, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=350672619584251891",
+      "cites_id": [
+        "350672619584251891"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Persebaran Russula cf. cyanoxantha di Hutan Kampus Institut Pertanian Bogor",
+        "pub_year": "2023",
+        "citation": "EKOTONIA: Jurnal Penelitian Biologi, Botani, Zoologi dan Mikrobiologi 8 (1 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:kRWSkSYxWN8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8294102163974216656",
+      "cites_id": [
+        "8294102163974216656"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological Identification of Oudemansiella canarii (Jungh.) H\u00f6hn. at IPB University Campus Forest",
+        "pub_year": "2023",
+        "citation": "Jurnal Sains Natural 13 (2), 67-72, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9336993792213506019",
+      "cites_id": [
+        "9336993792213506019"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hyphal coil morphology and its relationship to thromboplerous hyphae in Rhizopogon roseolus",
+        "pub_year": "2023",
+        "citation": "Mycologia 115 (2), 216-224, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:NhqRSupF_l8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9281350349169483498",
+      "cites_id": [
+        "9281350349169483498"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi dan Toksisitas Coprinus sp. Liar pada Jerami Padi di Indonesia",
+        "pub_year": "2023",
+        "citation": "Quagga: Jurnal Pendidikan dan Biologi 15 (1), 1-8, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:bFI3QPDXJZMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=475458731963212349",
+      "cites_id": [
+        "475458731963212349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Re-discovery of the rare poisonous mushroom Podostroma cornu-damae in Indonesia",
+        "pub_year": "2022",
+        "citation": "Biharean Biologist 16 (2), 60-64, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:D03iK_w7-QYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2080364437696200456",
+      "cites_id": [
+        "2080364437696200456"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikrobiologi: Konsep Dasar dan Teknik Laboratorium",
+        "pub_year": "2022",
+        "citation": "Universitas Brawijaya Press, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:WbkHhVStYXYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17962118969247179685",
+      "cites_id": [
+        "17962118969247179685"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Freshwater Snail as Intermediate Host of Trematode in Water Channels of Palangka Raya City",
+        "pub_year": "2022",
+        "citation": "Al-Kauniyah: Jurnal Biologi 15 (1), 164-170, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:D_sINldO8mEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17971546571827360023",
+      "cites_id": [
+        "17971546571827360023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A morphological and molecular study of Phallus multicolor in Indonesia",
+        "pub_year": "2022",
+        "citation": "Makara Journal of Science 26 (2), 2, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:zA6iFVUQeVQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12539984714478641472",
+      "cites_id": [
+        "12539984714478641472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The species of Amanita mushroom at Haurbentes Research Forest, West Java",
+        "pub_year": "2022",
+        "citation": "Jurnal Penelitian Kehutanan Wallacea 11 (1), 33-43, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:M05iB0D1s5AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1540796724563163844",
+      "cites_id": [
+        "1540796724563163844"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thromboplerous hyphae of the ectomycorrhizal mushroom Rhizopogon roseolus with and without a host tree",
+        "pub_year": "2022",
+        "citation": "Nusantara Bioscience 14 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:ldfaerwXgEUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12472547866250052400",
+      "cites_id": [
+        "12472547866250052400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The unusual sclerotium of Rhizopogon roseolus reported from pure cultures",
+        "pub_year": "2021",
+        "citation": "IOP Conf. Ser.: Earth Environ. Sci. 948 (012018), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:RYcK_YlVTxYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8138152706957955612",
+      "cites_id": [
+        "8138152706957955612"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coprinellus sect. Disseminati: Source of Gastropod Mycophagy in Bogor-Indonesia",
+        "pub_year": "2021",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-ilmu Hayati 6 (3), 147-154, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:J_g5lzvAfSwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6250575166789365101",
+      "cites_id": [
+        "6250575166789365101"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Diversitas Jamur di Salah Satu Pulau Terluar Republik Indonesia",
+        "pub_year": "2020",
+        "citation": "Jurnal Sumberdaya Hayati 6 (2), 56-66, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8404304332531975234",
+      "cites_id": [
+        "8404304332531975234"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fungiculture : Sistem Pertanian Fungi oleh Serangga",
+        "pub_year": "2020",
+        "citation": "Simbiosa 9 (1), 77-89, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:8k81kl-MbHgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11520746262170984990",
+      "cites_id": [
+        "11520746262170984990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dampak Domestikasi Zingiberaceae di Taman Nasional Gunung Halimun Salak Terhadap Keragaman Cendawan Endofitnya",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:u9iWguZQMMsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14741831145783131375",
+      "cites_id": [
+        "14741831145783131375"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "N2 Fixation and methane oxidation activity of mixed of culture of azotobacter sp., azospirillum sp., and methanotrophic bacteria",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:p2g8aNsByqUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11964804076266800120",
+      "cites_id": [
+        "11964804076266800120"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CATATAN KEBERADAAN DAN IDENTIFIKASI JAMUR AGARICOMYCETES DI HUTAN DANAU SITU GEDE BOGOR",
+        "pub_year": "2024",
+        "citation": "Jurnal Biogenerasi 9 (2), 1054-1061, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:HE397vMXCloC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RECENT COLLECTION OF THE POISONOUS MUSHROOM, Clarkeinda trachodes (Berk.) FOR INDONESIA",
+        "pub_year": "2024",
+        "citation": "BIOTROPIA 31 (1), 114-122, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosurfactant Activity of Bacillus sp. Strain LP04 Isolate and Its Antifungal Potency against Ganoderma boninense and Fusarium sp.",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 725-732, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MORPHOLOGICAL IDENTIFICATION OF WILD EDIBLE MUSHROOM (Termitomyces striatus) AT IPB UNIVERSITY CAMPUS FOREST",
+        "pub_year": "2024",
+        "citation": "BIOTIK: Jurnal Ilmiah Biologi Teknologi dan Kependidikan 12 (1), 1-11, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:wbdj-CoPYUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Unpopular Edible Bolete (Phlebopus portentosus) in Indonesia",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 663-670, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:bnK-pcrLprsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First Report on Wild Occurrences of Phoenix Mushroom (Pleurotus pulmonarius Fr. Qu\u00e9l.) in Indonesia",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (1), 86455, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:J-pR_7NvFogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DESKRIPSI MORFOLOGI BEBERAPA JAMUR DI LABORATORIUM LAPANG BIOLOGI, IPB UNIVERSITY",
+        "pub_year": "2024",
+        "citation": "SENTRI: Jurnal Riset Ilmiah 3 (1), 69-77, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Keberadaan Gymnopilus cf. josserandii di Hutan Kampus IPB University, Bogor, Jawa Barat, Indonesia",
+        "pub_year": "2023",
+        "citation": "PUCUK: Jurnal Ilmu Tanaman 3 (2), 53-58, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An introduction to edible Armillaria novae-zelandiae from Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012002, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:LPZeul_q3PIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First identification of potential bioactive compounds from ethanol extracts of Lepista sordida from Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012058, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration and Identification of Ectomycorrhizal Fungi at IPB University Campus Forest",
+        "pub_year": "2023",
+        "citation": "Jurnal Biodjati 8 (2), 180-190, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:olpn-zPbct0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Fungi Basidiomycota di Areal Kampus Institut Pertanian Bogor",
+        "pub_year": "2023",
+        "citation": "Konservasi Hayati 19 (2), 107-115, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Glucanase activity produced by rhizospheric Streptomyces tritolerans ARJ 32 and Streptomyces collinus ARJ 38 and the analysis of their encoding genes",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (10), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jamur Makroskopis di Hutan Gambut Arboretum Nyaru Menteng Kalimantan Tengah",
+        "pub_year": "2023",
+        "citation": "Konservasi Hayati 19 (2), 86-95, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengenalan dan Pengembangan Produk Dari Jamur Liar Edible Di Sukabumi, Jawa Barat",
+        "pub_year": "2023",
+        "citation": "Jurnal Pengabdian Masyarakat Bangsa 1 (8), 1563-1575, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Newly Recorded Panus lecomtei (F anus lecomtei (Fr.) Corner (Basidiomy .) Corner (Basidiomycota: Panaceae) for Indonesia",
+        "pub_year": "2023",
+        "citation": "makara Journal of Science 27 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventaritation and Potential Utilization of Macroscopic Mushroom in TPKh Tenjo KPH Bogor",
+        "pub_year": "2023",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 15 (2), 158-166, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record of Inosperma subsphaerosporum (Inocybaceae) in Indonesia",
+        "pub_year": "2023",
+        "citation": "Turczaninowia 26 (2), 103-113, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Keberadaan dan Persebaran Cerioporus squamosus di Indonesia",
+        "pub_year": "2023",
+        "citation": "Spizaetus: Jurnal Biologi dan Pendidikan Biologi 4 (2), 110-120, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survey Penggunaan Game Edukasi Digital Sebagai Media Pembelajaran Oleh Guru Sekolah Dasar di Kabupaten Buleleng",
+        "pub_year": "2023",
+        "citation": "Universitas Pendidikan Ganesha, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:AXPGKjj_ei8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Media Pembelajaran Adaptif Kaidah Pencacahan Dengan Teknik Detour Untuk Meningkatkan Pemahaman Konsep Matematika Peserta Didik Kelas XII SMA",
+        "pub_year": "2023",
+        "citation": "Universitas Pendidikan Ganesha, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan dan Resiko Keracunan Jamur Coprinoid pada Jerami Padi di Indonesia",
+        "pub_year": "2023",
+        "citation": "Quagga: Jurnal Pendidikan dan Biologi 15 (1), 1-8, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Current Checklist of Local Names and Utilization Information of Indonesian Wild Mushrooms.",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity & Biotechnology 7 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Basidium formation of Rhizopogon roseolus with Pinus thunbergii in agar medium",
+        "pub_year": "2022",
+        "citation": "Fungal Biology 126 (11-12), 746-751, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Macrofungi Inventaritation at The Pine Forest of Kragilan, Magelang",
+        "pub_year": "2022",
+        "citation": "BIOVALENTIA: Biological Research Journal 8 (2), 138-144, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cookeina tricholoma of West Java (Indonesia) Based on Morphological and Molecular Identification",
+        "pub_year": "2022",
+        "citation": "Philippine Journal of Science 151 (5), 1807-1812, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERENCANAAN KEBUTUHAN AREAL PARKIR PADA KAWASAN OBJEK WISATA PANTAI MUNGGU",
+        "pub_year": "2022",
+        "citation": "Universitas Mahasaraswati Denpasar, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impact of host plant (Pinus thunbergii) on the mycelial features of the ectomycorrhizal fungus Rhizopogon roseolus",
+        "pub_year": "2022",
+        "citation": "Mycologia 114 (4), 670-681, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stemonitis pallida; Matchstick Myxomycetes from West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Jurnal Biota 8 (2), 71-77, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catatan Tambahan Keberadaan Strobilomyces di Indonesia",
+        "pub_year": "2021",
+        "citation": "Prosiding Biologi UIN Alauddin Makassar 2021 2021, 48-52, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KERAGAMAN DAN POTENSI JAMUR DI HUTAN KOTA SEMARANG,   JAWA TENGAH",
+        "pub_year": "2021",
+        "citation": "Jurnal Penelitian Kehutanan Faloak 5 (2), 74-89, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MORELS OF WEST JAVA : DESCRIPTION AND POTENTIAL UTILIZATION",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Science and Education (IJOSE) 5 (1), 49-56, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface JPK Wallacea Vol. 10 Issue 2, 2021",
+        "pub_year": "2021",
+        "citation": "Jurnal Penelitian Kehutanan Wallacea 10 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POTENSI BEBERAPA JAMUR PANGAN LIAR YANG BERNILAI EKONOMI DI PULAU BELITONG, PROVINSI KEPULAUAN BANGKA BELITUNG",
+        "pub_year": "2020",
+        "citation": "Wasian 7 (2), 121-135, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic Fungi Around Campus Building : Notes and Biocontrol Potency",
+        "pub_year": "2020",
+        "citation": "Gontor AGROTECH Science Journal 6 (2), 163-182, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EKSISTENSI JAMUR MAKRO DI TENGAH PUSARAN IBU KOTA BARU REPUBLIK INDONESIA",
+        "pub_year": "2020",
+        "citation": "PUSTAKA ADITYA: PERPINDAHAN IBU KOTA NEGARA DI MATA DIASPORA JEPANG, 199-210, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE POTENTIAL OF ENDOPHYTIC FUNGI AS BIOCONTROL AND PHOSPATE SOLUBILIZATION AGENT IN Capsicum anuum",
+        "pub_year": "2020",
+        "citation": "Fungal Territory 3 (3), 16-19, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SCIENTIFIC FUNGAL REPORT OF MOLDY JEANS IN INDONESIA",
+        "pub_year": "2020",
+        "citation": "AGROLAND The Agricultural Sciences Journal (e-Journal) 7 (1), 29-36, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fungiculture: Sistem Pertanian Fungi oleh Serangga Fungiculture: Insect Farming Fungi",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cendawan Dalam Praktik Laboratorium",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DAMPAK DOMESTIKASI ZINGIBERACEAE DI TAMAN NASIONAL GUNUNG HALIMUN SALAK TERHADAP",
+        "pub_year": "2014",
+        "citation": "Institut Pertanian Bogor, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AKTIVITAS FIKSASI NITROGEN DAN OKSIDASI METAN KOMBINASI BIAKAN Azotobacter sp., Azospirillum sp., DAN BAKTERI METANOTROF",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Yang Kontras Dan Konektivitas Terbatas Pada Lamun Tropis Enhalus Acoroides (Hydrocharitaceae) Di Bagian Barat Kepulauan Indo-Malay Diungkap Menggunakan Dna Mikrosatelit.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis jaringan kerja kegiatan pengeluaran kayu pada areal hutan konversi hak pengusahaan hutan PT. Bhara Induk, Riau",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Contact-Pesticide Mancozeb on the Growth, Enzyme Production, and Morphology of White-Rot Fungi Isolated from Berbak-Sembilang, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TURNITIN EVALUASI RENCANA PENATAAN PARKIR PASAR TULIKUP GIANYAR",
+        "citation": "MITSU, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KORESPONDENSI EVALUASI RENCANA PENATAAN PARKIR PASAR TULIKUP GIANYAR",
+        "citation": "MITSU, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:BrmTIyaxlBUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kuwait Journal of Science",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDI POTENSI SUMBER DAYA AIR WADUK MUARA TUKAD BADUNG (ESTUARY DAM) UNTUK PERENCANAAN SARANA INFRASTRUKTUR AIR BERSIH DI WILAYAH KECAMATAN KUTA DAN KUTA SELATAN",
+        "citation": "Jurnal Teknik Gradien 7 (2), 15-34, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scleroderma spp. in Indonesia: Poisoning Case and Potential Utilization",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ophiocordyceps: Fungi Entomopatogen Penyebab Zombie Pada Serangga",
+        "citation": "Bioeksperimen: Jurnal Penelitian Biologi 7 (2), 83-92, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Enzim Selulase dari Cendawan Pelapuk Putih.",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Serangga Pengunjung Jamur Tiram (Pleurotus ostreatus) di Bogor",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi Isolat Jamur Tiram Putih (Pleurotus spp.) yang Mampu Tumbuh dan Berproduksi pada Suhu Tinggi",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CENDAWAN ENDOFIT DI SEKITAR BANGUNAN KAMPUS: CATATAN DAN POTENSI BIOKONTROL",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic Fungi Producing Indole Acetic Acid from Melastoma malabathricum L. and Rhodomyrtus tomentosa (Aiton) Hassk. In Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KoKTdu0AAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

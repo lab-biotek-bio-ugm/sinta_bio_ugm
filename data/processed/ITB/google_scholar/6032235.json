@@ -1,0 +1,610 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "Wc0xJM8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Erly Marwani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Wc0xJM8AAAAJ&citpid=10",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Plant sciences & biotechnology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 268,
+  "citedby5y": 145,
+  "hindex": 7,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2004": 1,
+    "2005": 1,
+    "2006": 1,
+    "2007": 1,
+    "2008": 1,
+    "2009": 4,
+    "2010": 3,
+    "2011": 2,
+    "2012": 0,
+    "2013": 7,
+    "2014": 11,
+    "2015": 11,
+    "2016": 24,
+    "2017": 29,
+    "2018": 22,
+    "2019": 28,
+    "2020": 28,
+    "2021": 28,
+    "2022": 24,
+    "2023": 26,
+    "2024": 11
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "39WjjzEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eiichiro Fukusaki",
+      "affiliation": "Professor, Graduate School of Engineering, Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nf16tywAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sastia Prama Putri",
+      "affiliation": "Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zM8y7ZoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Takeshi Bamba",
+      "affiliation": "Medical Institute of Bioregulation, Kyushu University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nr1QOxoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Diky Setya Diningrat",
+      "affiliation": "Universitas Negeri Medan"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nXZrBjYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rizkita Esyanti",
+      "affiliation": "Institut technology Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "52BK0iIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ernin Hidayati",
+      "affiliation": "PS Biologi, FMIPA, Universitas Mataram, Mataram, NTB, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "csJ9yu0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "DIAN YUNI PRATIWI",
+      "affiliation": "Lecturer of Universitas Padjadjaran"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6IehtUsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Robert Manurung",
+      "affiliation": "Professor of Process Design for Bioconversion, Bandung Institute of Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vk11OKsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Shinichiro KAJIYAMA",
+      "affiliation": "Kindai Univ."
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "pfF3-D8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Zulfa Zakiah",
+      "affiliation": "Universitas Tanjungpura"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "54kCTS8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wening Enggarini",
+      "affiliation": "Badan Riset dan Inovasi Nasional (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "P3S1qwUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tirto Prakoso",
+      "affiliation": "Professor, Bandung Institute of Technology, Dept of Chemical Engineering, Bioenergy Eng and Chemurgy"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VvpaHQ8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Elvi Restiawaty",
+      "affiliation": "Associate Professor in Faculty of Industrial Engineering, ITB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XQFivkUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dingse Pandiangan",
+      "affiliation": "Deartement Biology Sam Ratulangi University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "HGXTE3EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "kusdianti",
+      "affiliation": "UNIVERSITAS PENDIDIKAN INDONESIA"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3ckp56IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ayu Nirmala Sari",
+      "affiliation": "Dosen Biologi, Universitas Islam Negeri Ar-Raniry Banda Aceh"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of discriminant markers for authentication of Asian palm civet coffee (Kopi Luwak): a metabolomics approach",
+        "pub_year": "2013",
+        "citation": "Journal of agricultural and food chemistry 61 (33), 7994-8001, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 135,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11963395633008987683",
+      "cites_id": [
+        "11963395633008987683"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi enterobacteriaceae patogen dari makanan berbumbu dan tidak berbumbu kunyit (Curcuma longa L.) serta uji pengaruh ekstrak kunyit (Curcuma longa L.) terhadap pertumbuhan \u2026",
+        "pub_year": "2002",
+        "citation": "Bandung (ID): Departemen Biologi Fakultas MIPA Institut Teknologi Bandung, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 46,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=134167821336890358",
+      "cites_id": [
+        "134167821336890358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of hairy root culture of Andrographis paniculata for in vitro adrographollide production",
+        "pub_year": "2015",
+        "citation": "Journal of Medical and Bioengineering Vol 4 (6), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1420173832871547291",
+      "cites_id": [
+        "1420173832871547291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peran Mikoriza Vesikular Arbuskular dalam penyerapan nutrien, pertumbuhan, dan kadar minyak jarak (Jatropha curcas L.)",
+        "pub_year": "2013",
+        "citation": "Bionatura 15 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1817862338368010618",
+      "cites_id": [
+        "1817862338368010618"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tectona grandis callus produces antibacterial triterpene acids not detected in the intact plant",
+        "pub_year": "1997",
+        "citation": "Natural Product Sciences 3 (1), 75-80, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14565530366300214673",
+      "cites_id": [
+        "14565530366300214673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Cekaman Aluminium terhadap Kandungan Asam Organik dalam Kalus dan Pinak Tomat (Lycopersicon esculentum Mill.)",
+        "pub_year": "2006",
+        "citation": "Jurnal AgroBiogen 2 (1), 24-29, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15052846440579177767",
+      "cites_id": [
+        "15052846440579177767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan produksi azadirahtin dalam kultur suspensi sel Azadirachta indica A. Juss melalui penambahan skualen",
+        "pub_year": "2003",
+        "citation": "Jurnal Matematika dan Sains 8 (4), 141-146, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17838254981572892426",
+      "cites_id": [
+        "17838254981572892426"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation of Chlorella vulgaris in mediums with varying nitrogen sources and concentrations to induce the lipid yield",
+        "pub_year": "2023",
+        "citation": "Indian Chemical Engineer 65 (4), 369-380, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16658944513923761996",
+      "cites_id": [
+        "16658944513923761996"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Ekstrak Etanol Tangkai Daun Buasbuas (Premna pubescens) Menggunakan Gas Chromatography Mass Spectrophotometer (GCMS)",
+        "pub_year": "2018",
+        "citation": "Elkawnie: Journal of Islamic Science and Technology 4 (1), 1-12, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2378980757800281352",
+      "cites_id": [
+        "2378980757800281352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of tryptophan on growth and catharanthine content in C. roseus callus culture",
+        "pub_year": "2006",
+        "citation": "Jurnal Matematika dan Sains 11, 111-5, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:5nxA0vEk-isC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16653984555711853103",
+      "cites_id": [
+        "16653984555711853103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass and algal oil productivity with fatty acid profiles of Botryococcus sp. cultures under different concentrations of nitrogen",
+        "pub_year": "2019",
+        "citation": "Indian Journal of Science and Technology 12, 47, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:8k81kl-MbHgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15626608875938396554",
+      "cites_id": [
+        "15626608875938396554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "De novo transcriptome profiling of buasbuas (Premna pubescens. Blume)",
+        "pub_year": "2018",
+        "citation": "Biotechnology 17 (2), 76-85, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14524677433005445008",
+      "cites_id": [
+        "14524677433005445008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium tumefaciens-mediated transformation of Jatropha curcas L. with a polyhydroxyalkanoate gene (phaC)",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Biotechnology 22 (2), 61-67, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4349706567580831306",
+      "cites_id": [
+        "4349706567580831306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of antibacterial triterpene acids not detected in the native plant by cell suspension culture of Tectona grandis",
+        "pub_year": "1998",
+        "citation": "\u5ca1\u5c71\u5927\u5b66\u8fb2\u5b66\u90e8\u5b66\u8853\u5831\u544a 87 (1), 9-12, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10899048905201766833",
+      "cites_id": [
+        "10899048905201766833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiacne and Antibacterial Bioactivity Properties of Teak (Tectona grandis) Flower Essential Oil.",
+        "pub_year": "2023",
+        "citation": "Tropical Journal of Natural Product Research 7 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of the Geranylgeranyl Pyrophosphate Synthase (GGPS) Gene Family in Teak (Tectona grandis).",
+        "pub_year": "2023",
+        "citation": "Tropical Journal of Natural Product Research 7 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chlorophyll contents and expression profiles of photosynthesis-related genes in water-stressed banana plantlets",
+        "pub_year": "2023",
+        "citation": "Journal of Plant Biotechnology 50 (1), 127-136, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The evaluation of sweetness, starch and sugar concentration of Ipomoea batatas L. Rancing cultivar (Cilembu sweet potato) cultivated at specific location in the villages of \u2026",
+        "pub_year": "2023",
+        "citation": "Agrivita 45 (2), 271, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Evaluation of Sweetness, Starch and Sugar Concentrations of Ipomoea Batatas L. cv. Rancing from Specific Location in the Villages of Cilembu and Cimaung",
+        "pub_year": "2023",
+        "citation": "AGRIVITA Journal of Agricultural Science 45 (2), 354-370, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Identification of Genes Related to Cellular Respiration in Musa acuminata as Response to Water Stress",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLASI SENYAWA BIOINSEKTISIDA PADA EKSTRAK ETANOL TUMBUHAN BUASBUAS (Premna pubescens Blume) DENGAN METODE GCMS",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profile of a coumarate-CoA ligase-like5 gene in response to salt stress on the root Musa acuminata 4-L. Barangan cultivars.",
+        "pub_year": "2015",
+        "citation": "Journal of Plant Sciences 10 (6), 253-257, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolomics approach to select discriminant markers for authentication of Asian palm civet coffee (Kopi Luwak)",
+        "pub_year": "2014",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 248, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated stable transformation of medicinal plant Andrographis paniculata callus expressing \u03b2-glucuronidase (GUS) gene",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Biotechnology 18 (2), 92-100, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment and Improvement of Andrographolide (a potent anticancer agent) Production in Cell Culture of Andrographolis paniculata",
+        "pub_year": "2008",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of antibacterial triterpene acids occurring in Tectona grandis callus and their production by cell suspension culture",
+        "pub_year": "1997",
+        "citation": "\u5ca1\u5c71\u5927\u5b66, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SECONDARY METABOLITE PRODUCTION BY Tectona grandis CELL SYSTEM",
+        "pub_year": "1996",
+        "citation": "\u65e5\u672c\u8fb2\u85dd\u5316\u5b78\u6703\u8a8c 70, 84, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of the Auxin Response Factor Gene due to Drought Stress in Banana Shoot-tip in vitro Culture (Musa acuminata cv. Barangan)",
+        "citation": "PROCEEDING OF, 148, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "9 Enhanced Biomass and Astaxanthin Accumulation in Spirogyra sp. using Organic-Carbon Enriched Growth Medium",
+        "citation": "PROCEEDING OF, 68, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic modeling, optimization of biomass and astaxanthin production in Spirogyra sp. under nitrogen and phosphorus deficiency",
+        "citation": "Indonesian Journal of Biotechnology 28 (4), 225-237, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation of Microclimate of West Java on Caffeine and Chlorogenic acid in Coffea canephora var. robusta",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Wc0xJM8AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

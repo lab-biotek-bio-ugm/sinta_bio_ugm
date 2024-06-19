@@ -1,0 +1,1507 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "zeuSEDAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Edy Hartulistiyoso",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zeuSEDAAAAAJ&citpid=2",
+  "affiliation": "Mechanical and Bio-system Engineering, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Energy",
+    "Agricultural Product Processing"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "homepage": "http://www.ipb.ac.id/",
+  "citedby": 543,
+  "citedby5y": 434,
+  "hindex": 11,
+  "hindex5y": 11,
+  "i10index": 14,
+  "i10index5y": 12,
+  "cites_per_year": {
+    "2006": 3,
+    "2007": 7,
+    "2008": 2,
+    "2009": 10,
+    "2010": 11,
+    "2011": 7,
+    "2012": 2,
+    "2013": 4,
+    "2014": 7,
+    "2015": 3,
+    "2016": 12,
+    "2017": 12,
+    "2018": 24,
+    "2019": 34,
+    "2020": 19,
+    "2021": 30,
+    "2022": 101,
+    "2023": 160,
+    "2024": 89
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Energi dan listrik pertanian",
+        "pub_year": "1991",
+        "citation": "JICA IPB. Bogor, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 75,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18298158542629203264",
+      "cites_id": [
+        "18298158542629203264"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Temperature distribution of the plastics Pyrolysis process to produce fuel at 450oC",
+        "pub_year": "2015",
+        "citation": "Procedia Environmental Sciences 28, 234-241, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 68,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2636391614207540102",
+      "cites_id": [
+        "2636391614207540102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Palm oil biodiesel as a renewable energy resource in Indonesia: current status and challenges",
+        "pub_year": "2022",
+        "citation": "Bioenergy Research, 1-19, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:NJ774b8OgUMC",
+      "num_citations": 59,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10805361414974975294",
+      "cites_id": [
+        "10805361414974975294"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In-depth study of bio-oil and biochar production from macroalgae Sargassum sp. via slow pyrolysis",
+        "pub_year": "2022",
+        "citation": "RSC advances 12 (16), 9567-9578, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:evX43VCCuoAC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5930790463130875320",
+      "cites_id": [
+        "5930790463130875320"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent advancement on hydrogen production from macroalgae via supercritical water gasification",
+        "pub_year": "2021",
+        "citation": "Bioresource Technology Reports 16, 100844, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 46,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3499386152197451763",
+      "cites_id": [
+        "3499386152197451763"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Green algae to green fuels: Syngas and hydrochar production from Ulva lactuca via sub-critical water gasification",
+        "pub_year": "2022",
+        "citation": "Algal Research 67, 102834, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8471812852165118969",
+      "cites_id": [
+        "8471812852165118969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Slow Pyrolysis of Ulva lactuca (Chlorophyta) for Sustainable Production of Bio-Oil and Biochar",
+        "pub_year": "2022",
+        "citation": "Sustainability 14 (6), 3233, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:2KloaMYe4IUC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8970159468813820815",
+      "cites_id": [
+        "8970159468813820815"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiesel production from crude palm oil under different free fatty acid content using Eversa\u00ae Transform 2.0 Enzyme",
+        "pub_year": "2021",
+        "citation": "Int. J. Renew. Energy Res 11 (4), 1590-1596, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:tKAzc9rXhukC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11704475559134047510",
+      "cites_id": [
+        "11704475559134047510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Energi dan Elektrifikasi Pertanian",
+        "pub_year": "1998",
+        "citation": "Bogor: Proyek Peningkatan Perguruan Tinggi. Institut Pertanian Bogor, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17874002948038981887",
+      "cites_id": [
+        "17874002948038981887"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of sustainable biogas production from macroalgae in Indonesia",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012020, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=33032431955137279",
+      "cites_id": [
+        "33032431955137279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengeringan Lidah Buaya (Aloe Vera) Menggunakan Oven Gelombang Mikro (Microwave Oven)",
+        "pub_year": "2011",
+        "citation": "Jurnal Keteknikan Pertanian 25 (2), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7888773404398852637,722961039293193587",
+      "cites_id": [
+        "7888773404398852637",
+        "722961039293193587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi microwave untuk disinfestasi Tribolium castaneum (Herbst.) serta pengaruhnya terhadap warna dan karakteristik amilografi terigu",
+        "pub_year": "2017",
+        "citation": "Agritech 37 (2), 183-191, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:1qzjygNMrQYC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12539629232880340369",
+      "cites_id": [
+        "12539629232880340369"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal efficiency analysis of Organic Rankine Cycle (ORC) System from low-grade heat resources using various working fluids based on simulation",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012047, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18091418633844722470",
+      "cites_id": [
+        "18091418633844722470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh kadar air terhadap beberapa sifat fisik biji lada putih",
+        "pub_year": "2017",
+        "citation": "Agritech 37 (1), 16-22, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6211396666614975958",
+      "cites_id": [
+        "6211396666614975958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Potensi dan Peluang Pengembangan Kakao Desa Sidomulyo, Kecamatan Lebakbarang, Kabupaten Pekalongan",
+        "pub_year": "2020",
+        "citation": "Jurnal Pusat Inovasi Masyarakat (PIM) 2 (3), 330-337, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:WqliGbK-hY8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12146018278800178455",
+      "cites_id": [
+        "12146018278800178455"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan metode pembekuan vakum untuk produk pangan",
+        "pub_year": "2002",
+        "citation": "Laporan Penelitian Hibah Bersaing, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Zph67rFs4hoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3336091555616598066",
+      "cites_id": [
+        "3336091555616598066"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of temperature characterization of agricultural waste in the development of stove for combine heat power",
+        "pub_year": "2017",
+        "citation": "AIP conference proceedings 1826 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:_kc_bZDykSQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17760276604184620357",
+      "cites_id": [
+        "17760276604184620357"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorization of brown macroalgae Sargassum plagiophyllum for biogas production under different salinity conditions",
+        "pub_year": "2023",
+        "citation": "Bioresource Technology Reports 22, 101403, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16923785161234146438",
+      "cites_id": [
+        "16923785161234146438"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spouted Bed Drying of White Pepper (Piper nigrum L.) with Microwave Preheating Treatment",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 557 (1), 012045, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Y5dfb0dijaUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9224388843571339638",
+      "cites_id": [
+        "9224388843571339638"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bedah Buku Konsep Strategi Induk Pembangunan Pertanian (SIPP) 2013\u20132045, Pertanian\u2013Bioindustri Berkelanjutan",
+        "pub_year": "2014",
+        "citation": "Agrimedia 10 (1), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:SpbeaW3--B0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15354253547713157783",
+      "cites_id": [
+        "15354253547713157783"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of palm oil biodiesel produced with a static mixing reactor",
+        "pub_year": "2018",
+        "citation": "International Journal of Oil Palm 1 (2), 50-57, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Mojj43d5GZwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17857340771648791232",
+      "cites_id": [
+        "17857340771648791232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Distribusi Suhu, RH dan Aliran Udara Pengering untuk Optimasi Disain Pengering Efek Rumah Kaca",
+        "pub_year": "2005",
+        "citation": "Disertasi, Sekolah Pascasarjana., IPB, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17760335384676892756",
+      "cites_id": [
+        "17760335384676892756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Untersuchungen zur Applikation von Mikrowellenenergie f\u00fcr die Entkeimung von Gew\u00fcrzen am Beispiel von Majoran (Majorana hortensis Moench)",
+        "pub_year": "1999",
+        "citation": "Cuvillier, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4194317299514276501",
+      "cites_id": [
+        "4194317299514276501"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Co-production of hydrochar and bioactive compounds from Ulva lactuca via a hydrothermal process",
+        "pub_year": "2024",
+        "citation": "Carbon resources conversion 7 (1), 100183, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:epqYDVWIO7EC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6848373621905841874",
+      "cites_id": [
+        "6848373621905841874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penerapan Metode Ekstraksi Microwave Untuk Meningkatkan Rendemen dan Mutu Oleoresin Lada Putih (Piper nigrum L)",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian 10 (1), 21-28, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:35r97b3x0nAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14318195876472843548",
+      "cites_id": [
+        "14318195876472843548"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Energy usage analysis on the production process of canned crab meat (Portunus pelagicus)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012048, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4180561013934190871",
+      "cites_id": [
+        "4180561013934190871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetika Pengeringan Lapisan Tipis Daun Jati Belanda (Thin Layer Drying Kinetics of Guazuma Ulmifolia Leaves)",
+        "pub_year": "2020",
+        "citation": "Jurnal Keteknikan Pertanian 8 (2), 53-62, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10882162166389286746",
+      "cites_id": [
+        "10882162166389286746"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of moisture content on some physical properties of white pepper seeds",
+        "pub_year": "2017",
+        "citation": "AGRITECH-JURNAL TEKNOLOGI PERTANIAN 37 (1), 15-21, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:J-pR_7NvFogC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10898544800647588109",
+      "cites_id": [
+        "10898544800647588109"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengeringan Industrial",
+        "pub_year": "2001",
+        "citation": "Terjemahan dari: Sekamon Devahastin. Bogor: IPB Press, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5134885287666616884",
+      "cites_id": [
+        "5134885287666616884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Post harvest technology and processing of spices in Indonesia.",
+        "pub_year": "1998",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:M7yex6snE4oC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8723128395758245830",
+      "cites_id": [
+        "8723128395758245830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nacherntetechnologie und Gew\u00fcrzverarbeitung in lndonesien",
+        "pub_year": "1998",
+        "citation": "Landtechnik 53 (4), 252\u2013253-252\u2013253, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7676527489523487583",
+      "cites_id": [
+        "7676527489523487583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of drying temperature on quality of dried red ginger (Zingiber officinale var. rubrum).",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12097392884486378018",
+      "cites_id": [
+        "12097392884486378018"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiesel production from crude palm oil under subcritical methanol conditions: Experimental investigation and kinetic model",
+        "pub_year": "2023",
+        "citation": "Bioresource Technology Reports 22, 101441, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:EkHepimYqZsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5065353048589452041",
+      "cites_id": [
+        "5065353048589452041"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Batu Basalt Sebagai Media Penyimpan Panas Pembakaran Biomassa pada Sistem Pengering Gabah",
+        "pub_year": "2022",
+        "citation": "J. Keteknikan Pertan 10 (3), 305-318, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:uWiczbcajpAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10522225987140716640",
+      "cites_id": [
+        "10522225987140716640"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Penggunaan Bammbu Sebagai Tabung Resonator pada Pengembangan Thermoacoustic Refrigeration",
+        "pub_year": "2013",
+        "citation": "Prosiding Seminar Nasional Unjani 28, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8762444734627238789",
+      "cites_id": [
+        "8762444734627238789"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Penggunaan Bambu sebagai Tabung Resonator Thermoacoustics Refrigeration",
+        "pub_year": "2013",
+        "citation": "Jurnal Keteknikan Pertanian 1 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11153835660620619628",
+      "cites_id": [
+        "11153835660620619628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penghematan Energi Pada Proses Pengeringan dengan Gelombang Mikro",
+        "pub_year": "2012",
+        "citation": "Jurusan Keteknikan Pertanian Fakultas Teknologi Pertanian Universitas Brawijaya, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7860204533978198468",
+      "cites_id": [
+        "7860204533978198468"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE ROLE OF POST HARVEST HANDLING SYSTEM IN THE INDONESIAN FOOD SECURITY PROGRAM",
+        "pub_year": "2004",
+        "citation": "in the Tropics and Subtropics, 48, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14781307369017282617",
+      "cites_id": [
+        "14781307369017282617"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Degradation rate of brown macroalgae Sargassum sp. conversion to bio-oil via a slow pyrolysis",
+        "pub_year": "2023",
+        "citation": "International Journal of Renewable Energy Research (IJRER) 13 (2), 750-756, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:BUYA1_V_uYcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6801463020623520251",
+      "cites_id": [
+        "6801463020623520251"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction of Bio-pigments from the Green Microalgae Chlorella pyrenoidosa Under Different Solvent Ratios",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1187 (1), 012009, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:vDijr-p_gm4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4955747628085417825",
+      "cites_id": [
+        "4955747628085417825"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal Characteristics of Coconut Shells as Boiler Fuel.",
+        "pub_year": "2023",
+        "citation": "International Journal of Renewable Energy Development 12 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:zLWjf1WUPmwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6772803122890460736",
+      "cites_id": [
+        "6772803122890460736"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential utilization of municipal solid waste in landfill mining TPST Bantargebang Bekasi to become Refuse Derived Fuel (RDF) feed stock",
+        "pub_year": "2022",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4512199196675066355",
+      "cites_id": [
+        "4512199196675066355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Delignification of Cassava Peel as Bioethanol Raw Material using Combined Alkali and Microwave Heating Methods",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012021, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:z_wVstp3MssC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8466353053853845800",
+      "cites_id": [
+        "8466353053853845800"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Study on the Effect of Catalyst to The Yield of Biodiesel from Kemiri Sunan (Reutealis trisperma) Oil",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1034 (1), 012024, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=823742720434531082",
+      "cites_id": [
+        "823742720434531082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal efficiency simulation of working fluids performance on small scale organic rankine cycle (ORC) with biomass energy",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012039, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:ye4kPcJQO24C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7342810508464219846",
+      "cites_id": [
+        "7342810508464219846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain dan uji kinerja kondensor pirolisis plastik.",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:MLfJN-KU85MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13396107187317214007",
+      "cites_id": [
+        "13396107187317214007"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Energi Gelombang Mikro untuk Pengendalian Hama Gudang Araecerus fasciculatus (De Geer) pada Biji Kakao",
+        "pub_year": "2018",
+        "citation": "Jurnal Keteknikan Pertanian 6 (2), 145-150, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216672207890850637",
+      "cites_id": [
+        "14216672207890850637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of the Density of Coconut Fiber as Stack in Thermo-Acoustics Refrigeration System",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012037, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:HE397vMXCloC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14248051842557745756",
+      "cites_id": [
+        "14248051842557745756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modifikasi Reaktor pada Alat Pirolisis Plastik.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:k8Z6L05lTy4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16116856575392922565",
+      "cites_id": [
+        "16116856575392922565"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain dan uji kinerja portable mini chiller",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:kuK5TVdYjLIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10197120371634750490",
+      "cites_id": [
+        "10197120371634750490"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microwave treatment for killing the silo insect pest Sitophilus zeamais Motsch in maize",
+        "pub_year": "2012",
+        "citation": "II Asia Pacific Symposium on Postharvest Research Education and Extension \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11968846937975668444",
+      "cites_id": [
+        "11968846937975668444"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lama Pemanasan Metode Vapor Heat Treatment (VHT) dan Pelilinan Untuk Mempertahankan Mutu Pepaya Selama Penyimpanan",
+        "pub_year": "2008",
+        "citation": "Jurnal Keteknikan Pertanian 22 (1), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14236099053985814590",
+      "cites_id": [
+        "14236099053985814590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengeringan lada putih (Piper nigrum L.) menggunakan gelombang mikro (microwave)",
+        "pub_year": "2005",
+        "citation": "IPB (Bogor Agricultural University), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:4MWp96NkSFoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8230039105816593082",
+      "cites_id": [
+        "8230039105816593082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Teknologi Energi Terbarukan di Indonesia",
+        "pub_year": "2005",
+        "citation": "IPB (Bogor Agricultural University), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5283150021918309941",
+      "cites_id": [
+        "5283150021918309941"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eco-innovation in energy: Solid degradation kinetics of rejected red macroalgae (Kappaphycopsis cottonii) for bio-oil and biochar production",
+        "pub_year": "2024",
+        "citation": "Results in Engineering 22, 102203, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:S16KYo8Pm5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorization of Rejected Macroalgae Kappaphycopsis cottonii for Bio-Oil and Bio-Char Production via Slow Pyrolysis",
+        "pub_year": "2024",
+        "citation": "ACS omega 9 (14), 16665-16675, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:-FonjvnnhkoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Harnessing macroalgae Sargassum plagiophyllum-derived heterogeneous catalyst for biodiesel production",
+        "pub_year": "2024",
+        "citation": "Bioresource Technology Reports, 101768, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:oNZyr7d5Mn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian macroalgae as feedstock for hydrochar production using hydrothermal conversion",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2972 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:tYavs44e6CUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relief (Recursive Elimination of Feature) method for Solar Home System (SHS) analysis in Delta Mahakam",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1266 (1), 012067, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:g3aElNc5_aQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EXPERIMENTAL STUDY ON PRESSURIZED ADSORPTION OF CARBON DIOXIDE AND METHANE FROM COMPLEX GAS MIXTURE OF BIOGAS IN ZEOLITE 13X",
+        "pub_year": "2023",
+        "citation": "ASEAN Engineering Journal 13 (1), 119-123, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:e_rmSamDkqQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation on the Breakthrough Curve During CO2 Adsorption from Biogas in a Fixed Bed Column",
+        "pub_year": "2023",
+        "citation": "ASEAN Journal of Chemical Engineering 23 (3), 318-328, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:KUbvn5osdkgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Study of Paddy Dryer Using Basalt Stone As Heat Storage Media From Biomass Combustion",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian 10 (3), 305-318, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Equilibrium Behavior of CO2 Adsorption from Biogas onto Zeolites",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1034 (1), 012047, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:fEOibwPWpKIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Microwave-Assisted Extraction Method to Improve Yield and Qualityof White Pepper (Piper Nigrum L) Oleoresin.",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian 10 (1), 21-28, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:ILKRHgRFtOwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrothermal Carbonization of Ulva Lactuca (Chlorophyta) for Hydrochar Production",
+        "pub_year": "2022",
+        "citation": "Grand Renewable Energy proceedings GRE2022, 36, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:yB1At4FlUx8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An experimental investigation of gasoline-methanol (M5-M10) blends on performance in SI engine",
+        "pub_year": "2021",
+        "citation": "Uluslararas\u0131 Yak\u0131tlar Yanma Ve Yang\u0131n Dergisi 9 (1), 30-41, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:tzM49s52ZIMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimum parameters of Organic Rankine Cycle (ORC) power plant using coconut shell as fuel",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1098 (6), 062085, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Pengaruh Variasi Laju Bahan Bakar Tempurung Kelapa terhadap Efisiensi Termal Sistem Pembangkit Organic Rankine Cycle",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:TIZ-Mc8IlK0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Rasio Energi pada Produksi Biodiesel dengan Reaktor Berpengaduk Statik Sistem Kontinu (Energy Ratio Analysis on Biodiesel Production Using Continuous Static Mixing \u2026",
+        "pub_year": "2020",
+        "citation": "Jurnal Keteknikan Pertanian 8 (2), 39-44, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:N5tVd3kTz84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modifikasi dan Uji Kinerja Kiln Tipe Drum untuk Pengarangan Biomassa.",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinerja Water Chiller dalam Pendinginan Daerah Perakaran untuk Produksi Cabai Merah secara Hidroponik.",
+        "pub_year": "2019",
+        "citation": "Bogor Agriculture University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:LI9QrySNdTsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemanasan dengan Oven Gelombang Mikro terhadap Mutu Benih Kacang Hijau Varietas Vima 2.",
+        "pub_year": "2019",
+        "citation": "Bogor Agriculture University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:lmc2jWPfTJgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Penggunaan Kepingan CD-R Sebagai Bahan Reflektor Parabola pada Destilator Air",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:tuHXwOkdijsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Penggeseran Beban pada Jaringan Listrik Jawa-Bali dengan Penyimpanan Energi Jenis Hidrogen",
+        "pub_year": "2019",
+        "citation": "IPB University, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:b1wdh0AR-JQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance analysis of working fluids on organic rankie cycle (ORC) model with biomass energy as a heat sources.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:_B80troHkn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun dan Pengujian Penyimpanan Dingin dengan Sistem Pendinginan Termoakustik.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:kz9GbA2Ns4gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Kinerja Pengering Efek Rumah Kaca Hybrid Tipe Bak untuk Pengeringan Kulit Durian",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:gsN89kCJA0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microwave Aplication for the Disinfestation of Tribolium castaneum (Herbst.) and Its Effect on Color and Amilographic Characteristicsof Wheat Flour",
+        "pub_year": "2017",
+        "citation": "AGRITECH-JURNAL TEKNOLOGI PERTANIAN 37 (2), 183-191, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study On Temperature, Rh And Air Flow Velocity Distribution Inside The Greenhouse Effect Solar Dryer",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:L7CI7m0gUJcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengeringan Lidah Buaya (Aloe Vera) Menggunakan Oven Gelombang Mikro (Microwave Oven)",
+        "pub_year": "2011",
+        "citation": "Jurnal Keteknikan Pertanian 25 (2), 21598, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Alat dan Pengukuran Nilai Dielektrik pada Kisaran Frekuensi Radio",
+        "pub_year": "2010",
+        "citation": "IPB (Bogor Agricultural University), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Sistem Disinfestasi Hama/Penyakit Pascapanen Buah-Buahan Tropika dengan Metode \u2018Vapor Heat Treatment\u2019",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cfd Analysis Of Air Flow Profile Within A Ghe Solar Dryer",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:JQOojiI6XY0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CFD analysis for greenhouse effect solar dryer",
+        "pub_year": "2006",
+        "citation": "World renewable energy and environmental conference: abstract book, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Otomatisasi Sistem lnjeksi Etilen Dalam Pematangan Buatan",
+        "pub_year": "2005",
+        "citation": "IPB (Bogor Agricultural University), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Instrument Design and Measurement of Dielectric Properties Within Radio Frequency Range",
+        "pub_year": "2001",
+        "citation": "Jurnal Keteknikan Pertanian 15 (2), 21893, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Instrument Design and Measurement of Dielectric Properties Within Radio Frequency Range",
+        "pub_year": "2001",
+        "citation": "Jurnal Keteknikan Pertanian 15 (2), 2001"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies on the application of microwave energy for the germination of spices",
+        "pub_year": "1998",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "German-Indonesian Cooperation for the Development of Post-Harvest Technology of Spices",
+        "pub_year": "1996",
+        "citation": "VDI BERICHTE 1297, 305-308, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainable Biofuel Production from Brown and Green Macroalgae through the Pyrolysis",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:Dip1O2bNi0gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancangan dan Uji Performasi Mesin Pendingin Jet Uap",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:PoWvk5oyLR8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancangan dan uji tenis kolektor surya parabola silinder sederhana untuk pendinginan sistem jet uap",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:i2xiXl-TujoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis konsumsi energi pada usahatani bawang merah pasca tanam padi: Studi kasus petani bawang merah di Desa Sitanggal, Kecamatan Larangan, Kabupaten Brebes, Jawa Tengah",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:WZBGuue-350C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Alat dan Pengukuran Nilai Sifat Dielektrik Bahan Pertanian pada Kisaran Frekuensi Radio",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:EYYDruWGBe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Pengeringan Busa Karet Alam Di Dalam Oven Microwave",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:vbGhcppDl1QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Kinerja Pembangkit Listrik Organic Rankine Cycle (ORC) Berbahan Bakar Tempurung Kelapa",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:p__nRnzSRKYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pentahapan Suhu Dalam Sistem Pemantangan Buatan Buan-Buahan Klimakterik: Pisang Susu",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Benzin-metanol (M5-M10) kar\u0131\u015f\u0131mlar\u0131n\u0131n SI motorundaki performans \u00fczerine deneysel bir ara\u015ft\u0131rmas\u0131",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:ipzZ9siozwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IOP Conference Series: Earth and Environmental Science",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:nrtMV_XWKgEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INDEKS PENULIS VOLUME 37 TAHUN 2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:olpn-zPbct0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Performance Comparison between Stack from Coconut Fiber and Plastic in Thermo-acoustics Refrigeration",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:bnK-pcrLprsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of the Density of Coconut Fiber as Stack in Thermo-Acoustics Refrigeration",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Kinerja Pengering dengan Menggunakan Panas Buang Evaporator Dari Tungku Combine Heat Power Performances of Dryer Using Waste Heat of evaporator from Combine Heat Power Stove",
+        "citation": "National Symposium on Thermofluids 2016, 107, 0"
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Food Security and Sustainable Resource Management in a Market Economy: Challenges and Options",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zeuSEDAAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

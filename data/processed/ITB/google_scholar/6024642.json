@@ -1,0 +1,810 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "7CNWVcYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Isty Adhitya Purwasena",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7CNWVcYAAAAJ&citpid=2",
+  "affiliation": "School of Life Science ITB",
+  "interests": [
+    "Petroleum Microbiology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 352,
+  "citedby5y": 297,
+  "hindex": 10,
+  "hindex5y": 9,
+  "i10index": 11,
+  "i10index5y": 9,
+  "cites_per_year": {
+    "2009": 2,
+    "2010": 0,
+    "2011": 3,
+    "2012": 2,
+    "2013": 1,
+    "2014": 5,
+    "2015": 12,
+    "2016": 5,
+    "2017": 10,
+    "2018": 15,
+    "2019": 30,
+    "2020": 45,
+    "2021": 56,
+    "2022": 59,
+    "2023": 69,
+    "2024": 38
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BWeV_Q4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yuichi Sugai",
+      "affiliation": "Dept. of Earth Resources Engineering, Faculty of Engineering, Kyushu University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "RidGLtUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "\u4f50\u3005\u6728 \u4e45\u90ce, Kyuro Sasaki",
+      "affiliation": "Institute for Future Engineering, Senior Researcher; Professor Emeritus(Kyushu University)"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stability test of biosurfactant produced by Bacillus licheniformis DS1 using experimental design and its application for MEOR",
+        "pub_year": "2019",
+        "citation": "Journal of Petroleum Science and Engineering 183, 106383, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:sSrBHYA8nusC",
+      "num_citations": 87,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17601534565851669173",
+      "cites_id": [
+        "17601534565851669173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and characterization of biosurfactant produced by Pseudoxanthomonas sp. G3 and its applicability for enhanced oil recovery",
+        "pub_year": "2019",
+        "citation": "Journal of Petroleum Exploration and Production Technology 9, 2279-2289, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:tOudhMTPpwUC",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7803556628741714880",
+      "cites_id": [
+        "7803556628741714880"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of the Potential of an Oil-Viscosity-Reducing Bacterium <I>Petrotoga</I> sp. Isolated from an Oil Field for MEOR.",
+        "pub_year": "2010",
+        "citation": "SPE Annual Technical Conference and Exhibition, 19-22 September, Florence \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:Se3iqnhoufwC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2820794764597224191",
+      "cites_id": [
+        "2820794764597224191"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibition of microbial influenced corrosion on carbon steel ST37 using biosurfactant produced by Bacillus sp.",
+        "pub_year": "2019",
+        "citation": "Materials Research Express 6 (11), 115405, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:geHnlv5EZngC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551275252555074557",
+      "cites_id": [
+        "6551275252555074557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of the potential of an anaerobic thermophilic oil-degrading bacterium as a candidate for MEOR",
+        "pub_year": "2014",
+        "citation": "Journal of Petroleum Exploration and Production Technology 4, 189-200, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3561640432620472447",
+      "cites_id": [
+        "3561640432620472447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of biosurfactant as an alternative biocide to control biofilm associated biocorrosion.",
+        "pub_year": "2018",
+        "citation": "Journal of Environmental Science and Technology 11 (2), 104-111, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:08ZZubdj9fEC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18430371184871539559",
+      "cites_id": [
+        "18430371184871539559"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial huff and puff project at Mangunjaya field wells: The first in Indonesia towards successful MEOR implementation",
+        "pub_year": "2017",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, D021S021R001, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:SP6oXDckpogC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12671832321530031614",
+      "cites_id": [
+        "12671832321530031614"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental studies on indigenous hydrocarbon-degrading and hydrogen-producing bacteria in an oilfield for microbial restoration of natural gas deposits with CO2 sequestration",
+        "pub_year": "2012",
+        "citation": "Journal of Natural Gas Science and Engineering 5, 31-41, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:P5F9QuxV20EC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=923512387574841470",
+      "cites_id": [
+        "923512387574841470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Petrotoga japonica sp. nov., a thermophilic, fermentative bacterium isolated from Yabase Oilfield in Japan",
+        "pub_year": "2014",
+        "citation": "Archives of microbiology 196, 313-321, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7997338846547648796",
+      "cites_id": [
+        "7997338846547648796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitrogen optimization on rhamnolipid biosurfactant production from Pseudoxanthomonas sp. G3 and its preservation techniques",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (9), 2119-2127, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:8AbLer7MMksC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17662217533238077047",
+      "cites_id": [
+        "17662217533238077047"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Comprehensive Preparation Study for Microbial Nutrient Injection of Microbial Enhanced Oil Recovery: Reservoir Screening and Laboratory Analysis\u2013Case Study Bentayan Field",
+        "pub_year": "2017",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, D021S021R005, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:UxriW0iASnsC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8840309063974942243",
+      "cites_id": [
+        "8840309063974942243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Clove Essential Oil Microemulsion as an Alternative Biocide Against Pseudomonas aeruginosa Biofilm.",
+        "pub_year": "2020",
+        "citation": "Journal of Pure & Applied Microbiology 14 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4734976481681695449",
+      "cites_id": [
+        "4734976481681695449"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The utilization of natural reservoir brine in an enrichment culture medium: An alternative approach for isolation of anaerobic bacteria from an oil reservoir",
+        "pub_year": "2014",
+        "citation": "Petroleum science and technology 32 (7), 783-789, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6518399803910514587",
+      "cites_id": [
+        "6518399803910514587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of lemongrass (Cymbopogon citratus) essential oil on biofilm-biocorrosion in formation water environment",
+        "pub_year": "2018",
+        "citation": "Asian J. Sci. Res 11, 329-336, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:738O_yMBCRsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14749667883592276165",
+      "cites_id": [
+        "14749667883592276165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial community dynamics during MEOR biostimulation of an oil reservoir in sumatera Indonesia",
+        "pub_year": "2022",
+        "citation": "Journal of Petroleum Science and Engineering 208, 109558, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18018840797615433591",
+      "cites_id": [
+        "18018840797615433591"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of the Potential of Microbial Conversion Process of CO2 Into CH4 by Investigating the Microorganisms in High CO2 Content Oilfield",
+        "pub_year": "2010",
+        "citation": "SPE Canada Unconventional Resources Conference?, SPE-137568-MS, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9437055938189832665",
+      "cites_id": [
+        "9437055938189832665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Laboratory Study of Indigenous Bacterial Activities on Physical Oil Sample Properties from West Java Oil Reservoir: Implication for MEOR (Microbial Enhanced Oil Recovery \u2026",
+        "pub_year": "2008",
+        "citation": "Ikatan Ahli Teknik Perminyakan Indonesia Simposium Nasional dan Kongres X, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:roLk4NBRz8UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10488944207187877143,10885557532113295242",
+      "cites_id": [
+        "10488944207187877143",
+        "10885557532113295242"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of oil-degrading bacteria from one of south sumatera\u2019s oilfield",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 288 (1), 012123, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3726458383297066854",
+      "cites_id": [
+        "3726458383297066854"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi dan Karakterisasi Bakteri Hidrokarbonoklastik dari Reservoir Minyak Bumi Kalimantan yang Berpotensi Bagi Penerapan Teknologi MEOR (Microbial enhanced oil recovery)",
+        "pub_year": "2006",
+        "citation": "Thesis, Microbiology Study Program, Institut Teknologi Bandung, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1291197988732106106",
+      "cites_id": [
+        "1291197988732106106"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Size optimization of lemongrass (Cymbopogon citratus) essential oil nanoparticles as antimicrobial substance against bacteria isolated from south sumatran formation water",
+        "pub_year": "2019",
+        "citation": "Materials Research Express 6 (8), 0850h9, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:u9iWguZQMMsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4505565650493984208",
+      "cites_id": [
+        "4505565650493984208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of Urea Supplementation, Initial pH Medium and Inoculum Size on Hydrocarbonoclastic Bacterial Activities for MEOR Application",
+        "pub_year": "2008",
+        "citation": "Proceedings, 32nd IPA Annual Convention and Exhibition, Jakarta., 2008"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13512066064498979129",
+      "cites_id": [
+        "13512066064498979129"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of spores and biosurfactant of Bacillus clausii as a new biobased sol-gel coatings for corrosion protection of carbon steel ST 37 in water cooling systems",
+        "pub_year": "2023",
+        "citation": "Applied Surface Science Advances 18, 100452, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3389454269472789167",
+      "cites_id": [
+        "3389454269472789167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and Optimization of Carbon Source to Increase High Thermostabile Biosurfactant Production for Microbial Enhanced Oil Recovery (MEOR) Application",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1772 (1), 012033, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:D_sINldO8mEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6146976443421755856",
+      "cites_id": [
+        "6146976443421755856"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of enrichment and isolation media of thermophilic hydrocarbonoclastic bacteria isolated from Oil Reservoir of West Java for microbial enhanced oil recovery (MEOR \u2026",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (9), 2129-2139, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17132669216534737055",
+      "cites_id": [
+        "17132669216534737055"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indigenous Microbial Biostimulation for Microbial Enhanced Oil Recovery through Oil Degradation with Variation in Nutrent Concentrations",
+        "pub_year": "2020",
+        "citation": "Makara Journal of Science 24 (2), 2, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:LPZeul_q3PIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=452052689452033055",
+      "cites_id": [
+        "452052689452033055"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of nutrient composition on the formation of biofilm and biocorrosion in MEOR biostimulation medium based on response surface methodology",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 299 (1), 012015, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16307193501423124715",
+      "cites_id": [
+        "16307193501423124715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of cymbopogon citratus essential oil on community dynamics of biofilm-forming bacteria isolated from brine water of oil reservoir in South Sumatra",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 299 (1), 012057, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10124863220770240434",
+      "cites_id": [
+        "10124863220770240434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential degradation of SARA (saturated, aromatics, resinics, asphaltenes) fractions of crude oil by reservoir indigenous bacteria from South Sumatera",
+        "pub_year": "2018",
+        "citation": "Microbiology Indonesia 11 (4), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:p2g8aNsByqUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=945531797897754217",
+      "cites_id": [
+        "945531797897754217"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial biosurfactant produced by endogenous oil reservoir bacteria and its potential to eradicate biofilm as biocorrosion agent in oil industry",
+        "pub_year": "2017",
+        "citation": "Indonesian Petroleum Association, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6874878002374677973",
+      "cites_id": [
+        "6874878002374677973"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Laboratory Study of Indigenous Bacterial Activities From Handil Oil Reservoir for MEOR (Microbial Enhanced Oil Recovery) Application",
+        "pub_year": "2008",
+        "citation": "Indonesian Petroleum Association, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13448655113326435218",
+      "cites_id": [
+        "13448655113326435218"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production, characterization, and application of Pseudoxanthomonas taiwanensis biosurfactant: a green chemical for microbial enhanced oil recovery (MEOR)",
+        "pub_year": "2024",
+        "citation": "Scientific reports 14 (1), 10270, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipopeptide biosurfactant as a potential root canal irrigation agent: Antimicrobial and anti-biofilm evaluation",
+        "pub_year": "2024",
+        "citation": "Journal of Dentistry 144, 104961, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:J-pR_7NvFogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of paraquat dichloride and carbosulfan on soil conditions and population dynamic of soil microbes in a cornfield: a case study in Sumedang, West Java",
+        "pub_year": "2024",
+        "citation": "Current Research on Biosciences and Biotechnology 5 (2), 12-16, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biostimulation in microbial enhanced oil recovery: from laboratory analysis and nutrient formulation to field monitoring",
+        "pub_year": "2023",
+        "citation": "Challenges and Recent Advances in Sustainable Oil and Gas Recovery and \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OPTIMIZATION OF ENRICHMENT MEDIA AND ISOLATION MEDIA OF TERMOPHILIC HYDROCARBONOCLASTIC BACTERIA FROM PETROLEUM WELL X, WEST JAVA FOR MICROBIAL ENHANCED OIL RECOVERY (MEOR \u2026",
+        "pub_year": "2019",
+        "citation": "ON UNIVERSAL WELLBEING (ICUW 2019), 33, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Potential of Biosurfactant as an Alternative Biocide to Control Biofilm Associated Biocorrosion",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Effect of Lemongrass (Cymbopogon citratus) Essential Oil on Biofilm-biocorrossion in Formation Water Environment",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The analysis of bacterial diversity in high thermic-low salinity Oil Reservoirs prior to Microbial Enhanced Oil Recovery field test",
+        "pub_year": "2018",
+        "citation": "Journal of Engineering and Applied Sciences 13 (11), 4104-4112, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sequantial Isolation, Selection and Characterization of Indigen Hydrocarbonoclastic Bacteria Producing Extracelluler Polymeric Substance from Oil Reservoir for Application in MEOR.",
+        "pub_year": "2014",
+        "citation": "International Symposium on Earth Science and Technology 2014. December 4-5 \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of Biosurfactant Producing Bacteria from Oilfield for MEOR",
+        "pub_year": "2014",
+        "citation": "International Symposium on Earth Science and Technology 2014. December 4-5, 2014, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of Hydrocarbonoclastic Bacteria from Oil Field and analysis of Crude Oil Characteristic Alterations through Biodegradation for Microbial Enhanced Oil Recovery \u2026",
+        "pub_year": "2014",
+        "citation": "International Symposium on Earth Science and Technology 2014. December 4-5, 2014, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental studies on microbial enhanced oil recovery using a novel hydrocarbon degrading bacteria AR80",
+        "pub_year": "2011",
+        "citation": "\u4e5d\u5dde\u5927\u5b66, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of the potential of microbial conversion process of CO {sub 2} into CH {sub 4} by investigating the microorganisms in high-CO {sub 2} content oilfield",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of reservoir condition effects on the reduction of oil viscosity by a Petrotoga strain isolated from an oilfield for MEOR.",
+        "pub_year": "2010",
+        "citation": "Lecture, Journal of the Japanese Association for Petroleum Technology 75 (5 \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Novel Anaerobic Hydrocarbon Degrading Bacteria and The Prospect for Microbial Enhanced Oil Recovery",
+        "pub_year": "2010",
+        "citation": "Proceeding International Symposium on Earth Science and Technology 2010 \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "estimation of the potential of an oil-viscosity-reducing bacteria, Petrotoga isolated from an oilfield for MEOR",
+        "pub_year": "2009",
+        "citation": "International Petroleum Technology Conference, Qatar, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Basic studies on Microbial Enhanced Oil Recovery using crude oil viscosity reducing bacteria, Petrotoga sp.,",
+        "pub_year": "2009",
+        "citation": "Proceeding 3rd International Symposium of Novel Carbon Resources Science \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary Study on Microbial Enhanced Oil Recovery Using CO2 as a Nutrient Source.",
+        "pub_year": "2009",
+        "citation": "The 2nd Novel Carbon Resource Science Symposium, Bandung, Indonesia., pp \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effects of Hydrocarbonoklastic Bacterial Activities on Rock Porosity and Permeability of KL Reservoir: Implication on Oil Released",
+        "pub_year": "2008",
+        "citation": "Proceedings, International Symposium on Earth Science and Technology \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan Biosurfaktan dari Isolat Bakteri Indigen Reservoar Minyak Bumi yang Memiliki Aktivitas Antimikroba",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitrogen Optimization on Rhamnolipid Biosurfactant Production from Pseudoxanthomonas sp. G3 and Preserving Techniques",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLATION AND CHARACTERIZATION OF CRUDE-OIL UTILIZING THERMOPHILIC BACTERIA: IMPLICATION FOR MEOR (MICROBIAL ENHANCED OIL RECOVERY) APPLICATION",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7CNWVcYAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

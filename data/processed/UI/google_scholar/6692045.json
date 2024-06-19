@@ -1,0 +1,884 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "cdHdKvQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Kenny Lischer",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cdHdKvQAAAAJ&citpid=1",
+  "affiliation": "University of Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Gene Engineering",
+    "Thermophilic Bacteria",
+    "Thermostable Protein",
+    "Marine compound"
+  ],
+  "email_domain": "@ui.ac.id",
+  "citedby": 331,
+  "citedby5y": 327,
+  "hindex": 10,
+  "hindex5y": 10,
+  "i10index": 11,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "2018": 3,
+    "2019": 8,
+    "2020": 28,
+    "2021": 80,
+    "2022": 85,
+    "2023": 75,
+    "2024": 48
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aaIAzpUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhamad Sahlan",
+      "affiliation": "Teknologi Bioproses, Departemen Teknik Kimia, Fakultas Teknik, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3ViHy2kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Diah Kartika Pratami",
+      "affiliation": "Faculty of Pharmacy, Pancasila University, DKI Jakarta, 12640, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "eTi34roAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Heri Hermansyah",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9FmI3BMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "anondho wijanarko",
+      "affiliation": "professor of biological engineering, universitas indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qhDO5x4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Misri Gozan",
+      "affiliation": "Professor of Bioprocess Engineering, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "HvcIZlEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dini Wahyu Kartika Sari",
+      "affiliation": "Assistant Professor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "M-X5l1IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Zach M. Collins, PhD",
+      "affiliation": "Principal, Mission BioCapital"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LeHcpK8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sean Megason",
+      "affiliation": "Professor, Department of Systems Biology, Harvard Medical School"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "CMV98MwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tom Hiscock",
+      "affiliation": "University of Aberdeen"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "z17FO90AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "David Richmond",
+      "affiliation": "AI and Machine Learning Scientist"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluating the potency of Sulawesi propolis compounds as ACE-2 inhibitors through molecular docking for COVID-19 drug discovery preliminary study",
+        "pub_year": "2021",
+        "citation": "Journal of King Saud University-Science 33 (2), 101297, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 53,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14061939170270801981",
+      "cites_id": [
+        "14061939170270801981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Size-reduced embryos reveal a gradient scaling-based mechanism for zebrafish somite formation",
+        "pub_year": "2018",
+        "citation": "Development 145 (11), dev161257, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18191420291008569225",
+      "cites_id": [
+        "18191420291008569225"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular interaction analysis of Sulawesi propolis compounds with SARS-CoV-2 main protease as preliminary study for COVID-19 drug discovery",
+        "pub_year": "2021",
+        "citation": "Journal of King Saud University-Science 33 (1), 101234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64314688594574348",
+      "cites_id": [
+        "64314688594574348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential hepatoprotective effects of flavonoids contained in propolis from South Sulawesi against chemotherapy agents",
+        "pub_year": "2021",
+        "citation": "Saudi Journal of Biological Sciences 28 (10), 5461-5468, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:4DMP91E08xMC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17154512183111208260",
+      "cites_id": [
+        "17154512183111208260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular docking analysis of podophyllotoxin derivatives in Sulawesi propolis as potent inhibitors of protein kinases",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2230 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15945018931177861421",
+      "cites_id": [
+        "15945018931177861421"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol production by encapsulated Rhizopus oryzae from oil palm empty fruit bunch",
+        "pub_year": "2020",
+        "citation": "Transdisciplinary Research and Education Center for Green Technologies \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:ufrVoPGSRksC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15440679165366672232",
+      "cites_id": [
+        "15440679165366672232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Encapsulation of agarwood essential oil with maltodextrin and gum arabic",
+        "pub_year": "2019",
+        "citation": "Int. J. Technol 10, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10453280744031263792",
+      "cites_id": [
+        "10453280744031263792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration of the antifungal potential of Indonesian propolis from Tetragonula biroi bee on Candida sp. and Cryptococcus neoformans",
+        "pub_year": "2020",
+        "citation": "Transdisciplinary Research and Education Center for Green Technologies \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:WF5omc3nYNoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8184243680433838059",
+      "cites_id": [
+        "8184243680433838059"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-breast cancer activity on MCF-7 cells of melittin from Indonesia\u2019s Apis cerana: An in vitro study",
+        "pub_year": "2021",
+        "citation": "Asian Pacific journal of cancer prevention: APJCP 22 (12), 3913, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9954515331686486900",
+      "cites_id": [
+        "9954515331686486900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Surface plasmon resonance analysis for detecting non-structural protein 1 of dengue virus in Indonesia",
+        "pub_year": "2020",
+        "citation": "Saudi Journal of Biological Sciences 27 (8), 1931-1937, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6833748347643835387",
+      "cites_id": [
+        "6833748347643835387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bibliometric Analysis of Literature in Snake Venom-Related Research Worldwide (1933\u20132022)",
+        "pub_year": "2022",
+        "citation": "Animals 12 (16), 2058, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5538138199843359990",
+      "cites_id": [
+        "5538138199843359990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiviral activity of Acanthaster planci phospholipase A2 against human immunodeficiency virus",
+        "pub_year": "2018",
+        "citation": "Veterinary world 11 (6), 824, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=536617898985032898",
+      "cites_id": [
+        "536617898985032898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Docking of South Sulawesi Propolis against Fructose 1, 6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug",
+        "pub_year": "2020",
+        "citation": "International Journal of Technology 11 (5), 910-920, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:_kc_bZDykSQC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18090352623370257623",
+      "cites_id": [
+        "18090352623370257623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The emergence and rise of indigenous thermophilic bacteria exploration from hot springs in Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (11), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:0EnyYjriUFMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3837773234929190657",
+      "cites_id": [
+        "3837773234929190657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification simulation with vapor permeation and distillation-adsorption in bioethanol plant",
+        "pub_year": "2017",
+        "citation": "Makara Journal of Technology 21 (1), 8, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14593099895602686746",
+      "cites_id": [
+        "14593099895602686746"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical and chemical characterization of dry mud propolis for natural scrub cosmetic",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2230 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5666281562124655922",
+      "cites_id": [
+        "5666281562124655922"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of original honey (Apis sp and Tetragonula sp) and fake honey compounds in Indonesia using gas chromatography-mass spectrometry (GC-MS)",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13682914955078787877",
+      "cites_id": [
+        "13682914955078787877"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Lebah Dan Pengelolaan Sampah Untuk Ekonomi Rumah Tangga Yang Berkelanjutan",
+        "pub_year": "2021",
+        "citation": "Dharmakarya: Jurnal Aplikasi Ipteks Untuk Masyarakat 10 (3), 248-257, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2318933868968271566",
+      "cites_id": [
+        "2318933868968271566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microencapsulation of clove oil using spray dry with casein encapsulator and activity test towards Streptococcus mutans",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17718776388579137352",
+      "cites_id": [
+        "17718776388579137352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Docking Study of Anti-Inflammatory Biomarkers in Sulawesi Propolis as Potent Inhibitors of Cyclooxygenase-2",
+        "pub_year": "2019",
+        "citation": "2019 IEEE International Conference on Innovative Research and Development \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15987911396304177243",
+      "cites_id": [
+        "15987911396304177243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Docking Analysis of Anti-Candida albicans Biomarkers in Sulawesi Propolis Against Secreted Aspartic Proteinase-5",
+        "pub_year": "2019",
+        "citation": "2019 IEEE 6th International Conference on Engineering Technologies and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:UebtZRa9Y70C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17197150981294612321",
+      "cites_id": [
+        "17197150981294612321"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heat transfer simulation of various material for polymerase chain reaction thermal cycler",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Engineering (JMechE) 18 (2), 27-37, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1756128259972790027",
+      "cites_id": [
+        "1756128259972790027"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning of DNA Polymerase I Geobacillus thermoleovorans SGAir0734 from a Batu Kuwung Hot Spring in Escherichia coli.",
+        "pub_year": "2020",
+        "citation": "International Journal of Technology 11 (5), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8816817900081889296",
+      "cites_id": [
+        "8816817900081889296"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Identification of Propolis Compounds Potential as COVID-19 Drug Candidates Against SARS-CoV-2 Spike Protein",
+        "pub_year": "2023",
+        "citation": "International Journal of Technology 14 (2), 387-398, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8296454546622154149",
+      "cites_id": [
+        "8296454546622154149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of Cost-Efficient Thermocycler Prototype for Polymerase Chain Reaction and Loop-Mediated Isothermal Amplification",
+        "pub_year": "2021",
+        "citation": "Assessment 12 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4530236441292961663",
+      "cites_id": [
+        "4530236441292961663"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico study on RNA structures of intronic mutations of beta-globin gene",
+        "pub_year": "2020",
+        "citation": "F1000Research 9, 49, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18425983717966782713",
+      "cites_id": [
+        "18425983717966782713"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production and composition identification of sea cucumber jelly from Holothuria scabra",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2230 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1453353667922677729",
+      "cites_id": [
+        "1453353667922677729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of the interaction between Calloselasma rhodostoma venom-derived peptides and cancer-associated hub proteins: A computational study",
+        "pub_year": "2023",
+        "citation": "Heliyon 9 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14937798914801505379",
+      "cites_id": [
+        "14937798914801505379"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and anticancer activity assay of stonefish (Synanceia horrida) bioactive stonustoxin",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2537 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2183200628554481915",
+      "cites_id": [
+        "2183200628554481915"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol recovery from propolis production waste using adsorption distillation method",
+        "pub_year": "2021",
+        "citation": "International Journal of Applied Pharmaceutics, 13-17, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15373673385069117388",
+      "cites_id": [
+        "15373673385069117388"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Thermophilic Bacteria from Tirta Lebak Buana Hot Spring in Serang, Banten, Indonesia",
+        "pub_year": "2021",
+        "citation": "Makara Journal of Technology 25 (3), 6, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16031738124634061600",
+      "cites_id": [
+        "16031738124634061600"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Antibacterial Activity of Honey Bee Venom Bioactive from Apis cerana",
+        "pub_year": "2022",
+        "citation": "International Journal of Technology 13 (8), 1778-1786, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Type 2 CRISPR/Cas identification of Geobacillus thermoleovorans from Batu Kuwung Banten: In silico studies",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2537 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bibliometric Analysis of Literature in Snake Venom-Related Research Worldwide (1933\u20132022). Animals 2022, 12, 2058",
+        "pub_year": "2022",
+        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The 5th Biomedical Engineering\u2019s Recent Progress in Biomaterials, Drugs Development, and Medical Devices",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2344 (1), 010002, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: 5th International Symposium of Biomedical Engineering (ISBE) 2020",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2344 (1), 010001, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent updates in artificial kidney technology: Potential parsing for universal coverage burden of chronic kidney disease in Indonesia",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings: American Institute of Physics Inc., 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular interaction analysis of Sulawesi propolis compounds with \u50f9) SARS-CoV-2 main protease as preliminary study for COVID-19 drug \u5668\u66a8 discovery",
+        "pub_year": "2021",
+        "citation": "Journal of King Saud University\u2013Science 33, 101234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Interaction Analysis of Indonesian and Thailand Traditional Medicine Compoundswith SARS-CoV-2 Main Protease, ACE-2, and PAK-1 as Preliminary Study for COVID-19 Drug \u2026",
+        "pub_year": "2020",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 34-34, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico study on RNA structures of intronic mutations o f beta-globin gene [version 1; peer review: 1 approved with",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico study on RNA structures of intronic mutation s of beta-globin gene [version 2; peer review: 1 approved, 1 not",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scale-up production simulation of tooth gel containing Casein phophopeptide\u2013Amorphous calcium phosphate (CPP-ACP) and propolis to inhibit teeth demineralization",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2230 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "study on RNA structures of intronic mutations of In silico",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "beta-globin gene [version 1; peer review: 1 approved with",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: The 4th Biomedical Engineering\u2019s Recent Progress in Biomaterials, Drugs Development, Health, and Medical Devices",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 010001, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisa potensi kegagalan pipa baru instal dengan menggunakan metode FMEA risiko= Newly installed subsea pipeline potential failure analysis using risk FMEA",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi pemilihan jalur pipa bawah laut untuk minyak mentah di Lapangan LIMA= Study of crude oil pipeline route selection of underwater at LIMA Field",
+        "pub_year": "2019",
+        "citation": "Fakultas Teknik Universitas Indonesia, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hexagonal packing of cornea epithelial cells during zebrafish eye development",
+        "pub_year": "2018",
+        "citation": "Nara Institute of Science and Technology, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiviral activity of Acanthaster planci phospholipase A2 against human immunodeficiency virus, Veterinary World, 11 (6): 824-829",
+        "pub_year": "2018",
+        "citation": "Abstract, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji aktivitas antiviral phospolipase A2 duri bintang laut Acanthaster planci Perairan Maluku pada Human Immunodeficiency Virus= Antiviral activity test of phospolipase A2 \u2026",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "International Journal of Technology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "beta-globin gene [version 1; peer review: awaiting peer review]",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiviral activity test of phospolipase A, from moluccas crown-of-thorn starfish Acanthaster planci in human immunodeficiency virus",
+        "citation": "Asian Pacific Journal of Tropical Medicine 214, 412-42, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cdHdKvQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

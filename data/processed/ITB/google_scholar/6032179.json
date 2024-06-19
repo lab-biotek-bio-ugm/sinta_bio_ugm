@@ -1,0 +1,1687 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "8UBLC6MAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dea Indriani Astuti",
+  "affiliation": "Institut Teknologi Bandung",
+  "interests": [],
+  "citedby": 953,
+  "citedby5y": 782,
+  "hindex": 16,
+  "hindex5y": 14,
+  "i10index": 29,
+  "i10index5y": 19,
+  "cites_per_year": {
+    "2011": 3,
+    "2012": 8,
+    "2013": 12,
+    "2014": 8,
+    "2015": 14,
+    "2016": 29,
+    "2017": 35,
+    "2018": 47,
+    "2019": 51,
+    "2020": 89,
+    "2021": 164,
+    "2022": 166,
+    "2023": 215,
+    "2024": 94
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stability test of biosurfactant produced by Bacillus licheniformis DS1 using experimental design and its application for MEOR",
+        "pub_year": "2019",
+        "citation": "Journal of Petroleum Science and Engineering 183, 106383, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:uLbwQdceFCQC",
+      "num_citations": 87,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17601534565851669173",
+      "cites_id": [
+        "17601534565851669173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a zero water discharge (ZWD)\u2014Recirculating aquaculture system (RAS) hybrid system for super intensive white shrimp (Litopenaeus vannamei) culture under low \u2026",
+        "pub_year": "2018",
+        "citation": "Aquacultural engineering 82, 12-24, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 69,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16947629051041558261",
+      "cites_id": [
+        "16947629051041558261"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan potensi lokal di Desa Panawangan sebagai model desa vokasi dalam pemberdayaan masyarakat dan peningkatan ketahanan pangan nasional",
+        "pub_year": "2016",
+        "citation": "Jurnal Sosioteknologi 15 (1), 59-67, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:t6usbXjVLHcC",
+      "num_citations": 69,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13056034433759857393",
+      "cites_id": [
+        "13056034433759857393"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparation of antifouling polypropylene/ZnO composite hollow fiber membrane by dip-coating method for peat water treatment",
+        "pub_year": "2020",
+        "citation": "Journal of Water Process Engineering 34, 101158, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10498227484865598719",
+      "cites_id": [
+        "10498227484865598719"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and characterization of biosurfactant produced by Pseudoxanthomonas sp. G3 and its applicability for enhanced oil recovery",
+        "pub_year": "2019",
+        "citation": "Journal of Petroleum Exploration and Production Technology 9, 2279-2289, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7803556628741714880",
+      "cites_id": [
+        "7803556628741714880"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fermentation of coffee pulp using indigenous lactic acid bacteria with simultaneous aeration to produce cascara with a high antioxidant activity",
+        "pub_year": "2020",
+        "citation": "Heliyon 6 (7), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16316951792813741179",
+      "cites_id": [
+        "16316951792813741179"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamics and diversity of cultivable rhizospheric and endophytic bacteria during the growth stages of cilembu sweet potato (Ipomoea batatas L. var. cilembu)",
+        "pub_year": "2018",
+        "citation": "Agriculture and Natural Resources 52 (4), 309-316, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:WbkHhVStYXYC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6513079930316036108",
+      "cites_id": [
+        "6513079930316036108"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laboratory simulation of microbial enhanced oil recovery using Geobacillus toebii R-32639 isolated from the Handil reservoir",
+        "pub_year": "2015",
+        "citation": "Rsc Advances 5 (5), 3908-3916, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:Mojj43d5GZwC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14204649512398432731",
+      "cites_id": [
+        "14204649512398432731"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of indigenous probiotic Halomonas aquamarina and Shewanella algae for white shrimp (Litopenaeus vannamei Boone) hatchery productivity in zero water discharge system",
+        "pub_year": "2013",
+        "citation": "J. Aquac. Res. Dev 4 (5), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17996623121889630678",
+      "cites_id": [
+        "17996623121889630678"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic changes in the bacterial community and metabolic profile during fermentation of low-salt shrimp paste (terasi)",
+        "pub_year": "2022",
+        "citation": "Metabolites 12 (2), 118, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:_B80troHkn4C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15169675988001150969",
+      "cites_id": [
+        "15169675988001150969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GC/MS-based metabolic profiling for the evaluation of solid state fermentation to improve quality of Arabica coffee beans",
+        "pub_year": "2020",
+        "citation": "Metabolomics 16, 1-14, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4340349712498227635",
+      "cites_id": [
+        "4340349712498227635"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibition of microbial influenced corrosion on carbon steel ST37 using biosurfactant produced by Bacillus sp.",
+        "pub_year": "2019",
+        "citation": "Materials Research Express 6 (11), 115405, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551275252555074557",
+      "cites_id": [
+        "6551275252555074557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ammonium removal by nitrifying bacteria biofilm on limestone and bioball substrate established in freshwater trickling biofilter",
+        "pub_year": "2016",
+        "citation": "Poultry, Fisheries and Wildlife Sciences 4 (2), 157, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3994922503224693544",
+      "cites_id": [
+        "3994922503224693544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial enhanced oil recovery: an investigation of bacteria ability to live and alter crude oil physical characteristics in high pressure condition",
+        "pub_year": "2009",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, SPE-123506-MS, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3850391092135728856",
+      "cites_id": [
+        "3850391092135728856"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of biosurfactant as an alternative biocide to control biofilm associated biocorrosion.",
+        "pub_year": "2018",
+        "citation": "Journal of Environmental Science and Technology 11 (2), 104-111, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18430371184871539559",
+      "cites_id": [
+        "18430371184871539559"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biotechnology carbon capture and storage (CCS) by mix-culture green microalgae to enhancing carbon uptake rate and carbon dioxide removal efficiency with variation aeration \u2026",
+        "pub_year": "2014",
+        "citation": "Jurnal Teknologi 69 (6), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11447887330214480879",
+      "cites_id": [
+        "11447887330214480879"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial huff and puff project at Mangunjaya field wells: The first in Indonesia towards successful MEOR implementation",
+        "pub_year": "2017",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, D021S021R001, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:olpn-zPbct0C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12671832321530031614",
+      "cites_id": [
+        "12671832321530031614"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of carbon dioxide removal through artificial light intensity and temperature by constructed green microalgae consortium in a vertical bubble column photobioreactor",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:u9iWguZQMMsC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6054976247734668391",
+      "cites_id": [
+        "6054976247734668391"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth response and chlorophyll content of Scenedesmus obliquus cultivated in different artificial media",
+        "pub_year": "2013",
+        "citation": "Asian Journal of Environment Biology 1 (1), 1-9, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:P5F9QuxV20EC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4584558511801523342",
+      "cites_id": [
+        "4584558511801523342"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of Cyanobacteria Arthrospira platensis and Cladoceran Daphnia magna as complementary protein and lipid sources in transitional diet for Common Carp (Cyprinus carpio L \u2026",
+        "pub_year": "2016",
+        "citation": "Natural Resources 7 (7), 423-433, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14025615187839550172",
+      "cites_id": [
+        "14025615187839550172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic fungi from surian (Toona sinensis roem) and antioxidant potency from its culture",
+        "pub_year": "2016",
+        "citation": "Asian Journal of Plant Sciences 15 (1/2), 8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:8AbLer7MMksC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9109254924770248082",
+      "cites_id": [
+        "9109254924770248082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sequential Isolation of Saturated, Aromatic, Resinic, and Asphaltic Fractions Degrading Bacteria from Oil Contaminated Soil in South Sumatera",
+        "pub_year": "2012",
+        "citation": "Makara Journal of Science 16 (1), 10, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14224655077373710617",
+      "cites_id": [
+        "14224655077373710617"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrated vertical photobioreactor system for carbon dioxide removal using phototrophic microalgae",
+        "pub_year": "2013",
+        "citation": "Nigerian Journal of Technology 32 (2), 225-232, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:D03iK_w7-QYC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1808561807970249585",
+      "cites_id": [
+        "1808561807970249585"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodesulfurization of subbituminous coal by mixed culture bacteria isolated from coal mine soil of South Sumatera",
+        "pub_year": "2013",
+        "citation": "Asian Network for Scientific Information, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15720327318643608156",
+      "cites_id": [
+        "15720327318643608156"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh kepadatan awal inokulum terhadap kualitas kultur Chaetoceros gracilis (Sch\u00fctt) pada sistem batch",
+        "pub_year": "2009",
+        "citation": "Jurnal Matematika & Sains 14 (1), 1-8, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:XiVPGOgt02cC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12485767700074536721",
+      "cites_id": [
+        "12485767700074536721"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi bertahap dan identifikasi isolat bakteri termofilik pendegradasi minyak bumi dari sumur bangko",
+        "pub_year": "2000",
+        "citation": "Jurusan Biologi. ITB. Bandung, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:SP6oXDckpogC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5560374878397727114",
+      "cites_id": [
+        "5560374878397727114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitrogen optimization on rhamnolipid biosurfactant production from Pseudoxanthomonas sp. G3 and its preservation techniques",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (9), 2119-2127, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:_Ybze24A_UAC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17662217533238077047",
+      "cites_id": [
+        "17662217533238077047"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Comprehensive Preparation Study for Microbial Nutrient Injection of Microbial Enhanced Oil Recovery: Reservoir Screening and Laboratory Analysis\u2013Case Study Bentayan Field",
+        "pub_year": "2017",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, D021S021R005, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:sSrBHYA8nusC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8840309063974942243",
+      "cites_id": [
+        "8840309063974942243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of potential photosynthetic microalgae from wastewater treatment plant for carbon dioxide capture and storage (CCS)",
+        "pub_year": "2013",
+        "citation": "Asian Transactions on Science & Technology Journal 3 (1), 1-8, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14223535655304927331",
+      "cites_id": [
+        "14223535655304927331"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Clove Essential Oil Microemulsion as an Alternative Biocide Against Pseudomonas aeruginosa Biofilm.",
+        "pub_year": "2020",
+        "citation": "Journal of Pure & Applied Microbiology 14 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4734976481681695449",
+      "cites_id": [
+        "4734976481681695449"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Fermented Tofu with High Isoflavone Content through Variation of Inoculum Percentages and Ratios of Lactobacillus plantarum, Lactobacillus acidophilus, and \u2026",
+        "pub_year": "2013",
+        "citation": "Journal of Mathematical & Fundamental Sciences 45 (3), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:yD5IFk8b50cC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1460804383860537746",
+      "cites_id": [
+        "1460804383860537746"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan kultur campuran isolat mikroba lokal untuk degradasi minyak bumi dan produksi biosurfaktan",
+        "pub_year": "2003",
+        "citation": "Disertasi Doktor Institut Teknologi Bandung, Bandung, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:PELIpwtuRlgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15325599659595896244",
+      "cites_id": [
+        "15325599659595896244"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolite Changes in Indonesian Tempe Production from Raw Soybeans to Over-Fermented Tempe",
+        "pub_year": "2023",
+        "citation": "Metabolites 13 (2), 300, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2460287327336914290",
+      "cites_id": [
+        "2460287327336914290"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of zero water discharge technology through the application of nitrifying bacteria and textile vertical substrate in grow-out phase of Macrobrachium rosenbergii De Man.",
+        "pub_year": "2012",
+        "citation": "Journal of Aquaculture & Research Development 3 (5), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:ye4kPcJQO24C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16347175900631252969",
+      "cites_id": [
+        "16347175900631252969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial hollow fiber polypropylene/ZnO membrane for effective air filtration",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 622 (1), 012005, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:J-pR_7NvFogC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7224593143579409585",
+      "cites_id": [
+        "7224593143579409585"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "& Simatupang, TM (2018). Development of a zero water discharge (ZWD)\u2014recirculating aquaculture system (RAS) hybrid system for super intensive white shrimp (Litopenaeus \u2026",
+        "citation": "Aquacultural Engineering 82, 12-24, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9486306099607940174",
+      "cites_id": [
+        "9486306099607940174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of lemongrass (Cymbopogon citratus) essential oil on biofilm-biocorrosion in formation water environment",
+        "pub_year": "2018",
+        "citation": "Asian J. Sci. Res 11, 329-336, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14749667883592276165",
+      "cites_id": [
+        "14749667883592276165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi produk biosolubilisasi lignit oleh kapang Indigenus dari tanah pertambangan batubara di Sumatera Selatan",
+        "pub_year": "2017",
+        "citation": "Jurnal Biologi Indonesia 7 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:fEOibwPWpKIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17914638992788838927",
+      "cites_id": [
+        "17914638992788838927"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary study on biomitigation green house gas carbon dioxide in closed system bubble photobioreactor: relationship among the mass transfer rate and CO2 removal efficiency \u2026",
+        "pub_year": "2014",
+        "citation": "Jurnal Teknologi 69 (6), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:a0OBvERweLwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1514427662212879293",
+      "cites_id": [
+        "1514427662212879293"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan model penerimaan biopestisida (Studi kasus pada petani sayuran di Desa Cipada Kecamatan Cisarua Kabupaten Bandung Barat)",
+        "pub_year": "2012",
+        "citation": "Jurnal Sosioteknologi 11 (27), 177-193, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:1qzjygNMrQYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017060424596705805",
+      "cites_id": [
+        "11017060424596705805"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of zero-water discharge technology and nitrifying bacteria application in nursery phase of the giant freshwater prawn (Macrobrachium rosenbergii de Man)",
+        "pub_year": "2009",
+        "citation": "World Aquaculture Meeting Abstract Book 208, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5628781327381015591",
+      "cites_id": [
+        "5628781327381015591"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi Bertahap Bakteri Pendegradasi Minyak Bumi dari Sumur Bangko",
+        "pub_year": "2001",
+        "citation": "Proceeding Simposium Nasional IATMI, 1-5, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=763596537082491379",
+      "cites_id": [
+        "763596537082491379"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolome analysis to investigate the effect of controlled fermentation on taste-related metabolites in terasi",
+        "pub_year": "2022",
+        "citation": "Metabolomics 18 (7), 44, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17279882853207360984",
+      "cites_id": [
+        "17279882853207360984"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A comparative study on quality of fermented shrimp paste (Terasi) of pelagic shrimp from different locations in Indonesia",
+        "pub_year": "2022",
+        "citation": "Squalen Bull Mar Fish Postharvest Biol Technol 17, 23-34, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5616140437211397159",
+      "cites_id": [
+        "5616140437211397159"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial community dynamics during MEOR biostimulation of an oil reservoir in sumatera Indonesia",
+        "pub_year": "2022",
+        "citation": "Journal of Petroleum Science and Engineering 208, 109558, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18018840797615433591",
+      "cites_id": [
+        "18018840797615433591"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi kandungan vitamin B12, folat dan isoflavon tempe kedelai dengan isolat murni Rhizopus oryzae, Rhizopus oligosporus, dan Rhizopus stolonifer sebagai bahan pangan \u2026",
+        "pub_year": "2021",
+        "citation": "Teknologi Pangan: Media Informasi Dan Komunikasi Ilmiah Teknologi Pertanian \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:abG-DnoFyZgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2926120997152904889",
+      "cites_id": [
+        "2926120997152904889"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial succession and chemical characteristics in fermentation of Ambonese arrack (sopi), traditional beverage from Maluku",
+        "pub_year": "2020",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 12 (2), 147-154, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1845506624887703398",
+      "cites_id": [
+        "1845506624887703398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Closed aquaculture system: Zero water discharge for shrimp and prawn farming in Indonesia",
+        "pub_year": "2018",
+        "citation": "Biological resources of water, 297, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15148479429208324786",
+      "cites_id": [
+        "15148479429208324786"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of gamma irradiated and raw lignite in bioliquefaction process by fungus T5",
+        "pub_year": "2012",
+        "citation": "Atom Indonesia 38 (2), 51-56, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:p2g8aNsByqUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7768918781404723030",
+      "cites_id": [
+        "7768918781404723030"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production and characterization of thermoalkaliphilic xylanase from Bacillus halodurans CM1 on degumming process of ramie (Boehmeria nivea L. Gaud) fiber as textile raw material",
+        "pub_year": "2021",
+        "citation": "Microbiology Indonesia 15 (3), 3-3, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:_xSYboBqXhAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2322748294219682815",
+      "cites_id": [
+        "2322748294219682815"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality improvement of semi-wet terasi by optimizing the starter culture ratio of controlled fermentation",
+        "pub_year": "2020",
+        "citation": "Hayati Journal of Biosciences 27 (4), 320-320, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10153420608639259974",
+      "cites_id": [
+        "10153420608639259974"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosolubilisasi Lignit Mentah Hasil Iradiasi Gamma dan oleh Trichoderma asperellum",
+        "pub_year": "2013",
+        "citation": "Jurnal Ilmiah Aplikasi Isotop dan Radiasi 8 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:5awf1xo2G04C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15962805372681648082",
+      "cites_id": [
+        "15962805372681648082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Green synthesis of copper ions nanoparticles functionalized with rhamnolipid as potential antibacterial agent for pathogenic bacteria",
+        "pub_year": "2024",
+        "citation": "Heliyon 10 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:VLnqNzywnoUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14556363695676523600",
+      "cites_id": [
+        "14556363695676523600"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Field implementation of nutrient huff and puff in Bentayan field, South Sumatera: towards a low-cost EOR",
+        "pub_year": "2020",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, D021S007R004, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2217524915455789718",
+      "cites_id": [
+        "2217524915455789718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological profiling and microorganism community analysis of cirebon shrimp paste fermentation \u201cterasi\u201d using BIOLOGTM EcoPlate",
+        "pub_year": "2018",
+        "citation": "Microbiology Indonesia 12 (1), 3, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:08ZZubdj9fEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11684836473455555273",
+      "cites_id": [
+        "11684836473455555273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of oil-degrading bacteria from one of south sumatera\u2019s oilfield",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 288 (1), 012123, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:NhqRSupF_l8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3726458383297066854",
+      "cites_id": [
+        "3726458383297066854"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial diversity in subbituminous coal and soil from coal mine of South Sumatra, Indonesia",
+        "pub_year": "2013",
+        "citation": "International Journal of Integrative Biology, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:738O_yMBCRsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9454264947438610470",
+      "cites_id": [
+        "9454264947438610470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of probiotic bacteria against aeromonads syndrome in common carp (Cyprinus carpio L.) in simple axenic larviculture",
+        "pub_year": "2013",
+        "citation": "larvi 2013, 433, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=424385733651107479",
+      "cites_id": [
+        "424385733651107479"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Combined Pure Cultures of Rhizopus sp.(Rhizopus oryzae, Rhizopus oligosporus, and Rhizopus stolonifer) on Tempeh Extract Yogurt as a Functional Food",
+        "pub_year": "2023",
+        "citation": "Current Nutrition & Food Science 19 (3), 307-316, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:geHnlv5EZngC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8888479736564320553",
+      "cites_id": [
+        "8888479736564320553"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Nitrat terhadap Biokorosi Logam oleh Konsorsium Bakteri Pereduksi Sulfat dari PLTA Saguling",
+        "pub_year": "2021",
+        "citation": "OLDI (Oseanologi dan Limnologi di Indonesia) 6 (2), 71-84, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15601752237936280986",
+      "cites_id": [
+        "15601752237936280986"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid-State Fermentation of Agro-Industrial Waste Using Heterofermentative Lactic Acid Bacteria",
+        "pub_year": "2021",
+        "citation": "Multifaceted Protocols in Biotechnology, Volume 2, 133-144, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17022587260098225577",
+      "cites_id": [
+        "17022587260098225577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainability Assessment of Small-Scale Tofu Industry Based on Water Resource Case Study of Giriharja Hamlet, Indonesia",
+        "pub_year": "2021",
+        "citation": "Sanitation Value Chain 5 (2), 55-70, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:eflP2zaiRacC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9397964005198541128",
+      "cites_id": [
+        "9397964005198541128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of biosurfactant production by bacteria isolated from crude oil through adaptation laboratory evolution",
+        "pub_year": "2023",
+        "citation": "Geomicrobiology Journal 40 (2), 123-130, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8452964359172455182",
+      "cites_id": [
+        "8452964359172455182"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Alternating Growth of Bacteria within a Consortium During Desulfurization of Coal: 10.32526/ennrj/20/202100145",
+        "pub_year": "2022",
+        "citation": "Environment and Natural Resources Journal 20 (1), 51-60, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:SdhP9T11ey4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15657230231338374771",
+      "cites_id": [
+        "15657230231338374771"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and Optimization of Carbon Source to Increase High Thermostabile Biosurfactant Production for Microbial Enhanced Oil Recovery (MEOR) Application",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1772 (1), 012033, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:XiSMed-E-HIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6146976443421755856",
+      "cites_id": [
+        "6146976443421755856"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of enrichment and isolation media of thermophilic hydrocarbonoclastic bacteria isolated from Oil Reservoir of West Java for microbial enhanced oil recovery (MEOR \u2026",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (9), 2129-2139, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17132669216534737055",
+      "cites_id": [
+        "17132669216534737055"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The optimization of the Ambonese arrack fermentation using co-culture Pichia polymorpha and Kloeckera javanica",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (7), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:LPZeul_q3PIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9146335276780532076",
+      "cites_id": [
+        "9146335276780532076"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indigenous Microbial Biostimulation for Microbial Enhanced Oil Recovery through Oil Degradation with Variation in Nutrent Concentrations",
+        "pub_year": "2020",
+        "citation": "Makara Journal of Science 24 (2), 2, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=452052689452033055",
+      "cites_id": [
+        "452052689452033055"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physio-chemical, Microbiology, and Preference of Probiotic Fresh Soft Cheese Using Lactobacillus plantarum IS-10506 and Streptococcus thermophilus as Mixed Starter Culture",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 426 (1), 012185, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:dshw04ExmUIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5435086184239360155",
+      "cites_id": [
+        "5435086184239360155"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of nutrient composition on the formation of biofilm and biocorrosion in MEOR biostimulation medium based on response surface methodology",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 299 (1), 012015, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:WqliGbK-hY8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16307193501423124715",
+      "cites_id": [
+        "16307193501423124715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential degradation of SARA (saturated, aromatics, resinics, asphaltenes) fractions of crude oil by reservoir indigenous bacteria from South Sumatera",
+        "pub_year": "2018",
+        "citation": "Microbiology Indonesia 11 (4), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=945531797897754217",
+      "cites_id": [
+        "945531797897754217"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ability of biofilm community sampled from metal surfaces at Saguling hydro power in utilizing carbon sources by using biolog ecoplateTM",
+        "pub_year": "2017",
+        "citation": "Journal of Biological Sciences 17 (1), 11-20, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9297214171270786052",
+      "cites_id": [
+        "9297214171270786052"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial biosurfactant produced by endogenous oil reservoir bacteria and its potential to eradicate biofilm as biocorrosion agent in oil industry",
+        "pub_year": "2017",
+        "citation": "Indonesian Petroleum Association, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:tOudhMTPpwUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6874878002374677973",
+      "cites_id": [
+        "6874878002374677973"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary Study on Climate Change Biomitigation by Improving CO2 Removal and CO2 Utilization Efficiency Using Microalgae Culture in Photobioreactor",
+        "pub_year": "2015",
+        "citation": "Applied Mechanics and Materials 747, 261-264, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:W5xh706n7nkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17858889874666933792",
+      "cites_id": [
+        "17858889874666933792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial Community Structures of Planktonic Cells and Biofilm at Saguling Hydro Power using Denaturing Gradient Gel Electrophoresis (DGGE)",
+        "pub_year": "2014",
+        "citation": "Journal of Biological Sciences 14 (6), 414, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9138669490008445383",
+      "cites_id": [
+        "9138669490008445383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of Optimized Bacterial EOR System in X Field, Kepulauan Seribu",
+        "pub_year": "2011",
+        "citation": "Indonesian Petroleum Association, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:KxtntwgDAa4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4781721795289991544",
+      "cites_id": [
+        "4781721795289991544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi produk biosolubilisasi batubara oleh kapang T4 hasil isolasi dari tanah pertambangan Tanjung Enim Sumatera Selatan",
+        "pub_year": "2010",
+        "citation": "Jurnal Kimia Valensi 2 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11448251375567387369",
+      "cites_id": [
+        "11448251375567387369"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and Optimization of Indigenous Probiotic Bacteria Against Vibriosis Syndrome Isolated from Litopenaneus vannamei Hatchery in Situbondo, East Java, Indonesia",
+        "pub_year": "2010",
+        "citation": "Proceeding of the 3rd ICMNS, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9271054623921207459",
+      "cites_id": [
+        "9271054623921207459"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production, characterization, and application of Pseudoxanthomonas taiwanensis biosurfactant: a green chemical for microbial enhanced oil recovery (MEOR)",
+        "pub_year": "2024",
+        "citation": "Scientific reports 14 (1), 10270, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial diversity and community level physiological profiling of terasi (Indonesian shrimp paste) to ensure its food safety",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1302 (1), 012096, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:z_wVstp3MssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biostimulation in microbial enhanced oil recovery: from laboratory analysis and nutrient formulation to field monitoring",
+        "pub_year": "2023",
+        "citation": "Challenges and Recent Advances in Sustainable Oil and Gas Recovery and \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OPTIMIZATION OF Bacillus paramycoides FERMENTATION MEDIUM TO INCREASE THE PRODUCTION OF 5-AMINOLEVULINIC ACID IN A 10 LITER FERMENTER",
+        "pub_year": "2022",
+        "citation": "Jurnal Bioteknologi dan Biosains Indonesia 9 (2), 195-207, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:JQOojiI6XY0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BACTERIAL CORE FLOODING TERHADAP LIMESTONE ARTIFICIAL CORE SEBAGAI APLIKASI MICROBIAL ENHANCED OIL RECOVERY (MEOR)",
+        "pub_year": "2021",
+        "citation": "Jurnal Petro Desember Th, 197, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Quantity, Quality, and Treatment of Wastewater from the Tofu Industry in Giriharja, Sumedang, West Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "Sanitation Value Chain 5 (1), 48, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OPTIMIZATION OF ENRICHMENT MEDIA AND ISOLATION MEDIA OF TERMOPHILIC HYDROCARBONOCLASTIC BACTERIA FROM PETROLEUM WELL X, WEST JAVA FOR MICROBIAL ENHANCED OIL RECOVERY (MEOR \u2026",
+        "pub_year": "2019",
+        "citation": "ON UNIVERSAL WELLBEING (ICUW 2019), 33, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vibroseismic Stimulation for Bacterial Core Flooding Simulation by Using Handil Oil Isolate Geobacillus toebii R-32639 and R-32653 to Artificial Core",
+        "pub_year": "2019",
+        "citation": "Journal IATMI, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparation of Implementation of MEOR by Nutrient Injection in Bentayan Field, South Sumater",
+        "pub_year": "2018",
+        "citation": "Journal IATMI, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Potential of Biosurfactant as an Alternative Biocide to Control Biofilm Associated Biocorrosion",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Effect of Lemongrass (Cymbopogon citratus) Essential Oil on Biofilm-biocorrossion in Formation Water Environment",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Impact of Salinity and Light Intensity Stress on B Vitamins Content in Marine Diatom Skeletonema costatum",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERSEPSI MASYARAKAT TENTANG RUANG TERBUKA HIJAU GEGER MENJANGAN, BUMI PERKEMAHAN ARGA PUTRA, DAN ALUN-ALUN PURWOREJO DI KABUPATEN PURWOREJO",
+        "pub_year": "2016",
+        "citation": "Universitas Gadjah Mada, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:tKAzc9rXhukC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Moraxella osloensis COK1, a Novel Strain of Bacteria Isolated from Subbituminous Coal, in Dibenzothiophene and Coal Medium",
+        "pub_year": "2015",
+        "citation": "Asia Pacific Journal of Molecular Biology and Biotechnology, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosolubilization of raw and gamma irradiated lignite by trichoderma asperellum; Biosolubilisasi lignit mentah hasil iradiasi gamma dan oleh trichoderma asperellum",
+        "pub_year": "2012",
+        "citation": "Jurnal Ilmiah Aplikasi Isotop dan Radiasi 8, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOLIQUEFAKSI LIGNIT HASIL INTERAKSI MIKROBA INDIGENOS DENGAN Trichoderma asperellum",
+        "pub_year": "2011",
+        "citation": "Prosiding Seminar Nasional Biologi: Inovasi Biologi dan Pembelajaran Biologi \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:N5tVd3kTz84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosolubilization gamma irradiate ion result coal by mould trichoderma sp; Biosolubilisasi batubara hasil iradiasi gamma oleh kapang trichoderma sp",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmiah Aplikasi Isotop dan Radiasi 7, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "33rd Annual Convention Proceedings, 2009",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:HE397vMXCloC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial Enhanced Oil Recovery (MEOR): Laboratory Investigation for a Field Application in East Kalimantan",
+        "pub_year": "2009",
+        "citation": "Indonesian Petroleum Association, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:D_sINldO8mEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The EOR Impact of Bacteria From Handil Field in Kalimantan on Crude Oil From X Reservoir in Java Island",
+        "pub_year": "2008",
+        "citation": "Indonesian Petroleum Association, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Isolation of Potential Probiotic against A erom onas spp. in Commom Carp (Cyprinus carpio L.) Larviculture",
+        "pub_year": "2005",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological Profiling and Microorganism Community Analysis of Cirebon",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Green Synthesis of Copper Ions Nanoparticles Functionalised with Rhamnolipid as Potential Antibacterial Agent for Pathogenic Bacteria",
+        "citation": "Wa Ode Sri and Ivansyah, Atthar Luqman and Astuti, Dea Indriani and Hertadi \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EKPLORASI BENTUK LICHENES DENGAN TEKNIK DIGITAL PRINTING DAN LAMINASS PVC SEBAGAI DECORATIVE TRIMS PADA BUSANA BALL GOWN",
+        "citation": "Fesyen Perspektif 8 (2), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Aktivitas Enzim Selulase Secara Kualitatif Dari Maggot Black Soldier Fly (Hermetia illucens) Dari Berbagai Media Hidup Sebagai Bioaktivator Fermentasi Pakan Ternak",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:35r97b3x0nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOSOLUBILISASI BATUBARA LIGNIT: AKTIVITAS ENZIM MNP, LAC DAN LIP ISOLAT KAPANG INDIGENUS BATUBARA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:evX43VCCuoAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production and Characterization of Thermoalkaliphilic Xylanase from Bacillus halodurans Boehmeria Cm1, and Its Application on Degumming Process of Ramie (nivea) L. Gaud Fiber \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:UHK10RUVsp4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan Biosurfaktan dari Isolat Bakteri Indigen Reservoar Minyak Bumi yang Memiliki Aktivitas Antimikroba",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:Y5dfb0dijaUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosolubilisasi Batubara Hasil Iradiasi Gamma oleh Kapang Trichoderma sp. Biosolubilisasi Gamma Irradiation Result Coal by Mould Trichoderma sp.",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosolubilisasi Lignit Mentah Hasil Iradiasi Gamma dan oleh Trichoderma asperellum Biosolubilization of Raw and Gamma Irradiated Lignite by Trichoderma asperellum",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Mikroba dari Lendir Estrus dan Deteksi Kebuntingan Sapi Kawin Berulang di Sleman, Yogyakarta",
+        "citation": "Jurnal Sain Veteriner 39 (3), 302-309, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi Bakteri Amilolitik pada Buah Pisang (Musa acuminata) dan Buah Pepaya (Carica papaya) Busuk",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Bacillus megaterium CSK2, Bacillus subtilis CSK3 and Bacillus subtilis CSK4 Isolated from Coal Mixed Soil in Dibenzothiophene-Containing Medium",
+        "citation": "Asian Journal of Microbiology, Biotechnology & Environmental Sciences, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8UBLC6MAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

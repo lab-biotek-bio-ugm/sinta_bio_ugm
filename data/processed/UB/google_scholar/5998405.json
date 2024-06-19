@@ -1,0 +1,770 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "OIKSWRQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sofy Permana",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OIKSWRQAAAAJ&citpid=2",
+  "affiliation": "Lecturer, University of Brawijaya, Malang, Indonesia",
+  "organization": 15077197145172930606,
+  "interests": [],
+  "email_domain": "@ub.ac.id",
+  "citedby": 304,
+  "citedby5y": 237,
+  "hindex": 11,
+  "hindex5y": 10,
+  "i10index": 12,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "2007": 2,
+    "2008": 3,
+    "2009": 2,
+    "2010": 4,
+    "2011": 2,
+    "2012": 1,
+    "2013": 1,
+    "2014": 1,
+    "2015": 3,
+    "2016": 6,
+    "2017": 8,
+    "2018": 29,
+    "2019": 36,
+    "2020": 36,
+    "2021": 43,
+    "2022": 34,
+    "2023": 69,
+    "2024": 18
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "n9guzdAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agustina Tri Endharti, Ph.D",
+      "affiliation": "Medical Faculty, Brawijaya University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MEcuBTYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "eviana norahmawati",
+      "affiliation": "Universitas Brawijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "My7W0iwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sutiman B. Sumitro",
+      "affiliation": "Professor of Nano Biology, Brawijaya University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aIHesTIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sri Widyarti",
+      "affiliation": "Assistance Professor of Cell Biology, Biology Dept, Brawijaya University, Malang, East Java, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6_4daxQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agustin Iskandar",
+      "affiliation": "Universitas Brawijaya Malang"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JnPjP04AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arinto Y. P. Wardoyo .",
+      "affiliation": "Brawijaya University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ww0apFwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "A.A.Sg.A. Sukmaningsih K",
+      "affiliation": "Udayana University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "yydgbuUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dionysius J D H Santjojo",
+      "affiliation": "CRC ASMAT, Universitas Brawijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kk3fbL0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "teresa liliana wargasetia",
+      "affiliation": "bagian biologi fakultas kedokteran universitas kristen maranatha"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "pnIZyPUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nashi Widodo",
+      "affiliation": "Brawijaya university, Indonesia"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dendrophthoe pentandra (L.) Miq extract effectively inhibits inflammation, proliferation and induces p53 expression on colitis-associated colon cancer",
+        "pub_year": "2016",
+        "citation": "BMC complementary and alternative medicine 16, 1-8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=295309397577052392",
+      "cites_id": [
+        "295309397577052392"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Truncation of the projection domain of MAP4 (microtubule-associated protein 4) leads to attenuation of microtubule dynamic instability",
+        "pub_year": "2005",
+        "citation": "Cell structure and function 29 (5, 6), 147-157, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=321280023203572673",
+      "cites_id": [
+        "321280023203572673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extract from mango mistletoes Dendrophthoe pentandra ameliorates TNBS-induced colitis by regulating CD4+ T cells in mesenteric lymph nodes",
+        "pub_year": "2017",
+        "citation": "BMC Complementary and Alternative Medicine 17, 1-8, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2645786881014038011",
+      "cites_id": [
+        "2645786881014038011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigating natural transition metal coordination anthocyanin complex in java plum (Syzygium cumini) fruit as free radical scavenging",
+        "pub_year": "2018",
+        "citation": "Rasayan Journal of Chemistry 11 (3), 1193-1203, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:UebtZRa9Y70C",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14260247066292272548",
+      "cites_id": [
+        "14260247066292272548"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of sea cucumber active compound and its derivative as an anti-cancer agent",
+        "pub_year": "2018",
+        "citation": "Current Pharmacology Reports 4, 27-32, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8738350960596551142",
+      "cites_id": [
+        "8738350960596551142"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dendrophthoe pentandra leaves extract promotes apoptotic effects of doxorubicin in human breast cancer cell via modulation of intracellular calcium and survivin",
+        "pub_year": "2018",
+        "citation": "Journal of Applied Pharmaceutical Science 8 (8), 039-043, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=938538562645319247",
+      "cites_id": [
+        "938538562645319247"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Fraksi Etanol Benalu Mangga (Dendrophthoe pentandra) sebagai Agen Anti Kanker Kolon pada Mencit (Mus musculus Balb/c) setelah Induksi Dextran Sulvat (DSS \u2026",
+        "pub_year": "2013",
+        "citation": "Biotropika: Journal of Tropical Biology 1 (2), 75-79, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7039473071317357335",
+      "cites_id": [
+        "7039473071317357335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coelomic Fluid of Lumbricus rubellus Synergistically Enhances Cytotoxic Effect of 5\u2010Fluorouracil through Modulation of Focal Adhesion Kinase and p21 in HT\u201029 \u2026",
+        "pub_year": "2019",
+        "citation": "The Scientific World Journal 2019 (1), 5632859, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:8k81kl-MbHgC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17115480872681732944",
+      "cites_id": [
+        "17115480872681732944"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential use of compounds from sea cucumbers as MDM2 and CXCR4 inhibitors to control cancer cell growth",
+        "pub_year": "2018",
+        "citation": "Experimental and therapeutic Medicine 16 (4), 2985-2991, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:Zph67rFs4hoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14193972157347033302",
+      "cites_id": [
+        "14193972157347033302"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytotoxic effects and anti-proliferative cancer activity of coelomic fluid from Lumbricus rubellus promotes apoptosis and reduces G2/M phase progression in HT-29 cells",
+        "pub_year": "2018",
+        "citation": "Journal of Applied Pharmaceutical Science 8 (11), 028-034, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8854979178150018969",
+      "cites_id": [
+        "8854979178150018969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of java plum (Syzgium cumini) fruit extract as free radical scavenging in cigarette smoke",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2155 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:5nxA0vEk-isC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17088117707509305903",
+      "cites_id": [
+        "17088117707509305903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coelomic fluid of Lumbricus rubellus enhances anti-prolioniferative effect of 5-fluorouracil by modulating focal adhesion kinase express and IL-1\u03b2 of colorectal cancer in mice",
+        "pub_year": "2019",
+        "citation": "Journal of Applied Pharmaceutical Science 9 (8), 041-046, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:WF5omc3nYNoC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9567956274774052535",
+      "cites_id": [
+        "9567956274774052535"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The combination therapy of targeting both paclitaxel and Dendrophthoe pentandra leaves extract nanoparticles for improvement breast cancer treatment efficacy by reducing TUBB3 \u2026",
+        "pub_year": "2021",
+        "citation": "Acta Biochimica Polonica 68 (4), 679-686, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6777121514114560998",
+      "cites_id": [
+        "6777121514114560998"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coelomic Fluid of Eisenia fetida Ameliorates Cetuximab to Reduce K\u2010Ras and Vimentin Expression through Promoting RUNX3 in an AOM/DSS\u2010Induced Colitis \u2026",
+        "pub_year": "2020",
+        "citation": "Evidence\u2010Based Complementary and Alternative Medicine 2020 (1), 9418520, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9117805110302556797",
+      "cites_id": [
+        "9117805110302556797"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biologi Sel (Sebuah Perspektif Memahami Sistem Kehidupan)",
+        "pub_year": "2017",
+        "citation": "UB Press. Malang. Pages, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4837847941255320161",
+      "cites_id": [
+        "4837847941255320161"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "T\u2010Bet Is Dependent on Stat\u20104 Inhibiting Acute Colitis but Not Stat\u20101 Using L4 Somatic Antigen of Heligmosomoides polygyrus",
+        "pub_year": "2018",
+        "citation": "The Scientific World Journal 2018 (1), 8571920, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=784642772696813090",
+      "cites_id": [
+        "784642772696813090"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Buku Praktikum Teknik Analisis Biologi Molekuler",
+        "pub_year": "2012",
+        "citation": "Malang: Universitas Brawijaya 11 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5766063390928985701",
+      "cites_id": [
+        "5766063390928985701"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bromelain content of extract from stem of pineapple (Ananas comosus (L.) Merr)",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:roLk4NBRz8UC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14158831469926119221",
+      "cites_id": [
+        "14158831469926119221"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biologi Sel",
+        "pub_year": "2017",
+        "citation": "Universitas Brawijaya Press, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14159604873158486146",
+      "cites_id": [
+        "14159604873158486146"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conserved B-cell epitope identification of envelope glycoprotein (GP120) HIV-1 to develop multi-strain vaccine candidate through bioinformatics approach.",
+        "pub_year": "2021",
+        "citation": "JURNAL TEKNOLOGI LABORATORIUM 10 (No 1 (2021)), 06-31, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8442348895036394785",
+      "cites_id": [
+        "8442348895036394785"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of Reaction Time on Antioxidant Assays of Duck, Hen, and Quail Egg Whites.",
+        "pub_year": "2022",
+        "citation": "Tropical Journal of Natural Product Research 6 (7), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2789981723687113620",
+      "cites_id": [
+        "2789981723687113620"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The insight of in silico and in vitro evaluation of oyster mushroom (Pleurotus ostreatus) against colorectal cancer targeting timp-1",
+        "pub_year": "2022",
+        "citation": "Journal of Southwest Jiaotong University 57 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15723594397837624587",
+      "cites_id": [
+        "15723594397837624587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiologic Glycated-Bovine Serum Albumin Determination using Spectrum-UV",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1241 (1), 012003, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17557856871002222899",
+      "cites_id": [
+        "17557856871002222899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Systematic review on the efficacy and safety of ixabepilone-based chemotherapy regimen in triple-negative breast cancer",
+        "pub_year": "2024",
+        "citation": "Journal of Pharmacy & Pharmacognosy Research 12 (4), 722-734, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiviral potential of selenium complexes from Brassicaceae by inhibiting protein bond between MAP4 and the spike of SARS-CoV-2",
+        "pub_year": "2024",
+        "citation": "Journal of Pharmacy & Pharmacognosy Research 12 (3), 514-525, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anticancer activity of Hedyotis corymbosa nanoliposomes targeting estrogen receptor-alpha in breast cancer cells: In silico and in vitro studies",
+        "pub_year": "2024",
+        "citation": "Journal of Pharmacy & Pharmacognosy Research 12 (2), 303-322, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In-silico analysis of Lysenin as potential anti-cancer agents targeting sphingomyelin in colon cancer",
+        "pub_year": "2023",
+        "citation": "World Journal of Advanced Research and Reviews 18 (1), 833-840, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Auricularia polytricha: A promising medicinal mushroom for combination therapy of colorectal cancer and understanding its potential mechanism of action",
+        "pub_year": "2023",
+        "citation": "World Journal of Advanced Research and Reviews 17 (2), 365-377, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Therapeutic implication of Pleurotus ostreatus on microRNAs expression in acute myeloid leukemia: A systematic review",
+        "pub_year": "2023",
+        "citation": "World Journal of Advanced Research and Reviews 17 (1), 934-947, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THERAPEUTICS APPROACH IN SILICO USING A COELOMIC FLUID OF LUMBRICUS RUBELLUS AS COMBINED MAPLC3-TARGETED CHEMOTHERAPY IN ACUTE MYELOID LEUKEMIA",
+        "pub_year": "2022",
+        "citation": "Journal of Southwest Jiaotong University 57 (4), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article CoelomicFluidofEiseniafetidaAmelioratesCetuximabtoReduce K-Ras and Vimentin Expression through Promoting RUNX3 in an AOM/DSS-Induced Colitis Associated Colon \u2026",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Coelomic Fluid of Lumbricus rubellus Synergistically Enhances Cytotoxic Effect of 5-Fluorouracil through Modulation of Focal Adhesion Kinase and p21 in HT-29 \u2026",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vivo study of aspirin in plasma after oral administration of scavenger complex AOC (aspirin-ovalbumin-caffeine) in rats",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2021 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article T-Bet Is Dependent on Stat-4 Inhibiting Acute Colitis but Not Stat-1 Using L4 Somatic Antigen of Heligmosomoides polygyrus",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Allergenity Test of Porang Bulb Variant (Amorphophallus oncophyllus Hook.) By ELISA Ig-E Method",
+        "pub_year": "2012",
+        "citation": "Natural B, Journal of Health and Environmental Sciences 1 (4), 386-394, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Substitution of projection domain modifies the properties of MAP4 for the regulation of microtubule dynamic instability",
+        "pub_year": "2005",
+        "citation": "CELL STRUCTURE AND FUNCTION 30, 52-52, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of the role of the projection domain of heat-stable MAPs (microtubule associated proteins) in the regulation of the dynamic instability of microtubule",
+        "pub_year": "2005",
+        "citation": "\u540d\u53e4\u5c4b\u5927\u5b66, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "2P154 The projection domain dependent modification of the activities of the heat-stable MAPs on the microtubule dynamics",
+        "pub_year": "2004",
+        "citation": "Seibutsu Butsuri 44 (supplement), S148, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "3P180MAP4 projection domain is also important for microtubule dynamics regulation.",
+        "pub_year": "2001",
+        "citation": "Seibutsu Butsuri 41 (supplement), S203, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ixabepilone and triple-negative breast cancer",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Brassicaceae selenium complexes versus SARS-COV-2 MAP4 and spike protein",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hedyotis corymbosa nanoliposomes anticancer activity",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Alergenitas Berbagai Varian Umbi Porang (Amorphophallus oncophyllus Hook.) dengan metode ELISA Ig-E",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Alergenitas Varian Umbi Porang (Amorphophallus oncophyllus Hook.) dengan metode ELISA Ig-E",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dendrophthoe pentandra Leaves Extract Promotes Apoptotic Effects of Doxorubicin in Human Breast Cancer Cell via Modulation of Intracellular Calcium and Survivin. J App Pharm \u2026",
+        "citation": "Copyright: The Author (s). This is an open access article distributed under \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DEWAN REDAKSI",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "OIKSWRQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

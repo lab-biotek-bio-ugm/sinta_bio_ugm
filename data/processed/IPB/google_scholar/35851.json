@@ -1,0 +1,1666 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "tJeS7MIAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Berry Juliandi",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tJeS7MIAAAAJ&citpid=5",
+  "affiliation": "Bogor Agricultural University (IPB University)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Animal Structure and Development",
+    "Human Biology",
+    "Molecular Neuroscience"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "homepage": "http://biologi.ipb.ac.id/web/en/faculty/profile/48/berry-juliandi",
+  "citedby": 1235,
+  "citedby5y": 703,
+  "hindex": 14,
+  "hindex5y": 14,
+  "i10index": 20,
+  "i10index5y": 19,
+  "cites_per_year": {
+    "2011": 16,
+    "2012": 33,
+    "2013": 62,
+    "2014": 76,
+    "2015": 82,
+    "2016": 69,
+    "2017": 79,
+    "2018": 104,
+    "2019": 128,
+    "2020": 112,
+    "2021": 119,
+    "2022": 122,
+    "2023": 145,
+    "2024": 76
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VPH8GYYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kinichi Nakashima",
+      "affiliation": "Dep. Stem Cell Biol. & Med., Grad. Sch. Med.Sci., Kyushu Univ."
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4z1xZ7QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Keita Tsujimura",
+      "affiliation": "Nagoya University/Harvard Medical School/Massachusetts General Hospital"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OEj8vxcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Austin Smith",
+      "affiliation": "Living Systems Institute, University of Exeter"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zO8AXyAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Rika Raffiudin",
+      "affiliation": "Department of Biology, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_GuiBv0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arief Boediono",
+      "affiliation": "IPB University, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "HKlQP3AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Masakazu Namihira",
+      "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ea7DnQQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anna Falk",
+      "affiliation": "Associate Professor at Karolinska Institutet"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8XT_W7wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Taito Matsuda",
+      "affiliation": "Kyushu Univ."
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "0TG2laoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Shizuo Akira",
+      "affiliation": "Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "THbEOgEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Puspita Eka Wuyung",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "m3Tg6ScAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Takashi Tominaga",
+      "affiliation": "Institute of Neuroscience, Tokushima Bunri University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1IktT6EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sally Burgess",
+      "affiliation": "Universidad de La Laguna, Instituto Universitario de Ling\u00fc\u00edstica Andr\u00e9s Bello"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "FGcpl6IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iman Rusmana",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "GfZGtesAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Patrick O'Connor",
+      "affiliation": "University of Adelaide"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "yMhhNPoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nampiah Sukarno",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "u5fOb74AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sarah Nila",
+      "affiliation": "Department of Psychology, Durham University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JlvqqbPr1zAC",
+      "source": "CO_AUTHORS_LIST",
+      "name": "M. Fahrudin",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X4V3UyAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yusli Wardiatno",
+      "affiliation": "Professor at IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xkDFQ1QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ali Mashar",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LymJtdcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kanthi Arum Widayati",
+      "affiliation": "Department of Biology, Faculty Mathematics and Natural Science,Bogor Agricultural \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3NrhSMYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nunung Yuniarti",
+      "affiliation": "Department of Pharmacology and Clinical Pharmacy, Faculty of Pharmacy, Universitas \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NQSRQ1wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Michel Raymond",
+      "affiliation": "Institute of Evolutionary Sciences, University of Montpellier, France"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tCZ40b0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Vetnizah Juniantito",
+      "affiliation": "School of Veterinary Medicine and Biomedical Sciences, Bogor Agricultural University (IPB)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BCkm4Y4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hirofumi Noguchi",
+      "affiliation": "University of California San Francisco"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4vUUyrkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dyah Perwitasari-Farajallah",
+      "affiliation": "Department of Biology, IPB University (Bogor Agricultural University)"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Treatment of a mouse model of spinal cord injury by transplantation of human induced pluripotent stem cell-derived long-term self-renewing neuroepithelial-like stem cells",
+        "pub_year": "2012",
+        "citation": "Stem cells 30 (6), 1163-1173, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 278,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5892887853877924247",
+      "cites_id": [
+        "5892887853877924247"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TLR9 signalling in microglia attenuates seizure-induced aberrant neurogenesis in the adult hippocampus",
+        "pub_year": "2015",
+        "citation": "Nature communications 6 (1), 6514, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 124,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14781994037944516089",
+      "cites_id": [
+        "14781994037944516089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Epigenetic regulation in neural stem cell differentiation",
+        "pub_year": "2010",
+        "citation": "Development, growth & differentiation 52 (6), 493-504, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 120,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2400003170817046803",
+      "cites_id": [
+        "2400003170817046803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Epigenetic regulation of neural stem cell fate during corticogenesis",
+        "pub_year": "2013",
+        "citation": "International Journal of Developmental Neuroscience 31 (6), 424-433, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 101,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16632992025714415350",
+      "cites_id": [
+        "16632992025714415350"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reduced adult hippocampal neurogenesis and cognitive impairments following prenatal treatment of the antiepileptic drug valproic acid",
+        "pub_year": "2015",
+        "citation": "Stem cell reports 5 (6), 996-1009, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13366628118596333904",
+      "cites_id": [
+        "13366628118596333904"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Publishing research in English as an additional language: Practices, pathways and potentials",
+        "pub_year": "2017",
+        "citation": "University of Adelaide Press, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:D03iK_w7-QYC",
+      "num_citations": 70,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6981999834493783971",
+      "cites_id": [
+        "6981999834493783971"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chromatin remodeling in neural stem cell differentiation",
+        "pub_year": "2010",
+        "citation": "Current opinion in neurobiology 20 (4), 408-415, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 64,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12293351560061673043",
+      "cites_id": [
+        "12293351560061673043"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Handbook of epigenetics: the new molecular and medical genetics",
+        "pub_year": "2011",
+        "citation": "Academic Press - Elsevier, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:UebtZRa9Y70C",
+      "num_citations": 59,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12525406102201301824",
+      "cites_id": [
+        "12525406102201301824"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of superficial cortical layer neurons from mouse embryonic stem cells by valproic acid",
+        "pub_year": "2012",
+        "citation": "Neuroscience research 72 (1), 23-31, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10292455982043943373",
+      "cites_id": [
+        "10292455982043943373"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity and distribution of horseshoe crabs in northern coast of Java and southern coast of Madura",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 54 (1), 012076, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3831060060255402214",
+      "cites_id": [
+        "3831060060255402214"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scientists publishing research in English from Indonesia: Analysing outcomes of a training intervention to inform institutional action",
+        "pub_year": "2017",
+        "citation": "University of Adelaide Press, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3131627200519584349",
+      "cites_id": [
+        "3131627200519584349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Male homosexual preference: femininity and the older brother effect in Indonesia",
+        "pub_year": "2019",
+        "citation": "Evolutionary Psychology 17 (4), 1474704919880701, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:70eg2SAEIzsC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1705240241288765830",
+      "cites_id": [
+        "1705240241288765830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Safeguarding imperiled biodiversity and evolutionary processes in the Wallacea center of endemism",
+        "pub_year": "2022",
+        "citation": "BioScience 72 (11), 1118-1130, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17299200285314146182",
+      "cites_id": [
+        "17299200285314146182"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Treatment of a mouse model of spinal cord injury by transplantation of human iPS cell-derived long-term self-renewing neuroepithelial-like stem cells",
+        "pub_year": "2012",
+        "citation": "Stem Cells 30 (6), 1163-1173, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:blknAaTinKkC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6776593728155660308",
+      "cites_id": [
+        "6776593728155660308"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Honey bees species differentiation using geometric morphometric on wing venations",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012015, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:maZDTaKrznsC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10368377130198457051",
+      "cites_id": [
+        "10368377130198457051"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of eugenol on memory performance, neurogenesis, and dendritic complexity of neurons in mice analyzed by behavioral tests and Golgi staining of brain tissue",
+        "pub_year": "2021",
+        "citation": "Journal of Stem Cells & Regenerative Medicine 17 (1), 35, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:f2IySw72cVMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=317296280989520583",
+      "cites_id": [
+        "317296280989520583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Creating blue carbon opportunities in the maritime archipelago Indonesia",
+        "pub_year": "2018",
+        "citation": "CIFOR, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5054248748867324951",
+      "cites_id": [
+        "5054248748867324951"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fauxcurrence: simulating multi\u2010species occurrences for null models in species distribution modelling and biogeography",
+        "pub_year": "2022",
+        "citation": "Ecography 2022 (7), e05880, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14143829248714112632",
+      "cites_id": [
+        "14143829248714112632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of phylogenetic tree completeness and mis-specification of sampling fractions on trait dependent diversification models",
+        "pub_year": "2023",
+        "citation": "Systematic Biology 72 (1), 106-119, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:SP6oXDckpogC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12924491007015908807",
+      "cites_id": [
+        "12924491007015908807"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A combination of UV-Vis spectroscopy and chemometrics for detection of Sappanwood (Caesalpinia sappan) adulteration from three dyes",
+        "pub_year": "2022",
+        "citation": "Sains Malaysiana 51 (3), 775-781, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:abG-DnoFyZgC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4948561995995578072",
+      "cites_id": [
+        "4948561995995578072"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of conditioned medium from IGF1-induced human Wharton\u2019s jelly mesenchymal stem cells (IGF1-hWJMSCs-CM) on osteoarthritis",
+        "pub_year": "2020",
+        "citation": "Avicenna Journal of Medical Biotechnology 12 (3), 172, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4705513856370578064",
+      "cites_id": [
+        "4705513856370578064"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The missing link in biogeographic reconstruction: Accounting for lineage extinction rewrites history",
+        "pub_year": "2022",
+        "citation": "Journal of Biogeography 49 (11), 1941-1951, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11168526250008487083",
+      "cites_id": [
+        "11168526250008487083"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ancient geological dynamics impact neutral biodiversity accumulation and are detectable in phylogenetic reconstructions",
+        "pub_year": "2021",
+        "citation": "Global Ecology and Biogeography 30 (8), 1633-1642, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6879427310855092983",
+      "cites_id": [
+        "6879427310855092983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intra-arterial transplantation of human umbilical cord blood mononuclear cells in sub-acute ischemic stroke increases VEGF expression in rats",
+        "pub_year": "2018",
+        "citation": "Journal of Stem Cells & Regenerative Medicine 14 (2), 69, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9643773128897319112",
+      "cites_id": [
+        "9643773128897319112"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intravenous versus intraarterial transplantation of human umbilical cord blood mononuclear cells for brain ischemia in rats",
+        "pub_year": "2017",
+        "citation": "HAYATI Journal of Biosciences 24 (4), 187-194, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7964823043195698175",
+      "cites_id": [
+        "7964823043195698175"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prenatal exposure to suberoylanilide hydroxamic acid perturbs corticogenesis",
+        "pub_year": "2013",
+        "citation": "Neuroscience Research 77 (1-2), 42-49, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12438565263435362516",
+      "cites_id": [
+        "12438565263435362516"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evolution of the bitter taste receptor TAS2R38 in colobines",
+        "pub_year": "2020",
+        "citation": "Primates 61, 485-494, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=474324386115774552",
+      "cites_id": [
+        "474324386115774552"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Landmark-Based Geometric Morphometric of Apis dorsata and A. d. binghami Wing Venation in Indonesian Archipelagos",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (5), 658-668, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:NhqRSupF_l8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6599495304739167688",
+      "cites_id": [
+        "6599495304739167688"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhalation effect of massoilactone from massoia essential oil on lipid profile, liver tissues, and body weight of Sprague Dawley rat",
+        "pub_year": "2019",
+        "citation": "Journal of Applied Pharmaceutical Science 9 (8), 111-116, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3969257039928600671",
+      "cites_id": [
+        "3969257039928600671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Phosphofructokinase and Pyruvate Kinase Genes In Apis andreniformis and Apis cerana indica: Exon Intron Organisation and Evolution",
+        "pub_year": "2019",
+        "citation": "Tropical Life Sciences Research 30 (1), 89, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:hMod-77fHWUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17552629403874792672",
+      "cites_id": [
+        "17552629403874792672"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neuronal cell death and mouse (Mus musculus) behaviour induced by bee venom",
+        "pub_year": "2018",
+        "citation": "Tropical life sciences research 29 (2), 1, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:TFP_iSt0sucC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9038382872736964457",
+      "cites_id": [
+        "9038382872736964457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ischial callosities of Sulawesi macaques",
+        "pub_year": "2009",
+        "citation": "American Journal of Primatology: Official Journal of the American Society of \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13462756617307658778",
+      "cites_id": [
+        "13462756617307658778"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heterogeneity of cells population and secretome profile of differentiated cells from E17 rat neural progenitor cells",
+        "pub_year": "2019",
+        "citation": "Journal of Stem Cells & Regenerative Medicine 15 (2), 35, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:M05iB0D1s5AC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11026214987445855714",
+      "cites_id": [
+        "11026214987445855714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Epigenetics, Stem Cells, and Cellular Differentiation",
+        "pub_year": "2011",
+        "citation": "Handbook of Epigenetics, 315-328, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:_kc_bZDykSQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13354362157359196971",
+      "cites_id": [
+        "13354362157359196971"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Wajah Suku Batak",
+        "pub_year": "2009",
+        "citation": "Bogor Agricultural University (IPB), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13567184652331412067",
+      "cites_id": [
+        "13567184652331412067"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oral administration of incense resin (Styrax benzoin) extract enhances spatial learning, memory, and dendrite complexity of mice",
+        "pub_year": "2020",
+        "citation": "Brazilian Archives of Biology and Technology 63, e20180379, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=53680361073454543",
+      "cites_id": [
+        "53680361073454543"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Permanent flame-blunted monofilament of middle cerebral artery occlusion technique for ischemia stroke induction in animal models",
+        "pub_year": "2017",
+        "citation": "Medical Journal of Indonesia 26 (3), 183-9, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17793470232823327028",
+      "cites_id": [
+        "17793470232823327028"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The characteristics of stingless bee nests (Apidae: Meliponini) in the Cycloop Mountain Nature Reserve, Indonesia",
+        "pub_year": "2023",
+        "citation": "Revista de Biolog\u00eda Tropical 71 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:tOudhMTPpwUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15748343186539378215",
+      "cites_id": [
+        "15748343186539378215"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nanoextract of Acalypha hispida leaves increases antioxidant defense and suppresses microstructure damage in liver and kidney of diabetic rats",
+        "pub_year": "2022",
+        "citation": "Journal of Applied Pharmaceutical Science 12 (10), 099-108, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:738O_yMBCRsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13987179209648675842",
+      "cites_id": [
+        "13987179209648675842"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparation and characterization of nanopowder of Acalypha hispida leaves extract using planetary ball milling",
+        "pub_year": "2022",
+        "citation": "Molekul 17 (1), 68-75, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:WbkHhVStYXYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10299019803367425447",
+      "cites_id": [
+        "10299019803367425447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ragam Perspektif Dampak Covid-19: Sumbangan Ilmuwan AIPI untuk Bangsa Indonesia",
+        "pub_year": "2021",
+        "citation": "Yayasan Pustaka Obor Indonesia, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:XiSMed-E-HIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15250608190520578877",
+      "cites_id": [
+        "15250608190520578877"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stingless bee Tetragonula laeviceps and T. aff. biroi: geometric morphometry analysis of wing venation variations",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012084, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494748600598022272",
+      "cites_id": [
+        "16494748600598022272"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mid-gestational exposure to histone deacetylase inhibitor suberoylanilide hydroxamic acid influence cortical interneuron and astrocyte in mouse brain",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Biotechnology 22 (1), 32-38, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6968423279162535159",
+      "cites_id": [
+        "6968423279162535159"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Klasifikasi Sayap Lebah Apis Cerana dan Apis Koschevnikovi Menggunakan Conditional Inference Tree",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:hC7cP41nSMkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13542624921692363355",
+      "cites_id": [
+        "13542624921692363355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reflecting on Indonesia\u2019s young academy movement",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences 121 (17), e2307213121, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:geHnlv5EZngC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14390827428828620791",
+      "cites_id": [
+        "14390827428828620791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intra-and Interspecies Wing Venation Variations of Apis cerana and Apis nigrocincta Species in Indonesia",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (2), 222-233, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14308616203425803629",
+      "cites_id": [
+        "14308616203425803629"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conditioned medium of E17 rat brain cells induced differentiation of primary colony of mice blastocyst into neuron-like cells",
+        "pub_year": "2021",
+        "citation": "Journal of Veterinary Science 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:_xSYboBqXhAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10003974696994372653",
+      "cites_id": [
+        "10003974696994372653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial learning and memory of young and aging rats following injection with human Wharton\u2019s jelly\u2010mesenchymal stem cells",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Biotechnology 26 (2), 91-100, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16115451125711072485",
+      "cites_id": [
+        "16115451125711072485"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perilaku Mencit (Mus musculus) terhadap Feses Ular Kobra Jawa (Naja sputatrix)",
+        "pub_year": "2020",
+        "citation": "Jurnal Sumberdaya Hayati 6 (1), 13-19, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:rO6llkc54NcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2734541823460639518",
+      "cites_id": [
+        "2734541823460639518"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ischial Callosity of Sulawesi Macaques",
+        "pub_year": "2007",
+        "citation": "Bogor Agricultural University (IPB), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2124235023503192859",
+      "cites_id": [
+        "2124235023503192859"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suggested searches",
+        "pub_year": "2024",
+        "citation": "Perspective, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:eflP2zaiRacC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suggested searches",
+        "pub_year": "2024",
+        "citation": "Perspective, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suggested searches",
+        "pub_year": "2024",
+        "citation": "Perspective, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Surfactants on Biological, Physiological, and Histological Performance of Mahseer Seeds, Neolissochilus soro",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (2), 367-373, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring the influence of maitake (Grifola frondosa) on Mus musculus learning-memory and anxiety behavior",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012072, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SUGGESTED SEARCHES",
+        "pub_year": "2023",
+        "citation": "Perspective, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nano-extract of Acalypha hispida Increased Cu, Zn-SOD Antioxidant in Pancreas of Diabetic Rat",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Pharmaceutical Science and Technology 10 (2), 82-89, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reconstruction of State-Dependent Diversification: Integrating Phenotypic Traits into Molecular Phylogenies",
+        "pub_year": "2022",
+        "citation": "Environmental Microbial Evolution: Methods and Protocols, 305-326, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reconstruction of state-dependent diversification: integrating phenotypic traits into molecular phylogenies",
+        "pub_year": "2022",
+        "citation": "Environmental Microbial Evolution, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suggested searches",
+        "pub_year": "2021",
+        "citation": "Perspective, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production and Characterization of Mouse Diploid Parthenogenetic Blastocyst Developed in Phosphate-Free Medium",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (2), 89-89, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prospek Pemanfaatan Conditioned Medium dalam Diferensiasi Neuronal Koloni Primer Blastosis Terfertilisasi dan Partenogenetik.",
+        "pub_year": "2020",
+        "citation": "IPB (Bogor Agricultural University), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RAT BLOOD PROFILE EVALUATION AFTER Fe",
+        "pub_year": "2019",
+        "citation": "Jurnal Sains Materi Indonesia 20 (3), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rat blood profile evaluation after Fe3O4 /chitosan colloid injection",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Materials Science 20 (3), 98-105, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PCS-1 Development of Mouse Parthenogenetic Embryos in Phosphate Free Medium",
+        "pub_year": "2018",
+        "citation": "Hemera Zoa, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kompleksitas Obyek dan Running-Wheel Mempengaruhi Novel Object Recognition Test pada Mencit (Mus musculus)",
+        "pub_year": "2018",
+        "citation": "Jurnal Sumberdaya Hayati 4 (1), 7-11, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rat Blood Profile Evaluation after Fe3O4/Chitosan Colloid Injection",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Front Pages",
+        "pub_year": "2018",
+        "citation": "Proceeding of AIC: Health and Life Sciences 8 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Translational research: May transplantation of human umbilical cord blood mononuclear cells become an adjuvant therapy for delayed thrombolysis in brain ischemia?",
+        "pub_year": "2017",
+        "citation": "Journal of the Neurological Sciences 381, 856, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAYATI Journal of Biosciences",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scientists publishing research in English from Indonesia",
+        "pub_year": "2017",
+        "citation": "Publishing Research in English as an Additional Language, 169, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Venasi Sayap Lebah Madu Indonesia",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Wajah Suku Melayu Riau",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect Of Bee Venom To Cell Death And Spatial Memory In Mice (Mus Musculus)",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultral University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sensila Antena Pada Ratu Dan Pekerja Lebah Apis Dorsata Dan Tetragonula Laeviceps: Densitas Dan Analisis Ultramorfometrik",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultural University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proliferasi dan Apoptosis Sel di Dentate Gyrus serta Pembelajaran Spasial Tikus Dewasa setelah Pemberian Human Wharton\u2019s Jelly-Mesenchymal Stem Cells",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultral University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Wajah Suku Betawi di Bekasi",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultral University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfometrika Geometris Asimetri Bentuk Wajah Penderita Hipertensi",
+        "pub_year": "2016",
+        "citation": "Bogor Agricutural University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfometrik Wajah Orang Minangkabau",
+        "pub_year": "2016",
+        "citation": "Bogor Agricutural University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Apoptosis Neuron di Cortex Layer 5 dan Kinerja Motorik Tikus Dewasa setelah Pemberian human Wharton\u2019s Jelly-Mesenchymal Stem Cells",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultral University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Densitas Dan Ultramorphometrik Dari Sensilla Antena Antara Apis Andreniformis Dan Apis Cerana Pada Ketiga Kasta Lebah Madu.",
+        "pub_year": "2015",
+        "citation": "Bogor Agricultural University (IPB), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfometri Kumbang Penyerbuk Kelapa Sawit (Elaeidobius kamerunicus Faust)",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University (IPB), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u6297\u3066\u3093\u304b\u3093\u85ac\u80ce\u751f\u671f\u66b4\u9732\u306b\u3088\u308b\u795e\u7d4c\u5e79\u7d30\u80de\u5236\u5fa1\u7570\u5e38\u3068\u6210\u4f53\u30de\u30a6\u30b9\u884c\u52d5\u7570\u5e38\u306e\u95a2\u9023\u89e3\u6790: \u5e73\u6210 23 \u5e74\u5ea6\u5b9f\u7e3e\u5831\u544a\u66f8",
+        "pub_year": "2012",
+        "citation": "\u5948\u826f\u5148\u7aef\u79d1\u5b66\u6280\u8853\u5927\u5b66\u9662\u5927\u5b66, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regulation of neural stem cells by a histone deacetylases inhibitor, valproic acid",
+        "pub_year": "2011",
+        "citation": "Nara Institute of Science and Technology, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Good and bad effects of an antiepileptic valproic acid on the nervous system",
+        "pub_year": "2010",
+        "citation": "GENES & GENETIC SYSTEMS 85 (6), 448-448, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prenatal HDAC inhibition affects adult hippocampal neurogenesis",
+        "pub_year": "2010",
+        "citation": "Neuroscience Research, e353, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Usia menarke dan perkembangan payudara perempuan di pedesaan Kabupaten Pekalongan",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Urutan Nukleotida DNA Mitokondria Penyandi trna Valin (trnaval) Pada Reptilia",
+        "pub_year": "2007",
+        "citation": "Bogor Agricultral University (IPB), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tahap-tahap kematangan seksual perempuan di Wilayah Bogor",
+        "pub_year": "2007",
+        "citation": "Bogor Agricultural University (IPB), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi wajah wanita",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Morfometrika Geometris pada Variasi Bentuk Kantong antar Jenis Nepenthes L.(Nepenthaceae).",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Simplisia Daun Sirsak (Annona muricata L.) terhadap Kompleksitas Dendrit Hipokampus dan Kinerja Memori Spasial Mencit (Mus musculus).",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Mouse Parthenogenetic Embryos in Phosphate Free Medium",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Berry Juliandi, Kentaro Tanemura, 3, 9 Katsuhide Igarashi, 4 Takashi Tominaga, 5 Yusuke Furukawa, 6 Maky Otsuka, 4 Noriko Moriyama, 6 Daigo Ikegami, 7 Masahiko Abematsu, 8 \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AJMB is owned and published",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek Senyawa Katekin pada Teh Hijau (Camellia sinensis) terhadap Peningkatan Kinerja Memori dan Neurogenesis",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Morfometrika Geometris Variasi Venasi Sayap Stingless Bee Tetragonula laeviceps dan Tetragonula biroi",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neurogenesis di Hippocampus serta Pembelajaran Spasial Mencit setelah Pemberian Ekstrak Kunyit (Curcuma longa).",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROLIFERASI DAN APOP SERTA PEMBELAJA (MUS MUSCULUS ANGGUR",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Accepted author version posted online: 3 August 2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Accepted author version posted online: 30 January 2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tJeS7MIAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 4,
+    "not_available": 0
+  }
+}

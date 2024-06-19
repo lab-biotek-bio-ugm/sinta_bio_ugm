@@ -1,0 +1,1416 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "42yrZIgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sony Suhandono",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=42yrZIgAAAAJ&citpid=2",
+  "affiliation": "Lecturer & researcher, School of Life Sciences and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Molecular Biology & Synthetic Biology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 753,
+  "citedby5y": 503,
+  "hindex": 13,
+  "hindex5y": 10,
+  "i10index": 16,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "1998": 5,
+    "1999": 4,
+    "2000": 10,
+    "2001": 4,
+    "2002": 6,
+    "2003": 6,
+    "2004": 5,
+    "2005": 6,
+    "2006": 10,
+    "2007": 9,
+    "2008": 6,
+    "2009": 5,
+    "2010": 5,
+    "2011": 7,
+    "2012": 15,
+    "2013": 6,
+    "2014": 12,
+    "2015": 12,
+    "2016": 29,
+    "2017": 36,
+    "2018": 40,
+    "2019": 53,
+    "2020": 69,
+    "2021": 63,
+    "2022": 117,
+    "2023": 129,
+    "2024": 72
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reactive oxygen species and antioxidants in postharvest vegetables and fruits",
+        "pub_year": "2020",
+        "citation": "International journal of food science 2020 (1), 8817778, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:35N4QoGY0k4C",
+      "num_citations": 143,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10565948487872593761",
+      "cites_id": [
+        "10565948487872593761"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PCR primers amplifying microsatellite loci of Quercus myrsinifolia Blume and their conservation between oak species",
+        "pub_year": "1997",
+        "citation": "Molecular Ecology 6 (9), 897-899, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 122,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16653216858131089286",
+      "cites_id": [
+        "16653216858131089286"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and molecular identification of endophytic bacteria from Rambutan fruits (Nephelium lappaceum L.) cultivar Binjai",
+        "pub_year": "2016",
+        "citation": "HAYATI Journal of Biosciences 23 (1), 39-44, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 88,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11211743169712347845",
+      "cites_id": [
+        "11211743169712347845"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Measuring leaf chlorophyll concentration from its color: A way in monitoring environment change to plantations",
+        "pub_year": "2013",
+        "citation": "AIP conference proceedings 1554 (1), 210-213, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 70,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18416910805183508497",
+      "cites_id": [
+        "18416910805183508497"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intestinal bacteria of common carp (Cyprinus carpio L.) as a biological control agent for Aeromonas.",
+        "pub_year": "2018",
+        "citation": "Journal of Pure & Applied Microbiology 12 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406463491125420952",
+      "cites_id": [
+        "15406463491125420952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of three cassava elongation factor 1 alpha (MeEF1A) promoters",
+        "pub_year": "2014",
+        "citation": "PLoS One 9 (1), e84692, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14898913709070852235",
+      "cites_id": [
+        "14898913709070852235"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Pythium and Phytophthora associated with durian (Durio sp.) in Indonesia: their molecular and morphological characteristics and distribution.",
+        "pub_year": "2015",
+        "citation": "Asian Journal of Plant Pathology 9 (2), 59-71, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13621841999684863074",
+      "cites_id": [
+        "13621841999684863074"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heterologous Ectoine Production in Escherichia coli: Optimization Using Response Surface Methodology",
+        "pub_year": "2019",
+        "citation": "International Journal of Microbiology 2019 (1), 5475361, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:hMod-77fHWUC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8329972553139259452",
+      "cites_id": [
+        "8329972553139259452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of MA-ACS gene family and expression study of MA-ACS1 gene in Musa acuminata cultivar Pisang Ambon Lumut",
+        "pub_year": "2009",
+        "citation": "HAYATI Journal of Biosciences 16 (1), 35-39, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16528920094523283847",
+      "cites_id": [
+        "16528920094523283847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression and structure of an elongation factor-1\u03b1 gene (MeEF1) from cassava (Manihot esculenta Crantz)",
+        "pub_year": "2001",
+        "citation": "Euphytica 120, 49-58, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2155752328695704284",
+      "cites_id": [
+        "2155752328695704284"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of culturable bacterial in various parts of luwak\u2019s (Paradoxurus hermaprodithus javanica) gastrointestinal tract",
+        "pub_year": "2016",
+        "citation": "Microbiology Indonesia 10 (2), 4, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17106297808197500453",
+      "cites_id": [
+        "17106297808197500453"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of genetic transformation of Artemisia annua L. Using Agrobacterium for Artemisinin production",
+        "pub_year": "2014",
+        "citation": "Pharmacognosy Magazine 10 (Suppl 1), S176, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:RGFaLdJalmkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16928460032579980351",
+      "cites_id": [
+        "16928460032579980351"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and characterization of P5CS1 and P5CS2 genes from Saccharum officinarum L. under drought stress",
+        "pub_year": "2014",
+        "citation": "Journal of Tropical Crop Science; Vol 1, No 1 (2014): Vol 1, No 1 (2014), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:qjMakFHDy7sC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12078096776257193861",
+      "cites_id": [
+        "12078096776257193861"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genomic Organization and Structure of \u03b1-Hydroxynitrile Lyase in Cassava (Manihot esculentaCrantz)",
+        "pub_year": "1998",
+        "citation": "Archives of biochemistry and biophysics 356 (2), 107-116, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5858223796887566341",
+      "cites_id": [
+        "5858223796887566341"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth promotion of rice plant by endophytic fungi.",
+        "pub_year": "2018",
+        "citation": "Journal of Pure & Applied Microbiology 12 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16436545743026923081",
+      "cites_id": [
+        "16436545743026923081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and molecular identification of endophytic bacteria from the arils of durian (Durio zibethinus Murr.) var. Matahari.",
+        "pub_year": "2014",
+        "citation": "Microbiology Indonesia 8 (4), 161-169, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4053774988502589582",
+      "cites_id": [
+        "4053774988502589582"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of simple-sequence repeats markers from Durian (Durio zibethinus Murr. cultv. Matahari) genomic library",
+        "pub_year": "2017",
+        "citation": "Agrivita Journal of Agricultural Science 39 (3), 257-265, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2681948253099777669",
+      "cites_id": [
+        "2681948253099777669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and production of rhamnolipid biosurfactant in recombinant escherichia coli using autoinduction medium and palm oil mill effluent",
+        "pub_year": "2021",
+        "citation": "Brazilian Archives of Biology and Technology 64, e21200301, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12556199763906607518",
+      "cites_id": [
+        "12556199763906607518"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of ectoine by Halomonas elongata BK-AG25 using osmotic shock technique",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 209 (1), 012017, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11930230084513905829",
+      "cites_id": [
+        "11930230084513905829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of identification techniques for the fish pathogen, Aeromonas hydrophila, from Indonesia.",
+        "pub_year": "2016",
+        "citation": "Malaysian Journal of Microbiology 12 (3), 191-198, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8369012186893266292",
+      "cites_id": [
+        "8369012186893266292"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of str promoter from bacteria Escherichia coli DH5\u03b1 using reporter gene AmilCP (Acropora millepora)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 430 (1), 012014, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3132716760343013979",
+      "cites_id": [
+        "3132716760343013979"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Ralstonia solanacearum, a phytopathogenic bacterium infecting horticultural plants in Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (2), 364-372, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:r0BpntZqJG4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2987590886081691660",
+      "cites_id": [
+        "2987590886081691660"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of ectoine by Halomonas elongata BK-AG25 using osmotic shock technique. IOP Conf",
+        "pub_year": "2018",
+        "citation": "Ser. Earth Environ. Sci 209, 1755-1315, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:p2g8aNsByqUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9328802208912356580",
+      "cites_id": [
+        "9328802208912356580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ability of ectoine to stabilize lipase against elevated temperatures and methanol concentrations",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Chemistry 21 (2), 494-501, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:ldfaerwXgEUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16792581436699698222",
+      "cites_id": [
+        "16792581436699698222"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Segmentasi Citra Digital Objek Hasil Pengamatan In Situ Localization Gen gfp pada Tanaman Transforman",
+        "pub_year": "2019",
+        "citation": "Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer 1 (2), 53-60, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:blknAaTinKkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11500559300408401318",
+      "cites_id": [
+        "11500559300408401318"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of Toll-like receptor (TLR) 2 and Myeloid88-dependent TLR-signaling response to aeromonas hydrophila infections in gouramy (osphronemus gouramy)",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Materials Science and Engineering 180 (1), 012270, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:WF5omc3nYNoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=694520723862049006",
+      "cites_id": [
+        "694520723862049006"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning, expression and bioinformatic analysis of human papillomavirus type 52 L1 capsid gene from Indonesian patient",
+        "pub_year": "2014",
+        "citation": "Microbiology Indonesia 8 (3), 2, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=303762395023298164",
+      "cites_id": [
+        "303762395023298164"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construct and Production Gonad-Inhibiting Hormone dsRNA of Black Tiger Prawn (Penaeus monodon) by In vitro and In vivo Technique in L44440 Expression Vector",
+        "pub_year": "2010",
+        "citation": "Master Thesis. Bandung: Institut Teknologi Bandung, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:yD5IFk8b50cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9328072241597314574",
+      "cites_id": [
+        "9328072241597314574"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioinformatic analysis in designing mega-primer in overlap extension PCR cloning (OEPC) technique",
+        "pub_year": "2021",
+        "citation": "JOIV: International Journal on Informatics Visualization 5 (2), 139-143, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:M05iB0D1s5AC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1928194378090407092",
+      "cites_id": [
+        "1928194378090407092"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogeny and in silico structure analysis of major capsid protein (L1) human papillomavirus 45 from indonesian isolates",
+        "pub_year": "2020",
+        "citation": "Asian Pacific Journal of Cancer Prevention: APJCP 21 (9), 2517, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15847805501219540640",
+      "cites_id": [
+        "15847805501219540640"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformasi menggunakan agrobacterium tumefaciens pada tunas daun kalanchoe mortagei dan kalanchoe daigremontiana 1 dan 2",
+        "pub_year": "2016",
+        "citation": "Chimica et Natura Acta 4 (2), 97-105, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9612450320864404314",
+      "cites_id": [
+        "9612450320864404314"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Di-Rhamnolipid Biosurfactant in Recombinant Escherichia coli",
+        "pub_year": "2021",
+        "citation": "Key Engineering Materials 874, 107-114, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2705474855008684781",
+      "cites_id": [
+        "2705474855008684781"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sekuens gen protein kapsid mayor L1 human papilomavirus 16 dari isolat klinik asal Bandung",
+        "pub_year": "2014",
+        "citation": "Majalah Kedokteran Bandung 46 (3), 143-149, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4035757920950275525",
+      "cites_id": [
+        "4035757920950275525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONSTRUKSI VEKTOR BINER UNTUK EKSPRESI GEN dip22 (YANG DIISOLASI DARI TEBU VARIETAS M 442-51) PADA TANAMAN",
+        "pub_year": "2007",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 13 (1), 15-26, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14089937851094991917",
+      "cites_id": [
+        "14089937851094991917"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Concentration of Tobacco (Nicotiana tabacum) Extract on Growth Parameters of Rice (Oryza sativa) Inpari-32",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 940 (1), 012026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6162031512042448205",
+      "cites_id": [
+        "6162031512042448205"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Conceptual Change Assessment Based On Essay Questions In Case Study Of DNA/RNA And Intron Topics",
+        "pub_year": "2019",
+        "citation": "JPPIPA (Jurnal Penelitian Pendidikan IPA) 4 (1), 31-37, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:maZDTaKrznsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14869446669403208346",
+      "cites_id": [
+        "14869446669403208346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of dehydrin gene from sugarcane (Saccharum officinarum L.) involved in drought tolerance response.",
+        "pub_year": "2018",
+        "citation": "Menara Perkebunan 86 (2), 116-125, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14121379126747916089",
+      "cites_id": [
+        "14121379126747916089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioinformatics Resources in Facilitating Students' Conception on Molecule genetics concepts",
+        "pub_year": "2017",
+        "citation": "International Conference on Mathematics and Science Education, 236-240, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2671037308016154598",
+      "cites_id": [
+        "2671037308016154598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation, identification and characterization of indigenous fungi for bioremediation of hexavalent chromium, nickel and cobalt",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 350-354, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=46272963067611096",
+      "cites_id": [
+        "46272963067611096"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of terbinafin and DMSO on the gene expression level of squalene synthase (sqs) and amorpha-4, 11-diene synthase (ads) in Artemisia annua L",
+        "pub_year": "2014",
+        "citation": "Procedia Chemistry 13, 85-91, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1787430610666549233",
+      "cites_id": [
+        "1787430610666549233"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AgroCUBE: A smart plant growth chamber system",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2568 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:NhqRSupF_l8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11810405567355701559",
+      "cites_id": [
+        "11810405567355701559"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Safety evaluation of human peripheral blood mononuclear cells in naive rats: a chronic toxicitystudy",
+        "pub_year": "2022",
+        "citation": "Bangladesh Journal of Medical Science 21 (2), 373, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2107244211078375376",
+      "cites_id": [
+        "2107244211078375376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ursodeoxycholic acid: a systematic review on the chemical and biochemical properties, biosynthesis, sources and pharmacological activities",
+        "pub_year": "2021",
+        "citation": "Current Research on Biosciences and Biotechnology 3 (1), 178-185, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13776829240604489401",
+      "cites_id": [
+        "13776829240604489401"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformation of amorphadiene synthase and antisilencing P19 genes into Artemisia annua L. and its effect on antimalarial artemisinin production",
+        "pub_year": "2020",
+        "citation": "Advanced Pharmaceutical Bulletin 10 (3), 464, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1525729700319704109",
+      "cites_id": [
+        "1525729700319704109"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthetic biology: Emerging bioengineering in Indonesia",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1844 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9464781294758310848",
+      "cites_id": [
+        "9464781294758310848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of Microsatellite Allele That potential as Resistance Marker of Giant Gouramy (Osphronemus gouramy Lac.) to Aeromonas hydrophila",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12709939392029406901",
+      "cites_id": [
+        "12709939392029406901"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of soc-tuf gene encoding chloroplast Elongation factor Tu (EF-Tu) protein from sugarcane (Saccharum officinarum).",
+        "pub_year": "2013",
+        "citation": "Improving food, energy and environment with better crops. 7th Asian Crop \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1026698460442087457",
+      "cites_id": [
+        "1026698460442087457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Merancang Media Pembelajaran dan Alat Praktikum Fisika dengan Alat dan Bahan Rumah Tangga Sehari-hari",
+        "pub_year": "2013",
+        "citation": "Capacity Building for Teacher: Creative Science Teachers, Dili, Timor Leste \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11258576879338228298",
+      "cites_id": [
+        "11258576879338228298"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Engineering of Perithrophin-Cb42 cDNA from Old World Screwworm Fly (Chrysom ya bezziana) for Efficient Expression in Plant",
+        "pub_year": "2005",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12403557902448598162",
+      "cites_id": [
+        "12403557902448598162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A molecular analysis of elongation factor-1\u03b1 in Manihot esculenta Crantz.(cassava)",
+        "pub_year": "2000",
+        "citation": "University of Newcastle upon Tyne, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6899299962739886741",
+      "cites_id": [
+        "6899299962739886741"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fruit ripening and chitosan coating impacts on the expression profile of Banana Lectin (BanLec) genes",
+        "pub_year": "2024",
+        "citation": "Scientia Horticulturae 335, 113293, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A simple method of plant sectioning using the agarose embedding technique for screening intracellular green fluorescent protein",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Biotechnology 28 (3), 153-157, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico Comparative Analysis of Gene and Protein of Plant Lectins.",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The combination effect of concentration and application interval of Nicotiana tabacum extract on growth of Oryza sativa Inpari 32",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2534 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of interval of application of Nicotiana tabacum extract on growth parameters of Oryza sativa Inpari-32",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2534 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination of concentration and interval treatment from tobacco extract (Nicotiana tabacum) into rice grain performance (Oryza sativa) variety INPARI 32",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2534 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISASI PRODUKSI RHAMNOLIPID MENGGUNAKAN PENDEKATAN BIOLOGI SINTETIK",
+        "pub_year": "2021",
+        "citation": "Jurnal Farmamedika (Pharmamedika Journal) 6 (1), 29-33, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fusion Strategy of Influenza A-H5N1 Virus M2e Epitope DNA Sequence to Hepatitis B Virus HBsAg-S Gene",
+        "pub_year": "2020",
+        "citation": "International Conference on Biology, Sciences and Education (ICoBioSE 2019 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of pyrophosphate-dependent phosphofructokinase \u03b1-subunit gene from sugarcane showing gene without intron",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012078, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and expression of Plasmodium falciparum lactate dehydrogenase (PfLDH) in Escherichia coli BL21 (DE3)",
+        "pub_year": "2019",
+        "citation": "Acta Biochimica Indonesiana 2 (2), 52-57, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression profiling of the CHS8, CHI1A, IFS2, and CHR genes in black soybean seed [Glycine max (L). Merr.] of F4 generation",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Biotechnology 24 (2), 119-124, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simple Micropropagation by Indirect Somatic Embryogenesis in Sugarcane (Saccharum officinarum L.)",
+        "pub_year": "2019",
+        "citation": "American Journal of Applied Sciences (ISSN: 2321\u2013089X) 10 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi dan karakterisasi gen dehydrin dari tebu (Saccharum officinarumL.) yang terlibat dalam respon toleransi cekaman kekeringan (Isolation and characterization of dehydrin \u2026",
+        "pub_year": "2018",
+        "citation": "Menara Perkebunan 86 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Response of TLR3 and IL-1\u00df Genes Following Exposure to LPS, Poly (I: C), Zymosan in Culture of Gouramy (Osphronemus gouramy) Kidney Cells.",
+        "pub_year": "2018",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 41 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of dehydrin gene from sugarcane (Saccharum officinarum L.) involved in drought tolerance response.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Characterization of Begomovirus from Java and Sumatra in order to Develop Biological synthetic Agent for Viral Resistant Plant",
+        "pub_year": "2018",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction and Expression of Single Recombinant Peptide Surfactant for EOR Application",
+        "pub_year": "2017",
+        "citation": "Microbiology Indonesia 11 (1), 5-5, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CONSTRUCTION AND EXPRESSION? OF QUARTET RECOMBINANT PEPTIDE SURFACTANT FOR EOR APPLICATION",
+        "pub_year": "2016",
+        "citation": "Scientific Contributions Oil and Gas 39 (3), 137-142, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transient transformation of artemisinic aldehyde \u0394 11 (13) double bond reductase (dbr2) gene into Artemisia annua L.",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONSTRUKSI DAN EKSPRESI REKOMBINAN TUNGGAL PEPTIDA SURFAKTAN (SINGLE SUPEL CONSTRUCTION) UNTUK APLIKASI EOR (Construction and Expression of Single Recombinant Peptide \u2026",
+        "pub_year": "2016",
+        "citation": "Lembaran publikasi minyak dan gas bumi 50 (3), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transient transformation of artemisinic aldehyde\u2206 11 (13) double bond reductase (dbr2) gene into Artemisia annua L.",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Biotechnology 21 (2), 76-85, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of Three Cassava Elongation Factor 1 Alpha (MeEF1A) Promoters (vol 9, e84692, 2014)",
+        "pub_year": "2015",
+        "citation": "PLOS ONE 10 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Molecular Identification of Endophytic Bacteria from Durian Arillus (Durio zibethinus Murr.) var. Matahari",
+        "pub_year": "2014",
+        "citation": "Microbiology Indonesia 8 (4), 3, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and construction of recombinant palI gene from Klebsiella oxytoca on pET-32b into E. coli BL21 (DE3) pLysS for production of isomaltulose, a new \u2026",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 235-238, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In planta transformation method for T-DNA transfer in orchids",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 303-307, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformation and transient ekspresion analysis of L-HBsAg DNA in fruits of Musa acuminata Colla cultivar'Ambon Lumut\" and'Mas' using Agrobacterium tumefaciens.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Antibody-Virus Interaction using Molecular Dynamics: Two Dimensional Simulation on Immunoglobulin Reaction against Human Papillomavirus",
+        "pub_year": "2013",
+        "citation": "arXiv preprint arXiv:1311.4290, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Measuring Leaf Chlorophyll Concentration from Its Color: A Way in Monitoring Environment Change to Plantations",
+        "pub_year": "2013",
+        "citation": "arXiv e-prints, arXiv: 1305.1148, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BINARY VECTOR CONSTRUCTION FOR PYROPHOSPHATE-DEPENDENT PHOSPHOFRUCTOKINASE (PFP-\u03b1) SENSE AND ANTISENSE GENE SEQUENCES",
+        "pub_year": "2011",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introduction of Hepatitis Surface Antigen (Hbsag) Into Banana cv. Mas Lampung For Plant Plant-Based Vaccine",
+        "pub_year": "2010",
+        "citation": "Annales Bogoriense Vol 14 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sequence Analysis of Putative potB, potC, and potD Genes from Serratia rubidae",
+        "pub_year": "2010",
+        "citation": "Microbiology Indonesia 4 (2), 8-8, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction of Binary Vector With Wound Inducible Promoter for Hbsag Expression: Development of Plant-Based Edible Hepatitis B Vaccine from Indonesian Isolate",
+        "pub_year": "2007",
+        "citation": "ANNALES BOGORIENSES 11 (1), 7-14, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and Characterization of Putative Promoters from Sugarcane Elongation Factor 1\u03b1 Gene Family",
+        "pub_year": "2007",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Subject Index for Volume 356 will appear in the December 15, 1998, issue as part of a cumulative index for the year 1998.",
+        "pub_year": "1998",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Systematic and Ecological Significance of Variation in Leaf Volatile Oil Composition in Natural Stands of Eucalyptus",
+        "pub_year": "1994",
+        "citation": "La Trobe University, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTANIKA JOURNAL OF SOCIAL SCIENCES AND HUMANITIES",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Engineering of Biosynthetic Pathway of An Antimalarial Artemisinin from Artemisia annua to Enhance Its Production Level",
+        "citation": "PROCEEDING OF, 23, 0"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of MeEf1A6 Gene Promoter Activity with In-vitro and In-vivo using Transient and Stable Expression Techniques in Tobacco Plant (Nicotiana tabacum)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:D03iK_w7-QYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ELONGATION FACTOR-1 ALPHA (EF-1 ALPHA) RESEARCH RELATED TO AGRICULTURE DEVELOPMENT",
+        "citation": "PRE-BREEDING AND GENE DISCOVERY FOR FOOD AND RENEWABLE ENERGY SECURITY, 63, 0"
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lokus SSR Berasosiasi Karakter Tahan Penyakit Mati-Pohon Durian Berdasarkan Bulked Pseudo-Segregant Analysis (SSR Loci Associated to Resistance Traits to Durian Die-Back based \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction and Evaluation of DNA-A and DNA-B PYLCV (Pepper Yellow Leaf Curl Virus) in Agrobacterium Plasmid",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction and Expression of Single Recombinant Peptide Surfactant for Enhanced Oil Recovery (EOR) Application",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study Characterization of Aflatoxin-Whole Cell Biosensor basedonCo-transformed Escherichia coli BL21 (DE3) with pKCYP and pSOSGFP",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of Two Elongation Factor 1 Alpha Promoters Gene from Cassava (Manihot esculenta Crantz)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gravitt, Karen R., 258 Gros, Gerolf, 151",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "42yrZIgAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

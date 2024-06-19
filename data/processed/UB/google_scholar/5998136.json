@@ -1,0 +1,1250 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "fbHYc-QAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Yoga Dwi Jatmiko",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fbHYc-QAAAAJ&citpid=3",
+  "affiliation": "Biology Department, University of Brawijaya",
+  "organization": 15077197145172930606,
+  "interests": [
+    "Food Microbiology",
+    "Microbial Diversity",
+    "Therapeutic Microbiology"
+  ],
+  "email_domain": "@ub.ac.id",
+  "citedby": 267,
+  "citedby5y": 255,
+  "hindex": 9,
+  "hindex5y": 9,
+  "i10index": 8,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "2016": 2,
+    "2017": 3,
+    "2018": 6,
+    "2019": 12,
+    "2020": 23,
+    "2021": 35,
+    "2022": 59,
+    "2023": 78,
+    "2024": 44
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KVnmAC0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Gordon Howarth",
+      "affiliation": "Professor of Gastrointestinal Physiology, University of Adelaide"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "m6Z10egAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Susan EP Bastian",
+      "affiliation": "University of Adelaide"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DWvLqMUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hanru Wang",
+      "affiliation": "University of Adelaide"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of probiotic properties of lactic acid bacteria isolated from Indonesian naturally fermented milk",
+        "pub_year": "2017",
+        "citation": "AIP conference proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:5nxA0vEk-isC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17155955066278641795",
+      "cites_id": [
+        "17155955066278641795"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Supernatants from Escherichia coli Nissle 1917 and Faecalibacterium prausnitzii on Intestinal Epithelial Cells and a Rat Model of 5-Fluorouracil-Induced \u2026",
+        "pub_year": "2017",
+        "citation": "Nutrition and cancer 69 (2), 307-318, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:Se3iqnhoufwC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15153669526160165785",
+      "cites_id": [
+        "15153669526160165785"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physicochemical and sensory properties of terasi (an Indonesian fermented shrimp paste) produced using Lactobacillus plantarum and Bacillus amyloliquefaciens",
+        "pub_year": "2021",
+        "citation": "Microbiological Research 242, 126619, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:IWHjjKOFINEC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16136198248275677282",
+      "cites_id": [
+        "16136198248275677282"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Naturally fermented milk and its therapeutic potential in the treatment of inflammatory intestinal disorders",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15942573503447576920",
+      "cites_id": [
+        "15942573503447576920"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular identification of yeasts isolated from Dadih by RFLP-PCR and assessment on their ability in utilizing lactate",
+        "pub_year": "2012",
+        "citation": "Microbiology Indonesia 6 (1), 5-5, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5317491435494490676",
+      "cites_id": [
+        "5317491435494490676"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Potential Anticancer Mechanism of Finger Root (Boesenbergia rotunda) Extracts against a Breast Cancer Cell Line",
+        "pub_year": "2022",
+        "citation": "Scientifica 2022 (1), 9130252, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:GnPB-g6toBAC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17653526842346076730",
+      "cites_id": [
+        "17653526842346076730"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of glutaminase-free L-asparaginase production using mangrove endophytic Lysinibacillus fusiformis B27",
+        "pub_year": "2019",
+        "citation": "F1000Research 8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9458107775891452354",
+      "cites_id": [
+        "9458107775891452354"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Partial purification and characterization of bacteriocins from Lactobacillus plantarum SB7 and Bacillus amyloliquefaciens BC9 isolated from fermented Sumbawa mare\u2019s milk as \u2026",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2120 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:_kc_bZDykSQC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15027313868196192837",
+      "cites_id": [
+        "15027313868196192837"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profile of microbial community of naturally fermented Sumbawa mare\u2019s milk using next-generation sequencing",
+        "pub_year": "2019",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 24 (2), 65-69, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:4TOpqqG69KYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16188902215141548587",
+      "cites_id": [
+        "16188902215141548587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suppression of hypoxia and inflammatory pathways by Phyllanthus niruri extract inhibits angiogenesis in DMBA-induced breast cancer mice",
+        "pub_year": "2021",
+        "citation": "Research in pharmaceutical sciences 16 (2), 217-226, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8329986146003022917",
+      "cites_id": [
+        "8329986146003022917"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and screening of phosphate and potassium solubilizing endophytic bacteria in Maize (Zea mays L.)",
+        "pub_year": "2020",
+        "citation": "The Journal of Experimental Life Science 10 (3), 165-170, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7252547829193331532",
+      "cites_id": [
+        "7252547829193331532"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Autochthonous Acid\u2010Producing Bacteria from Catfish (Clarias sp.) with Antibacterial Activity against Selected Fish Pathogens: A Preliminary Study",
+        "pub_year": "2020",
+        "citation": "International Journal of Microbiology 2020 (1), 8526581, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:aqlVkmm33-oC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=197813127089081542",
+      "cites_id": [
+        "197813127089081542"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Freshwater microalgae as promising food sources: nutritional and functional properties",
+        "pub_year": "2022",
+        "citation": "The Open Microbiology Journal 16 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13684348988377056521",
+      "cites_id": [
+        "13684348988377056521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anticancer activity of Caesalpinia sappan by downregulating mitochondrial genes in A549 lung cancer cell line",
+        "pub_year": "2022",
+        "citation": "F1000Research 11, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:k_IJM867U9cC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12489372381679216578",
+      "cites_id": [
+        "12489372381679216578"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suharjono (2019).\u201c",
+        "pub_year": "2018",
+        "citation": "Diversity of lactic acid bacteria isolated from fermented mare\u2019s milk \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:r0BpntZqJG4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16772241585908249349",
+      "cites_id": [
+        "16772241585908249349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of endophytic bacteria isolated from Ficus septica as phytoremediation promoting agent of Cr (VI) contaminated soil",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (5), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15666292853333832475",
+      "cites_id": [
+        "15666292853333832475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of lactic acid bacteria isolated from fermented mare's milk products based on PCR-RFLP analysis",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 230 (012104), 1-9, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7653123605358823886",
+      "cites_id": [
+        "7653123605358823886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immunomodulatory effects of Cyperus rotundus extract on 7, 12 dimethylbenz [a] anthracene (DMBA) exposed BALB/c mice",
+        "pub_year": "2020",
+        "citation": "Pharmaceutical Sciences 27 (1), 46-55, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:-f6ydRqryjwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17766496047665723415",
+      "cites_id": [
+        "17766496047665723415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Red Moringa oleifera leaf fermentation extract protecting Hepatotoxicity in Balb/C mice injected with Salmonella typhi through Nrf-2, HO-1, and SOD-2 signaling pathways",
+        "pub_year": "2020",
+        "citation": "Research Journal of Pharmacy and Technology 13 (12), 5947-5952, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:qUcmZB5y_30C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16540289910590538797",
+      "cites_id": [
+        "16540289910590538797"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and antimicrobial potency of indigenous lactic acid bacteria isolated from dadih, a traditional fermented buffalo milk from Indonesia",
+        "pub_year": "2010",
+        "citation": "The University of South Australia, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:roLk4NBRz8UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14709752126263084254",
+      "cites_id": [
+        "14709752126263084254"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Benefits of Coriandrum sativum L. seed extract in maintaining immunocompetent cell homeostasis",
+        "pub_year": "2022",
+        "citation": "Sains Malaysiana 51 (8), 2425-2434, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:D03iK_w7-QYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3938188970548190618",
+      "cites_id": [
+        "3938188970548190618"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unveiling microbial community structure in Ragi tape as elicitors to increase secondary metabolites contents in Glycine max and Vigna radiata",
+        "pub_year": "2021",
+        "citation": "Biologia 76, 3901-3907, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:TFP_iSt0sucC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15366296884848499173",
+      "cites_id": [
+        "15366296884848499173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Keamanan Pangan dan Kualitas Organoleptik Ikan Asap Khas Desa Karangsari Tuban Melalui Induksi Pengemas Vakum",
+        "pub_year": "2020",
+        "citation": "Journal of Fisheries and Marine Research 4 (1), 35-40, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=193236641800025006",
+      "cites_id": [
+        "193236641800025006"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immunomodulatory effects of Cyperus rotundus Extract on 7, 12 dimethylbenz [a] anthracene (DMBA) exposed BALB/c mice. Pharmaceutical Sciences 27: 46\u201355",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:_xSYboBqXhAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15954205836474410053",
+      "cites_id": [
+        "15954205836474410053"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of yeast diversity in Dadih and Dangke using PCR-RFLP of internal transcribed spacer region",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012025, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8487606158024680225",
+      "cites_id": [
+        "8487606158024680225"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Aktivitas Bakteriofage Litik dari Limbah Rumah Tangga Terhadap Salmonella Typhi",
+        "pub_year": "2018",
+        "citation": "Jurnal Biodjati 3 (2), 134-147, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:Zph67rFs4hoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3374584536735320609",
+      "cites_id": [
+        "3374584536735320609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anticancer potential of turmeric (                     Curcuma longa) ethanol extract and prediction of its mechanism through the Akt1 pathway",
+        "pub_year": "2022",
+        "citation": "F1000Research 11, 1000, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:BqipwSGYUEgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8346019784430648171",
+      "cites_id": [
+        "8346019784430648171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polyherbal effect between Phyllanthus urinaria and Curcuma longa as an Anticancer and Antioxidant",
+        "pub_year": "2022",
+        "citation": "Research Journal of Pharmacy and Technology 15 (2), 671-678, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10640654454420492376",
+      "cites_id": [
+        "10640654454420492376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of Plantaricin-Encoding Gene and Its Partial Purification in Lactobacillus plantarum BP102",
+        "pub_year": "2023",
+        "citation": "Jurnal Biodjati 8 (2), 233-247, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11792320966618568394",
+      "cites_id": [
+        "11792320966618568394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT OF VACUUM FRYING ON THE PROXYMATE QUALITY OF CRISPY CATFISH (Clarias gariepinus)",
+        "pub_year": "2020",
+        "citation": "International Conference on Fisheries and Marine Research 1 (1), 17-20, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5109129948026734554",
+      "cites_id": [
+        "5109129948026734554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and identification of potential indigenous yeasts isolated during fermentation of wine coffee",
+        "pub_year": "2023",
+        "citation": "Malaysian Applied Biology 52 (3), 1-11, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17516873459944021129",
+      "cites_id": [
+        "17516873459944021129"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consumer Studies Focus on Prebiotics, Probiotics, and Synbiotics in Food Packaging: A Review",
+        "pub_year": "2023",
+        "citation": "Current Food Science and Technology Reports 1 (1), 13-29, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:RGFaLdJalmkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11034717977844056085",
+      "cites_id": [
+        "11034717977844056085"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of collagen from Java barb (Barbonymus gonionotus) skin and its effect on selected properties of yogurt",
+        "pub_year": "2023",
+        "citation": "Canrea Journal: Food Technology, Nutritions, and Culinary Journal, 17-30, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:ldfaerwXgEUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8703362596483351040",
+      "cites_id": [
+        "8703362596483351040"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coffea liberica leaf and tree architecture model of confusing accession in Poncokusumo, Malang District, East Java, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (5), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:70eg2SAEIzsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3296257840831962387",
+      "cites_id": [
+        "3296257840831962387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and identification of nitrogen-fixing rhizobacteria associated with Cocoa plantation (Theobroma cacao L) as biofertilizer agent",
+        "pub_year": "2022",
+        "citation": "The Journal of Experimental Life Science 12 (3), 75-80, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2817215720445927194",
+      "cites_id": [
+        "2817215720445927194"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabarcoding dataset on the elicitation of Soybean and Mungbean using Ragi Tape as elicitors for enhancing secondary metabolites production",
+        "pub_year": "2022",
+        "citation": "Data in Brief 42, 108209, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:blknAaTinKkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14505598672772381303",
+      "cites_id": [
+        "14505598672772381303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increasing antioxidant activity of soursop (Annona muricata L.) and noni (Morinda citrifolia L.) leaves fermented by Lactobacillus plantarum BP102",
+        "pub_year": "2022",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 27 (2), 73-77, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:isC4tDSrTZIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1006816702788152841",
+      "cites_id": [
+        "1006816702788152841"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial Population Dynamics of Natural Fermentation of Sumbawa Mare\u2019s Milk Using Metagenomic Approach",
+        "pub_year": "2021",
+        "citation": "Microbiology Indonesia 15 (2), 2-2, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3644321476980040896",
+      "cites_id": [
+        "3644321476980040896"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of potential lactic acid bacteria from fermented Sumbawa mare's milk as starter cultures",
+        "pub_year": "2021",
+        "citation": "Malaysian Journal of Microbiology 17 (1), 11-19, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=849292132719524527",
+      "cites_id": [
+        "849292132719524527"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial activity of combination bacteriocin and asam sunti extract (Averrhoa bilimbi L. fermented) against multidrug resistant Escherichia coli in Lettuces (Lactuca sativa)",
+        "pub_year": "2021",
+        "citation": "J. Exp. Life Sci. Vol 11 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1220929078533982158",
+      "cites_id": [
+        "1220929078533982158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Probiotics Isolated from Intestine of Mackerel Fish (Rastrelliger sp.) from Lembata Regency of East Nusa Tenggara",
+        "pub_year": "2020",
+        "citation": "The Journal of Experimental Life Science 10 (2), 94-103, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:TQgYirikUcIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=283167959940071158",
+      "cites_id": [
+        "283167959940071158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polycyclic aromatic hydrocarbons (PAH) reduces the effectiveness of measles vaccination through immunotoxicity to innate and adaptive immune cells",
+        "pub_year": "2020",
+        "citation": "Research Journal of Pharmacy and Technology 13 (12), 6128-6131, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:hC7cP41nSMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16378348514377144634",
+      "cites_id": [
+        "16378348514377144634"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation, partial purification and characterization of protease enzyme from the head of Nile tilapia fish (Oreochromis niloticus).",
+        "pub_year": "2019",
+        "citation": "Egyptian Journal of Aquatic Biology and Fisheries 23 (3), 257-262, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15939678130804024963",
+      "cites_id": [
+        "15939678130804024963"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Detection of Bacteriocin-Like Inhibitory Substances-Producing Bacteria from Fermented Mare\u2019s Milk Sumbawa",
+        "pub_year": "2019",
+        "citation": "Jurnal Biodjati 4 (1), 21-30, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9533996046590252387",
+      "cites_id": [
+        "9533996046590252387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Protokol Deteksi Staphylococcus aureus Berbasis Molekuler",
+        "pub_year": "2024",
+        "citation": "Bioscientist: Jurnal Ilmiah Biologi 12 (1), 50-60, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:abG-DnoFyZgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The comparative study between single origin tea and herbal tea blends in different brewed-style: Antioxidant assay",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3074 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tofu Whey-Based Media for Probiotic Lactiplantibacillus plantarum D4 as a Halal Starter Culture",
+        "pub_year": "2024",
+        "citation": "Indonesian Journal of Halal Research 6 (1), 26-35, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of Salmonella typhimurium lytic bacteriophages from fermented shrimp paste (Terasi)",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3001 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening the potential lactic acid bacteria isolated from the cecum of kampung chicken cultivated in Sambi village NTT",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3001 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of Phyllanthus niruri and Catharanthus roseus on Macrophage Polarization in Breast Cancer Mice Model: The Effect of P. niruri and C. roseus in Breast Cancer Mice Model",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Life Science 14 (1), 21-26, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dasar Fisiologi dan Molekuler Bioremediasi",
+        "pub_year": "2024",
+        "citation": "Universitas Brawijaya Press, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Potential of Watercress Nasturtium officinale Bioactive Compounds in Inhibiting Infectious Myonecrosis Virus (IMNV) by Targeting RNA-dependent RNA polymerase (RdRp) Virus \u2026",
+        "pub_year": "2024",
+        "citation": "Karbala International Journal of Modern Science 10 (2), 6, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of Pectinolytic Yeast from Liberica Green Coffee Beans (Coffea liberica)",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 91, 01024, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalence of multidrug-resistant and extended-spectrum \u03b2-lactamase producing Escherichia coli from local and broiler chickens at Cibinong market, West Java, Indonesia",
+        "pub_year": "2024",
+        "citation": "Veterinary World 17 (1), 179, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use of probiotics in fermenting food wastes for production of black soldier fly larvae (Hermetia illucens L.; Diptera: Stratiomyidae)",
+        "pub_year": "2023",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 29 (3), 99-105, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Workshop Klinik Penulisan Jurnal Nasional Penelitian dan Pengabdian Masyarakat sebagai Upaya Pengembangan Kapasitas Sumber Daya Pengajar",
+        "pub_year": "2023",
+        "citation": "Jurnal Gramaswara: Jurnal Pengabdian kepada Masyarakat 3 (3), 211-219, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil Resistansi Antibiotik dari Enterobacteriaceae yang Diisolasi dari Kucing (Felis catus).",
+        "pub_year": "2023",
+        "citation": "Jurnal Veteriner 24 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of jamu kunyit asam (Curcuma domestica Val.-Tamarindus indica L.) as probiotic carrier of Lactobacillus plantarum BP102",
+        "pub_year": "2023",
+        "citation": "International Food Research Journal 30 (5), 1274-1284, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immunomodulatory Effects of Unripe Sapodilla (Manilkara zapota) Fruit Extract Through Inflammatory Cytokine Regulation in Type 1 Diabetic Mice.",
+        "pub_year": "2023",
+        "citation": "Jordan Journal of Biological Sciences 16 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Next-Generation Sequencing of the Microbial Community Profile In Free-Range Chicken (Gallus gallus domesticus) Cecum from East Nusa Tenggara Province.",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Life Science 13 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of Chitinolytic Bacteria as Biocontrol Agent for Pathogenic Fungi on Cocoa Fruit in Sumbermanjing District, Malang",
+        "pub_year": "2023",
+        "citation": "The Journal of Experimental Life Science 13 (1), 29-34, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Halophilic Bacteria Producing Protease from Salted Fish in Ponrang, Luwu Regency, South Sulawesi",
+        "pub_year": "2023",
+        "citation": "The Journal of Experimental Life Science 13 (1), 35-42, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of potential lactic acid bacteria from fish intestine of mackerel (Rastrelliger kanagurta) from Lembata Regency, East Nusa Tenggara, Indonesia.",
+        "pub_year": "2022",
+        "citation": "Malaysian Journal of Microbiology 18 (6), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Screening of Lactic Acid Bacteria From Sumbawa Buffalo Milk (Bubalus bubalis) as Potential Starter Cultures",
+        "pub_year": "2022",
+        "citation": "The Journal of Experimental Life Science 12 (3), 88-97, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial Activity of Pluchea indica Leaf Extract was Increased After Being Fermented with Saccharomyces cerevisiae and Added with its Cell-Free Supernatant",
+        "pub_year": "2022",
+        "citation": "Biotropika: Journal of Tropical Biology 10 (2), 111-116, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of yeast diversity in fermented Sumbawa mare's milk using internal transcribed spacers (ITS) fragment analysis.",
+        "pub_year": "2022",
+        "citation": "Malaysian Journal of Microbiology 18 (4), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiplex PCR for the detection of Salmonella spp. in Indonesian traditional shrimp paste (Terasi)",
+        "pub_year": "2022",
+        "citation": "Berkala Penelitian Hayati 27 (2), 98-104, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anticancer potential of turmeric (Curcuma longa) ethanol extract and prediction of its mechanism through the Akt 1 pathway [version 1; peer review: awaiting peer review]",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-inflammatory evaluation of Moringa-albumin combination in inhibiting ifn-\u03b3 and tnf-\u03b1 expression in diabetic mouse model",
+        "pub_year": "2022",
+        "citation": "Research Journal of Pharmacy and Technology 15 (2), 628-632, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction On Difference In Micro, Small Medium Enterprises-Revenue After Getting Vacum Frying And Spinner Assistance",
+        "pub_year": "2021",
+        "citation": "Journal of Innovation and Applied Technology 6 (2), 1118-1121, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGABDIAN KEPADA MASYARAKAT MELALUI PENGENALAN KEMASAN VAKUM UNTUK IKAN ASAP KHAS TUBAN",
+        "pub_year": "2020",
+        "citation": "Prosiding Seminar Nasional Perikanan dan Kelautan 8 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Red Moringa oleifera leaf fermentation extract protecting hepatotoxicity in balb/c mice injected with Salmonella typhi through nrf-2, ho-1, and sod-2 signaling \u2026",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical mutation of Bacillus subtilis RRM1 increases L-asparaginase activity",
+        "pub_year": "2019",
+        "citation": "Journal of Biotech Research 10, 250-254, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biotropika: Journal of Tropical Biology",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conference Photo: The 8th International Conference on Global Resource Conservation (ICGRC 2017)",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 010002, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: The 8th International Conference on Global Resource Conservation (ICGRC 2017)",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 010001, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of supernatants from Escherichia coli Nissle 1917 and Faecalibacterium prausnitzii on intestinal epithelial cells and a rat model of 5-fluorouracil-induced \u2026",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Naturally Fermented Milk from Indonesia:  A Study of Microbial Diversity and Probiotic Potency for the Potential Treatment of Intestinal Mucositis",
+        "pub_year": "2017",
+        "citation": "The University of Adelaide, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass and Metabolites of Parachlorella Kessleri Strain H4dsr From Tropical Peatland Under Complete Nutrient Removal Stress",
+        "citation": "Yoga Dwi and Apriastini, Marsiti and Purba, Laila Dina Amalia, Biomass and \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "production using mangrove endophytic Lysinibacillus fusiformis B27 [version 2; peer review: 2 approved with reservations]",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BaSIC 2018 Committee",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of glutaminase-free L-asparaginase production",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "fbHYc-QAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 1
+  }
+}

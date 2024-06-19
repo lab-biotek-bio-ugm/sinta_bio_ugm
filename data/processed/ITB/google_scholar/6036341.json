@@ -1,0 +1,420 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "laUA8AsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Yoyo Suhaya",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Teknologi Kehutanan"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 109,
+  "citedby5y": 100,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 5,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2015": 1,
+    "2016": 3,
+    "2017": 3,
+    "2018": 2,
+    "2019": 6,
+    "2020": 15,
+    "2021": 20,
+    "2022": 17,
+    "2023": 29,
+    "2024": 13
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-wood renewable materials: Properties improvement and its application",
+        "pub_year": "2014",
+        "citation": "Biomass and Bioenergy: Applications, 1-29, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12199442894063765796",
+      "cites_id": [
+        "12199442894063765796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Review on quality enhancement of bamboo utilization: preservation, modification and applications.",
+        "pub_year": "2018",
+        "citation": "Asian Journal of Plant Sciences 17 (1), 1-18, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:roLk4NBRz8UC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9445570968486657078",
+      "cites_id": [
+        "9445570968486657078"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribusi biomassa di atas dan bawah permukaan dari surian (Toona Sinensis Roem.)",
+        "pub_year": "2014",
+        "citation": "Jurnal Matematika dan Sains 19 (2), 69-75, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=60343781627511542",
+      "cites_id": [
+        "60343781627511542"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of bamboo zephyr composite and the physical and mechanical properties",
+        "pub_year": "2022",
+        "citation": "Journal of the Korean Wood Science and Technology 50 (2), 134-147, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2662503948661436208",
+      "cites_id": [
+        "2662503948661436208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The possible use of surian tree (Toona sinensis Roem) branches as an alternative raw material in the production of composite boards",
+        "pub_year": "2020",
+        "citation": "Journal of wood science 66, 1-6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4856166613766135667",
+      "cites_id": [
+        "4856166613766135667"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reinforcing effects of seaweed nanoparticles in agar-based biopolymer composite: physical, water vapor barrier, mechanical, and biodegradable properties",
+        "pub_year": "2021",
+        "citation": "BioResources 16 (3), 5118, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:0EnyYjriUFMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17464294757517175434",
+      "cites_id": [
+        "17464294757517175434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coconut fibres and laminates with Jabon trunk (Anthocephalus cadamba Miq.) veneer for hybrid plywood composites: dimensional stability and mechanical \u2026",
+        "pub_year": "2019",
+        "citation": "European journal of wood and wood products 77, 749-759, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15279923105000869652",
+      "cites_id": [
+        "15279923105000869652"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristic of vascular bundles and morphology of Gigantochloa apus (JA and JH Schulltes) Kurz culm.",
+        "pub_year": "2018",
+        "citation": "Asian Journal of Plant Sciences 17 (3), 129-133, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:UebtZRa9Y70C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14670483502344731580",
+      "cites_id": [
+        "14670483502344731580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alternative materials for strandboards made with waste veneer from industrial plywood in Indonesia",
+        "pub_year": "2018",
+        "citation": "BioResources 13 (4), 8385-8393, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16474597159474056577",
+      "cites_id": [
+        "16474597159474056577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Asap Cair Distilasi dan Terdistilasi Vakum dari Limbah Serasah Pinus",
+        "pub_year": "2021",
+        "citation": "Jurnal Selulosa 11 (02), 103-114, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11482052113204391575",
+      "cites_id": [
+        "11482052113204391575"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Washing and Chopping Pre-treatment Effect of Vetiver Roots on Vetiver Oil Yield and Distillation Time",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 891 (1), 012021, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13836736203316589658",
+      "cites_id": [
+        "13836736203316589658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond quality of laminated wood made from surian (Toona sinensis Roem) and sengon (Paraserianthes falcataria (L.) Nielsen).",
+        "pub_year": "2018",
+        "citation": "Journal of Biological Sciences 18 (1), 32-38, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3602203240875128192",
+      "cites_id": [
+        "3602203240875128192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Drying Efficiency of Betung Bamboo Strips (Dendrocalamus asper) Based on Different Solar Drying Oven Designs",
+        "pub_year": "2024",
+        "citation": "Journal of the Korean Wood Science and Technology 52 (1), 1-12, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7658522261832274829",
+      "cites_id": [
+        "7658522261832274829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modified Grain Orientation of Laminated Veneer Lumber Characteristics of Three Fast-Growing Tropical Wood Species.",
+        "pub_year": "2023",
+        "citation": "BioResources 18 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17162911510246729305",
+      "cites_id": [
+        "17162911510246729305"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis Behavior of Openings on Full-Size Cross-Laminated Timber (CLT) Frame Shear Walls Tested Monotonically",
+        "pub_year": "2023",
+        "citation": "Forests 14 (1), 97, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15192188962336902976",
+      "cites_id": [
+        "15192188962336902976"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of the adhesion performance of some fast-growing wood species based on their wettability",
+        "pub_year": "2021",
+        "citation": "Open Agriculture 6 (1), 392-399, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178628180416637756",
+      "cites_id": [
+        "2178628180416637756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of staining betung bamboo (Dendrocalamus asper) using natural and synthetic dyes with and without the addition of preservatives",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1309 (1), 012002, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Impregnation with Diammonium Phosphate and Sodium Silicate on Some Physical and Mechanical Properties of Modified Laminated Veneer Lumber Made of Jabon Wood.",
+        "pub_year": "2024",
+        "citation": "BioResources 19 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environment's Effect on Wood Characteristics of White Jabon Grown in West Java and Banten Area, Indonesia.",
+        "pub_year": "2024",
+        "citation": "BioResources 19 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efikasi Asap Cair Dari Limbah Pengolahan Industri Gondorukem Pada Kayu Karet Terhadap Rayap Kayu Kering (Cryptotermes cynocephalus Light.)",
+        "pub_year": "2023",
+        "citation": "Jurnal Penelitian Hasil Hutan 41 (1), 1-10, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Characteristic of Vascular Bundles and Morphology of Gigantochloa apus (JA and JH Schulltes) Kurz Culm",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Bond Quality of Laminated Wood Made from Surian (Toona sinensis Roem) and Sengon (Paraserianthes falcataria (L.) Nielsen)",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Litterfall dynamics in a permanent plot at Mount Papandayan, Indonesia.",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Some Importance Properties of Bamboo-Wood Strand Board",
+        "pub_year": "2010",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 8 (1), 77-82, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wood Drying Method by \u201cTeresan\u201d Process on Sengon Wood (Paraserianthes falcataria L. Nielsen)",
+        "pub_year": "2005",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 3 (2), 73-76, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KADAR AIR KESEIMBANGAN DAN POLA REGANGAN/TEGANGAN PADA BEBERAPA JENIS KAYU YANG DIKERINGKAN KE KADAR AIR TAHAP",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "laUA8AsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,677 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "Ef0osjIAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dian Hendrayanti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ef0osjIAAAAJ&citpid=2",
+  "affiliation": "Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "algae cyanobacteria freshwater ecology"
+  ],
+  "email_domain": "@ui.ac.id",
+  "citedby": 216,
+  "citedby5y": 95,
+  "hindex": 7,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2002": 1,
+    "2003": 2,
+    "2004": 4,
+    "2005": 5,
+    "2006": 2,
+    "2007": 9,
+    "2008": 7,
+    "2009": 8,
+    "2010": 6,
+    "2011": 7,
+    "2012": 8,
+    "2013": 8,
+    "2014": 8,
+    "2015": 4,
+    "2016": 9,
+    "2017": 13,
+    "2018": 15,
+    "2019": 19,
+    "2020": 21,
+    "2021": 13,
+    "2022": 16,
+    "2023": 17,
+    "2024": 8
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ey0bLZ0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nining Betawati Prihantini",
+      "affiliation": "Lecturer and Researcher, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IkuFb3EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Andi Salamah",
+      "affiliation": "Senior Lecturer at Dept. of Biology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "sa3clfYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dalia Sukmawati",
+      "affiliation": "Assoc. Prof. of Microbiology. Department of Biology, Universitas Negeri Jakarta"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kkYHkRkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dwi Purnomo",
+      "affiliation": "Department of Mechanical Engineering, Imperial College London"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "INnE42kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wisnu Jatmiko",
+      "affiliation": "Professor, Faculty Computer Science University of Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-tLkqC4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wellyzar Sjamsuridzal ",
+      "affiliation": "Doctor of Microbiology, Department of Biology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rNeA0yAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dwi Andreas Santosa",
+      "affiliation": "Bogor Agricultural University, Bogor, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "FGcpl6IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iman Rusmana",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DXpNwuoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Riani Widiarti, M.Si",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ncZSVvYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ariyanti Oetari",
+      "affiliation": "Universitas Indonesia"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversitas Cyanobacteria dari beberapa situ/danau di kawasan Jakarta-Depok-Bogor, Indonesia",
+        "pub_year": "2010",
+        "citation": "Makara Journal of Science 12 (1), 3, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 61,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10984979301306752062",
+      "cites_id": [
+        "10984979301306752062"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CLOSTERIUM MONILIFERUM\u2010EHRENBERGII (CHAROPHYCEAE, CHLOROPHYTA) SPECIES COMPLEX VIEWED FROM THE 1506 GROUP I INTRON AND \u2026",
+        "pub_year": "2003",
+        "citation": "Journal of Phycology 39 (5), 960-977, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11879428058287052932",
+      "cites_id": [
+        "11879428058287052932"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MONOPHYLY OF THE GENUS CLOSTERIUM AND THE ORDER DESMIDIALES (CHAROPHYCEAE, CHLOROPHYTA) INFERRED FROM NUCLEAR SMALL \u2026",
+        "pub_year": "2001",
+        "citation": "Journal of Phycology 37 (6), 1063-1072, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15212776207583795172",
+      "cites_id": [
+        "15212776207583795172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of phylloplane yeasts from paper mulberry (Broussonetia papyrifera (L.) L'H\u00e9r. ex Vent.) in Java, Indonesia.",
+        "pub_year": "2015",
+        "citation": "Malaysian Journal of Microbiology 11 (4), 324-340, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5071384261433065613",
+      "cites_id": [
+        "5071384261433065613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Algal growth rate modeling and prediction optimization using incorporation of MLP and CPSO algorithm",
+        "pub_year": "2015",
+        "citation": "2015 International Symposium on Micro-NanoMechatronics and Human Science \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:roLk4NBRz8UC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14337963359515479886",
+      "cites_id": [
+        "14337963359515479886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic algorithm optimization for extreme learning machine based microalgal growth forecasting of Chlamydomonas sp",
+        "pub_year": "2015",
+        "citation": "2015 International Conference on Advanced Computer Science and Information \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:Se3iqnhoufwC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17427412374841679424",
+      "cites_id": [
+        "17427412374841679424"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of N2-fixing cyanobacteria Nostoc sp. SO-A31 to hydroponically grown water spinach (Ipomoea aquatic L.)",
+        "pub_year": "2019",
+        "citation": "AGRIVITA Journal of Agricultural Science 41 (2), 325-334, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:UebtZRa9Y70C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15069309672141824497",
+      "cites_id": [
+        "15069309672141824497"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogeny of Indonesian nostoc (cyanobacteria) isolated from paddy fields as inferred from partial sequence of 16S rRNA gene",
+        "pub_year": "2012",
+        "citation": "Makara Journal of Science 16 (3), 203-208, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:qjMakFHDy7sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13986273468314748817",
+      "cites_id": [
+        "13986273468314748817"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular evidence of parallel origins of two different parthenosporic lineages directly from heterothallic lineages in the Closterium moniliferum\u2013ehrenbergii (Charophyceae \u2026",
+        "pub_year": "2004",
+        "citation": "Phycologia 43 (6), 727-736, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11962530389573799821",
+      "cites_id": [
+        "11962530389573799821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of N2-fixing cyanobacteria in organic rice field during the cycle of rice crops",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2002 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:ufrVoPGSRksC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2697124342351981035",
+      "cites_id": [
+        "2697124342351981035"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity of Cyanobacteria from several ponds/lakes of Jakarta-Depok-Bogor, Indonesia",
+        "pub_year": "2008",
+        "citation": "MAKARA JOURNAL OF SCIENCE 12 (1), 44-54, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5791448176990826745",
+      "cites_id": [
+        "5791448176990826745"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic population of N2-fixing cyanobacteria in an organic rice field",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:0EnyYjriUFMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8169565230254776647",
+      "cites_id": [
+        "8169565230254776647"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of various temperatures of heat shock method to the DNA concentration of filamentous strains Cyanobacteria",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:5nxA0vEk-isC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6545142439801665648",
+      "cites_id": [
+        "6545142439801665648"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution analysis on cyst abundance of HAB causing dinoflagellates at green mussel (Perna viridis) culture area in Kamal Muara, North Jakarta",
+        "pub_year": "2017",
+        "citation": "Proceeding\u2013ICM-MBT 14, 021, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9599613447144318798",
+      "cites_id": [
+        "9599613447144318798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cyanobacteria dan chlorophyta di situ Kenanga dan situ Agathis Universitas Indonesia, Depok",
+        "pub_year": "2005",
+        "citation": "Sains Indonesia, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1135994746482338378",
+      "cites_id": [
+        "1135994746482338378"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Next Generation Sequencing (NGS) for Cyanobacterial study in Agung and Sunter Barat Lakes, North Jakarta, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5274330151739546815",
+      "cites_id": [
+        "5274330151739546815"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of biological nitrogen fixation cyanobacteria to paddy plant cultivated under deep-water culture system",
+        "pub_year": "2020",
+        "citation": "Jurnal Biodjati 5 (2), 164-173, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5327437805631509296",
+      "cites_id": [
+        "5327437805631509296"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential toxic cyanobacteria in three lakes of Jakarta-Bogor area, Indonesia",
+        "pub_year": "2008",
+        "citation": "Mar. Res. Indonesia 33, 95-100, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8479587115649417229",
+      "cites_id": [
+        "8479587115649417229"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BRYOPHYTE DIVERSITY AND ATMOSPHERIC POLLUTION IN A RESIDENTIAL AREA AND AN INDUSTRIAL URBAN FOREST IN JAKARTA, INDONESIA",
+        "pub_year": "2023",
+        "citation": "BIOTROPIA 30 (3), 355-364, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FORKOMIKRO: Catalogue of Microorganisms",
+        "pub_year": "2023",
+        "citation": "Penerbit BRIN, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity, Roles, and Potency of Bacteria in Agricultural Land",
+        "pub_year": "2022",
+        "citation": "Jurnal Presipitasi: Media Komunikasi dan Pengembangan Teknik Lingkungan 19 \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formation of lateral roots and root hairs of Ciherang rice as a result of Nostoc colonization",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012036, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Karakter dan Sifat Virus\"",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Pengenalan Virus: Benda Mati Atau Makhluk Hidup?\"",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Pengendalian Virus\"",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of homogenization process to the hydrolysis technique on removing mucilaginous sheath of branched filamentous Cyanobacteria",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of nitrogen addition and homogenization in hydrolysis process on mucilaginous sheath removal of filamentous Cyanobacteria",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Different Response of Hydroponically Grown Vegetables to the Addition of Nostoc sp. GIA13a as an alternative nitrogen source",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 546 (7), 072005, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tahapan Berpikir Ilmiah",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peran Pohon Terhadap Kenyamanan Lingkungan",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proses Pembuatan Tempe Dari Kacang Kedelai Pada Skala Laboratorium",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH BIKARBONAT TERHADAP PERTUMBUHAN MIKROALGA NANNOCHLOROPSIS SP. SEBAGAI SUMBER BIOMASSA BIOFUEL",
+        "pub_year": "2018",
+        "citation": "Lembaran publikasi minyak dan gas bumi 52 (2), 95-103, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of N",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Nostoc strains CPG24 and GIA13a on germination of paddy seedling in various media",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vegetative Cell Division and Nuclear Translocation in Three Algae Species of Netrium (Zygnematales, Chlorophyta)",
+        "pub_year": "2006",
+        "citation": "HAYATI Journal of Biosciences 13 (1), 39-42, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sexual reproduction of a homothallic alga, Closterium wallichii",
+        "pub_year": "2002",
+        "citation": "Archiv f\u00fcr Hydrobiologie. Supplementband, Algological studies 142, 139-144, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Jurnal Presipitasi",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CATATAN PENELITIAN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Ef0osjIAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,1686 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "FACri30AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Taufik Taufikurahman",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FACri30AAAAJ&citpid=2",
+  "affiliation": "Associate Professor at School of Life Sciences and Technology, Institut Teknologi Bandung, Indonesia",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Life Sciences",
+    "Biology",
+    "Phytoremediation",
+    "Plant ecophysiology"
+  ],
+  "email_domain": "@itb.ac.id",
+  "homepage": "https://rh.sith.itb.ac.id/dr-taufikurahman/",
+  "citedby": 214,
+  "citedby5y": 168,
+  "hindex": 8,
+  "hindex5y": 7,
+  "i10index": 7,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2012": 3,
+    "2013": 0,
+    "2014": 2,
+    "2015": 4,
+    "2016": 8,
+    "2017": 7,
+    "2018": 16,
+    "2019": 13,
+    "2020": 16,
+    "2021": 24,
+    "2022": 42,
+    "2023": 46,
+    "2024": 22
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6IehtUsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Robert Manurung",
+      "affiliation": "Professor of Process Design for Bioconversion, Bandung Institute of Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VU9D2vUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ana Widiana",
+      "affiliation": "UIN Sunan Gunung Djati"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tUI9OKQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "andira rahmawati",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nLRgAN8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dea Prianka Ayu Ilhamsyah",
+      "affiliation": "University of Sydney"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BWGuzloAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Lida Amalia",
+      "affiliation": "Institut Pendidikan Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "l_8fyQYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rasoel  Hamidy",
+      "affiliation": "Universitas Riau"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Sk46ZXsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hani Susanti",
+      "affiliation": "Research Center for Biotechnology, Indonesian Institute of Sciences (Puslit Bioteknologi)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XViY51kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "AK Hasith priyashantha",
+      "affiliation": "Chiang Mai University, Thailand"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NlTK-G4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Allis Nurdini",
+      "affiliation": "Associate Professor; Housing and Settlement Research Group, SAPPD, Institut Teknologi \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8sUvPisAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yohana C Sulistyaningsih",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "CssB6yEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hamim",
+      "affiliation": "Bogor Agricultural University (IPB University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MvYFFTEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eko Agus Suyono",
+      "affiliation": "Algal Culture, Biotechnology & Engineering Expert of Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "45u8B40AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Novi Tri Astutiningsih",
+      "affiliation": "Sekolah Ilmu dan Teknologi Hayati (SITH) - Institut Teknologi Bandung (ITB)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xet2wFkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sri Amnah",
+      "affiliation": "Biology Education, Universitas Islam Riau"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tb4-rEsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Siti Jamilatun",
+      "affiliation": "Universitas Ahmad Dahlan"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "F1N3A8IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rochmadi",
+      "affiliation": "Departemen Teknik Kimia, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KhtD2iwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arief Budiman",
+      "affiliation": "Professor of Chemical Engineering, Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "b3Id1d4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budhijanto Budhijanto",
+      "affiliation": "Chemical Engineering, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1izJRNgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Lili Melani",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qUX36_0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hanny Shafira",
+      "affiliation": "Nano Center Indonesia Research Institute"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uqfQVucAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I Ketut Adnyana",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "anRDKoYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Swastika Praharyawan",
+      "affiliation": "Research Center for Applied Microbiology, National Research and Innovation Agency"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6sGVEu4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Laila Dina Amalia Purba",
+      "affiliation": "Universiti Teknologi Malaysia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kZa4SKYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tjandra Anggraeni",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "lePGZacAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Ogin Hasanuddin",
+      "affiliation": "School of Electrical Engineering and Informatics, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YCmh3esAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Fadhila Aziz",
+      "affiliation": "Universitas Palangka Raya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TpImGDAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mufti Petala Patria",
+      "affiliation": "Dept. of Biology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nCtCeM0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dwi Susilaningsih",
+      "affiliation": "Research Center for Biotechnology Indonesia Institute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "7CNWVcYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Isty Adhitya Purwasena",
+      "affiliation": "School of Life Science ITB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LSfV3wsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Devi Choesin",
+      "affiliation": "School of Life Sciences and Technology, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8lRphvkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Trimurti Hesti Wardini",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "E9gs1YcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "sulaiman gosalam",
+      "affiliation": "Hasanuddin University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OsV8ICcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "suhendra suhendra",
+      "affiliation": "Universitas Ahmad Dahlan (UAD)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "yqPJzw8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Elfahmi",
+      "affiliation": "Sekolah Farmasi, Institut Teknologi Bandung"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytoremediation of chromium (Cr) using Typha angustifolia L., Canna indica L. and Hydrocotyle umbellata L. in surface flow system of constructed wetland",
+        "pub_year": "2019",
+        "citation": "International Symposium on Bioremediation, Biomaterial, Revegetation, and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17229718907838826762",
+      "cites_id": [
+        "17229718907838826762"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penuntun Praktikum Ekologi Tumbuhan, Jurusan Biologi, FMIPA, ITB, Bandung",
+        "pub_year": "1993",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12081744477222786266",
+      "cites_id": [
+        "12081744477222786266"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytoremediation of chromium (Cr) using",
+        "pub_year": "2019",
+        "citation": "Typha angustifolia, 012020, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:PELIpwtuRlgC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9101654943890551204",
+      "cites_id": [
+        "9101654943890551204"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mangroves of Sri Lanka: Distribution, status and conservation requirements",
+        "pub_year": "2020",
+        "citation": "Tropical Plant Research, An International Journal by Society for Tropical \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:q3oQSFYPqjQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6418985823624505800",
+      "cites_id": [
+        "6418985823624505800"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary Design of Phycocyanin Production from Spirulina platensis Using Anaerobically Digested Dairy Manure Wastewater",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 520 (2020) 012007 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:geHnlv5EZngC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6045625745010375054",
+      "cites_id": [
+        "6045625745010375054"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur, Komunitas dan Produksi Serasah Mangrove di Dumai, Riau",
+        "pub_year": "2002",
+        "citation": "Berkala Ilmiah Biologi 2 (13), 755-768, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:Tiz5es2fbqcC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8296580740206206467",
+      "cites_id": [
+        "8296580740206206467"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of Gelam leaves as non-timber product of the trees for reforestation of the degraded peat land in Central Kalimantan--Indonesia",
+        "pub_year": "2015",
+        "citation": "Advances in Environmental Biology, 13-18, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144761199071847819",
+      "cites_id": [
+        "7144761199071847819"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Building a Prototype of an Eco-friendly House in the  Peri-Urban Area",
+        "pub_year": "2021",
+        "citation": "Journal of Integrated and Applied Engineering 1 (1 (2021)), 21-28, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12079919761402122264",
+      "cites_id": [
+        "12079919761402122264"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of solid residue Melaleuca cajuputi Powell leaves as cattle feed.",
+        "pub_year": "2014",
+        "citation": "Pakistan Journal of Nutrition 13 (10), 554-556, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15527919900675706603",
+      "cites_id": [
+        "15527919900675706603"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth, histochemical and physiological responses of non-edible oil producing plant (Reutealis trisperma) to gold mine tailings",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (4), 1294-1302, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13235969502138401792",
+      "cites_id": [
+        "13235969502138401792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Gelam Leaves (Melaleuca cajuputi Powell) as Cattle Feed",
+        "pub_year": "2014",
+        "citation": "Pakistan Journal of Nutrition 13 (6), 348, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6284224622285792884",
+      "cites_id": [
+        "6284224622285792884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using lichen as bioindicator for detecting level of environmental pollution",
+        "pub_year": "2010",
+        "citation": "Proceedings of the Third International Conference on Mathematics and Natural \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8069647532357588121",
+      "cites_id": [
+        "8069647532357588121"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengetahuan Lingkungan",
+        "pub_year": "2004",
+        "citation": "Penerbit ITB, Bandung, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15006926152432746872",
+      "cites_id": [
+        "15006926152432746872"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phycoremediation of anaerobic digested dairy manure wastewater using Chlorella vulgaris",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 299 (1), 012013, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:SeFeTyx0c_EC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=201564358915513695",
+      "cites_id": [
+        "201564358915513695"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Composition of Leaf Oil of Gelam (M. leucadendra (L.)L.) Growing in Various Peat Swamp Regions of Central Kalimantan Indonesia",
+        "pub_year": "2015",
+        "citation": "Advances in Natural and Applied Sciences 9 (5), 39-42, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=635660312946963748",
+      "cites_id": [
+        "635660312946963748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Comparison of Alkali and Biological Pretreatment Methods in Napier Grass (Pennisetum purpureum Scumach.) for Reducing Lignin Content in the Bioethanol Production Process",
+        "pub_year": "2020",
+        "citation": "3BIO: Journal of Biological Science, Technology and Management 2 (1), 31-43, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:tS2w5q8j5-wC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11891269574764877378",
+      "cites_id": [
+        "11891269574764877378"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Leather Tanning Wastewater on Paddy Fields, a case study in Garut District, West Java",
+        "pub_year": "2019",
+        "citation": "Jurnal Matematika dan Sains 23 (1), 27-32, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:rO6llkc54NcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17242131441365182071",
+      "cites_id": [
+        "17242131441365182071"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catalytic and Non\u2212Catalytic Pyrolysis of Spirulina Platensis Residue (SPR): Effects of Temperature and Catalyst Content on Bio-oil Yields and Its Composition",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings  (2020); https://doi.org/10.1063/5.0013164 2248 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6556298989498363168",
+      "cites_id": [
+        "6556298989498363168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of Bioethanol from Napier grass: Comparison in Pre-treatment and Fermentation Methods",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 520 (1), 012005, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:LPZeul_q3PIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9700237149929798081",
+      "cites_id": [
+        "9700237149929798081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Physiological Responses of Water Hyacinth (Eichhornia crassipes (Mart). Solms) and Water Lettuce (Pistia stratiotes L.) as Trivalent Chromium Bioaccumulator",
+        "pub_year": "2020",
+        "citation": "3BIO: Journal of Biological Science, Technology and Management 2 (1), 7-14, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4415084104223827045",
+      "cites_id": [
+        "4415084104223827045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytoremediation of chromium polluted water using water hyacith (Eichhornia crassipes (Mart.) olms), water lettuce (Pistia stratiotes L.), and water hyssop (Bacopa monnieri L \u2026",
+        "pub_year": "2017",
+        "citation": "The 7th Annual Basic Science International Conference 1 (Faculty of Science \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:qUcmZB5y_30C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12292479204878924487",
+      "cites_id": [
+        "12292479204878924487"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Catalase (CAT) and Ascorbate Peroxidase (APX) Genes Expression Level in Growth of Banana Plantlets (Musa acuminata) cv. Ambon Lumut Under Chromium Stress Condition.",
+        "pub_year": "2016",
+        "citation": "Journal of Plant Sciences 11, 69-74, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:dhFuZR0502QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8751200986336420450",
+      "cites_id": [
+        "8751200986336420450"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological aspects of Vaccinium varingiaefolium growing in a stressed volcanic environment",
+        "pub_year": "2001",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13806016212160841462",
+      "cites_id": [
+        "13806016212160841462"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrodinamic Analysis of Compost Soil Mixture and Implication on Growth and Potassium Uptake in Corns (zea mays l)",
+        "pub_year": "2021",
+        "citation": "International Journal of Sciences and Technology 1 (1), 35-47, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:olpn-zPbct0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4477426417606322598",
+      "cites_id": [
+        "4477426417606322598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Novi Tri Astutiningsih & Eko Agus Suyono. 2020. Cultivation of Chlorella vulgaris in Anaerobically Digested Dairy Manure Wastewater (ADDMW) for Protein and Chlorophyll Production",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (9), 2035-2042, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:eMMeJKvmdy0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13322465441618899592",
+      "cites_id": [
+        "13322465441618899592"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antidiabetes Activity of Herbal Product Containing Phyllanthus niruri and Zingiber americans",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (9), 2159-2168, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:eflP2zaiRacC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4688073927893547174",
+      "cites_id": [
+        "4688073927893547174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison Between Chlorella vulgaris and Chlorella pyrenoidosa in Biomass and Protein Content, Cultivated in Bioslurry and Grown Under Various LED Types",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:K3LRdlH-MEoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=663699355093746537",
+      "cites_id": [
+        "663699355093746537"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological aspects of vaccinium varingiaefolium growing in a stressed volcanic environment",
+        "pub_year": "2001",
+        "citation": "Botany Conference, 34-35, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16316838085749928233",
+      "cites_id": [
+        "16316838085749928233"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological aspects of vaccinium varingiaefolium growing in a stressed volcanic environment Presented in Botany Conference 2001 Bandung",
+        "citation": "ITB 34, 35, 0"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1373494013292648860",
+      "cites_id": [
+        "1373494013292648860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bibliometric insights into microalgae cultivation in wastewater: Trends and future prospects for biolipid production and environmental sustainability",
+        "pub_year": "2024",
+        "citation": "Journal of Environmental Management 352 (20104), 1-12, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:eq2jaN3J8jMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=461547949501964014",
+      "cites_id": [
+        "461547949501964014"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining Level of Watering and Soil pH to obtain high concentration of Essential Oil in Vetiver (Chrysopogon zizanioides L. Nash)",
+        "pub_year": "2023",
+        "citation": "Journal of Physics: Conference Series 2421 (1), 012023, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:AXPGKjj_ei8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12428826582027820904",
+      "cites_id": [
+        "12428826582027820904"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytotoxicity of chromium-containing wastewater on germination and growth of Oryza sativa L",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1034 (1), 012055, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:J-pR_7NvFogC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11996223673234132",
+      "cites_id": [
+        "11996223673234132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biocomposites from anaerobically digested Eichhornia crassipes ((Mart.) Solms), as an alternative solution for the post-phytoremediation process",
+        "pub_year": "2021",
+        "citation": "Current Research on Biosciences and Biotechnology 2 (2), 139-144, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:BrmTIyaxlBUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4773473480302619637",
+      "cites_id": [
+        "4773473480302619637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potency Of Microalgae (Chlorella Vulgaris) In Reducing The Level Of Ammonium And Orthophosphate In Bioslurry Media",
+        "pub_year": "2020",
+        "citation": "Kocenin Serial Konferensi, 3.13. 1-3.13. 6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15636760768446676494",
+      "cites_id": [
+        "15636760768446676494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation of Chlorella vulgaris in Anaerobically Digested Dairy Manure Wastewater (ADDMW) for Protein and Chlorophyll Production",
+        "pub_year": "2020",
+        "citation": "Sains Malaysiana 49 (19), 2035-2042, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:D_sINldO8mEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5863669698857950510",
+      "cites_id": [
+        "5863669698857950510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological strategies of Eichhornia crassipess (Mart.) Solms to tolerate Cr6+ accumulation, compared to a sensitive species Pistia stratiotes L.",
+        "pub_year": "2020",
+        "citation": "Jurnal Ilmu Lingkungan 18 (1 (2020)), 82-88, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:B3FOqHPlNUQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4589999503431888707",
+      "cites_id": [
+        "4589999503431888707"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH CEKAMAN LOGAM BERAT KADMIUM (CD) DENGAN PENAMBAHAN NITROGEN LOGAM BERAT TERHADAP LAJU RELATIF PERTUMBUHAN, INDEKS TOLERANSI, LUAS DAUN, KADAR KLOROFIL, PROLIN, DAN \u2026",
+        "pub_year": "2020",
+        "citation": "Prosiding Seminar Nasional Pakar, 1.7. 1-1.7. 1, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:tOudhMTPpwUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6493505724873668550",
+      "cites_id": [
+        "6493505724873668550"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of Napier Grass Mixed with Soybean Curd Residue Producing Bioethanol through Simultaneous Saccharification and Fermentation in Solid State Culture",
+        "pub_year": "2020",
+        "citation": "3BIO: Journal of Biological Science, Technology and Management 2 (1), 20-30, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:vRqMK49ujn8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9772015646420089555",
+      "cites_id": [
+        "9772015646420089555"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AN ENVIRONMENTAL CLEAN-UP: A SMALL-SCALE MODEL AQUAPONIC FOR THE POLLUTED CITARUM RIVER IN CIANJUR, INDONESIA",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:XiSMed-E-HIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11576873345583855062",
+      "cites_id": [
+        "11576873345583855062"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Some Strategic Environmental Issues Towards Sustainable City Development, A Case Study of Sukabumi City",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:p2g8aNsByqUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2364493918098127649",
+      "cites_id": [
+        "2364493918098127649"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Some Strategic Environmental Issues Towards Sustainable City Development, A Case Study of Sukabumi City.",
+        "pub_year": "2019",
+        "citation": "The 3rd Endinamosis, International Conference on Rural Development and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:EUQCXRtRnyEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2364493918098127649",
+      "cites_id": [
+        "2364493918098127649"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass and Phycocyanin Production from Spirulina Platensis Cultivated in Anaerobically Digested Dairy Manure Waste (ADDMW) with Natrium Bicarbonate Addition.",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:pyW8ca7W8N0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2443460611691912400",
+      "cites_id": [
+        "2443460611691912400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of paraquat dichloride and carbosulfan on soil conditions and population dynamic of soil microbes in a cornfield: a case study in Sumedang, West Java",
+        "pub_year": "2024",
+        "citation": "Current Research on Biosciences and Biotechnology 5 (2), 12-16, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:VL0QpB8kHFEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Response and Color Brightness of Betta Fish (Betta splendens (Regan, 1910)) Supplemented by Spirulina Powder from Algae Arthrospira maxima (Setchell and N. L. Gardner 1917))",
+        "pub_year": "2024",
+        "citation": "Journal of Agricultural Science and Technology 26 (1), 1-10, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INCREASING THE EFFICIENCY OF WATER USE ON AGRICULTURAL LAND THROUGH DEVELOPING RAINWATER HARVESTING SYSTEMS.",
+        "pub_year": "2023",
+        "citation": "PERINTIS eJournal 13 (1), 98-106, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effective removal of chromium from contaminated water using horizontal  subsurface flow constructed wetland with Napier grass (Pennisetum  purpureum)",
+        "pub_year": "2023",
+        "citation": "Current Research on Bioscience and Biotechnology 4 (2), 275-282, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementation of Interface & Data Acquisition System for Biogas IoT Monitoring System",
+        "pub_year": "2022",
+        "citation": "2022 8th International Conference on Wireless and Telematics (ICWT), 1-6, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:_B80troHkn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decreased in Paddy Yield (Oryza sativa L.) as a Response to Plant Bioaccumulation of Chromium",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1034 (1), 012051, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:wbdj-CoPYUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MICROALGAE CULTIVATION USING A SMALL-SCALE VERTICAL TUBULAR REACTOR AND OPEN RACEWAY POND IN MONOCULTURE AND MIXED-CULTURE",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial and Temporal Pattern of Internet Engagement of Campus Community in Relation to Internet Reliability at ITB Jatinangor Campus",
+        "pub_year": "2021",
+        "citation": "The 8th Biannual International Conference (ARTEPOLIS 2020), 55-65, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:HE397vMXCloC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prototipe Rumah Perdesaan Ramah Lingkungan dan Tahan Gempa",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:Y5dfb0dijaUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth and Physiological Response of Sweet Potato Plant (Ipomea batatas (L.) Lam.) Var. Cilembu to Drought Stress",
+        "pub_year": "2021",
+        "citation": "Malaysian Journal of Biochemistry and Molecular Biology Special Issue 1, 1 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROGRAM PERCONTOHAN PEMBUATAN SEPTIC TANK UMUM MENUJU LINGKUNGAN DENGAN OPEN DEFECATION FREE, STUDI KASUS DI KABUPATEN CIANJUR, JAWA BARAT",
+        "pub_year": "2020",
+        "citation": "Kocenin Serial Konferensi, 3.8. 1-3.8. 6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of Bioethanol and Crude Cellulase Enyzme Extract from Napier Grass (Pennisetum purpureum S.) through Simultaneous Saccharification and Fermentation",
+        "pub_year": "2020",
+        "citation": "3BIO: Journal of Biological Science, Technology and Management 2 (2), 18-29, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of Bioethanol from Napier grass: Comparison in Pre-treatment and Fermentation Methods",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 520 (2020) 012005 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of Paraquat Dichloride application on diversity and abundance of soil arthropods in the corn field",
+        "pub_year": "2020",
+        "citation": "3BIO: Journal of Biological Science, Technology and Management 2 (1), 1-6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:08ZZubdj9fEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation of Chlorella vulgaris using Anaerobically Digested Dairy Manure Wastewater (ADDMW) for Protein and chlorophyll Production",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT OF CHROMIUM PHYTOEXTRACTION TO ANTICANCER COMPOUND OF Catharanthus roseus (L.) G. Don",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENERAPAN SISTEM HIDROPONIK SEBAGAI SOLUSI BUDIDAYA TANAMAN PANGAN SAAT MUSIM KEMARAU DI DESA HAURNGOMBONG, SUMEDANG, JAWA BARAT.",
+        "pub_year": "2019",
+        "citation": "Seminar Nasional Pengembangan Sumberdaya Pedesaan dan Kearifan Lokal \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth and Production of Paddy (Oryza sativa L.) var. Sarinah after Treated by Gradual Increase of Chromium Concentration in the Soil.",
+        "pub_year": "2019",
+        "citation": "The 3rd ICOLIB -2019. UNIVERSITAS JEMBER. 25-26 November 2019, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytotoxicity of chromium-containing wastewater on germination, growth, and seed production of Oryza sativa L.",
+        "pub_year": "2019",
+        "citation": "2nd Int'l Conf. on Multidisciplinary Approaches for Sustainable Rural \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE EFFECT OF CHROMIUM PHYTOEXTRACTION ON ANTICANCER COMPOUND OF Catharanthus roseus (L.) G. Don",
+        "pub_year": "2019",
+        "citation": "International Conference on Universal Wellbeing. Kuala Lumpur, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An environmental clean-up: a small-scale model aquaponic for the polluted citarum river in cianjur, Indonesia.",
+        "pub_year": "2019",
+        "citation": "International Conference on Universal Wellbeing. Kuala Lumpur, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teaching General Environmental Science in Asean Universities: The Importance of Topic Relevance And Local Context.",
+        "pub_year": "2019",
+        "citation": "International Conference on Universal Wellbeing. Kuala Lumpur, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Production of Protein and Chlorophyll by Chlorella vulgaris Using Lab-scale Photobioreactor with ADDMW.",
+        "pub_year": "2019",
+        "citation": "International Conference on Universal Wellbeing. Kuala Lumpur, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IMPROVEMENT THE QUALITY OF JAMU PRODUCT AS ANTIDIABETES, IN CONTRIBUTION FOR HEALTH.",
+        "pub_year": "2019",
+        "citation": "International Conference on Universal Wellbeing. Kuala Lumpur, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assistance Program for Farmers in Processing Cow Manure into Biogas, a Case Study in Haurngombong Village, Sumedang Regency",
+        "pub_year": "2019",
+        "citation": "The 3rd Endinamosis, International Conference on Rural Development and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aquaponic as a cleaning program of polluted sewage ditch in Cianjur village.",
+        "pub_year": "2019",
+        "citation": "The 3rd Endinamosis, International Conference on Rural Development and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:abG-DnoFyZgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environmental Education Program to Increase Community Awareness on River Conditions in Upstream area of Citarum River Basin (SubDAS Citarik), Sumedang Regency.",
+        "pub_year": "2019",
+        "citation": "The 3rd Endinamosis, International Conference on Rural Development and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Production of Protein and Chlorophyll by Chlorella vulgaris Using Lab-scale Photobioreactor with Anaerobically Digested Dairy Manure Wastewater.",
+        "pub_year": "2019",
+        "citation": "International Seminar Bridging Life Sciences to Bioindustry, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Physiological Respons of Water Hyacinth (Eichornia crassipes (Mart.) Solms) and Water Lettuce (Pistia stratiotes L.) as Trivalent Chromium Bioaccumulator.",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of the Herbicide Paraquat Diclorida on the Weed Focus On Maize Cultivation in the Rainy Season.",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass Production of Chlorella Vulgaris and Chlorella Pyrenoidosa Cultivated in Bioslurry and Treated Using Different Led Types",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:D03iK_w7-QYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein and Phycocyanin Production from Sprirulina (Arthospira platensis) Using Anaerobically Digested Dairy Manure Waste Water (ADDMW) as a Substrate with Addition of Salinity \u2026",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of Bioethanol and Crude Cellulase Enyme Extract from Napier Grass (Pennisetum Purpureum S.) Through Simultaneous Saccharification and Fermentation by Neurospora \u2026",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of Alkali and Biological Preatreatment Methods for Elephant Grass (Pennisetum Purpureum Scumach.) To Reduce Lignin Content in The Bioethanol Production Process.",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of Napier Grass (Pennisetum purpureum S.) Mixed with Soybean Curd Residue for Producing Bioethanol Through Simultaneous Saccharification and Fermentation in Solid \u2026",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecophysiological responses of sweet potato plant (Ipomoea batatas (L.) Lam) grown under drought stress",
+        "pub_year": "2019",
+        "citation": "Joint Symposium Plant Sciences and Product, ITB, Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioethanol from Napier grass (Pennisetum purpurem Scumach) : Comparison of Pretreatment and Fermentation Method.",
+        "pub_year": "2019",
+        "citation": "International Conference On Renewable Energy and Sustainable Built \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary Design of Phycocyanin Production from Spirulina platensis Using Anaerobically Digested Dairy Manure Wastewater: From Lab-scale to Industrial-scale.",
+        "pub_year": "2019",
+        "citation": "International Conference On Renewable Energy and Sustainable Built \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Manajemen Budidaya Dan Analisis Usaha Buah Naga  (Hylocereus Spp.) Yang Berkelanjutan",
+        "pub_year": "2018",
+        "citation": "Seminar Nasional Biodiversitas, Masyarakat Biodiversitas Indonesia \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Short term growth responses of Manihot esculenta L. Crantz and Ipomoea batatas (L.) Lam. to elevated CO2",
+        "pub_year": "2017",
+        "citation": "Journal of Advanced Agricultural Technologies 4 (JOAAT), 245--248, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecophysiological Responses of Cassava Plants (Manihot esculenta L. Crantz) Grown Under Saline Conditions to Elevated CO2 levels",
+        "pub_year": "2017",
+        "citation": "International Conference on Cassava (Sustainable Management of Renewable \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecophysiological responses of sweet potato plant (Ipomoea batatas (L.) Lam) to drought stress",
+        "pub_year": "2017",
+        "citation": "The 7th Annual Basic Science International Conference 1 (Faculty of Science \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Accompaniment Program for Small Enterprises (SME) Producing Confections Made from Cilembu Sweet Potato in Sumedang District, West Java Province",
+        "pub_year": "2015",
+        "citation": "1st International Conference on Rural Development and Community Empowerment \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Melaleuca",
+        "pub_year": "2014",
+        "citation": "Pakistan Journal of Nutrition 13 (10), 554-556, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Forschen\u2013vermessen\u2013streiten, Franz Wilhelm Junghuhn (1809-1864), 2010",
+        "pub_year": "2013",
+        "citation": "Archipel 86 (1), 274-277, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek penanaman ganda tanaman tomat (Lycopersicon esculentum Mili) dan paria (Momordica charantia L.) terhadap pertumbuhan dan hasil panennya.",
+        "pub_year": "2005",
+        "citation": "Ekologi & Biodiversitas Tropika. 4 (1), 8-15, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Silviani, L., Taufikurahman., Sjarmidi, A. Evaluasi pengelolaan pemanfaatan kawasan Taman Nasional Gunung Gede Pangrango untuk pengembangan ekowisata",
+        "pub_year": "2003",
+        "citation": "Ekologi & Biodiversitas Tropika. 2 (1), 27-32, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:bnK-pcrLprsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi Bakteri Dari Ekosistem Mangrove yang Mampu Mendegradasi Residu MInyak Bumi",
+        "pub_year": "2000",
+        "citation": "Prosiding Konperensi Nasional II Pengelolaan Sumberdaya Pesisir dan Lautan \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi bakteri dari ekosistem mangrove yang mampu mendegradasi residu minyak bumi",
+        "pub_year": "2000",
+        "citation": "Prosiding Konperensi Nasional II Pengelolaan Sumberdaya Pesisir dan Lautan \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prosiding Seminar Tantangan Dan Prospek Hayati Dalam Meningkatkan Ketahanan Ekonomi Nasional, 30 Juni & 1 Juli 1998",
+        "pub_year": "1998",
+        "citation": "Diterbitkan atas kerjasama LP-ITB, LPM-ITB,[dan] PPAU Ilmu Hayati LP-ITB, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Responses of Saltmarsh and Inland Clones of Trifolium Repens L. to Salinity: Ecophysiological Studies",
+        "pub_year": "1993",
+        "citation": "University College of Swansea, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein and Biomass Analysis from Monoculture and Mixed Culture of Spirulina sp. and Chlorella sp. Using Anaerobically Digested Dairy Manure Wastewater (ADDMW) in Open Raceway Pond",
+        "citation": "PROCEEDING OF, 94, 0"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:LjlpjdlvIbIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass and Protein Analysis from Chlorella sp. and Nannochloropsis sp. on Single and Mixed Culture with Anaerobically Digested Dairy Manure Wastewater (ADDMW) Using Open \u2026",
+        "citation": "PROCEEDING OF, 84, 0"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:WqliGbK-hY8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomonitoring of Air Quality on Three Types of Roads (Local, Collector, and Arterial) in the City of Bandung: Total Cu in Lichen as a Bioindicator",
+        "citation": "PROCEEDING OF, 126, 0"
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:5awf1xo2G04C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MALAYSIAN JOURNAL OF BIOCHEMISTRY & MOLECULAR BIOLOGY",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing Photoperiodism, Growth Media Dilution, and Frequency of Inoculum Addition in Microalgae (Chlorella vulgaris) Culture Using Bi-oslurry (ADDMW) as Growth Media",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytoremediation of Chromium Wastewater Using Two Aquatic Plants: Vallisneria Spiralis and Cabomba Caroliniana",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of Napier Grass Mixed with Soybean Curd Residue Producing Bioethanol through Simultaneous Saccharification and Fermentation in Solid State Culture",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "FACri30AAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

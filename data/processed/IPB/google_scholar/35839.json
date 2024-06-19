@@ -1,0 +1,4613 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "NkxEGMAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Bambang Purwantara",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=NkxEGMAAAAAJ&citpid=6",
+  "affiliation": "Bogor Agricultural University - FKH IPB - Fakultas Kedokteran Hewan - Institut Pertanian Bogor - IPB",
+  "organization": 13375182596662322286,
+  "interests": [
+    "reproduction and obstetrics",
+    "biology of reproduction",
+    "reproductive biotechnology",
+    "reproductive genomic and proteomic"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "homepage": "http://www.ipb.ac.id/",
+  "citedby": 2286,
+  "citedby5y": 1255,
+  "hindex": 23,
+  "hindex5y": 16,
+  "i10index": 57,
+  "i10index5y": 29,
+  "cites_per_year": {
+    "1994": 9,
+    "1995": 11,
+    "1996": 9,
+    "1997": 20,
+    "1998": 21,
+    "1999": 14,
+    "2000": 17,
+    "2001": 10,
+    "2002": 18,
+    "2003": 17,
+    "2004": 12,
+    "2005": 26,
+    "2006": 23,
+    "2007": 30,
+    "2008": 37,
+    "2009": 31,
+    "2010": 36,
+    "2011": 46,
+    "2012": 35,
+    "2013": 74,
+    "2014": 70,
+    "2015": 83,
+    "2016": 100,
+    "2017": 121,
+    "2018": 121,
+    "2019": 130,
+    "2020": 222,
+    "2021": 240,
+    "2022": 246,
+    "2023": 300,
+    "2024": 109
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gh8CNy0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iis Arifiantini",
+      "affiliation": "Faculty of Veterinary medicine, IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "QTwNDfMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Prof Dr Drh Iman Supriatna",
+      "affiliation": "Divisi Reproduksi dan Kebidanan; Departemen Klinik, Reproduksi dan Patologi, Fakultas \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "L4VBt90AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Erdogan Memili",
+      "affiliation": "Professor and Executive Associate Director of Cooperative Agricultural Research Center \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9GfS7K0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mette Schmidt",
+      "affiliation": "lektor i Reproduktion . K\u00f8benhavns Universitet"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VosI3vsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mokhamad Fakhrul Ulum",
+      "affiliation": "School of Veterinary Medicine and Biomedical Sciences, IPB University (Bogor Agricultural \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cn72tVcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dondin Sajuthi",
+      "affiliation": "Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OayA6ZwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kusdiantoro Mohamad",
+      "affiliation": "IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mMvOCKcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Heriberto Rodriguez-Martinez",
+      "affiliation": "professor  i reproduktionsbiologi, Link\u00f6pings universitet"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Nkox0UMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "G\u00f6ran Andersson",
+      "affiliation": "Professor, Swedish University of Agricultural Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OeuF9igAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Rizal",
+      "affiliation": "Professor of Animal Reproduction Science, Lambung Mangkurat University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Mxke6QkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Gholib Gholib",
+      "affiliation": "Dosen of Faculty of Veterinary Medicine, Universitas Syiah Kuala"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "eG-CUGAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ristika Handarini",
+      "affiliation": "Universitas Djuanda"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Iwnrb80AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wilmientje Marlene Nalley",
+      "affiliation": "Faculty of Animal Science, Nusa Cendana University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XFATvjsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Remmy J. Assey",
+      "affiliation": "Sokoine University of Agriculture"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-DfEThUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Prof. Dr. Made Astawan",
+      "affiliation": "Bogor Agricultural University, Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kH2fTAEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sofia Mikko",
+      "affiliation": "Associate Professor, Swedish University of Agricultural Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kVHPXY8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Fransiska Rungkat Zakaria",
+      "affiliation": "Professor of Food Science, ITP-Fateta, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "c55IAbkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hery Winarsi",
+      "affiliation": "University Jenderal Soedirman"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "pIjONFcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Amrozi Amrozi",
+      "affiliation": "Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uwuYWHoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "R Taufiq Purna Nugraha",
+      "affiliation": "National Research and Innovation Agency"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kaBKig4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Antje Engelhardt",
+      "affiliation": "Universit\u00e4t Leipzig, Max Planck Institute for Evolutionary Anthropology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bGwHNj4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr Drh Ligaya ITA Tumbelaka, SpMP, MSc",
+      "affiliation": "Department of Clinic, Reproduction, and Pathology; Faculty of Veterinary Medicine; Bogor \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "E7vcngsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mustafa Hitit",
+      "affiliation": "Kastamonu University, Research Assistant"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Lx5acxMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Gono Semiadi",
+      "affiliation": "(1) National Research and Innovation Agency - BRIN (2) Malahayati University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gYvxLu8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yuhara Sukra",
+      "affiliation": "Professor, Gunadarma University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qMxp3noAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "mohamad agus setiadi",
+      "affiliation": "Professor in Reproduction and Obstetrics, Biotechnology, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3B0BS5MAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammet Rasit Ugur",
+      "affiliation": "IVF Michigan Fertility Center"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4uRcsN0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ni Wayan Kurniani Karja",
+      "affiliation": "lecturer at IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "n82y-1cAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Adi Winarto .",
+      "affiliation": "Bogor agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OtBWimwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Gunawan",
+      "affiliation": "Pusat Riset Zoologi Terapan, Badan Riset Dan Inovasi Nasional (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "huft4EQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Pudji Astuti",
+      "affiliation": "Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_TvIWqUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hera Maheshwari",
+      "affiliation": "FKH IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tFrO550AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muslim Akmal",
+      "affiliation": "Laboratory of Histology of Universitas Syiah Kuala"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "u9koiUsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wike Andre Septian",
+      "affiliation": "Lecture Animal Production in Faculty of Animal Science, Universitas Brawijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "WSzRqnQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Santoso drh",
+      "affiliation": "Bada\u0144 Riset da\u0144 Inovasi Nasional"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aee8TkkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tony Weingrill",
+      "affiliation": "Anthropological Institute and Musem, University of Zurich"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YWT2ZGwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Carel P. van Schaik",
+      "affiliation": "Professor Biological Anthropology emeritus, University of Zurich"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8zBZLyYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yudi Judi",
+      "affiliation": "Divisi Reproduksi & Kebidanan Fakultas Kedokteran Hewan Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "M7TnMqwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hadi Sukadi Alikodra",
+      "affiliation": "Professor of Wildlife Management and Nature Conservation"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KLsSb2gAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "NURCHOLIDAH SOLIHATI",
+      "affiliation": "Universitas Padjadjaran Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "G-wgx3sAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Achmad Farajallah",
+      "affiliation": "Department of Biology, Bogor Agricultural University Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IHqS4VYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ahmad Furqon",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TY2XXHUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Irida Novianti",
+      "affiliation": "Brawijaya University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5fmOfSgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "herdis suharman",
+      "affiliation": "Professor of Reproduction Biology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VDJU_mEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Chalid Talib",
+      "affiliation": "Dr in animal genetic, BRIN-Research Center for Animal Husbundry"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "e9vkboIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "muhammad zairin junior",
+      "affiliation": "Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "qmlIn_QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yohan Rusiyantono",
+      "affiliation": "Universitas Tadulako"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "p8rytVUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Enny Setiatin",
+      "affiliation": "Department of Animal Sciences, Diponegoro University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xyfMgL0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Srihadi Agungpriyono",
+      "affiliation": "School of Veterinary Medicine and Biomedical Sciences Bogor Agricultural University (IPB)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "QqKUUgkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "VM Ani Nurgiartiningsih",
+      "affiliation": "Faculty of Animal Husbandry, Universitas Brawijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3SwHjIcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Triva Murtina Lubis",
+      "affiliation": "Veterinary Medicine Faculty, Universitas Syiah Kuala"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kea2ypAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Drh. Mulyadi Adam, M.Sc",
+      "affiliation": "Syiah Kuala University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Lc2ETpgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Achmad Selamet Aku",
+      "affiliation": "Lecturer, Faculty of Animal Science, Halu Oleo University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "H3w3LcIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Takdir Saili",
+      "affiliation": "Universitas Halu Oleo"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JlvqqbPr1zAC",
+      "source": "CO_AUTHORS_LIST",
+      "name": "M. Fahrudin",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ByhrQ5YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Danang Eko Yulianto",
+      "affiliation": "Lecturer of Animal Production, Universitas Gadjah Mada"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "sZUJD0YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Rizal Qosim",
+      "affiliation": "Dosen Ilmu Politik HTN Fak. Syariah dan Hukum UIN Suka Jogjakarta"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zO8AXyAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Rika Raffiudin",
+      "affiliation": "Department of Biology, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ukdzSPsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "SURIA TARIGAN",
+      "affiliation": "Proffesor at IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "a7LyDA8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Prof Rudolf Rudy C Tarumingkeng",
+      "affiliation": "Universitas Kristen Krida Wacana dan Institut Pertanian Bogor (IPB)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gCWbiaIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Damiana Rita Ekastuti",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "lyiWp64AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mustafa Sabri",
+      "affiliation": "Universitas Syiah Kuala"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KbUh7Y8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Al Azhar",
+      "affiliation": "Veterinary Faculty, Syiah Kuala University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-BR4t50AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rahmaddiansyah .",
+      "affiliation": "Universitas Syiah Kuala"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gOLLzJkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Farida Fathul",
+      "affiliation": "Universitas Lampung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "co_jff0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Hambal",
+      "affiliation": "Syiah Kuala University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "0jXRmVkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Joko Pamungkas",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "V752W9IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "G\u00f6ran Andersson",
+      "affiliation": "Professor Emeritus, ETH Z\u00fcrich"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TAvQM6wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "widjiati (ORCID ID: 0000-0002-8376-1176)",
+      "affiliation": "Lecturer-Researcher@Fac.of Vet. Medicine Universitas Airlangga"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "utb9pTEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "SRI WAHYUNI, SKM, M.KES",
+      "affiliation": "Universitas Ngudi Waluyo"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Banteng and Bali cattle in Indonesia: status and forecasts",
+        "pub_year": "2012",
+        "citation": "Reproduction in domestic animals 47, 2-6, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:qjMakFHDy7sC",
+      "num_citations": 208,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11505203007948540961",
+      "cites_id": [
+        "11505203007948540961"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Advances in cryopreservation of bull sperm",
+        "pub_year": "2019",
+        "citation": "Frontiers in veterinary science 6, 268, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:rmuvC79q63oC",
+      "num_citations": 204,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9136855015340418635,5684315762370299784",
+      "cites_id": [
+        "9136855015340418635",
+        "5684315762370299784"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oocyte morphology in dominant and subordinate follicles",
+        "pub_year": "1994",
+        "citation": "Molecular reproduction and development 37 (3), 335-344, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 198,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=294764562145909686",
+      "cites_id": [
+        "294764562145909686"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the origin of Indonesian cattle",
+        "pub_year": "2009",
+        "citation": "PLoS One 4 (5), e5490, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 107,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7573220363007374989",
+      "cites_id": [
+        "7573220363007374989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Corpus luteum size and plasma progesterone levels in cattle after cloprostenol-induced luteolysis",
+        "pub_year": "1993",
+        "citation": "Theriogenology 39 (6), 1321-1330, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14872633730200786357",
+      "cites_id": [
+        "14872633730200786357"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya tahan spermatozoa terhadap proses pembekuan pada berbagai jenis sapi pejantan unggul",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ClCfbGk0d_YC",
+      "num_citations": 75,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8880119730623496556",
+      "cites_id": [
+        "8880119730623496556"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Motility and viability of friesian holstein spermatozoa in three different extender stored at 5oC",
+        "pub_year": "2010",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 35 (4), 222-226, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 60,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9389436237179171970",
+      "cites_id": [
+        "9389436237179171970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The origin of Indonesian cattle and conservation genetics of the Bali cattle breed",
+        "pub_year": "2012",
+        "citation": "Reproduction in domestic animals 47, 18-20, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 50,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11543667974438620932",
+      "cites_id": [
+        "11543667974438620932"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of water buffalo in world agriculture: challenges and opportunities",
+        "pub_year": "2019",
+        "citation": "Applied Animal Science 35 (2), 255-268, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:5qfkUJPXOUwC",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2389624185900877472",
+      "cites_id": [
+        "2389624185900877472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kriopreservasi semen domba garut dalam pengencer Tris dengan konsentrasi laktosa yang berbeda",
+        "pub_year": "2003",
+        "citation": "Media Kedokteran Hewan 19 (2), 79-83, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13392443283032439326",
+      "cites_id": [
+        "13392443283032439326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm morphological assessments of Friesian Holstein bull semen collected from three artificial insemination centers in Indonesia",
+        "pub_year": "2010",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 35 (2), 90-94, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7917623961235867080",
+      "cites_id": [
+        "7917623961235867080"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Individual variation in fresh and frozen semen of Bali bulls (Bos sondaicus)",
+        "pub_year": "2020",
+        "citation": "Veterinary World 13 (5), 840, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:yFnVuubrUp4C",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8435646435938423555",
+      "cites_id": [
+        "8435646435938423555"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Validation of a field-friendly extraction and storage method to monitor fecal steroid metabolites in wild orangutans",
+        "pub_year": "2017",
+        "citation": "Primates 58, 285-294, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4470918308853792403",
+      "cites_id": [
+        "4470918308853792403"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correction: On the Origin of Indonesian Cattle",
+        "pub_year": "2009",
+        "citation": "PLoS One 4 (5), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:XUvXOeBm_78C",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12636866702202423350",
+      "cites_id": [
+        "12636866702202423350"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh frekuensi ejakulasi terhadap karakteristik semen segar dan kemampuan libido kambing Saanen",
+        "pub_year": "2003",
+        "citation": "Jurnal Sain Veteriner 21 (2), 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1400452394970064377",
+      "cites_id": [
+        "1400452394970064377"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of fecal preservation and extraction methods for steroid hormone metabolite analysis in wild crested macaques",
+        "pub_year": "2018",
+        "citation": "Primates 59, 281-292, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:WZBGuue-350C",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2501439422779906682",
+      "cites_id": [
+        "2501439422779906682"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons hormonal imunitas wanita premenopause yang diintervensi minuman fungsional berbasis susu skim yang disulementasi dengan 100 mg Isoflavon kedelai dan 8 mg Zn-sulfat \u2026",
+        "pub_year": "2004",
+        "citation": "IPB (Bogor Agricultural University), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18291172983310462242",
+      "cites_id": [
+        "18291172983310462242"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas semen beku domba garut dalam berbagai konsentrasi gliserol",
+        "pub_year": "2003",
+        "citation": "JITV 7 (3), 194-199, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7280541162074923537",
+      "cites_id": [
+        "7280541162074923537"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Follicular dynamics prior to and during superovulation in heifers",
+        "pub_year": "1993",
+        "citation": "Theriogenology 40 (5), 913-921, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5858167285590154700",
+      "cites_id": [
+        "5858167285590154700"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The validation of a commercial enzyme-linked immunosorbent assay and the effect of freeze-thaw cycles of serum on the stability of cortisol and testosterone concentrations in \u2026",
+        "pub_year": "2019",
+        "citation": "F1000Research 8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:_axFR9aDTf0C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15971065041717989609",
+      "cites_id": [
+        "15971065041717989609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEMBERIAN TEPUNG KEDELAI KAYA ISOFLAVON TERHADAP KADAR MALONALDEHID (MDA), AKTIVITAS SUPEROKSIDA DISMUTASE (SOD) TESTIS DAN PROFIL Cu, Zn-SOD TUBULI SEMINIFERI TESTIS \u2026",
+        "pub_year": "2009",
+        "citation": "Jurnal Teknologi dan Industri Pangan 20 (2), 129-129, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:qUcmZB5y_30C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1321552942864543796",
+      "cites_id": [
+        "1321552942864543796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik penampilan reproduksi pejantan domba Garut",
+        "pub_year": "2003",
+        "citation": "Jurnal Ilmu Ternak dan Veteriner 8 (2), 134-140, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:EkHepimYqZsC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144061279941034874",
+      "cites_id": [
+        "7144061279941034874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemberdayaan teknologi inseminasi buatan pada ternak kambing",
+        "pub_year": "2001",
+        "citation": "Wartazoa 11 (1), 1-9, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11389471966426516",
+      "cites_id": [
+        "11389471966426516"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas semen beku kambing Saanen pada berbagai jenis pengencer semen",
+        "pub_year": "2003",
+        "citation": "IPB (Bogor Agricultural University), 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Ug5p-4gJ2f0C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=107798158699084961",
+      "cites_id": [
+        "107798158699084961"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Raw semen characteristics of three different Indonesian local roosters",
+        "pub_year": "2016",
+        "citation": "Animal production 18 (3), 165-172, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:epqYDVWIO7EC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12041470167434355918",
+      "cites_id": [
+        "12041470167434355918"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oviduct epithelial cell co-culture of early porcine embryos",
+        "pub_year": "1992",
+        "citation": "Acta Veterinaria Scandinavica 33 (4), 349, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:WF5omc3nYNoC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10749548813080386944",
+      "cites_id": [
+        "10749548813080386944"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas semen segar sapi bali umur produktif dan non-produktif serta penentuan konsentrasi krioprotektan dalam pengencer tris kuning telur",
+        "pub_year": "2018",
+        "citation": "Jurnal Veteriner 19 (2), 242-250, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:SpbeaW3--B0C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3279006802704974831",
+      "cites_id": [
+        "3279006802704974831"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gambaran ultrasonografi ovarium kambing kacang yang disinkronisasi dengan hormon prostaglandin F2 alfa (PGF2\u03b1) dosis tunggal",
+        "citation": "J. Ked. Hewan 8 (1), 38-42, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:tuHXwOkdijsC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=63106930109817000",
+      "cites_id": [
+        "63106930109817000"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan siklus estrus berdasarkan gambaran sitologi vagina dan profil hormon pada rusa timor",
+        "pub_year": "2011",
+        "citation": "J. Vet 12 (2), 98-106, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9728632247609682645",
+      "cites_id": [
+        "9728632247609682645"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of different cryoprotective agents on skim milk and dimitropoulus extender for stallion semen cryopreservation",
+        "pub_year": "2010",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 35 (1), 68-74, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8126140157417763399",
+      "cites_id": [
+        "8126140157417763399"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of ovulations in superovulated cattle",
+        "pub_year": "1994",
+        "citation": "Animal Reproduction Science 37 (1), 1-5, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4869519156659180881",
+      "cites_id": [
+        "4869519156659180881"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRM1 Gene Expression and Its Protein Abundance in Frozen-Thawed Spermatozoa as Potential Fertility Markers in Breeding Bulls",
+        "pub_year": "2022",
+        "citation": "Veterinary Sciences 9 (3), 111, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:zCSUwVk65WsC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17292143561901085286",
+      "cites_id": [
+        "17292143561901085286"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of fertility status in the male sumatran rhino at the sumateran rhino sanctuary, way kambas national Park, lampung",
+        "pub_year": "2008",
+        "citation": "HAYATI Journal of Biosciences 15 (1), 39-44, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16800636792286819820",
+      "cites_id": [
+        "16800636792286819820"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kadar peroksida lipid dan aktivitas superoksida dismutase (SOD) testis tikus yang diberi tepung kedelai kaya isoflavon, seng (Zn) dan vitamin E",
+        "pub_year": "2008",
+        "citation": "Majalah Kedokteran Bandung 40 (2), 59-66, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:UebtZRa9Y70C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16610442974303823300",
+      "cites_id": [
+        "16610442974303823300"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Freezing capacity of sperm on various type of superior bulls.",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17921672744610170389",
+      "cites_id": [
+        "17921672744610170389"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Korelasi morfologi abnormalitas primer spermatozoa terhadap umur pada beberapa bangsa sapi potong",
+        "pub_year": "2012",
+        "citation": "Agroscientiae 19 (2), 79-85, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17090079862235629685",
+      "cites_id": [
+        "17090079862235629685"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh pemberian tepung kedelai kaya isoflavon, seng (zn) dan vitamin e terhadap kadar hormon testosteron serum dan jumlah sel spermatogenik pada tubuli seminiferi testis \u2026",
+        "pub_year": "2008",
+        "citation": "JITV 13 (4), 288-293, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17795490336755022951",
+      "cites_id": [
+        "17795490336755022951"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oocyte morphology in dominant and subordinate follicles during the first follicular wave in cattle",
+        "pub_year": "1993",
+        "citation": "Theriogenology 39 (1), 183, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17074852869124794252",
+      "cites_id": [
+        "17074852869124794252"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm transcriptome analysis accurately reveals male fertility potential in livestock",
+        "pub_year": "2022",
+        "citation": "Animals 12 (21), 2955, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:7BrZ7Jt4UNcC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10512179749573645521",
+      "cites_id": [
+        "10512179749573645521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Repeated freeze-thaw cycles but not short-term storage of fecal extracts at ambient temperature influence the stability of steroid metabolite levels in crested macaques",
+        "pub_year": "2017",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 11 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:EYYDruWGBe4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15059779510663706406",
+      "cites_id": [
+        "15059779510663706406"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi inseminasi buatan pada kerbau lumpur (Bubalus bubalis) melalui teknik sinkronisasi estrus dan ovulasi",
+        "pub_year": "2012",
+        "citation": "Jurnal Ilmu Ternak dan Veteriner 17, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:P7Ujq4OLJYoC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5499509891812617912",
+      "cites_id": [
+        "5499509891812617912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimalisasi Kualitas Semen Cair Domba Garut (Ovis aries) melalui Penambahan Maltosa ke dalam Pengencer Semen Tris Kuning Telur",
+        "pub_year": "2005",
+        "citation": "Media Kedokteran Hewan 21 (2), 88-93, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:0EnyYjriUFMC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11800270647123773451",
+      "cites_id": [
+        "11800270647123773451"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of pregnant mare serum gonadotropin injection on litter size in young Etwah-cross goat does.",
+        "pub_year": "1996",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7318264237132370334",
+      "cites_id": [
+        "7318264237132370334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The freezability of biopsied bovine embryos",
+        "pub_year": "1992",
+        "citation": "Theriogenology 38 (4), 615-621, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18134299853495764056",
+      "cites_id": [
+        "18134299853495764056"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative analysis of various step-dilution techniques on the quality of frozen Limousin bull semen",
+        "pub_year": "2020",
+        "citation": "Veterinary World 13 (11), 2422, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:r_AWSJRzSzQC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=823174771161877142",
+      "cites_id": [
+        "823174771161877142"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Occurrence of sperm abnormality of beef cattle at several artificial insemination centers in Indonesia",
+        "pub_year": "2010",
+        "citation": "Animal Production 12 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:KUbvn5osdkgC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6200956598812106680",
+      "cites_id": [
+        "6200956598812106680"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm protein markers for Holstein bull fertility at National Artificial Insemination Centers in Indonesia",
+        "pub_year": "2020",
+        "citation": "Veterinary World 13 (5), 947, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:OcBU2YAGkTUC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3493471299786530216",
+      "cites_id": [
+        "3493471299786530216"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan sel-sel spermatogenik dan kualitas sperma pasca pemberian ekstrak pegagan (Centella asiatica)",
+        "pub_year": "2013",
+        "citation": "Jurnal Ilmu Ternak dan Veteriner 18 (3), 192-201, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474400646191034937",
+      "cites_id": [
+        "7474400646191034937"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the origin of Indonesian cattle",
+        "pub_year": "2009",
+        "citation": "Plos one 4, 1-5, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:z_wVstp3MssC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3488964943068287505",
+      "cites_id": [
+        "3488964943068287505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influences of bull age and season on sperm motility, sperm concentration, and ejaculate volume of Ongole grade cattle in singosari national artificial insemination center.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LhH-TYMQEocC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13157310207908682389",
+      "cites_id": [
+        "13157310207908682389"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of breeds on semen characteristics of aged bulls in the Indonesian National Artificial Insemination Center",
+        "pub_year": "2020",
+        "citation": "Jurnal Ilmu-Ilmu Peternakan 30 (2), 173-179, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:HeT0ZceujKMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15072152780993805985",
+      "cites_id": [
+        "15072152780993805985"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The quality of stallion semen in skim milk and dimitropoulos extenders preserved at 5 oc and ambient temperature supplemented with different sugar",
+        "pub_year": "2013",
+        "citation": "Media Peternakan 36 (1), 45-45, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:SP6oXDckpogC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8885851965428273043",
+      "cites_id": [
+        "8885851965428273043"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas spermatozoa tikus yang diberi tepung kedelai kaya isoflavon, seng (Zn) dan vitamin E",
+        "pub_year": "2009",
+        "citation": "Media Peternakan 32 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3478690152577534517",
+      "cites_id": [
+        "3478690152577534517"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Viabilitas spermatozoa rusa Timor (Cervus timorensis) di dalam pengencer tris kuning telur dengan sumber karbohidrat berbeda yang disimpan pada suhu ruang",
+        "pub_year": "2007",
+        "citation": "JITV 12 (4), 311-317, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:-f6ydRqryjwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17858493732467293086",
+      "cites_id": [
+        "17858493732467293086"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Status antioksidan wanita premenopause yang diberi minuman suplemen \u201cSusumeno\u201d",
+        "pub_year": "2003",
+        "citation": "Seminar Nasional PATPI. Yogyakarta, 22-23, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5266467590450967534",
+      "cites_id": [
+        "5266467590450967534"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The first complete mitochondrial genome sequence of the endangered mountain anoa (Bubalus quarlesi)(Artiodactyla: Bovidae) and phylogenetic analysis",
+        "pub_year": "2020",
+        "citation": "Journal of Asia-Pacific Biodiversity 13 (2), 123-133, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:cWzG1nlazyYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6147596162790541955",
+      "cites_id": [
+        "6147596162790541955"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan kualitas semen beku domba Garut melalui penambahan a-Tokoferol ke dalam pengencer susu skim kuning telur.",
+        "pub_year": "2014",
+        "citation": "JITV 19 (3), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:8k81kl-MbHgC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8978512668625560271",
+      "cites_id": [
+        "8978512668625560271"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The quality of frozen semen of limousin bull in various semen diluents",
+        "pub_year": "2022",
+        "citation": "Tropical Animal Science Journal 45 (3), 284-290, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:MpfHP-DdYjUC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1801996983071903562",
+      "cites_id": [
+        "1801996983071903562"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solutions for grand challenges in goat and Sheep Production",
+        "pub_year": "2018",
+        "citation": "Biotropia 26 (1), 55-64, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:q3CdL3IzO_QC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8377198325040296599",
+      "cites_id": [
+        "8377198325040296599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microencapsulation of bovine spermatozoa: Cryopreservation of microencapsulation sperm using glycerol",
+        "pub_year": "2015",
+        "citation": "Jurnal Ilmu Ternak dan Veteriner 20 (4), 233-241, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18303228997862687477",
+      "cites_id": [
+        "18303228997862687477"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of the estrous cycle based on vaginal cytology and hormone profile in Timor hind.",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:maZDTaKrznsC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1544125019641204255",
+      "cites_id": [
+        "1544125019641204255"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya tahan spermatozoa kuda hasil sentrifugasi dengan kadar plasma semen yang berbeda menggunakan pengencer skim",
+        "pub_year": "2006",
+        "citation": "Jurnal Animal Production 8, 160-167, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:4X0JR2_MtJMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15107958220689219255",
+      "cites_id": [
+        "15107958220689219255"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh waktu penyimpanan epididimis pada suhu 5 C terhadap kualitas spermatozoa epididimis domba garut",
+        "pub_year": "2004",
+        "citation": "J. Veteriner 5 (3), 95-103, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:5awf1xo2G04C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16267566859537089942",
+      "cites_id": [
+        "16267566859537089942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coculture of bovine demiembryos prior to freezing",
+        "pub_year": "1992",
+        "citation": "Acta Veterinaria Scandinavica 33 (3), 237, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:roLk4NBRz8UC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7214692016500692338",
+      "cites_id": [
+        "7214692016500692338"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of glycerol concentration in Tris glucose egg yolk extender on the quality of Timor Deer frozen semen",
+        "pub_year": "2011",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 36 (2), 91-96, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:4DMP91E08xMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2935097391055441925",
+      "cites_id": [
+        "2935097391055441925"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of season and milk production on reproductive performance in dairy cows",
+        "pub_year": "2001",
+        "citation": "Proceeding of the 10 th Conference of the Association of the Institutions \u2026, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:e_rmSamDkqQC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16256373761516294336",
+      "cites_id": [
+        "16256373761516294336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian Keutuhan Membran Plasma Spermatozoa Semen Cair Domba Menggunakan Larutan Hipoosmotik",
+        "pub_year": "1999",
+        "citation": "IPB (Bogor Agricultural University), 1999"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16373408787118960470",
+      "cites_id": [
+        "16373408787118960470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Angka konsepsi hasil inseminasi semen cair versus semen beku pada kuda yang disinkronisasi estrus dan ovulasi",
+        "citation": "Media Peternakan 5 (1), 1-5, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:vDijr-p_gm4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14987216222112443127,8228978846362091297",
+      "cites_id": [
+        "14987216222112443127",
+        "8228978846362091297"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship among body weight, scrotal circumference and sperm quantity of Bali bulls in Baturiti Artificial Insemination Center",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 478 (1), 012004, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:3htObqc8RwsC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=535035399210409823",
+      "cites_id": [
+        "535035399210409823"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm: comparative morphology and function related to altered reproductive strategies and fertility in mammals",
+        "pub_year": "2018",
+        "citation": "The Professional Animal Scientist 34 (6), 558-565, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ruyezt5ZtCIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14095564092681770117",
+      "cites_id": [
+        "14095564092681770117"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Embryo transfer and artificial insemination program of Belgian Blue cattle in Indonesia: pregnancy rate, birth weight and calving ease",
+        "pub_year": "2018",
+        "citation": "Proc. of the 20th FAVA CONGRESS & The 15thKIVNAS PDHI, 69-71, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:raTqNPD5sRQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11306377857519216988",
+      "cites_id": [
+        "11306377857519216988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intensitas dan waktu estrus pada berbagai paritas induk sapi perah fries holland pasca partus",
+        "pub_year": "2012",
+        "citation": "Partner 19 (1), 102-111, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:2KloaMYe4IUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6521141572231459682",
+      "cites_id": [
+        "6521141572231459682"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek susu skim yang disuplementasi Isoflavon kedelai dan Zn (Susumeno terhadap Sindrom Menopause pada wanita premenopause)",
+        "pub_year": "2004",
+        "citation": "IPB (Bogor Agricultural University), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:W5xh706n7nkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11272250770910664593",
+      "cites_id": [
+        "11272250770910664593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SELEKSI DAN KAPASITASI SPERMATOZOA DENGAN METODE PERCOLL GRADIENT VKYUK FERTILISASI OOSIT DAN PRODUKSIEMBRIO IN VITRO PADA SAPI",
+        "pub_year": "2002",
+        "citation": "Berita Biologi 6 (3), 423-430, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:TIZ-Mc8IlK0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4688774184816091574",
+      "cites_id": [
+        "4688774184816091574"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Follicullar Development and Embryo Recovery Following 3 versus 8 FSH Injections in Heifers",
+        "pub_year": "1994",
+        "citation": "Acta Veterinaria Scandinavica 35, 89-92, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4390585736001910045",
+      "cites_id": [
+        "4390585736001910045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implications of sperm heat shock protein 70-2 in bull fertility",
+        "pub_year": "2022",
+        "citation": "Veterinary World 15 (6), 1456, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LdasjJ6CEcoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15800668336159020160",
+      "cites_id": [
+        "15800668336159020160"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fecal steroid profile of female Javan Gibbons (Hylobates moloch) maintained in pairing-typed cage",
+        "pub_year": "2010",
+        "citation": "HAYATI Journal of Biosciences 17 (1), 43-49, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Se3iqnhoufwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18350430574075144764",
+      "cites_id": [
+        "18350430574075144764"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preovulatory changes and ovulation in cattle undergoing spontaneous or cloprostenol-induced luteolysis",
+        "pub_year": "2006",
+        "citation": "BIOTROPIA-The Southeast Asian Journal of Tropical Biology 13 (2), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:XiSMed-E-HIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9779270339461001779",
+      "cites_id": [
+        "9779270339461001779"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan masa aktif reproduksi rusa timor jantan (Cervus timorensis) berdasarkan kualitas semen dan tahap pertumbuhan ranggahnya",
+        "pub_year": "2004",
+        "citation": "Puslitbang Peternakan, Bogor, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:NJ774b8OgUMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=273904658139037054",
+      "cites_id": [
+        "273904658139037054"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Culture of Bovine Demi\u2010Embryos on Bovine Oviduct Epithelial Feeder Cells",
+        "pub_year": "1990",
+        "citation": "Reproduction in Domestic Animals 25 (4), 167-172, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:aqlVkmm33-oC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=408276782759946396",
+      "cites_id": [
+        "408276782759946396"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-invasive monitoring of stress in females crested macaques (Macaca nigra): comparison of glucocorticoid levels during cycling, pregnancy, and lactation",
+        "pub_year": "2018",
+        "citation": "Proceeding of AIC: Health and Life Sciences 8 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:XoXfffV-tXoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3733791824672859365",
+      "cites_id": [
+        "3733791824672859365"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing artificial insemination on swamp buffalo (Bubalus bubalis) through synchronization of estrus and ovulation.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:p2g8aNsByqUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9348859431035676521",
+      "cites_id": [
+        "9348859431035676521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deer frozen semen quality in tris sucrose and tris glucose extender with different glycerol concentrations",
+        "pub_year": "2011",
+        "citation": "Media Peternakan 34 (3), 196-196, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:1qzjygNMrQYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4689468355391264000",
+      "cites_id": [
+        "4689468355391264000"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfologi dan Biometri Spermatozoa Anoa (Bubalus Sp.) yang Diwarnai dengan Pewarna William\u2019s dan Eosin-Nigrosin",
+        "pub_year": "2010",
+        "citation": "Media Peternakan 33 (2), 88, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:abG-DnoFyZgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7645989966217655085",
+      "cites_id": [
+        "7645989966217655085"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian morfologi spermatozoa sapi simmetal di beberapa Balai Inseminasi buatan Indonesia",
+        "pub_year": "2010",
+        "citation": "Hemera Zoa 1 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14158212907030414993",
+      "cites_id": [
+        "14158212907030414993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan fruktosa, rafinosa, dan trehalosa pada kriopreservasi semen kuda",
+        "pub_year": "2009",
+        "citation": "Media Peternakan 32 (3), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:TQgYirikUcIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10555842378355254157",
+      "cites_id": [
+        "10555842378355254157"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity and conservation of South-East Asian cattle: from Indian zebu to Indonesian Banteng, and then to the Cambodian Kouprey",
+        "pub_year": "2007",
+        "citation": "Managing the Health and Reproduction of Elephant Populations in Asia. EU \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16895686071254097437",
+      "cites_id": [
+        "16895686071254097437"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik semen segar dan kualitas semen cair kuda dalam pengencer dimitropoulos yang disuplementasi dengan fruktosa, trehalosa dan rafinosa",
+        "pub_year": "2007",
+        "citation": "Media Peternakan 30 (3), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15370633483462540334",
+      "cites_id": [
+        "15370633483462540334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive performance of Bali cattle fol1owing artificial insemination in Bali",
+        "pub_year": "2005",
+        "citation": "IPB (Bogor Agricultural University), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:4TOpqqG69KYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17484979525189670656",
+      "cites_id": [
+        "17484979525189670656"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integritas dan daya hidup spermatozoa pada pembekuan semen domba garut (Ovis arios) dengan pengencer dasar tris dan susu skim klining telur",
+        "pub_year": "2003",
+        "citation": "Jurnal Sains dan Teknologi Indonesia 2 (3), 62-68, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:a3BOlSfXSfwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13822024838033885409",
+      "cites_id": [
+        "13822024838033885409"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of frozen semen quality of Garut Sheep through the addition of \u03b1-tocopherol into yolk egg-skim milk diluent.",
+        "pub_year": "2002",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14258038978135277114",
+      "cites_id": [
+        "14258038978135277114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality of Garut ram frozen semen in various glycerol concentrations.",
+        "pub_year": "2002",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2534463635197632371",
+      "cites_id": [
+        "2534463635197632371"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm head morphology alterations associated with chromatin instability and lack of protamine abundance in frozen-thawed sperm of Indonesian local bulls",
+        "pub_year": "2023",
+        "citation": "Animals 13 (15), 2433, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:rHJHxKgnXwkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5942111172087909435",
+      "cites_id": [
+        "5942111172087909435"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bovine sperm HSP-70 molecules: a potential cryo-tolerance marker associated with semen quality and fertility rate",
+        "pub_year": "2023",
+        "citation": "Frontiers in Veterinary Science 10, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:yxmsSjX2EkcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12444991379311980630",
+      "cites_id": [
+        "12444991379311980630"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improved maturation rate of bovine oocytes following sericin supplementation in collection and maturation media",
+        "pub_year": "2022",
+        "citation": "Tropical Animal Science Journal 45 (1), 24-29, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:jgBuDB5drN8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10063177059825222171",
+      "cites_id": [
+        "10063177059825222171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Meta data analysis of conception rate in relation to sperm motility in Madura superior bulls",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 902 (1), 012048, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:QD3KBmkZPeQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8660572418604622319",
+      "cites_id": [
+        "8660572418604622319"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of glutathione and bovine seminal plasma in lactose extender on viability of swamp buffalo frozen semen.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11261265189057629619",
+      "cites_id": [
+        "11261265189057629619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sinkronisasi estrus dan inseminasi buatan pada rusa Timor",
+        "pub_year": "2011",
+        "citation": "Jurnal Veteriner Desember 12 (4), 269-274, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11303123223262811580",
+      "cites_id": [
+        "11303123223262811580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penerapan metode transfer langsung pada kriopreservasi embrio sapi perah",
+        "pub_year": "2000",
+        "citation": "IPB (Bogor Agricultural University), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5797234609182325851",
+      "cites_id": [
+        "5797234609182325851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of ewe serum on in vitro oocyte maturation and early development of ovine embryos",
+        "pub_year": "2000",
+        "citation": "Bogor Agricultural University (IPB), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8991253298060225795",
+      "cites_id": [
+        "8991253298060225795"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of HSP70-2 and PRM-1 mRNA, proteins, and analyses of their association with fertility using frozen-thawed sperm in Madura bulls.",
+        "pub_year": "2023",
+        "citation": "Animal Bioscience, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:-mN3Mh-tlDkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15213308091267942396",
+      "cites_id": [
+        "15213308091267942396"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRODUCTIVITY AND FRESH SEMEN CHARACTERISTICS OF SIMMENTAL BULL DIFFERENT AGES",
+        "pub_year": "2022",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 16 (1), 23-28, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:BzfGm06jWhQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9349025665925051816",
+      "cites_id": [
+        "9349025665925051816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Distribusi Mitokondria Sel-sel Trofoblas Blastosis Mencit (Mus Muculus Albinus) Dan Pengaruhnya Terhadap Kegagalan Hatching Dan Implantasi",
+        "pub_year": "2016",
+        "citation": "Sainstek: Jurnal Sains dan Teknologi 7 (1), 16-25, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:hMsQuOkrut0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7676093954531991675",
+      "cites_id": [
+        "7676093954531991675"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estrus synchronization and artificial insemination in timor deer.",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=238348353318330887",
+      "cites_id": [
+        "238348353318330887"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biometri Organ Reproduksi Bagian Luar dan Karakteristik Ejakulat Anoa (Bubalus sp.) yang Dikoleksi Menggunakan Elektroejakulator Setelah Diinjeksi hCG",
+        "pub_year": "2010",
+        "citation": "Media Peternakan 32 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3565813874589466300",
+      "cites_id": [
+        "3565813874589466300"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Inhibitor Aromatase (IA) Terhadap Perkembangn Oosit Pada Ikan Mas Koki (Carassius Auratus)",
+        "pub_year": "2006",
+        "citation": "Jurnal Ilmu-ilmu Perairan dan Perikanan Indonesia 13 (2), 171-175, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:fEOibwPWpKIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15588550352552773081",
+      "cites_id": [
+        "15588550352552773081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Pemberian Human Chorionic Gonadotropin (Hcg) Pada Sap1 Perah Yang Telah Di Superovulasi Dengan Pregnant Mare Serum Gonadotropznmonoclonal Antibody (Pmsg-Moab) Anti-PMSG",
+        "pub_year": "1998",
+        "citation": "IPB (Bogor Agricultural University), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:vDZJ-YLwNdEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3887929730354057175",
+      "cites_id": [
+        "3887929730354057175"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Blastomere content of cultured/frozen bovine demiembryos",
+        "pub_year": "1992",
+        "citation": "Acta Veterinaria Scandinavica 33 (4), 363, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17442113890234078310",
+      "cites_id": [
+        "17442113890234078310"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro, in compost, and in vivo assessment of chitosan-polyethylene glycol as an intravaginal insert for progesterone delivery in sheep",
+        "pub_year": "2023",
+        "citation": "Tropical Animal Science Journal 46 (3), 295-305, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:mKu_rENv82IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7478202889793642898",
+      "cites_id": [
+        "7478202889793642898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of the endangered endemic Anoa (Bubalus spp): Implication for conservation",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (5), 586-596, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:7Hz3ACDFbsoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9576407414769341288",
+      "cites_id": [
+        "9576407414769341288"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Admixture study of Ongole grade cattle based on genome-wide SNP data",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 762 (1), 012047, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:OP4eGU-M3BUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3951625199488580888",
+      "cites_id": [
+        "3951625199488580888"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Friesian Holstein Bulls Fertility in Lembang and Singosari Artificial Insemination Center using West Java ISIKHNAS Data",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 478 (1), 012005, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:fFSKOagxvKUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2316069187949594400",
+      "cites_id": [
+        "2316069187949594400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FA-6 Analysis of Sperm Freezing Capability of Various Bulls at the Singosari AI Center",
+        "pub_year": "2018",
+        "citation": "Hemera Zoa, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Dip1O2bNi0gC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1444595156558857302",
+      "cites_id": [
+        "1444595156558857302"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sonogram of coccygeus muscle in dairy cows with different gestational ages",
+        "pub_year": "2017",
+        "citation": "Journal of animal science and technology 59, 1-8, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:k8Z6L05lTy4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16352348185678381905",
+      "cites_id": [
+        "16352348185678381905"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gambaran Umum Kajian Profil Hormon Steroid Menggunakan Metode Non-Invasif dari Sampel Feses",
+        "pub_year": "2017",
+        "citation": "Zoo Indonesia 25 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17832284582437335303",
+      "cites_id": [
+        "17832284582437335303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Successful Intracervical Insemination and Characteristics of Anoa (Bubalus sp.) Parturation Behavior in Captivity",
+        "pub_year": "2012",
+        "citation": "Media Peternakan 35 (2), 73-73, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1868681293362071313",
+      "cites_id": [
+        "1868681293362071313"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suaka Rhino Sumatera, Perkembangan Dan Masa Depannya",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:UxriW0iASnsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7128029797055306506",
+      "cites_id": [
+        "7128029797055306506"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of seminal plasma and cryopreservation of anoa (Bubalus sp.) semen obtained by electroejaculation.",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4536511943399361575",
+      "cites_id": [
+        "4536511943399361575"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fertility of Frozen thawed Ejaculated and Epididymal Sperm of Garut ram",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:hC7cP41nSMkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17587467954880103980",
+      "cites_id": [
+        "17587467954880103980"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation of Garut Ram Semen Using Lecithine-Based Extender",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Zph67rFs4hoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6660037805730041120",
+      "cites_id": [
+        "6660037805730041120"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction and isolation of Ovine Pregnancy-Associated Glycoprotein (ovPAG) from cotyledon placenta of Garut sheep",
+        "pub_year": "2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10485434980894093738",
+      "cites_id": [
+        "10485434980894093738"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fecal Steroid Profile And Genital Swelling of Female Javan Gibbons (Hylobates Moloch Audebert 1797) Maintained In Individual Cage",
+        "pub_year": "2007",
+        "citation": "Media Konservasi 12 (1), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8540705127109668140",
+      "cites_id": [
+        "8540705127109668140"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Estradiol-17\u03b2 dan Kehadiran Pejantan Terhadap Perkembangan Oosit dan Ovulasi Pada Ikan Mas Koki (Carassius auratus)",
+        "pub_year": "2006",
+        "citation": "Aquacultura Indonesia 7 (3), 187-193, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LI9QrySNdTsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6968063138270806084",
+      "cites_id": [
+        "6968063138270806084"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan teknik pengukuran metabolit steroid untuk monitoring status reproduksi Owa Jawa (Hylobates moloch) sebagai upaya pelestarian satwa terancam punah",
+        "pub_year": "2006",
+        "citation": "IPB (Bogor Agricultural University), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:IWHjjKOFINEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10848137312295809967",
+      "cites_id": [
+        "10848137312295809967"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Semen Beku dan Pengembangan Teknik Inseminasi Buatan pada Badak Sumatra untuk Konservasi Plasma Nutfah dan Keanekaragaman Hayati",
+        "pub_year": "2002",
+        "citation": "IPB (Bogor Agricultural University), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:86PQX7AUzd4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2927867629320570077",
+      "cites_id": [
+        "2927867629320570077"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using Artificial Insemination Technology in Goats",
+        "pub_year": "2001",
+        "citation": "WARTAZOA. Indonesian Bulletin of Animal and Veterinary Sciences 11 (1), 1-9, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:PELIpwtuRlgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17754452745077066419",
+      "cites_id": [
+        "17754452745077066419"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro embryo production through modification of time and gonadotropin hormone during oocytes maturation",
+        "pub_year": "2001",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LPZeul_q3PIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12180463173748866490",
+      "cites_id": [
+        "12180463173748866490"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh serum homolog dan heterolog terhadap proses pematangan dan pembuahan oosit domba di dalam medium biakan in vitro",
+        "pub_year": "1998",
+        "citation": "Bogor Agricultural University (IPB), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14443234273057510942",
+      "cites_id": [
+        "14443234273057510942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrasonography in embryo transfer practice",
+        "pub_year": "1992",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3067690120014690952",
+      "cites_id": [
+        "3067690120014690952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bovine nucleoprotein transitions genes and protein abundance as valuable markers of sperm motility and the correlation with fertility",
+        "pub_year": "2024",
+        "citation": "Theriogenology 215, 86-94, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:-95Q15plzcUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11542936165100039284",
+      "cites_id": [
+        "11542936165100039284"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A proteomic approach to identifying spermatozoa proteins in Indonesian native Madura bulls",
+        "pub_year": "2023",
+        "citation": "Frontiers in Veterinary Science 10, 1287676, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:1DsIQWDZLl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8766409339760498869",
+      "cites_id": [
+        "8766409339760498869"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of heat shock protein70-2 and protamine-1 mRNA, proteins, and analyses of their association with fertility using frozen-thawed sperm in Madura bulls",
+        "pub_year": "2023",
+        "citation": "Animal Bioscience 36 (12), 1796, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:RoXSNcbkSzsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=843607639268499730",
+      "cites_id": [
+        "843607639268499730"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioavailability properties of intravaginal implants made from chitosan-PEG-PCL in simulated vaginal fluid and vagina of cattle",
+        "pub_year": "2023",
+        "citation": "ARSHI Veterinary Letters 7 (3), 57-58, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ce2CqMG-AY4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=238252436544460707",
+      "cites_id": [
+        "238252436544460707"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of Plasma Membrane Alpha Enolase (ENO1) and Its Relationship with Sperm Quality of Bali Cattle",
+        "pub_year": "2023",
+        "citation": "Tropical Animal Science Journal 46 (1), 36-42, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:wKETBy42zhYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13306041967696565008",
+      "cites_id": [
+        "13306041967696565008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogeography of the Maleo Senkawor (Macrocephalon maleo Sal. Muller 1846) Based on Cytochrome B Gene in Sulawesi And Their Sex Determination using Molecular Sexing.",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Animal & Veterinary Sciences 28 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:CB2v5VPnA5kC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11363604926198015690",
+      "cites_id": [
+        "11363604926198015690"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm osteopontin mRNA expression levels and its correlation on semen quality and fertility in Madura bulls",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:7wO8s98CvbsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10125706838354508007",
+      "cites_id": [
+        "10125706838354508007"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Post-Thaw Characteristics of the Simmental Sperm Function in Different Ages of Bulls",
+        "pub_year": "2022",
+        "citation": "Tropical Animal Science Journal 45 (4), 381-388, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:IaI1MmNe2tcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5312133039804232297",
+      "cites_id": [
+        "5312133039804232297"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Sericin Supplementation in Collection Medium on Bovine Oocyte Nuclear Maturation",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 478 (1), 012006, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:KbBQZpvPDL4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2845571018384382914",
+      "cites_id": [
+        "2845571018384382914"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Individual variation in fresh and frozen semen of bali bulls (Bos sondaicus). Veterinary World, 13 (5): 840-846",
+        "pub_year": "2020",
+        "citation": "DOI: https://www. doi. org/10.14202/vetworld 846, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:bKqednn6t2AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10720975574709361978",
+      "cites_id": [
+        "10720975574709361978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FA-8 Embryo Transfer and Artificial Insemination Program of Belgian Blue Cattle in Indonesia: Pregnancy Rate, Birth Weight and Calving Ease",
+        "pub_year": "2018",
+        "citation": "Hemera Zoa, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:xtoqd-5pKcoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3926275890853552148",
+      "cites_id": [
+        "3926275890853552148"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Histomorphological changes, sperm quality and testosterone level after administration and cessation of Pegagan (Centella asiatica) extract in rats.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:i2xiXl-TujoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3077432337548064599",
+      "cites_id": [
+        "3077432337548064599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas semen sapi bali dan kriopreservasinya dalam pengencer Tris dan sitrat kuning telur",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:HhcuHIWmDEUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6044503788809063988",
+      "cites_id": [
+        "6044503788809063988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sonogram of ovarian dynamic in kacang goat (Capra hircus).",
+        "pub_year": "2014",
+        "citation": "Jurnal Veteriner 15 (2), 239-245, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:1lhNe0rCu4AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2503730262915085439",
+      "cites_id": [
+        "2503730262915085439"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Faecal glucocorticoid measurement as indicator stress in wild crested macaques (Macaca nigra): the importance of validation and sample processing techniques",
+        "pub_year": "2014",
+        "citation": "4th Syiah Kuala University Annual International Conference 2014, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:0N-VGjzr574C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2727675553293905165",
+      "cites_id": [
+        "2727675553293905165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of spermatogenic cells and sperm quality after administration of pegagan extract (Centella asiatica).",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:M05iB0D1s5AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4877030361127207465",
+      "cites_id": [
+        "4877030361127207465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fecal Pregnanediol Glucuronide and Serum Progesterone Patterns for Ovarian Function Assessment of Javan Gibbons (Hylobates moloch)",
+        "pub_year": "2012",
+        "citation": "World Applied Sciences Journal 18 (6), 737-744, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15924293955919596647",
+      "cites_id": [
+        "15924293955919596647"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembekuan semen lele dumbo (Clarias gariepinus Burchell 1822) sebagai model kriopreservasi semen ikan [Freezing of african catfish semen (Clarias gariepinus Burchell 1822) as a \u2026",
+        "pub_year": "2011",
+        "citation": "Jurnal Iktiologi Indonesia 11 (2), 169-175, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3196252823417423513",
+      "cites_id": [
+        "3196252823417423513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphology and Biometry of Spermatozoa of the Anoa (Bubalus sp) Stained Using William's and Eosin-Nigrosin",
+        "pub_year": "2010",
+        "citation": "IPB (Bogor Agricultural University), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:jFemdcug13IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9328660624877439298",
+      "cites_id": [
+        "9328660624877439298"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rapid detection of the Africanized honey bee: a tool for Indonesian animal quarantine",
+        "pub_year": "2009",
+        "citation": "Biotropia 16 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6738641092059721588",
+      "cites_id": [
+        "6738641092059721588"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstraksi dan Isolasi Ovine Pregnancy Associated-Glycoprotein (ovPAG) dari Kotiledon Plasenta Domba Garut pada Saat Melahirkan",
+        "pub_year": "2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:D03iK_w7-QYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15775487916727291024",
+      "cites_id": [
+        "15775487916727291024"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-Invasive Endocrine Monitoring Of Reproduction And Stress In The Wild Animals: Analyzing Hormone Metabolites In Urine And Faeces Using Enzymeimmunoassay",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:BJbdYPG6LGMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11596187151917076942",
+      "cites_id": [
+        "11596187151917076942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Viability of Timor deer stag (Cervus timorensis) spermatozoa extended in tris egg yolk diluent with different sources of carbohydrate and storage at room temperature",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3329054484210836243",
+      "cites_id": [
+        "3329054484210836243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi fisiologi semen dan variasi genetik sapi bali dalam rangka seleksi pejantan bibit guna menunjang program inseminasi buatan",
+        "pub_year": "2006",
+        "citation": "IPB (Bogor Agricultural University), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:AXkvAH5U_nMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8649048739576447919",
+      "cites_id": [
+        "8649048739576447919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring follicle size with ultrasound as an important tool to determine a proper time for mating in the Sumatran rhinoceros Dicerorhinus sumatrensis (FISCHER 1814) in the \u2026",
+        "pub_year": "2006",
+        "citation": "Proc. Asian Zoo Wildl. Med. Pathol., 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16188717940789779124",
+      "cites_id": [
+        "16188717940789779124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semen collection in the Sumatran rhinoceros (dicerorhinus sumatrensis, Fischer 1814) for breeding attempt to sustain biodiversity",
+        "pub_year": "2004",
+        "citation": "IPB (Bogor Agricultural University), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LgRImbQfgY4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8698951962471108219",
+      "cites_id": [
+        "8698951962471108219"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hormone-immunity response of premenopausal women intervened with skim milk based functional drink supplemented with 100 mg soy isoflavone and 8 mg Zn-sulfate (Susumeno)",
+        "pub_year": "2004",
+        "citation": "Jurnal Teknologi dan Industri Pangan 15 (1), 28-28, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13731147641591877559",
+      "cites_id": [
+        "13731147641591877559"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemakaian ethylen glycol dan glycerol untuk vitrifikasi embrio kambing in vitro",
+        "pub_year": "2000",
+        "citation": "Bogor Agriculture University, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:MAUkC_7iAq8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1484181067042376460",
+      "cites_id": [
+        "1484181067042376460"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrity of swamp buffalo sperm on a variety of semen freezing process.",
+        "pub_year": "1999",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:geHnlv5EZngC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12134276720024010288",
+      "cites_id": [
+        "12134276720024010288"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Aplikasi hCG pada Superovulasi PMSG-MoAb AntiPMSG dalam Usaha Peningkatan Hasil Panen serta Aplikasi Metode Transfer Langsung dalam Kriopreservasi Embrio Sapi Perah",
+        "pub_year": "1998",
+        "citation": "IPB (Bogor Agricultural University), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:NXb4pA-qfm4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3488069678994927432",
+      "cites_id": [
+        "3488069678994927432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm HSP70: may not be an age-dependent gene but is associated with field fertility in Bali bulls (Bos sondaicus)",
+        "pub_year": "2024",
+        "citation": "Animal Reproduction 21 (2), e20230048, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:An6A6Jpfc1oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative developmental competence of in vitro embryos recovered from Bali cattle with normal and poor sperm motility",
+        "pub_year": "2024",
+        "citation": "Veterinary World 17 (3), 593, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:BrOSOlqYqPUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Age and individual variation affect semen quality and field fertility of Bali bulls (Bos sondaicus): A preliminary study",
+        "pub_year": "2023",
+        "citation": "Developing Modern Livestock Production in Tropical Countries, 10-14, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:jU7OWUQzBzMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Correlation between Post-Thaw Spermatozoa Quality of the Endangered Javan Banteng with OPN Gene Expression",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:5bg8sr1QxYwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation between Post\u2010Thaw Spermatozoa Quality of the Endangered Javan Banteng with OPN Gene Expression",
+        "pub_year": "2023",
+        "citation": "Veterinary Medicine International 2023 (1), 9982422, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:prdVHNxh-e8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Alfa Enolase (ENO1) Membran Plasma Spermatozoa Sapi Bali Sebagai Protein Antigenik",
+        "pub_year": "2022",
+        "citation": "Acta VETERINARIA Indonesiana 10 (3), 262-269, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:FiytvqdAVhgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estrus Performance Of Ettawah Crossbreed (PE) Goats After Estrus Synchronization for Fixed Time Artificial Insemination",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:PYBJJbyH-FwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA barcoding of Macrocephalon maleo originating from Sulawesi, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (9), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:PaBasH6fAo0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Uji Berbasis Molekuler Protamine-1 (Prm1) Sebagai Penentu Tingkat Fertilitas untuk Proses Seleksi dan Kebijakan Pengafkiran Sapi Pejantan Unggul di Indonesia",
+        "pub_year": "2022",
+        "citation": "Policy Brief Pertanian, Kelautan, dan Biosains Tropika 4 (4), 367-374, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ziOE8S1-AIUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm Transcriptome Analysis Accurately Reveals Male Fertility Potential in Livestock. Animals 2022, 12, 2955",
+        "pub_year": "2022",
+        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:j7_hQOaDUrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implications of sperm heat shock protein 70-2 in bull fertility, Veterinary World, 15 (6): 1456-1466",
+        "pub_year": "2022",
+        "citation": "Abstract Heat shock protein 70, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:cK4Rrx0J3m0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE PRODUCTION OF FREEZE-DRIED EGG YOLK POWDER AND ITS EFFECT ON THE QUALITY OF GARUT RAM LIQUID SEMEN",
+        "pub_year": "2021",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 15 (2), 37-46, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:jL-93Qbq4QoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi Resipien Untuk Mendukung Keberhasilan Transfer Embrio Beku Belgian Blue",
+        "pub_year": "2021",
+        "citation": "IPB University, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:-nhnvRiOwuoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The validation of a commercial enzyme-linked immunosorbent assay and the effect of freeze-thaw cycles of serum on the stability of cortisol and testosterone concentrations in \u2026",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:oi2SiIJ9l4AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm protein markers for Holstein bull fertility at National Artificial Insemination Center in Indonesia, Veterinary World, 13 (5): 947-955",
+        "pub_year": "2020",
+        "citation": "Abstract, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:kVjdVfd2voEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative analysis of various step-dilution techniques on the quality of frozen Limousin bull semen, Veterinary World, 13 (11): 2422-2428",
+        "pub_year": "2020",
+        "citation": "Abstract, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:yqoGN6RLRZoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical Quality Assessment of Aceh Cattle Meat and Their Relationship with Meat Types and Hair Color Differences",
+        "pub_year": "2020",
+        "citation": "E3S Web of Conferences 151, 01004, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:4vMrXwiscB8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recipient Selection to Support The Success Rate of Frozen-Thawed Belgian Blue Embryo Transfer",
+        "pub_year": "2020",
+        "citation": "E3S Web of Conferences 151, 01048, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:HIFyuExEbWQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Advances in cryopreservation of bull sperm",
+        "pub_year": "2019",
+        "citation": "FRONTIERS MEDIA SA, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:2l5NCbZemmgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gambaran Spermatogenesis, Sel Leydig, dan Superoksida Dismutase Pada Testis Tikus Diabetes yang Diberi Tepung Tempe",
+        "pub_year": "2019",
+        "citation": "IPB University, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:3bvyWxjaHKcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalensi Delayed puberty, Hipofungsi Ovari, dan Silent Heat pada Sapi di Jawa Barat tahun 2017\u20132018",
+        "pub_year": "2019",
+        "citation": "IPB University, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:FiDNX6EVdGUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Angka Proporsi Morbiditas Endometritis, Korpus Luteum Persisten, dan Kawin Berulang pada Sapi di Provinsi Jawa Barat",
+        "pub_year": "2019",
+        "citation": "IPB University, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:pAkWuXOU-OoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PCS-4 In Vivo Embryo Production at Cipelang Livestock Embryo Centre",
+        "pub_year": "2018",
+        "citation": "Hemera Zoa, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:foquWX3nUaYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FA-10 Sperm Freezability of Various Breed of Bulls at Lembang AI Center",
+        "pub_year": "2018",
+        "citation": "Hemera Zoa, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:HbR8gkJAVGIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perangkat Mikrofluida Kain Katun untuk Deteksi Perdarahan Rektum Sapi Pascapalpasi Perrektal",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:VN7nJs4JPk0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Korelasi Ukuran Testis Dengan Bobot Badan Dan Konsentrasi Spermatozoa Pada Tiga Jenis Ayam Lokal",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:F2UWTTQJPOcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Kasus Kematian Embrio Dini pada Induk Kuda berdasarkan Gambaran Ultrasonografi.",
+        "pub_year": "2017",
+        "citation": "IPB (Bogor Agricultural University), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:w0F2JDEymm0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Kebuntingan, Parturasi dan Monitoring Stress secara Non-Invasif pada Monyet Hitam Sulawesi Betina (Macaca Nigra)",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:NDuN12AVoxsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sonogram Pemeriksaan Kebuntingan Dini pada Kambing Kacang (Capra hircus)",
+        "pub_year": "2016",
+        "citation": "Jurnal Sain Veteriner 34 (2), 188-192, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ILKRHgRFtOwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dinamika ovarium pada kuda hasil persilangan pejantan thoroughbred dengan induk lokal Indonesia",
+        "pub_year": "2016",
+        "citation": "Buletin Peternakan 40 (3), 157, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INTERNATIONAL SEMINAR IMPROVING TROPICAL ANIMAL PRODUCTION FOR FOOD SECURITY",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:kF1pexMAQbMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microencapsulation of bull spermatozoa: its viability in alginate-egg yolk media.",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:owLR8QvbtFgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sonogram of ovarian dynamic in kacang goat (Capra hircus).",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:mUJArPsKIAAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "XXVth Congress of the International Primatological Society August 11-16, 2014",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:M7yex6snE4oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FAECAL GLUCOCORTICOID MEASUREMENT AS INDICATOR STRESS IN WILD CRESTED MACAQUES (MACACA NIGRA): THE IMPORTANCE OF VALIDATION AND SAMPLE PROCESSING TECHNIQUES",
+        "pub_year": "2014",
+        "citation": "Proceedings of The Annual International Conference, Syiah Kuala University \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:tzM49s52ZIMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ovarian Dynamic and Early Pregnancy Detection in Kacang Goat (Capra hircus).",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:-7ulzOJl1JYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strengthening research capabilities in reproductive diagnostics, cryobanking and conservation biology of indigenous livestock in Indonesia. Editorial.",
+        "pub_year": "2012",
+        "citation": "Reproduction in Domestic Animals= Zuchthygiene 47, 1-1, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibody Polyclonal Production on Rabbit Anti-ovine Pregnancy-associated Glycoprotein (Rabbit Anti-ovpag)",
+        "pub_year": "2011",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 36 (3), 159-165, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE ROLE OF GLUCOSE AND PHOSPHATE IN IN VITRO CULTURE MEDIUM TO OVERCOME CELL BLOCK ON MOUSE EMBRYO",
+        "pub_year": "2011",
+        "citation": "Folia Medica Indonesiana 47 (3), 166, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:yB1At4FlUx8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pathway To Successful Breeding In The Sumatran Rhino At The Sumatran Rhino Sanctuary, Way Kambas National Park, Lampung (1998-2002)",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:DBa1UEJaJKAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plasma Membrane and Acrosome Intact of Timor Stag Spermatozoa in Tris Egg Yolk Diluent with Different Sources of Carbohydrate Stored at 3-5 derajajt Celcius",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:6bLC7aUMtPcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimalisasi konsentrasi kuning telur pada proses pembekuan semen domba garut (Ovis Aries)",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:1yWc8FF-_SYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semen Characteristics and Gross Testicular Morphornetry in Timor deer (cervus timorensis) stags during the annual antler cycle",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sexual behavior activity of timor deer (cervus iimorensis) in various types of grouping paddock",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimalisasi kualitas semen cair domba garut (Ovis aries) melalui penambahan maltosa ke dalam pengencer semen tris kuning telur",
+        "pub_year": "2010",
+        "citation": "IPB (Bogor Agricultural University), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Ade32sEp0pkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Occurrence of Sperm Abnormality of Beef Cattle at Several Artificial Insemination Centers in Indonesia",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:nRpfm8aw39MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm Quality and Artificial Insemination Small Ruminants In Indonesia",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:NyGDZy8z5eUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proses Partus pada Anoa (Bubalus sp.) di Penangkaran",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:bz8QjSJIRt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil Glukosa Darah Pada Berbagai Paritas Induk Sa Pi Perah Fries Holland Pasca Partus",
+        "pub_year": "2009",
+        "citation": "Partner 16 (2), 78-82, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:evX43VCCuoAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of isoflavone-enriched soybean flour, zinc (Zn) and vitamin E in the ration on testosterone level and total spermatogenic cell in seminiferous tubules of rat",
+        "pub_year": "2008",
+        "citation": "JURNAL ILMU TERNAK DAN VETERINER 13 (4), 288-294, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:hCrLmN-GePgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of isoflavone-enriched soybean flour, zinc (Zn) and vitamin E in the ration on testosterone level and total permatogenic cell in seminiferous tubules of rat",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:eflP2zaiRacC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The viability of fresh and extended semen of stallion with different sperm concentration in Dimitropoulos-modified extender",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biology of reproduction and artificial insemination of Timor deer (Cervus timorensis)",
+        "pub_year": "2007",
+        "citation": "IPB (Bogor Agricultural University), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Aul-kAQHnToC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas NADH-tetrazolium reductase sel sel trofoblas pada blastosis yang mengalami hatching dan gagal hatching",
+        "pub_year": "2007",
+        "citation": "Jurnal Anatomi Indonesia 1 (2), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:FPJr55Dyh1AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Kombinasi HCG (Human Chorionic Gonadotropin) dan Inhibitor Aromatase (IA) Terhadap Kematangan Oosit dan Ovulasi Pada Ikan Mas Koki (Carassius auratus)",
+        "pub_year": "2006",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Viability of the Stallion Spermatozoa after Centrifugation with Different Level of Seminal Plasma in Skim Milk Extender",
+        "pub_year": "2006",
+        "citation": "Animal Production 8 (3), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation of garut ram semen using lecithine-based extender",
+        "pub_year": "2005",
+        "citation": "REPRODUCTIVE BIOTECHNOLOGY FOR IMPROVED ANIMAL BREEDING IN SOUTHEAST ASIA, 181, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The development of semen collection methods in the sumatran rhinoceros (dicerorhinus sumatrensis, Fischer 1814)",
+        "pub_year": "2005",
+        "citation": "REPRODUCTIVE BIOTECHNOLOGY FOR IMPROVED ANIMAL BREEDING IN SOUTHEAST ASIA, 133, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of feeding serum on bovine blastocyst development",
+        "pub_year": "2005",
+        "citation": "IPB (Bogor Agriucltural University), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimalization of Equilibration and Thawing Methode on Freezing Process of Garut Ram Semen (Ovis aries)",
+        "pub_year": "2005",
+        "citation": "Journal of Animal Production, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimalization of Equilibration and Thawing Methode on Freezing Process of Garut Ram Semen (Ovis aries)",
+        "pub_year": "2005",
+        "citation": "Animal Production 7 (2), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEK SUSU SKIM YANG DISUPLEMENTASI ISOFLAVON KEDELAI DAN Zn",
+        "pub_year": "2004",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:kWvqk_afx_IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Susumeno (skim milk fortified with soy isoflavone and Zn supplement) on menopausal syndrome in premenopausal women",
+        "pub_year": "2004",
+        "citation": "Jurnal Teknologi dan Industri Pangan 15 (3), 179-179, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of reproductive performance of Garut rams",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Gallus varius biology and its conservation strategy through frozen semen production technology and artificial insemination",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of in vitro fertilization technique on increasing animal population and production of oviduct and serum of sheep",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Human Chorionic Gonadotropin (HCG) on Pregnant Mare Serum Gonadotropin PMSG-MoAB superovulation anti PMSG on increasing milk production and direct transfer method \u2026",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOSAINS",
+        "pub_year": "2002",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan Penggunaan Medium CR1aa dan KSOM sebagai Medium Kultur dalam Produksi Embrio Sapi In Vitro",
+        "pub_year": "2002",
+        "citation": "JITV 7 (1), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using CR1aa versus KSOM as the culture medium for in vitro embryo production of cattle.",
+        "pub_year": "2002",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFIKASI JENIS PLANKTON DI PERAIRAN MUARA BADAK, KALIMANTAN TIMUR",
+        "pub_year": "2000",
+        "citation": "Metode, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beberapa Sift Reproduksi dan Kegiatan Inseminasi Buatan pada Kerbau Lumpur di Brebes Jawa Tengah",
+        "pub_year": "2000",
+        "citation": "IPB (Bogor Agricultural University), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ZzlSgRqYykMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The experiments were carried out to study the influence of different sera on in vitro maturation and early development of ovine embryos. Sera used in this study were FLS (Fetal \u2026",
+        "pub_year": "2000",
+        "citation": "Media Veteriner 7 (1), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ye4kPcJQO24C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of in vitro production and laboratory evaluation of anti pregnant mare serum gonadotropin monoclonal antibody",
+        "pub_year": "1999",
+        "citation": "Hayati (Indonesia) 6 (1), 1999"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of direct transfer method on embryo cryopreservation in dairy cattle",
+        "pub_year": "1999",
+        "citation": "Media Veteriner 6 (1), 1999"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi, kriopreservasi dan penentuan jenis kelamin embrio hasil fertilisasi in vitro menggunakan sumber sel telur anak sapi",
+        "pub_year": "1998",
+        "citation": "IPB (Bogor Agricultural University), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:9pM33mqn1YgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of Homologous and Heterologous Sera in Culture Medium On in vitro Maturation and Fertilization of Sheep Oocytes",
+        "pub_year": "1998",
+        "citation": "Media Veteriner 5 (1), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on The Application of Human Chorionic Gonadotropin (hCG) in Dairy Cow Superovulated with Pregnant Mare Serum Gonadotropin-Monoclonal Antibody (PMSG-MoAb) ANTI PMSG",
+        "pub_year": "1998",
+        "citation": "Media Veteriner 5 (2), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biopotency test of monoclonal antibody anti pregnant mare serum gonadotropin in dairy cattle",
+        "pub_year": "1998",
+        "citation": "Hayati: Jurnal Biosains (Indonesia) 5 (3), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Stage of Estrous Cycle on The Development of Bovine Embryo Matured and Fertilized in Vitro",
+        "pub_year": "1996",
+        "citation": "Media Veteriner 3 (1), 1996"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Folliculogenic changes and embryo recovery results using 3 or 8 FSH injections to superovulate heifers",
+        "pub_year": "1994",
+        "citation": "Acta Veteromaroa Scandinavica Section A 35, 89-92, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:uVUOdF_882EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dyrkning af tidlige svineembryoner med Ovidukt epithel celler",
+        "pub_year": "1992",
+        "citation": "Acta Veterinaria Scandinavica 33, 349-355, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:MhiOAD_qIWkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biastomer antal i dyrkede/nedfrosne bovine demienbryoner",
+        "pub_year": "1992",
+        "citation": "Acta Veterinaria Scandinavica 33, 363-367, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:kw52XkFRtyQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u00bb Frysning af halve kv\u00e6gembryoner efter forudg\u00e5ende dyrkning \u00ab.",
+        "pub_year": "1992",
+        "citation": "Acta Veterinaria Scandinavica 33, 237-243, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:WHdLCjDvYFkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Age-dependent variations in proteomic characteristics of spermatozoa in Simmental bull",
+        "citation": "Frontiers in Veterinary Science 11, 1393706, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:SGW5VrABaM0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tinjauan kejadian anestrus pada sapi perah suatu: studi kasus di wilayah Kabupaten Daerah tingkat II Bogor",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:EPG8bYD4jVwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penampilan reproduksi sapi perah suatu studi kasus di Kabupaten daerah tingkat II Bogor Propinsi Jawa Barat",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:kzcSZmkxUKAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sperm Freezability of Various Breed of Bulls at Lembang AI Center",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:WAzi4Gm8nLoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gangguan reproduksi pada sapi perah: suatu studi kasus di Kabupaten Daerah Tingkat II Bogor Propinsi Jawa Barat",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:YsrPvlHIBpEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of biodegradable polymers: Chitosan, polyethylene glycol, and polycaprolactone as materials for progesterone intravaginal devices",
+        "citation": "Livestock and Animal Research 22 (1), 11-24, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:KNjnJ3z-R6IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh fosfat, glukosa dan kombinasinya dalam medium kultur in vitro terhadap perkembangan embrio mencit",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:sszUF3NjhM4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek susu skim yang disuplementasi Isoflavon kedelai dan Zn (\" Sususmeno\") terhadap sindrom menopause",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:U_HPUtbDl20C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Quality of Rats Spermatozoa Fed Isofl avone-Riched Soybean Flour, Zinc (Zn) and Vitamin E",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:PyEswDtIyv0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh kombinasi penyuntikan ovalium dan prostaglandin F2 (alpa) terhadap daya rangsang ovulasi dan kualitas telur ikan lele dumbo (Clarias gariepinus Burcheel)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:-jrNzM816MMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Semen Segar dan Kualitas Semen dan Kualitas Semen Cair Kuda dalam Penegncer Dimitropoulos yang Disuplementsi dengan Fruktosa, Trehalosa dan Rafinosa",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:QyXJ3EUuO1IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Menuju Swasembada Sumber Pangan Protein Hewani",
+        "citation": "IPB Press, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:OBSaB-F7qqsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Analysis of Jembrana Disease in South Kalimantan Province",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:HGTzPopzzJcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biometry of the External Reproductive Organ and Characteristics of Ejaculate of the Anoa (Bubalus sp.) Collected by Electroejaculator After Injected with hCG",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Dem6FJhTUoYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons Hormonal-Imunitas Wanita Premenpause Yang Diintervensi Minuman Fungsional Berbasis Susu Disuplementasi Dengan 100 Mg Isoflavon Kedelai Dan 8 Mg Zn-Sulfat (Susumeno)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:jE2MZjpN3IcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik dan Upaya Kriopreservasi Semen dalam Rangka Peningkatan Produksi Benih Lele Dumbo (Clarias gariepinus Burchell 1822)",
+        "citation": "IPB (Bogor Agriculture University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:KaMxkj08jr0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangbiakan anoa melalui pengkajian dan penerapan teknologi inseminasi buatan (ib) dan induksi estrus sebagai usaha Konservasi satwa langka",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:1Ye0OR6EYb4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian perilaku reproduksi, preservasi semen, dan teknik inseminasi buatan pada anoa (Bubalus Sp.) di Penangkaran",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:6_hjMsCP8ZoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fecal Estrogen And Progesterone Analysis In The Captive Javan Gibbon (Hylobates Moloch Audebert 1797) Maintained in Individual Cage",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:q-HalDI95KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Fase Siklus Estrus Tereadap Perkembangan Embrio Sapi Hasil Pematangan Dan Pembuahan In Yltro",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:SjuI4pbJlxcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji biopotensi antibodi monoklonal anti pregnant mare serum gonadotropin pada sapi perah",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:WC9gN4BGCRcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi dan isolasi neospora caninum Penyebab abortus pada sapi perah dalam rangka pengembangan diagnostik dan produksi vaksin",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:CdxZDUztZiMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Case Report Kejadian Freemartin",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:LPtt_HFRSbwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Semen Eeku Dan Pengembangan Teknik Inse-Minasi Buatan Pada Badak Sumatra Untuk K~ nse~ wasi Plasma Nutlah Dan Keanekaragarnan Hayati",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:3NQIlFlcGxIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preservasi Sperma dan Evaluasi Kesuburan Badak Sumatera (Dicerorhinus Sumatrensis, Fischer 1814) untuk Mendukung Pengembangbiakan dalam Upaya Pelestarian Keanekaragaman Hayati",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:hsZV8lGYWTMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Case Report Kejadian Retensi Plasenta",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:Br1UauaknNIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GAMBARAN UMUM KAJIAN PROFIL HORMON STEROID MENGGUNAKAN METODE NON-INVASIF DARI SAMPEL FESES (GENERAL OVERVIEW ON STEROID HORMONES PROFILE USING NON INVASIVE ASSESSMENT FROM \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:L1USKYWJimsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "cattle [version 1; peer review: 1 approved, 1 approved with",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:1taIhTC69MYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genomic Diversity of Native Cattle Breeds in Indonesia",
+        "citation": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:mNrWkgRL2YcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE SPERM MORPHOLOGICAL ASSESSMENT OF BULL SEMEN AT SEVERAL ARTIFICIAL INSEMINATION CENTERS IN INDONESIA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:9c2xU6iGI7YC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rifikasi Ovine Pregnancy-Associated Glycoprotein (ovPAG) dalam Urine sebagai Penanda Kebuntingan Dini pada Domba Garut",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:anf4URPfarAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SEMEN COLLECTED FROM THREE ARTIFICIAL INSEMINATION CENTERS IN INDONESIA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:GtLg2Ama23sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "cattle [version 1; peer review: awaiting peer review]",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:kh2fBNsKQNwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Filogeni, Ekologi Variasi Genetika dan Reproduksi Anoa (Famili Bovidae) Di Wilayah Sulawesi Tenggara",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:YohjEiUPhakC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estrous Behavior in the Thoroughbred-Indonesian Local Crossbred Mares",
+        "citation": "International Seminar on Tropical Animal Production (ISTAP), 536-540, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:URolC5Kub84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Biopotensi Antibodi Monoklonal Anti Pregnant Mare Serum Gonadotropin pada Sapi Perah (Biopotency Test of Monoclonal Antibody Anti Pregnant Mare Serum Gonadotropin in Dairy \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH FASE SIKLUS ESTRUS TERHADAP PERKEMBANGAN EM BRIO SAPI HASIL PEMATANGAN DAN PEMBUAHAN IN VITRO THE EFFECT OF STAGE OF ESTROUS CYCLE ON THE DEVELOPMENT OF BOVINE EMBRYO \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KRIOPRESERVASI SEMEN RUSA TIMOR (Cervus timorensis) DALAM GLISEROL",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring Follicle Size with Ultrosound as an Important Tool to Determine a Proper Time for Mating in the Sumatran Rhinoceros Dicerorhinus sumatrensis (FISCHER 1814) in the \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NkxEGMAAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 17,
+    "not_available": 0
+  }
+}

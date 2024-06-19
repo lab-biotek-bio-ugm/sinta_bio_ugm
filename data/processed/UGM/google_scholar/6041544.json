@@ -1,0 +1,3291 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "8U74n-sAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Jaka Widada",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8U74n-sAAAAJ&citpid=6",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Molecular Microbiology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 1853,
+  "citedby5y": 941,
+  "hindex": 22,
+  "hindex5y": 17,
+  "i10index": 51,
+  "i10index5y": 35,
+  "cites_per_year": {
+    "2001": 6,
+    "2002": 15,
+    "2003": 21,
+    "2004": 37,
+    "2005": 45,
+    "2006": 51,
+    "2007": 38,
+    "2008": 47,
+    "2009": 40,
+    "2010": 41,
+    "2011": 39,
+    "2012": 48,
+    "2013": 56,
+    "2014": 60,
+    "2015": 63,
+    "2016": 65,
+    "2017": 77,
+    "2018": 139,
+    "2019": 108,
+    "2020": 149,
+    "2021": 190,
+    "2022": 197,
+    "2023": 205,
+    "2024": 86
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent developments in molecular techniques for identification and monitoring of xenobiotic-degrading bacteria and their catabolic genes in bioremediation",
+        "pub_year": "2002",
+        "citation": "Applied Microbiology and Biotechnology 60, 45-59, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 185,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13765570299800430430",
+      "cites_id": [
+        "13765570299800430430"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular detection and diversity of polycyclic aromatic hydrocarbon-degrading bacteria isolated from geographically diverse sites",
+        "pub_year": "2002",
+        "citation": "Applied Microbiology and Biotechnology 58, 202-209, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 170,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3544713335661482977",
+      "cites_id": [
+        "3544713335661482977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Divergent Structures of Carbazole Degradative car Operons Isolated from Gram-negative Bacteria",
+        "pub_year": "2004",
+        "citation": "Bioscience, biotechnology, and biochemistry 68 (7), 1467-1480, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 62,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14532218367370477236",
+      "cites_id": [
+        "14532218367370477236"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh inokulasi mikoriza arbuskula terhadap pertumbuhan dan hasil kedelai (Glycine max (L.) Merrill) pada berbagai interval penyiraman",
+        "pub_year": "2013",
+        "citation": "Vegetalika 2 (2), 7-20, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15996343752809080421",
+      "cites_id": [
+        "15996343752809080421"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced degradation of carbazole and 2, 3-dichlorodibenzo-p-dioxin in soils by Pseudomonas resinovorans strain CA10",
+        "pub_year": "2002",
+        "citation": "Chemosphere 49 (5), 485-491, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5039288889516469767",
+      "cites_id": [
+        "5039288889516469767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A potential bacterial biocontrol agent, strain S2V2 against pathogenic marine Vibrio in aquaculture",
+        "pub_year": "2009",
+        "citation": "World Journal of Microbiology and Biotechnology 25, 1103-1113, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14794327839600018593",
+      "cites_id": [
+        "14794327839600018593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Novel marine carbazole-degrading bacteria",
+        "pub_year": "2009",
+        "citation": "FEMS microbiology letters 292 (2), 203-209, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11298234899239684803",
+      "cites_id": [
+        "11298234899239684803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary examinations for applying a carbazole-degrader, Pseudomonas sp. strain CA10, to dioxin-contaminated soil remediation",
+        "pub_year": "2001",
+        "citation": "Applied microbiology and biotechnology 56, 788-795, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:qjMakFHDy7sC",
+      "num_citations": 44,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12732146826276756680",
+      "cites_id": [
+        "12732146826276756680"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antifungal production of a strain of Actinomycetes spp isolated from the rhizosphere of cajuput plant: selection and detection of exhibiting activity against tested fungi",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Biotechnology 16 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1886720071605895633",
+      "cites_id": [
+        "1886720071605895633"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quantification of the carbazole 1, 9a-dioxygenase gene by real-time competitive PCR combined with co-extraction of internal standards",
+        "pub_year": "2001",
+        "citation": "FEMS microbiology letters 202 (1), 51-57, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8135170353081931590",
+      "cites_id": [
+        "8135170353081931590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mekanisme antibiosis Bacillus subtilis B315 untuk pengendalian penyakit layu bakteri kentang",
+        "pub_year": "2015",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 15 (1), 64-71, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:_kc_bZDykSQC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1769075641939997349",
+      "cites_id": [
+        "1769075641939997349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of thermostable protease producing microorganisms isolated from Indonesian hotspring",
+        "pub_year": "2012",
+        "citation": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology 7 (3 \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:WF5omc3nYNoC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3932073114895159893",
+      "cites_id": [
+        "3932073114895159893"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The interactive effects of arbuscular mycorrhizal fungi and rhizobacteria on the growth and nutrients uptake of sorghum in acid soil",
+        "pub_year": "2007",
+        "citation": "First international meeting on microbial phosphate solubilization, 173-177, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7311420748538475278",
+      "cites_id": [
+        "7311420748538475278"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan pohon pelindung dalam menentukan produktivitas kopi",
+        "pub_year": "2020",
+        "citation": "Jurnal agrotropika 17 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:5nxA0vEk-isC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=975567354547213758",
+      "cites_id": [
+        "975567354547213758"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kebutuhan air, efisiensi penggunaan air dan ketahanan kekeringan kultivar kedelai",
+        "pub_year": "2015",
+        "citation": "Agritech 35 (1), 114-120, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:v7LLNfYe7h0C",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5391815855131942883",
+      "cites_id": [
+        "5391815855131942883"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian sifat fisiologis kultivar kedelai (Glycine max (L.) Merr.) dan ketergantungannya terhadap mikoriza",
+        "pub_year": "2014",
+        "citation": "Vegetalika 3 (1), 45-52, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2044653278562778903",
+      "cites_id": [
+        "2044653278562778903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotypic and phenotypic characterization of Alcaligenes javaensis JG3 potential as an effective biodegrader",
+        "pub_year": "2022",
+        "citation": "BIOTROPIA, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:kxd3qP2_5uAC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11792088708298284034",
+      "cites_id": [
+        "11792088708298284034"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secretion of organic acids by phosphate solubilizing bacteria",
+        "pub_year": "2009",
+        "citation": "Journal of Tropical Soils 14 (3), 245-251, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11864240811863534256,11113706779207355609",
+      "cites_id": [
+        "11864240811863534256",
+        "11113706779207355609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh tipe agroekosistem terhadap produktivitas dan keberlanjutan usahatani kopi",
+        "pub_year": "2020",
+        "citation": "Jurnal Agrotropika 15 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17550541795148304397",
+      "cites_id": [
+        "17550541795148304397"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of moaC and a nontarget gene fragments of food\u2010borne pathogen Alcaligenes sp. JG3 using degenerate colony and arbitrary PCRs",
+        "pub_year": "2017",
+        "citation": "Journal of food safety 37 (4), e12345, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:S_Qw7xXuMuIC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6674790449721961122",
+      "cites_id": [
+        "6674790449721961122"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative evaluation of conventional versus rapid methods for amplifiable genomic DNA isolation of cultured Azospirillum sp. JG3",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Chemistry 13 (3), 248-253, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11417834640166870814",
+      "cites_id": [
+        "11417834640166870814"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh inokulasi jamur mikoriza arbuskula terhadap glomalin, pertumbuhan dan hasil padi",
+        "pub_year": "2014",
+        "citation": "Sains Tanah-Journal of Soil Science and Agroclimatology 11 (1), 39-46, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:k_IJM867U9cC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13021132794574664286",
+      "cites_id": [
+        "13021132794574664286"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Amplification of Azospirillum sp. JG3 glpd gene fragment using degenerate primers generated by web-based tools",
+        "pub_year": "2013",
+        "citation": "The Journal of Microbiology, Biotechnology and Food Sciences 3 (3), 231, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:maZDTaKrznsC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13264499130084395654",
+      "cites_id": [
+        "13264499130084395654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil bacterial diversity and productivity of coffee-shade tree agro-ecosystems",
+        "pub_year": "2012",
+        "citation": "Journal of Tropical Soils 17 (2), 181-187, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ufrVoPGSRksC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13662595478344904700",
+      "cites_id": [
+        "13662595478344904700"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penambatan nitrogen dan penghasilan indol asam asetat oleh isolat-isolat Azotobacter pada pH rendah dan aluminium tinggi",
+        "pub_year": "2007",
+        "citation": "Jurnal Ilmu Tanah dan Lingkungan 7 (1), 23-30, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4310528300324309748",
+      "cites_id": [
+        "4310528300324309748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic characterization of the dibenzofuran-degrading Actinobacteria carrying the dbfA1A2 gene homologues isolated from activated sludge",
+        "pub_year": "2004",
+        "citation": "FEMS microbiology letters 239 (1), 147-155, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16749009864660156169",
+      "cites_id": [
+        "16749009864660156169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Safety assessment of indigenous probiotic strain Lactobacillus plantarum Dad-13 isolated from dadih using sprague dawley rats as a model",
+        "pub_year": "2019",
+        "citation": "Am J Pharmacol Toxicol 14 (1), 38-47, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:zmHQPunddckC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16379775200896046270",
+      "cites_id": [
+        "16379775200896046270"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of different inoculum combination on biohydrogen production from melon fruit waste",
+        "pub_year": "2018",
+        "citation": "International Journal of Renewable Energy Development 7 (2), 101, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Z7R3Ocg27JUC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16598256962889180732",
+      "cites_id": [
+        "16598256962889180732"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Layanan Lingkungan Pohon Pelindung pada Sumbangan Hara dan Produktivitas Agroekosistem Kopi",
+        "pub_year": "2008",
+        "citation": "Pelita Perkebunan 25 (1), 23-37, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Lpa4s8qvUTIC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4693483377456129671",
+      "cites_id": [
+        "4693483377456129671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of types of manure and mycorrhizal applications on sandy soils on the growth and yield of curly red chili (Capsicum annum L.).",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:5-bGDoUgDrYC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14097866266922402038",
+      "cites_id": [
+        "14097866266922402038"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of CRISPR/Cas9 genome editing system for molecular breeding of orchids",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Biotechnology 25 (1), 61-68, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:rQKKVauEoioC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980159518272075448",
+      "cites_id": [
+        "6980159518272075448"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\ufeff\ufeff\ufeff\ufeff ISOLASI DAN SELEKSI PSEUDOMONAD FLUORESCENS PADA RISOSFER PENYAMBUNGAN TOMAT",
+        "pub_year": "2013",
+        "citation": "Berkala ilmiah pertanian 1 (1), 15-18, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11278002613373887371",
+      "cites_id": [
+        "11278002613373887371"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and screening of antimicrobial producing-actinomycetes symbionts in nudibranch",
+        "pub_year": "2009",
+        "citation": "Indonesian Journal of Biotechnology 14 (1), 1132-1138, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:aqlVkmm33-oC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=270802087538225876",
+      "cites_id": [
+        "270802087538225876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination methods for screening marine actinomycetes producing potential compounds as anticancer",
+        "pub_year": "2007",
+        "citation": "Indones J Biotechnol 12, 988-997, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=369688043071705306",
+      "cites_id": [
+        "369688043071705306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Two strains of airborne Nocardiopsis alba producing different volatile organic compounds (VOCs) as biofungicide for Ganoderma boninense",
+        "pub_year": "2021",
+        "citation": "FEMS Microbiology Letters 368 (20), fnab138, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:2hrGa7H818QC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6048383858772647752",
+      "cites_id": [
+        "6048383858772647752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Methane production potential of soil profile in organic paddy field.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:QZWLLlSfqgYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5774622897727031671",
+      "cites_id": [
+        "5774622897727031671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Grafting local commercial tomato cultivars with H-7996 and EG-203 to suppress bacterial wilt (Ralstonia solanacearum) in Indonesia",
+        "pub_year": "2013",
+        "citation": "IV International Symposium on Tomato Diseases 1069, 173-178, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1035315793626836027",
+      "cites_id": [
+        "1035315793626836027"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secondary bioactive metabolite gene clusters identification of anticandida-producing Streptomyces sp. GMR22 isolated from Wanagama forest as revealed by genome mining approach",
+        "pub_year": "2017",
+        "citation": "Indonesian Journal of Pharmacy 28 (1), 26, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:eJjLl3UG7CkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=490226346385690611",
+      "cites_id": [
+        "490226346385690611"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi jamur mikoriza arbuskular unggul dalam peningkatan pertumbuhan dan kesehatan bibit tebu (Saccharum officinarum L.)",
+        "pub_year": "2015",
+        "citation": "Ilmu Pertanian 18 (2), 84-91, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:8cBNEdFwSQkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12071681467133834407",
+      "cites_id": [
+        "12071681467133834407"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Jamur Mikoriza Arbuskular, Jenis Pupuk Fosfat dan Takaran Kompos terhadap Pertumbuhan Bibit Tebu (Saccharum officinarum L.) pada Media Pasir Pantai",
+        "pub_year": "2014",
+        "citation": "Vegetalika 3 (1), 102-115, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:z-B63o8J19IC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12202106573251439728",
+      "cites_id": [
+        "12202106573251439728"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Consumption of Probiotic Powder Containing Lactobacillus Plantarum Dad-13 on Fecal Bacterial Population in School-Age Children in Indonesia.",
+        "pub_year": "2019",
+        "citation": "International Journal of Probiotics & Prebiotics 14 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ey9_mCyZ-VYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15306928055971593852",
+      "cites_id": [
+        "15306928055971593852"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of actinomycetes at several forest types in Wanagama I Yogyakarta and their potency as a producer of antifungal compound",
+        "pub_year": "2009",
+        "citation": "Indonesian Journal of Biotechnology 14 (2), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8399663314874989669",
+      "cites_id": [
+        "8399663314874989669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of soybean grown on acid soil to inoculation of vesiculararbuscular mycorrhizalfungi",
+        "pub_year": "1995",
+        "citation": "Biotrop Spec. Publ. No56, 131-137, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9536738003995683743",
+      "cites_id": [
+        "9536738003995683743"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabologenomics approach to the discovery of novel compounds from Streptomyces sp. GMR22 as anti-SARS-CoV-2 drugs",
+        "pub_year": "2021",
+        "citation": "Heliyon 7 (11), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:AOwgc6nnr1EC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2650888328439218169",
+      "cites_id": [
+        "2650888328439218169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Bakteri Pendegradasi Fenol Dan Pembentuk Biofilm Dari Sumber Alami Dan Artifisial",
+        "pub_year": "2016",
+        "citation": "Kaunia Jurnal Sains dan Teknologi 9 (1), 40-50, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:lSLTfruPkqcC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11193204323118977086",
+      "cites_id": [
+        "11193204323118977086"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Methane emission on organic rice experiment using Azolla",
+        "pub_year": "2016",
+        "citation": "International Journal of Applied Environmental Sciences 11 (1), 295-308, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11032749972805807324",
+      "cites_id": [
+        "11032749972805807324"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Legume nodulating bacterium, Achromobacter xylosoxidans found in tropical shrub agroecosystem, Sumatera, Indonesia",
+        "pub_year": "2013",
+        "citation": "Maj Kedokt Indon 18 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9829229562749153791",
+      "cites_id": [
+        "9829229562749153791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated transformation facillitates the CRISPR/Cas9 genome editing system in Dendrobium macrophyllum A. Rich orchid",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:HkunuPqSaCsC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17581653446950068900",
+      "cites_id": [
+        "17581653446950068900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Citrinin and color analysis of angkak collected from several regions in Indonesia",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:RwQ8IgSj6xkC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12023008796883535237",
+      "cites_id": [
+        "12023008796883535237"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interaksi Meloidogyne incognita dan Fusarium solani pada penyakit kuning lada",
+        "pub_year": "2017",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 21 (2), 127-134, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:vefPE_iVbj4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1942470473415785382",
+      "cites_id": [
+        "1942470473415785382"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi, karakterisasi dan uji infeksi bakteri proteolitik dari lumpur kawasan hutan bakau",
+        "pub_year": "2009",
+        "citation": "Jurnal Perikanan Universitas Gadjah Mada 11 (1), 13-18, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:GnPB-g6toBAC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15423909954550477752",
+      "cites_id": [
+        "15423909954550477752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of an agrobacterium-delivered CRISPR/Cas9 for Phalaenopsis amabilis (L.) Blume genome editing system",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:SgTKrLvt1DcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8267536812530956892",
+      "cites_id": [
+        "8267536812530956892"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of legume nodulating bacteria as key variable of coffee agro-ecosystem productivity",
+        "pub_year": "2013",
+        "citation": "International Research Journal of Agricultural Science and Soil Science 3 (4 \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1206025866178689610",
+      "cites_id": [
+        "1206025866178689610"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan serasah terhadap sumbangan N dan P pada agroekosistem kopi",
+        "pub_year": "2012",
+        "citation": "Agrotrop 2 (2), 177-183, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:hC7cP41nSMkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8789237211043176158",
+      "cites_id": [
+        "8789237211043176158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil-derived Streptomyces sp. GMR22 producing antibiofilm activity against Candida albicans: bioassay, untargeted LC-HRMS, and gene cluster analysis",
+        "pub_year": "2022",
+        "citation": "Heliyon 8 (4), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:j33aPA1ap8EC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16672537107802627057",
+      "cites_id": [
+        "16672537107802627057"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular identification of phenol-degrading and Biofi Lm-Forming bacteria from wastewater and peat soil",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Biotechnology 19 (2), 99-110, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7477065045996244039",
+      "cites_id": [
+        "7477065045996244039"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water use, water use efficiency and drought tolerance of soybean cultivars",
+        "pub_year": "2015",
+        "citation": "AGRITECH-JURNAL TEKNOLOGI PERTANIAN 35 (1), 114-120, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:lBZ7XAAYe3oC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7350559524183794357",
+      "cites_id": [
+        "7350559524183794357"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan dan hasil padi sawah organik dengan menggunakan pupuk kandang sapi dan azolla",
+        "pub_year": "2015",
+        "citation": "Caraka Tani: Journal of Sustainable Agriculture 30 (2), 69-75, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:z3pV1qEBaUAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15993806929621570034",
+      "cites_id": [
+        "15993806929621570034"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosulfo fertilizer development for horticulture crops II. The effect of phosphate rock content and inoculum ratio of biosulfo on P and S uptake and yield of red onion in acid \u2026",
+        "pub_year": "2012",
+        "citation": "Agrivita journal of agricultural science 33 (3), 265-272, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:qUcmZB5y_30C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8163734009706824097",
+      "cites_id": [
+        "8163734009706824097"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antifungal production of a strain of Actinomycetes spp isolated from the rhizosphere of cajuput plant: selection and detection of exhibiting activity against tested fungi",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Biotechnology 15 (1), 1-10, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:xUD2GqFNeDMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5858453179717427352",
+      "cites_id": [
+        "5858453179717427352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacillus is one of the most potential genus as a biocontrol agent of golden cyst nematode (Globodera rostochiensis)",
+        "pub_year": "2021",
+        "citation": "Archives of Phytopathology and Plant Protection 54 (19-20), 2191-2205, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:tswL-GKFg8UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=181766188542540959",
+      "cites_id": [
+        "181766188542540959"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of bacillus spp. From the rhizosphere of potato granola varieties as an antibacterial against ralstonia solanacearum",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (9), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:W8gSVh4kTHQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15889385158638132240",
+      "cites_id": [
+        "15889385158638132240"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ability of non symbiotic nitrogen-fixing bacteria isolated from coffee plant rhizosphere and their effects on Robusta coffee seedlings",
+        "pub_year": "2012",
+        "citation": "Journal of Agricultural Science and Technology. A 2 (5A), 660, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:roLk4NBRz8UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14020833497542033982",
+      "cites_id": [
+        "14020833497542033982"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peran JMA dan bakteri penghasil ACC deaminase terhadap pertumbuhan dan hasil bawang merah pada cekaman salinitas",
+        "pub_year": "2012",
+        "citation": "Vegetalika 1 (2), 139-152, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6546751769522721450",
+      "cites_id": [
+        "6546751769522721450"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "16s rRNA sequence analysis and ammonium excretion ability of nitrogen fixing bacteria isolated from mineral acid soil",
+        "pub_year": "2009",
+        "citation": "Indonesian Journal of Biotechnology 14 (2), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:isC4tDSrTZIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10805329735891597650",
+      "cites_id": [
+        "10805329735891597650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of altitude and wounding on blood disease progress of plantain",
+        "pub_year": "2007",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 7 (2), 111-116, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7605930749350999874",
+      "cites_id": [
+        "7605930749350999874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification of synthetic oligonucleotides on a weak ion-exchange column",
+        "pub_year": "1989",
+        "citation": "Journal of Chromatography A 476, 439-443, 1989"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:dIILA_La5fwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4620049576202903026",
+      "cites_id": [
+        "4620049576202903026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi asam humat dan asam fulvat pada ultisol dengan pemberian limbah segar organik dan pengalengan nenas",
+        "pub_year": "2018",
+        "citation": "Jurnal Tanah Dan Air (Soil and Water Journal) 14 (2), 83-90, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:X1xEhyGaivYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12810400772074163242",
+      "cites_id": [
+        "12810400772074163242"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Fusarium dan nematoda parasitik yang berasosiasi dengan penyakit kuning lada di Kalimantan Barat",
+        "pub_year": "2015",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 19 (1), 19-26, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:oYVvnHz_XzQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5374600756067507367",
+      "cites_id": [
+        "5374600756067507367"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of Nonribosomal Peptide Synthetase Genes in the AnticancerProducing Actinomycetes Isolated from Marine Sediment in Indonesia",
+        "pub_year": "2015",
+        "citation": "Indonesian Journal of Biotechnology 20 (1), 34-41, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13835598614752368061",
+      "cites_id": [
+        "13835598614752368061"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification and characterization of the newly thermostable protease produced by Brevibacillus thermoruber LII isolated From Padang Cermin Hotspring, Indonesia",
+        "pub_year": "2014",
+        "citation": "Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology 9 (1 \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:dhFuZR0502QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6171955712325374762",
+      "cites_id": [
+        "6171955712325374762"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh fungi mikoriza arbuskular dalam medium zeolit terhadap pertumbuhan dan intensitas penyakit bercak daun pada bibit kakao",
+        "pub_year": "2012",
+        "citation": "Jurnal Agroteknologi Tropika 1 (1), 1-7, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:mB3voiENLucC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=474641798382236706",
+      "cites_id": [
+        "474641798382236706"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi dan Deteksi Cepat Bakteri Penyebab Penyakit Darah pada Pisang",
+        "pub_year": "2011",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 17 (1), 26-30, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:blknAaTinKkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=643686466700477089",
+      "cites_id": [
+        "643686466700477089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning of thermostable DNA polymerase gene from a thermophilic Brevibacillus sp. isolated from Sikidang Crater, Dieng Plateu, Central Java",
+        "pub_year": "2010",
+        "citation": "Indonesian Journal of Biotechnology 15 (2), 72-78, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=138326785355961660",
+      "cites_id": [
+        "138326785355961660"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Volatile organic compounds of Streptomyces sp. GMR22 inhibit growth of two plant pathogenic fungi.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:V8JMcbNWlSUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17261873578308221331",
+      "cites_id": [
+        "17261873578308221331"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Genes Associated with Jasmonic Acid and Salicylic Acid Are Induced in Tropical Chili Pepper against Ralstonia solanacearum by Applying Arbuscular \u2026",
+        "pub_year": "2022",
+        "citation": "Horticulturae 8 (10), 876, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:csTP5AdqY_wC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5200374267053584607",
+      "cites_id": [
+        "5200374267053584607"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiplasmodial activity, biosynthetic gene clusters diversity, and secondary metabolite constituent of selected Indonesian Streptomyces",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:96M4k3P_OWMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15370771270963338153",
+      "cites_id": [
+        "15370771270963338153"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytotoxicity and molecular mechanism of marine-derived Streptomyces sp. GMY01 on human lung cancer cell line A549",
+        "pub_year": "2021",
+        "citation": "Journal of Applied Pharmaceutical Science 11 (6), 046-055, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:DGpvO1n63MYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16056260885706105629",
+      "cites_id": [
+        "16056260885706105629"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioassay guided fractionation of marine Streptomyces sp. GMY01 and antiplasmodial assay using microscopic and flow cytometry method",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Pharmacy, 281\u2013289-281\u2013289, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:5McdzzY_mmwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2281633581093131803",
+      "cites_id": [
+        "2281633581093131803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ketersediaan Fosfor pada Tanah Andisol untuk Jagung (Zea maysL.) oleh Inokulum Bakteri Pelarut Fosfat",
+        "pub_year": "2013",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 41 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:0EnyYjriUFMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15686936709824176233",
+      "cites_id": [
+        "15686936709824176233"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Murwantoko 2018 Hayati J",
+        "citation": "Biosci 25, 198-205, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:MIUEjqm7qCUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17295601741715700154",
+      "cites_id": [
+        "17295601741715700154"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of phosphate-solubilizing bacteria isolated from acidic Ultisol soil, South Borneo",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 449 (1), 012005, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Fx13dKtzC7kC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1710825571998198234",
+      "cites_id": [
+        "1710825571998198234"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carbon dioxide emission and carbon sequestration potential in Alfisol.",
+        "pub_year": "2019",
+        "citation": "Bulgarian Journal of Agricultural Science 25 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:bNB6FdaCRgEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6723312967979116486",
+      "cites_id": [
+        "6723312967979116486"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution of ammonium-oxidizing bacteria in sediment with relation to water quality at the Musi River, Indonesia",
+        "pub_year": "2018",
+        "citation": "HAYATI Journal of Biosciences 25 (4), 198-198, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Agc8PWtS8JkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6993319661038071597,4500568420957414935",
+      "cites_id": [
+        "6993319661038071597",
+        "4500568420957414935"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The significance of water quality parameters on the diversity of ammonia-oxidizing bacteria in the water surface of Musi river, Indonesia.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:HKuYlFsi-qEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3765078641068615131",
+      "cites_id": [
+        "3765078641068615131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Makrokosmos Bioremediasi Tanah Tercemar Minyak Bumi Melalui Inokulasi Mikroorganisme dan Pemberian Nutrisi Berulang",
+        "pub_year": "2012",
+        "citation": "Jogjakarta: Laboratorium Mikrobiologi Tanah dan Lingkungan, Universitas \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:8moDcb_GFzgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12011766726184512681",
+      "cites_id": [
+        "12011766726184512681"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of culture conditions to produce thermostable keratinolytic protease of Brevibacillus thermoruber LII, isolated from the Padang Cermin Hot Spring, Lampung, Indonesia",
+        "pub_year": "2012",
+        "citation": "Microbiology Indonesia 6 (4), 8-8, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1514939689660846620",
+      "cites_id": [
+        "1514939689660846620"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecosystem Service of Shade Trees on Nutrient Cycling and Productivity of Coffee Agro-ecosystems",
+        "pub_year": "2009",
+        "citation": "Pelita Perkebunan (a Coffee and Cocoa Research Journal) 25 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12066002911683139111",
+      "cites_id": [
+        "12066002911683139111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Caecal bacterial composition of broiler chickens affected by porang glucomannan.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:-XtG2q47PdUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4535084123065945423",
+      "cites_id": [
+        "4535084123065945423"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recovery of Indigenous probiotic Lactobacillus plantarum Mut-7 on healthy Indonesian adults after consumption of fermented milk containing these bacteria",
+        "pub_year": "2021",
+        "citation": "Journal of Food Science and Technology 58 (9), 3525-3532, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:IwGqIHSOC8kC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7338944633184810801",
+      "cites_id": [
+        "7338944633184810801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potato cyst nematode-infected soil as a source of egg and cyst parasitic fungi as potential biocontrol agents",
+        "pub_year": "2021",
+        "citation": "Archives of Phytopathology and Plant Protection 54 (13-14), 850-869, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:kVKjLOQJbwAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11181483498537923472",
+      "cites_id": [
+        "11181483498537923472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selected soil nutrient availability, plant nutrient uptake and upland rice yield in response to rice straw and mycorrhiza application",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 724 (1), 012017, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:o0tJHVzi6PsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8049981674775259156",
+      "cites_id": [
+        "8049981674775259156"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The mechanism of phosphate bacteria in increasing the solubility of phosphorus in Indonesian Andisols",
+        "pub_year": "2021",
+        "citation": "Journal of Water and Land Development, 188-194, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Sw8WaQuuSIgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16332272318689206943",
+      "cites_id": [
+        "16332272318689206943"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Limbah Biomassa Sawit Ramah Lingkungan",
+        "pub_year": "2020",
+        "citation": "Jurnal Pengabdian kepada Masyarakat (Indonesian Journal of Community \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:5uu-MYFt2EcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9296331150147201970",
+      "cites_id": [
+        "9296331150147201970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Kombinasi Pupuk Anorganik dan Vinase Diperkaya Mikrobia terhadap Pertumbuhan dan Hasil Jagung (Zea mays L.)",
+        "pub_year": "2020",
+        "citation": "Vegetalika 9 (4), 547-561, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:N5XbD978G_MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16246357397114555283",
+      "cites_id": [
+        "16246357397114555283"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Perbedaan Metode Ekstraksi Metabolit Sekunder Streptomyces sp. GMR22 terhadap Toksisitas pada Sel BHK-21",
+        "pub_year": "2019",
+        "citation": "Pharmacon: Jurnal Farmasi Indonesia 16 (1), 1-10, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:cxS_fjKIGZMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17947800109575811621",
+      "cites_id": [
+        "17947800109575811621"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of culturable actinomycetes from deepsea floor of Makassar Strait, Indonesia",
+        "pub_year": "2018",
+        "citation": "OLDI (Oseanologi dan Limnologi di Indonesia) 3 (2), 73-93, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:wUCFpcnEedwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7077130508853373062",
+      "cites_id": [
+        "7077130508853373062"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Viabilitas Virus Dengue Serotipe 3 Pada Beberapa Galur Sel (Cell-Line)",
+        "pub_year": "2016",
+        "citation": "Biota: Biologi dan Pendidikan Biologi 9 (1), 118-127, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:x8G803Bi31IC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1620963267233171548",
+      "cites_id": [
+        "1620963267233171548"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of organic matter level on methane emission in acid sulphate soil from Belandean, South Kalimantan, Indonesia.",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:mzRTpvMFn3IC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9684362016626560144,2999679075177084843",
+      "cites_id": [
+        "9684362016626560144",
+        "2999679075177084843"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Molekular Bakteri Endofit pada Jaringan Planlet Tebu",
+        "pub_year": "2007",
+        "citation": "Hayati Journal of Biosciences 14 (4), 145-149, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:jvrRlaHg2sAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17332262164145208239",
+      "cites_id": [
+        "17332262164145208239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marine-Derived Streptomyces sennicomposti GMY01 with Anti-Plasmodial and Anticancer Activities: Genome Analysis, In Vitro Bioassay, Metabolite Profiling, and \u2026",
+        "pub_year": "2023",
+        "citation": "Microorganisms 11 (8), 1930, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:3YQzwbzlpKYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8100392834469862884",
+      "cites_id": [
+        "8100392834469862884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Glucose on Endo-xylanase and \u03b2-xylosidase Production by Fungi Isolated in Indonesia.",
+        "pub_year": "2022",
+        "citation": "Journal of Pure & Applied Microbiology 16 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:aK62MiYD7mUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15896184581454202261",
+      "cites_id": [
+        "15896184581454202261"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Naturally acquired lactic acid bacteria from fermented cassava improves nutrient and anti-dysbiosis activity of soy tempeh",
+        "pub_year": "2021",
+        "citation": "Open Access Macedonian Journal of Medical Sciences 9 (A), 1148-1155, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:3ssty3PwuTgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4435855734226447106",
+      "cites_id": [
+        "4435855734226447106"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic Analysis in the Development of Smart Sluice Gate Systems",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 662 (1), 012005, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:LYDvBi7O6RsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1584582786170819378",
+      "cites_id": [
+        "1584582786170819378"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of waste combinations during decomposition of domestic organic waste using the response surface methodology",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 355 (1), 012005, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:AdGrMoNItN4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4035602474474587198",
+      "cites_id": [
+        "4035602474474587198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi patogen hawar daun bakteri secara fenotipik pada bawang merah (Allium cepa L. kelompok Aggregatum)",
+        "pub_year": "2019",
+        "citation": "Agroland: Jurnal Ilmu-ilmu Pertanian 26 (1), 58-68, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:E10ZYwHxBI8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7165778683377140959",
+      "cites_id": [
+        "7165778683377140959"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Dynamics of C and N by Combination of composted fresh organic waste as soilamendment in the soil thickness at pineapple plantation, Lampung Indonesia",
+        "pub_year": "2019",
+        "citation": "ijaseit, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:e0CZ6poB34oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1526404333160528030",
+      "cites_id": [
+        "1526404333160528030"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penambahan Laurat dan Glisin terhadap Nilai Warna dan Kadar Sitrinin Angkak",
+        "pub_year": "2018",
+        "citation": "Agritech 38 (3), 320-329, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:f-E_jMG6T4AC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3105711331307508015",
+      "cites_id": [
+        "3105711331307508015"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Grafting Local Commercial Tomato Cultivars with H-7996 ang Eg-203 to Suppress Bacterial Wilt (Ralstonia solanacearum) in Indonesia",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:yBxuCEhX224C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3577850387233721964",
+      "cites_id": [
+        "3577850387233721964"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Legume-Nodulating Bacteria from Several Agroecosystems in Sumberjaya, Lampung",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Biotechnology 18 (1), 64-69, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:TFP_iSt0sucC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14994912340965707205",
+      "cites_id": [
+        "14994912340965707205"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi isolat bakteri pelarut fosfat (BPF) untuk mengembangkan inokulum efektif",
+        "pub_year": "2011",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 28 (2), 93-101, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Se3iqnhoufwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7962835469583378935",
+      "cites_id": [
+        "7962835469583378935"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pulsed Field Gel Electrophoresis (PFGE): a DNA finger printing technique to study the genetic diversity of blood disease bacterium of banana",
+        "pub_year": "2011",
+        "citation": "Biodiversitas Journal of Biological Diversity 12 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:9w9GTvUEN2YC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13749577348212415136",
+      "cites_id": [
+        "13749577348212415136"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengambangan Pupuk Bisulfo untuk Tanaman Horikultura",
+        "pub_year": "2009",
+        "citation": "Laporan hibah Kompotitif sesuai Prioritas Nasional. Fakultas Pertanian UNS \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:TQgYirikUcIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14573183108685814413",
+      "cites_id": [
+        "14573183108685814413"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi dan Karakterisasi Bakteri Pendenitrifikasi yang Diisolasi dari Lumpur Kawasan Mangrove",
+        "pub_year": "2008",
+        "citation": "Jurnal Perikanan Universitas Gadjah Mada 10 (1), 1-10, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6277991072705305097",
+      "cites_id": [
+        "6277991072705305097"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular techniques of xenobiotic-degrading bacteria and their catabolic genes in bioremediation",
+        "pub_year": "2005",
+        "citation": "Bioremediation of Aquatic and Terrestrial Ecosystems, 1, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:UebtZRa9Y70C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8772899801816190849",
+      "cites_id": [
+        "8772899801816190849"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan Mikoriza Vesikular\u2013Arbuskular dalam Pengelolaan Tanah Mineral Masam Tropika",
+        "pub_year": "1997",
+        "citation": "Di dalam: Pros. Kongres Nasional VI HITI. Buku I. hlm, 589-595, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:GDem9OnCwu8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12874205488455725883",
+      "cites_id": [
+        "12874205488455725883"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Draft Genome Sequence of the Marine-Derived, Anticancer Compound-Producing Bacterium Streptomyces sp. Strain GMY01",
+        "pub_year": "2023",
+        "citation": "Microbiology Resource Announcements 12 (6), e01366-20, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:9w-KRoa3VEQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1114228731844571124",
+      "cites_id": [
+        "1114228731844571124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Whole-genome sequence data of cellulase-producing fungi Trichoderma asperellum PK1J2, isolated from palm empty fruit bunch in Riau, Indonesia",
+        "pub_year": "2022",
+        "citation": "Data in Brief 45, 108607, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:5AT-p8ixKR4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=63640689160789418",
+      "cites_id": [
+        "63640689160789418"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of glucose as carbon catabolite repressor on alpha-amylase and glucoamylase production in Indonesian indigenous fungi.",
+        "pub_year": "2022",
+        "citation": "Malaysian Journal of Microbiology 18 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:s-mE-ZzancgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2385791027584078134",
+      "cites_id": [
+        "2385791027584078134"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of indigenous mycorrhizae of corn plants in various soil types in Gunung Kidul, Indonesia",
+        "pub_year": "2022",
+        "citation": "PLANTA TROPIKA 10 (1), 69-83, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:7uOkfv6XYJ4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18416218544235104715",
+      "cites_id": [
+        "18416218544235104715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root Growth and Yield of Rice Plant Associated with Arbuscular Mycorrhizal Symbiosis under Salt Stress",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 985 (1), 012021, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:geVfx-PNG5EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9125529659741005684",
+      "cites_id": [
+        "9125529659741005684"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial substance produced by a soil bacteria isolated from rhizosphere of Zingiber officinale",
+        "pub_year": "2021",
+        "citation": "International Journal of Applied Pharmaceutics, 62-66, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:9UF2BbDYXHIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16679586186036815531",
+      "cites_id": [
+        "16679586186036815531"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiplasmodial activity of the low molecular weight compounds from Streptomyces sp. GMR22",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Pharmacy, 273-280, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:H8haQKU-3ZsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335339321386526133",
+      "cites_id": [
+        "18335339321386526133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CONSUMPTION OF INDIGENOUS PROBIOTIC LACTOBACILLUS PLANTARUM MUT-7 POWDER AND FECAL POPULATION OF LACTOBACILLUS, BIFIDOBACTERIUM, CLOSTRIDIUM AND SHORT CHAIN FATTY ACIDS.",
+        "pub_year": "2018",
+        "citation": "International Journal of Probiotics & Prebiotics 13 (4), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:EmjvLWWcsQIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15358800708093996866",
+      "cites_id": [
+        "15358800708093996866"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessing soil carbon sequestration in upland rice systems using rice straw and mycorrhiza",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 200 (1), 012028, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:kcGNQN_anIUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3089825321465265121",
+      "cites_id": [
+        "3089825321465265121"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of Actinomycetes from deepsea sediment of Makassar Strait for producing antimicrobial substances",
+        "pub_year": "2018",
+        "citation": "Squalen Bull Mar Fish Postharvest Biotechnol 13, 45, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:djcsc3XHdKAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=954315457883479479",
+      "cites_id": [
+        "954315457883479479"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of organic paddy field system to soil properties",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 122 (1), 012023, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:u1IMlZnpNFQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15492347768981036337",
+      "cites_id": [
+        "15492347768981036337"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and functional characterization of antifungal-producing Streptomyces-like microbes isolated from the rhizosphere of cajuput plants (Melaleuca leucodendron L.)",
+        "pub_year": "2018",
+        "citation": "Malaysian Journal of Microbiology 14 (7), 663-673, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:vPKCt-r_nWsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3616715192613793564",
+      "cites_id": [
+        "3616715192613793564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil Fertility Status of Organic Paddy Experiment",
+        "pub_year": "2015",
+        "citation": "Agrista: Jurnal Ilmiah Mahasiswa Agribisnis UNS 12 (2), 61-66, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178683019790270720",
+      "cites_id": [
+        "2178683019790270720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of agricultural intensification practices on bacterial community in agro-ecosystems of Southern Sumatra, Indonesia.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:IWHjjKOFINEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7877477993278735058",
+      "cites_id": [
+        "7877477993278735058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indikator dan Indeks Keberlanjutan Agroekosistem Kopi Bernaungan",
+        "pub_year": "2012",
+        "citation": "Prosiding Seminar Nasional Sains Matematika dan Aplikasinya III 3 (3), 282-287, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13046552983578495816",
+      "cites_id": [
+        "13046552983578495816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil Protein Klebsiella sp. dalam Kondisi Cekaman Osmotik dan Keasaman",
+        "pub_year": "2011",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 157-165, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370344313366376040",
+      "cites_id": [
+        "16370344313366376040"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Azolla untuk Budidaya Padi Sawah Organik",
+        "pub_year": "2011",
+        "citation": "Jurnal Agronomika 11 (2), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5209221898228434187",
+      "cites_id": [
+        "5209221898228434187"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penilaian pohon legum pelindung kopi berdasarkan keragaman genetik, produktivitas, dan aktivitas bintil akar",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:5o6HiIVP414C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17445182026583519908",
+      "cites_id": [
+        "17445182026583519908"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mineral Phosphate Solubilizing Bacteria Isolated from Various Plant Rhizosphere under Different Aluminum Content",
+        "pub_year": "2005",
+        "citation": "Indonesian Journal of Biotechnology 10 (2), 814-821, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:BqipwSGYUEgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1086182931724446101",
+      "cites_id": [
+        "1086182931724446101"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rapid, sensitive, and accurate monitoring method for augmented dioxin-degrading bacteria",
+        "pub_year": "2001",
+        "citation": "International in Situ and On-Site Bioremediation Symposium 4, 51-58, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18213822362172359657",
+      "cites_id": [
+        "18213822362172359657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan Rhizobakteria dalam Produksi Inokulan Jamur Mikorisa Arbuskular",
+        "pub_year": "2000",
+        "citation": "Jurnal Ilmu Tanah dan Lingkungan 2 (2000), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=600265974871058428",
+      "cites_id": [
+        "600265974871058428"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The evaluation of antimicrobial, antioxidant, and antiproliferative activity of stingless bee honey (Heterotrigona itama and Tetragonula laeviceps) as functional food",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2957 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:lu5AzqVF4qYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profiling of rhizobacteria to alleviate drought stress in oil palm using ribosomal intergenic spacer analysis",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1308 (1), 012035, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:rVBkUn48wTwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conserved infections and reproductive phenotypes of Wolbachia symbionts in Asian tortrix moths",
+        "pub_year": "2024",
+        "citation": "Environmental Microbiology Reports 16 (1), e13219, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:n2kG1_zAmykC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of active compounds from Streptomyces sennicomposti GMY01 and cytotoxic activity on breast cancer cells line",
+        "pub_year": "2024",
+        "citation": "Heliyon 10 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:LZ55yeyZZb4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochar and Biofertilizer Reduce the Use of Mineral Fertilizers, Increasing the Efficiency of Shallot Fertilization",
+        "pub_year": "2024",
+        "citation": "Journal of Ecological Engineering 25 (4), 158-169, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:tvutLEwYQz8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation And Characterization Of Phosphate Solving Bacteria From Swamp Soil With High Levels Of Acidity",
+        "pub_year": "2023",
+        "citation": "Jurnal Pertanian 14 (2), 102-110, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:lRzkMCTRmMwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLASI DAN KARAKTERISASI BAKTERI PELARUT FOSFAT DARI TANAH RAWA DENGAN TINGKAT KEMASAMAN YANG TINGGI.",
+        "pub_year": "2023",
+        "citation": "Jurnal Pertanian 14 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:T0nwzvlCxs8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi dan Keragaman Bakteri Endofit sebagai Agens Pemacu Pertumbuhan dan Biokontrol Anggrek.",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Agricultural Sciences/Jurnal Ilmu Pertanian Indonesia \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:W91e3rS6dHEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi dan Keragaman Bakteri Endofit sebagai Agens Pemacu Pertumbuhan dan Biokontrol Anggrek",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmu Pertanian Indonesia, 675-682, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:4p3FJGzxjgAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POTENSI KONSORSIUM BAKTERI ENDOFIT SEBAGAI AGEN PEMACU PERTUMBUHAN DAN BIOKONTROL ANGGREK",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmu Pertanian Indonesia, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:xXdmTUQ9lisC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship between root diameter and resistance of tropical chilli pepper genotypes to Ralstonia pseudosolanacearum",
+        "pub_year": "2023",
+        "citation": "Tropical Plant Pathology 48 (4), 384-393, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:eP5N1itS6b0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptional changes in the xylanolytic filamentous fungus Aspergillus tubingensis NBRC 31125 grown under repressive conditions",
+        "pub_year": "2023",
+        "citation": "Agriculture and Natural Resources 57 (3), 523\u2013532-523\u2013532, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:zDhyt2jClVkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phosphate Response by Indigenous Microbes and Mycorrhizal Inoculation on Corn in Inceptisol Soil",
+        "pub_year": "2023",
+        "citation": "3rd International Conference on Sustainable Agriculture for Rural \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:rsrKZ8bNWIsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impact of water management systems and biofertilizers on soybean production in type B tidal swamp lands in Kapuas district, Central Kalimantan, Indonesia",
+        "pub_year": "2023",
+        "citation": "BIO Web of Conferences 80, 03022, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:knQODA9bSJkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Destruction of Porphyromonas gingivalis Fimbriae by Streptomyces sp. Strain GMY02",
+        "pub_year": "2023",
+        "citation": "BIO Web of Conferences 75, 02004, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:LpHykl0McycC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNA-seq data of Aspergillus tubingensis NBRC 31125 in carbon catabolite repressor related to xylanase production",
+        "pub_year": "2022",
+        "citation": "Data in Brief 45, 108700, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:InLRhUNj-rwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Therapeutic Effects of Modified Tempeh on Glycemic Control and Gut Microbiota Diversity in Diabetic Rats",
+        "pub_year": "2022",
+        "citation": "Current Nutrition & Food Science 18 (8), 765-774, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:9mnZQYLiiboC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Draft genome sequence of Trichoderma asperellum MLT1J1, isolated from coconut husk in Maluku, Indonesia",
+        "pub_year": "2022",
+        "citation": "The Microbiological Society of Korea 58 (3), 208-210, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:tJ_1M1FLfZ0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Polyurethane Multilayer Coating on Nitrogen Release from Controlled Release Fertilizer",
+        "pub_year": "2022",
+        "citation": "Key Engineering Materials 928, 95-101, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:dYRx7efp7U0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of glucose on endoglucanase and \u00df-glucosidase production by some indigenous Indonesian fungi.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:BMiRioqqltAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Demonstration Plots and Assistance of Farmer Group Yellow Soybean Based on Local Wisdom Supporting Food Security in Cilacap District, Central Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Engagement: Jurnal Pengabdian Kepada Masyarakat 6 (1), 128-149, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:7LLGAk_PBK4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Complete Genome Sequence of Bacillus velezensis GMEKP1, Isolated from a Natural Bamboo Hive of Stingless Bees",
+        "pub_year": "2021",
+        "citation": "Microbiology Resource Announcements 10 (44), 10.1128/mra. 00659-21, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:54SpJiyHbzwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Complete Genome Sequence of the Marine-Derived Bacterium Streptomyces sp. Strain GMY02",
+        "pub_year": "2021",
+        "citation": "Microbiology Resource Announcements 10 (40), 10.1128/mra. 00681-21, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:YIdQ7BAI8VoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of CRISPR/Cas9 genome editing system in Indonesian orchid Dendrobium lineale Rolfe",
+        "pub_year": "2021",
+        "citation": "II International Symposium on Tropical and Subtropical Ornamentals 1334, 205-214, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:yqZeyBDMhiUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficiency of Smart Sluice Gate in Agricultural Water Distribution on Paddy (Oryza sativa L.)",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 832 (1), 012064, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:6MVT8mER-OMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First report of enterobacter cloacae in shallot (Allium cepa L. Aggregatum group) in Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 681 (1), 012048, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:6sy8ByAbWgIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First report of Enterobacter cloacae in shallot (Allium cepa L. Aggregatum group) in Indonesia.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:WTkkuPxyGkUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Discovery of novel bioactive natural products from Streptomyces driven by a bottom-up approach",
+        "pub_year": "2021",
+        "citation": "BIO Web of Conferences 41, 02003, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:8EvVLpklxGMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multi-Response Optimization for the Production of Antifungal Compound and Decomposition of Municipal Solid Waste decomposition by Streptomyces Sp. GMR22",
+        "pub_year": "2021",
+        "citation": "Journal of Hunan University Natural Sciences 48 (10), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ExBYd_ZNEOYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using kefir glucomannan to modify the diversity and composition of cecum bacterial in Sprague Dawley rats with metabolic syndrome",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1011 (1), 012009, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:o4Qvs5Y5TLQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hyper-solubilizing tricalcium phosphate mutants of Klebsiella sp. GMD08",
+        "pub_year": "2020",
+        "citation": "BIOTROPIA 27 (3), 238-247, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:tFyepMjQr3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic activity of bacterial rhizosphere from rootstocks of tomato and eggplant against Ralstonia solanacearum.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:wyCGhLAOp5UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Study of Root Colonization and Diversity of Arbuscular Mycorrhizal Fungi (AMF) Associated with Lesser Yam (Dioscorea esculenta)",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1665 (1), 012017, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:b8wqy9DyMDUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibition of cythophatic effect (CPE) BHK-21 cell line infected with Dengue virus serotype 4 (DENV-4) treated by extract of n-hexane Streptomyces sp. GMR22.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:MaiMEk8tZqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penghambatan Cythophatic Effect (Cpe) pada Sel Bhk-21 yang Terinfeksi Virus Dengue Serotipe 4 (Denv-4) dengan Pemberian Ekstrak N-heksan Streptomyces SP. Gmr22",
+        "pub_year": "2020",
+        "citation": "BIOMA: JURNAL BIOLOGI MAKASSAR 5 (2), 151-160, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:52neCvzbxIwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of upland rice (Oryza sativa L.) cultivars to different shade levels in sandy soil",
+        "pub_year": "2020",
+        "citation": "Ilmu Pertanian (Agricultural Science) 5 (3), 158-165, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Iq19BMNozs4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seasonal abundance and community of ammonia-oxidizing bacteria in the Musi river sediment, South Sumatra, Indonesia.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Xxrp-jDxsD4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seasonal abundance and community of ammonia-oxidizing bacteria in the Musi river sediment, South Sumatra, Indonesia.",
+        "pub_year": "2019",
+        "citation": "Journal of Environmental Science and Technology 12 (3), 108-116, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:esGtpfCv0y8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The significance of water quality parameters on the diversity of ammonia-oxidizing bacteria in the water surface of Musi river, Indonesia",
+        "pub_year": "2018",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 11 (6), 1908-1918, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:hXZnTIgIr50C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic activity of bacterial rhizosphere from rootstocks of tomato and eggplant against Ralstonia solanacearum",
+        "pub_year": "2018",
+        "citation": "IX International Symposium on Soil and Substrate Disinfestation 1270, 321-326, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:pxLfhFzThFYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MYCHORRIZAL INOCULATION AND ASIMILATE DISTRIBUTION OF SOYBEAN",
+        "pub_year": "2018",
+        "citation": "AGROISTA: Jurnal Agroteknologi 1 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:6e4D8M0GhXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INOKULASI MIKORIZA DAN DISTRIBUSI ASIMILAT PADA TANAMAN KEDELAI",
+        "pub_year": "2017",
+        "citation": "AGROISTA: Jurnal Agroteknologi 1 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:AmQcmOVUwm0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIODIVERSITY OF ANTIBIOTIC-PRODUCING SOIL BACTERIA FROM YOGYAKARTA SPECIAL PROVINCE INDONESIA",
+        "pub_year": "2016",
+        "citation": "International Journal of Pharmacy and Pharmaceutical Sciences, 122-126, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan dan hasil padi sawah organik dengan menggunakan pupuk kandang sapi dan azolla",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:8xglSJ46CyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Screening of Antimicrobial Producing-Actinomycetes Symbionts in Nudibranch",
+        "pub_year": "2015",
+        "citation": "Indonesian Journal of Biotechnology, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:vkDViGfkvYEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil Fertility Status on Organic Paddy Experiment",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:cAUKuAERoUMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KOMUNITAS BAKTERI PADA LALAT BUAH GENUS BACTROCERA (DIPTERA: TEPHRITIDAE) MONOFAG, OLIGOFAG, DAN POLIFAG",
+        "pub_year": "2015",
+        "citation": "Universitas Gadjah Mada, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEBUTUHAN AIR, EFISIENSI PENGGUNAAN AIR DAN KETAHANAN KEKERINGAN KULTIVAR KEDELAI (Water Use, Water Use Ef\ufb01ciency and Drought Tolerance of Soybean Cultivars)",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AiMOS 2.0",
+        "pub_year": "2014",
+        "citation": "Indonesian Journal of Biotechnology 19 (2), 99-110, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:QndmRo8phpgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FUNGAL PARASITES OF EGGS AND CYSTS OF GLOBODERA ROSTOCHIENSIS AS POTENTIAL BIOLOGICAL CONTROL AGENTS OF POTATO CYST NEMATODE IN INDONESIA",
+        "pub_year": "2014",
+        "citation": "JOURNAL OF NEMATOLOGY 46 (2), 178-179, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:fixghrsIJ_wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TOKSISITAS EKSTRAK AKTINOMISETES TERHADAP LARVA OSTRINIA FURNACALIS (LEPIDOPTERA: CRAMBIDAE)",
+        "pub_year": "2014",
+        "citation": "Prosiding Seminar Nasional Pertanian Organik Bogor 18, 19, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purifikasi dan Karakterisasi Metabolit Sekunder Ekstrak Etil Asetat Actinomycetes sebagai Antiviral Virus Dengue Serotipe 1",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT OF GROWTH CONDITIONS ON BIOFILM FORMATION BY PHENOL-DEGRADING BACTERIA ISOLATED FROM POLLUTED AND NON-POLLUTED SOURCES",
+        "pub_year": "2014",
+        "citation": "Berkala Penelitian Hayati 19 (2), 82-88, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sebaran Penyakit Hawar Daun Bakteri di Beberapa Sentra Produksi Bawang Merah di Indonesia",
+        "pub_year": "2013",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 27-36, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "2Hp03 Legume Nodulating Bacteria (LNB) Biodiversity in Tropical Agroecosystem",
+        "pub_year": "2012",
+        "citation": "\u65e5\u672c\u751f\u7269\u5de5\u5b66\u4f1a\u5927\u4f1a\u8b1b\u6f14\u8981\u65e8\u96c6 64, 73, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of Dibenzofuran-Utilizing Bacteria Isolated by Direct-Plating and Enrichment Methods",
+        "pub_year": "2012",
+        "citation": "Indonesian Journal of Biotechnology 17 (1), 27-34, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INDUKSI KETAHANAN BIBIT PISANG DENGAN ENDOFITIK NONPATOGENIK FUSARIUM SP. TERHADAP PENYAKIT LAYU FUSARIUM (F. OXYSPORUM F. SP. CUBENSE)",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An actinomycetes producing anticandida isolated from cajuput rhizosphere: partial identification of isolates and amplification of PKS-I genes",
+        "pub_year": "2010",
+        "citation": "Indonesian J Biotechnol 15, 1-8, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An actinomycetes producing anticandida isolated from cajuput rhizosphere: partial identification of isolates and amplification of PKS-I genes",
+        "pub_year": "2010",
+        "citation": "Indonesian J Biotechnol 15, 1-8, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and Sequencing cDNA Encoding for Rhoptry-2 Toxoplasma Gondii Tachyzoite Local Isolate",
+        "pub_year": "2008",
+        "citation": "Indonesian Journal of Biotechnology 13 (1), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:QlnOKEPDpKwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prototipe sistem informasi manajemen pengawasan kualitas air minum (SIMPKAM) di Kota Yogyakarta",
+        "pub_year": "2008",
+        "citation": "Universitas Gadjah Mada, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:SNyOjmPOlygC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Succession of Actinomycetes During Composting Proccess of Dairy-Farm Waste Investigated by Culture-Dependent and Independent Approaches",
+        "pub_year": "2008",
+        "citation": "Indonesian Journal of Biotechnology 13 (2), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Detection of Endophytic Bacteria on Plantlet Tissue of Sugarcane",
+        "pub_year": "2007",
+        "citation": "HAYATI Journal of Biosciences 14 (4), 145-145, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:KVXOKlNwS8oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TOKSISITAS PARAQUAT TERHADAP PERTUMBUHAN KEDELAI DAN KAITANNYA DENGAN ADANYA SENYAWA FENOLAT DALAM TANAH GAMBUT",
+        "pub_year": "2003",
+        "citation": "Lembaga Penelitian UGM, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of rhizobacteria in producing inoculant of arbuscular mycorrhizal fungi",
+        "pub_year": "2000",
+        "citation": "Jurnal Ilmu Tanah dan Lingkungan (Indonesia) 2 (2), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Double symbiosis of soybean with Rhizobium and vesicular arbuscular mycorrhiza on acid soils",
+        "pub_year": "2000",
+        "citation": "Prosiding Lokakarya Penelitian dan Pengembangan Produksi Kedelai di \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular dynamics of annexin I in normal and infected cells",
+        "pub_year": "1998",
+        "citation": "Comptes Rendus des Seances de la Societe de Biologie et de ses Filiales 192 \u2026, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:irE4lMk4wWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh macam dan cara penempatan bahan organik terhadap kinerja jamur mikorisa arbuskular pada tanaman kedelai di tanah ultisol",
+        "pub_year": "1997",
+        "citation": "Universitas Gadjah Mada, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:LiF7i2gyBHwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Azolla cultivation on plant soil: effect of liming and P fertilizers on the growth and N2 fixing activity",
+        "pub_year": "1997",
+        "citation": "Jurnal Ilmu Tanah dan Lingkungan (Indonesia) 1 (1), 1997"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLASI DAN KARAKTERISASI BAKTERI PELARUT FOSFAT DARI TANAH RAWA DENGAN TINGKAT KEMASAMAN YANG TINGGI ISOLATION AND CHARACTERIZATION OF PHOSPHATE SOLVING BACTERIA FROM SWAMP \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:npT69zEmqdIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penilaian Keanekaragaman Bakteri di Sungai Musi, Sumatera Selatan dengan Analisis T-RFLP Gen 16S rRNA Assessment of Microbial Diversity in Musi River, South Sumatra by T-RFLP \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ECvNt0vk_34C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SOIL PROFILE OFTHE ORGANIC PADDY FIELD IN SRAGEN AND WONOGIRI\u2013INDONESIA",
+        "citation": "PROCEEDING BOOK, 136, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:vYYylRVofzEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Perbedaan Metode Ekstraksi Metabolit Sekunder Streptomyces sp. GMR22 terhadap Toksisitas pada Sel BHK-21 Effects of Extraction Methods of Secondary Metabolite \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:U_h31ocWZrQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek Konsumsi Probiotik kultur kering beku Lactobacillus plantarum Dad 13 Terhadap kadar glukosa darah pada subjek Overweight di Yogyakarta (Effect of Consumption of freeze \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:_cFkbNEifk0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiplasmodial activity and genome mining study of marine-derived Streptomyces sp. GMY01",
+        "citation": "Indonesian Journal of Pharmacology and Therapy 2 (2), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:DoBzxrgsGIIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential secondary metabolite analysis of soil Streptomyces sp. GMR22 and antibacterial assay on Porphyromonas gingivalis ATCC 33277",
+        "citation": "Journal of the Medical Sciences (Berkala Ilmu Kedokteran) 54 (2), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:t7izwRedFcYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE POTENCY OF CHITOSAN AS AN ELICITOR ON ANTIBACTERIAL ACTIVITY",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:0kYikfLtzSYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DAN SITRININ",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:7xtfDMUJqJkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OSEANOLOGI DAN LIMNOLOGI DI INDONESIA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:YXeC4bxG7-IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Streptomyces and BacillusVolatile Organic Compounds Adversely Affect The Ultra-Structure and Inhibit Ganoderma Mycelial Growth",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:0dtNEdnCFDAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root Colonization And Diversity Of Arbuscular Mycorrhyzal Fungi Associated With Lesser Yam (Dioscorea esculenta)",
+        "citation": "WELCOME MESSAGE RECTOR OF UNIVERSITAS BRAWIJAYA, 61, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:cocyvO7vrcwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ARBUSCULAR MYCORRHIZAL FUNGI AND RHIZOBIALISOLATES GROWN ONULTISOL*",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:5kvG9DmRKWYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A. Villasante, VG Corces, R. Manso-Martfnez and J. Avila",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:fMcxjvj1mj8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANTI-Vibrio SUBSTANCE PRODUCED BY MARINE BACTERIUM Pseudoalteromonas flavipulchra ISOLATED FROM MARICULTURE WATER IN SITUBONDO",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ddB7do2jUx8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Various Colored Monascus sp and its Biopigments and Citrinin Production in RMR",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ohFW0PAxsewC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GudangPaper. net-Sitasi Paper Ilmiah User",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GudangPaper. net-Sitasi Paper Ilmiah User",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UJI MOLEKULER (POLYMERASE CHAIN REACTION) PADA OTITIS] MEDIA SUPURATIFA KRONIK BENIGNA AKTIF",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8U74n-sAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

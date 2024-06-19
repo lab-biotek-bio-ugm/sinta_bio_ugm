@@ -1,0 +1,588 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "O52WZvsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Liyantono",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=O52WZvsAAAAJ&citpid=1",
+  "affiliation": "Mechanical & Biosystem Engineering, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "GIS & Remote Sensing",
+    "Irrigation & Water Management"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 208,
+  "citedby5y": 149,
+  "hindex": 8,
+  "hindex5y": 7,
+  "i10index": 7,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2014": 2,
+    "2015": 4,
+    "2016": 18,
+    "2017": 12,
+    "2018": 20,
+    "2019": 22,
+    "2020": 40,
+    "2021": 22,
+    "2022": 28,
+    "2023": 24,
+    "2024": 12
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessing the seasonal dynamics of the Java\u2019s paddy field using MODIS satellite images",
+        "pub_year": "2014",
+        "citation": "ISPRS International Journal of Geo-Information 3 (1), 110-129, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8850324952625800394",
+      "cites_id": [
+        "8850324952625800394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gemini virus attack analysis in field of chili (Capsicum annuum L.) using aerial photography and Bayesian segmentation method",
+        "pub_year": "2015",
+        "citation": "Procedia Environmental Sciences 24, 254-257, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:8k81kl-MbHgC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370482571797474830",
+      "cites_id": [
+        "16370482571797474830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GIS analysis of conjunctive water resource use in Nganjuk district, east Java, Indonesia",
+        "pub_year": "2013",
+        "citation": "Paddy and Water Environment 11, 193-205, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17319460423934993783",
+      "cites_id": [
+        "17319460423934993783"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan fusi data satelit lapan-a3/ipb dan landsat 8 untuk monitoring lahan sawah",
+        "pub_year": "2018",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam Dan Lingkungan (Journal of Natural \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9163790303514050980",
+      "cites_id": [
+        "9163790303514050980"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Temporal crop coefficients and water productivity of lettuce (Lactuca sativa l.) hydroponics in planthouse",
+        "pub_year": "2020",
+        "citation": "Agricultural Engineering International: CIGR Journal 22 (1), 22-29, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:Zph67rFs4hoC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13579208503349703529",
+      "cites_id": [
+        "13579208503349703529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamics pattern analysis of paddy fields in Indonesia for developing a near real-time monitoring system using modis satellite images",
+        "pub_year": "2016",
+        "citation": "Procedia Environmental Sciences 33, 108-116, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13939277537577398416",
+      "cites_id": [
+        "13939277537577398416"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of Quasi real-time paddy field monitoring systems in Indonesia",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465097873723997556",
+      "cites_id": [
+        "12465097873723997556"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Parallel processing implementation on weather monitoring system for agriculture",
+        "pub_year": "2017",
+        "citation": "Indonesian Journal of Electrical Engineering and Computer Science 6 (3), 682-687, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6445018514145283179",
+      "cites_id": [
+        "6445018514145283179"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of pre-treatment and classification methods for Java paddy field cropping pattern detection on MODIS images",
+        "pub_year": "2020",
+        "citation": "Remote Sensing Applications: Society and Environment 17, 100281, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:5nxA0vEk-isC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1561701291884913442",
+      "cites_id": [
+        "1561701291884913442"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water supply pumping control system using PWM based on precision agriculture principles",
+        "pub_year": "2016",
+        "citation": "International Agricultural Engineering Journal 25 (2), 1-8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14047707803834088614",
+      "cites_id": [
+        "14047707803834088614"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of paddy productivity using NDVI and K-means clustering in Cibarusah Jaya, Bekasi Regency",
+        "pub_year": "2019",
+        "citation": "IOP conference series: materials science and engineering 557 (1), 012085, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2683403777780392564",
+      "cites_id": [
+        "2683403777780392564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Water Debit in Oil Palm Plantation Watershed Using the Soil Water Assessment Tool (SWAT)",
+        "pub_year": "2017",
+        "citation": "International Journal of Civil Engineering and Technology 8 (6), 332-341, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1975192117404027097",
+      "cites_id": [
+        "1975192117404027097"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A., Permatasari, PA, Aulia, MR, 2016. Dynamics Pattern Analysis of Paddy Fields in Indonesia for Developing a Near Real-time Monitoring System Using MODIS Satellite Images",
+        "citation": "Procedia Environ. Sci 33, 108-116, 0"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11005685016217474239",
+      "cites_id": [
+        "11005685016217474239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suitability study for tourism sites in the southern coast of West Java",
+        "pub_year": "2021",
+        "citation": "World News of Natural Sciences 34, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17655337002999662401",
+      "cites_id": [
+        "17655337002999662401"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of El Nino southern oscillation on agricultural production sustainability in a tropical monsoon region: case study in nganjuk district, East Java, Indonesia",
+        "pub_year": "2012",
+        "citation": "Journal of Developments in Sustainable Agriculture 7 (1), 65-74, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:0EnyYjriUFMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727794637881646845",
+      "cites_id": [
+        "4727794637881646845"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microclimate condition in the natural ventilated greenhouse",
+        "pub_year": "2020",
+        "citation": "Jurnal Tanah dan Iklim 44 (1), 31-36, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14845992129143871230",
+      "cites_id": [
+        "14845992129143871230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modeling Air Temperature Inside an Organic Vegetable Greenhouse",
+        "pub_year": "2020",
+        "citation": "AGRIVITA Journal of Agricultural Science 42 (2), 295-305, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1815348923627154511",
+      "cites_id": [
+        "1815348923627154511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Parallel K-means for Java Paddy Mapping Using Time-series Satelite Imagery",
+        "pub_year": "2018",
+        "citation": "TELKOMNIKA (Telecommunication Computing Electronics and Control) 16 (3 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5896514274353736459",
+      "cites_id": [
+        "5896514274353736459"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Field Monitoring Station Network for Supporting the Development of Integrated Water Resources Management",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2346001216591145570",
+      "cites_id": [
+        "2346001216591145570"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Demonstrasi Pengolahan Keripik Terong dan Boncabai sebagai Alternatif Ide Wirausaha Masa Pandemi di Kampung. Ciheulang, Desa Margaluyu, Kecamatan Kiarapedes, Purwakarta",
+        "pub_year": "2022",
+        "citation": "Jurnal Pusat Inovasi Masyarakat (PIM) 4 (1), 102-115, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6989646213904495382",
+      "cites_id": [
+        "6989646213904495382"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendekatan Ekonomi Ergonomika untuk Perancangan Optimal Tenaga Kerja dan Mekanisasi pada Produksi Beras Organik",
+        "pub_year": "2019",
+        "citation": "Jurnal Agrotek Ummat 6 (1), 7-10, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7850245694437402800",
+      "cites_id": [
+        "7850245694437402800"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Sedimen Melayang pada Sub DAS Sei Kalembah (DAS Padang), Studi Kasus: Perkebunan Kelapa Sawit PTPN 4 Kebun Pabatu",
+        "pub_year": "2017",
+        "citation": "Jurnal Keteknikan Pertanian 5 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11700123487979974206",
+      "cites_id": [
+        "11700123487979974206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Liyantono. Bfast Change Detection for Agricultural Land Use Changes Analysis in Sidoarjo Regency, East Java, Indonesia",
+        "pub_year": "2015",
+        "citation": "Proceedings of ACRS, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:4DMP91E08xMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11413170538103894193",
+      "cites_id": [
+        "11413170538103894193"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Liyantono, and M",
+        "pub_year": "2014",
+        "citation": "Solahudin, \u00e2\u20ac \u0153Rancang Bangun Sistem Kendali Proportional Integral \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11917200236197866415",
+      "cites_id": [
+        "11917200236197866415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Liyantono; Fatikhunnada, A.; Permatasari, PA; Aulia, MR Dynamics pattern analysis of paddy fields in Indonesia for developing a near real-time monitoring system using modis \u2026",
+        "pub_year": "2016",
+        "citation": "Proceedings of the Procedia Environmental Sciences; Elsevier BV: Amsterdam \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7837113555171889476",
+      "cites_id": [
+        "7837113555171889476"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Closed-Type Irrigation System Performaces in the Plant House",
+        "pub_year": "2020",
+        "citation": "Agricultural Engineering International: CIGR Journal 22 (4), 58-64, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2714638464313422681",
+      "cites_id": [
+        "2714638464313422681"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of Land Use Change to Dependable Flow in Kuncir River, Nganjuk District, East Java",
+        "pub_year": "2017",
+        "citation": "Jurnal Keteknikan Pertanian 5 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=661455455069745263",
+      "cites_id": [
+        "661455455069745263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial change analysis of paddy cropping pattern using MODIS time series imagery in Central Java",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 54 (1), 012012, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5546451363800329827",
+      "cites_id": [
+        "5546451363800329827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Algorithm of pattern recognition for real-time rice crops monitoring using Sentinel images",
+        "pub_year": "2019",
+        "citation": "Sixth International Symposium on LAPAN-IPB Satellite 11372, 17-26, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EVALUATION OF WATER PLANTATION WATERSH WATER ASSESSMEN",
+        "pub_year": "2017",
+        "citation": "International Journal of Civil Engineering 8 (6), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploitation of groundwater for irrigation in Nganjuk District, East Java, Indonesia.",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploitation of Groundwater for Irrigation in Nganjuk District, East Java, Indonesia",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prosedur Desain Irigasi Tetes (trickle lmigation)",
+        "pub_year": "2002",
+        "citation": "Fateta-IPB. Bogor, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "WEBGIS APPLICATION FOR MONITORING LAND USE CHANGE IN INDONESIA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Underlying Cause of Conservation Area Encroachment by Plantation in Sumatra",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison between wavelet transform and moving average as filter method of MODIS imagery to recognize paddy cropping pattern in West Java",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "O52WZvsAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

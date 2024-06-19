@@ -1,0 +1,365 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "C7svfN0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ayda Trisnawaty Yusuf",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "animal reproduction and development",
+    "toxicology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "http://www.sith.itb.ac.id/",
+  "citedby": 109,
+  "citedby5y": 22,
+  "hindex": 5,
+  "hindex5y": 3,
+  "i10index": 2,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2001": 3,
+    "2002": 4,
+    "2003": 7,
+    "2004": 8,
+    "2005": 4,
+    "2006": 7,
+    "2007": 2,
+    "2008": 5,
+    "2009": 7,
+    "2010": 4,
+    "2011": 11,
+    "2012": 4,
+    "2013": 5,
+    "2014": 5,
+    "2015": 0,
+    "2016": 4,
+    "2017": 2,
+    "2018": 5,
+    "2019": 4,
+    "2020": 6,
+    "2021": 6,
+    "2022": 4,
+    "2023": 1,
+    "2024": 1
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "prh_EK4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arief Budi Yulianti",
+      "affiliation": "Fakultas Kedokteran, Universitas Islam Bandung"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro detection of indirect-acting genotoxins in the comet assay using Hep G2 cells",
+        "pub_year": "2000",
+        "citation": "Mutation Research/Genetic Toxicology and Environmental Mutagenesis 468 (2 \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 62,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8134292491710892625",
+      "cites_id": [
+        "8134292491710892625"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Liverbeads\u00ae as a tool for the comet assay",
+        "pub_year": "2002",
+        "citation": "Mutation Research/Genetic Toxicology and Environmental Mutagenesis 519 (1-2 \u2026, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18096847269887660319",
+      "cites_id": [
+        "18096847269887660319"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh logam berat tembaga pada ikan nila (oreochromis niloticus) dan pengaruh depurasinya",
+        "pub_year": "2008",
+        "citation": "Jurnal Penelitian Perikanan 11 (1), 49-58Sualia, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8990579013081274952",
+      "cites_id": [
+        "8990579013081274952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Reactive Oxygen Species (ROS), Superoxide Dismutase (SOD) dengan Protein \u03b1-Sinuklein-Larut Air pada Batang Otak Tikus yang Diinduksi Rotenon",
+        "pub_year": "2015",
+        "citation": "Global Medical and Health Communication 3 (2), 83-92, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16232087470669695248",
+      "cites_id": [
+        "16232087470669695248"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increase of Oxidative Stress and Accumulation of \u03b1-Synuclein in Wistar Rat\u2019s Midbrain Increase of Oxidative Stress and Accumulation of Wistar Rat\u2019s Midbrain Treated with Rotenone",
+        "pub_year": "2012",
+        "citation": "ITB J Sci 44 (4), 317-332, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10157603309902921720",
+      "cites_id": [
+        "10157603309902921720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kelainan perkembangan awal anggota depan mencit A/J yang diinduksi asam metoksiasetat (MAA)",
+        "pub_year": "1995",
+        "citation": "JMS (Supl H) 8, 60-70, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11166759782104230927",
+      "cites_id": [
+        "11166759782104230927"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi kandungan senyawa organosulfur pada minyak bawang putih yang berasal dari tanaman varietas lokal ciwidey",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2590549400915670869",
+      "cites_id": [
+        "2590549400915670869"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek \u201cmethoxyacetic acid\u201d(MAA) terhadap perkembangan anggota mencit (Mus musculus) galur A/J",
+        "pub_year": "1993",
+        "citation": "JMS 1, 11-19, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2589270584551147938",
+      "cites_id": [
+        "2589270584551147938"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi akumulasi dan depurasi logam Tembaga (Cu) pada ikan nila (Oreochromis niloticus)",
+        "pub_year": "2006",
+        "citation": "LIMNOTEK 13 (2), 35-43, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8231608471857381642",
+      "cites_id": [
+        "8231608471857381642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kandungan Logam Berat dan Vitamin E pada Testis Tikus Wistar setelah Dipaparkan Air Lindi",
+        "pub_year": "2021",
+        "citation": "BIOEDUSAINS: Jurnal Pendidikan Biologi dan Sains 4 (1), 74-83, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:roLk4NBRz8UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12653572982336340986",
+      "cites_id": [
+        "12653572982336340986"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biologi",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:_kc_bZDykSQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10720884336083321081",
+      "cites_id": [
+        "10720884336083321081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protofibril formation: decreased total glutathione concentration as an early indicator of neuron damage in the brainstems of Wistar rats treated with rotenone",
+        "pub_year": "2021",
+        "citation": "F1000Research 10, 1158, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "peer review: awaiting peer review",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of composition chemical compounds methanol extract of Tambelo (Bactronophorus thoracites) Mimika Regency",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 343 (1), 012162, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Impact of Cumulative Exposure to Blue Light during The Developmental Period of Melanopsin ipRGCs",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012053, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "META-ANALISIS: METODE YANG DIGUNAKAN PADA STUDI IDENTIFIKASI GEN-GEN PENYEBAB KELAINAN PERKEMBANGAN",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional LPPM Unsoed 7 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Go Protection Against Leachate at TPAs Sarimukti Causing DNA Damage in Bone Marrow and Peripheral Blood of Male Rats",
+        "pub_year": "2015",
+        "citation": "Academic Journal of Science 4 (1), 258-264, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Positive control study for the intact immature Swiss-Webster mouse uterotrophic assay",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 281-284, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increase of Oxidative Stres \u03b1-Synuclein in Wistar Rat\u2019s",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Evaluation of Alkaline Comet Assay Yusuf Protocol to Detect DNA Damage in Epididymal Sperm in Swiss Webster Mice",
+        "pub_year": "2010",
+        "citation": "Proceedings of the Third International Conference of Mathematics and Natural \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Copper Bioaccumulation and The influence of Hardness and pH on Copper Depurination in Nila Fish (Oreocronis niloticus L)",
+        "pub_year": "2006",
+        "citation": "Proceedings Environmental Technology and Management Confrence, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "C7svfN0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

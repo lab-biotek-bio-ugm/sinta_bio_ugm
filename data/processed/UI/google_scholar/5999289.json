@@ -1,0 +1,372 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "UInwgVcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dimas Haryo Pradana",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=UInwgVcAAAAJ&citpid=7",
+  "affiliation": "Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Avian Ecology",
+    "Conservation Biology",
+    "Biodiversity"
+  ],
+  "email_domain": "@ui.ac.id",
+  "homepage": "http://staff.ui.ac.id/d.h.pradana",
+  "citedby": 79,
+  "citedby5y": 73,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2017": 2,
+    "2018": 3,
+    "2019": 4,
+    "2020": 8,
+    "2021": 13,
+    "2022": 19,
+    "2023": 19,
+    "2024": 8
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rhl4QwQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anisatu Z. Wakhidah",
+      "affiliation": "PMEI | Tadris Biologi IAIN Metro"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "GNUTF10AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Afiatry Putrika",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TDPkfzMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yasman",
+      "affiliation": "lecturer, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5Mkyk4QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ani Mardiastuti",
+      "affiliation": "Bogor Agricultural University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventory and conservation plant of oke sou traditional ceremony; A welcoming tradition of maturity girl on the community of Lako Akediri Village, West Halmahera, Indonesia",
+        "pub_year": "2017",
+        "citation": "Biodiversitas 18 (1), 65-72, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:qjMakFHDy7sC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2026240597571150409",
+      "cites_id": [
+        "2026240597571150409"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of Ficus benjamina by Birds at Urban Habitat in Depok",
+        "pub_year": "2018",
+        "citation": "Bioma: Berkala Ilmiah Biologi 20 (1), 75-78, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11672949427106456020",
+      "cites_id": [
+        "11672949427106456020"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of fruit bats in plant community changes in an urban forest in Indonesia",
+        "pub_year": "2017",
+        "citation": "Raffles Bulletin of Zoology 65, 497-505, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1278358689968602964",
+      "cites_id": [
+        "1278358689968602964"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Problems in paradise: Mangrove bird communities impacted by litter in Jakarta Bay, Indonesia",
+        "pub_year": "2022",
+        "citation": "Ocean & Coastal Management 225, 106223, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:HDshCWvjkbEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12962197808748608759",
+      "cites_id": [
+        "12962197808748608759"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fieldwork during pandemic: Backyard bird survey and making student\u2019s biological field practice works",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (4), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1569857717111042662",
+      "cites_id": [
+        "1569857717111042662"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bird correlations with waste in Muara Gembong, West Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (9), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:hC7cP41nSMkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1465998521984619798",
+      "cites_id": [
+        "1465998521984619798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventarisasi Tumbuhan Kawasan Sempadan di situ Agathis, Universitas Indonesia, Depok, Jawa Barat",
+        "pub_year": "2017",
+        "citation": "Al-Kauniyah 10 (1), 17-25, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14377817166724230829",
+      "cites_id": [
+        "14377817166724230829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of the bird community in rubber plantations at Universitas Indonesia, Depok",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9678152288008047947",
+      "cites_id": [
+        "9678152288008047947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impact of landuse and the relationship between NDVI on the bird species richness in Sukmajaya District, Depok",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 846 (1), 012004, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2941688503669148851",
+      "cites_id": [
+        "2941688503669148851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Tumbuhan sebagai Obat Oleh Masyarakat Desa Tuada Kecamatan Jailolo, Halmahera Barat",
+        "pub_year": "2019",
+        "citation": "Pro-Life,(2)(47), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:TQgYirikUcIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5124300744526891952",
+      "cites_id": [
+        "5124300744526891952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani Joko Kaha: Tradisi penyambutan tamu pada masyarakat Desa Bobanehena di Halmahera Barat, Maluku Utara",
+        "pub_year": "2018",
+        "citation": "Pro-Life 5 (1), 506-514, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5779303435128059757",
+      "cites_id": [
+        "5779303435128059757"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Living on polluted habitat: A preliminary study of marine debris impact to foraging waterbirds in Muara Angke Mangrove Ecosystem, Jakarta",
+        "pub_year": "2021",
+        "citation": "E3S Web of Conferences 324, 03011, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15775521747698834033",
+      "cites_id": [
+        "15775521747698834033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of carbon stocks from tree stands vegetation in Universitas Indonesia\u2019s urban forest, Depok",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012043, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12450662302539089760",
+      "cites_id": [
+        "12450662302539089760"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population and Habitat Use of the Critically Endangered Grey-Backed Myna (Acridotheres tricolor) in the One of Easternmost Protected Area in Java",
+        "pub_year": "2021",
+        "citation": "3rd KOBI Congress, International and National Conferences (KOBICINC 2020 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Poles carbon stock estimation of urban forest in Universitas Indonesia, Depok",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012048, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Psittacidae community in Mbeliling landscape, Flores",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012034, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reforestation, an Old but Gold Way to Live in Harmony with Nature",
+        "pub_year": "2020",
+        "citation": "2nd INTERNATIONAL CONFERENCE ON COMMUNITY SERVICE PROGRAMME, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kiat-Kiat Budidaya Kepiting Berbasis Potensi Wilayah di Indonesia",
+        "pub_year": "2020",
+        "citation": "Bahasa Indonesia, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Purple Heron Ardea purpurea with a rare type of the pigment deficiency 'dilution'",
+        "pub_year": "2019",
+        "citation": "BirdingASIA 32, 126, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recollection of Didymoplexis micradenia (Rchb. f.) Hemsl.(Orchidaceae) from Western Javan populations",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "UInwgVcAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

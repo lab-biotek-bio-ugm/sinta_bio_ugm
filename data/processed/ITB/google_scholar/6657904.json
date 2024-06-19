@@ -1,0 +1,321 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "95dVaMkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ima Mulyama Zainuddin",
+  "affiliation": "Lecturer & Researcher of Agriculture Engineering, Institut Teknologi Bandung, Indonesia",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Crop Biotechnology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 477,
+  "citedby5y": 284,
+  "hindex": 6,
+  "hindex5y": 6,
+  "i10index": 6,
+  "i10index5y": 6,
+  "cites_per_year": {
+    "2012": 3,
+    "2013": 10,
+    "2014": 25,
+    "2015": 40,
+    "2016": 30,
+    "2017": 47,
+    "2018": 31,
+    "2019": 41,
+    "2020": 44,
+    "2021": 53,
+    "2022": 61,
+    "2023": 47,
+    "2024": 37
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploiting the combination of natural and genetically engineered resistance to cassava mosaic and cassava brown streak viruses impacting cassava production in Africa",
+        "pub_year": "2012",
+        "citation": "Public Library of Science 7 (9), e45277, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 117,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14955108489526264285",
+      "cites_id": [
+        "14955108489526264285"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proteomics of model and crop plant species: status, current limitations and strategic advances for crop improvement",
+        "pub_year": "2013",
+        "citation": "Journal of proteomics 93, 5-19, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:qjMakFHDy7sC",
+      "num_citations": 104,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17384524485810470295",
+      "cites_id": [
+        "17384524485810470295"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cassava post-harvest physiological deterioration: From triggers to symptoms",
+        "pub_year": "2018",
+        "citation": "Postharvest Biology and Technology 142, 115-123, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 95,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16790295137383475167",
+      "cites_id": [
+        "16790295137383475167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Robust transformation procedure for the production of transgenic farmer-preferred cassava landraces",
+        "pub_year": "2012",
+        "citation": "Plant methods 8, 1-8, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 75,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7881990727040112452",
+      "cites_id": [
+        "7881990727040112452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNAi inhibition of feruloyl CoA 6\u2032-hydroxylase reduces scopoletin biosynthesis and post-harvest physiological deterioration in cassava (Manihot esculenta Crantz \u2026",
+        "pub_year": "2017",
+        "citation": "Plant molecular biology 94, 185-195, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16226742837382150969",
+      "cites_id": [
+        "16226742837382150969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cassava geminivirus agroclones for virus-induced gene silencing in cassava leaves and roots",
+        "pub_year": "2018",
+        "citation": "Plant methods 14, 1-9, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10525737533234090257",
+      "cites_id": [
+        "10525737533234090257"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A computational simulation appraisal of banana lectin as a potential anti-SARS-CoV-2 candidate by targeting the receptor-binding domain",
+        "pub_year": "2023",
+        "citation": "Journal of Genetic Engineering and Biotechnology 21 (1), 148, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13264863923461714758",
+      "cites_id": [
+        "13264863923461714758"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A method for rapid and homogenous initiation of post-harvest physiological deterioration in cassava storage roots identifies Indonesian cultivars with improved shelf-life \u2026",
+        "pub_year": "2023",
+        "citation": "Plant Methods 19 (1), 4, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5382487691333851283",
+      "cites_id": [
+        "5382487691333851283"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainable financial development for small medium coffee farmers in Sumedang Regency, Indonesia",
+        "pub_year": "2021",
+        "citation": "Journal of Entrepreneurship 4 (14), 01-12, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6698920894127130335",
+      "cites_id": [
+        "6698920894127130335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of appropriate technology adoption for coffee farmers in Sukawangi Village, Sumedang",
+        "pub_year": "2019",
+        "citation": "Jurnal Ilmu Sosial Politik dan Humaniora 2 (2), 15-26, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15706901882862296163",
+      "cites_id": [
+        "15706901882862296163"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analyzing Availability and Competency of Accredited Testing Laboratories for Improving Competitiveness of Indonesian Export Case Study: Nutmeg",
+        "pub_year": "2017",
+        "citation": "A New Paradigm in Trade Governance Strengthen Global Competitiveness, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13280820080442089217",
+      "cites_id": [
+        "13280820080442089217"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of Natural Tolerance to Post-Harvest Physiological Deterioration and Development of Methods to Prolong Shelf-Life of Cassava Storage Roots",
+        "pub_year": "2016",
+        "citation": "ETH Zurich, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12255438678868283945",
+      "cites_id": [
+        "12255438678868283945"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fruit ripening and chitosan coating impacts on the expression profile of Banana Lectin (BanLec) genes",
+        "pub_year": "2024",
+        "citation": "Scientia Horticulturae 335, 113293, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico Comparative Analysis of Gene and Protein of Plant Lectins.",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RISK MITIGATION AND IMPROVEMENT OF COFFEE PLANT MANAGEMENT SYSTEM AT SUKAWANGI VILLAGE, SUMEDANG, WEST JAVA",
+        "pub_year": "2018",
+        "citation": "Journal of Tourism 3 (9), 117-132, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction of Binary Vector With Wound Inducible Promoter for Hbsag Expression: Development of Plant-Based Edible Hepatitis B Vaccine from Indonesian Isolate",
+        "pub_year": "2007",
+        "citation": "ANNALES BOGORIENSES 11 (1), 7-14, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTANIKA JOURNAL OF SOCIAL SCIENCES AND HUMANITIES",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CONSTRUCTION OF BINARY VECTOR WITH WOUND INDUCIBLE PROMOTER FOR HBsAG EXPRESSION: DEVELOPMENT OF PLANT-BASED EDIBLE HEPATITIS \u0412 VACCINE FROM INDONESIAN ISOLATE",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of MeEf1A6 Gene Promoter Activity with In-vitro and In-vivo using Transient and Stable Expression Techniques in Tobacco Plant (Nicotiana tabacum)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "95dVaMkAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

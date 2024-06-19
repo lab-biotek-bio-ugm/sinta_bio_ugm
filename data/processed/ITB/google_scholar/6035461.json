@@ -1,0 +1,594 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "uTOJYu8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "V Sri Harjati Suhardi",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uTOJYu8AAAAJ&citpid=7",
+  "affiliation": "School Of Life Science and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Environmental Microbiology",
+    "Bioremediation",
+    "Fungal Biotechnology",
+    "Mycoremediation",
+    "Laccase"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "http://www.sith.itb.ac.id/",
+  "citedby": 241,
+  "citedby5y": 121,
+  "hindex": 9,
+  "hindex5y": 6,
+  "i10index": 7,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2007": 3,
+    "2008": 2,
+    "2009": 4,
+    "2010": 3,
+    "2011": 4,
+    "2012": 2,
+    "2013": 5,
+    "2014": 12,
+    "2015": 15,
+    "2016": 20,
+    "2017": 26,
+    "2018": 21,
+    "2019": 18,
+    "2020": 31,
+    "2021": 20,
+    "2022": 19,
+    "2023": 18,
+    "2024": 15
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "fVtJPLoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tjandra Setiadi",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "niFYUcUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hendro Risdianto",
+      "affiliation": "Researcher at Center for Pulp and Paper"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Cx5dIPcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ramaraj Boopathy or Raj Boopathy",
+      "affiliation": "Nicholls State University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DyU-T4UAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bijeta Prasai",
+      "affiliation": "Postdoctoral Fellow, National Institutes of Health"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimisation of laccase production using white rot fungi and agriculture wastes in solid state fermentation",
+        "pub_year": "2012",
+        "citation": "ITB Journal of Engineering Science 44 (2), 93-105, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 60,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10978426601808685587",
+      "cites_id": [
+        "10978426601808685587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decolorizing reactive textile dyes with white\u2010rot fungi by temporary immersion cultivation",
+        "pub_year": "2006",
+        "citation": "Engineering in Life Sciences 6 (4), 417-420, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:4TOpqqG69KYC",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12017748216071648370",
+      "cites_id": [
+        "12017748216071648370"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of pretreatment methods for lignocellulosic ethanol production from energy cane variety L 79-1002",
+        "pub_year": "2013",
+        "citation": "International biodeterioration & biodegradation 85, 683-687, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:Zph67rFs4hoC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12991227735966781240",
+      "cites_id": [
+        "12991227735966781240"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemilihan spesies jamur dan media imobilisasi untuk Produksi enzim ligninolitik",
+        "pub_year": "2007",
+        "citation": "Prosiding Seminar Nasional Rekayasa Kimia dan Proses 1 (6), 32-135, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:aqlVkmm33-oC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5808298917268451926",
+      "cites_id": [
+        "5808298917268451926"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combined biological and chemical pretreatment method for lignocellulosic ethanol production from energy cane",
+        "pub_year": "2013",
+        "citation": "Renew Bioresour Available from: http://www. hoajonline. com \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7811370225901849418",
+      "cites_id": [
+        "7811370225901849418"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of temperature on laccase production in solid state fermentation by using white rot fungus Marasmius sp",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 1st International Seminar on Fundamental and Application \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2029591292761891442",
+      "cites_id": [
+        "2029591292761891442"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimisasi produksi enzim lakase pada fermentasi kultur padat menggunakan jamur pelapuk putih Marasmius sp.: Pengaruh ukuran partikel, kelembapan, dan konsentrasi Cu",
+        "pub_year": "2016",
+        "citation": "Jurnal Selulosa 3 (02), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7877711932688877852",
+      "cites_id": [
+        "7877711932688877852"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Lakase dan potensi aplikasinya dalam Proses pemutihan pulp",
+        "pub_year": "2008",
+        "citation": "Berita Selulosa 43 (1), 1-10, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:IWHjjKOFINEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15900158368200870128",
+      "cites_id": [
+        "15900158368200870128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kemampuan pengolahan warna limbah tekstil oleh berbagai jenis fungi dalam suatu bioreaktor",
+        "pub_year": "2007",
+        "citation": "Seminar Nasional Fundamental dan Aplikasi Teknik Kimia, JurusanTeknik Kimia \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:4DMP91E08xMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10576536944789906342",
+      "cites_id": [
+        "10576536944789906342"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination of ozone-based advanced oxidation process and nanobubbles generation toward textile wastewater recovery",
+        "pub_year": "2023",
+        "citation": "Frontiers in Environmental Science 11, 1154739, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5412197702505878348",
+      "cites_id": [
+        "5412197702505878348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining biodelignification and hydrothermal pretreatment of oil palm empty fruit bunches (OPEFB) for monomeric sugar production",
+        "pub_year": "2021",
+        "citation": "Bioresource Technology Reports 15, 100808, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3369314928559477414",
+      "cites_id": [
+        "3369314928559477414"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penghilangan Warna Limbah Tekstil Dengan Marasmius Sp. Dalam Bioreaktor Unggun tetap Termodifikasi (Modified Packed Bed)",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:-f6ydRqryjwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1516042631830565321",
+      "cites_id": [
+        "1516042631830565321"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential use of extracellular polymeric substances (EPS) of Bacillus subtilis for biosorption of mercury produced from soil-washing effluent",
+        "pub_year": "2023",
+        "citation": "Bioresource Technology Reports 22, 101481, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3851985008083796149",
+      "cites_id": [
+        "3851985008083796149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of anaerobic co-digestion with honey processing wastewater as co-substrate for treating synthetic wastewater containing commercial anthraquinone dye Remazol blue \u2026",
+        "pub_year": "2022",
+        "citation": "Bioresource Technology Reports 19, 101157, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:k_IJM867U9cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18095757676879080968",
+      "cites_id": [
+        "18095757676879080968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Sumber Karbon pada Produksi Lakase dari Jamur Pelapuk Putih Marasmius sp. dalam Fermentasi Kultur Padat",
+        "pub_year": "2018",
+        "citation": "Jurnal Selulosa 8 (02), 77-84, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:TFP_iSt0sucC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18062924257850547104",
+      "cites_id": [
+        "18062924257850547104"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Textile wastewater decolorization performance using Marasmius sp. in immersion and trickling systems",
+        "pub_year": "2009",
+        "citation": "Proceeding The 3rd IWA ASPIRE Conference & Exhibition, Taiwan, 151, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8876624602554908345",
+      "cites_id": [
+        "8876624602554908345"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDI TINGKAT KETERURAIAN PEWARNA TEKSTIL MENGGUNAKAN LAKASE MURNI DARI Marasmiellus palmivorus",
+        "pub_year": "2020",
+        "citation": "MANFISH JOURNAL 1 (1), 21-31, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14415602242227985867",
+      "cites_id": [
+        "14415602242227985867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "T. Production of laccase by Marasmius sp. grown in rice straw using a packed bed bioreactor",
+        "pub_year": "2012",
+        "citation": "Conference proceeding 19th Regional symposium of Chemical Engineering (RSCE \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:maZDTaKrznsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1429321762103332966",
+      "cites_id": [
+        "1429321762103332966"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immobilization of detergent degrading bacteria in trickle bed reactor for detergent industrial effluent removal: linear alkylbenzene sulfonate",
+        "pub_year": "2011",
+        "citation": "Proceedings of Environmental Technology and Management, 4th Conference 4 (EI \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14752747013007764040",
+      "cites_id": [
+        "14752747013007764040"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi lakase menggunakan fermentasi padat (solid state fermentation) dari limbah hasil pertanian",
+        "pub_year": "2009",
+        "citation": "Prosiding Seminar Nasional Teknik Kimia Indonesia, Bandung, 19-20, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2095328635255431970",
+      "cites_id": [
+        "2095328635255431970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laccase production from Marasmius sp. Using A Modified Temporary Immersion Bioreactor",
+        "pub_year": "2007",
+        "citation": "Regional Symposium on Chemical Engineering, Gadjah Mada University, Yogyakarta, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13632006030934877806",
+      "cites_id": [
+        "13632006030934877806"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing dye wastewater treatment: The impact of operational flux in submerged anaerobic membrane bioreactor",
+        "pub_year": "2024",
+        "citation": "South African Journal of Chemical Engineering, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of intermittent aeration on textile dyeing wastewater treatment in downflow hanging sponge column integrated with hollow fiber submerged anaerobic membrane bioreactor",
+        "pub_year": "2024",
+        "citation": "Bioresource Technology Reports, 101869, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "COD Removal in Organic Dyes Using Ultrasonication-Ozonation: Computational and Experimental Study",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Enzymatic Bioremediation of Oil Contaminated Soil by Laccase from Marasmiellus palmovorus using Response Surface Methodology",
+        "pub_year": "2021",
+        "citation": "Jurnal Presipitasi: Media Komunikasi dan Pengembangan Teknik Lingkungan 18 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrasonic-Advanced Oxidation Process-Nanobubble System Design for Textile Wastewater Treatment using PLC",
+        "pub_year": "2021",
+        "citation": "2021 International Conference on Instrumentation, Control, and Automation \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodeinking Kertas Koran Bekas menggunakan Ekstrak Kasar Lakase dari Marasmiellus palmivorus",
+        "pub_year": "2021",
+        "citation": "Jurnal Selulosa 11 (01), 39-48, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Variasi pH Medium terhadap Perolehan Biomassa Sel dan Laju Konsumsi Substrat Amonium pada Kultur Suspensi Sel Wortel (Daucus carota L.)",
+        "pub_year": "2020",
+        "citation": "Reka Buana: Jurnal Ilmiah Teknik Sipil dan Teknik Kimia 5 (2), 125-134, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decolorisation of batik waste water by marasmiellus palmivorus using modified fixed bed reactor",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (2), 55-61, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRODUKSI LAKASE DAN POTENSI APLIKASINYA DALAM PROSES PEMUTIHAN PULP (LACASE PRODUCTION AND ITS POTENTIAL IN PULP BLEACHING PROCESS)",
+        "pub_year": "2017",
+        "citation": "JURNAL SELULOSA 43 (01), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combined Biological and Chemical Pretreatment Method for Lignocellulosic Ethanol Production from Energy Ca",
+        "pub_year": "2015",
+        "citation": "Sugarcane as Biofuel Feedstock: Advances Toward a Sustainable Energy \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LACCASE FOR PULP AND PAPER: MODELING AND PRODUCTION IN A PACKED BED BIOREACTOR: MODELING AND PRODUCTION IN A PACKED BED BIOREACTOR",
+        "pub_year": "2013",
+        "citation": "\ud55c\uad6d\ud384\ud504\u00b7 \uc885\uc774\uacf5\ud559\ud68c \ud559\uc220\ubc1c\ud45c\ub17c\ubb38\uc9d1, 10-10, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dehalogenation activities of tropical white-rot fungi.",
+        "pub_year": "1995",
+        "citation": "University of Kent at Canterbury, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioresource Technology Reports",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Jurnal Presipitasi",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "uTOJYu8AAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

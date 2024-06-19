@@ -1,0 +1,2760 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "5SmNMzkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Willy Bayuardi Suwarno",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5SmNMzkAAAAJ&citpid=4",
+  "affiliation": "IPB University (Bogor Agricultural University)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Biometrics",
+    "Plant Breeding",
+    "Plant Genetics"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 1354,
+  "citedby5y": 1203,
+  "hindex": 18,
+  "hindex5y": 18,
+  "i10index": 36,
+  "i10index5y": 36,
+  "cites_per_year": {
+    "2014": 4,
+    "2015": 21,
+    "2016": 29,
+    "2017": 36,
+    "2018": 50,
+    "2019": 99,
+    "2020": 138,
+    "2021": 249,
+    "2022": 276,
+    "2023": 316,
+    "2024": 120
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X_VBJzsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bambang S Purwoko",
+      "affiliation": "Professor in Crop Biotechnology and Physiology, Bogor Agricultural University IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LQX89GMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iswari Saraswati Dewi",
+      "affiliation": "Researcher of National Research & Inovation Agency of Indonesia (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "McTcdVkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "hajrial aswidinnoor",
+      "affiliation": "Division of Plant Breeding and Genetics, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "iIFbt_AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sintho Wahyuning Ardie",
+      "affiliation": "Bogor Agricultural University (IPB)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aW4bP8EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Natalia Palacios Rojas",
+      "affiliation": "International center for maize and wheat improvement"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "p41Taa4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Munif Ghulamahdi",
+      "affiliation": "Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2Q4F1-kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Miftahur Rizqi Akbar",
+      "affiliation": "Indonesian Coffee and Cocoa Research Institute"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "g1r38MsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "muhamad syukur",
+      "affiliation": "Professor in Plant Breeding, IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zxC2FPwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Awang Maharijaya",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zvZh88cAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Amalia Nurul Huda",
+      "affiliation": "UPN Veteran Yogyakarta"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Clb_6kIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Shawn Kaeppler",
+      "affiliation": "University of Wisconsin-Madison"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DoHcn8wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Indrastuti Apri Rumanti",
+      "affiliation": "Peneliti"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9EMNRoIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Satyanto Krido Saptomo",
+      "affiliation": "Assoc. Prof. at Dept. of Civil and Environmental Engineering, IPB University (Bogor \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "UjwNq5kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Azrai",
+      "affiliation": "Faculty of Agriculture, Hasanuddin University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rDKpWqQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Siti Marwiyah",
+      "affiliation": "Bogor agricultural university"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Wf48DbgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "surjono hadi sutjahjo",
+      "affiliation": "Profesor bidang Genetik dan Pemuliaan Tanaman IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TKGciz0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Trias Sitaresmi",
+      "affiliation": "National Research and Innovation Agency"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2Gfk2OAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Heni Safitri",
+      "affiliation": "Plant Breeder of Indonesian Center for Rice Research"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "74LEapIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Indra Setiawan",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Bv8dGeYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anggi Nindita, SP. MSi",
+      "affiliation": "Department of Agronomy and Horticulture, Faculty of Agriculture, Bogor Agriculture \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MsMBKCUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jose Crossa",
+      "affiliation": "Biometrician"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xbyRvy0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Endang Gunawan",
+      "affiliation": "Center for Tropical Horticulture Studies"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "t0g6IdoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Abil dermail",
+      "affiliation": "Khon Kaen University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "O8b_bIIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Chusnul Arif",
+      "affiliation": "Associate Prof, Dept. of Civil and Environmental Engineering, IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "WRAGZ8wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sobir Ridwani",
+      "affiliation": "Professor of Plant Breeding, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "yZu4z3MAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hapsari Wening",
+      "affiliation": "Mrs, breeder, indonesian center of rice research"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MsLeIJcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yudiwanti Wahyu Endro Kusumo",
+      "affiliation": "Doctor of Plant Breeding, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JK_8SK0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Gajanan Saykhedkar",
+      "affiliation": "Senior Scientific Officer"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ayij0SsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Darda Efendi",
+      "affiliation": "Professor at Bogor Agricultural University; Senior Researcher at Center for Tropical \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8wy26agAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Pattama Hannok",
+      "affiliation": "Maejo university"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "N3_NujsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Cucu Gunarsih",
+      "affiliation": "Balai Besar Penelitian Tanaman Padi"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "s8reM9AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "desta wirnas",
+      "affiliation": "Dr of plant genetics and Breeding, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Q3LYHaMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Khundej Suriharn",
+      "affiliation": "Department of Agronomy, Faculty of Agriculture, Khon Kaen University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6K4u3pAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Thomas Lubberstedt",
+      "affiliation": "Iowa State University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LXbd1dwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aris Hairmansis",
+      "affiliation": "National Research and Innovation Agency"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "u5c40AkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Deden Derajat Matra",
+      "affiliation": "Department of Agronomy and Horticulture, IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ta8TTGcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Untung Susanto",
+      "affiliation": "Badan Riset dan Inovasi Nasional (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-2AdzFYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Roy Efendi (https://orcid.org/0000-0002-6515-1198)",
+      "affiliation": "The National Research and Innovation Agency, Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ic_vLjUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Siti Nurhidayah",
+      "affiliation": "Universitas Siliwangi"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XzeJG_YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "trikoesoemaningtyas",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NnJPNPIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Andari Risliawati",
+      "affiliation": "Researcher at National Research and Innovation Agency (BRIN), Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hl2NL18AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Estria Furry Pramudyawardani",
+      "affiliation": "Rice Breeder, ICRR"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_8gO92AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kuswandi",
+      "affiliation": "Researcher of Indonesian Tropical Fruit Research Institute"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LEXDsBYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Uswah Trywulan Syah",
+      "affiliation": "Universitas Puangrimaggalatung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rEsBLhMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nurwanita Ekasari Putri",
+      "affiliation": "Universitas Andalas"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "a9J0Ds0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hevia Purnama Sari",
+      "affiliation": "Politeknik Negeri Lampung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dnCqz5AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nurwulan Agustiani",
+      "affiliation": "Badan Riset dan Inovasi Nasional (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SgBukc0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "muhammad fuad anshori",
+      "affiliation": "Hasanuddin University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genome\u2011wide association analysis reveals new targets for carotenoid biofortification in maize",
+        "pub_year": "2015",
+        "citation": "Theoretical and Applied Genetics, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:4TOpqqG69KYC",
+      "num_citations": 156,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17512024715772523718",
+      "cites_id": [
+        "17512024715772523718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formation of Heterotic Groups and Understanding Genetic Effects in a Provitamin A Biofortified Maize Breeding Program",
+        "pub_year": "2014",
+        "citation": "Crop Science 54 (1), 14-24, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 143,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18415080596669589828",
+      "cites_id": [
+        "18415080596669589828"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and validation of genomic regions influencing kernel zinc and iron in maize",
+        "pub_year": "2018",
+        "citation": "Theoretical and Applied Genetics 131, 1443-1457, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 114,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3555565754519507428",
+      "cites_id": [
+        "3555565754519507428"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SELECTION INDEX BASED ON MULTIVARIATE ANALYSIS FOR SELECTING DOUBLED-HAPLOID RICE LINES IN LOWLAND SALINE PRONE AREA.",
+        "pub_year": "2019",
+        "citation": "SABRAO Journal of Breeding & Genetics 51 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 65,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6784505854892347465",
+      "cites_id": [
+        "6784505854892347465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DETERMINATION OF SELECTION CRITERIA FOR SCREENING OF RICE GENOTYPES FOR SALINITY TOLERANCE.",
+        "pub_year": "2018",
+        "citation": "SABRAO Journal of Breeding & Genetics 50 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2449905481517558443",
+      "cites_id": [
+        "2449905481517558443"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Provitamin A Carotenoids in Grain Reduce Aflatoxin Contamination of Maize While Combating Vitamin A Deficiency",
+        "pub_year": "2019",
+        "citation": "Frontiers in Plant Science 10, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 44,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4977945325041254682",
+      "cites_id": [
+        "4977945325041254682"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A New Approach to Select Doubled Haploid Rice Lines under Salinity Stress Using Indirect Selection Index",
+        "pub_year": "2021",
+        "citation": "Rice Science 28 (4), 368-378, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:sSrBHYA8nusC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6898910388586168162",
+      "cites_id": [
+        "6898910388586168162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic and yield selection of doubled haploid lines of rainfed lowland rice in advanced yield trials",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (7), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11829260349345098039",
+      "cites_id": [
+        "11829260349345098039"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik Plasma Nutfah Rambutan di Indonesia Berdasarkan Karakter Morfologi",
+        "pub_year": "2016",
+        "citation": "Jurnal Hortikultura 24 (4), 289-298, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5637308766173394759",
+      "cites_id": [
+        "5637308766173394759"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cluster heatmap for detection of good tolerance trait on doubled-haploid rice lines under hydroponic salinity screening",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 484 (1), 012001, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:p2g8aNsByqUC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7881582459035983444",
+      "cites_id": [
+        "7881582459035983444"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Buah Melon (Cucumis melo L.) pada Lima Stadia Kematangan",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (3), 298-305, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:u_35RYKgDlwC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1836910773053544395",
+      "cites_id": [
+        "1836910773053544395"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AGRONOMIC AND DROUGHT TOLERANCE EVALUATION OF DOUBLED HAPLOID RICE BREEDING LINES DERIVED FROM ANTHER CULTURE.",
+        "pub_year": "2018",
+        "citation": "SABRAO Journal of Breeding & Genetics 50 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8666609741974228992",
+      "cites_id": [
+        "8666609741974228992"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of doubled haploid lines of rainfed lowland rice in preliminary yield trial",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:abG-DnoFyZgC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11718588990158913347",
+      "cites_id": [
+        "11718588990158913347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Indeks Seleksi Toleransi Kekeringan Galur Dihaploid Padi Sawah Tadah Hujan pada Fase Perkecambahan",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (2), 133-139, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3145661229923836890",
+      "cites_id": [
+        "3145661229923836890"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salinity tolerance selection of doubled-haploid rice lines based on selection index and factor analysis",
+        "pub_year": "2022",
+        "citation": "AIMS Agric Food 7 (3), 520-535, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=263328603754056587",
+      "cites_id": [
+        "263328603754056587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simultaneous Selection of Sweet-Waxy Corn Ideotypes Appealing to Hybrid Seed Producers, Growers, and Consumers in Thailand",
+        "pub_year": "2021",
+        "citation": "Agronomy 12 (1), 87, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16012210456876716983",
+      "cites_id": [
+        "16012210456876716983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "COMPREHENSIVE STABILITY ANALYSIS OF RICE GENOTYPES THROUGH MULTI-LOCATION YIELD TRIALS USING PBSTAT-GE.",
+        "pub_year": "2019",
+        "citation": "SABRAO Journal of Breeding & Genetics 51 (4), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:KxtntwgDAa4C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17772132649958185919",
+      "cites_id": [
+        "17772132649958185919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Karakteristik Hortikultura Empat Genotipe Melon (Cucumis melo L.) Pusat Kajian Hortikultura Tropika IPB",
+        "pub_year": "2014",
+        "citation": "Jurnal Hortikultura Indonesia 5 (1), 56-63, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17162940351136493236",
+      "cites_id": [
+        "17162940351136493236"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic performance and yield of doubled haploid rice lines in advanced yield trial",
+        "pub_year": "2018",
+        "citation": "SABRAO J. Breed. Genet 50 (3), 242-253, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12246931232703170005",
+      "cites_id": [
+        "12246931232703170005"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfologi Malai Padi (Oryza sativa L.) pada Beragam Aplikasi Pupuk Nitrogen",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (2), 145-152, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12293206518919985075",
+      "cites_id": [
+        "12293206518919985075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFICIENT INDICA RICE ANTHER CULTURE DERIVED FROM THREE-WAY CROSSES.",
+        "pub_year": "2017",
+        "citation": "SABRAO Journal of Breeding & Genetics 49 (4), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:RGFaLdJalmkC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5513627691480882304",
+      "cites_id": [
+        "5513627691480882304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performances of sheet-pipe typed subsurface drainage on land and water productivity of paddy fields in Indonesia",
+        "pub_year": "2020",
+        "citation": "Water 13 (1), 48, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:738O_yMBCRsC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11495348953084348471",
+      "cites_id": [
+        "11495348953084348471"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of Submergence Tolerant Rice under Artificial Condition Based on Multiple Selection Indices",
+        "pub_year": "2019",
+        "citation": "Plant Breeding and Biotechnology 7 (4), 360-374, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:P5F9QuxV20EC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11796689429313693225",
+      "cites_id": [
+        "11796689429313693225"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heritabilitas, Karakterisasi, dan Analisis Clustergram Galur-galur Padi Dihaploid Hasil Kultur Antera",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (2), 119-125, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2385960025307915002",
+      "cites_id": [
+        "2385960025307915002"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik Karakteristik Buah antar 17 Genotipe Melon (Cucucmis melo L.)",
+        "pub_year": "2017",
+        "citation": "Jurnal Hortikultura Indonesia 8 (1), 1-12, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:blknAaTinKkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17553993242127750794",
+      "cites_id": [
+        "17553993242127750794"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Indeks Seleksi untuk Galur Dihaploid Padi Sawah Tadah Hujan Berdaya Hasil Tinggi",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 47 (2), 111-118, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:f2IySw72cVMC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7080640254034706485",
+      "cites_id": [
+        "7080640254034706485"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PBSTAT: A Web-Based Statistical Analysis Software for Participatory Plant Breeding",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:-f6ydRqryjwC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14535175457366332095",
+      "cites_id": [
+        "14535175457366332095"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HIGH NONADDITIVE GENE ACTION CONTROLS SYNCHRONOUS MATURITY IN MUNG BEAN.",
+        "pub_year": "2021",
+        "citation": "SABRAO Journal of Breeding & Genetics 53 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9385349938236712846",
+      "cites_id": [
+        "9385349938236712846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Analysis and QTL Mapping for Agronomic and Yield-Related Traits in Ciherang-Sub1 Rice Backcross Populations",
+        "pub_year": "2018",
+        "citation": "Plant breeding and biotechnology 6 (3), 177-192, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:M05iB0D1s5AC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2121489529381345285",
+      "cites_id": [
+        "2121489529381345285"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining ability of tropical\u00d7 temperate maize inducers for haploid induction rate, R1-nj seed set, and agronomic traits",
+        "pub_year": "2023",
+        "citation": "Frontiers in Plant Science 14, 1154905, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1148151241791809863",
+      "cites_id": [
+        "1148151241791809863"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kandungan antosianin dan karotenoid serta komponen produksi pada kacang panjang berpolong ungu dan hijau",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 47 (1), 61-67, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:_xSYboBqXhAC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16106822490733538087",
+      "cites_id": [
+        "16106822490733538087"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype by environment interaction on tropical maize hybrids under normal irrigation and waterlogging conditions",
+        "pub_year": "2022",
+        "citation": "Frontiers in Sustainable Food Systems 6, 913211, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:PELIpwtuRlgC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14248557749663373924",
+      "cites_id": [
+        "14248557749663373924"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "WHEAT TRANSGRESSIVE SEGREGANTS AND THEIR ADAPTATION IN THE TROPICAL REGION.",
+        "pub_year": "2020",
+        "citation": "SABRAO Journal of Breeding & Genetics 52 (4), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1214837462171167913",
+      "cites_id": [
+        "1214837462171167913"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation and regression among rice panicle branches traits",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (4), 1140-1146, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:a0OBvERweLwC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3017420083017979926",
+      "cites_id": [
+        "3017420083017979926"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALYSIS OF PANICLE MORPHOLOGY TRAITS IN F2 AND RECIPROCAL F2 POPULATIONS OF RICE (Oryza sativa L.).",
+        "pub_year": "2018",
+        "citation": "SABRAO Journal of Breeding & Genetics 50 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:lSLTfruPkqcC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11423069805538852307",
+      "cites_id": [
+        "11423069805538852307"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of drought tolerance in maize hybrids using stress tolerance indices",
+        "pub_year": "2017",
+        "citation": "Int. J. Agron. Agric. Res 11, 46-54, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:D03iK_w7-QYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5235175158449251991",
+      "cites_id": [
+        "5235175158449251991"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance, Heritability and Genetic Advance for Oil Yield and some Economical Characters in Oil Palm (Elaeis guineensis Jacquin) of Cameroon",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 45 (2), 212-219, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14346230528970592315",
+      "cites_id": [
+        "14346230528970592315"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Parameters and secondary characters for selection of tolerance rice varieties under stagnant flooding condition",
+        "pub_year": "2019",
+        "citation": "AGRIVITA, Journal of Agricultural Science 41 (2), 372-384, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=102782687104012865",
+      "cites_id": [
+        "102782687104012865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype by environment analysis on multi\u2010canopy cropping system towards vertical harvest space in rice",
+        "pub_year": "2020",
+        "citation": "Agronomy Journal 112 (6), 4568-4577, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17662358320214418089",
+      "cites_id": [
+        "17662358320214418089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interaksi genotipe x lingkungan pada morfologi malai galur-galur padi (Oryza sativa L.) bermalai lebat",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 47 (3), 240-247, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9819991239596628828",
+      "cites_id": [
+        "9819991239596628828"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Advances in the development of rice varieties with better nutritional quality in Indonesia",
+        "pub_year": "2023",
+        "citation": "Journal of Agriculture and Food Research 12, 100602, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:hkOj_22Ku90C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9367363019759810593",
+      "cites_id": [
+        "9367363019759810593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic relationship of pigmented rice (Oryza sativa L.) collected from Eastern Indonesia based on morpho-agronomical traits and SSR markers",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2462 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:olpn-zPbct0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17041121132589558902",
+      "cites_id": [
+        "17041121132589558902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Model of Evapotranspirative Irrigation to Manage the Various Water Levels in the System of Rice Intensification (SRI) and Its Effect on Crop and Water Productivities",
+        "pub_year": "2022",
+        "citation": "Water 14 (2), 170, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:1qzjygNMrQYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=723796073816086812",
+      "cites_id": [
+        "723796073816086812"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mining and characterization of genomic-based microsatellite markers in duku (Lansium domesticum)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012083, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:dshw04ExmUIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13862177165079890791",
+      "cites_id": [
+        "13862177165079890791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Delapan Genotipe Melon (Cucumis melo L.) terhadap Perlakuan KNO3",
+        "pub_year": "2018",
+        "citation": "Jurnal Hortikultura Indonesia 9 (2), 84-92, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17091082433482560539",
+      "cites_id": [
+        "17091082433482560539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter Agronomi Galur Padi Dihaploid Asal Kultur Antera Hasil Persilangan Three Way Cross",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (1), 9-16, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=786451471049795273",
+      "cites_id": [
+        "786451471049795273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Yield Components of New Sweet Corn Hybrids in Bogor, Indonesia",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Crop Science Vol 3 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10136534423431858533",
+      "cites_id": [
+        "10136534423431858533"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yield and grain quality of ten promising rice breeding lines for tidal swamp areas",
+        "pub_year": "2013",
+        "citation": "J. Agron. Indonesia 41 (1), 1-8, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4574918742386958091",
+      "cites_id": [
+        "4574918742386958091"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of doubled haploid black rice lines in advanced yield trial based on multivariate analysis",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (12), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14141766837500121658",
+      "cites_id": [
+        "14141766837500121658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research on Melon Fruit Selection Based on Rank with YOLOv4 Algorithm",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 2123 (1), 012036, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8604561601147017748",
+      "cites_id": [
+        "8604561601147017748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENOTYPE x ENVIRONMENT INTERACTION AND STABILITY ANALYSIS FOR HIGH YIELDING DOUBLED HAPLOID LINES OF LOWLAND RICE",
+        "pub_year": "2021",
+        "citation": "TURKISH JOURNAL OF FIELD CROPS 26 (2), 218-225, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:uLbwQdceFCQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5842689998328788010,7480238776647645362",
+      "cites_id": [
+        "5842689998328788010",
+        "7480238776647645362"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaan Lima Varietas Melon (Cucumis melo L.) dengan Perlakuan Irigasi Cincin di Rumah Kaca",
+        "pub_year": "2020",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 48 (3), 307-313, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17565442804116843930",
+      "cites_id": [
+        "17565442804116843930"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HIGH YIELDING AND BLAST RESISTANT RICE CULTIVARS DEVELOPED FOR TROPICAL UPLAND AREA.",
+        "pub_year": "2019",
+        "citation": "SABRAO Journal of Breeding & Genetics 51 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9473325695077473320",
+      "cites_id": [
+        "9473325695077473320"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Genetik Arsitektur Malai Padi Menggunakan Dua Populasi F2",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (1), 1-8, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4230376428794901153",
+      "cites_id": [
+        "4230376428794901153"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Melon breeding: past experiences and future challenges",
+        "pub_year": "2017",
+        "citation": "Pusat Kajian Hortikultura Tropika (PKHT)-LPPM IPB, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=618562404436638211",
+      "cites_id": [
+        "618562404436638211"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The usefulness of molecular markers approach for developing heterotic groups in maize",
+        "pub_year": "2014",
+        "citation": "J. Trop. Crop Sci 1, 4-10, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:mB3voiENLucC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12048035476438507579",
+      "cites_id": [
+        "12048035476438507579"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi fisikokimia beras galur-galur padi hitam dihaploid",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Agronomy 50 (1), 1-9, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15166464466217129646",
+      "cites_id": [
+        "15166464466217129646"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Existing diversity profile for kernel characteristics of maize germplasm in IAARD-ICABIOGRAD gene bank",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2462 (1), 020007, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:XiVPGOgt02cC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13520050304430581871",
+      "cites_id": [
+        "13520050304430581871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype by environment analysis on multi\u2010canopy cropping system in rice: Effects of different types of flag leaves",
+        "pub_year": "2022",
+        "citation": "Agronomy Journal 114 (1), 356-365, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7741863258244989060",
+      "cites_id": [
+        "7741863258244989060"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype by environment interaction on phenology and synchronous maturity of mungbean",
+        "pub_year": "2021",
+        "citation": "Agronomy Journal, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:8AbLer7MMksC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11475393954361373568",
+      "cites_id": [
+        "11475393954361373568"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Analysis of Tertiary Rice Panicle Branches",
+        "pub_year": "2021",
+        "citation": "E3S Web of Conferences 232, 03002, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13760321688592641165",
+      "cites_id": [
+        "13760321688592641165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Stabilitas Parametrik Hasil Cabai Rawit (Capsicum fructescens L.) pada Empat Lokasi Dataran Rendah",
+        "pub_year": "2020",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 48 (3), 258-267, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:tOudhMTPpwUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18080776750213097972",
+      "cites_id": [
+        "18080776750213097972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SUBMERGENCE AND DROUGHT STRESSES IN RICE OVER GENOTYPE BY ENVIRONMENT INTERACTION.",
+        "pub_year": "2020",
+        "citation": "SABRAO Journal of Breeding & Genetics 52 (4), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13398326478986927232",
+      "cites_id": [
+        "13398326478986927232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interaksi genotipe\u00d7 musim karakter percabangan malai tiga genotipe padi sawah",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Agronomy 48 (1), 1-7, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:SP6oXDckpogC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554318587637477214",
+      "cites_id": [
+        "15554318587637477214"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaan Agronomi dan Potensi Hasil Genotipe Jagung (Zea mays L.) Generasi S1 dan S2 di Dua Lokasi",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 45 (2), 138-145, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15978887140324445230",
+      "cites_id": [
+        "15978887140324445230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Parameter Genetik dan Deteksi Segregan Transgresif pada Populasi Kacang Tanah (Arachis hypogaea L.) Generasi F3",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 45 (2), 162-168, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:GnPB-g6toBAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8764053075020427969",
+      "cites_id": [
+        "8764053075020427969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian Daya Hasil dan Ketahanan Penyakit Hawar Daun Bakteri Tanaman Padi Hibrida",
+        "pub_year": "2016",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 44 (2), 126-132, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7731462666753538534",
+      "cites_id": [
+        "7731462666753538534"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A strategy to identify representative maize core collections based on kernel properties",
+        "pub_year": "2022",
+        "citation": "Genetic Resources and Crop Evolution, 1-12, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8884704663876282116",
+      "cites_id": [
+        "8884704663876282116"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and numerical investigation of laboratory scale sheetpipe-typed automatic subsurface irrigation",
+        "pub_year": "2021",
+        "citation": "Communications in Science and Technology 6 (2), 117-124, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:J-pR_7NvFogC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5220496367350356652",
+      "cites_id": [
+        "5220496367350356652"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian berbagai pola tanam terhadap peningkatan produktivitas jagung dan kedelai dengan berbagai varietas jagung",
+        "pub_year": "2020",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 48 (3), 227-234, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5722377111365110425",
+      "cites_id": [
+        "5722377111365110425"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Male-sterile induction method in foxtail millet (Setaria italica)",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (9), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:WbkHhVStYXYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4794055684882606149",
+      "cites_id": [
+        "4794055684882606149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic analysis and selection of short harvest period in F2 population of mungbean",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 484 (1), 012006, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5520732422045710684",
+      "cites_id": [
+        "5520732422045710684"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi simultan karakter daun mengering dan produktivitas pada galur-galur padi",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 47 (3), 232-239, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13636962228856047440",
+      "cites_id": [
+        "13636962228856047440"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining Ability, Association Mapping, and Genomic Predictions for Provitamin A Carotenoid Concentrations in Tropical Maize (Zea mays L.)",
+        "pub_year": "2012",
+        "citation": "THE UNIVERSITY OF WISCONSIN-MADISON, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:HDshCWvjkbEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15365110765620066008",
+      "cites_id": [
+        "15365110765620066008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variability of F2 foxtail millet population derived from ICERI-5 and Botok-10 cross",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (6), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:_Ybze24A_UAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3873746170112722081",
+      "cites_id": [
+        "3873746170112722081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A comparative study on single and multiple trait selections of equatorial grown maize hybrids",
+        "pub_year": "2023",
+        "citation": "Frontiers in Sustainable Food Systems 7, 1185102, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:UHK10RUVsp4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4481563404808021031",
+      "cites_id": [
+        "4481563404808021031"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stability Analysis, Agronomic Performance, and Grain Quality of Elite New Plant Type Rice Lines (Oryza sativa L.) Developed for Tropical Lowland Ecosystem",
+        "pub_year": "2023",
+        "citation": "Frontiers in Sustainable Food Systems 7, 1147611, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3801201760581359677",
+      "cites_id": [
+        "3801201760581359677"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Lansium parasiticum (Osbeck) KC Sahni & Bennet accessions based on vegetative morphological characters and simple sequence repeat markers",
+        "pub_year": "2022",
+        "citation": "Genetic Resources and Crop Evolution 69 (4), 1707-1716, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5911665173201606",
+      "cites_id": [
+        "5911665173201606"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konfirmasi Toleransi Galur-galur Padi terhadap Cekaman Kekeringan secara Molekuler",
+        "pub_year": "2021",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 49 (2), 105-111, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:D_sINldO8mEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16393278817984190970",
+      "cites_id": [
+        "16393278817984190970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of potential genotypes and traits evaluation of honeydew (Cucumis melo L.)",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 383 (1), 012012, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:NhqRSupF_l8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15710615893663694865",
+      "cites_id": [
+        "15710615893663694865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic performance of BC3F5 rice lines introgressed with pup1 and ALT LOCI",
+        "pub_year": "2019",
+        "citation": "Sabrao J. Breed. Genet 51, 311-324, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2456410027223536116",
+      "cites_id": [
+        "2456410027223536116"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kandungan Minyak 30 Genotipe Jagung dan Korelasinya terhadap Beberapa Karakter Agronomi",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (3), 254-261, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14942900016117605884",
+      "cites_id": [
+        "14942900016117605884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ketahanan beberapa klon kentang (Solanum tuberosum L.) terhadap asam fusarat dan penyakit busuk kering umbi",
+        "pub_year": "2016",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 44 (2), 183-189, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:isC4tDSrTZIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6239152017125259250",
+      "cites_id": [
+        "6239152017125259250"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proliferation of Protocorm-Like Bodies of Dendrobium mannii and Dendrobium mirbelianum in Chitosan-containing Media In Vitro",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Crop Science 2 (3), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=327125521786971186",
+      "cites_id": [
+        "327125521786971186"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Systematic selection to adaptive doubled haploid rice lines under different environments of submergence screening methods",
+        "pub_year": "2023",
+        "citation": "Journal of Agriculture and Food Research 14, 100775, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:NJ774b8OgUMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13880428175621483453",
+      "cites_id": [
+        "13880428175621483453"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype sensitivity and adaptability for fruit yield in red and green okra on environmental change",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (8), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5696282655862147150",
+      "cites_id": [
+        "5696282655862147150"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic traits of rice hybrids (Oryza sativa L.) derived from new plant type and male sterile parents",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Agronomy 51 (2), 181-189, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=242530175440936333",
+      "cites_id": [
+        "242530175440936333"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sebaran potensi kandungan zinc galur-galur padi biofortifikasi berdasarkan warna beras pecah kulit",
+        "pub_year": "2023",
+        "citation": "Jurnal AGRO 10 (1), 45-56, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:W5xh706n7nkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10776888423008950260",
+      "cites_id": [
+        "10776888423008950260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection index and agronomic characters of doubled haploid rice lines from anther culture",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14854182705133419268",
+      "cites_id": [
+        "14854182705133419268"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic performance and selection of green super rice doubled haploid lines from anther culture",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:5awf1xo2G04C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8007806733944940060",
+      "cites_id": [
+        "8007806733944940060"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity, heritability, and accumulation patterns of Zn content in biofortified rice",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10483321962679860157",
+      "cites_id": [
+        "10483321962679860157"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic architecture of new plant type rice (Oryza sativa L.) lines based on a 12-years multi-experiment",
+        "pub_year": "2023",
+        "citation": "SABRAO J. Breed. Genet 55 (4), 1025-1037, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:tKAzc9rXhukC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13823321554615239265",
+      "cites_id": [
+        "13823321554615239265"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Doubled Haploid Rice Lines Production through Anther Culture of F-1 Derived from Abiotic Stress Tolerant Parents",
+        "pub_year": "2022",
+        "citation": "SAINS MALAYSIANA 51 (12), 3937-3948, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:WqliGbK-hY8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10105678265038663991",
+      "cites_id": [
+        "10105678265038663991"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi Galur-galur Dihaploid Padi Hitam pada Uji Daya Hasil Lanjutan",
+        "pub_year": "2021",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 49 (3), 229-234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:bnK-pcrLprsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9757566298748252103",
+      "cites_id": [
+        "9757566298748252103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of maize genotypes for drought tolerance improvement",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 911 (1), 012002, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15669677121409777855",
+      "cites_id": [
+        "15669677121409777855"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Grain quality-based selection and QTL mapping in a Ciherang-subl backcross population",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 484 (1), 012032, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:XiSMed-E-HIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4346210615036899346",
+      "cites_id": [
+        "4346210615036899346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of panicle morphological traits of rice (Oryza sativa L.)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 484 (1), 012039, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:u9iWguZQMMsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14022914835376053355",
+      "cites_id": [
+        "14022914835376053355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter Seleksi Fase Vegetatif Jagung terhadap Hasil pada Cekaman Genangan Air",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 47 (2), 134-140, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13686199730927900592",
+      "cites_id": [
+        "13686199730927900592"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Korelasi dan Analisis Lintas pada Dua Generasi Kacang Tanah",
+        "pub_year": "2016",
+        "citation": "Perhimpunan Agronomi Indonesia, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1172439580320235472",
+      "cites_id": [
+        "1172439580320235472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new concept in assessing adaptability index for superior potential cropping intensity in early-maturing rice",
+        "pub_year": "2024",
+        "citation": "Frontiers in Sustainable Food Systems 8, 1407880, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:z_wVstp3MssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Digital phenotyping for robust seeds variability assessment in Setaria italica (L.) P. Beauv.",
+        "pub_year": "2024",
+        "citation": "Journal of Seed Science 46, e202446012, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water Saving Rice Cultivation using Sheet-Pipe Subsurface Irrigation",
+        "pub_year": "2024",
+        "citation": "Heliyon, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigating genomic prediction strategies for grain carotenoid traits in a tropical/subtropical maize panel",
+        "pub_year": "2024",
+        "citation": "G3: Genes, Genomes, Genetics 14 (5), jkae044, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:nrtMV_XWKgEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STABILITY ANALYSIS OF FRUIT WEIGHT AND SEED WEIGHT OVER YEARS ON FOURTEEN INDONESIAN LOCAL ARECA NUT ACCESSIONS.",
+        "pub_year": "2024",
+        "citation": "SABRAO Journal of Breeding & Genetics 56 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profile microsatellite mining of whole genome sequencing and transcriptomic assembly in dwarf and tall areca nut (Areca catechu) in Indonesia",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (3), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:VLnqNzywnoUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morpho-agronomic character bring dynamics for maize core collection development",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2957 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gene action and heritability estimates in F2 populations of Foxtail millet(Setaria italica L.)",
+        "pub_year": "2024",
+        "citation": "SABRAO J. Breed. Genet 56 (1), 65-75, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multi-trait selection of tropical maize genotypes under optimum and acidic soil conditions",
+        "pub_year": "2024",
+        "citation": "SABRAO J. Breed. Genet 56 (1), 142-155, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Genetic Variability of Indonesian Local Foxtail Millet Accession Based on Agro-morphological Traits and Early Salinity Tolerance Evaluation Utilizing SiDREB2-based SNAP Marker",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (1), 82-93, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics and variability of melon genotypes under shade conditions in greenhouse",
+        "pub_year": "2023",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 51 (3), 324-333, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:35r97b3x0nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemilihan Algoritma Machine Learning untuk Perangkat dengan Komputasi Terbatas pada Deteksi Kematangan Buah Melon Berjala",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmu Komputer dan Agri-Informatika 10 (2), 189-199, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic performance, yield stability and selection of doubled haploid rice lines in advanced yield trials.",
+        "pub_year": "2023",
+        "citation": "AIMS Agriculture & Food 8 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:evX43VCCuoAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of relationship among traits and genotypes for melon (Cucumis melo) breeding",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (8), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemberian Berbagai Pestisida pada Kualitas Buah Abiu (Pouteria caimito Radlk.)",
+        "pub_year": "2023",
+        "citation": "Buletin Agrohorti 11 (2), 214-222, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:JQOojiI6XY0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variability of kernel morphological and flour physicochemical properties in tropical dent corn hybrids",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype by Environment Interaction of IPB New Plant Type Rice Lines in Three Irrigated Lowland Locations",
+        "pub_year": "2023",
+        "citation": "AGRIVITA, Journal of Agricultural Science 45 (1), 163-172, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytic acid content in biofortified rice lines and its association with micronutrient content and grain yield of rice",
+        "pub_year": "2023",
+        "citation": "SABRAO J. Breed. Genet 55 (5), 1629-1640, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:tzM49s52ZIMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and similarity of melon (Cucumis melo L.) groups and determination of distinguishing morphological characters",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (12), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Galur-galur Padi Sawah Dihaploid Hasil Kultur Antera Menggunakan Seleksi Indeks",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Agronomy 50 (1), 18-25, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:Y5dfb0dijaUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Hasil Benih Padi Hibrida pada Tiga Galur CMS dengan Sumber Sitoplasma yang Berbeda",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Agronomy 50 (1), 10-17, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Galur-galur Harapan Padi Sawah Dihaploid terhadap Salinitas pada Fase Bibit",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Agronomy 49 (3), 219-228, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi Galur-galur Dihaploid Padi Hitam pada Uji Daya Hasil Lanjutan Doubled Haploid Lines Selection of Black Rice in Advanced Yield Trial",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heritabilitas dan Hubungan Antar Karakter Kuantitatif Kecipir (Psophocarpus tetragonolobus (L.) DC) pada Tiga Lingkungan",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Agronomy 49 (1), 68-74, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter Percabangan Malai Genotipe Padi Sawah pada Berbagai Level Dosis Fosfor",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 47 (2), 126-133, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Important characters in salt tolerant rice based on several methods of screening",
+        "pub_year": "2019",
+        "citation": "\ud55c\uad6d\uc721\uc885\ud559\ud68c \ud559\uc220\ubc1c\ud45c\ud68c\uc9c0 2019 (1), 102-102, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:eflP2zaiRacC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter Seleksi Fase Vegetatif Jagung terhadap Hasil pada Cekaman Genangan Air",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inheritance Of Shape And Kernel Color In Sweet Corn Using JM2 And JM4 Populations",
+        "pub_year": "2018",
+        "citation": "Journal of Tropical Crop Science 5 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and validation of genomic regions influencing kernel zinc and iron in maize.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:fEOibwPWpKIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kandungan Minyak 30 Genotipe Jagung dan Korelasinya terhadap Beberapa Karakter Agronomi",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:HE397vMXCloC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marker traits association of agronomical traits correlated with stagnant flooding tolerance in rice",
+        "pub_year": "2017",
+        "citation": "Journal of Physics: Conference Series 835 (1), 012002, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaan Agronomi dan Potensi Hasil Genotipe Jagung (Zea mays L.) Generasi S1 dan S2 di Dua Lokasi",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity and Interrelationship among Some Dura\u00d7 Tenera Oil Palm (Elaeis guineensis Jacq.) Genotypes in Cameroon",
+        "pub_year": "2017",
+        "citation": "J Agric Sci Technol 7, 81-90, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Yield Components of New Sweet Corn Hybrids in Bogor, Indonesia",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Crop Science, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik21 Genotipe Melon (Cucumis melo L.) untuk Karakter Kualitas Buah",
+        "pub_year": "2016",
+        "citation": "Perhimpunan Agronomi Indonesia, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi Genotipe Jagung Berkadar Amilopektin dan Padatan Terlarut Total Tinggi untuk Mendukung Diversifikasi Pangan",
+        "pub_year": "2016",
+        "citation": "Perhimpunan Agronomi Indonesia, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Karakter Bobot Aril dan Panjang Tandan Pada Tanaman Rambutan (Nephelium lappaceum L.)",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Melon Hybrids at The Center For Tropical Fruit Studies, Bogor Agricultural University",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Provitamin-A Enrichment in Maize",
+        "pub_year": "2014",
+        "citation": "Maize for Food, Feed, Nutrition and Environmental Security, 403, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic Performance and Yield Potential of 18 Corn Varieties in Indonesia",
+        "pub_year": "2014",
+        "citation": "Faculty of Mathematics and Natural Science, Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Hasil Dan Kualitas Buah Sepuluh Hibrida Pepaya, Pendugaan Nilai Heterosis Serta Daya Gabung Tetuanya",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Pendahuluan Melon (Cucumis melo L.) Hibrida Potensial Hasil Pemuliaan Pusat Kajian Buah Tropika IPB",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji multilokasi melon hibrida potensial dan perakitan varietas melon hibrida unggul",
+        "pub_year": "2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Multilokasi Melon Hibrida Potensial (Hasil Pemuliaan Pusat Kajian Buah Tropika IPB)",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan kekerabatan antar genotipe dalam tiga grup kultivar melon",
+        "pub_year": "2007",
+        "citation": "Fakultas Pertanian IPB, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji daya hasil lanjutan galur harapan padi sawah tipe baru di tiga lokasi",
+        "pub_year": "2007",
+        "citation": "Dep. Agronomi & Hortikultura, Faperta IPB, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Padi Sawah Tipe Baru",
+        "pub_year": "2007",
+        "citation": "IPB (Bogor Agricultural University), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Web-based plant germplasm information system",
+        "pub_year": "2004",
+        "citation": "Forum Pascasarjana (Indonesia) 27 (3), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining Ability of Tropical x Temperate Maize Inducers for Haploid Induction Rate, R1-nj Seed Set, and Agronomic Traits",
+        "citation": "Frontiers in Plant Science 14, 1219, 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:N5tVd3kTz84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POTENSI SEGREGAN TRANSGRESIF BERDAYA HASIL TINGGI PADA BEBERAPA KOMBINASI PERSILANGAN GANDUM",
+        "citation": "Jurnal Agroteknologi 12 (2), 81-90, 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Predicting Carotenoid Breeding Values and Kernel Color in Maize",
+        "citation": "Plant and Animal Genome XXIX Conference (January 8-12, 2022), 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:_B80troHkn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian Daya Hasil dan Ketahanan Penyakit Hawar Daun Bakteri Tanaman Padi Hibrida Evaluation of Yield and Bacterial Leaf Blight Disease Resistance of Hybrid Rice Genotypes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:LPZeul_q3PIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Keragaan dan Stabilitas Hasil Cabai Rawit Merah (Capsicum fructescens L.) pada Empat Lokasi Dataran Rendah",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Parameter Genetik dan Deteksi Segregan Transgresif pada Populasi Kacang Tanah (Arachis hypogaea L.) Generasi F3 Estimation of Genetic Parameters and Identification of \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERFORMANCE OF RING IRRIGATION SYSTEM FOR MELON BREEDING IN A GREENHOUSE",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENETIC ANALYSIS OF PANICLE MORPHOLOGY TRAITS OF RICE (Oryza sativa L.) IN F2 AND F2R SEGREGATING POPULATIONS",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KORELASI GENOTIPIK DAN FENOTIPIK SERTA PENDUGAAN PARAMETER GENETIK PERCABANGAN MALAI PADI",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DETERMINATION OF SELECTION CRITERIA FOR SCREENING OF RICE GENOTYPES FOR SALINITY TOLERANCE MF ANSHORI1, BS PURWOKO1, IS DEWI2, SW ARDIE1",
+        "citation": "SABRAO J. Breed. Genet 50 (3), 279-294, 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Multilokasi Melon Hibrida Potensial Dan Perakitan Varietas Melon Hibrida Unggul (Multilocation Test of Potential Hybrid Melon and Assembly of Superior Hybrid Melon Variety)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Keragaman Genetik dan Kualitas Buah Genotipe Melon (L.) untuk Pembentukan Varietas Unggul",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Gabung Lima Galur Murni Jagung (Zea mays L.) serta Penampilan dan Tingkat Heterosis Hibridanya",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Sistem Informasi Plasma Nutfah Tanaman Berbasis Web",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi dan hibridasi beberapa genotipe melon untuk pemuliaan ke arah pembentukan varietas hibrida unggul",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "5SmNMzkAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 2,
+    "not_available": 0
+  }
+}

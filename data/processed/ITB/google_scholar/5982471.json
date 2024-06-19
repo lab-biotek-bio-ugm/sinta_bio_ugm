@@ -1,0 +1,793 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "q2ZaAC4AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Indra Wibowo",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q2ZaAC4AAAAJ&citpid=4",
+  "affiliation": "School of Life Sciences and Technology - Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Cell dan developmental biology"
+  ],
+  "email_domain": "@itb.ac.id",
+  "homepage": "https://www.itb.ac.id/staff/view/indra-wibowo-yyy",
+  "citedby": 560,
+  "citedby5y": 324,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2010": 18,
+    "2011": 20,
+    "2012": 28,
+    "2013": 28,
+    "2014": 35,
+    "2015": 29,
+    "2016": 29,
+    "2017": 20,
+    "2018": 22,
+    "2019": 28,
+    "2020": 41,
+    "2021": 90,
+    "2022": 61,
+    "2023": 74,
+    "2024": 30
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The histone variant macroH2A is an epigenetic regulator of key developmental genes",
+        "pub_year": "2009",
+        "citation": "Nature structural & molecular biology 16 (10), 1074-1079, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 221,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13421950311265496037",
+      "cites_id": [
+        "13421950311265496037"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Compartmentalized Notch signaling sustains epithelial mirror symmetry",
+        "pub_year": "2011",
+        "citation": "Development 138 (6), 1143-1152, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 92,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5713805172987080168",
+      "cites_id": [
+        "5713805172987080168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nanochitosan antimicrobial activity against Streptococcus mutans and Candida albicans dual-species biofilms",
+        "pub_year": "2019",
+        "citation": "BMC research notes 12, 1-7, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:ufrVoPGSRksC",
+      "num_citations": 75,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1734220501422919825",
+      "cites_id": [
+        "1734220501422919825"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanolic extract of pomegranate (Punica granatum L) peel: acute toxicity tests on zebrafish (Danio rerio) embryos and its toxicity prediction by in silico",
+        "pub_year": "2018",
+        "citation": "Journal of Applied Pharmaceutical Science 8 (6), 082-086, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4388998758832349003",
+      "cites_id": [
+        "4388998758832349003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitric oxide hinders antibody clearance from the surface of Trypanoplasma borreli and increases susceptibility to complement-mediated lysis",
+        "pub_year": "2009",
+        "citation": "Molecular Immunology 46 (16), 3188-3197, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12072756271915991174",
+      "cites_id": [
+        "12072756271915991174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Poly\u2010\u03b2\u2010Hydroxybutyrate (PHB) Improves Nursery\u2010Phase Pacific White Shrimp Litopenaeus vannamei Defense against Vibriosis",
+        "pub_year": "2020",
+        "citation": "North American Journal of Aquaculture 82 (1), 108-114, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8054683161261849567",
+      "cites_id": [
+        "8054683161261849567"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Red Seaweed Kappaphycus alvarezii on Growth, Survival, and Disease Resistance of Pacific White Shrimp Litopenaeus vannamei Against Vibrio harveyi in the Nursery Phase",
+        "pub_year": "2018",
+        "citation": "Journal of Aquaculture Research & Development 9 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10055561983864366878",
+      "cites_id": [
+        "10055561983864366878"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Applications of carbon nanotubes for controlling waterborne pathogens",
+        "pub_year": "2020",
+        "citation": "Waterborne Pathogens, 433-461, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17872979784863508311",
+      "cites_id": [
+        "17872979784863508311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Guidance for Pregnant Women About Early Detection of Danger Signs in Pregnancy Using Leaflet and Audiovisual Media",
+        "pub_year": "2020",
+        "citation": "Jurnal Riset Kesehatan Poltekkes Depkes Bandung 12 (1), 1-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8585849534331110571",
+      "cites_id": [
+        "8585849534331110571"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of kombucha culture on caffeine and chlorogenic acid content in fermentation of robusta green coffee beans (Coffea canephora L.)",
+        "pub_year": "2020",
+        "citation": "receptor 13 (2), 1181-1186, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15024138461701803936",
+      "cites_id": [
+        "15024138461701803936"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of human Mesenchymal Stem Cells biocompatibility data growth on gelatin and silk fibroin scaffolds",
+        "pub_year": "2019",
+        "citation": "Data in brief 27, 104678, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:Zph67rFs4hoC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7745710520520256494",
+      "cites_id": [
+        "7745710520520256494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Propolis Can Improve Caudal Fin Regeneration in Zebrafish (Danio rerio) Induced by The Combined Administration of Alloxan and Glucose",
+        "pub_year": "2021",
+        "citation": "Zebrafish 18 (4), 274-281, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11883718401617402348",
+      "cites_id": [
+        "11883718401617402348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-inflammatory activity of Indonesian propolis in Zebrafish (Danio rerio) larvae",
+        "pub_year": "2020",
+        "citation": "Journal of Food and Nutrition Research 8 (5), 225-230, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:0EnyYjriUFMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9131628390861681972",
+      "cites_id": [
+        "9131628390861681972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Acute toxicity tests of fermented robusta green coffee using zebrafish embryos (Danio rerio)",
+        "pub_year": "2020",
+        "citation": "Pharmacognosy Journal 12 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:UebtZRa9Y70C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8753267018149312373",
+      "cites_id": [
+        "8753267018149312373"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive ability enhancement of housefly (Musca domestica Linn) (Diptera: Muscidae) through hormesis by application of sublethal doses of imidacloprid and \u2026",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14026790794719166484",
+      "cites_id": [
+        "14026790794719166484"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive performance and vitellogenin gene expression on female Bonylip barb (Osteochilus vittatus) during its reproductive cycle under culture conditions.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:4DMP91E08xMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4674876813712391237",
+      "cites_id": [
+        "4674876813712391237"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The combinatory effect of scaffold topography and culture condition: An approach to nucleus pulposus tissue engineering",
+        "pub_year": "2022",
+        "citation": "Future Science OA 8 (7), FSO810, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:-f6ydRqryjwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17091155829982629654",
+      "cites_id": [
+        "17091155829982629654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A study of genus Zingiber: The role of condiments in science",
+        "pub_year": "2021",
+        "citation": "Current Research on Biosciences and Biotechnology 3 (1), 186-195, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5835204342827982925",
+      "cites_id": [
+        "5835204342827982925"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Study on Interaction and Preliminary Toxicity Prediction of Eleutherine americana Components as an Antifungal and Antitoxoplasmosis Candidate",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Chemistry 20 (4), 899-910, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9451090805278643894",
+      "cites_id": [
+        "9451090805278643894"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toxicity evaluation of zinc oxide nanoparticles green synthesized using papaya extract in zebrafish",
+        "pub_year": "2023",
+        "citation": "Biomedical Reports 19 (6), 1-11, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:maZDTaKrznsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15785908504741309050",
+      "cites_id": [
+        "15785908504741309050"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "3D Biosilica scaffolds from Melophlus sarasinorum and Xestospongia testudinaria Indonesian sponges are biocompatible for cell growth and differentiation of human Wharton\u2019s \u2026",
+        "pub_year": "2022",
+        "citation": "The Indonesian Biomedical Journal 14 (4), 382-92, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1989583696082235544",
+      "cites_id": [
+        "1989583696082235544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Down-regulation of complement genes in lipopolysaccharide-challenged zebrafish (Danio rerio) larvae exposed to Indonesian propolis",
+        "pub_year": "2021",
+        "citation": "Brazilian Journal of Biology 83, e245202, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11355213753361534606",
+      "cites_id": [
+        "11355213753361534606"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interactions of the Chemical Constituents of Eleutherine americana (Aubl.) Merr. Ex K. Heyne with Cyclooxygenase and H5N1 RNA Polymerase: An In-silico Study",
+        "pub_year": "2021",
+        "citation": "Rasayan Journal of Chemistry 14 (2), 844-854, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:IWHjjKOFINEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4296030186521180452",
+      "cites_id": [
+        "4296030186521180452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indeks Glikemik (Ig) Dan Respons Glukosa Post-Prandial Beras Berwarna Dari Indonesia Pada Individu Sehat",
+        "pub_year": "2020",
+        "citation": "Jurnal Riset Kesehatan Poltekkes Depkes Bandung 12 (1), 12-19, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12038181809357020526",
+      "cites_id": [
+        "12038181809357020526"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of zinc oxide nanoparticles using methanol propolis extract (Pro-ZnO NPs) as antidiabetic and antioxidant",
+        "pub_year": "2023",
+        "citation": "Plos one 18 (7), e0289125, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9955964680561884906",
+      "cites_id": [
+        "9955964680561884906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanolic Sisyrinchium palmifolium L. Extract as Natural Preservative for Indonesian Tofu Preparation",
+        "pub_year": "2022",
+        "citation": "PHARMACY: Jurnal Farmasi Indonesia (Pharmaceutical Journal of Indonesia) 19 \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10210152782636895400",
+      "cites_id": [
+        "10210152782636895400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: International Conference on Life Sciences and Technology (ICoLiST 2020)",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2353 (1), 010001, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:TQgYirikUcIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=491500374533568583",
+      "cites_id": [
+        "491500374533568583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Acute Toxicity of Keladi Tikus (Typhonium flagelliforme (Lodd.) Blume) Ethanol Extract on Zebrafish (Danio rerio) Embryo in vivo",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Pharmacy, 297\u2013304-297\u2013304, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1187993414461616495",
+      "cites_id": [
+        "1187993414461616495"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of robusta green coffee fermentation using response surface methodology",
+        "pub_year": "2020",
+        "citation": "Editora UFLA, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10234172515321301120",
+      "cites_id": [
+        "10234172515321301120"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alteration of Basal Blood Glucose Level and Microbiota Metabolic Parameters in Rats Fed with Brown Rice and Herbal Extracts",
+        "pub_year": "2019",
+        "citation": "Journal of Food and Nutrition Research 7 (2), 162-170, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:WF5omc3nYNoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16563614805233576168",
+      "cites_id": [
+        "16563614805233576168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterizing Nanoparticle Isolated by Yam Bean (Pachyrhizus erosus) as a Potential Agent for Nanocosmetics: An in vitro and in vivo Approaches.",
+        "pub_year": "2024",
+        "citation": "Pharmaceutical Nanotechnology, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A newly identified \u03b2-amyrin synthase gene hypothetically involved in oleanane-saponin biosynthesis from Talinum paniculatum (Jacq.) Gaertn.",
+        "pub_year": "2023",
+        "citation": "Heliyon 9 (7), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: The 4th International Conference on Life Science and Technology (ICoLiST)",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2634 (1), 010001, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Committees: The 4th International Conference on Life Science and Technology (ICoLiST)",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2634 (1), 010002, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fibroin and Spidroin Thin Film to Support the Attachment and Spread of Human Dermal Fibroblast: The Potency of Skin Tissue Engineering",
+        "pub_year": "2021",
+        "citation": "Journal of Mathematical and Fundamental Sciences 53 (2), 323-340, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regula\u00e7\u00e3o negativa dos genes do complemento em larvas de peixe-zebra (Danio rerio) desafiadas com lipopolissacar\u00eddeo expostas \u00e0 pr\u00f3polis indon\u00e9sia",
+        "pub_year": "2021",
+        "citation": "Brazilian Journal of Biology 83, e245202, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Photographs of ICoLiST 2020",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2353 (1), 010003, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Committee and editorial boards of ICoLiST 2020",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2353 (1), 010002, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incoherent collective cell chemotaxis in a zebrafish model of branchio-oto-renal syndrome",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021.01. 27.428404, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OPTIMALISASI KAPASITAS ENERGI ANGIN DAN MATAHARI DENGAN KONFIGURASI MIKROGRID BERDASARKAN KARAKTERISTIK BEBAN",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of Motility and Charge Type of Mencit Sperm (Mus musculus) Through Study of Exposure Electrical Fields",
+        "pub_year": "2021",
+        "citation": "8th Asian Physics Symposium (APS 2019) 1949 (1), 012021, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Photos: International Conference on Life Science and Technology (ICoLiST)",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2231 (1), 010003, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: International Conference on Life Science and Technology (ICoLiST)",
+        "pub_year": "2020",
+        "citation": "AIP Conf. Proc 2231, 010001, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fabrication of Nanocrystalline Carbon Based on Corncobs Charcoal",
+        "pub_year": "2020",
+        "citation": "2nd International Conference on Life Science and Technology (ICoLiST \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toksisitas In Vivo & In Silico: Prinsip dan Aplikasi",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Zebrafish lateral line system: The roles of Eya1 in migrating primordium and Notch signaling in hair cell development and regeneration",
+        "pub_year": "2011",
+        "citation": "Universitat Pompeu Fabra, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH INFUSA DAUN BUNGUR (Lagerstroemia indica) TERHADAP EFEK HIPOGLIKEMIK PADA TIKUS PUTIH JANTAN (Rattus norvegicus L) GALUR WISTAR YANG DIINDUKSI DENGAN ALOXAN",
+        "pub_year": "2009",
+        "citation": "UNIVERSITAS MUHAMMADIYAH YOGYAKARTA, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interleukin-10 in common carp Cyprinus carpio L.: let's have a closer look at it",
+        "pub_year": "2006",
+        "citation": "10th International Congress of Developmental and Comparative Immunology \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "(Anti)-inflammatory response of carp (Cyprinus carpio L.) to parasite infection",
+        "pub_year": "2005",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Committee and Editorial Boards of ICoLiST 2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Transkriptomik Kaskade Koagulasi Darah yang Dimodulasi oleh Pisang Tongka Langit (Musa troglodytarum) Pada Usus Zebrafish (Danio rerio) yang Diinduksi Diabetes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simple Method of 9, 10-Anthraquinone Assay in Eleutherine americana (Aubl.) Merr. ex K. Heyne using High-Performance Liquid Chromatography",
+        "citation": "Indonesian Journal of Chemistry 21 (6), 1389-1396, 0"
+      },
+      "filled": false,
+      "author_pub_id": "q2ZaAC4AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 2,
+    "not_available": 0
+  }
+}

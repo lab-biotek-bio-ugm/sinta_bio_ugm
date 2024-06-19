@@ -1,0 +1,227 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "hwSgr_AAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "popi septiani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hwSgr_AAAAAJ&citpid=2",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Quantitative Genetics",
+    "Genomics",
+    "Transcriptomics"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 68,
+  "citedby5y": 68,
+  "hindex": 4,
+  "hindex5y": 4,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2019": 3,
+    "2020": 13,
+    "2021": 9,
+    "2022": 14,
+    "2023": 20,
+    "2024": 9
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unravelling the genetic basis of Fusarium seedling rot resistance in the MAGIC maize population: novel targets for breeding",
+        "pub_year": "2019",
+        "citation": "Scientific reports 9 (1), 5665, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12813660859258771405",
+      "cites_id": [
+        "12813660859258771405"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential cell-based and cell-free therapy for patients with COVID-19",
+        "pub_year": "2022",
+        "citation": "Cells 11 (15), 2319, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12118457414619503316",
+      "cites_id": [
+        "12118457414619503316"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extracellular self-DNA induces local inhibition of growth, regulates production of reactive oxygen species, and gene expression in rice roots",
+        "pub_year": "2023",
+        "citation": "Biol. Plant 67, 9-18, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13237868533415247752",
+      "cites_id": [
+        "13237868533415247752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unravelling the genetic basis of Fusarium seedling rot resistance in the MAGIC maize population: novel targets for breeding. Sci Rep 9: 5665",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17129127547032751029",
+      "cites_id": [
+        "17129127547032751029"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data on banana transcriptome in response to blood disease infection",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105133, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12224701834125530466",
+      "cites_id": [
+        "12224701834125530466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNA sequence analysis of nasopharyngeal swabs from asymptomatic and mildly symptomatic patients with COVID-19",
+        "pub_year": "2022",
+        "citation": "International Journal of Infectious Diseases 122, 449-460, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16451493832121658792",
+      "cites_id": [
+        "16451493832121658792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Family farming: the case of Indonesia",
+        "pub_year": "2015",
+        "citation": "Rendiconti Accademia Nazionale delle Scienze detta dei XL Memorie di Scienze \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10163631581197451931",
+      "cites_id": [
+        "10163631581197451931"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of self- and pathogen-targeted miRNAs from resistant and susceptible Theobroma cacao variety to black pod disease",
+        "pub_year": "2024",
+        "citation": "Scientific Reports 14 (1), 3272, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Genomics Analysis of the Pathogenesisrelated (PR) Genes on Two Banana Genomes (A and B Genomes) in Response to Banana Blood Disease Infection",
+        "pub_year": "2021",
+        "citation": "Ecology, Environment and Conservation 27, 49-58, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unravelling the genetic basis of Fusarium resistance in different maize populations",
+        "pub_year": "2019",
+        "citation": "SCIENCE AND INNOVATION FOR SUSTAINABLE AGRICULTURE INTENSIFICATION: THE \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards a Comprehensive Understanding of Genetic Determinants Underlying Fusarium Resistance and Mycotoxin Contamination in Maize",
+        "pub_year": "2018",
+        "citation": "Proceeding of the 2nd Mycokey International Conference, 129-129, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan Mikrospora dan Induksi Pembelahan Sporofitik pada Kultur Antera Kelapa Sawit (Elaeis guineensis Jacq.)",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Transkriptomik Kaskade Koagulasi Darah yang Dimodulasi oleh Pisang Tongka Langit (Musa troglodytarum) Pada Usus Zebrafish (Danio rerio) yang Diinduksi Diabetes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "hwSgr_AAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,946 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "BfYuNKMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "aos",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BfYuNKMAAAAJ&citpid=1",
+  "affiliation": "Lecturer of School of Science and Technology ITB",
+  "interests": [
+    "Evaluasi Kesesuaian lahan",
+    "kesuburan tanah",
+    "budidaya Pertanian"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 377,
+  "citedby5y": 314,
+  "hindex": 12,
+  "hindex5y": 10,
+  "i10index": 14,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "2012": 1,
+    "2013": 4,
+    "2014": 5,
+    "2015": 5,
+    "2016": 5,
+    "2017": 10,
+    "2018": 20,
+    "2019": 27,
+    "2020": 44,
+    "2021": 78,
+    "2022": 62,
+    "2023": 70,
+    "2024": 33
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant diversity after sixteen years post coal mining in East Kalimantan, Indonesia",
+        "pub_year": "2016",
+        "citation": "Biodiversitas Journal of Biological Diversity 17 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8442385877678878304",
+      "cites_id": [
+        "8442385877678878304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community capacity building in social forestry development: A review",
+        "pub_year": "2018",
+        "citation": "J. Reg. City Plan 29 (2), 113-126, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:roLk4NBRz8UC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7595165586691611761",
+      "cites_id": [
+        "7595165586691611761"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan distribusi makrozoobentos di perairan lotik dan lentik kawasan Kampus Institut Teknologi Bandung, Jatinangor Sumedang, Jawa Barat",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (2), 227-235, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1933712323242120952",
+      "cites_id": [
+        "1933712323242120952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genomes of the cosmopolitan fruit pest Bactrocera dorsalis (Diptera: Tephritidae) reveal its global invasion history and thermal adaptation",
+        "pub_year": "2023",
+        "citation": "Journal of advanced research 53, 61-74, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:isC4tDSrTZIC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5384834003164298866",
+      "cites_id": [
+        "5384834003164298866"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Habitat Siput Gonggong Strombus turturella di Ekosistem Padang Lamun",
+        "pub_year": "2018",
+        "citation": "Jurnal Kelautan Tropis 21 (2), 81-90, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:UebtZRa9Y70C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7014351380150707940",
+      "cites_id": [
+        "7014351380150707940"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset of volatile compounds from flowers and secondary metabolites from the skin pulp, green beans, and peaberry green beans of robusta coffee",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105219, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6000216753506829971",
+      "cites_id": [
+        "6000216753506829971"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of local black soybean as a source of the isoflavones daidzein and genistein.",
+        "pub_year": "2017",
+        "citation": "International Food Research Journal 24 (5), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13830270573546804063",
+      "cites_id": [
+        "13830270573546804063"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological diversity of soil fauna as ecosystem engineers in small-holder cocoa plantation in South Konawe",
+        "pub_year": "2012",
+        "citation": "Journal of Tropical Soils 17 (2), 173-180, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:qjMakFHDy7sC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6925330316316304342",
+      "cites_id": [
+        "6925330316316304342"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Behavior and feeding habit of dog conch (Strombus turturella) in South Bangka Regency, Bangka Belitung islands province",
+        "pub_year": "2016",
+        "citation": "El-Hayah: Jurnal Biologi 6 (1), 15-21, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7757351306906054596",
+      "cites_id": [
+        "7757351306906054596"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Role of indigenous rhizosphere bacteria in suppressing root-knot nematode and improve plant growth tomato.",
+        "pub_year": "2017",
+        "citation": "Plant Pathology Journal (Faisalabad) 16 (1), 25-32, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=933053340603075223",
+      "cites_id": [
+        "933053340603075223"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of soil fauna communities and habitat in small-holder cocoa plantation in South Konawe",
+        "pub_year": "2013",
+        "citation": "Journal of Tropical Soils 18 (2), 149-159, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6339748971030210589,10797202092185373026",
+      "cites_id": [
+        "6339748971030210589",
+        "10797202092185373026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penerapan pemupukan pada pertanian padi organik dengan metode System of Rice Intensification (SRI) di Desa Sukakarsa Kabupaten Tasikmalaya",
+        "pub_year": "2012",
+        "citation": "Agroland: Jurnal Ilmu-ilmu Pertanian 16 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:Zph67rFs4hoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15897373780357596498",
+      "cites_id": [
+        "15897373780357596498"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bonding strength of plywood bonded using phenol formaldehyde mixed with wood bark powder nanofiller",
+        "pub_year": "2020",
+        "citation": "Journal of the Indian Academy of Wood Science 17, 21-33, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13778130289435779465",
+      "cites_id": [
+        "13778130289435779465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of bio-based nanomaterial from Surian (Toona sinensis Roem) wood bark using conventional balls milling method and its characterization.",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16328681885620467626",
+      "cites_id": [
+        "16328681885620467626"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and Characterization of Bio-based Nanomaterials from Jabon (Anthocephalus cadamba (Roxb.) Miq) Wood Bark: an Organic Waste Material from Community Forest.",
+        "pub_year": "2015",
+        "citation": "Journal of Mathematical & Fundamental Sciences 47 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14282124445806722782",
+      "cites_id": [
+        "14282124445806722782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of Sustainable Fishery Resources at Giam Siak Kecil-Bukit Batu Biosphere Reserve, Riau Province, Indonesia",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 298 (1), 012025, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11967919218017457577",
+      "cites_id": [
+        "11967919218017457577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The utilization of bioresources by local communities at Giam Siak Kecil-Bukit Batu Biosphere Reserve, Riau Province, Indonesia",
+        "pub_year": "2016",
+        "citation": "Biodiversitas Journal of Biological Diversity 17 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8793779728871805153",
+      "cites_id": [
+        "8793779728871805153"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro and in vivo antiplasmodial activities of stem bark extracts of Garcinia parvifolia Miq (Guttiferae).",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3818650251691118816",
+      "cites_id": [
+        "3818650251691118816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential using of organic nanoparticles synthesized from Gmelina (Gmelina arborea Roxb.) wood bark as nanofiller of wood adhesive: physical, chemical and \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of the Indian Academy of Wood Science 17, 165-175, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11880294711450225654,7898366677276907586",
+      "cites_id": [
+        "11880294711450225654",
+        "7898366677276907586"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Chili (Capsicum annuum L.) That Are Resistant and Susceptible to Oriental Fruit Fly (Bactrocera dorsalis Hendel) Infestation",
+        "pub_year": "2022",
+        "citation": "Horticulturae 8 (4), 314, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:HDshCWvjkbEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8142729202997225183",
+      "cites_id": [
+        "8142729202997225183"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset on antixenosis and antibiosis of chili fruit by fruit fly (Bactrocera dorsalis) infestation",
+        "pub_year": "2019",
+        "citation": "Data in brief 23, 103758, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8330039872967401102",
+      "cites_id": [
+        "8330039872967401102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure of soil food web in smallholder cocoa plantation, South Konawe district, Southeast Sulawesi, Indonesia",
+        "pub_year": "2014",
+        "citation": "AGRIVITA Journal of Agricultural Science 36 (1), 33-47, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16264121356697654712",
+      "cites_id": [
+        "16264121356697654712"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data set on volatile compound of coffee flowers at different annual rainfall",
+        "pub_year": "2019",
+        "citation": "Data in brief 26, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15602191509686944477",
+      "cites_id": [
+        "15602191509686944477"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset on volatile compounds in susceptible and resistant chili variety to fruit fly infestation",
+        "pub_year": "2019",
+        "citation": "Data in brief 22, 234-236, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8747738446280593237",
+      "cites_id": [
+        "8747738446280593237"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Collaborative behavior network on management of mount geulis protected forest at Sumedang Regency, West Java Province, Indonesia",
+        "pub_year": "2018",
+        "citation": "Journal of Sustainability Science and Management 13 (2), 85-102, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:8k81kl-MbHgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5139455315728709394",
+      "cites_id": [
+        "5139455315728709394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas makrozoobentos di ekosistem lotik kawasan kampus Institut Teknologi Bandung, Jatinangor, Sumedang, Jawa Barat",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (2), 175-182, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:mB3voiENLucC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16983491980348822998",
+      "cites_id": [
+        "16983491980348822998"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive period of a sub-montaneous tropical forest: estimation of seed availability for forest restoration in mount Masigit-Kareumbi, Indonesia",
+        "pub_year": "2019",
+        "citation": "Tropical Ecology 60, 62-73, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=40234131590368344",
+      "cites_id": [
+        "40234131590368344"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population Structure and Life Table of Dog Conch (Strombus turturella) in Bangka Belitung Islands, Indonesia [Struktur Populasi dan Tabel Hidup Siput Gonggong (Strombus \u2026",
+        "pub_year": "2019",
+        "citation": "Jurnal Ilmiah Perikanan dan Kelautan 11 (2), 72-81, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:aqlVkmm33-oC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1459945301960311141",
+      "cites_id": [
+        "1459945301960311141"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maintaining carbon storage does not reduce fish production from mangrove-fish pond system: A case study in Coastal Area of Subang District, West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Forests 13 (8), 1308, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17004238072406827143",
+      "cites_id": [
+        "17004238072406827143"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flower-visiting insects to Coffea arabica flower at different temperatures and the production of the fruit of arabica coffee",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012046, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:hC7cP41nSMkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6888603963632422909",
+      "cites_id": [
+        "6888603963632422909"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population structure of tropical eel (Anguilla bicolor bicolor) in Cikaso River, West Java",
+        "pub_year": "2021",
+        "citation": "E3S Web of Conferences 322, 05008, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16336840755113414761",
+      "cites_id": [
+        "16336840755113414761"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset on the reproductive period of three local species in a tropical sub-mountainous forest",
+        "pub_year": "2019",
+        "citation": "Data in brief 25, 104238, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3838451872627193335",
+      "cites_id": [
+        "3838451872627193335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Infestasi Lalat Buah (Bactrocera spp.) Pada Buah Jambu Air Madu (Syzygium samarangense) di Sumatera Utara",
+        "pub_year": "2019",
+        "citation": "Jurnal Jeumpa 6 (2), 236-244, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:TQgYirikUcIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7043328347682385211",
+      "cites_id": [
+        "7043328347682385211"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Cropping System on Root Distribution of Annual Crops",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3024701027042715343",
+      "cites_id": [
+        "3024701027042715343"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and distribution of macrozoobenthos in the lotic and lentic water in the area of Bandung Institute of Technology, Jatinangor, Sumedang, West Java",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (2), 227-235, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17013129514371461447",
+      "cites_id": [
+        "17013129514371461447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Distribution and Analysis of Spatial Autocorrelation of Fruit Fly (Bactrocera sp.) on Red Chili Cultivation in Cirebon, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "Health and Biosciences 1 (2), 17-31, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12779811623581920255",
+      "cites_id": [
+        "12779811623581920255"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical and Chemical Characteristics of An Organic Nanoparticle Synthesized from Gmelina (Gmelina arborea Roxb) Wood Bark",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 466 (1), 012021, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042024971347816311",
+      "cites_id": [
+        "7042024971347816311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Control of root-knot nematode disease in tomato-based sustainable agriculture using rhizosphere bacteria",
+        "pub_year": "2019",
+        "citation": "International Journal of Agricultural Resources, Governance and Ecology 15 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9723414341499753968",
+      "cites_id": [
+        "9723414341499753968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimating of moluccan megapode (Eulipoa wallacei) densities using a fixed-radius point count distance sampling method",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:maZDTaKrznsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15957154909629276131",
+      "cites_id": [
+        "15957154909629276131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFICATION OF THE MOLUCCAN MEGAPODE (Eulipoa wallacei) NATURAL HABITAT IN HARUKU ISLAND, INDONESIA AND ITS VEGETATION COMPOSITION",
+        "pub_year": "2023",
+        "citation": "BIOTROPIA 30 (2), 158-170, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Traditional egg-harvesting policies for the endemic Moluccan Scrubfowl Eulipoa wallacei on Haruku Island, Indonesia, and its conservation implications",
+        "pub_year": "2023",
+        "citation": "Bird Conservation International 33, e64, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UNDERSTANDING LOCAL COMMUNITIES PERCEPTIONS TOWARDS THE CONSERVATION OF THE ENDEMIC MOLUCCAN MEGAPODE (Eulipoa wallacei) ON HARUKU ISLAND, INDONESIA",
+        "pub_year": "2022",
+        "citation": "Media Konservasi 27 (3), 101-107, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preservation technique to identify Bactrocera dorsalis complex (Diptera: Tephritidae) based on image analysis",
+        "pub_year": "2022",
+        "citation": "Jurnal Entomologi Indonesia 19 (2), 174-174, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Velia; Aldi, AA; Basyuni, M. Maintaining Carbon Storage Does Not Reduce Fish Production from Mangrove-Fish Pond System: A Case Study in Coastal Area of Subang District, West \u2026",
+        "pub_year": "2022",
+        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEBIASAAN MAKAN IKAN SIDAT, Anguilla bicolor bicolor, DARI SUNGAI CIKASO DAN RAWA PESISIR CIROYOM, JAWA BARAT",
+        "pub_year": "2021",
+        "citation": "BAWAL Widya Riset Perikanan Tangkap 13 (2), 77-84, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The expression of chili defense gene due to oviposition of fruit fly (Bactrocera dorsalis)",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 752 (1), 012044, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GThe potential using of organic nanoparticles synthesized from Gmelina (Gmelina arborea roxb.) wood bark as nanofiller of wood adhesive: physical, chemical \u2026",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil Protozoa diversity at coal post-mining area at different age of reclamation",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Process and characterization of aggregate stabilization in degraded inceptisols by earthworms.",
+        "pub_year": "2019",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 42 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression profiling of the CHS8, CHI1A, IFS2, and CHR genes in black soybean seed [Glycine max (L). Merr.] of F4 generation",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Biotechnology 24 (2), 119-124, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Process and characterization of aggregate stabilization in degraded inceptisols by earthworms",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The community of makrozoobenthos in lotic ecosystem in the area of Institut Teknologi Bandung campus, Jatinangor, Sumedang, West Java",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (2), 175-182, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of local black soybean as a source of the isoflavones daidzein and genistein",
+        "pub_year": "2017",
+        "citation": "International Food Research Journal (Malaysia), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Role of Indigenous Rhizosphere Bacteria in Suppressing Root-knot Nematode and Improve Plant Growth Tomato",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Soil Fauna Communities and Habitat in Small-Holder Cocoa Plantation in South Konawe.",
+        "pub_year": "2013",
+        "citation": "Journal of Tropical Soils/Jurnal Tanah Tropika 18 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stomach Contents of Two Coexisting Species of Trichogaster (pisces: Anabantidak) in Lake Panjalu, West Java",
+        "pub_year": "1982",
+        "citation": "University of Malaya, 1982"
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution and Habitat Preferences of Indonesian Shortfin Eel (Anguilla Bicolor Bicolor) in a River System of Java Southern Coast, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation of Microclimate of West Java on Caffeine and Chlorogenic acid in Coffea canephora var. robusta",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRESENTASI USULAN PEMBUKAAN PRODI SARJANA AKTUARIA (LANJUTAN)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sintesis, Karakterisasi dan Fungsionalisasi Bio-Nano Filler dari Abu Pembakaran Limbah Kayu untuk Menurunkan Emisi Formaldehida Produk Bio-Komposit (Synthesis, Characterization \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TRANSFORMASI EKOSISTEM DALAM VARIASI DISTRIBUSI SPASIAL INVERTEBRATA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "BfYuNKMAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

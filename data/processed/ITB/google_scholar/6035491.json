@@ -1,0 +1,263 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "a0_YGxUAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Mustika Dewi",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Bioteknologi Mikroba"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 52,
+  "citedby5y": 40,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 1,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2014": 1,
+    "2015": 1,
+    "2016": 2,
+    "2017": 2,
+    "2018": 6,
+    "2019": 1,
+    "2020": 9,
+    "2021": 5,
+    "2022": 8,
+    "2023": 13,
+    "2024": 4
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Termite resistance study of oil palm trunk lumber (OPTL) impregnated with oil palm shell meal and phenol-formaldehyde resin",
+        "pub_year": "2013",
+        "citation": "BioResources 8 (4), 4937-4950, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16677151220963518958",
+      "cites_id": [
+        "16677151220963518958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The challenges of forest bathing tourism in Indonesia: A case study in Sudaji Village, Bali",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 918 (1), 012012, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:roLk4NBRz8UC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15656973716838249047",
+      "cites_id": [
+        "15656973716838249047"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The nanocellulose fibers from symbiotic culture of bacteria and yeast (SCOBY) kombucha: Preparation and characterization",
+        "pub_year": "2021",
+        "citation": "Nanofibers-Synthesis, Properties and Applications, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10384110649432430619",
+      "cites_id": [
+        "10384110649432430619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Basidiomycota Fungi that Have the Potential as a Source of Nutraceutical to be developed in the Concept of Integrated Forest Management",
+        "pub_year": "2019",
+        "citation": "International Journal of Recent Technology and Engineering 8 (2), 1-5, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6229900982075772704",
+      "cites_id": [
+        "6229900982075772704"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of Suillus fungi from pine (Pinus merkusii) stands at various locations in Bandung area, Indonesia.",
+        "pub_year": "2016",
+        "citation": "Plant Pathology Journal (Faisalabad) 15 (3), 95-101, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2072470273673941848",
+      "cites_id": [
+        "2072470273673941848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inisiatif GIAHS untuk Pengelolaan Lanskap Pertanian Tradisional Berkelanjutan: Studi Kasus di Desa Sudaji, Kabupaten Buleleng, Provinsi Bali",
+        "pub_year": "2020",
+        "citation": "Jurnal Lanskap Indonesia 12 (1), 13-22, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14131309165149763073",
+      "cites_id": [
+        "14131309165149763073"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natural Weathering\u2019s Effect on Mechanical Properties of Short Cycle Coconut Trunk Lumber Impregnated Using Kraft Black Liquor",
+        "pub_year": "2020",
+        "citation": "BioResources 15 (2), 3821-3838, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10500598626510760504",
+      "cites_id": [
+        "10500598626510760504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Teknik Identifikasi Organisme Pengganggu Tanaman dan Teknologi Pembuatan Biopestisida sebagai Upaya Pemanfaatan Tanaman Sekitar dan Produksi Pertanian yang Berkelanjutan",
+        "pub_year": "2024",
+        "citation": "I-Com: Indonesian Community Journal 4 (2), 874-883, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Teknologi Pembuatan Pupuk Organik Dan Pupuk Hayati (Biofertilizer) Sebagai Upaya Pemanfaatan Limbah Dan Produksi Pertanian Yang Berkelanjutan",
+        "pub_year": "2024",
+        "citation": "Jurnal Abdimas Indonesia 4 (2), 186-193, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of endophytic bacteria in different tissues of sengon (Falcataria moluccana)",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (10), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kenaf bast nanocrystalline cellulose: Analysis of morphological, chemical, crystalline, and thermal",
+        "pub_year": "2023",
+        "citation": "BioResources 18 (4), 6913, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Development of Basidiomycota Fungi with The Concept of Integrated Forest Management",
+        "pub_year": "2018",
+        "citation": "Asia Proceedings of Social Sciences 2 (1), 28-32, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Diversity of Suillus Fungi from Pine (Pinus merkusii) Stands at Various Locations in Bandung Area, Indonesia",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of Cellulose Nanofiber (CNF) from Kenaf (Hibiscus cannabinus) Bast through the Chemo-Mechanical Process",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman fusarium spp. pada semai pinus merkusii Jungh. Et De Vriese",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Feeding Preference of Subterranean Termites (Coptotermes curvignathus Holmgren) on Wood Decaying Fungi",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "a0_YGxUAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

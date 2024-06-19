@@ -1,0 +1,472 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "SbPqQNcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sutrisno",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SbPqQNcAAAAJ&citpid=2",
+  "affiliation": "ITB",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Nanoteknologi & bio-based nanomaterials"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 86,
+  "citedby5y": 78,
+  "hindex": 7,
+  "hindex5y": 6,
+  "i10index": 4,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2015": 1,
+    "2016": 1,
+    "2017": 1,
+    "2018": 4,
+    "2019": 1,
+    "2020": 18,
+    "2021": 16,
+    "2022": 19,
+    "2023": 14,
+    "2024": 10
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential use of wood waste ash nanofiller for improvement of laminated veneer lumber made from Jabon (Anthocephalus cadamba)",
+        "pub_year": "2018",
+        "citation": "Journal of the Indian Academy of Wood Science 15 (2), 1-6, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:8k81kl-MbHgC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3686992158364791993",
+      "cites_id": [
+        "3686992158364791993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The possible use of surian tree (Toona sinensis Roem) branches as an alternative raw material in the production of composite boards",
+        "pub_year": "2020",
+        "citation": "Journal of wood science 66, 1-6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4856166613766135667",
+      "cites_id": [
+        "4856166613766135667"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bonding strength of plywood bonded using phenol formaldehyde mixed with wood bark powder nanofiller",
+        "pub_year": "2019",
+        "citation": "Journal of the Indian Academy of Wood Science 17 (first online), 1-13, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13778130289435779465",
+      "cites_id": [
+        "13778130289435779465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of Bio-based  Nanomaterial from Surian (Toona sinensis Roem)  Wood Bark using Conventional Balls Milling Method and Its Characterization",
+        "pub_year": "2014",
+        "citation": "Journal of Biological Sciences 14 (3), 204-212, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16328681885620467626",
+      "cites_id": [
+        "16328681885620467626"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chapter 9 : Evaluation of the effects of decay and weathering in cellulose-reinforced fiber composites",
+        "pub_year": "2018",
+        "citation": "Durability and Life Prediction in Biocomposites, Fibre-reinforced Composites \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12647897357552063842",
+      "cites_id": [
+        "12647897357552063842"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and Characterization of Bio-based Nanomaterials from Jabon (Anthocephalus cadamba (Roxb.) Miq) Wood Bark: an Organic Waste Material from Community Forest",
+        "pub_year": "2015",
+        "citation": "Journal of Mathematical and Fundamental Sciences 47 (2), 205-218, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14282124445806722782",
+      "cites_id": [
+        "14282124445806722782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifying best parameters of particleboard bonded with dextrin-based adhesives",
+        "pub_year": "2020",
+        "citation": "Open Agriculture 5 (1), 345-351, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:_kc_bZDykSQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9518256216286634023",
+      "cites_id": [
+        "9518256216286634023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential using of organic nanoparticles synthesized from Gmelina (Gmelina arborea Roxb.) wood bark as nanofiller of wood adhesive: physical, chemical and \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of the Indian Academy of Wood Science 17, 165-175, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11880294711450225654,7898366677276907586",
+      "cites_id": [
+        "11880294711450225654",
+        "7898366677276907586"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical properties, crystallinity, and fiber biometry of Jabon (Anthocephalus cadamba) wood for pulp raw material: the effect of age and position",
+        "pub_year": "2024",
+        "citation": "Nordic Pulp & Paper Research Journal 39 (1), 61-71, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2819679936204731576",
+      "cites_id": [
+        "2819679936204731576"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improved strength properties of LVL glued using PVAc adhesives with physical treatment-based Rubberwood (Hevea brasiliensis)",
+        "pub_year": "2020",
+        "citation": "Open Agriculture 5 (1), 711-725, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7005260869083897977",
+      "cites_id": [
+        "7005260869083897977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond Quality of Laminated Wood Made from Surian (Toona sinensis Roem) and Sengon (Paraserianthes falcataria (L) Nielsen).",
+        "pub_year": "2018",
+        "citation": "Journal of Biological Sciences 18 (1), 32-38, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3602203240875128192",
+      "cites_id": [
+        "3602203240875128192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential Use of Tannin as a Preservative for Wood and Rattan",
+        "pub_year": "2001",
+        "citation": "Proceedings of The Fifth International Conference on the Development of Wood \u2026, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:UebtZRa9Y70C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16636974523440194971,15630917716037611170",
+      "cites_id": [
+        "16636974523440194971",
+        "15630917716037611170"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of the adhesion performance of some fast-growing wood species based on their wettability",
+        "pub_year": "2021",
+        "citation": "Open Agriculture 6 (1), 392-399, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178628180416637756",
+      "cites_id": [
+        "2178628180416637756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flat-pressed wood plastic composites from community forest wood bark  and recycled polypropylene: The effect of pressing temperature on the physical, mechanical, and \u2026",
+        "pub_year": "2021",
+        "citation": "Journal of Southwest Jiaotong University 56 (Volume 56, Nomor 4), 869-878, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GThe potential using of organic nanoparticles synthesized from Gmelina (Gmelina arborea roxb.) wood bark as nanofiller of wood adhesive: physical, chemical \u2026",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknik Budidaya dan Pengolahan Kayu Surian (Toona sinensis Roem)",
+        "pub_year": "2018",
+        "citation": "ITB Press 1, 1-260, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Curing Behavior of Phenol Formaldehyde Resin Adhesives: Effects of Direct Adding of Surian Wood Bark-powder into Pressure Temperature of Resin Adhesives",
+        "pub_year": "2015",
+        "citation": "Proceedings of International Association of Wood Products Society (IAWPS \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary study on the utilization of wood-bark powder from  some Indonesian fast-growing tree species in wood bonding system",
+        "pub_year": "2015",
+        "citation": "Proceedings of The 7thIWoRS, Bandung, November 5-6th, 2015., 2015"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Kayu Hutan Rakyat Jawa Barat: Rendemen Vinir Kayu Manglid, Jabon, Surian dan Gmelina",
+        "pub_year": "2013",
+        "citation": "Prosiding Seminar Nasional Masyarakat Peneliti Kayu Indonesia (MAPEKI) XVI \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential use of surian Wood-bark for The decreasing of pressure temperatur of PF",
+        "pub_year": "2013",
+        "citation": "Proceedings of The Fifth International Symposium of Indonesian Wood Research \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of Bio-based Nanomaterial from Surian (Toona sinensis Roem) Wood Bark using Conventional Balls Milling : Effect of Sieve Types on Nanoparticles Size",
+        "pub_year": "2013",
+        "citation": "Proceedings of The Fifth International Symposium of Indonesian Wood Research \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pelapisan Plastik Polypropylene (PP) Daur Ulang terhadap Sifat Fisis dan Mekanis Papan Partikel Limbah Serbuk Penggergajian",
+        "pub_year": "2010",
+        "citation": "Majalah Ilmiah Wawasan Tridharma Kopertis IV 23 (4), 13-21, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sifat Papan Partikel Serbuk Batang Jagung (Zea mays) yang Dilapisi dengan Plastik Polypropylene (PP) Daur Ulang",
+        "pub_year": "2010",
+        "citation": "Jurnal Penelitian Wana Mukti 10 (2), 39-48, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efikasi Ekstrak Tanin Kulit Kayu Tusam (Pinus merkusii) dan Akasia (Acacia mangium) terhadap Rayap Dengan Metode Tunggal",
+        "pub_year": "2009",
+        "citation": "Majalah Ilmiah Wawasan Tridharma Kopertis IV 21 (10), 53-60, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sifat Fisis dan Mekanis Papan Partikel Batang Ketela Pohon (Manihot esculenta Crant) yang Dilapisi Dengan Plastik Polypropylene (PP) Daur Ulang",
+        "pub_year": "2009",
+        "citation": "Jurnal Penelitian Wana Mukti 10 (1), 17-26, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efikasi Ekstrak Tanin Kulit Kayu Tusam (Pinus merkusii) dan Akasia (Acacia mangium) terhadap Rayap Dengan Metode Memilih",
+        "pub_year": "2008",
+        "citation": "Majalah Ilmiah Wawasan Tridharma Kopertis IV 21 (5), 46-54, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Serbuk Sabut Kelapa sebagai Bahan Substitusi Kain Majun dalam Pembuatan Papan Semen Partikel untuk Penggunaan Plafond",
+        "pub_year": "2008",
+        "citation": "Majalah Ilmiah Wawasan Tridharma Kopertis IV 21 (2), 46-53, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Kualitas Kayu Jati Melalui Proses Fisis dan Mekanis",
+        "pub_year": "2002",
+        "citation": "Jurnal Penelitian Wana Mukti Volume 1 (1), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Antara Keteguhan Geser Tekan dengan Keteguhan Rekat Internal Papan Untai",
+        "pub_year": "2000",
+        "citation": "Jurnal Penelitian Pemukiman 16 (4), 30-34, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sifat Fisis Mekanis Papan Partikel Campuran Serbuk Gergaji dan Limbah Daun Penyulingan Minyak Kayu Putih",
+        "pub_year": "2000",
+        "citation": "Prosiding Seminar Nasional MAPEKI III, Fahutan UNWIM, Jatinangor, Sumedang, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sifat Fisis Mekanis Papan Untai Campuran Kayu Pinus dan Sengon",
+        "pub_year": "1999",
+        "citation": "Prosiding Seminar Nasional MAPEKI II, Fahutan UGM, Yogyakarta, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "SbPqQNcAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

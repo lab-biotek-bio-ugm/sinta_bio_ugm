@@ -1,0 +1,697 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "NbaGzmIAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Eka Mulya Alamsyah",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Teknologi Kehutanan"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 287,
+  "citedby5y": 203,
+  "hindex": 10,
+  "hindex5y": 9,
+  "i10index": 11,
+  "i10index5y": 9,
+  "cites_per_year": {
+    "2007": 2,
+    "2008": 4,
+    "2009": 3,
+    "2010": 2,
+    "2011": 7,
+    "2012": 3,
+    "2013": 4,
+    "2014": 8,
+    "2015": 5,
+    "2016": 5,
+    "2017": 11,
+    "2018": 29,
+    "2019": 20,
+    "2020": 38,
+    "2021": 28,
+    "2022": 50,
+    "2023": 42,
+    "2024": 25
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vascular bundle distribution effect on density and mechanical properties of oil palm trunk.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8138466544149033510",
+      "cites_id": [
+        "8138466544149033510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bondability of tropical fast-growing tree species I: Indonesian wood species",
+        "pub_year": "2007",
+        "citation": "Journal of wood science 53, 40-46, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:Se3iqnhoufwC",
+      "num_citations": 47,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17876614218577798217",
+      "cites_id": [
+        "17876614218577798217"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bondability of tropical fast-growing tree species III: curing behavior of resorcinol formaldehyde resin adhesive at room temperature and effects of extractives of Acacia \u2026",
+        "pub_year": "2008",
+        "citation": "Journal of wood science 54, 208-213, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:qjMakFHDy7sC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5355426771376474632",
+      "cites_id": [
+        "5355426771376474632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A review of isocyanate wood adhesive: a case study in Indonesia",
+        "pub_year": "2018",
+        "citation": "Applied adhesive bonding in science and technology 1, 13, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:0EnyYjriUFMC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=754147543500355166",
+      "cites_id": [
+        "754147543500355166"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik papan laminasi dari batang kelapa sawit (The Characteristics of the laminated board of oil palm trunk)",
+        "pub_year": "2014",
+        "citation": "J. Ilmu Teknol. kayu Trop, 157-168, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4612674823961840169",
+      "cites_id": [
+        "4612674823961840169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of bamboo zephyr composite and the physical and mechanical properties",
+        "pub_year": "2022",
+        "citation": "Journal of the Korean Wood Science and Technology 50 (2), 134-147, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:-f6ydRqryjwC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2662503948661436208",
+      "cites_id": [
+        "2662503948661436208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond ability of oil palm xylem with isocyanate adhesive",
+        "pub_year": "2014",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 12 (1), 39-47, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12559149073679476604",
+      "cites_id": [
+        "12559149073679476604"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential use of wood waste ash nanofiller for improvement of laminated veneer lumber production made from Jabon (Anthocephalus cadamba)",
+        "pub_year": "2018",
+        "citation": "Journal of the Indian Academy of Wood Science 15, 126-131, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:Zph67rFs4hoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3686992158364791993",
+      "cites_id": [
+        "3686992158364791993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The possible use of surian tree (Toona sinensis Roem) branches as an alternative raw material in the production of composite boards",
+        "pub_year": "2020",
+        "citation": "Journal of wood science 66, 1-6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:aqlVkmm33-oC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4856166613766135667",
+      "cites_id": [
+        "4856166613766135667"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bonding strength of plywood bonded using phenol formaldehyde mixed with wood bark powder nanofiller",
+        "pub_year": "2020",
+        "citation": "Journal of the Indian Academy of Wood Science 17, 21-33, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13778130289435779465",
+      "cites_id": [
+        "13778130289435779465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of bio-based nanomaterial from Surian (Toona sinensis Roem) wood bark using conventional balls milling method and its characterization.",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16328681885620467626",
+      "cites_id": [
+        "16328681885620467626"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and Characterization of Bio-based Nanomaterials from Jabon (Anthocephalus cadamba (Roxb.) Miq) Wood Bark: an Organic Waste Material from Community Forest.",
+        "pub_year": "2015",
+        "citation": "Journal of Mathematical & Fundamental Sciences 47 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:WF5omc3nYNoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14282124445806722782",
+      "cites_id": [
+        "14282124445806722782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A study on fracture toughness of nano-structured carbon black-filled epoxy composites",
+        "pub_year": "2021",
+        "citation": "Polymer Bulletin 78, 6867-6885, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8009598955636139571",
+      "cites_id": [
+        "8009598955636139571"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifying best parameters of particleboard bonded with dextrin-based adhesives",
+        "pub_year": "2020",
+        "citation": "Open Agriculture 5 (1), 345-351, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9518256216286634023",
+      "cites_id": [
+        "9518256216286634023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential using of organic nanoparticles synthesized from Gmelina (Gmelina arborea Roxb.) wood bark as nanofiller of wood adhesive: physical, chemical and \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of the Indian Academy of Wood Science 17, 165-175, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11880294711450225654,7898366677276907586",
+      "cites_id": [
+        "11880294711450225654",
+        "7898366677276907586"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bondability of Tropical Fast-Growing Tree Species (II)-Malaysian Wood Species",
+        "pub_year": "2006",
+        "citation": "Journal-Adhesion Society Of Japan 42 (12), 499, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6302969776812012961",
+      "cites_id": [
+        "6302969776812012961"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal properties of isocyanate as particleboard\u2019s adhesive",
+        "pub_year": "2019",
+        "citation": "IOP conference series: materials science and engineering 593 (1), 012004, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:_kc_bZDykSQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5955211578529351278",
+      "cites_id": [
+        "5955211578529351278"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The characteristics of the laminated board of oil palm trunk",
+        "pub_year": "2014",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 12 (2), 157-168, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2265132199959010163",
+      "cites_id": [
+        "2265132199959010163"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Starch based adhesives made from durian seed through dextrinization",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1542 (1), 012021, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:4DMP91E08xMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11987488147290239533",
+      "cites_id": [
+        "11987488147290239533"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of Reinforced Indonesian Glulam Beams Using Grade I (Bengkirai), Grade II (Kamper), Grade III (Nyatoh) Woods for Use in Structural Wood Design",
+        "pub_year": "2016",
+        "citation": "Bandung Institute of Technology, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6047090495366906710",
+      "cites_id": [
+        "6047090495366906710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical properties, crystallinity, and fiber biometry of Jabon (Anthocephalus cadamba) wood for pulp raw material: the effect of age and position",
+        "pub_year": "2024",
+        "citation": "Nordic Pulp & Paper Research Journal 39 (1), 61-71, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2819679936204731576",
+      "cites_id": [
+        "2819679936204731576"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improved strength properties of LVL glued using PVAc adhesives with physical treatment-based Rubberwood (Hevea brasiliensis)",
+        "pub_year": "2020",
+        "citation": "Open Agriculture 5 (1), 711-725, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7005260869083897977",
+      "cites_id": [
+        "7005260869083897977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal stability of isocyanate as particleboard\u2019s adhesive investigated by TGA (Thermogravimetric Analysis)",
+        "pub_year": "2019",
+        "citation": "IOP conference series: earth and environmental science 374 (1), 012004, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11610858916291534710",
+      "cites_id": [
+        "11610858916291534710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond quality of laminated wood made from surian (Toona sinensis Roem) and sengon (Paraserianthes falcataria (L.) Nielsen).",
+        "pub_year": "2018",
+        "citation": "Journal of Biological Sciences 18 (1), 32-38, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3602203240875128192",
+      "cites_id": [
+        "3602203240875128192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modified Grain Orientation of Laminated Veneer Lumber Characteristics of Three Fast-Growing Tropical Wood Species.",
+        "pub_year": "2023",
+        "citation": "BioResources 18 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:HDshCWvjkbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17162911510246729305",
+      "cites_id": [
+        "17162911510246729305"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Papan Partikel Campuran Serbuk Gergajian Kayu Sengon dan Kulit Buah Kopi dengan Perekat Dekstrin Tepung Onggok",
+        "pub_year": "2022",
+        "citation": "Jurnal Penelitian Hasil Hutan 40 (1), 19-30, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17576573823884339521",
+      "cites_id": [
+        "17576573823884339521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of the adhesion performance of some fast-growing wood species based on their wettability",
+        "pub_year": "2021",
+        "citation": "Open Agriculture 6 (1), 392-399, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:IWHjjKOFINEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178628180416637756",
+      "cites_id": [
+        "2178628180416637756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical and Chemical Characteristics of An Organic Nanoparticle Synthesized from Gmelina (Gmelina arborea Roxb) Wood Bark",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 466 (1), 012021, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042024971347816311",
+      "cites_id": [
+        "7042024971347816311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies on the bonding performance of fast-growing wood species from tropical plantation forest",
+        "pub_year": "2008",
+        "citation": "\u5c90\u961c\u5927\u5b66, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11953839843875708975",
+      "cites_id": [
+        "11953839843875708975"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Impregnation with Diammonium Phosphate and Sodium Silicate on Some Physical and Mechanical Properties of Modified Laminated Veneer Lumber Made of Jabon Wood.",
+        "pub_year": "2024",
+        "citation": "BioResources 19 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environment's Effect on Wood Characteristics of White Jabon Grown in West Java and Banten Area, Indonesia.",
+        "pub_year": "2024",
+        "citation": "BioResources 19 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Particleboard Made of Eucalyptus Wood Bonded by Isocyanate Resin: Considering Moisture Content of the Particles",
+        "pub_year": "2023",
+        "citation": "Eucalyptus: Engineered Wood Products and Other Applications, 51-71, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The visualization of low-molecule phenol (LMP) and copper naphthenate on treated wood using X-ray microtomography",
+        "pub_year": "2022",
+        "citation": "Scientific Reports 12 (1), 2239, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of particle board made from sengon wood sawdust and coffee bean bark using cassava flour waste-based dextrin adhesive.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical and Mechanical Properties of Bamboo Particleboard using Dextrin-citric Acid as Adhesive",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Visualization of low molecule phenol (LMP) and copper naphthenate on falcata wood using micro X-ray computed tomography",
+        "pub_year": "2020",
+        "citation": "PROCEEDINGS OF UGSAS-GU & BWEL JOINT POSTER SESSION ON AGRICULTURAL AND \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GThe potential using of organic nanoparticles synthesized from Gmelina (Gmelina arborea roxb.) wood bark as nanofiller of wood adhesive: physical, chemical \u2026",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Bond Quality of Laminated Wood Made from Surian (Toona sinensis Roem) and Sengon (Paraserianthes falcataria (L.) Nielsen)",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Surian (wood as an Alternative Material for Bonded Wood Products in the Future (II): Laminated Veneer Lumber (LVL))",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 9 (2), 126-133, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Curing Behavior of Resorcinol Formaldehyde Resin Adhesives in Mangium and Pine Woods Bonding System under Various Curing Times",
+        "pub_year": "2010",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 8 (1), 15-20, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond Quality of Glued Laminated Timber Bonded with One-component Moisture Curable Polyurethane Adhesive (I)",
+        "pub_year": "2007",
+        "citation": "JOURNAL-ADHESION SOCIETY OF JAPAN 43 (7), 260, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Topics",
+        "pub_year": "2007",
+        "citation": "JOURNAL-ADHESION SOCIETY OF JAPAN 43 (4), 158, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond Quality of Glued Laminated Timber Bonded with One-component Moisture Curable Polyurethane Adhesive (II)-Temperature Dependence of Tensile Shear Strength and Durability",
+        "pub_year": "2007",
+        "citation": "JOURNAL-ADHESION SOCIETY OF JAPAN 43 (8), 313, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan sifat anatomis terhadap sifat fisis dan mekanis kayu tekan dan akyu normal pada Pinus mekusii Jungh. et De Vriese",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "NbaGzmIAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

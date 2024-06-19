@@ -1,0 +1,2235 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "source": "SEARCH_AUTHOR_SNIPPETS",
+  "scholar_id": "gU7g-NoAAAAJ",
+  "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=gU7g-NoAAAAJ",
+  "name": "Francois Pujos",
+  "affiliation": "Researcher, IANIGLA, CCT-CONICET-Mendoza",
+  "email_domain": "@mendoza-conicet.gov.ar",
+  "interests": [
+    "Paleontology",
+    "evolution"
+  ],
+  "citedby": 2687,
+  "homepage": "http://personal.mendoza-conicet.gob.ar/fpujos/",
+  "citedby5y": 1639,
+  "hindex": 32,
+  "hindex5y": 23,
+  "i10index": 72,
+  "i10index5y": 59,
+  "cites_per_year": {
+    "2004": 17,
+    "2005": 4,
+    "2006": 44,
+    "2007": 26,
+    "2008": 29,
+    "2009": 54,
+    "2010": 36,
+    "2011": 50,
+    "2012": 52,
+    "2013": 61,
+    "2014": 63,
+    "2015": 98,
+    "2016": 120,
+    "2017": 179,
+    "2018": 195,
+    "2019": 266,
+    "2020": 257,
+    "2021": 310,
+    "2022": 264,
+    "2023": 427,
+    "2024": 111
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A 60-million-year Cenozoic history of western Amazonian ecosystems in Contamana, eastern Peru",
+        "pub_year": "2016",
+        "citation": "Gondwana Research 31, 30-59, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 162,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13201780033892685803",
+      "cites_id": [
+        "13201780033892685803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A peculiar climbing Megalonychidae from the Pleistocene of Peru and its implication for sloth history",
+        "pub_year": "2007",
+        "citation": "Zoological Journal of the Linnean Society 149 (2), 179-235, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 117,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7069240924806901033",
+      "cites_id": [
+        "7069240924806901033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Palaeoproteomics resolves sloth relationships",
+        "pub_year": "2019",
+        "citation": "Nature Ecology & Evolution 3 (7), 1121-1130, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:D03iK_w7-QYC",
+      "num_citations": 104,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7343289518073314334",
+      "cites_id": [
+        "7343289518073314334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Life in proto\u2010Amazonia: Middle Miocene mammals from the Fitzcarrald Arch (Peruvian Amazonia)",
+        "pub_year": "2015",
+        "citation": "Palaeontology 58 (2), 341-378, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 88,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13736421039793549400",
+      "cites_id": [
+        "13736421039793549400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent advances on variability, morpho-functional adaptations, dental terminology, and evolution of sloths",
+        "pub_year": "2012",
+        "citation": "Journal of Mammalian Evolution 19, 159-169, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 79,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9144552790600152400",
+      "cites_id": [
+        "9144552790600152400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late Oligocene Megatherioidea fauna (Mammalia: Xenarthra) from Salla-Luribay (Bolivia): new data on basal sloth radiation and Cingulata-Tardigrada split",
+        "pub_year": "2007",
+        "citation": "Journal of Vertebrate Paleontology 27 (1), 132-144, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 74,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15113250087136671925",
+      "cites_id": [
+        "15113250087136671925"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The middle Miocene (Laventan) Fitzcarrald fauna, Amazonian Peru",
+        "pub_year": "2007",
+        "citation": "Cuadernos del Museo Geominero 8, 19-24, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 72,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7582298256931756755",
+      "cites_id": [
+        "7582298256931756755"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Western Amazonia as a hotspot of mammalian biodiversity throughout the Cenozoic",
+        "pub_year": "2017",
+        "citation": "Journal of Mammalian Evolution 24, 5-17, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:r0BpntZqJG4C",
+      "num_citations": 69,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10291889247641502982",
+      "cites_id": [
+        "10291889247641502982"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new species of Megalonychidae (Mammalia, Xenarthra) from the quaternary of Po\u00e7o Azul (Bahia, Brazil)",
+        "pub_year": "2008",
+        "citation": "Comptes Rendus Palevol 7 (6), 335-346, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 63,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4462085368703223513",
+      "cites_id": [
+        "4462085368703223513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A systematic reassessment and paleogeographic review of fossil Xenarthra from Peru",
+        "pub_year": "2004",
+        "citation": "Bulletin de l'Institut fran\u00e7ais d'\u00e9tudes andines, 331-377, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16146202164350768191",
+      "cites_id": [
+        "16146202164350768191"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MEGATHERIUM CELENDINENSE SP. NOV. FROM THE PLEISTOCENE OF THE PERUVIAN ANDES and THE PHYLOGENETIC RELATIONSHIPS OF \u2026",
+        "pub_year": "2006",
+        "citation": "Palaeontology 49 (2), 285-306, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 56,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1262118973405294973",
+      "cites_id": [
+        "1262118973405294973"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new species of Megatherium (Mammalia: Xenarthra: Megatheriidae) from the Pleistocene of Sacaco and Tres Ventanas, Peru",
+        "pub_year": "2004",
+        "citation": "Palaeontology 47 (3), 579-604, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=564341517773453742",
+      "cites_id": [
+        "564341517773453742"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A paleogeographic overview of tropical fossil sloths: towards an understanding of the origin of extant suspensory sloths?",
+        "pub_year": "2017",
+        "citation": "Journal of Mammalian Evolution 24, 19-38, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:TFP_iSt0sucC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5130457406344487211",
+      "cites_id": [
+        "5130457406344487211"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New Pleistocene cave faunas of the Andes of central Peru: radiocarbon ages and the survival of low latitude, Pleistocene DNA",
+        "pub_year": "2009",
+        "citation": "Palaeontologia Electronica 12 (3), 1-15, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13120423233924054685",
+      "cites_id": [
+        "13120423233924054685"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New radiometric 40Ar\u201339Ar dates and faunistic analyses refine evolutionary dynamics of Neogene vertebrate assemblages in southern South America",
+        "pub_year": "2021",
+        "citation": "Scientific Reports 11 (1), 9830, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:738O_yMBCRsC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15244016161897293115",
+      "cites_id": [
+        "15244016161897293115"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Miocene relative of the Ganges river dolphin (Odontoceti, Platanistidae) from the Amazonian Basin",
+        "pub_year": "2013",
+        "citation": "Journal of Vertebrate Paleontology 33 (3), 741-745, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:0EnyYjriUFMC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14947149271486792214",
+      "cites_id": [
+        "14947149271486792214"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An almost complete skeleton of a new Mesotheriidae (Notoungulata) from the Late Miocene of Casira, Bolivia",
+        "pub_year": "2012",
+        "citation": "Journal of Systematic Palaeontology 10 (2), 341-360, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:_kc_bZDykSQC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1387891727024082110",
+      "cites_id": [
+        "1387891727024082110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neotropics provide insights into the emergence of New World monkeys: New dental evidence from the late Oligocene of Peruvian Amazonia",
+        "pub_year": "2016",
+        "citation": "Journal of Human Evolution 97, 159-175, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:maZDTaKrznsC",
+      "num_citations": 44,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5785139269261405474",
+      "cites_id": [
+        "5785139269261405474"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new ground sloth (Mammalia: Xenarthra) from the Quaternary of Brazil",
+        "pub_year": "2009",
+        "citation": "Comptes Rendus Palevol 8 (8), 705-715, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:UebtZRa9Y70C",
+      "num_citations": 44,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4490942630559459609",
+      "cites_id": [
+        "4490942630559459609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late middle Eocene caviomorph rodents from Contamana, Peruvian Amazonia",
+        "pub_year": "2017",
+        "citation": "Palaeontologia Electronica 20 (1), 19A, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17718758087420335976,2341594661421160443",
+      "cites_id": [
+        "17718758087420335976",
+        "2341594661421160443"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evolution of body size in anteaters and sloths (Xenarthra, Pilosa): phylogeny, metabolism, diet and substrate preferences",
+        "pub_year": "2015",
+        "citation": "Earth and Environmental Science Transactions of the Royal Society of \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:hMod-77fHWUC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=223418753767132612",
+      "cites_id": [
+        "223418753767132612"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Middle Miocene crocodiles from the Fitzcarrald Arch, Amazonian Peru",
+        "pub_year": "2007",
+        "citation": "Cuadernos del Museo Geominero 8, 355-360, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12563532060514298398",
+      "cites_id": [
+        "12563532060514298398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomy, possible sexual dimorphism, and phylogenetic affinities of a new mylodontine sloth from the late Pleistocene of intertropical Brazil",
+        "pub_year": "2019",
+        "citation": "Journal of Systematic Palaeontology 17 (23), 1957-1988, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:yD5IFk8b50cC",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7050915352527896621",
+      "cites_id": [
+        "7050915352527896621"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eucholoeops ameghino, 1887 (Xenarthra, Tardigrada, Megalonychidae) from the Santa Cruz Formation, Argentine Patagonia: implications for the systematics of santacrucian sloths",
+        "pub_year": "2014",
+        "citation": "Geodiversitas 36 (2), 209-255, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9946472982732421060",
+      "cites_id": [
+        "9946472982732421060"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nouveaux paresseux terrestres (Mammalia, Xenarthra, Mylodontidae) du N\u00e9og\u00e8ne de l'Altiplano bolivien",
+        "pub_year": "2010",
+        "citation": "Geodiversitas 32 (2), 255-306, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:8k81kl-MbHgC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5803757941615322310",
+      "cites_id": [
+        "5803757941615322310"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hiskatherium saintandrei, gen. et sp. nov.: an unusual sloth from the Santacrucian of Quebrada Honda (Bolivia) and an overview of middle Miocene, small \u2026",
+        "pub_year": "2011",
+        "citation": "Journal of Vertebrate Paleontology 31 (5), 1131-1149, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7914727306326178797",
+      "cites_id": [
+        "7914727306326178797"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Early Oligocene chinchilloid caviomorphs from Puerto Rico and the initial rodent colonization of the West Indies",
+        "pub_year": "2020",
+        "citation": "Proceedings of the Royal Society B 287 (1920), 20192806, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17661601612827217213",
+      "cites_id": [
+        "17661601612827217213"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Una nueva especie de megaterino (Xenarthra, Megatheriidae) del Mioceno tard\u00edo-Plioceno de Catamarca, Argentina",
+        "pub_year": "2002",
+        "citation": "Ameghiniana 39 (3), 367-377, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9799676287366805811",
+      "cites_id": [
+        "9799676287366805811"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ossified meniscus and cyamo-fabella in some fossil sloths: A morpho-functional interpretation",
+        "pub_year": "2005",
+        "citation": "Geobios 38 (3), 389-394, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5368183026876686790",
+      "cites_id": [
+        "5368183026876686790"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late Oligocene caviomorph rodents from Contamana, Peruvian Amazonia",
+        "pub_year": "2017",
+        "citation": "Papers in Palaeontology 3 (1), 69-109, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11594025976329787427",
+      "cites_id": [
+        "11594025976329787427"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Middle Miocene Uruguaytheriinae (Mammalia, Astrapotheria) from Peruvian Amazonia and a review of the astrapotheriid fossil record in northern South America",
+        "pub_year": "2011",
+        "citation": "Geodiversitas 33 (2), 331-345, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=257616357754267464",
+      "cites_id": [
+        "257616357754267464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A reappraisal of the phylogeny of Mylodontidae (Mammalia, Xenarthra) and the divergence of mylodontine and lestodontine sloths",
+        "pub_year": "2019",
+        "citation": "Zoologica Scripta 48 (6), 691-710, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16940628192607054248",
+      "cites_id": [
+        "16940628192607054248"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New well-preserved craniodental remains of Simomylodon uccasamamensis (Xenarthra: Mylodontidae) from the Pliocene of the Bolivian Altiplano: phylogenetic \u2026",
+        "pub_year": "2019",
+        "citation": "Zoological Journal of the Linnean Society 185 (2), 459-486, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17532750129354726405",
+      "cites_id": [
+        "17532750129354726405"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biotic community and landscape changes around the Eocene\u2013Oligocene transition at Shapaja, Peruvian Amazonia: Regional or global drivers?",
+        "pub_year": "2021",
+        "citation": "Global and Planetary Change 202, 103512, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1208023358153154756",
+      "cites_id": [
+        "1208023358153154756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new nothrotheriid xenarthran from the early Pliocene of Pomata-Ayte (Bolivia): new insights into the caniniform-molariform transition in sloths",
+        "pub_year": "2016",
+        "citation": "Zoological Journal of the Linnean Society 178 (3), 679-712, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3088083960280436847",
+      "cites_id": [
+        "3088083960280436847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Presence of the extinct lizard Paradracaena (Teiidae) in the middle Miocene of the Peruvian Amazon",
+        "pub_year": "2009",
+        "citation": "Journal of Vertebrate Paleontology 29 (2), 594-598, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:WF5omc3nYNoC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5189262526215803912",
+      "cites_id": [
+        "5189262526215803912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Digital Cranial Endocasts of the Extinct Sloth Glossotherium robustum (Xenarthra, Mylodontidae) from the Late Pleistocene of Argentina: Description and \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of Mammalian Evolution 27, 55-71, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:lSLTfruPkqcC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9655780772472114167",
+      "cites_id": [
+        "9655780772472114167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eremotherium laurillardi (Lund, 1842)(Xenarthra, Megatheriinae) is the only valid megatheriine sloth species in the Pleistocene of intertropical Brazil: A response to Faure et \u2026",
+        "pub_year": "2015",
+        "citation": "Comptes Rendus Palevol 14 (1), 15-23, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:IWHjjKOFINEC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6562419130978800348",
+      "cites_id": [
+        "6562419130978800348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Early Oligocene caviomorph rodents from Shapaja, Peruvian Amazonia",
+        "pub_year": "2018",
+        "citation": "E Schweizerbartsche Verlags, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15099980195880232641",
+      "cites_id": [
+        "15099980195880232641"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The mylodontine ground sloth Glossotherium tropicorum from the late Pleistocene of Ecuador and Peru",
+        "pub_year": "2017",
+        "citation": "Papers in Palaeontology 3 (4), 613-636, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:GnPB-g6toBAC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=676260272655152366",
+      "cites_id": [
+        "676260272655152366"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implication of the presence of Megathericulus (Xenarthra: Tardigrada: Megatheriidae) in the Laventan of Peruvian Amazonia",
+        "pub_year": "2013",
+        "citation": "Journal of Systematic Palaeontology 11 (8), 973-991, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:4TOpqqG69KYC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11354070939199105115",
+      "cites_id": [
+        "11354070939199105115"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Systematic and taxonomic revision of the Pleistocene ground sloth Megatherium (Pseudomegatherium) tarijense (Xenarthra: Megatheriidae)",
+        "pub_year": "2009",
+        "citation": "Journal of Vertebrate Paleontology 29 (4), 1244-1251, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:Se3iqnhoufwC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4165480530018099619",
+      "cites_id": [
+        "4165480530018099619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scelidodon Chiliensis (Xenartkra, Mammalia) du Pl\u00e9istoc\u00e8ne terminal de \u00abPampa de los F\u00f3siles\u00bb(Nord-P\u00e9rou)[Scelidodon Chiliensis (Xenarthra, Mammalia) last Pleistocene from \u2026",
+        "pub_year": "2000",
+        "citation": "Quaternaire 11 (3), 197-206, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2692596933149119446,13459887477117112143",
+      "cites_id": [
+        "2692596933149119446",
+        "13459887477117112143"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic and functional implications of the ear region anatomy of Glossotherium robustum (Xenarthra, Mylodontidae) from the Late Pleistocene of Argentina",
+        "pub_year": "2018",
+        "citation": "The Science of Nature 105, 1-18, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2535479678364334397",
+      "cites_id": [
+        "2535479678364334397"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Scelidotheriine Proscelidodon (Xenarthra: Mylodontidae) from the Late Miocene of Maimar\u00e1 (Northwestern Argentina, Jujuy Province)",
+        "pub_year": "2012",
+        "citation": "Ameghiniana 49 (4), 668-674, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7262864396166264672",
+      "cites_id": [
+        "7262864396166264672"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lakukullus anatisrostratus, gen. et sp. nov., a new massive nothrotheriid sloth (Xenarthra, Pilosa) from the middle Miocene of Bolivia",
+        "pub_year": "2014",
+        "citation": "Journal of Vertebrate Paleontology 34 (5), 1243-1248, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3231131462530507352",
+      "cites_id": [
+        "3231131462530507352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The pes of Pyramiodontherium bergi (Moreno & Mercerat, 1891)(Mammalia, Xenarthra, Phyllophaga): the most complete pes of a Tertiary Megatheriinae",
+        "pub_year": "2004",
+        "citation": "Geodiversitas 26 (4), 643-659, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:ufrVoPGSRksC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6897810996215870111",
+      "cites_id": [
+        "6897810996215870111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The earliest well-documented occurrence of sexual dimorphism in extinct sloths: evolutionary and palaeoecological insights",
+        "pub_year": "2019",
+        "citation": "Zoological Journal of the Linnean Society 187 (1), 229-239, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:a0OBvERweLwC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14857662308731553772",
+      "cites_id": [
+        "14857662308731553772"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virtual endocast morphology of Mesotheriidae (Mammalia, Notoungulata, Typotheria): New insights and implications on notoungulate encephalization and brain evolution",
+        "pub_year": "2019",
+        "citation": "Journal of Mammalian Evolution 26, 85-100, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:RGFaLdJalmkC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=642082944613374964",
+      "cites_id": [
+        "642082944613374964"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Functional Anatomy of the Forelimb of Plesiotypotherium achirense (Mammalia, Notoungulata, Mesotheriidae) and Evolutionary Insights at the Family Level",
+        "pub_year": "2018",
+        "citation": "Journal of Mammalian Evolution 25, 197-211, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:blknAaTinKkC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9327507662414591793",
+      "cites_id": [
+        "9327507662414591793"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New record of Neosaimiri (Cebidae, Platyrrhini) from the late middle Miocene of Peruvian Amazonia",
+        "pub_year": "2020",
+        "citation": "Journal of human evolution 146, 102835, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:dshw04ExmUIC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3098226048062801098",
+      "cites_id": [
+        "3098226048062801098"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Description of a new species of Sparassocynus (Marsupialia: Didelphoidea: Sparassocynidae) from the late Miocene of Jujuy (Argentina) and taxonomic review of Sparassocynus \u2026",
+        "pub_year": "2015",
+        "citation": "Magnolia Press, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7565052253603982539",
+      "cites_id": [
+        "7565052253603982539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cranial anatomy and paleoneurology of the extinct sloth Catonyx tarijensis (Xenarthra, Mylodontidae) from the late Pleistocene of Oruro, Southwestern Bolivia",
+        "pub_year": "2020",
+        "citation": "Frontiers in Ecology and Evolution 8, 69, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4059053789913914633",
+      "cites_id": [
+        "4059053789913914633"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the status of the giant mylodontine sloth Glossotherium wegneri (Spillmann, 1931)(Xenarthra, Folivora) from the late Pleistocene of Ecuador",
+        "pub_year": "2020",
+        "citation": "Comptes Rendus Palevol 19, 215-232, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:u9iWguZQMMsC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12422267191529712803",
+      "cites_id": [
+        "12422267191529712803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dental remains of cebid platyrrhines from the earliest late Miocene of Western Amazonia, Peru: Macroevolutionary implications on the extant capuchin and marmoset lineages",
+        "pub_year": "2016",
+        "citation": "American Journal of Physical Anthropology 161 (3), 478-493, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:k_IJM867U9cC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11938234673247550173",
+      "cites_id": [
+        "11938234673247550173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The basicranium and orbital region of the early Miocene Eucholoeops ingens Ameghino,(Xenarthra, Pilosa, Megalonychidae)",
+        "pub_year": "2015",
+        "citation": "Ameghiniana 52 (2), 226-240, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745083225175775725",
+      "cites_id": [
+        "2745083225175775725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late middle Miocene vertebrates from the Peruvian Amazonian basin (Inuya and Mapuya Rivers, Ucayali): Fitzcarrald Expedition 2005",
+        "pub_year": "2006",
+        "citation": "XIII Congreso Peruano de Geolog\u00eda, 643-646, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:5nxA0vEk-isC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3785077111721026873",
+      "cites_id": [
+        "3785077111721026873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Restes in\u00e9dits de rongeurs caviomorphes du Pal\u00e9og\u00e8ne de la r\u00e9gion de Juanjui (Amazonie p\u00e9ruvienne): syst\u00e9matique, implications macro-\u00e9volutives et biostratigraphiques",
+        "pub_year": "2019",
+        "citation": "Geodiversitas 41 (1), 699-730, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6883265068659870777",
+      "cites_id": [
+        "6883265068659870777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cenozoic batoids from Contamana (Peruvian Amazonia) with focus on freshwater potamotrygonins and their paleoenvironmental significance",
+        "pub_year": "2017",
+        "citation": "Geobios 50 (5-6), 389-400, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1621963543691853185",
+      "cites_id": [
+        "1621963543691853185"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scelidodon chiliensis (Mammalia, Xeanrthra) du Pleistocene terminal de \u201cPampa de los F\u00f3siles\u201d(Nord-P\u00e9rou)",
+        "pub_year": "2000",
+        "citation": "Quaternaire 11 (3-4), 197-206, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:u_35RYKgDlwC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4826231636767570793",
+      "cites_id": [
+        "4826231636767570793"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tarsal morphology and locomotor adaptation of some late middle Eocene caviomorph rodents from Peruvian Amazonia reveal early ecological diversity",
+        "pub_year": "2018",
+        "citation": "Journal of Vertebrate Paleontology 38 (6), e1555164, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2230984463139881963",
+      "cites_id": [
+        "2230984463139881963"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Paleogeographic distribution and anatomical adaptations in Peruvian megatheriine ground sloths (Xenarthra: Megatherioidea)",
+        "pub_year": "2008",
+        "citation": "The biology of the Xenarthra, 56-63, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7387252641971259536",
+      "cites_id": [
+        "7387252641971259536"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nouvelles donn\u00e9es sur le genre Nothrotherium et validit\u00e9 des esp\u00e8ces N. maquinense () et N. escrivanense ()",
+        "pub_year": "2001",
+        "citation": "Geobios 34 (3), 349-356, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9435398566191543870",
+      "cites_id": [
+        "9435398566191543870"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An unpredicted ancient colonization of the West Indies by North American rodents: dental evidence of a geomorph from the early Oligocene of Puerto Rico",
+        "pub_year": "2021",
+        "citation": "Papers in Palaeontology 7 (4), 2021-2039, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:08ZZubdj9fEC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9176209699486926931",
+      "cites_id": [
+        "9176209699486926931"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Predation of the giant Miocene caiman Purussaurus on a mylodontid ground sloth in the wetlands of proto-Amazonia",
+        "pub_year": "2020",
+        "citation": "Biology Letters 16 (8), 20200239, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:UxriW0iASnsC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7130154544116718959",
+      "cites_id": [
+        "7130154544116718959"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eocene caviomorph rodents from Balsayacu (Peruvian Amazonia)",
+        "pub_year": "2022",
+        "citation": "PalZ 96 (1), 135-160, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3752578532352829734",
+      "cites_id": [
+        "3752578532352829734"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The late Oligocene xenarthran fauna of Quebrada Fiera (Mendoza, Argentina) and its implications for sloth origins and the diversity of Palaeogene cingulates",
+        "pub_year": "2021",
+        "citation": "Papers in Palaeontology 7 (3), 1613-1656, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:WbkHhVStYXYC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12254999395345794830",
+      "cites_id": [
+        "12254999395345794830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New Pleistocene remains of megalonychid ground sloths (Xenarthra: Pilosa) from the intertropical Brazilian region",
+        "pub_year": "2016",
+        "citation": "Journal of Paleontology 90 (3), 578-587, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:isC4tDSrTZIC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9889390706276885545",
+      "cites_id": [
+        "9889390706276885545"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Contribution \u00e0 la connaissance des Tardigrades (Mammalia: Xenarthra) du Pl\u00e9istoc\u00e8ne p\u00e9ruvien: syst\u00e9matique, phylog\u00e9nie, anatomie fonctionnelle et extinction",
+        "pub_year": "2002",
+        "citation": "Paris, Mus\u00e9um national d'histoire naturelle, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13414631198143138533",
+      "cites_id": [
+        "13414631198143138533"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recognition of a new nothrotheriid genus (Mammalia, Folivora) from the early late Miocene of Achiri (Bolivia) and the taxonomic status of the genus Xyophorus",
+        "pub_year": "2023",
+        "citation": "Historical Biology 35 (6), 1041-1051, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16961484947818210603,3650120718641865791",
+      "cites_id": [
+        "16961484947818210603",
+        "3650120718641865791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late middle Miocene caviomorph rodents from Tarapoto, Peruvian Amazonia",
+        "pub_year": "2021",
+        "citation": "PLoS One 16 (11), e0258455, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12562639711809803251",
+      "cites_id": [
+        "12562639711809803251"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Postcranial anatomy of the extinct terrestrial sloth Simomylodon uccasamamensis (Xenarthra, Mylodontidae) from the Pliocene of the Bolivian Altiplano, and its \u2026",
+        "pub_year": "2021",
+        "citation": "Papers in Palaeontology 7 (3), 1557-1583, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18131831815899397212",
+      "cites_id": [
+        "18131831815899397212"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiple skeletal and dental pathologies in a late Miocene mesotheriid (Mammalia, Notoungulata) from the Altiplano of Bolivia: Palaeoecological inferences",
+        "pub_year": "2019",
+        "citation": "Palaeogeography, palaeoclimatology, palaeoecology 534, 109297, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:f2IySw72cVMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18121834895882459720",
+      "cites_id": [
+        "18121834895882459720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary report of Deseadan sloths from Quebrada Fiera (Mendoza Province, Argentina)",
+        "pub_year": "2008",
+        "citation": "III Congreso Latinoamericano de Paleontolog\u00eda de Vertebrados Resumene \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9939223209833155282",
+      "cites_id": [
+        "9939223209833155282"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Taxonomic history and intraspecific analysis of Mesotherium cristatum (Mammalia, Notoungulata, Mesotheriidae) from the Early-Middle Pleistocene of Buenos \u2026",
+        "pub_year": "2023",
+        "citation": "Historical Biology 35 (6), 1028-1040, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7902886029819649094",
+      "cites_id": [
+        "7902886029819649094"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late middle Miocene Metatheria (Mammalia: Didelphimorphia and Paucituberculata) from Juan Guerra, San Mart\u00edn Department, Peruvian Amazonia",
+        "pub_year": "2022",
+        "citation": "Journal of South American Earth Sciences 118, 103902, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:1qzjygNMrQYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10588307542809711654",
+      "cites_id": [
+        "10588307542809711654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Andean lineage of Pleistocene Megatherium: geographical implications",
+        "pub_year": "2002",
+        "citation": "Journal of Vertebrate Paleontology 22, 9-12, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14091349760597411289",
+      "cites_id": [
+        "14091349760597411289"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cenozoic batoid record from Contamana, Peru, with special focus on freshwater potamotrygonins (Chondrichthyes, Myliobatiformes) from the Pebas wetland system",
+        "pub_year": "2017",
+        "citation": "Young Natural History scientists Meeting, 69-70, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:70eg2SAEIzsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10327442776229087747",
+      "cites_id": [
+        "10327442776229087747"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estudio geol\u00f3gico, estratigr\u00e1fico y sedimentol\u00f3gico de la cueva de mam\u00edferos del Pleistoceno de Santa Rosa (Per\u00fa): interpretaci\u00f3n paleo-ambiental",
+        "pub_year": "2002",
+        "citation": "Bulletin de l'Institut fran\u00e7ais d'\u00e9tudes andines, 101-113, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12762678483106136642",
+      "cites_id": [
+        "12762678483106136642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An eosimiid primate of South Asian affinities in the Paleogene of Western Amazonia and the origin of New World monkeys",
+        "pub_year": "2023",
+        "citation": "Proceedings of the National Academy of Sciences 120 (28), e2301338120, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:35r97b3x0nAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14059464823031638429",
+      "cites_id": [
+        "14059464823031638429"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cranial osteology and taxonomy of Pronothrotherium (Xenarthra, Folivora, Nothrotheriidae) from the late Miocene\u2013early Pliocene of Catamarca Province (Argentina)",
+        "pub_year": "2020",
+        "citation": "Asociaci\u00f3n Paleontol\u00f3gica Argentina, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8507957068430753561",
+      "cites_id": [
+        "8507957068430753561"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Miocene vertebrate faunas of Achiri, Bolivia",
+        "pub_year": "2012",
+        "citation": "Journal of Vertebrate Paleontology 32, 159-159, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6249219270753192251",
+      "cites_id": [
+        "6249219270753192251"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geomorphic and sedimentologic analyses on the Fitzcarrald Arch: evidence of a recent tectonic uplift",
+        "pub_year": "2006",
+        "citation": "XIII Congreso Peruano de Geolog\u00eda, Lima, Per\u00fa, 273-276, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:Zph67rFs4hoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5290534499813373634",
+      "cites_id": [
+        "5290534499813373634"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new megatheriine genus from the latest Pleistocene of Northern Peru",
+        "pub_year": "2001",
+        "citation": "6th International Congress of Vertebrate Morphology, Jena, Germany, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14968194559407223858",
+      "cites_id": [
+        "14968194559407223858"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Late Miocene mammals from the Humahuaca Basin (northwestern Argentina) provide new evidence on the initial stages of the Great American Biotic Interchange",
+        "pub_year": "2023",
+        "citation": "Papers in Palaeontology 9 (5), e1527, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1466125211384712425",
+      "cites_id": [
+        "1466125211384712425"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical connection of ossified meniscus and cyamo-flabella in a fossil ground sloth (Thalassocnus natans) and functional interpretation",
+        "pub_year": "2002",
+        "citation": "Proceedings of the Third European Meeting on the Paleontology and \u2026, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15019803078229507445",
+      "cites_id": [
+        "15019803078229507445"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary observations of a new Pleistocene Megatherium (Mammalia: Xenarthra: Megatheriidae) from the Peruvian coast",
+        "pub_year": "2002",
+        "citation": "Ameghiniana 38 (4), 40R, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13110251872295433628",
+      "cites_id": [
+        "13110251872295433628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Description of a fetal skeleton of the extinct sloth Nothrotherium maquinense (Xenarthra, Folivora): Ontogenetic and palaeoecological interpretations",
+        "pub_year": "2023",
+        "citation": "Journal of Mammalian Evolution 30 (3), 577-595, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11819723759133680411",
+      "cites_id": [
+        "11819723759133680411"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resolution of the long-standing controversy over the type species of the genus Pseudotypotherium (Notoungulata, Typotheria, Mesotheriidae)",
+        "pub_year": "2023",
+        "citation": "Palaeoworld 32 (3), 547-554, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3133907021243066902",
+      "cites_id": [
+        "3133907021243066902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pliocene pre-GABI herbivorous mammals from espinar, Peruvian andean plateau",
+        "pub_year": "2023",
+        "citation": "Journal of Vertebrate Paleontology 43 (1), e2237079, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9270926785486471120",
+      "cites_id": [
+        "9270926785486471120"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intraspecific craniomandibular and dental analysis of Pseudotypotherium exiguum (Mesotheriidae, Notoungulata) from Monte Hermoso, late Neogene, Buenos \u2026",
+        "pub_year": "2022",
+        "citation": "Journal of Vertebrate Paleontology 42 (6), e2184269, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:evX43VCCuoAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4508248345996021513",
+      "cites_id": [
+        "4508248345996021513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Form and Function in the Xenarthra\u2013an Introduction to the Symposium Proceedings Volume",
+        "pub_year": "2012",
+        "citation": "Journal of Mammalian Evolution 19, 155-157, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:4DMP91E08xMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8478127971534098625",
+      "cites_id": [
+        "8478127971534098625"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An original Lujanian Megatherioidea from Peru: implications concerning the locomotion of sloths",
+        "pub_year": "2004",
+        "citation": "Journal of Morphology 260 (3), 320A, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1059285886780734067",
+      "cites_id": [
+        "1059285886780734067"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Occurrence of Cyclusphaera scabrata in Achiri (late middle-early late Miocene?, Bolivian Altiplano): Paleogeographical implication",
+        "pub_year": "2022",
+        "citation": "Journal of South American Earth Sciences 119, 103990, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:J-pR_7NvFogC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=760922049470307919",
+      "cites_id": [
+        "760922049470307919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neotropical metatherian diversity around the Eocene-Oligocene transition: the Shapaja section, Peruvian Amazonia",
+        "pub_year": "2021",
+        "citation": "XII Congreso de la Asociaci\u00f3n Paleontol\u00f3gica (CAPA), 123, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8704493764165930967",
+      "cites_id": [
+        "8704493764165930967"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "El yacimiento de Ayo Ayo-Viscachani (Plioceno-Pleistoceno, Departamento de La Paz, Bolivia): 50 a\u00f1os desde su descubrimiento",
+        "pub_year": "2021",
+        "citation": "XII Congreso de la Asociaci\u00f3n Paleontol\u00f3gica (CAPA), 156, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:LPZeul_q3PIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8217743436901872439",
+      "cites_id": [
+        "8217743436901872439"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Los roedores caviomorphos (Rodentia, Hystricognathi) del Mioceno tard\u00edo de Achiri (Bolivia)",
+        "pub_year": "2021",
+        "citation": "XXXIII Jornadas Argentinas de Paleontolog\u00eda de Vertebrados (JAPV), 75-76, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:tOudhMTPpwUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7338775582723905400",
+      "cites_id": [
+        "7338775582723905400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Un inventaire fossile de la Guyane: historique et nouvelles perspectives",
+        "pub_year": "2020",
+        "citation": "Soci\u00e9t\u00e9 G\u00e9ologique de France, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:SP6oXDckpogC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15841512741707768025",
+      "cites_id": [
+        "15841512741707768025"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new early water frog (Telmatobius) from the Miocene of the Bolivian Altiplano",
+        "pub_year": "2024",
+        "citation": "Papers in Palaeontology 10 (1), e1543, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:nrtMV_XWKgEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5127179169117928624",
+      "cites_id": [
+        "5127179169117928624"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late Miocene\u2013Early Pliocene mammals from the Tupungato\u2013Piedras Coloradas Anticlines, Mendoza, Argentina",
+        "pub_year": "2023",
+        "citation": "Journal of South American Earth Sciences 129, 104497, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:tzM49s52ZIMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9292467247044107023",
+      "cites_id": [
+        "9292467247044107023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Endocranial Cavities of Sloths (Xenarthra, Folivora): Insights from the Brain Endocast, Bony Labyrinth, and Cranial Sinuses",
+        "pub_year": "2022",
+        "citation": "Paleoneurology of Amniotes: New Directions in the Study of Fossil Endocasts \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:tKAzc9rXhukC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13055346980219824010",
+      "cites_id": [
+        "13055346980219824010"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "La fauna de mam\u00edferos de Lacayani (Bolivia)",
+        "pub_year": "2021",
+        "citation": "XII Congreso de la Asociaci\u00f3n Paleontol\u00f3gica (CAPA), 122, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:8AbLer7MMksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2398589225182042420",
+      "cites_id": [
+        "2398589225182042420"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The megatherioid sloth\" Xyophorus\" villarroeli from the late Miocene of Achiri (Bolivia)",
+        "pub_year": "2021",
+        "citation": "XII Congreso de la Asociaci\u00f3n Paleontol\u00f3gica (CAPA), 197-198, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:geHnlv5EZngC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=142986862290277725",
+      "cites_id": [
+        "142986862290277725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data from: Palaeoproteomics resolves sloth phylogeny",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7664762594125972410",
+      "cites_id": [
+        "7664762594125972410"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the revision of Octodontotherium: the oldest mylodontoid sloth",
+        "pub_year": "2007",
+        "citation": "Journal of Morphology 268 (12), 1121-1121, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14403746747668701745",
+      "cites_id": [
+        "14403746747668701745"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neogene sloths from Bolivia: northwestern South America's importance in the evolution of Tardigrada",
+        "pub_year": "2007",
+        "citation": "Journal of Morphology 268 (12), 1121-1121, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3388039086808398198",
+      "cites_id": [
+        "3388039086808398198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pleistocene cave faunas from the andes of central Peru: A glimps of andean life of the Great American biotic interchange",
+        "pub_year": "2007",
+        "citation": "Journal of Vertebrate Paleontology 27 (3), 145A-146A, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5716890481424303950",
+      "cites_id": [
+        "5716890481424303950"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Palaeogene climate deterioration increased South American mammal turnover near the Eocene-Oligocene Transition",
+        "pub_year": "2024",
+        "citation": "7th European Conference of Tropical Ecology 2024 26 (202401), 93, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Redefining the Huayquerian Stage (Upper Miocene to Lower Pliocene) of the South American chronostratigraphic scale based on biostratigraphical analyses and geochronological dating",
+        "pub_year": "2023",
+        "citation": "Papers in Palaeontology 9 (6), e1539, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New records of marsupials from the Miocene of Western Amazonia, Acre, Brazil",
+        "pub_year": "2023",
+        "citation": "Acta Palaeontologica Polonica 68 (3), 457-475, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:z_wVstp3MssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Late Miocene\u2013Early Pliocene mammals from the Tupungato\u2013Piedras Coloradas Anticlines, Mendoza, Argentina",
+        "pub_year": "2023",
+        "citation": "Pergamon-Elsevier Science Ltd, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Middle Miocene metatherians from Juan Guerra (San Martin, Peru) expand the record of small mammals in the Proto Amazonia",
+        "pub_year": "2022",
+        "citation": "19th European Association of Vertebrate Palaeontologists (EAVP), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The endocranial cavities of sloths (Mammalia, Folivora): insights from the brain endocast, bony labyrinth and cranial sinuses",
+        "pub_year": "2022",
+        "citation": "Springer, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:fEOibwPWpKIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New data on the glyptodontid Trachycalyptoides from the late Miocene Bolivian locality of Achiri",
+        "pub_year": "2021",
+        "citation": "XII Congreso de la Asociaci\u00f3n Paleontol\u00f3gica (CAPA), 198-199, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Complete craniomandibular and dental remains of Microtypotherium choquecotense (Notoungulata, Typotheria, Mesotheriidae) from the Middle Miocene of the Bolivian Altiplano",
+        "pub_year": "2021",
+        "citation": "XII Congreso de la Asociaci\u00f3n Paleontol\u00f3gica (CAPA), 170-171, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New radiometric \u2074\u2070Ar\u2013\u00b3\u2079Ar dates and faunistic analyses refine evolutionary dynamics of Neogene vertebrate assemblages in southern South America",
+        "pub_year": "2021",
+        "citation": "Scientific Reports 11, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Avances sobre el conocimiento de la geolog\u00eda y la bioestratigraf\u00eda del mioceno tard\u00edo\u2013plioceno de la provincia de Mendoza",
+        "pub_year": "2021",
+        "citation": "Asociaci\u00f3n Paleontol\u00f3gica Argentina, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "La m\u00e9gafaune: splendeur et d\u00e9cadence",
+        "pub_year": "2020",
+        "citation": "Kyrnos, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New remains of caviomorph rodents from the Paleogene of the Juanjui area (Peruvian Amazonia): systematics, macroevolutionary implications and biostratigraphy",
+        "pub_year": "2019",
+        "citation": "GEODIVERSITAS 41 (20), 699-730, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "El Eoceno de los roedores caviomorfos: entre la radiaci\u00f3n inicial y aparici\u00f3n de las superfamilias, falencias en el registro f\u00f3sil y descubrimientos recientes",
+        "pub_year": "2019",
+        "citation": "Reuni\u00f3n de Comunicaciones de la Asociaci\u00f3n Paleontol\u00f3gica Argentina (RCAPA), 32, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cenozoic evolution of Western Amazonian ecosystems",
+        "pub_year": "2019",
+        "citation": "HyBAM conference, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A multidisciplinary study of upper Neogene continental deposits from Corque basin, central Altiplano, Bolivia: sedimentary evolution and faunal changes",
+        "pub_year": "2018",
+        "citation": "5th International Paleontological Congress (IPC)\u2013The Fossil Week, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cenozoic Evolution of TRopical-Equatorial MAmmals (TREMA)\u2013an Introduction to the Symposium Proceedings Volume",
+        "pub_year": "2017",
+        "citation": "Journal of Mammalian Evolution 24, 1-3, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A tropical palynoflora in the K-Pg Vilacapujio section, southwestern Bolivia",
+        "pub_year": "2016",
+        "citation": "XIV International Palynological Congress-X International Organisation of \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The basocranium and orbital region of the early miocene eucholoeops ingens ameghino, 1887 (Xenarthra pilosa, megalonychidae)",
+        "pub_year": "2015",
+        "citation": "Asociacion Paleontologica Argentina, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Another Approach to our Knowledge of Early Neogene South American Biomes: Early Miocene Paleobiology in Patagonia: High-Latitude Paleocommunities of the Santa Cruz Formation \u2026",
+        "pub_year": "2014",
+        "citation": "Journal of Mammalian Evolution 21, 455-456, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "All About Current and Fossil Neotropical Mammals: 100 Million Years of Evolution Under the Tropics: Bones, Clones, and Biomes: The History and Geography of Recent Neotropical \u2026",
+        "pub_year": "2014",
+        "citation": "Journal of Mammalian Evolution 21 (4), 451-453, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A strange nothrotheriid ground sloth (Xenarthra, Megatherioidea) from Pomata-Ayte (Miocene-Pliocene transition, Bolivia)",
+        "pub_year": "2014",
+        "citation": "4th International Paleontological Congress (IPC)\u2013The History of Life: a View \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An integrated palynological and paleontological study of the K-Pg Vilcapujio section, south-western Bolivia",
+        "pub_year": "2013",
+        "citation": "46th Annual Meeting of the AASP\u2013The Palynological Society, 160, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A relative of the Ganges and Indus river dolphins from Miocene deposits of the Amazonian basin: multiple toothed whale invasions of freshwater environments?",
+        "pub_year": "2012",
+        "citation": "Abstracts 4TH International Geological Belgica Meeting 2012. Moving plates \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An almost complete skeleton of a new Mesotheriidae (Notoungulata) from the Late Miocene of Casira, Bolivia",
+        "pub_year": "2012",
+        "citation": "Cambridge University Press, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correction: Hiskatherium Saintandrei, Gen. Et Sp. Nov.: An Unusual Sloth from the Santacrucian of Quebrada Honda (Bolivia) and An Overview of Middle Miocene \u2026",
+        "pub_year": "2011",
+        "citation": "Journal of Vertebrate Paleontology 31 (6), 1410-1410, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New ground sloths (Mammalia, Xenarthra, Mylodontidae) from the Neogene of the Bolivian Altiplano",
+        "pub_year": "2010",
+        "citation": "GEODIVERSITAS 32 (2), 255-306, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Un nouveau paresseux geant (Mammalia: Xenarthra) du Quaternaire du Bresil",
+        "pub_year": "2009",
+        "citation": "COMPTES RENDUS PALEVOL 8 (8), 705-715, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hearing capacity in extinct grounds sloths: Does size limit plasticity?",
+        "pub_year": "2007",
+        "citation": "JOURNAL OF MORPHOLOGY 268 (12), 1105-1105, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the status of Megatherium (Pseudomegatherium) tarijense (Xenarthra: megatheriidae)",
+        "pub_year": "2007",
+        "citation": "Journal of Morphology 268 (12), 1065-1065, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reporte de la campana PE 16 Rio Napo: octubre 2004",
+        "pub_year": "2005",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new species of megatherium (mammalia: xenarthra: megatheriidae) from the Pleistocene of Sacaco and Tres Ventanas, Peru",
+        "pub_year": "2004",
+        "citation": "The Palaeontological Association, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Una nueva especie de Pyramiodontherium [Xenarthra, Megatheriidae] del Araucanense [Mioceno tard\u00edo] del Valle de Santa Mar\u00eda [Catamarca, Argentina]",
+        "pub_year": "2002",
+        "citation": "Ameghiniana 39 (3), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scelidodon Chiliensis (Xenarthra, Mammalia) last pleistocene from<>(North of Peru)",
+        "pub_year": "2000",
+        "citation": "QUATERNAIRE-PARIS- 11 (3/4), 197-206, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Online Resource 1 Pal\u00e4ontologische Zeitschrift",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:yB1At4FlUx8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Predation of the giant Miocene caiman Purussaurus on a mylodontid ground sloth in the wetlands of proto-Amazonia: Purussaurus-sloth interaction",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supplementary Data A 60-million-year Cenozoic history of western Amazonian ecosystems in Contamana, eastern Peru",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:VLnqNzywnoUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Les articles ainsi que les nouveaut\u00e9s nomenclaturales publi\u00e9s dans Comptes Rendus Palevol sont r\u00e9f\u00e9renc\u00e9s par/Articles and nomenclatural novelties published in Comptes Rendus \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cenozoic evolution of tropical-equatorial mammals/Oral",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LATE MIDDLE MIOCENE VERTEBRATES FROM THE PERUVIAN AMAZONIAN BASIN (INUYA AND MAPUYA RIVERS, UCAYALI): FITZCARRALD EXPEDITION 2005",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "gU7g-NoAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 45,
+    "not_available": 6
+  }
+}

@@ -22,8 +22,8 @@
   ],
   "email_domain": "@mail.ugm.ac.id",
   "homepage": "http://biologi.ugm.ac.id/",
-  "citedby": 2099,
-  "citedby5y": 1668,
+  "citedby": 2101,
+  "citedby5y": 1670,
   "hindex": 20,
   "hindex5y": 18,
   "i10index": 81,
@@ -43,11 +43,11 @@
     "2017": 75,
     "2018": 131,
     "2019": 196,
-    "2020": 286,
-    "2021": 323,
+    "2020": 285,
+    "2021": 324,
     "2022": 363,
-    "2023": 337,
-    "2024": 157
+    "2023": 338,
+    "2024": 158
   },
   "coauthors": [
     {
@@ -488,6 +488,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Variation and intraspecies classification of edible canna (Canna indica L.) based on morphological characters",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6ImOpxkAAAAJ:J-pR_7NvFogC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2542344291878635420",
+      "cites_id": [
+        "2542344291878635420"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Adherence pheno-genotypic of Escherichia coli O157: H7 isolated from beef, feces of cattle, chicken and human",
         "pub_year": "2010",
         "citation": "Ind J Biotech 16 (1), 46-52, 2010"
@@ -531,22 +547,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2476737459738059558",
       "cites_id": [
         "2476737459738059558"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Variation and intraspecies classification of edible canna (Canna indica L.) based on morphological characters",
-        "pub_year": "2016",
-        "citation": "AIP Conference Proceedings 1744 (1), 2016"
-      },
-      "filled": false,
-      "author_pub_id": "6ImOpxkAAAAJ:J-pR_7NvFogC",
-      "num_citations": 18,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2542344291878635420",
-      "cites_id": [
-        "2542344291878635420"
       ]
     },
     {
@@ -1786,6 +1786,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Phenotypic traits, egg productivity and body weight performance of Gama ayam BC1 Kamper",
+        "pub_year": "2020",
+        "citation": "Jurnal Peternakan 17 (1), 6-16, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6ImOpxkAAAAJ:Dem6FJhTUoYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5228097418994345876",
+      "cites_id": [
+        "5228097418994345876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "The classification of Bambusa spp. from Celebes based on the micromorphological characters of leaf epidermis",
         "pub_year": "2017",
         "citation": "Journal of Tropical Life Science 7 (3), 197-203, 2017"
@@ -1973,22 +1989,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8934281307280006539",
       "cites_id": [
         "8934281307280006539"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Phenotypic traits, egg productivity and body weight performance of Gama ayam BC1 Kamper",
-        "pub_year": "2020",
-        "citation": "Jurnal Peternakan 17 (1), 6-16, 2020"
-      },
-      "filled": false,
-      "author_pub_id": "6ImOpxkAAAAJ:Dem6FJhTUoYC",
-      "num_citations": 6,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5228097418994345876",
-      "cites_id": [
-        "5228097418994345876"
       ]
     },
     {

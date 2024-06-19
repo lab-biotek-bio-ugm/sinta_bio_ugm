@@ -1,0 +1,1130 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "3XjW1RgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Mamat Kandar",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Bioteknologi Mikroba"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 450,
+  "citedby5y": 187,
+  "hindex": 11,
+  "hindex5y": 7,
+  "i10index": 17,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2009": 2,
+    "2010": 1,
+    "2011": 3,
+    "2012": 12,
+    "2013": 24,
+    "2014": 42,
+    "2015": 32,
+    "2016": 33,
+    "2017": 57,
+    "2018": 44,
+    "2019": 47,
+    "2020": 37,
+    "2021": 37,
+    "2022": 30,
+    "2023": 29,
+    "2024": 7
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An overview of mobile application in learning for student of Kolej Poly-Tech Mara (KPTM) by using mobile phone",
+        "pub_year": "2013",
+        "citation": "Journal of Asian Scientific Research 3 (6), 527, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=289322301168194311",
+      "cites_id": [
+        "289322301168194311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunikasi interpersonal dalam pengajaran di kalangan guru-guru teknikal sekolah menengah teknik di negeri Melaka",
+        "pub_year": "2008",
+        "citation": "Universiti Teknologi Malaysia, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:M05iB0D1s5AC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=799474159704500503",
+      "cites_id": [
+        "799474159704500503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kemahiran employability bagi memenuhi keperluan industri",
+        "pub_year": "2008",
+        "citation": "Prosiding SKIS, 385-392, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=272431157370653284",
+      "cites_id": [
+        "272431157370653284"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Faktor-faktor yang mempengaruhi pencapaian pelajar dalam menguasai mata pelajaran kejuruteraan di politeknik-politeknik Kementerian Pengajian Tinggi Malaysia",
+        "pub_year": "2005",
+        "citation": "Prosiding Seminar Pendidikan JPPG, 574-577, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15018426226066825188",
+      "cites_id": [
+        "15018426226066825188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gaya Pembelajaran Visual Pelajar Teknikal Menerusi Pembangunan Koswer Berorientasikan Grafik dan Animasi",
+        "pub_year": "2005",
+        "citation": "Prosiding Konvensyen Teknologi Pendidikan ke-18. Pusat Penerbitan Universiti \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:TFP_iSt0sucC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16142616494483366928",
+      "cites_id": [
+        "16142616494483366928"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of using graphic animation courseware for students with different cognitive styles and spatial visual abilities",
+        "pub_year": "2011",
+        "citation": "Journal of Technical Education and Training 3 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:4TOpqqG69KYC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14079163650623522208",
+      "cites_id": [
+        "14079163650623522208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elements of employability skills among students from Community Colleges Malaysia",
+        "pub_year": "2011",
+        "citation": "Journal of Technical, Vocational & Engineering Education 4 (12), 1-11, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1663554982176064922",
+      "cites_id": [
+        "1663554982176064922"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of segmentation of instructional animation in facilitating learning",
+        "pub_year": "2010",
+        "citation": "Journal of Technical Education and Training 2 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:WF5omc3nYNoC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5857118258506386153",
+      "cites_id": [
+        "5857118258506386153"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keberkesanan animasi grafik dalam kalangan pelajar berbeza gaya icognitif dan kebolehan visualisasi spatial di politeknik",
+        "pub_year": "2009",
+        "citation": "Universiti Teknologi Malaysia, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=91498917087317632",
+      "cites_id": [
+        "91498917087317632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KOMPETENSI INTERPERSONAL DALAM KALANGAN MAHASISWA UNIVERSITI BERDASARKAN KEPADA MODEL HUMAN RESOURCE DEVELOPMENT (HRD) PRACTICE MCLAGAN (INTERPERSONAL COMPETENCY AMONG \u2026",
+        "pub_year": "2011",
+        "citation": "Journal of Human Capital Development (JHCD) 4 (2), 1-39, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:qjMakFHDy7sC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13497064533045137245",
+      "cites_id": [
+        "13497064533045137245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian stres dalam kalangan pelajar wanita program sarjana muda kejuruteraan di Universiti Tun Hussein Onn Malaysia (UTHM)",
+        "pub_year": "2009",
+        "citation": "Proceeding International Conference on Teaching and Learning in Higher Education, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7256168652815741368",
+      "cites_id": [
+        "7256168652815741368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of using visual graphics via interactive multimedia on learning of mathematics (straight line) at secondary school",
+        "pub_year": "2011",
+        "citation": "Journal of Technical, Vocational & Engineering Educational 3, 94-103, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:_kc_bZDykSQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13827656493382503768",
+      "cites_id": [
+        "13827656493382503768"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kesan penggunaan koswer terhadap tahap pencapaian pelajar berdasarkan gaya kognitif field independence-dependence",
+        "pub_year": "2009",
+        "citation": "International Conference On Teaching And Learning In Higher Education, 23-25, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16342858786558519156",
+      "cites_id": [
+        "16342858786558519156"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gaya Kognitif dan Visualisasi Pelajar Melalui Perisian Multimedia [Congnitive Style and Visualization of Students Through Multimedia Software]",
+        "pub_year": "2008",
+        "citation": "Masalah Pendidikan 31 (1), 181-192, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:0EnyYjriUFMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9786406210417303707",
+      "cites_id": [
+        "9786406210417303707"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi multimedia dalam pendidikan",
+        "pub_year": "1999",
+        "citation": "Jurnal Bahagian Teknologi Pendidikan (BTP) 1, 1-24, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1735420790046370768",
+      "cites_id": [
+        "1735420790046370768"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A theoretical review on Critical Success Factors (CSFs) of entrepreneurship programs in community college",
+        "pub_year": "2014",
+        "citation": "International Journal of Sustainable Development & World Policy 3 (6), 138-145, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13663366154826169193",
+      "cites_id": [
+        "13663366154826169193"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penguasaan kemahiran berpasukan menerusi penyertaan di dalam kokurikulum: satu tinjauan di Universiti Tun Hussein Onn Malaysia",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5344128763963488816",
+      "cites_id": [
+        "5344128763963488816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keupayaan Visualisasi Dan Daya Kognitif Pelajar Melalui Perisian Multimedia",
+        "pub_year": "2009",
+        "citation": "Kolej Universiti Teknologi Tun Hussein Onn (Kuittho). Seminar TVE 6, 137, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:UebtZRa9Y70C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12215283581903288582",
+      "cites_id": [
+        "12215283581903288582"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Field Dependence\u2013Independence Students And Animation Graphic Courseware Based Instruction",
+        "pub_year": "2007",
+        "citation": "IT in Education 1, 17, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:Se3iqnhoufwC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9386396225140330489",
+      "cites_id": [
+        "9386396225140330489"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conceptual framework for designing and developing a creativity enhancement module in education incorporating indigenous perspectives",
+        "pub_year": "2017",
+        "citation": "Pertanika Journal of Social Science and Humanities 25, 67-81, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:dhFuZR0502QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10746043303213664314",
+      "cites_id": [
+        "10746043303213664314"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kesan aplikasi pembelajaran berteraskan multimedia terhadap pelajar teknikal dari aspek gaya pembelajaran visual di politeknik Malaysia",
+        "pub_year": "2015",
+        "citation": "Universiti Tun Hussein Onn Malaysia, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5457408511430754304",
+      "cites_id": [
+        "5457408511430754304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Courseware Utilization to the Student\u2019s Achievement for Field Independence-dependence Cognitive Styles Student",
+        "pub_year": "2011",
+        "citation": "journal of technical, vocational & engineering education 4, 12-21, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17777063200880968906",
+      "cites_id": [
+        "17777063200880968906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknik pembelajaran andragogi dalam kalangan pelajar dewasa di Institusi Pengajian Tinggi Awam Kementerian Pengajian Tinggi Malaysia",
+        "pub_year": "2011",
+        "citation": "Project Report, Universiti Tun Hussein Onn Malaysia, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:blknAaTinKkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12538263799620893673",
+      "cites_id": [
+        "12538263799620893673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of Teaching and Learning Method with Multimedia Application Aided",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14929053268185581103",
+      "cites_id": [
+        "14929053268185581103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelaksanaan modul soft skills di Politeknik Kementerian Pengajian Tinggi Malaysia",
+        "pub_year": "2008",
+        "citation": "Seminar Kebangsaan Kemahiran Insaniah dan Kesejahteraan Sosial (SKIKS) 18, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:isC4tDSrTZIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11377004274615469997",
+      "cites_id": [
+        "11377004274615469997"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keupayaan Visualisasi pelajar melalui erisian animasi grafik",
+        "pub_year": "2007",
+        "citation": "Convention, Proceedings, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:f2IySw72cVMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9597019516935854129",
+      "cites_id": [
+        "9597019516935854129"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Facilitating torrance tests of creative thinking use in Malaysian TVET research: The initial step of inter-rater reliability determination",
+        "pub_year": "2019",
+        "citation": "Journal of Technical Education and Training 11 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:HDshCWvjkbEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13596720996516266294",
+      "cites_id": [
+        "13596720996516266294"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of mobile EEF learning system (MEEFLS) for mobile learning implementation in Kolej Poly-Tech MARA (KPTM)",
+        "pub_year": "2014",
+        "citation": "Development 1 (6183), 54, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14721151917377157577",
+      "cites_id": [
+        "14721151917377157577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan Virtual Learning Environment (VLE) oleh Guru-Guru di Sekolah Rendah",
+        "pub_year": "2013",
+        "citation": "Educational Technology Division 136, 91-107, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15775083790198479199",
+      "cites_id": [
+        "15775083790198479199"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian tentang Kesan Penggunaan Koswer Terhadap Tahap Pencapaian Pelajar Berdasarkan Gaya Kognitif Field Independence",
+        "pub_year": "2006",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:yD5IFk8b50cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8120374888084074379",
+      "cites_id": [
+        "8120374888084074379"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Comparison Level of Entrepreneurial Intention and Creative Thinking Skills Among Polytechnics Students in Malaysia",
+        "pub_year": "2022",
+        "citation": "Online Journal for TVET Practitioners 7 (1), 75-84, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11277379377144999433",
+      "cites_id": [
+        "11277379377144999433"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Understanding the Factors That Inhibit the Success of Indigenous Entrepreneurs in Malaysia",
+        "pub_year": "2020",
+        "citation": "International Journal of Research and Innovation in Social Science (IJRISS \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:a0OBvERweLwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6834016116002033623",
+      "cites_id": [
+        "6834016116002033623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Learning Based On Flipped Techniques Among The Technical Students With Different Learning Styles.",
+        "pub_year": "2019",
+        "citation": "International Journal of Psychosocial Rehabilitation 23 (3), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9506763603621648768",
+      "cites_id": [
+        "9506763603621648768"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kompetensi Guru Pelatih Keluaran Universiti Tun Hussein Onn Malaysia Terhadap Proses Pengajaran Amali Di Dalam Bengkel: Satu Tinjauan Dari Perspektif Guru Pembimbing",
+        "pub_year": "2010",
+        "citation": "World Congress on Teacher Education for TVET in conjunction with World \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:mB3voiENLucC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12263091880621386482",
+      "cites_id": [
+        "12263091880621386482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembelajaran berbantu komputer: aras penguasaan kemahiran pelajar dalam penyelesaian masalah",
+        "pub_year": "2005",
+        "citation": "Conference proceeding of 18th Convention of Education Technology, Terengganu \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:hMod-77fHWUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17139061763084160059",
+      "cites_id": [
+        "17139061763084160059"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Antara Efikasi Kendiri, Beban Tugas dan Masalah Kesihatan Mental dalam Kalangan Pensyarah Kolej Vokasional: Relationship Between Self-Efficacy, Workload and Mental \u2026",
+        "pub_year": "2022",
+        "citation": "Online Journal for TVET Practitioners 7 (1), 1-7, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13487424493919659441",
+      "cites_id": [
+        "13487424493919659441"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increased Interest among Malaysian Technical Students with Different Learning Styles.",
+        "pub_year": "2019",
+        "citation": "International Journal of Psychosocial Rehabilitation 23 (3), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1170534649893452347",
+      "cites_id": [
+        "1170534649893452347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola dan trenda dalam penyelidikan berkaitan dengan kreativiti atau pemikiran kreatif pada peringkat pasca ijazah di Malaysia",
+        "pub_year": "2016",
+        "citation": "Jurnal Pemikir Pendidikan 7, 73-88, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5130913118926220761",
+      "cites_id": [
+        "5130913118926220761"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keberkesanan Kerja Di Kalangan Pensyarah Politeknik Kulim Kedah: Amalan TQM Menentukan Prestasi Kerja Pensyarah",
+        "pub_year": "2005",
+        "citation": "Prosiding Seminar Pendidikan JPPG, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5415262534166449147",
+      "cites_id": [
+        "5415262534166449147"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of meeting management system for faculty of technical and vocational education",
+        "pub_year": "2021",
+        "citation": "Research and Innovation in Technical and Vocational Education and Training 1 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1297533926991689281",
+      "cites_id": [
+        "1297533926991689281"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Element of Research Skills for the Implementation of Research by Postgraduate Students in Malaysia",
+        "pub_year": "2021",
+        "citation": "International Journal of Innovation, Creativity and Change 15 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:lSLTfruPkqcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2708211564628194705",
+      "cites_id": [
+        "2708211564628194705"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ADDIE Model Application for Development of Teaching Material Based on Flipped Learning for Lecturer\u00e2\u20ac\u2122 s in Polytechnic",
+        "pub_year": "2020",
+        "citation": "Journal of Social Transformation and Regional Development 2 (3), 156-165, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4100845876206935109",
+      "cites_id": [
+        "4100845876206935109"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Usability evaluation successful factors (SFs) framework through entrepreneurship program at community college Malaysia: modified norminal group technique approach",
+        "pub_year": "2017",
+        "citation": "Pertanika Journal of Social Sciences & Humanities 25, 139-148, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13317014913271125542",
+      "cites_id": [
+        "13317014913271125542"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembangunan Kerangka Keupayaan Di Peringkat Komuniti Ke Arah Kelestarian Pelancongan Berasaskan Komuniti (community Based Tourisme) Di Malaysia",
+        "pub_year": "2012",
+        "citation": "Universiti Tun Hussein Onn Malaysia, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=497017281443029498",
+      "cites_id": [
+        "497017281443029498"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kesediaan guru pelatih terhadap penempatan di sekolah bukan pilihan: kajian ke atas guru pelatih tahun akhir Fakulti Pendidikan Teknikal, Universiti Tun Hussein Onn Malaysia",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16954122061425928086",
+      "cites_id": [
+        "16954122061425928086"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gaya Kognitif FI-FD Pelajar melalui Perisian Animasi Grafik",
+        "pub_year": "2007",
+        "citation": "TEKNOLOGI DAN INOVASI DALAM PENGAJARAN DAN PEMBELAJARAN, 22, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:u_35RYKgDlwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13098503417084182086",
+      "cites_id": [
+        "13098503417084182086"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancing Inclusive Education: Exploring the Impact of Teacher Competence and Individual Education Plan (RPI) on the Development of Hearing-Impaired Students and Health Risk in \u2026",
+        "pub_year": "2024",
+        "citation": "Journal of Chemical Health Risks 14 (1), 3098-3107, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experts\u2019 Opinion Matters! Green Technology Elements for Construction Technology in Vocational Colleges",
+        "pub_year": "2023",
+        "citation": "Journal of Technical Education and Training 15 (1), 167-177, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development Of Animated Learning Applications For Weathering Topics of Form 6 Geography",
+        "pub_year": "2022",
+        "citation": "Research and Innovation in Technical and Vocational Education and Training 2 \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Counter Application Trainer for Teaching Aids in Digital Electronic Course",
+        "pub_year": "2021",
+        "citation": "Jurnal Pendidikan Teknologi dan Kejuruan 27 (2), 109-116, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of 2D Home Safety Animation Applications for Primary School Students with Learning Disability ADHD",
+        "pub_year": "2021",
+        "citation": "Research and Innovation in Technical and Vocational Education and Training 1 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Model penjana kincir angin sebagai ABBM",
+        "pub_year": "2020",
+        "citation": "Penerbit UTHM 3, 10-20, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teaching Style among Science Teachers in Secondary Schools",
+        "pub_year": "2020",
+        "citation": "International Journal of Research and Innovation in Social Science 4 (8 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design Elements of Learning Materials",
+        "pub_year": "2018",
+        "citation": "Advanced Science Letters 24 (11), 8497-8499, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effectiveness of Product-Oriented Learning Among Technical Learners with Differing Cognitive Styles and Psychomotor Skills",
+        "pub_year": "2018",
+        "citation": "Advanced Science Letters 24 (11), 8103-8106, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flipped Learning Among KPT Technical Student: The Dominant Active Learning and Dimension",
+        "pub_year": "2018",
+        "citation": "Advanced Science Letters 24 (11), 8427-8429, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Product-Orientated Learning Efficacy among Technical Students",
+        "pub_year": "2017",
+        "citation": "PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES 25, 83-92, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelaksanaan pembelajaran melalui buku teks digital dalam memperkasakan pengajaran guru di sekolah",
+        "pub_year": "2017",
+        "citation": "Penerbit UTHM 1, 1-20, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:D03iK_w7-QYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IMPLIKASI PERKEMBANGAN MAKLUMAT DAN INGATAN DALAM \u2018EXPERIENTIAL LEARNING\u2019: SATU KAJIAN",
+        "pub_year": "2015",
+        "citation": "Seminar Kebangsaan Majlis Dekan-Dekan Pendidikan Universiti Awam Malaysia 2015, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "REKABENTUK KERANGKA CRISEP TERHADAP PROGRAM KEUSAHAWANAN KOLEJ KOMUNITI MALAYSIA.",
+        "pub_year": "2015",
+        "citation": "Seminar Kebangsaan Majlis Dekan-Dekan Pendidikan Universiti Awam Malaysia 2015, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Theoretical Review for Practicability of Mcgregor s Theory X and Y for Students Academic Performance",
+        "pub_year": "2014",
+        "citation": "Dr. Saifullizam Puteh, 465, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of Learning Style in Kolej Poly-Tech MARA (KPTM) via Mobile EEF Learning System (MEEFLS)",
+        "pub_year": "2014",
+        "citation": "International Journal of Electrical and Computer Engineering 8 (8), 2410-2413, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGGUNAAN BAHAN VISUAL DI KALANGAN GURU TEKNIKAL",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Persepsi ibu bapa terhadap pendidikan vokasional",
+        "pub_year": "2012",
+        "citation": "World Congress on Teacher Education for TVET, 5-6, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Keperluan Hidup: Strategi Untuk Membangunkan Kerangka Kediaman Hidup Warga Emas",
+        "pub_year": "2012",
+        "citation": "Universiti Tun Hussein Onn Malaysia, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEBERKESANAN ANIMASI GRAFIK DALAM KALANGAN PELAJAR BERBEZA GAYA KOGNITIF DAN KEBOLEHAN VISUALISASI SPATIAL",
+        "pub_year": "2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Educational Multifunctional Electronic Robotic Kit (EMERK)",
+        "pub_year": "2009",
+        "citation": "Universiti Tun Hussein Onn Malaysia, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi multimedia dalam pendidikan",
+        "pub_year": "2008",
+        "citation": "Penerbit Universiti Tun Hussein Onn Malaysia, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation graphic animation courseware in engineering subject'",
+        "pub_year": "2006",
+        "citation": "11th Annual International Conference: Shaping the Future of Science, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sikap Dan Pendapat Para Pelajar Sarjana Pendidikan Semester 3 Institut Teknologi Tun Hussein Onn (ITTHO) Tentang Perpustakaan Sebagai Gedung Ilmu: Satu Tinjauan: a Case Study",
+        "pub_year": "1999",
+        "citation": "Institut Teknologi Tun Hussein Onn, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEUPAYAAN VISUALISASI MELALUI PERISIAN ANIMASI",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kesan Kit Asas Pad dalam Kalangan Pelajar Teknikal yang Berbeza Gaya Kognitif di Kolej Vokasional KPM",
+        "citation": "PENYELIDIKAN, 820, 0"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEMAHIRAN EMPLOYABILITY DI KALANGAN PELAJAR KOLEJ KOMUNITI KEMENTERIAN PENGAJIAN TINGGI MALAYSIA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elektronik industri (BBT 3643): modul pembelajaran",
+        "citation": "Penerbit Universiti Tun Hussein Onn Malaysia., 0"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "& Position",
+        "citation": "Technology 25, 7-16, 0"
+      },
+      "filled": false,
+      "author_pub_id": "3XjW1RgAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

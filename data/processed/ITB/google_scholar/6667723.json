@@ -1,0 +1,241 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "AKiHipEAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "khairul hadi burhan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AKiHipEAAAAJ&citpid=3",
+  "affiliation": "Lecturer of Bioengineering, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Bioprocess",
+    "Fermentation",
+    "Pyrolysis",
+    "Levoglucosan",
+    "Pyrolysis sugar"
+  ],
+  "email_domain": "@office.itb.ac.id",
+  "citedby": 38,
+  "citedby5y": 33,
+  "hindex": 4,
+  "hindex5y": 3,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2016": 5,
+    "2017": 0,
+    "2018": 0,
+    "2019": 2,
+    "2020": 1,
+    "2021": 9,
+    "2022": 9,
+    "2023": 9,
+    "2024": 3
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of essential oil yield from melaleuca leucadendra l. leaves by lignocellulose degradation pre-treatment using filamentous fungi",
+        "pub_year": "2021",
+        "citation": "Journal of Bioresources and Bioproducts 6 (4), 379-386, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8599854976783359944",
+      "cites_id": [
+        "8599854976783359944"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kandungan DHA, EPA dan AA dalam Mikroalga Laut dari Spesies Spirulina platensis, Botryococcus braunii, Chlorella aureus dan Porphyridium cruentum yang Dikultivasi secara Heteretrof",
+        "pub_year": "2012",
+        "citation": "Skripsi. Fakultas Teknik, Universitas Indonesia 84, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2528379346431049536",
+      "cites_id": [
+        "2528379346431049536"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid-state fermentation of groundnut (Arachis hypogaea) shell using Trichoderma sp., tape yeast, and tempeh yeast to produce cellulase",
+        "pub_year": "2022",
+        "citation": "Journal of Applied Biology and Biotechnology 10 (4), 153-160, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3948159675959881436",
+      "cites_id": [
+        "3948159675959881436"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of simultaneous saccharification and fermentation of oil palm empty fruit bunches for xylitol production",
+        "pub_year": "2019",
+        "citation": "Bulletin of Chemical Reaction Engineering & Catalysis 14 (3), 559-567, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12996022399878211043",
+      "cites_id": [
+        "12996022399878211043"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data Communication using MQTT for Black Soldier Fly Larvae Monitoring System",
+        "pub_year": "2022",
+        "citation": "2022 8th International Conference on Wireless and Telematics (ICWT), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8615050924851447557",
+      "cites_id": [
+        "8615050924851447557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MODEL HIDRODINAMIKA BIOREAKTOR TANAMAN: KONSEP PERMEABILITAS",
+        "pub_year": "2015",
+        "citation": "Reaktor 15 (3), 154-164, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12810260726720455013",
+      "cites_id": [
+        "12810260726720455013"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of fluid flow in fixed-bed reactor models composed of spherical and porous tubular milli-sized particles",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2403 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3494258949736819207",
+      "cites_id": [
+        "3494258949736819207"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrodynamics of Fluid Flow in Fixed-Beds Composed of Sand Particles and Hollow Fiber Membrane Pipes",
+        "pub_year": "2020",
+        "citation": "Fluida 13 (1), 9-16, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2684502419873748624",
+      "cites_id": [
+        "2684502419873748624"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An Increase of Silicon Recovery from Oryza sativa L. Husk by Cow Rumen Fluid Treatment",
+        "pub_year": "2020",
+        "citation": "J. Biol. Sci. Technol. Manag 2, 30-38, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:ufrVoPGSRksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5719222134053237650",
+      "cites_id": [
+        "5719222134053237650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of meliponiculture Tetragonula laeviceps on productivity, physical, and chemical characteristics of tomatoes (Solanum lycopersicum)",
+        "pub_year": "2024",
+        "citation": "Journal of Research in Agriculture and Food Sciences 1 (1), 14-14, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic modeling, optimization of biomass and astaxanthin production in Spirogyra sp. under nitrogen and phosphorus deficiency",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Biotechnology 28 (4), 225-237, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of drying process of Ipomea batatas var. Cilembu Rancing using infrared radiation combined with air convection",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2623 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced Biomass and Astaxanthin Accumulation in Spirogyra sp. using Organic-Carbon Enriched Growth Medium",
+        "pub_year": "2023",
+        "citation": "Proceeding of The 3rd Joint Symposium on Plant Sciences and Products 2, 68, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "AKiHipEAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

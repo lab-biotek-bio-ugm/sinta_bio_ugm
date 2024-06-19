@@ -1,0 +1,858 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "_ZVCsOoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dian Siswanto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_ZVCsOoAAAAJ&citpid=2",
+  "affiliation": "Universitas Brawjaya",
+  "organization": 15077197145172930606,
+  "interests": [
+    "Fisiologi Tumbuhan"
+  ],
+  "email_domain": "@ub.ac.id",
+  "citedby": 414,
+  "citedby5y": 362,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "2013": 3,
+    "2014": 3,
+    "2015": 8,
+    "2016": 5,
+    "2017": 12,
+    "2018": 16,
+    "2019": 35,
+    "2020": 49,
+    "2021": 67,
+    "2022": 77,
+    "2023": 87,
+    "2024": 47
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mangrove conservation in East Java: the ecotourism development perspectives",
+        "pub_year": "2017",
+        "citation": "Journal of Tropical Life Science 7 (3), 277-285, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 115,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=468104625580180041",
+      "cites_id": [
+        "468104625580180041"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnomedicinal survey of plants used by local society in Poncokusumo district, Malang, East Java Province, Indonesia",
+        "pub_year": "2017",
+        "citation": "Asian Journal of Medical and Biological Research 3 (2), 158-167, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:ufrVoPGSRksC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=417203097821186467",
+      "cites_id": [
+        "417203097821186467"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sansevieria trifasciata and Chlorophytum comosum botanical biofilter for cigarette smoke phytoremediation in a pilot-scale experiment\u2014evaluation of multi-pollutant removal \u2026",
+        "pub_year": "2020",
+        "citation": "Air Quality, Atmosphere & Health 13, 109-117, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16062519057528736718",
+      "cites_id": [
+        "16062519057528736718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fostering coffee agroforestry for agrotourism development in degraded land in a buffer zone of a national park: A case study from Poncokusumo, Malang, Indonesia",
+        "pub_year": "2019",
+        "citation": "EurAsian Journal of BioSciences, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11205874000055953107",
+      "cites_id": [
+        "11205874000055953107"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Particulate matter and volatile organic compound phytoremediation by perennial plants: Affecting factors and plant stress response",
+        "pub_year": "2021",
+        "citation": "Science of the Total Environment 794, 148779, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:dhFuZR0502QC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15009120910029234615",
+      "cites_id": [
+        "15009120910029234615"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Euphorbia milii-Endophytic Bacteria Interactions Affect Hormonal Levels of the Native Host Differently Under Various Airborne Pollutants",
+        "pub_year": "2016",
+        "citation": "Molecular Plant-Microbe Interactions 29 (9), 663-673, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13704403759143527290",
+      "cites_id": [
+        "13704403759143527290"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uptake and degradation of trimethylamine by Euphorbia milii",
+        "pub_year": "2016",
+        "citation": "Environmental Science and Pollution Research 23, 17067-17076, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13563618565547622408",
+      "cites_id": [
+        "13563618565547622408"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Pertumbuhan Kayu Apu (Pistia stratiotes L.) Jagung (Zea mays L.) dan Kacang Tolo (Vigna sinensis L.) terhadap Pencemar Timbal (Pb)",
+        "pub_year": "2009",
+        "citation": "Malang: Universitas Brawijaya, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7274061936165910843",
+      "cites_id": [
+        "7274061936165910843"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design and construction of a vertical hydroponic system with semi-continuous and continuous nutrient cycling",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4635451533860586386",
+      "cites_id": [
+        "4635451533860586386"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reduction of cadmium uptake of rice plants using soil amendments in high cadmium contaminated soil: A pot experiment",
+        "pub_year": "2013",
+        "citation": "Journal of Tropical Life Science 3 (2), 132-137, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13412696524871842332",
+      "cites_id": [
+        "13412696524871842332"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The sacred plants and their support for conservation, Poncokusumo District, Malang Regency, East Java Indonesia.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2094097928455880210",
+      "cites_id": [
+        "2094097928455880210"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of trimethylamine uptake by Euphorbia milii: effect of inoculated bacteria",
+        "pub_year": "2016",
+        "citation": "Journal of Tropical Life Science 6 (2), 123-111, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3833466336277144545",
+      "cites_id": [
+        "3833466336277144545"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial activity of ferulic acid in Indonesian purple rice through toll-like receptor signaling",
+        "pub_year": "2021",
+        "citation": "Makara Journal of Science 25 (4), 7, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:qUcmZB5y_30C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13560773176302867792",
+      "cites_id": [
+        "13560773176302867792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of endophytic bacteria isolated from Ficus septica as phytoremediation promoting agent of Cr (VI) contaminated soil",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (5), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15666292853333832475",
+      "cites_id": [
+        "15666292853333832475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antifeedant effect of Moringa oleifera (L.) leaf and seed extract on growth and feeding activity of Spodoptera litura (Fab.)(Lepidoptera: Noctuidae)",
+        "pub_year": "2019",
+        "citation": "The Journal of Experimental Life Science 9 (1), 25-31, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9581973360394492051",
+      "cites_id": [
+        "9581973360394492051"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and estimated above ground biomass of shade trees in some coffee-based agroforestries, Banyuwangi Regency",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 598-604, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6941394391866284186",
+      "cites_id": [
+        "6941394391866284186"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Green technology innovation in a developing country",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16625059395165724280",
+      "cites_id": [
+        "16625059395165724280"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Status apel lokal Malang dan strategi konservasinya melalui pengembangan agrowisata",
+        "pub_year": "2009",
+        "citation": "Seminar Nasional Basic Science VI Di Universitas Brawijaya, Malang, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1368231175517471450",
+      "cites_id": [
+        "1368231175517471450"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suharjono.(2006). Komunitas Kapang Tanah di Lahan Kritis Berkapus DAS Brantas Pada Musim Kemarau",
+        "citation": "Bioscientiae. 3 (1): 1 14, 0"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6195556240910284698",
+      "cites_id": [
+        "6195556240910284698"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of growth regulators on betalain profile in callus culture of Celosia sp.",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743 (1), 012042, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:4DMP91E08xMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14413293667716472752",
+      "cites_id": [
+        "14413293667716472752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosistem pertanian apel lokal Malang",
+        "pub_year": "2011",
+        "citation": "The Journal of Experimental Life Science 1 (2), 95-101, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:WF5omc3nYNoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7561719091466689431",
+      "cites_id": [
+        "7561719091466689431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virtual prediction of purple rice ferulic acid as anti-inflammatory of TNF-\u03b1 signaling",
+        "pub_year": "2022",
+        "citation": "Berkala Penelitian Hayati 27 (2), 59-66, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:IWHjjKOFINEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8835727319764646355",
+      "cites_id": [
+        "8835727319764646355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Purple Rice Ferulic Acid as a Candidate for Anti-aging through the Inhibition of Collagenase and Tyrosinase Activities",
+        "citation": "Indonesian Journal of Chemistry, 0"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2610671418683240801",
+      "cites_id": [
+        "2610671418683240801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effectiveness of Various Types of Local Hydromacrophytes on the Phytore-mediation Process of Catfish Pond Wastewater using a Batch Culture System.",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Life Science 13 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:-f6ydRqryjwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9559284955264659844",
+      "cites_id": [
+        "9559284955264659844"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genomic profile of OsCOMT in Indonesian purple rice",
+        "pub_year": "2022",
+        "citation": "Biotropika: Journal of Tropical Biology 10 (3), 185-190, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:hC7cP41nSMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17359179042895151854",
+      "cites_id": [
+        "17359179042895151854"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Sago-Pulp Amylolytic Bacteria and Its Utilization for Granulated Fertilizer",
+        "pub_year": "2021",
+        "citation": "The Journal of Experimental Life Science 11 (2), 34-42, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7034406303773983624",
+      "cites_id": [
+        "7034406303773983624"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Sensitivity of Leersia hexandra Sw. to Gamma-Ray Irradiation",
+        "pub_year": "2021",
+        "citation": "The Journal of Experimental Life Science 11 (1), 6-9, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1003602829297215250",
+      "cites_id": [
+        "1003602829297215250"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface to the 9th International Conference on Global Resource Conservation (ICGRC) and AJI from Ritsumeikan University",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2119, 14, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=308056429518411979",
+      "cites_id": [
+        "308056429518411979"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A literature review on ethnobotanical, phytochemical, and pharmacological properties of Adonidia merrillii (Becc.) Becc.",
+        "pub_year": "2024",
+        "citation": "BERKALA PENELITIAN HAYATI JOURNAL OF BIOLOGICAL RESEARCHES 30 (1), 48-55, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity of indigenous and potential bacteria as bioremediator of palm oil mill secondary effluent (POMSE) by metagenomics assessment",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (3), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Birds species in coffee-based agroforestry for avitourism development in Kalipuro, Banyuwangi Regency",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3001 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Phytoene synthase 1 (PSY1) and capsanthin-capsorubin synthase (CCS) gene profile in chili peppers (Capsicum frutescens L.) Cakra Hijau, G1/M8 line, and HV-149",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3001 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dasar Fisiologi dan Molekuler Bioremediasi",
+        "pub_year": "2024",
+        "citation": "Universitas Brawijaya Press, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Invasive Alien Plant Species on Hiking Trails in Mount Prau, Indonesia",
+        "pub_year": "2024",
+        "citation": "BIO Web of Conferences 91, 01018, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of Fruit Color in Cakra Hijau, G1/M8 and HV-149 Chilli Pepper Cultivar: Physiology and Molecular Approach.",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Life Science 13 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shoot Culture of Ocimum sp. and Its Phytochemical Profile",
+        "pub_year": "2023",
+        "citation": "European Journal of Medicinal Plants 34 (8), 1-13, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani dan Konservasi Tradisional Sumber Air",
+        "pub_year": "2022",
+        "citation": "Universitas Brawijaya Press, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MAPPING OF SACRED AREA FOR BIRD DIVERSITY IN WESTERN AREA OF MT. SEMERU",
+        "pub_year": "2021",
+        "citation": "Journal of Environmental Engineering and Sustainable Technology 8 (2), 55-62, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The comparison of morphological characters and capsaicinoid contents of the 4th generation chili pepper genotypes G1/01 and G7/01 (Capsicum frutescens L.)",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743 (1), 012045, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Penyerapan Formaldehid dari Asap Rokok oleh Euphorbia milii Des Moul. dan Sansevieria trifasciata Prain Menggunakan Light Emitting Diode (LED) Merah-Biru",
+        "pub_year": "2020",
+        "citation": "Biotropika: Journal of Tropical Biology 8 (3), 144-151, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MAPPING OF SACRED AREA FOR BIRD DIVERSITY IN WESTERN AREA OF MT. SEMERU",
+        "pub_year": "2020",
+        "citation": "Journal of Environmental Engineering and Sustainable Technology 7 (1), 01-08, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing absorption of formaldehyde from cigarette smoke by Euphorbia milii Des Moul. and Sansevieria trifasciata Prain using red-blue light emitting diodes \u2026",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of ecosystem quality, comfort, and services of eco-friendly residences in Lowokwaru District, Malang",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012018, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Group Photo: The 9th International Conference on Global Resource Conservation (ICGRC) and AJI from Ritsumeikan University",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 010002, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas Kapang Tanah di Lahan Kritis Berkapur DAS Brantas Pada Musim Kemarau",
+        "pub_year": "2018",
+        "citation": "BIOSCIENTIAE 3 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adaptation of bunching onion (Allium fistulosum L.) to Bromo mountain environment in East Java, Indonesia.",
+        "pub_year": "2018",
+        "citation": "Agricultural Research Journal 55 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface: The 8th International Conference on Global Resource Conservation (ICGRC 2017)",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 010001, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conference Photo: The 8th International Conference on Global Resource Conservation (ICGRC 2017)",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 010002, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potentiality of Plant Combination for Removing Indoor Air Pollutants: Fundamental Physiology of Euphorbia milii, Sansevieria trifasciata, and Dieffenbachia seguine \u2013 A Review",
+        "pub_year": "2017",
+        "citation": "The 7th Annual Basic Science International Conference 1, 12-13, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Allergenity Test of Porang Bulb Variant (Amorphophallus oncophyllus Hook.) By ELISA Ig-E Method",
+        "pub_year": "2012",
+        "citation": "Natural B, Journal of Health and Environmental Sciences 1 (4), 386-394, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Agricultural Residues as Soil Amendments on Cadmium Uptake in Rice Plants",
+        "pub_year": "2012",
+        "citation": "Universitas Brawijaya, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Ferulic Acid as an Anti-virulence to Combat Pathogenic Bacteria",
+        "citation": "OPENING SPEECH RECTOR OF UNIVERSITAS BRAWIJAYA, 14, 0"
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation, Identification, and Efficacy a Promising Bacterium to Enhance Phytoremediation of Fishy Odor (Trimethylamine)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Alergenitas Varian Umbi Porang (Amorphophallus oncophyllus Hook.) dengan metode ELISA Ig-E",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penambahan \u201cKompos Diperkaya\u201d pada Media Tanam terhadap Pertumbuhan Tunas Tanaman Apel (Malus sylvestris Mill.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Kombinasi Lidah Mertua (Sansevieria trifasciata Prain) Dan Sri Rejeki (Dieffenbachia Seguine (Jacq.) Schott) Sebagai Alternatif Penetralisir Polusi Udara di Dalam \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Kualitas Buah dan Hara Makro Daun Apel Rome Beauty di Bumiaji, Batu, Malang",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Alergenitas Berbagai Varian Umbi Porang (Amorphophallus oncophyllus Hook.) dengan metode ELISA Ig-E",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Kerapatan Stomata Pada Tanaman Kacang Tanah (Arachis hypogaea l.) Varietas Peka dan Toleran Terhadap Serangan Jamur Karat Daun (Puccinia arachidis speg.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "_ZVCsOoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "KN6rl14AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Hadisunarso",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KN6rl14AAAAJ&citpid=2",
+  "affiliation": "Department of Biology, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Plant Physiology and genetics"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "homepage": "http://biologi.ipb.ac.id/web/en/faculty/profile/36/hadisunarso",
+  "citedby": 6,
+  "citedby5y": 1,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2005": 2,
+    "2006": 0,
+    "2007": 0,
+    "2008": 0,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 2,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 1
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isozyme polymorphisms for cultivar identification in Indonesian banana",
+        "pub_year": "2001",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "KN6rl14AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16644116104692632948",
+      "cites_id": [
+        "16644116104692632948"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isoenzyme Diversity on Bananas and Plantains from Germplasm Collection of Yogyakarta",
+        "pub_year": "1996",
+        "citation": "Current Status of Agricultural Biotechnology in Indonesia: Research \u2026, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "KN6rl14AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

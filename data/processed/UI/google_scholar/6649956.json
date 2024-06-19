@@ -1,0 +1,110 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "pDE7anMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Setiorini",
+  "affiliation": "Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Fakultas Matematika dan Ilmu Pengetahuan Alam"
+  ],
+  "email_domain": "@staff.ui.ac.id",
+  "citedby": 8,
+  "citedby5y": 8,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2021": 1,
+    "2022": 4,
+    "2023": 3
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of siam orange juice (Citrus nobilis Lour.) in extender on Garut Ram (Ovis aries L.) spermatozoa quality post-cryopreservation",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1442 (1), 012068, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pDE7anMAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10160036001112383912",
+      "cites_id": [
+        "10160036001112383912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of addition of selected amino acids in semen extender on quality and DNA stability of frozen-thawed Sumba Ongole bull spermatozoa.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pDE7anMAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=601570639489041487",
+      "cites_id": [
+        "601570639489041487"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of addition an amino acid or its combination with EDTA on DNA integrity and morphometry sperm heads of freeze-dried bovine spermatozoa.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pDE7anMAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7699559778387446973",
+      "cites_id": [
+        "7699559778387446973"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of siam orange (Citrus nobilis Lour.) and pineapple (Ananas comosus (L.) Merr.) juices combination in extender on Garut Ram (Ovis aries L.) spermatozoa quality post \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1442 (1), 012066, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pDE7anMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of Laser Assisted Hatching size on mice's (Mus musculus) of early blastocyst viability post vitrification as a rare endangered conservation effort",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (3), 376-380, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pDE7anMAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

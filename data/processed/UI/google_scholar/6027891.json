@@ -1,0 +1,536 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "7y2uHsMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Erwin Nurdin",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7y2uHsMAAAAJ&citpid=4",
+  "affiliation": "UI",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Freshwater Ecology"
+  ],
+  "email_domain": "@ui.ac.id",
+  "citedby": 96,
+  "citedby5y": 78,
+  "hindex": 6,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2010": 2,
+    "2011": 0,
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 4,
+    "2016": 1,
+    "2017": 0,
+    "2018": 3,
+    "2019": 2,
+    "2020": 18,
+    "2021": 8,
+    "2022": 16,
+    "2023": 21,
+    "2024": 12
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TpImGDAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mufti Petala Patria",
+      "affiliation": "Dept. of Biology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ZSYkKWYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Nisyawati, M.S",
+      "affiliation": "Departement Biology, Faculty of Mathematic and Natutal Sciences Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6LOMLkYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jatna Supriatna",
+      "affiliation": "Professor  of Biology, Faculty of Mathematics and Natural Sciences, Universitas Indonesia"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Floristic composition and structure of a peat swamp forest in the conservation area of the PT National Sago Prima, Selat Panjang, Riau, Indonesia",
+        "pub_year": "2014",
+        "citation": "Reinwardtia 14 (1), 193-210, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10418980105231147739",
+      "cites_id": [
+        "10418980105231147739"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Kelimpahan Mikroplastik pada Air, Insang dan Saluran Pencernaan Ikan Mujair Oreochromis mossambicus.(Peters, 1852) di Danau Kenanga dan Danau Agathis, Universitas \u2026",
+        "pub_year": "2021",
+        "citation": "PROSIDING SNAST, 1-10, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17564033475488889116",
+      "cites_id": [
+        "17564033475488889116"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree species diversity in the lowland forest of the core zone of the Bukit Duabelas National Park, Jambi, Indonesia",
+        "pub_year": "2016",
+        "citation": "Reinwardtia 15 (1), 11-26, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3805025010162827062",
+      "cites_id": [
+        "3805025010162827062"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kandungan Karbon di Hutan Rawa Gambut Kawasan Konservasi PT National Sogo Prima, Kepulauan Meranti, Riau",
+        "pub_year": "2013",
+        "citation": "LIPI, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8895407505123260624",
+      "cites_id": [
+        "8895407505123260624"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Kelimpahan Mikroplastik pada Ikan Sapu-sapu Pterygoplichthys pardalis (Castelnau, 1855), Air, dan Sedimen di Dua Daerah Ciliwung, Jakarta Selatan Analysis of \u2026",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14163709078369585748",
+      "cites_id": [
+        "14163709078369585748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tumbuhan sebagai bioindikator pencemaran udara oleh timbal",
+        "pub_year": "1991",
+        "citation": "Prosiding Seminar Hasil Penelitian Perguruan Tinggi. Direktorat Pembinaan \u2026, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:ufrVoPGSRksC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18147465687581650045",
+      "cites_id": [
+        "18147465687581650045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water quality analysis of Saluran Tarum Barat, West Java, based on National Sanitation Foundation-Water Quality Index (NSF-WQI)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012068, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:qjMakFHDy7sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5189771209725092496",
+      "cites_id": [
+        "5189771209725092496"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chiroptera population as bioindicators of urbanization and fragmented habitat in West Java",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1943 (1), 012068, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4517983262290354177",
+      "cites_id": [
+        "4517983262290354177"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Biodiversity of Birds in Land Covers of Wetlands on Jakarta\u2019s North Coast",
+        "pub_year": "2023",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 51-58, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11653462042071307346",
+      "cites_id": [
+        "11653462042071307346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HABITAT SUITABILITY SPATIAL MODEL OF NEAR THREATENED SUNDA TEAL ANAS GIBBERIFRONS (MULLER, 1842)(ANSERIFORMES: ANATIDAE) IN MUARA ANGKE WETLANDS, JAKARTA, INDONESIA",
+        "pub_year": "2022",
+        "citation": "Treubia 49 (1), 1-14, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:HDshCWvjkbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16507099977691596432",
+      "cites_id": [
+        "16507099977691596432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecology and microhabitat model of long-tongued fruit bat Macroglossus minimus (Chiroptera: Pteropididae) in karst ecosystem of Klapanunggal, Bogor, West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "International Journal of Tropical Drylands 6 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:IWHjjKOFINEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3958621391044729947",
+      "cites_id": [
+        "3958621391044729947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wild Mixed Culture Microalgae Biomass from UI Agathis Small Lake Harvested Directly using an Ultrasound Harvesting Module as Biofuel Raw Material.",
+        "pub_year": "2021",
+        "citation": "International Journal of Technology 12 (5), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717763241085901784",
+      "cites_id": [
+        "10717763241085901784"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Forest covers, land fire hotspots, and atmospheric pollutions (CO, SO2) in the lower Batanghari River Basin landscape during dry season (June-August 2021).",
+        "pub_year": "2021",
+        "citation": "Biodiversitas: Journal of Biological Diversity 22 (12), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2689561102250990458",
+      "cites_id": [
+        "2689561102250990458"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat Preference Modeling of Prehistoric Giant Shark Megalodon During Miocene in Bentang Formation of West Java Coast",
+        "pub_year": "2021",
+        "citation": "Jurnal Biodjati 6 (2), 264-272, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=180429263840439033",
+      "cites_id": [
+        "180429263840439033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat and distribution modeling of prehistoric hippos (Hippopotamus sivalensis spp.) during pleistocene in Java Island",
+        "pub_year": "2021",
+        "citation": "Jurnal Biodjati 6 (1), 93-101, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:roLk4NBRz8UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7702903631520711011",
+      "cites_id": [
+        "7702903631520711011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analyis of microplastics abundance in sailfin catfish Pterygoplichthys pardalis (Castelnau, 1855), water, and sediment in two Ciliwung areas, South Jakarta",
+        "pub_year": "2021",
+        "citation": "J. Kelaut. Dan Perikan. Terap. 4, 95-103, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16939609990886622356",
+      "cites_id": [
+        "16939609990886622356"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MODELING SHIFTING GEOGRAPHICAL DISTRIBUTIONS OF LEAST CONCERN ASIAN BRACKISH FROG FEJERVARYA CANCRIVORA (GRAVENHORST, 1829)(ANURA: DICROGLOSSIDAE) IN WEST JAVA, INDONESIA \u2026",
+        "pub_year": "2023",
+        "citation": "Treubia 50 (2), 71-86, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modeling understory shrub diversity related to environmental gradients using Akaike Information Criterion (AIC) in an urban forest in Jakarta, Indonesia",
+        "pub_year": "2023",
+        "citation": "Asian Journal of Forestry 7 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MODELLING THE POTENTIAL DISTRIBUTIONS OF SAWO KECIK (MANILKARA KAUKI (L.)) DUBARD USING MAXENT TO SUPPORT CONSERVATIONS OF HISTORICAL AND CULTURAL VEGETATIONS IN DAERAH \u2026",
+        "pub_year": "2023",
+        "citation": "Reinwardtia 22 (1), 55-67, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial diversity patterns of understory shrub community in Srengseng urban forest, Jakarta",
+        "pub_year": "2023",
+        "citation": "Jurnal Penelitian Kehutanan Wallacea 12 (1), 9-17, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "APPLICATIONS OF CONVEX POLYGON AND KERNEL DENSITY ANALYSES TO MODEL THE HOME RANGES OF EQUATORIAL SPITTING COBRA Naja sputatrix (BOIE, 1827) IN GREEN AREAS OF UNIVERSITAS \u2026",
+        "pub_year": "2023",
+        "citation": "Zoo Indonesia 31 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial models of suitable sandy substrates for brittle star community conservation in Sancang Coast, West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Indo Pacific Journal of Ocean Life 6 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LANDSCAPE ECOLOGY OF ENDEMIC BLACK-WINGED STARLING Acridotheres melanopterus tricolor (HORSFIELD, 1821) RELATED TO ENVIRONMENTAL FACTORS IN A TROPICAL SAVANNA OF INDONESIA",
+        "pub_year": "2022",
+        "citation": "Zoo Indonesia 31 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Benthic infaunal spatial biodiversity, coexistence, and availability for shorebird communities in the Jakarta Coastal Wetlands, Indonesia",
+        "pub_year": "2022",
+        "citation": "International Journal of Bonorowo Wetlands 12 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fire Hotspot and Particulate Matter (Pm2. 5) Distribution Patterns In Tropical Rainforest Ecosystems Of Batanghari River Basin In July 2021",
+        "pub_year": "2022",
+        "citation": "Biotropika: Journal of Tropical Biology 10 (1), 40-46, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemetaan Tutupan Mangrove Dan Potensi Stok Karbon Pada Kawasan Restorasi Tangkolak Di Pesisir Cilamaya, Karawang, Jawa Barat",
+        "pub_year": "2021",
+        "citation": "Gunung Djati Conference Series 6, 122-127, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "COMMUNITY STRUCTURE OF PHYTOPLANKTON AS WATER QUALITY BIOINDICATOR AT SITU TIPAR, DEPOK, JAWA BARAT",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FISH COMMUNITY STRUCTURE AS BIOINDICATOR OF WATER QUALITY IN SITU TIPAR, DEPOK, JAWA BARAT",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALYSIS OF PERIPHYTON COMMUNITY STRUCTURE ON MOLLUSC SHELL AS A BIOINDICATOR OF WATER QUALITY AT SITU TIPAR, DEPOK, WEST JAVA.",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALYSIS OF MICROPLASTICS ABUNDANCE IN WATER, SEDIMENT, AND DIGESTIVE TRACT AND GILLS OF AMAZON SAILFIN CATFISH Pterygoplichthys pardalis (Castelnau, 1855) IN SITU TIPAR, DEPOK \u2026",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrosphere occupancy modeling (\u03c8) and Akaike (AIC) habitat model selection of urban amphibian in West Java landscape",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021.04. 23.441117, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aerosphere occupancy (\u03c8) model of lesser short nosed fruit bat (Cynopterus brachyotis Muller, 1838) related to tree species in Asia mountainous paddy fields",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021.02. 08.430234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Akaike model selections of the vegetation structures and aerosphere factors in supporting lesser short nosed fruit bat (Cynopterus brachyotis Muller, 1838 \u2026",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021.02. 03.429676, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7y2uHsMAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

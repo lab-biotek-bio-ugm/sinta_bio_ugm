@@ -1,0 +1,2561 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "pubbG34AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Nia Kurniawan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pubbG34AAAAJ&citpid=3",
+  "affiliation": "University of Brawijaya",
+  "organization": 15077197145172930606,
+  "interests": [
+    "Herpetology",
+    "Vertebrate Taxonomy",
+    "Population genetics"
+  ],
+  "email_domain": "@ub.ac.id",
+  "citedby": 1077,
+  "citedby5y": 853,
+  "hindex": 20,
+  "hindex5y": 17,
+  "i10index": 31,
+  "i10index5y": 30,
+  "cites_per_year": {
+    "2010": 5,
+    "2011": 8,
+    "2012": 10,
+    "2013": 3,
+    "2014": 11,
+    "2015": 19,
+    "2016": 28,
+    "2017": 42,
+    "2018": 75,
+    "2019": 106,
+    "2020": 130,
+    "2021": 171,
+    "2022": 175,
+    "2023": 182,
+    "2024": 76
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic divergences of South and Southeast Asian frogs: a case study of several taxa based on 16S ribosomal RNA gene data with notes on the generic name Fejervarya",
+        "pub_year": "2014",
+        "citation": "Turkish Journal of Zoology 38 (4), 389-411, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:IWHjjKOFINEC",
+      "num_citations": 59,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042383209036965119",
+      "cites_id": [
+        "7042383209036965119"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic divergence and reproductive isolation in the genus Fejervarya (Amphibia: Anura) from Bangladesh inferred from morphological observations, crossing experiments, and \u2026",
+        "pub_year": "2008",
+        "citation": "Zoological science 25 (11), 1084-1105, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:qjMakFHDy7sC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1095647982174602332",
+      "cites_id": [
+        "1095647982174602332"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Komunitas Serangga Nokturnal Areal Pertanian Padi Organik pada Musim Penghujan di Kecamatan Lawang, Kabupaten Malang.",
+        "pub_year": "2013",
+        "citation": "Biotropika: Journal of Tropical Biology 1 (4), 186-190, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:70eg2SAEIzsC",
+      "num_citations": 52,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13505160379770420752",
+      "cites_id": [
+        "13505160379770420752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic divergence and evolutionary relationship in Fejervarya cancrivora from Indonesia and other Asian countries inferred from allozyme and mtDNA sequence analyses",
+        "pub_year": "2010",
+        "citation": "Zoological Science 27 (3), 222-233, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 44,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4922168170272197258",
+      "cites_id": [
+        "4922168170272197258"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eksplorasi Jenis-Jenis Amfibi di Kawasan OWA Cangar dan Air Terjun Watu Ondo, Gunung Welirang, TAHURA R. Soerjo",
+        "pub_year": "2014",
+        "citation": "Biotropika: Journal of Tropical Biology 2 (2), 103-108, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5715651775430204326",
+      "cites_id": [
+        "5715651775430204326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Within\u2010island diversification underlies parachuting frog (Rhacophorus) species accumulation on the Sunda Shelf",
+        "pub_year": "2018",
+        "citation": "Journal of Biogeography 45 (4), 929-940, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:WF5omc3nYNoC",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2774411722019959308",
+      "cites_id": [
+        "2774411722019959308"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ornitologi: sejarah, biologi, dan konservasi",
+        "pub_year": "2017",
+        "citation": "Universitas Brawijaya Press, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10862858765802170089",
+      "cites_id": [
+        "10862858765802170089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Taxonomic Revision of the Philautus (Anura: Rhacophoridae) of Sumatra with the Description of Four New Species",
+        "pub_year": "2017",
+        "citation": "Herpetological Monographs 31 (1), 98-141, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:_xSYboBqXhAC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519942931311272383",
+      "cites_id": [
+        "17519942931311272383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Two new species of Cyrtodactylus (Squamata: Gekkonidae) from the southern Bukit Barisan Range of Sumatra and an estimation of their phylogeny",
+        "pub_year": "2015",
+        "citation": "Zootaxa 4020 (3), 495-516, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4319654987145772480",
+      "cites_id": [
+        "4319654987145772480"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Taxonomic status of three types of Fejervarya cancrivora from Indonesia and other Asian countries based on morphological observations and crossing experiments",
+        "pub_year": "2011",
+        "citation": "Zoological Science 28 (1), 12-24, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4761951673813956114",
+      "cites_id": [
+        "4761951673813956114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new genus and two new species of arboreal toads from the highlands of Sumatra with a phylogeny of Sundaland toad genera",
+        "pub_year": "2017",
+        "citation": "Herpetologica 73 (1), 63-75, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9741212658620227343",
+      "cites_id": [
+        "9741212658620227343"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Taxonomic Status of the Sumatran Pitviper Trimeresurus (Popeia) toba David, Petri, Vogel & Doria, 2009 (Squamata: Viperidae) and Other Sunda Shelf Species of the \u2026",
+        "pub_year": "2016",
+        "citation": "Journal of Herpetology 50 (4), 633-641, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:HDshCWvjkbEC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7897551170621891612",
+      "cites_id": [
+        "7897551170621891612"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three new species of Pseudocalotes (Squamata: Agamidae) from southern Sumatra, Indonesia",
+        "pub_year": "2014",
+        "citation": "Zootaxa 3841 (2), 211-238, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18173293546478789727",
+      "cites_id": [
+        "18173293546478789727"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endemic Dragons of Sumatra's Volcanoes: New Species of Dendragama (Squamata: Agamidae) and Status of Salea rosaceum Thominot",
+        "pub_year": "2017",
+        "citation": "Herpetological Monographs 31 (1), 69-97, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:lSLTfruPkqcC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12966179431062109730",
+      "cites_id": [
+        "12966179431062109730"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conservation challenges regarding species status assessments in biogeographically complex regions: examples from overexploited reptiles of Indonesia",
+        "pub_year": "2017",
+        "citation": "Oryx 51 (4), 627-638, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14633004549351951779",
+      "cites_id": [
+        "14633004549351951779"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mitochondrial DNA reveals a new species of parachuting frog (Rhacophoridae: Rhacophorus) from Sumatra",
+        "pub_year": "2014",
+        "citation": "Zootaxa 3878 (4), 351-356, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2629692728898330527",
+      "cites_id": [
+        "2629692728898330527"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversification of bent-toed geckos (Cyrtodactylus) on Sumatra and west Java",
+        "pub_year": "2019",
+        "citation": "Molecular Phylogenetics and Evolution 134, 1-11, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6888393735409967306",
+      "cites_id": [
+        "6888393735409967306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new species of Pseudocalotes (Squamata: Agamidae) from the Bukit Barisan Range of Sumatra with an estimation of its phylogeny",
+        "pub_year": "2017",
+        "citation": "Zootaxa 4276 (2), 215-232, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:ufrVoPGSRksC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3234428981490026236",
+      "cites_id": [
+        "3234428981490026236"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Redescription Cyrtodactylus lateralis (Werner)(Squamata: Gekkonidae) and phylogeny of the prehensile-tailed Cyrtodactylus",
+        "pub_year": "2016",
+        "citation": "Zootaxa 4107 (4), 517-540, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:rO6llkc54NcC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15466821341909143115",
+      "cites_id": [
+        "15466821341909143115"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insect as Biological Indicator from Protected to The Disturb Landscape in Central Java Indonesia",
+        "pub_year": "2011",
+        "citation": "AGRIVITA Journal of Agricultural Science 33 (1), 75-84, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:-f6ydRqryjwC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7392094820495517627",
+      "cites_id": [
+        "7392094820495517627"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Composition, distribution, and habitat type of snakes in Java, with discussion on the impact of human-snake interactions during 2013\u20132019",
+        "pub_year": "2021",
+        "citation": "Herpetology Notes 14, 691-711, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:k_IJM867U9cC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10752619627577531507",
+      "cites_id": [
+        "10752619627577531507"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogeography of montane dragons could shed light on the history of forests and diversification processes on Sumatra",
+        "pub_year": "2020",
+        "citation": "Molecular Phylogenetics and Evolution 149, 106840, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:pqnbT2bcN3wC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14697406017635325307",
+      "cites_id": [
+        "14697406017635325307"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of butterflies in tourism diversification product: Case study at Coban Rais waterfall, Batu, East Java",
+        "pub_year": "2016",
+        "citation": "Journal of Indonesian Tourism and Development Studies 4 (3), 115-122, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:mB3voiENLucC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7630954959514671615",
+      "cites_id": [
+        "7630954959514671615"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synchronous diversification of parachuting frogs (Genus Rhacophorus) on Sumatra and Java",
+        "pub_year": "2018",
+        "citation": "Molecular phylogenetics and evolution 123, 101-112, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:YFjsv_pBGBYC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11732071646532188482",
+      "cites_id": [
+        "11732071646532188482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi burung-burung yang diperdagangkan di pasar burung splendid, kota malang",
+        "pub_year": "2015",
+        "citation": "Jurnal Biotropika 3 (1), 7-11, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:BqipwSGYUEgC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10547986177774335782",
+      "cites_id": [
+        "10547986177774335782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh pemberian variasi makanan terhadap pertumbuhan ikan lele (Clarias gariepinus)",
+        "pub_year": "2013",
+        "citation": "Jurnal Biotropika 1 (3), 114-118, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:a0OBvERweLwC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16745069036430447678",
+      "cites_id": [
+        "16745069036430447678"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new species of Wolf Snake of the genus Lycodon H. Boie in Fitzinger (Squamata: Colubridae) from the Aceh Province of northern Sumatra, Indonesia",
+        "pub_year": "2017",
+        "citation": "Zootaxa 4276 (4), 539\u2013553-539\u2013553, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:blknAaTinKkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11091879055889143857",
+      "cites_id": [
+        "11091879055889143857"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eksplorasi ektoparasit pada ikan famili Cyprinidae di kolam rumah makan wilayah Malang Raya",
+        "pub_year": "2014",
+        "citation": "Biotropika: Journal of Tropical Biology 2 (2), 87-91, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6134442528419284042",
+      "cites_id": [
+        "6134442528419284042"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New species, diversity, systematics, and conservation assessment of the Puppet Toads of Sumatra (Anura: Bufonidae: Sigalegalephrynus)",
+        "pub_year": "2019",
+        "citation": "Zootaxa 4679 (2), 365\u2013391-365\u2013391, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:2P1L_qKh6hAC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13723768248422524104",
+      "cites_id": [
+        "13723768248422524104"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Checklist of the Herpetofauna of Nusa Kambangan Island, Central Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Tropical Life Sciences Research 33 (2), 91, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15767288924609611780",
+      "cites_id": [
+        "15767288924609611780"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendekatan fenetik taksonomi dalam identifikasi kekerabatan dan pengelompokkan ikan Genus Tor di Indonesia",
+        "pub_year": "2014",
+        "citation": "Bioedukasi 7 (1), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5476982076107196075",
+      "cites_id": [
+        "5476982076107196075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sumatra's Endemic Crested Dragons (Agamidae: Lophocalotes): A New Species from the Bukit Barisan Range, Comments on Lophocalotes ludekingi, and Ecology",
+        "pub_year": "2018",
+        "citation": "Herpetologica 74 (1), 73-88, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:4DMP91E08xMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5684515117080911503",
+      "cites_id": [
+        "5684515117080911503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coalescent species delimitation of a Sumatran parachuting frog",
+        "pub_year": "2018",
+        "citation": "Zoologica Scripta 47 (1), 33-43, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=967458388599929471",
+      "cites_id": [
+        "967458388599929471"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bird assemblage and preference to Tengger sacred trees: Conservation insights from Tengger Tribe, Indonesia",
+        "pub_year": "2017",
+        "citation": "Indonesian Journal of Environment and Sustainable Development 8 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4826750937150502871",
+      "cites_id": [
+        "4826750937150502871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Avifaunal Diversity and Community Structure in Universitas Brawijaya Forest, East Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 6 (1), 58335, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9394533791609620243",
+      "cites_id": [
+        "9394533791609620243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Harvesting trends of Amboina box turtles (Cuora amboinensis) seventeen years after listing in Appendix II CITES",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:8k81kl-MbHgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4315310862340108080",
+      "cites_id": [
+        "4315310862340108080"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation on the Legal Trade of Tokay gecko (Lacertidae; Gekkonidae; Gekko gecko Linnaeus, 1758) in Indonesia.",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Life Science 11 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5744619978567882300",
+      "cites_id": [
+        "5744619978567882300"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of water quality based on macrozoobenthos as a bioindicator in the four springs of Wana Wiyata Widya Karya Tourism Area, Cowek Village, Purwodadi District, Pasuruan \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of Indonesian Tourism and Development Studies 8 (1), 1-8, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:0EnyYjriUFMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3946365800087812189",
+      "cites_id": [
+        "3946365800087812189"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Article ZOOTAXA",
+        "pub_year": "2020",
+        "citation": "Zootaxa 4830 (1), 186-196, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17290238257033863721",
+      "cites_id": [
+        "17290238257033863721"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phoxophrys After 60 Years: Review of Morphology, Phylogeny, Status of Pelturagonia, and a New Species from Southeastern Kalimantan",
+        "pub_year": "2019",
+        "citation": "Herpetological Monographs 33 (1), 71-107, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:TFP_iSt0sucC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10034863320030745954",
+      "cites_id": [
+        "10034863320030745954"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration of herpetofauna habitat as tourism attraction: ecology, preferences, and potentials",
+        "pub_year": "2018",
+        "citation": "Journal of Indonesian Tourism and Development Studies 6 (1), 1-8, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:GnPB-g6toBAC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11874791042851609668",
+      "cites_id": [
+        "11874791042851609668"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Various vegetation modifies the diversity of herpetofauna in Wonosobo agricultural landscape",
+        "pub_year": "2017",
+        "citation": "Journal of Environmental Engineering and Sustainable Technology 4 (2), 138-142, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:J_g5lzvAfSwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12578088853611134086",
+      "cites_id": [
+        "12578088853611134086"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Why Did the Population of the Olive Ridley Turtle Lepidochelys olivacea (Eschscholtz, 1829) Increase in Alas Purwo National Park\u2019s Beach, East Java, Indonesia?",
+        "pub_year": "2020",
+        "citation": "Russian Journal of Marine Biology 46 (5), 338-345, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8656492986385509924",
+      "cites_id": [
+        "8656492986385509924"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Threat of Appendix CITES-Listed Turtles Harvesting in Central Borneo and South Sumatra.",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Life Science 10 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=606744457928027684",
+      "cites_id": [
+        "606744457928027684"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impacts of the Toba eruption and montane forest expansion on diversification in Sumatran parachuting frogs (Rhacophorus)",
+        "pub_year": "2020",
+        "citation": "Molecular Ecology 29 (16), 2994-3009, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8984127494218333411",
+      "cites_id": [
+        "8984127494218333411"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The predicted distribution of Javan munia (Lonchura leucogastroides) in Indonesia based of behavior analysis in Kalibaru, Banyuwangi, East Java",
+        "pub_year": "2013",
+        "citation": "Biotropika: Journal of Tropical Biology 1 (1), 1-5, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3281915227987440460",
+      "cites_id": [
+        "3281915227987440460"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity analysis and phylogeography of Osteochilus spilurus (Cyprinidae: Labeoninae) from Bangka, Belitung, and Kalimantan Islands using Cytochrome b gene",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (9), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:tS2w5q8j5-wC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4089599003653023566",
+      "cites_id": [
+        "4089599003653023566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Out of Indochina: confirmed specimen record and first molecular identification of Psammophis indochinensis Smith, 1943 (Squamata, Psammophiidae) from Bali, Indonesia",
+        "pub_year": "2021",
+        "citation": "Check List 17 (6), 1521-1531, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:NhqRSupF_l8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15006269151493125986",
+      "cites_id": [
+        "15006269151493125986"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fishermen's Perspective on Herpetofauna: A Case Study from Kuala Tungkal, Tanjung Jabung Barat, Jambi.",
+        "pub_year": "2018",
+        "citation": "Journal of Tropical Life Science 8 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5806373805788493081",
+      "cites_id": [
+        "5806373805788493081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Speciation and zoogeography of amphibian in Sundaland",
+        "pub_year": "2015",
+        "citation": "Berkala Penelitian Hayati 21 (1), 1-7, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8231583543474591912",
+      "cites_id": [
+        "8231583543474591912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic divergence and geographic distribution of frogs in genus Fejervarya from Indonesia inferred from mitochondrial 16S rRNA gene analysis",
+        "pub_year": "2014",
+        "citation": "Treubia 41, 1-16, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=242163828218424746",
+      "cites_id": [
+        "242163828218424746"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new species of Theloderma Tschudi, 1838 (Amphibia: Rhacoporidae) from Central Java allied to T. horridum (Boulenger, 1903)",
+        "pub_year": "2023",
+        "citation": "Asian Herpetological Research 14 (1), 1-23A, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:D_sINldO8mEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=392072178797464308",
+      "cites_id": [
+        "392072178797464308"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Another New Bent-toed Gecko, genus Cyrtodactylus Gray 1837 (Squamata: Gekkonidae), from Borneo.",
+        "pub_year": "2021",
+        "citation": "Zootaxa 5026 (2), 286-300, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1506514507641360450",
+      "cites_id": [
+        "1506514507641360450"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Minnow trap color effectiveness test using cat food bait as aquatic sampling gear on diurnal fish in Gajah Mungkur Reservoir, Cental Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "The Journal of Experimental Life Science 11 (1), 15-20, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:ldfaerwXgEUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14314016398921573263",
+      "cites_id": [
+        "14314016398921573263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Communities structure of fish in some mangrove ecosystem as a result of the restoration in southern beach of Malang, East Java Indonesia",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1665 (1), 012020, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:O3NaXMp0MMsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12016908744511081329",
+      "cites_id": [
+        "12016908744511081329"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record of Ahaetulla mycterizans (Linnaeus, 1758)(Serpentes: Colubridae) from the Lesser Sunda region, Indonesia, based on molecular and morphological identification",
+        "pub_year": "2020",
+        "citation": "Turkish Journal of Zoology 44 (1), 11-21, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5331386726126807832",
+      "cites_id": [
+        "5331386726126807832"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The morphological characters of the Malayan pit viper Calloselasma rhodostoma (Kuhl, 1824): on the cephalic scalation and distribution status in Indonesia",
+        "pub_year": "2018",
+        "citation": "The Journal of Experimental Life Science 8 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:r0BpntZqJG4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9231851550571950548",
+      "cites_id": [
+        "9231851550571950548"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic analysis of colubrid snakes based on 12S rDNA reveals distinct lineages of Dendrelaphis pictus (Gmelin, 1789) populations in Sumatra and Java",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (1), 303-310, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Zph67rFs4hoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4897352051775278928",
+      "cites_id": [
+        "4897352051775278928"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A suite of potentially amplifiable microsatellite loci for ten reptiles of conservation concern from Africa and Asia",
+        "pub_year": "2016",
+        "citation": "Conservation Genetics Resources 8, 307-311, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7564041588977025894",
+      "cites_id": [
+        "7564041588977025894"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Found but forgotten: on the records, misidentification, and potential rediscovery of the rare bromo Tengger Semeru mountain endemic snake (Serpentes: Colubridae: Tetralepis \u2026",
+        "pub_year": "2023",
+        "citation": "Russian Journal of Herpetology 30 (4), 249-254, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Y5dfb0dijaUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13433740907379634596",
+      "cites_id": [
+        "13433740907379634596"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species identification of echinoderms from Gili Ketapang Island by combining morphology and molecular data",
+        "pub_year": "2023",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 16 (1), 135-150, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16206793156014475529",
+      "cites_id": [
+        "16206793156014475529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA barcoding of the most common marine ornamental fish species spilled over from a small-sized marine protected area, Bali Barat National Park, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17542404045164516687",
+      "cites_id": [
+        "17542404045164516687"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of acute toxicity of commercial organophosphate insecticide based on chlorpyrifos on Fejervarya limnocharis tadpoles (Anura: Dicroglossidae): Acute toxicity of \u2026",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Life Science 12 (2), 231-240, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:p2g8aNsByqUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5069923366991338002",
+      "cites_id": [
+        "5069923366991338002"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological characters review on white-lipped frog (Chalcorana chalconota; Schelgel, 1837) based on morphometrical analysis, within the population of Java",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743 (1), 012037, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:hMod-77fHWUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11224112009928796021",
+      "cites_id": [
+        "11224112009928796021"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A New Angle-Headed Dragon (Agamidae: Gonocephalus) from Montane Forests of the Southern Bukit Barisan Range of Sumatra",
+        "pub_year": "2021",
+        "citation": "Herpetologica 77 (1), 94-109, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1471746253064896179",
+      "cites_id": [
+        "1471746253064896179"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A recent harvest monitoring of Cuora amboinensis in Sumatra and Kalimantan",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Environment and Sustainable Development 12 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:SdhP9T11ey4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16367105031708533947",
+      "cites_id": [
+        "16367105031708533947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Prediction of Malayan Krait (Bungarus candidus) PLA2 Epitope",
+        "pub_year": "2020",
+        "citation": "Systematic Reviews in Pharmacy 11 (10), 537-548, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:M05iB0D1s5AC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14584055687004449198",
+      "cites_id": [
+        "14584055687004449198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of species richness and structure community of herpetofauna on Kondang Merak Forest, Malang, Indonesia",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 6th International Conference on Advanced Molecular \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:RGFaLdJalmkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12370493390704833192",
+      "cites_id": [
+        "12370493390704833192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA barcoding as a method for species identification: case study in Ahaetulla snake",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1374 (1), 012011, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8447211642734243729",
+      "cites_id": [
+        "8447211642734243729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transoceanic Disperse of the White-lipped Island Pit Viper (Cryptelytrops insularis; Kramer, 1997) from Sundaland to Lesser Sunda, Indonesia",
+        "pub_year": "2019",
+        "citation": "J. Exp. Life Sci. Vol 9 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4231839478879540583",
+      "cites_id": [
+        "4231839478879540583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microhabitat assessment of mangrove pit viper Cryptelytrops purpureomaculatus in restricted mangrove area, Dumai, Riau Province, Sumatera",
+        "pub_year": "2017",
+        "citation": "Journal of Tropical Life Science 7 (2), 91-94, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:SeFeTyx0c_EC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14862625485548275586",
+      "cites_id": [
+        "14862625485548275586"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary Observation On Nesting Ecology Of Endangered Brown-Cheeked Bulbul (Alophoixus Bres) In Jatimulyo Agroforestry",
+        "pub_year": "2023",
+        "citation": "Treubia 50 (1), 39-44, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:HE397vMXCloC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6220185838703538286",
+      "cites_id": [
+        "6220185838703538286"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Accumulation of Microplastics in the Digestive Tract and Gonads and its Effects on Gonad Quality of Sea Urchins Tripneustes gratilla",
+        "pub_year": "2023",
+        "citation": "Biotropika: Journal of Tropical Biology 11 (1), 53-63, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:wbdj-CoPYUoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12180762972199203364",
+      "cites_id": [
+        "12180762972199203364"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric analysis of Sumatran, Kalimantan, and Javan Cyrtodactylus, which were labelled as Cyrtodactylus marmoratus, revealed undescribed species",
+        "pub_year": "2022",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 7 (3), 66688, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:PR6Y55bgFSsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2758023831400892184",
+      "cites_id": [
+        "2758023831400892184"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New Record of Echinoderms from Gili Ketapang Island by Combining DNA Barcoding and Morphology: A Baseline Report",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:geHnlv5EZngC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14905100393676049787",
+      "cites_id": [
+        "14905100393676049787"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virtual prediction of potential immunogenic epitope of candoxin protein from Malayan krait (Bungarus candidus) venom",
+        "pub_year": "2022",
+        "citation": "Journal of Pharmacy & Pharmacognosy Research 10 (6), 1046-1057, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:sSrBHYA8nusC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6717590237271358188",
+      "cites_id": [
+        "6717590237271358188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of riparian vegetation diversity as a tuntong laut (Batagur borneoensis) habitat in River Tamiang, Aceh Tamiang, Aceh Province, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743 (1), 012057, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=551318569276730326",
+      "cites_id": [
+        "551318569276730326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Congruent demographic responses to Pleistocene geological processes in Sumatran parachuting frogs: a comparison of target-capture and ddRADseq for population genomic analyses",
+        "pub_year": "2019",
+        "citation": "bioRxiv, 843664, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5317218553822361424",
+      "cites_id": [
+        "5317218553822361424"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community Structure of Coral Reef at Pasir Putih Beach in Situbondo East Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Journal of Indonesian Tourism and Development Studies 7 (1), 32-38, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Se3iqnhoufwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18462742620296712",
+      "cites_id": [
+        "18462742620296712"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survey study greenbelt species of natural Triangulasi Alas Purwo National Park (TN-AP) Banyuwangi Regency, East Java, Indonesia.",
+        "pub_year": "2018",
+        "citation": "International Journal of Agriculture and Forestry 8 (4), 139-143, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Tiz5es2fbqcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16067696026775206891",
+      "cites_id": [
+        "16067696026775206891"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Understanding Snake Bite Cases Pattern Related to Volcano-Seismic Activity: An Evidence in Bondowoso, Indonesia",
+        "pub_year": "2017",
+        "citation": "Biotropika: Journal of Tropical Biology 5 (3), 102-109, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:vV6vV6tmYwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13233002961388207941",
+      "cites_id": [
+        "13233002961388207941"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic Patterns of Genus Megophrys (Anura: Megophryidae) from Java and Sumatra",
+        "pub_year": "2017",
+        "citation": "The Journal of Experimental Life Science 7 (2), 76-83, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6530728403983871012",
+      "cites_id": [
+        "6530728403983871012"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetics and Biogeography of Cobra (Squamata: Naja) in Java, Sumatra, and Other Asian Region",
+        "pub_year": "2017",
+        "citation": "The Journal of Experimental Life Science 7 (2), 94-101, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4687698241379366716",
+      "cites_id": [
+        "4687698241379366716"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "From little known area to the extinction race: A survey of herpetofauna in Prevab, Kutai National Park (KNP), Indonesia",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5823829541118001683",
+      "cites_id": [
+        "5823829541118001683"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pupuk Organik Cair Pada Pola Kunjungan Serangga Di Perkebunan Apel (Malussylvestris Mill.) Pasca Erupsigunung Kelud",
+        "pub_year": "2017",
+        "citation": "BUANA SAINS 16 (1), 33-44, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6752352222390798142",
+      "cites_id": [
+        "6752352222390798142"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keberagaman Spesies Katak Pohon Hijau Papua Litoria infrafrenata infrafrenata Tyler, 1971 pada Wilayah Kepulauan",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Environment and Sustainable Development 7 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:35N4QoGY0k4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13284184948547477715",
+      "cites_id": [
+        "13284184948547477715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conservation of Fejervarya cancrivora by artificial reproduction",
+        "pub_year": "2009",
+        "citation": "Seminar Nasional Biologi XX dan Kongres PBI XIV UIN Maliki Malang, 475, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8779167788231050154",
+      "cites_id": [
+        "8779167788231050154"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of Soil Arthropod Diversity and Community Structure in Various Types of Land Cover in Malang Region, East Java, Indonesia",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (3), 79496, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:5awf1xo2G04C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4097840877308617996",
+      "cites_id": [
+        "4097840877308617996"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An in-silico study on the chemical compounds from Macrophiothrix longipedia as antiviral compounds against COVID-19.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:N5tVd3kTz84C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16721814877793475197",
+      "cites_id": [
+        "16721814877793475197"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of mudskipper species in mangrove area of Luwu Timur, Luwu Utara, and Wajo South Sulawesi Indonesia",
+        "pub_year": "2023",
+        "citation": "Biotropika: Journal of Tropical Biology 11 (2), 74-83, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:WA5NYHcadZ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8604585318444874478",
+      "cites_id": [
+        "8604585318444874478"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New data on and the easternmost record of the Javan endemic Pearly Tree Frog, Nyctixalus margaritifer Boulenger, 1882 (Anura, Rhacophoridae)",
+        "pub_year": "2023",
+        "citation": "Check List 19 (6), 971-982, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:eq2jaN3J8jMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=684026765937945006",
+      "cites_id": [
+        "684026765937945006"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anuran diversity and community structure in Lesti upriver across buffer zone habitat in Bromo Tengger Semeru National Park",
+        "pub_year": "2022",
+        "citation": "Biotropika: Journal of Tropical Biology 10 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:08ZZubdj9fEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6634142549245158356",
+      "cites_id": [
+        "6634142549245158356"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of The Various Type of Mangrove Areas by Avifaunal Diversity and Community in Tamban Beach, Sumbermanjing Wetan, East Java",
+        "pub_year": "2021",
+        "citation": "Biotropika: Journal of Tropical Biology 9 (3), 218-228, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:xtRiw3GOFMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2451984610955955554",
+      "cites_id": [
+        "2451984610955955554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ESKALASI LITERASI SISWA TENTANG JENIS ULAR DAN PENANGANAN PERTAMA PADA KORBAN GIGITAN ULAR DI SMP DARULFAQIH, MALANG",
+        "pub_year": "2020",
+        "citation": "Prosiding Hapemas 1 (1), 255-263, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:f2IySw72cVMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17062580297989070348",
+      "cites_id": [
+        "17062580297989070348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The genetic relation of Indonesian Calloselasma rhodostoma based on ND4 gene and preliminary study of its venom storage condition.",
+        "pub_year": "2020",
+        "citation": "EurAsian Journal of BioSciences 14 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:abG-DnoFyZgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18350221708231072960",
+      "cites_id": [
+        "18350221708231072960"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Future zoonis forecasting of Betacoronavirus group using phylogenetics and haplotype network analysis",
+        "pub_year": "2020",
+        "citation": "Berkala Penelitian Hayati 25 (2), 46-51, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:maZDTaKrznsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10770058164417212503",
+      "cites_id": [
+        "10770058164417212503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecology and colour variation of Oreophryne monticola (Anura: Microhylidae) with reference to vocalisation and predicted habitat suitability.",
+        "pub_year": "2020",
+        "citation": "Herpetological Bulletin, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5578578427737449904",
+      "cites_id": [
+        "5578578427737449904"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Siebenrockiella crassicollis trade using marketplace in Indonesia",
+        "pub_year": "2020",
+        "citation": "International Journal of Scientific and Research Publications 10 (12), 490-494, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:9vf0nzSNQJEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=279416328520522726",
+      "cites_id": [
+        "279416328520522726"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogeny and biogeography of Sumatra\u00b4 s cloud forest lizards of the genus Dendragama and status of Acanthosaura schneideri",
+        "pub_year": "2020",
+        "citation": "ZooKeys 995, 127, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:NMxIlDl6LWMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11405233577889602032",
+      "cites_id": [
+        "11405233577889602032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Classification of Cyrtodactylus marmoratus species complex based on the molecular approach",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1146 (1), 012040, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8901071375926125245",
+      "cites_id": [
+        "8901071375926125245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unusual p-distance value among rat snake group (Ptyas: Colubridae) in Sumatra and Java",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5217949791670310227",
+      "cites_id": [
+        "5217949791670310227"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Linnaeus\u2019s Reed Snake, Calamaria linnaei Boie (Squamata: Colubridae: Calamariinae) from Ijen Plateau, East Java, Indonesia",
+        "pub_year": "2018",
+        "citation": "Research Journal of Life Science 5 (1), 42-53, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:u_35RYKgDlwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15885016580283266573",
+      "cites_id": [
+        "15885016580283266573"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record of the genus Calamaria (Squamata: Colubridae: Calamariinae) from Karimunjawa Island, Indonesia: morphology and systematic",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (3), 912-917, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:zA6iFVUQeVQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15838678681754767231",
+      "cites_id": [
+        "15838678681754767231"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microsatellite Marker for Cross-Species Amplification: Study Case for Indonesian Sundaland Python (Serpentes: Pythonidae)",
+        "pub_year": "2018",
+        "citation": "The Journal of Experimental Life Science 8 (1), 61-65, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:TQgYirikUcIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8082437452658202534",
+      "cites_id": [
+        "8082437452658202534"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Snapshot of an On-Going Trade in Reptile Wholesaler, Kebumen, Central Java: Preparation, Trading, and Conservation Implications",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Environment and Sustainable Development 9 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:ns9cj8rnVeAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12163638382542006016",
+      "cites_id": [
+        "12163638382542006016"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphology variations of Hemidactylus frenatus in Java",
+        "pub_year": "2018",
+        "citation": "Plant and Animal Research Journal 1, 36-42, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:pyW8ca7W8N0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11773828765019471903",
+      "cites_id": [
+        "11773828765019471903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Understanding bird preference on agroforestry system: is there a potential case for birdwatching development?",
+        "pub_year": "2017",
+        "citation": "Journal of Indonesian Tourism and Development Studies 5 (2), 81-90, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1341639486990869922",
+      "cites_id": [
+        "1341639486990869922"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent records of the enigmatic Endangered White-rumped Woodpecker Meiglyptes tristis in East Java province, Indonesia",
+        "pub_year": "2016",
+        "citation": "BirdingASIA 25, 95-97, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:isC4tDSrTZIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3402961220220450245",
+      "cites_id": [
+        "3402961220220450245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric Analysis of Local Fish from Banyu Biru Lake, Pasuruan Compared with Closely Related to Tor spp. from Indonesia",
+        "pub_year": "2013",
+        "citation": "Journal of Tropical Life Science 3 (3), 156-159, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5319724881866076461",
+      "cites_id": [
+        "5319724881866076461"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Komunitas Vertebrata dan Invertebrata Air pada Petak Sawah Organik di Kecamatan Lawang, Kabupaten Malang",
+        "pub_year": "2013",
+        "citation": "Biotropika: Journal of Tropical Biology 1 (4), 160-165, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3285218833419785571",
+      "cites_id": [
+        "3285218833419785571"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Hormon Hipofisa dan Ovaprim terhadap Ovulasi Katak serta Perbedaan Pakan terhadap Pertumbuhan Berudu Katak Fejervarya cancrivora",
+        "pub_year": "2013",
+        "citation": "Jurnal Biotropika| Vol 1 (5), 191, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:dfsIfKJdRG4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2455644652648423137",
+      "cites_id": [
+        "2455644652648423137"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary inventory of grasshopper diversity in several sites in Central and East Java",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3132 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:dQ2og3OwTAUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Correlation of Avifauna Diversity and Its Habitat: An Observation Study at Mount Kawi Slope Waterfall, East Java: Correlation of Avifauna Diversity and Its Habitat",
+        "pub_year": "2024",
+        "citation": "Journal of Tropical Life Science 14 (1), 95\u2013108-95\u2013108, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and community structure of soil microarthrophods of several moorlands in Gumukmas District, Jember Regency, East Java",
+        "pub_year": "2024",
+        "citation": "Jurnal Biolokus: Jurnal Penelitian Pendidikan Biologi dan Biologi 6 (2), 111-120, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:ZuybSZzF8UAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Extract Supplements (Apium graveolens L.) to Estrogen Receptors Expression and Oocyte Diameter at Nucleolar Chromatin and Perinucleolar Stages in Female of \u2026",
+        "pub_year": "2023",
+        "citation": "The Journal of Experimental Life Science 13 (3), 153-158, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:LjlpjdlvIbIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FURTHER STUDY ON TWO SPECIES OF LOACH FISHES (Cypriniformes: Nemacheilidae: Nemacheilus) BASED ON MORPHOLOGY AND MOLECULAR DATA",
+        "pub_year": "2023",
+        "citation": "BIOTROPIA 30 (3), 329-345, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:WqliGbK-hY8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Contribution to the Systematics of Sunda Shelf Angle-Headed Dragons (Agamidae: Gonocephalus) with the Description of New Taxa from Sumatra",
+        "pub_year": "2023",
+        "citation": "Herpetological Monographs 37 (1), 1-40, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic Inference on Limnonectes kuhlii Complex in Java and Sumatra Reveals Significant Novel Diversity",
+        "pub_year": "2023",
+        "citation": "The Journal of Experimental Life Science 13 (3), 145-152, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMBINAAN SEKOLAH BERBUDAYA LINGKUNGAN UNTUK MENDUKUNG PROGRAM ADIWIYATA DI WILAYAH BALI BARAT",
+        "pub_year": "2023",
+        "citation": "Prosiding Seminar Nasional Pengabdian Kepada Masyarakat 4 (1), SNPPM2023L \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Flavonoid in Apium graveolens L. as a Kirsten Rat Sarcoma Protein Inhibitor in Colorectal Cancer Based on In Silico Study",
+        "pub_year": "2023",
+        "citation": "Biotropika: Journal of Tropical Biology 11 (2), 115-125, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:PELIpwtuRlgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Corrigendum: Morphological Variation of Asian Small Lizards Genus Tytthoscincus Linkem, Diesmos & Brown (Squamata: Scincidae) in Indonesia",
+        "pub_year": "2023",
+        "citation": "The Journal of Experimental Life Science 13 (2), 137-137, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:tkaPQYYpVKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of Riparian Ecosystem Health in the Tamiang River, Aceh, Indonesia as Remains Habitat of Batagur borneoensis (Schlegel & Muller, 1844).",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Life Science 13 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:_B80troHkn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological Variation of Asian Small Lizards genus Tytthoscincus Linkem, Diesmos & Brown (Squamata: Scincidae) in Indonesia",
+        "pub_year": "2023",
+        "citation": "The Journal of Experimental Life Science 13 (2), 101-105, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico Exploration of Bioactive Compounds from Withania somnifera as Inhibitor for Alpha Delta Bungarotoxin of Bungarus candidus Venom",
+        "pub_year": "2023",
+        "citation": "Biotropika: Journal of Tropical Biology 11 (2), 64-73, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:AXPGKjj_ei8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A New Distribution Record of Polypedates pseudotilophus (Anura: Rhachoporidae) from East Java, Based on Morphology and Molecular Evidence",
+        "pub_year": "2023",
+        "citation": "Russian Journal of Herpetology 30 (3), 167-174, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:bnK-pcrLprsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A taxonomic revision of Boiga multomaculata (Boie, 1827) and B. ochracea (Theobald, 1868), with the description of a new subspecies (Squamata, Serpentes \u2026",
+        "pub_year": "2023",
+        "citation": "Zootaxa 5270 (2), 151-193, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anthropogenic introduction of the Spotted Barb, Barbodes binotatus, across the Wallace Line in western Sulawesi, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric and Molecular Analyses of Mahseer Fish (Torinae: Cyprinidae) in Progo River, Central Java, Indonesia.",
+        "pub_year": "2023",
+        "citation": "Current Trends in Biotechnology & Pharmacy 17, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:eMMeJKvmdy0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Computational Design of a Truncated Javan Spitting Cobra (Naja sputatrix) Venom Cardiotoxin Analogue as a Promising Insulinotropic Agent",
+        "pub_year": "2023",
+        "citation": "Biotropika: Journal of Tropical Biology 11 (3), 140-155, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:VL0QpB8kHFEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\ufeff Common but ignored: a new species of Cyrtodactylus (Chordata, Reptilia, Squamata, Gekkonidae) from lowland Sumatra Barat, Indonesia",
+        "pub_year": "2023",
+        "citation": "ZooKeys 1169, 47, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\ufeff A new species of the Cyrtodactylusquadrivirgatus complex (Chordata, Reptilia, Squamata, Gekkonidae) from Sumatra Barat, Indonesia",
+        "pub_year": "2023",
+        "citation": "ZooKeys 1168, 367, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:olpn-zPbct0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In-silico study: Kistomin as anti-coagulant (two-dimensional structure)",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2513 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An In Silico Evaluation of Flavonoids in Allium sp. as a Potent Anti-Acute Myeloid Leukemia (AML) Through FLT3 Inhibition",
+        "pub_year": "2022",
+        "citation": "JSMARTech: Journal of Smart Bioprospecting and Technology 3 (2), 63-71, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Postmating isolation and evolutionary relationships among Fejervarya species from Lesser Sunda, Indonesia and other Asian countries revealed by crossing \u2026",
+        "pub_year": "2022",
+        "citation": "Ecology and Evolution 12 (10), e9436, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geographical restriction and body size variation in two sibling species of flower-breeding Drosophila",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular characterization of genus Tor from Indonesia based on 16S rRNA",
+        "pub_year": "2022",
+        "citation": "Edubiotik: Jurnal Pendidikan, Biologi dan Terapan 7 (01), 51-62, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessing the Genotoxicity Effect of a Commercial Chlorpyrifos Formulation in Fejervarya limnocharis Tadpoles (Anura: Dicroglossidae) Under Acute and Chronic Exposure",
+        "pub_year": "2022",
+        "citation": "J. Exp. Life Sci. Vol 12 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virtual Screening of Mimosa pudica Secondary Metabolites as Hyaluronidase B Potential Inhibitor to Prevent Vespa velutina Venom Spreading",
+        "pub_year": "2021",
+        "citation": "JSMARTech: Journal of Smart Bioprospecting and Technology 2 (3), 96-100, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of protein venom epitope (kistomin) from Calloselasma rhodostoma using immunoinformatics to design vaccine based on epitope",
+        "pub_year": "2021",
+        "citation": "Berkala Penelitian Hayati 27 (1), 15-22, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico Study Reveals Potential Docking Sites of \u03b42-isoxazolines Derivates for Inhibiting Russell's Viper PLA2 Toxin.",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Life Science 11 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLATION AND QUANTIFICATION OF FELINE TETHERIN/BST-2 MRNA EXPRESSION IN PERIPHERAL BLOOD MONONUCLEAR CELLS (PBMCS) INDUCED BY INTERFERON-ALPHA (IFN-\u03b1).",
+        "pub_year": "2020",
+        "citation": "Veterinary Practitioner 21, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:J-pR_7NvFogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skull Anatomy of Forest Skinks (Sphenomorphus Fitzinger, 1843) Living in Different Habitats of Java and Sumatra Islands, Indonesia",
+        "pub_year": "2020",
+        "citation": "JOURNAL OF ANATOMY 236, 289-289, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Looking on Indigo Flycatcher (Eumyas indigo) Hunting Behaviour: Time, Ecology, and Habitat Preference",
+        "pub_year": "2020",
+        "citation": "Journal of Tropical Life Science 10 (1), 49-55, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Prediction of High Potential Jararhagin Inhibitor: Comparison of Batimastat, EDTA and Hydroxytyrosol",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Difference of Electrophoretic Profile and Snake Venom Phospholipase A2 (svPLA2) Activity form the Venom of Javan Spitting Cobra, Naja sputatrix, based on Body Scales Color \u2026",
+        "pub_year": "2019",
+        "citation": "The 6th International Conference on Advanced Molecular Bioscience and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:LPZeul_q3PIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of interferon-induced feline tetherin (Bst-2) protein expressed by peripheral blood mononuclear cells (PBMCs)",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2108 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Liquid Organic Fertilizers in The Refugia Block on Visiting Insects in The Apple Orchard and Community Knowledges in its Conservation Efforts",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Environment and Sustainable Development 10 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Business model analysis and determination of production cost of Micro, Small and Medium Enterprises (MSME) Product Businesses Talok Village, Turen Distric, Malang with Business \u2026",
+        "pub_year": "2018",
+        "citation": "Berdikari: Jurnal Pengabdian Masyarakat Indonesia 1 (2), 85-97, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Journal of Life Science",
+        "pub_year": "2018",
+        "citation": "Research Journal of Life Science 5 (1), 42-50, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemetaan Potensi Dan Strategi Pengembangan Perkampungan Sungai Wain Kelurahan Karang Joang Sebagai Desa Wisata Klaster Pendamping Pariwisata Berkelanjutan Hutan Lindung Sungai \u2026",
+        "pub_year": "2018",
+        "citation": "Journal Of Innovation And Applied Technology 4 (02), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mapping potential and strategy: development of the river basin in the Karang Joang Village as a cluster tourism village which is a companion to the Sungai Wain Protection \u2026",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PHYLOGEOrec: A QGIS plugin for spatial phylogeographic reconstruction from phylogenetic tree and geographical information data",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mitochondrial DNA pattern of the fine shrimp Metapenaeus elegans (De Man, 1907) in the lagoon of Segara Anakan, Central Java, using Hind III",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1844 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDY BIRD'S ARE TRADE IN SPLENDID BIRD MARKET, MALANG",
+        "pub_year": "2015",
+        "citation": "Biotropika: Journal of Tropical Biology 3 (1), 7-11, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Iodine Solution Treatment With Different Dosage And Exposed Duration to Metamorphosis Rate and Survival of Bullfrog Tadpoles (Rana Catesbeiana Shaw)",
+        "pub_year": "2014",
+        "citation": "Biotropika: Journal of Tropical Biology 2 (3), 154-158, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Perlakuan Larutan Yodium Dengan Dosis dan Lama Pendedahan yang Berbeda Terhadap Laju Metamorfosis dan Kelangsungan Hidup Berudu katak Lembu (Rana catesbeiana Shaw)",
+        "pub_year": "2014",
+        "citation": "Jurnal Biotropika| Vol 2 (3), 154, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect Variations of Fish Food on Growth in Catfish.(Clarias Garipinus)",
+        "pub_year": "2013",
+        "citation": "Biotropika: Journal of Tropical Biology 1 (3), 114-118, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:D03iK_w7-QYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENETIC ANALYSIS AND MOLECULAR INTERACTION OF UGPase IN SOME TUBER PLANTS RELATED TO GLUCOMANNAN PRODUCTION",
+        "pub_year": "2013",
+        "citation": "Biotropika: Journal of Tropical Biology 1 (3), 105-108, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Interaksi Molekuler UGPase pada Tanaman Umbi Berdasarkan Keberadaan Glukomanan",
+        "pub_year": "2013",
+        "citation": "Jurnal Biotropika| Vol 1 (3), 105, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Temporal Distribution of Bird Species in the Sarinah Island Porong Sidoarjo",
+        "pub_year": "2013",
+        "citation": "Biotropika: Journal of Tropical Biology 1 (6), 265-268, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelatihan Pemanfaatan Feses Ternak untuk Pembuatan Kompos di Desa Wisata Ranupani Kabupaten Lumajang",
+        "pub_year": "2005",
+        "citation": "Fakultas MIPA-Universitas Brawijaya, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat suitability modelling of Rhacophorus reinwardtii (Schlegel, 1840) in Java, with notes on habitat characteristics from Malang, East Java",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (2), 84459, 0"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PREFACE: The 8th International Conference on Global Resource Conservation (ICGRC 2017)",
+        "citation": "8th International Conference on Global Resource Conservation (ICGRC 2017), 10001, 0"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nia KURNIAWAN, Luhur SEPTIADI, Ahmad Muammar KADAFI, et al. A New Species of Theloderma Tschudi, 1838 (Amphibia: Rhacoporidae) from Central Java Allied to T. horridum \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:kRWSkSYxWN8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Computational Insight on Potential Activity of Star Apple (Chrysophyllum cainito L.) Bioactive Compound as PPAR-\u03b3 Antagonist for Obesity",
+        "citation": "OPENING SPEECH RECTOR OF UNIVERSITAS BRAWIJAYA, 18, 0"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Bioactive Compounds from Cyperus rotundus as First Aid Medication on Snakebite Envenomation by Bungarus candidus: In-silico Study",
+        "citation": "OPENING SPEECH RECTOR OF UNIVERSITAS BRAWIJAYA, 20, 0"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virtual Based Screening of Rosmarininc Acid and its Derivatives as Potential Anticancer Approach Targeting HIF-1\u03b1",
+        "citation": "OPENING SPEECH RECTOR OF UNIVERSITAS BRAWIJAYA, 19, 0"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:BrmTIyaxlBUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico and ADMET Analysis of Potential Compounds in Licorice Root (Glycyrrhiza glabra) as PPAR-\u03b3 Activator to Increase Insulin Sensitivity in Type 2 Diabetes Mellitus",
+        "citation": "OPENING SPEECH RECTOR OF UNIVERSITAS BRAWIJAYA, 15, 0"
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:eflP2zaiRacC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Epitope prediction of candoxin protein from Malayan krait",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community Structure of Phytoplankton in Some Spermonde Islands South Sulawesi Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Berkala PENELITIAN HAYATI",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity of Dospyros cauliflora Blume and Diospyros lolin Bakh. from Purwodadi Botanical Garden Collection Based on Morphometric Analysis",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity Of Five Strain Carps (Cyprinus Carpio L.) Based On DNA Microsatelite Marker",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "pubbG34AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 25,
+    "not_available": 1
+  }
+}

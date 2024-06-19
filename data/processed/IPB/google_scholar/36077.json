@@ -1,0 +1,1842 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "iIFbt_AAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sintho Wahyuning Ardie",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=iIFbt_AAAAAJ&citpid=4",
+  "affiliation": "Bogor Agricultural University (IPB)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Plant biotechnology",
+    "plant physiology of abiotic stress"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 1130,
+  "citedby5y": 870,
+  "hindex": 18,
+  "hindex5y": 16,
+  "i10index": 34,
+  "i10index5y": 31,
+  "cites_per_year": {
+    "2010": 5,
+    "2011": 15,
+    "2012": 14,
+    "2013": 19,
+    "2014": 18,
+    "2015": 29,
+    "2016": 50,
+    "2017": 36,
+    "2018": 68,
+    "2019": 125,
+    "2020": 109,
+    "2021": 168,
+    "2022": 200,
+    "2023": 184,
+    "2024": 81
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning of a high-affinity K+ transporter gene PutHKT2; 1 from Puccinellia tenuiflora and its functional comparison with OsHKT2; 1 from rice in yeast and Arabidopsis",
+        "pub_year": "2009",
+        "citation": "Journal of Experimental botany 60 (12), 3491-3502, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 115,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5613758478495774479",
+      "cites_id": [
+        "5613758478495774479"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of the AKT1-type K+ channel gene from Puccinellia tenuiflora, PutAKT1, enhances salt tolerance in Arabidopsis",
+        "pub_year": "2010",
+        "citation": "Plant cell reports 29, 865-874, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 110,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4137932479116139900",
+      "cites_id": [
+        "4137932479116139900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection index based on multivariate analysis for selecting doubled-haploid rice lines in lowland saline prone area.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 65,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6784505854892347465",
+      "cites_id": [
+        "6784505854892347465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of selection criteria for screening of rice genotypes for salinity tolerance.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2449905481517558443",
+      "cites_id": [
+        "2449905481517558443"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new approach to select doubled haploid rice lines under salinity stress using indirect selection index",
+        "pub_year": "2021",
+        "citation": "Rice Science 28 (4), 368-378, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:738O_yMBCRsC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6898910388586168162",
+      "cites_id": [
+        "6898910388586168162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Early identification of salt tolerant foxtail millet (Setaria italica L. Beauv)",
+        "pub_year": "2015",
+        "citation": "Procedia Food Science 3, 303-312, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3009406290911548101",
+      "cites_id": [
+        "3009406290911548101"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cluster heatmap for detection of good tolerance trait on doubled-haploid rice lines under hydroponic salinity screening",
+        "pub_year": "2020",
+        "citation": "IOP conference series: earth and environmental science 484 (1), 012001, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:UxriW0iASnsC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7881582459035983444",
+      "cites_id": [
+        "7881582459035983444"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cassava (Manihot esculenta Crantz.) improvement through gamma irradiation",
+        "pub_year": "2015",
+        "citation": "Procedia Food Science 3, 27-34, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:roLk4NBRz8UC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2737435708505659467",
+      "cites_id": [
+        "2737435708505659467"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salinity tolerance of several rice genotypes at seedling stage",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Agricultural Science 18 (2), 63-68, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:ldfaerwXgEUC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6299902538272890215",
+      "cites_id": [
+        "6299902538272890215"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RAPD analysis to detect somaclonal variation of pineapple in vitro cultures during micropropagation",
+        "pub_year": "2015",
+        "citation": "Biotropia 22 (2), 109-119, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:_kc_bZDykSQC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4806314348478971226",
+      "cites_id": [
+        "4806314348478971226"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ectopic Expression of the K+ Channel \u03b2 Subunits from Puccinellia tenuiflora (KPutB1) and Rice (KOB1) Alters K+ Homeostasis of Yeast and Arabidopsis",
+        "pub_year": "2011",
+        "citation": "Molecular biotechnology 48, 76-86, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16894372412998038981",
+      "cites_id": [
+        "16894372412998038981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Parameter genetik dan seleksi sorgum [Sorghum bicolor (L.) Moench] populasi F4 hasil Single Seed Descent (SSD)",
+        "pub_year": "2017",
+        "citation": "Jurnal Biologi Indonesia 12 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14587870193736879376",
+      "cites_id": [
+        "14587870193736879376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nutrient culture media with agar is effective for early and rapid screening of iron toxicity tolerance in rice",
+        "pub_year": "2016",
+        "citation": "Journal of crop science and biotechnology 19, 61-70, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:4TOpqqG69KYC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15099482836821758197",
+      "cites_id": [
+        "15099482836821758197"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Markers-traits association for iron toxicity tolerance in selected Indonesian rice varieties",
+        "pub_year": "2016",
+        "citation": "Biodiversitas Journal of Biological Diversity 17 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6051784513948241487",
+      "cites_id": [
+        "6051784513948241487"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salinity tolerance selection of doubled-haploid rice lines based on selection index and factor analysis.",
+        "pub_year": "2022",
+        "citation": "AIMS Agriculture & Food 7 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=263328603754056587",
+      "cites_id": [
+        "263328603754056587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Huge carbohydrate assimilates delay response to complete defoliation stress in oil palm (Elaeis guineensis Jacq.)",
+        "pub_year": "2015",
+        "citation": "Emirates Journal of Food and Agriculture, 126-137, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:8k81kl-MbHgC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8477728659540540469",
+      "cites_id": [
+        "8477728659540540469"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morpho-physiological response of rice genotypes grown under saline conditions.",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:aqlVkmm33-oC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3174326345589143198",
+      "cites_id": [
+        "3174326345589143198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Radiosensitivitas dan keragaman ubi kayu (Manihot esculenta Crantz) hasil iradiasi sinar gamma",
+        "pub_year": "2015",
+        "citation": "Indonesian Journal of Agronomy 43 (2), 111-117, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:Zph67rFs4hoC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10670613613190705434",
+      "cites_id": [
+        "10670613613190705434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro selection of four soybean genotypes using PEG for drought tolerance",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 45 (1), 14-22, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:BqipwSGYUEgC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16364952116104527300",
+      "cites_id": [
+        "16364952116104527300"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of dot-blot SNP analysis for the detection of drought or salinity stress associated marker in foxtail millet (Setaria italica L.).",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7527477958321116309",
+      "cites_id": [
+        "7527477958321116309"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Cepat Toleransi Tanaman Padi terhadap Cekaman Rendaman pada Fase Vegetatif",
+        "pub_year": "2014",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 42 (2), 89-95, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8263442024951150427",
+      "cites_id": [
+        "8263442024951150427"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of drought tolerance indices for genotype selection of foxtail millet (Setaria italica)",
+        "pub_year": "2018",
+        "citation": "International Journal of Tropical Drylands 2 (2), 37-40, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14193959801608023598",
+      "cites_id": [
+        "14193959801608023598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heritabilitas, karakterisasi, dan analisis clustergram galur-galur padi dihaploid hasil kultur antera",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Agronomy 46 (2), 119-125, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:rO6llkc54NcC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2385960025307915002",
+      "cites_id": [
+        "2385960025307915002"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan fosfor dalam meningkatkan toleransi tanaman sorgum terhadap cekaman aluminium",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 45 (1), 43-48, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:TQgYirikUcIC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15019289751546134216",
+      "cites_id": [
+        "15019289751546134216"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Akumulasi Prolin dan Poliamin Beberapa Aksesi Tanaman Terung pada Cekaman Kekeringan",
+        "pub_year": "2014",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 42 (2), 136-141, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935770569656897068",
+      "cites_id": [
+        "14935770569656897068"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of variance, heritability, correlation and selection character of M1 V3 generation cassava (Manihot esculenta Crantz) mutants",
+        "pub_year": "2017",
+        "citation": "AGRIVITA Journal of Agricultural Science 40 (1), 74-79, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6996677637363039796",
+      "cites_id": [
+        "6996677637363039796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman beberapa aksesi temu hitam (Curcuma aeruginosa Roxb.) berdasarkan karakter morfologi",
+        "pub_year": "2017",
+        "citation": "Indonesian Journal of Agronomy 45 (1), 71-78, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17926653706912955829",
+      "cites_id": [
+        "17926653706912955829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan dan perkembangan ubi kayu genotipe lokal manggu pada panjang setek batang yang berbeda",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Agronomy 47 (3), 262-267, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:dshw04ExmUIC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5060552127242794783",
+      "cites_id": [
+        "5060552127242794783"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The leaf color performance on several lines of cassava and its relation with tuber yield as early reference",
+        "pub_year": "2015",
+        "citation": "Procedia Environmental Sciences 24, 39-46, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10511753088984666340",
+      "cites_id": [
+        "10511753088984666340"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Budidaya Selada Keriting, Selada Lollo Rossa, Dan Selada Romaine Secara Aeroponik Di Amazing Farm, Lembang, Bandung",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8229965557958322062",
+      "cites_id": [
+        "8229965557958322062"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Responses of selected Indonesian rice varieties under excess iron condition in media culture at seedling stage",
+        "pub_year": "2016",
+        "citation": "Jurnal Penelitian Pertanian Tanaman Pangan 35 (3), 125524, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:isC4tDSrTZIC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12008858814745016353",
+      "cites_id": [
+        "12008858814745016353"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implication of gene action and heritability under stress and control conditions for selection iron toxicity tolerant in rice",
+        "pub_year": "2016",
+        "citation": "AGRIVITA Journal of Agricultural Science 38 (3), 282-295, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6029785009852115465",
+      "cites_id": [
+        "6029785009852115465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of harvest period, storage, and genotype on postharvest physiological deterioration responses in cassava",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:8AbLer7MMksC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17158251847195330877",
+      "cites_id": [
+        "17158251847195330877"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Morfologi dan Sifat Kuantitatif Gandum (Triticum aestivum L.) di Dataran Menengah",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Agronomy 44 (2), 162-169, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=770063348590087503",
+      "cites_id": [
+        "770063348590087503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon dan produktivitas padi rawa terhadap cekaman rendaman stagnan untuk pengembangan di lahan rawa lebak",
+        "pub_year": "2015",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 43 (1), 15-22, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3091343220493100445",
+      "cites_id": [
+        "3091343220493100445"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative expression profiling of three early inflorescence stages of oil palm indicates that vegetative to reproductive phase transition of meristem is regulated by sugar \u2026",
+        "pub_year": "2015",
+        "citation": "Functional Plant Biology 42 (6), 589-598, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:0EnyYjriUFMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4482966238592091469",
+      "cites_id": [
+        "4482966238592091469"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Parameters and secondary characters for selection of tolerance rice varieties under stagnant flooding condition",
+        "pub_year": "2019",
+        "citation": "AGRIVITA Journal of Agricultural Science 41 (2), 372-384, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:f2IySw72cVMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=102782687104012865",
+      "cites_id": [
+        "102782687104012865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic structure and diversity between and within African and American oil palm species based on microsatellite markers",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (5), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:D03iK_w7-QYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13442797133650015913",
+      "cites_id": [
+        "13442797133650015913"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENERATION MEAN ANALYSIS OF LEAF BRONZING ASSOCIATED WITH IRON TOXICTY IN RICE SEEDLINGS USING DIGITAL IMAGING METHODS.",
+        "pub_year": "2016",
+        "citation": "SABRAO Journal of Breeding & Genetics 48 (4), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15365281961548678059",
+      "cites_id": [
+        "15365281961548678059"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toleransi Beberapa Genotipe Gandum (Triticum aestivum L.) Terhadap Kekeringan pada Stadia Perkecambahan",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Agronomy 44 (2), 154-161, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7007165579505411833",
+      "cites_id": [
+        "7007165579505411833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of several sorghum genotypes on acid soil tolerance",
+        "pub_year": "2014",
+        "citation": "International Journal of Agronomy and Agricultural Research (IJAAR) 5 (5 \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6191042978498793849",
+      "cites_id": [
+        "6191042978498793849"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro multiplication and acclimatization of black galingale (Curcuma Aeruginosa Roxb.)",
+        "pub_year": "2019",
+        "citation": "Journal of Applied Pharmaceutical Science 9 (4), 110-116, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9470854800381807951",
+      "cites_id": [
+        "9470854800381807951"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Different root anatomical changes in salt-tolerant and salt-sensitive foxtail millet genotypes",
+        "pub_year": "2019",
+        "citation": "AGRIVITA Journal of Agricultural Science 41 (1), 88-96, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:yD5IFk8b50cC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17332984813100775042",
+      "cites_id": [
+        "17332984813100775042"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of potentially high yielding irradiated cassava \u2018Gajah\u2019genotype with different geographic coordinates",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 54 (1), 012013, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:-f6ydRqryjwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10058161127573549126",
+      "cites_id": [
+        "10058161127573549126"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kultur antera untuk mendapatkan galur padi toleran salinitas",
+        "pub_year": "2016",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 44 (3), 221-227, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:qUcmZB5y_30C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12060930766308442203",
+      "cites_id": [
+        "12060930766308442203"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance improvement of young pummelo citrus (Citrus maxima (Burm.) Merr.) by strangulation application and pinching.",
+        "pub_year": "2015",
+        "citation": "Asian Journal of Agricultural Research 9 (2), 77-83, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12252195170409852872",
+      "cites_id": [
+        "12252195170409852872"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi hasil dan kandungan pati mutan ubi kayu hasil iradiasi sinar gamma generasi M1V4",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (1), 64-70, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8044170064658742119",
+      "cites_id": [
+        "8044170064658742119"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of agro-ecology on growth and performance of several potential mutants of cassava",
+        "pub_year": "2016",
+        "citation": "Procedia Environmental Sciences 33, 70-77, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2165966346847265210",
+      "cites_id": [
+        "2165966346847265210"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Postharvest physiological deterioration in cassava: potential problems, possible inhibition, and resistant level identification",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 694 (1), 012035, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:WbkHhVStYXYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12522414915718502057",
+      "cites_id": [
+        "12522414915718502057"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of shelf life and sensory quality of pummelos by fruit waxing and wrapping",
+        "pub_year": "2017",
+        "citation": "Journal of Tropical Crop Science 4 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:lSLTfruPkqcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1186854792686209841",
+      "cites_id": [
+        "1186854792686209841"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity Assessment of Foxtail Millet (Setaria italica L.) Genotypes Based on RAPD Marker",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8926353968919353517",
+      "cites_id": [
+        "8926353968919353517"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi rimpang mikro Kaempferia parviflora secara in vitro dengan penambahan BAP dan Sukrosa",
+        "pub_year": "2015",
+        "citation": "Jurnal Hortikultura Indonesia 6 (1), 54-63, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8654760567395155392",
+      "cites_id": [
+        "8654760567395155392"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adaptasi Tanaman Hoya Diversifolia Blume Pada Intensitas Cahaya Tinggi [Adaptation of Hoya Diversifolia Blume to High-light Intensity]",
+        "pub_year": "2014",
+        "citation": "Agritrop 12 (1), 273705, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:J-pR_7NvFogC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14957225489442346155",
+      "cites_id": [
+        "14957225489442346155"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh intensitas cahaya dan pemupukan terhadap pertumbuhan dan pembungaan hoya diversifolia blume",
+        "pub_year": "2006",
+        "citation": "IPB (Bogor Agricultural University), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12990112975348009387",
+      "cites_id": [
+        "12990112975348009387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seed-borne fungi associated with foxtail millet (Setaria italica L. Beauv.) genotype ICERI-6",
+        "pub_year": "2020",
+        "citation": "Akta Agrosia 23 (2), 63-66, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:p2g8aNsByqUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3164047897268439343",
+      "cites_id": [
+        "3164047897268439343"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan Tunas Ubi Kayu (Manihot esculenta Crantz.) Genotipe Jame-jame secara In Vitro",
+        "pub_year": "2016",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 44 (1), 40-46, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:4DMP91E08xMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13782904482188213474",
+      "cites_id": [
+        "13782904482188213474"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi dan proliferasi embriogenesis somatik in vitro pada lima genotipe kedelai",
+        "pub_year": "2016",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 44 (3), 261-270, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:hC7cP41nSMkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2813757967513797075",
+      "cites_id": [
+        "2813757967513797075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pematahan Dormansi Rimpang Kaempferia parvifloraWall. ExBaker",
+        "pub_year": "2014",
+        "citation": "Buletin Agrohorti 2 (1), 104-114, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13755476822249176023",
+      "cites_id": [
+        "13755476822249176023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New leaf fall disease in rubber-pathogen characterization and rubber clone resistance evaluation using detached leaf assay.",
+        "pub_year": "2023",
+        "citation": "Biodiversitas: Journal of Biological Diversity 24 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6378536545426294922",
+      "cites_id": [
+        "6378536545426294922"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic fungi isolated from the mangrove species rhizophora apiculata and their efficacy as herbicides",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (5), 605-620, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=557572125651526158",
+      "cites_id": [
+        "557572125651526158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Novel nonwaxy allele variation among foxtail millet genotypes from Indonesia.",
+        "pub_year": "2020",
+        "citation": "SABRAO Journal of Breeding & Genetics 52 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=472596915615461467",
+      "cites_id": [
+        "472596915615461467"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Male-sterile induction method in foxtail millet (Setaria italica)",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (9), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4794055684882606149",
+      "cites_id": [
+        "4794055684882606149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of irradiation induced mutants of cassava (Manihot esculenta Crantz) generated from Jame-jame and Adira-4 genotypes at M1V2 generation",
+        "pub_year": "2017",
+        "citation": "KnE Life Sciences, 22-28, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17787123141788702423",
+      "cites_id": [
+        "17787123141788702423"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fase Perkembangan Bunga dan Kandungan Gula Endogen pada Pembungaan Hoya diversifolia Blume.",
+        "pub_year": "2015",
+        "citation": "Jurnal Agroteknologi Tropika 3 (1), 1-5, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9093975537195648016",
+      "cites_id": [
+        "9093975537195648016"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variability of F2 foxtail millet population derived from ICERI-5 and Botok-10 cross",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (6), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:bnK-pcrLprsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3873746170112722081",
+      "cites_id": [
+        "3873746170112722081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CRISPR/Cas9-mediated genome editing in rice cv. IPB3S results in a semi-dwarf phenotypic mutant",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (9), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5968592615288906145",
+      "cites_id": [
+        "5968592615288906145"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of phenotypic markers and contrast genotype candidates of target minerals related to cassava",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3451901717153073671",
+      "cites_id": [
+        "3451901717153073671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bridging cassava to community: simple practices of connecting research-industry-community for sustainable food system",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 325 (1), 012007, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11501551021862485166",
+      "cites_id": [
+        "11501551021862485166"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Genetik dan Seleksi Galur F5 Sorgum (Sorghum bicolor (L.) Moench) Hasil Penggaluran Menggunakan Single Seed Descent pada Kondisi P Rendah di Tanah Masam",
+        "pub_year": "2018",
+        "citation": "IPB (Bogor Agricultural University), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10778906521027246817",
+      "cites_id": [
+        "10778906521027246817"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan padi toleran salinitas melalui kultur antera",
+        "pub_year": "2016",
+        "citation": "IPB (Bogor Agricultural University), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:SdhP9T11ey4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14654966540695447430",
+      "cites_id": [
+        "14654966540695447430"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi In Vitro Embrio Somatik pada Beberapa Genotipe Kedelai untuk Toleransi Terhadap Cekaman Kekeringan dan Toksisitas Aluminium [disertasi]",
+        "pub_year": "2014",
+        "citation": "Bogor (ID): Institut Pertanian Bogor, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:r0BpntZqJG4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=976434621372264753",
+      "cites_id": [
+        "976434621372264753"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Berbagai Komposisi dan Konsentrasi Pupuk Majemuk untuk Pembentukan Kantong pada Nepenthesx ventrata",
+        "pub_year": "2013",
+        "citation": "Buletin Agrohorti 1 (1), 113-118, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17684127643772422290",
+      "cites_id": [
+        "17684127643772422290"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Budidaya Tanaman Akar Wangi (Vetiveria zizanioides (L.) Nash) dalam Wadah: Pengaruh Jenis Media Tanam dan Jumlah Bibit",
+        "pub_year": "2013",
+        "citation": "Buletin Agrohorti 1 (4), 111-121, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13540742190446742670",
+      "cites_id": [
+        "13540742190446742670"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Systematic selection to adaptive doubled haploid rice lines under different environments of submergence screening methods",
+        "pub_year": "2023",
+        "citation": "Journal of Agriculture and Food Research 14, 100775, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:Y5dfb0dijaUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13880428175621483453",
+      "cites_id": [
+        "13880428175621483453"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TOTAL LIGNIN CONTENT AND AGROMORPHOLOGICAL CHARACTER DIVERSITIES OF 30 INDONESIAN RICE (Oryza sativa L.) ACCESSIONS",
+        "pub_year": "2022",
+        "citation": "Jurnal Bioteknologi & Biosains Indonesia (JBBI) 9 (2), 182-194, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12836704384536578996",
+      "cites_id": [
+        "12836704384536578996"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fusarium species from an Indonesian genotype of foxtail millet seeds.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:WqliGbK-hY8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6305223819804512468",
+      "cites_id": [
+        "6305223819804512468"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Altitude And Shading Conditions Affect Vegetative Growth Of Kaempferia parviflora",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:XiVPGOgt02cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=888434410487958422",
+      "cites_id": [
+        "888434410487958422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype spesific on somatic embryo and germination of soybean",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5906286781968797251",
+      "cites_id": [
+        "5906286781968797251"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetin and calcium pantothenate effects on shoot multiplication in in vitro cultured cassava var. Adira 2 and Adira 4",
+        "pub_year": "2011",
+        "citation": "Improving food, energy and environment with better crops. 7th Asian Crop \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16084659274094575842",
+      "cites_id": [
+        "16084659274094575842"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Digital phenotyping for robust seeds variability assessment in Setaria italica (L.) P. Beauv.",
+        "pub_year": "2024",
+        "citation": "Journal of Seed Science 46, e202446012, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Phenotyping Method To Predict \u03b2-Carotene Content of Cassava Tuberous Root Using ImageJ",
+        "pub_year": "2024",
+        "citation": "The 1st International Seminar on Tropical Bioresources Advancenment and \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENE ACTION AND HERITABILITY ESTIMATES IN F 2 POPULATIONS OF FOXTAIL MILLET (SETARIA ITALICA L.).",
+        "pub_year": "2024",
+        "citation": "SABRAO Journal of Breeding & Genetics 56 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Genetic Variability of Indonesian Local Foxtail Millet Accession Based on Agro-morphological Traits and Early Salinity Tolerance Evaluation Utilizing SiDREB2-based SNAP Marker",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (1), 82-93, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:_B80troHkn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Confirmations on gene introgression events and hybridity for BLB resistance and yield in rice",
+        "pub_year": "2023",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 51 (3), 449-458, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and in silico analysis of phytoene synthase gene promoter in cassava cultivar Adira4 and Carvita25",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2972 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS IN SILICO PROTEIN BIOSINTESIS LIGNIN PADA TANAMAN SORGUM (Sorghum bicolor L. Moench)",
+        "pub_year": "2023",
+        "citation": "Berita Biologi 22 (2), 237-246, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological traits and Zn content of several cassava genotypes in nutrient solution culture",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Agronomy 51 (2), 234-246, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mutation site identification confer glyphosate resistance in goosegrass (Eleusine indica L. Gaertn) from Jonggol, Bogor, Indonesia",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Agronomy 51 (1), 1-8, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reducing the Risk of Seed-Borne Fungi Development of Foxtail Millet from Buru Island through Hot Water Treatment",
+        "pub_year": "2022",
+        "citation": "Jurnal Fitopatologi Indonesia 18 (6), 264-268, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "METABOLOMIC ANALYSES TO EVALUATE THE EFFECT OF DROUGHT STRESS ON CHILI PEPPER (CAPSICUM ANNUUM L.) AT VEGETATIVE STAGE",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:PELIpwtuRlgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SELECTION TRAITS FOR CHILI PEPPER DROUGHT TOLERANCE AT GERMINATION STAGE USING POLYETHYLENE GLYCOL 6000 AND DIVERSITY AMONG 22 CHILI PEPPER GENOTYPES",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:eflP2zaiRacC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perakitan Galur-galur Dihaploid Padi (Oryza sativa L.) Toleran dan Adaptif Cekaman Salinitas.",
+        "pub_year": "2020",
+        "citation": "IPB (Bogor Agricultural University), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PANICLE CHARACTERIZATION OF SIX FOXTAIL MILLET (SETARIA ITALICA (L.) BEAUV) LOCAL GENOTYPES",
+        "pub_year": "2019",
+        "citation": "Dr. Mithat Direk, 675, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Important characters in salt tolerant rice based on several methods of screening",
+        "pub_year": "2019",
+        "citation": "\ud55c\uad6d\uc721\uc885\ud559\ud68c \ud559\uc220\ubc1c\ud45c\ud68c\uc9c0 2019 (1), 102-102, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salt and Drought Tolerance Evaluation on Foxtail Millet (Setaria italica L. Beauv.) Genotypes",
+        "pub_year": "2019",
+        "citation": "\ud55c\uad6d\uc721\uc885\ud559\ud68c \ud559\uc220\ubc1c\ud45c\ud68c\uc9c0 2019 (1), 96-96, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and Characterization of Cassava (Manihot esculenta Crantz.) Originated from Open Pollination Seed of M1G4 Gajah Mutant Genotypes Population",
+        "pub_year": "2019",
+        "citation": "\ud55c\uad6d\uc721\uc885\ud559\ud68c \ud559\uc220\ubc1c\ud45c\ud68c\uc9c0 2019 (1), 66-66, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Komersialisasi Hasil Riset Ubi Kayu",
+        "pub_year": "2018",
+        "citation": "Fakultas Pertanian dan Bisnis Universitas Kristen Satya Wacana, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembentukan Buah dan Perkecambahan Tanaman Jarak Pagar pada Transformasi Langsung Melalui Jalur Tabung Polen",
+        "pub_year": "2018",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 46 (1), 95-102, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Hasil dan Kandungan Pati Mutan Ubi Kayu Hasil Iradiasi Sinar Gamma Generasi M1V4 Yield and Starch Content Evaluation of Gamma Irradiated Cassava Mutants at M1V4 Generation",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformasi Genetik Tanaman Jarak Pagar (Jatropha curcas L.) Melalui Jalur Tabung Polen.",
+        "pub_year": "2018",
+        "citation": "IPB (Bogor Agricultural University), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:5awf1xo2G04C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Beberapa Aksesi Temu Hitam (Curcuma aeruginosa Roxb.) Berdasarkan Karakter Morfologi Diversity of Some Black Turmeric (Curcuma aeruginosa Roxb.) Accessions Based on \u2026",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:N5tVd3kTz84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marker traits association of agronomical traits correlated with stagnant flooding tolerance in rice",
+        "pub_year": "2017",
+        "citation": "Journal of Physics: Conference Series 835 (1), 012002, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficiency of Genetic Transformation via Pollen-Tube Pathway of Jatropha (Jatropha curcas L.) Based on Histochemical and Molecular Analysis",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 45 (3), 316-322, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbaikan Keragaan Pertumbuhan Bibit Jeruk Pamelo [Citrus Maxima (Burm.) Merr.] Melalui Kombinasi Teknik Strangulasi, Pinching Dan Aplikasi Zat Pemecah Dormansi.",
+        "pub_year": "2016",
+        "citation": "IPB (Bogor Agricultural University), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of sorghum (Sorghum bicolor L. Moench) genotypes for aluminium stress tolerance in nutrient culture.",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi dan Uji Kekerabatan Aksesi Temu Hitam (Curcuma aeruginosa Roxb.)",
+        "pub_year": "2015",
+        "citation": "Perhimpunan Hortikultura Indonesia, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Akumulasi Prolin dan Poliamin Beberapa Aksesi Tanaman Terung terhadap Cekaman Kekeringan",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sample preservation procedures and simple DNA isolation protocols for the tuberous crop, cassava (Manihot esculenta Crantz.)",
+        "pub_year": "2014",
+        "citation": "Asia Pacific Journal of Molecular Biology and Biotechnology 22 (1), 164-170, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of fertilizer application on growth and pitcher formation of Nepenthes x ventrata",
+        "pub_year": "2013",
+        "citation": "Agrohorti Bulletin (e-journal) 1 (1), 113-118, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies on potassium and sodium transport genes in rice and Puccinellia tenuiflora in response to salt stress",
+        "pub_year": "2010",
+        "citation": "\u6771\u4eac\u5927\u5b66, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ASCORBIC ACID PROLONGS CASSAVA TUBEROUS ROOT SHELF-LIFE THROUGH INCREASED ROS SCAVENGING CAPACITY",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INTENSITY",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:ye4kPcJQO24C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Multiplikasi Tunas dan Aplikasi AgN03 pada Planlet Ubi Kayu (Mannihot esculenta Crantz.) secara In vitro",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Kondisi Ruang Berpendingin Dan Frekuensi Penyiraman Terhadap Pertnmbuhan Dan Ketahanan Tanaman Aglnonema Commutatum Dan Dieffenbachia Amoena",
+        "citation": "Bogor Agricultural University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi In Vitro Ubi Kayu (Manihot esculenta Crantz) Genotipe UJ-5 dan Jame-jame dengan Teknik Pertumbuhan Minimal.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:HE397vMXCloC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rice (Oryza sativa L.) genotypes tolerance to flash flooding and stagnant flooding stress",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Mekanisme Target-site Resistance Herbisida Glifosat pada Eleusine indica (L.) Gaertn. dari Kebun Kelapa Sawit Jonggol, Jawa Barat",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:olpn-zPbct0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Budidaya Tanaman Akar Wangi (Vetiveria zizanioides (L.) Nash) dalam Wadah: Pengaruh Jenis Media Tanam dan Jumlah Bibit Vetiver (Vetiveria zizanioides (L.) Nash) Cultivation in \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan Tunas Ubi Kayu (Manihot esculenta Crantz.) Genotipe Jame-jame secara In Vitro In Vitro Shoots Growth of Cassava (Manihot esculenta Crantz.) Jame-jame Genotype",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STRATEGI KOMERSIALISASI HASIL RISET UBI KAYU CASSAVA RESEARCH PRODUCTS COMMERCIALIZATION STRATEGY",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Stable Variant of Planlets and Seedlings of induction mutation gamma irradiated cassava (Manihot esculenta crantz.) genotypes for high yields and starch content",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Cepat Toleransi Tanaman Padi terhadap Cekaman Rendaman pada Fase Vegetatif Rapid Screening for Rice Tolerance to Submergence on Vegetative Phase",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Metode Modifikasi Bulk untuk Pemuliaan Padi Adaptif pada Kondisi Fosfor Tanah Suboptimum",
+        "citation": "Jurnal Penelitian Pertanian Tanaman Pangan 1 (1), 1-10, 0"
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of genetic parameters and gene actions of sorghum [Sorghum bicolor (L.) Moench] tolerance to low p condition",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "iIFbt_AAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

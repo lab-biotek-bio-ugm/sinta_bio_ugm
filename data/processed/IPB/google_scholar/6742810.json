@@ -1,0 +1,502 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "o-s4DpAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Jepri Agung Priyanto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=o-s4DpAAAAAJ&citpid=16",
+  "affiliation": "Division of Microbiology, Department of Biology, IPB University (Bogor Agricultural University)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Microbiology",
+    "Pharmaceutical Microbiology",
+    "Natural Products"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 176,
+  "citedby5y": 170,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 7,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2016": 1,
+    "2017": 3,
+    "2018": 1,
+    "2019": 10,
+    "2020": 15,
+    "2021": 27,
+    "2022": 41,
+    "2023": 44,
+    "2024": 32
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant Growth Promoting Activity of Actinomycetes Isolated from Soybean Rhizosphere",
+        "pub_year": "2019",
+        "citation": "OnLine Journal of Biological Sciences 19 (1), 1-8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13236761885860320561",
+      "cites_id": [
+        "13236761885860320561"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Streptomyces spp. from rhizosphere soil of maize with potential as plant growth promoter",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (9), 2547-2553, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13619965809813402213",
+      "cites_id": [
+        "13619965809813402213"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flavonoids production capability test of tea mistletoe (Scurrula atropurpurea Bl. Dans) endophytic bacteria isolates",
+        "pub_year": "2014",
+        "citation": "Jurnal Sains dan Matematika 22 (4), 89-96, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4231500857208699696",
+      "cites_id": [
+        "4231500857208699696"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The antibacterial and antibiofilm potential of Paederia foetida Linn. leaves extract",
+        "pub_year": "2022",
+        "citation": "Journal of Applied Pharmaceutical Science 12 (10), 117-124, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6948395843523674283",
+      "cites_id": [
+        "6948395843523674283"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and Characterization of Sponge-Associated Bacteria Producing Bioactive Compounds Anti-Vibrio sp.",
+        "pub_year": "2018",
+        "citation": "American Journal of Biochemistry and Biotechnology 14 (3), 221-229, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14068729991374641609",
+      "cites_id": [
+        "14068729991374641609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Antibacterial and Antibiofilm Activities of the Endophytic Bacteria Associated with Archidendron pauciflorum against Multidrug-Resistant Strains",
+        "pub_year": "2023",
+        "citation": "Applied Biochemistry and Biotechnology 195 (11), 6653\u20136674, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:Se3iqnhoufwC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12489624126325196481",
+      "cites_id": [
+        "12489624126325196481"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactive Compounds from Sponge Associated Bacteria: Anticancer Activity and NRPS-PKS Gene Expression in Different Carbon Sources",
+        "pub_year": "2017",
+        "citation": "American Journal of Biochemistry and Biotechnology 13 (4), 148-156, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3725929113092441754",
+      "cites_id": [
+        "3725929113092441754"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial susceptibility and molecular species identification of clinical carbapenem-resistant bacteria",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (2), 555-562, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17340654531595896443",
+      "cites_id": [
+        "17340654531595896443"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Paederia foetida Linn Leaves-Derived Extract Showed Antioxidant and Cytotoxic Properties Against Breast Carcinoma Cell",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (2), 271-280, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4704548857593259661",
+      "cites_id": [
+        "4704548857593259661"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Antibacterial Activities of Marine Sponge-Associated Bacteria Against Pathogenic Vibrio spp. Causes Vibriosis in Shrimps",
+        "pub_year": "2019",
+        "citation": "International Journal of Pharmacy and Pharmaceutical Sciences 11 (11), 33-37, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14046797107970749588",
+      "cites_id": [
+        "14046797107970749588"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natural extracts derived from marine sponge-associated bacteria with diverse nonribosomal peptide synthetase genes have anticancer activities",
+        "pub_year": "2022",
+        "citation": "Journal of Applied Pharmaceutical Science 12 (04), 054-063, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:ufrVoPGSRksC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15167279386137044818",
+      "cites_id": [
+        "15167279386137044818"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of chitinase-producing rhizosphere actinomycetes and their genetic diversity",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (10), 4186-4192, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3145627265458280514",
+      "cites_id": [
+        "3145627265458280514"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Crude Extract of Blue-Green Pigment Derived from the Marine Bacterium Pseudomonas aeruginosa P1.S9 has Antibacterial, Antioxidant and Cytotoxic Activities",
+        "pub_year": "2022",
+        "citation": "OnLine Journal of Biological Sciences 22 (1), 118-125, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12566289161518414514",
+      "cites_id": [
+        "12566289161518414514"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pharmaceutical Properties and Phytochemical Profile of Extract Derived from Purple Leaf (Graptophyllum pictum (L.) Griff)",
+        "pub_year": "2024",
+        "citation": "Turkish Journal of Pharmaceutical Sciences 21 (2), 133-140, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15354493618064715252",
+      "cites_id": [
+        "15354493618064715252"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant, cytotoxic properties, and chemical constituents of soil Streptomyces spp. isolated from Muna Islands, Southeast Sulawesi, Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (2023) 012060), 1-10, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7643582492726948881",
+      "cites_id": [
+        "7643582492726948881"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil bacteria from Muna Island, Southeast Sulawesi, Indonesia: Antibacterial and antibiofilm activities, and the presence of antibiotic-biosynthetic genes",
+        "pub_year": "2024",
+        "citation": "Journal of Applied Pharmaceutical Science 14 (06), 207-217, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virulence Evaluation of Aeromonas spp. KS-1 Isolated from Kitchen Sponge using Omphisa fuscidentalis Larvae",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 613-620, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosurfactant Activity of Bacillus sp. Strain LP04 Isolate and Its Antifungal Potency against Ganoderma boninense and Fusarium sp.",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 725-732, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Two Strains of Endophytic Bacillus velezensis Carrying Antibiotic-Biosynthetic Genes Show Antibacterial and Antibiofilm Activities Against Methicillin-Resistant Staphylococcus \u2026",
+        "pub_year": "2024",
+        "citation": "Indian Journal of Microbiology, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactivity potential and chemical profile of endophytic Stutzerimonas stutzeri strain D2 isolated from Myristica fatua Houtt",
+        "pub_year": "2024",
+        "citation": "Journal of Research In Pharmacy 28 (1), 51-62, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidan dan Sitotoksisitas Ekstrak Bakteri Tanah Asal Pulau Muna, Sulawesi Tenggara",
+        "pub_year": "2024",
+        "citation": "Jurnal Ilmu Dasar 25 (1), 7-16, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Glucanase activity produced by rhizospheric Streptomyces tritolerans ARJ 32 and Streptomyces collinus ARJ 38 and the analysis of their encoding genes",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (10), 5831-5837, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation Analyses of the Oral Biofilm Growth Inhibition towards Hydrophobicity Reduction of Oral Pathogenic Bacteria",
+        "pub_year": "2023",
+        "citation": "Tropical Journal of Natural Product Research 7 (10), 4141\u20134145, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vivo Anti-Vibrio Evaluation of Sponge-Associated Bacteria on The Survival Rate of Litopenaeus vannamei Infected with Pathogenic Vibrio Species",
+        "pub_year": "2023",
+        "citation": "Tropical Life Science Research 34 (2), 299-311, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The clove essential oil and its combination with galangal oil exhibit antibacterial activity, potential as antiseptic agent",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (2023) 012076), 1-7, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Bakteri Gram-Negatif Pada Permukaan Daun Kemangi (Ocimum basilicum) dari Tiga Pasar Tradisional di Bogor",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya HAYATI 9 (4), 138-144, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic Bacillus spp. isolated from Archidendron pauciflorum: Pharmacological property and their phytochemical constituents",
+        "pub_year": "2023",
+        "citation": "Journal of Research In Pharmacy 27 (6), 2511-2521, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi dan Karakterisasi Bakteri Halotoleran Penghasil Enzim Amilase Dari Produk Fermentasi Ikan-Inasua",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (3), 96-103, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant, Antibacterial and Antibiofilm Activities of an Endophytic Fungi, Penicillium Sp. SAF6-EGY Strain AFL.2 and Arthrinium Sp. R22-1 Strain AFL.3 Isolated from Aglaia \u2026",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 1st International Conference for Health Research\u2013BRIN \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Pelaksanaan Workshop Daring Penerapan Ilmu Biologi di SMA Plus Al Wahid Tasikmalaya",
+        "pub_year": "2022",
+        "citation": "Agrokreatif 8 (1), 93-100, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Eksperimen dalam Genetika Bakteri",
+        "pub_year": "2022",
+        "citation": "Penerbit : IPB Press 1, 1-166, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of lytic bacteriophage isolated from various environments to control the growth of Citrobacter braakii causing urinary tract infection",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (12), 5550-5554, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Senyawa Bioaktif dari Bakteri yang Berasosiasi dengan Spons: Aktivitas Antikanker dan Ekspresi Gen NRPS-PKS pada Sumber Karbon yang Berbeda.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "o-s4DpAAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

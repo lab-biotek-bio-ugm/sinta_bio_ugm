@@ -1,0 +1,215 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "OlYoFTgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Anriansyah Renggaman",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OlYoFTgAAAAJ&citpid=2",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Waste Management",
+    "Biogas Production",
+    "Microbiology"
+  ],
+  "email_domain": "@itb.ac.id",
+  "homepage": "https://www.itb.ac.id/staf/profil/anriansyah-renggaman",
+  "citedby": 265,
+  "citedby5y": 219,
+  "hindex": 5,
+  "hindex5y": 4,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2014": 2,
+    "2015": 9,
+    "2016": 7,
+    "2017": 9,
+    "2018": 17,
+    "2019": 20,
+    "2020": 24,
+    "2021": 45,
+    "2022": 46,
+    "2023": 53,
+    "2024": 30
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "RJGFZv8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sartika Indah Amalia Sudiarto",
+      "affiliation": "Lecturer, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Ufmwk4kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "suresh arumuganainar",
+      "affiliation": "Assistant Professor, Department of Biotechnology, Institute of Advanced Research, India"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SIRAKp8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Andi Febrisiantosa",
+      "affiliation": "Research Centre for Food Technology and Processing, National Research and Innovation Agency"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Floating aquatic plants for total nitrogen and phosphorus removal from treated swine wastewater and their biomass characteristics",
+        "pub_year": "2019",
+        "citation": "Journal of environmental management 231, 763-769, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 121,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1869927675565995971",
+      "cites_id": [
+        "1869927675565995971"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of livestock manure and mixture higher heating value based on fundamental analysis",
+        "pub_year": "2014",
+        "citation": "Fuel 116, 772-780, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 101,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18392877350952020876",
+      "cites_id": [
+        "18392877350952020876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of pig welfare assessment protocol integrating animal-, environment-, and management-based measures",
+        "pub_year": "2015",
+        "citation": "Journal of animal science and technology 57, 1-11, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11359352195976167564",
+      "cites_id": [
+        "11359352195976167564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochemical methane potential of swine slaughter waste, swine slurry, and its codigestion effect",
+        "pub_year": "2021",
+        "citation": "Energies 14 (21), 7103, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8865793509974274710",
+      "cites_id": [
+        "8865793509974274710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Underground anaerobic digester to solve the energy balance problem in temperate regions: A pilot study",
+        "pub_year": "2015",
+        "citation": "Applied engineering in agriculture 31 (4), 643-651, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4325643301494683557",
+      "cites_id": [
+        "4325643301494683557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The investigation of combined ventilation-biofilter systems using recycled treated wastewater on odor reduction efficiency",
+        "pub_year": "2020",
+        "citation": "Asian-Australasian journal of animal sciences 33 (7), 1209, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16690288214844129173",
+      "cites_id": [
+        "16690288214844129173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH NUTRISI TERIGU TERHADAP PERBAIKAN TANAH PASIR SILIKA DENGAN MISELIUM JAMUR",
+        "pub_year": "2023",
+        "citation": "Jurnal Arsip Rekayasa Sipil dan Perencanaan 6 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10132236227428532903",
+      "cites_id": [
+        "10132236227428532903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Phytoremediation for Total Nitrogen and Total Phosphorus Removal from Treated Swine Wastewater and Bio-methane Potential of the Biomass",
+        "pub_year": "2015",
+        "citation": "Journal of the Korea Organic Resources Recycling Association 23 (4), 21-31, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1322068431983185835,1218408263293022102",
+      "cites_id": [
+        "1322068431983185835",
+        "1218408263293022102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Mikroba dari Lendir Estrus dan Deteksi Kebuntingan Sapi Kawin Berulang di Sleman, Yogyakarta",
+        "citation": "Jurnal Sain Veteriner 39 (3), 302-309, 0"
+      },
+      "filled": false,
+      "author_pub_id": "OlYoFTgAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

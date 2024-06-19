@@ -1,0 +1,715 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "YNNgLH0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Lulu Lusianti Fitri",
+  "affiliation": "Lecturer at Institut Teknologi Bandung, INDONESIA",
+  "interests": [
+    "Biology"
+  ],
+  "email_domain": "@-",
+  "homepage": "http://www.sith.itb.ac.id/",
+  "citedby": 213,
+  "citedby5y": 155,
+  "hindex": 7,
+  "hindex5y": 6,
+  "i10index": 5,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "1997": 1,
+    "1998": 2,
+    "1999": 2,
+    "2000": 1,
+    "2001": 2,
+    "2002": 1,
+    "2003": 0,
+    "2004": 6,
+    "2005": 1,
+    "2006": 4,
+    "2007": 4,
+    "2008": 0,
+    "2009": 4,
+    "2010": 4,
+    "2011": 2,
+    "2012": 1,
+    "2013": 3,
+    "2014": 1,
+    "2015": 2,
+    "2016": 1,
+    "2017": 4,
+    "2018": 5,
+    "2019": 2,
+    "2020": 18,
+    "2021": 24,
+    "2022": 32,
+    "2023": 52,
+    "2024": 25
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth performance and nutritional composition of black soldier fly, Hermetia illucens (L), (Diptera : Stratiomyidae) reared on horse and sheep manure",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 187, 012071, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 52,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4887726363728476628",
+      "cites_id": [
+        "4887726363728476628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mating success and reproductive behavior of Black Soldier Fly Hermetia illucens L. (Diptera, Stratiomyidae) in tropics.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9881664367243067044",
+      "cites_id": [
+        "9881664367243067044"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Breeding biology of hooded robins' Melanodryas cucullata'in New England, New South Wales",
+        "pub_year": "2003",
+        "citation": "Corella, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1609959401524093476",
+      "cites_id": [
+        "1609959401524093476"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survival and reproductive value of Hermetia illucens (Diptera: Stratiomyidae) on vegetable and fruits waste rearing substrate",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1245 (1), 012002, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:0EnyYjriUFMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15345647606979986741",
+      "cites_id": [
+        "15345647606979986741"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Status, habitat and social organisation of the Hooded Robin'Melanodryas cucullata'in the New England region of New South Wales",
+        "pub_year": "1997",
+        "citation": "Australian Bird Watcher 17 (3), 142-155, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8194728443241760794",
+      "cites_id": [
+        "8194728443241760794"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research article ovitrap preference in the black soldier fly, Hermetia illucens (L.)(Diptera: Stratiomyidae)",
+        "pub_year": "2021",
+        "citation": "J. Biol. Sci 24, 562-570, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:aqlVkmm33-oC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2287254634474006863",
+      "cites_id": [
+        "2287254634474006863"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Managing construction waste in developed countries: Lessons learned for Indonesia",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 366 (1), 012016, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14007140331691559642",
+      "cites_id": [
+        "14007140331691559642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary study of the effect of PPAR-\u00ce\u00b3 agonist from Myristica fragrans houtt seed extract on the biogenesis of rat infant\u00e2\u20ac\u2122 s brain mitochondria and D1 dopamine receptor",
+        "pub_year": "2018",
+        "citation": "Bali Medical Journal 7 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:roLk4NBRz8UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11274118753122598408",
+      "cites_id": [
+        "11274118753122598408"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecology and Behaviour of Hooded Robins (Melanodryas cucullata) in the Northern Tablelands of New South Wales",
+        "pub_year": "1993",
+        "citation": "University of New England, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13188289311619634419",
+      "cites_id": [
+        "13188289311619634419"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of mates virginity on black soldier fly, Hermetia illucens L.(Diptera: Stratiomyidae) mating performance",
+        "pub_year": "2020",
+        "citation": "Jurnal Biodjati 5 (2), 174-181, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:4TOpqqG69KYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13013122141440352750",
+      "cites_id": [
+        "13013122141440352750"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of blue light exposure to beta brainwaves on simulated night driving",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2357622400489574983",
+      "cites_id": [
+        "2357622400489574983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kemampuan belajar bernyanyi pada burung kenari jantan muda (Serinus canaria Linn.) yang didedahkan secara live-tutoring dan tape-tutoring",
+        "pub_year": "2015",
+        "citation": "Jurnal Istek 9 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3488964873325655102",
+      "cites_id": [
+        "3488964873325655102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Papaya (Carica papaya L.) Leaf Crude Extract on Rat's (Rattus norvegicus Berkenhout) Learning Performance",
+        "pub_year": "2008",
+        "citation": "Proceeding of the 2nd International Conference on Mathematics and Natural \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15475503661068084696",
+      "cites_id": [
+        "15475503661068084696"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Aqueous Leaves Extract of Pegagan (Centella asiatica L.) on Cognitive Ability and Monoamine Neurotransmitter of Adult Male Wistar Rats (Rattus norvegicus L.)",
+        "pub_year": "2006",
+        "citation": "Proceeding on 1st International Conference in Mathematics and Natural Science, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13919879363865751493",
+      "cites_id": [
+        "13919879363865751493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Foraging behaviour of hooded robins' Melanodryas cucullata'in the Northern Tablelands of New South Wales",
+        "pub_year": "2003",
+        "citation": "Corella, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2233689427433052957",
+      "cites_id": [
+        "2233689427433052957"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aggression among Hooded Robins Melanodryas cucullata and other birds",
+        "pub_year": "1998",
+        "citation": "Corella 22, 24-28, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14100247532735528757",
+      "cites_id": [
+        "14100247532735528757"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Theta Brainwave Activity as the Response to Lavender (Lavendula angustifolia) Aromatherapy Inhalation of Postgraduate Students with Acasdemic Stress Condition",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Materials Science and Engineering 180 (1), 012271, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13918185017279830724",
+      "cites_id": [
+        "13918185017279830724"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Panduan Singkat Perekaman dan Analisa Suara Burung",
+        "pub_year": "2002",
+        "citation": "Bandung (ID): Institut Teknologi Bandung, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15374533414947961481",
+      "cites_id": [
+        "15374533414947961481"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of food waste by Black Soldier Fly, Hermetia illucens larvae (Diptera: Stratiomyidae L.) for alternative animal feed stock",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 1st International Conference on Islam, Science and \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13754162996582721337",
+      "cites_id": [
+        "13754162996582721337"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Latency of sugar selection behavior in German cockroaches, Blattella germanica (Dictyoptera: Blattellidae)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 593 (1), 012017, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9993460570626283281",
+      "cites_id": [
+        "9993460570626283281"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of glucose aversion behavior development in German cockroaches, Blattella germanica L.(Dictyoptera: Blattellidae) in Indonesia.",
+        "pub_year": "2019",
+        "citation": "Journal of Entomology 16 (2), 39-46, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6812007410311880243",
+      "cites_id": [
+        "6812007410311880243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Blue light exposure and visual distraction effect of the cognition brain waves of driver in car simulator at night",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012051, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:UebtZRa9Y70C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12066851241030365697",
+      "cites_id": [
+        "12066851241030365697"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simple Eeg Assess Working Memory Process in Difference Gender",
+        "pub_year": "2022",
+        "citation": "Jurnal Kedokteran dan Kesehatan: Publikasi Ilmiah Fakultas Kedokteran \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=727755429096730972",
+      "cites_id": [
+        "727755429096730972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT OF BLUE LIGHT EXPOSURE TO BRAIN WAVE PHYSIOLOGY RELATED TO COGNITIVE AND MOTORIC FUNCTION DURING NIGHT DRIVING SIMULATION",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (2), 69-74, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=793898936410292376",
+      "cites_id": [
+        "793898936410292376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Mating Success and Reproductive Behavior of Black Soldier Fly Hermetia illucens L.(Diptera, Stratiomyidae) in Tropics",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17829365373622338307",
+      "cites_id": [
+        "17829365373622338307"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evoke of The Motoric Brain Waves of Driver in Car Simulator at Night by Blue Light Exposure and Visual Distraction",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012050, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3799160665621204549",
+      "cites_id": [
+        "3799160665621204549"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of strawberry (Fragaria x ananasa) as antidepresant activity on mice induced by stress",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5139298828346620586",
+      "cites_id": [
+        "5139298828346620586"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Les chants des canaris domestiques: leurs relations avec des caract\u00e9ristiques physiologiques et le statut social des males \u00e9metteurs",
+        "pub_year": "2001",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12090223865287834615",
+      "cites_id": [
+        "12090223865287834615"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Les chants des canaris domestiques: leurs relations avec des caract\u00e9ristiques physiologiques et le statut social des m\u00e2les \u00e9metteurs",
+        "pub_year": "2001",
+        "citation": "Paris 10, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3973882991858449849",
+      "cites_id": [
+        "3973882991858449849"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cognitive analysis based on EEG measurements on children with stunting-indicated in East Nusa Tenggara",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012095, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion efficiencies of several food waste by black soldier fly, Hermetia illucens (L.)(diptera: Stratiomyidae) larvae for sustainable waste management",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2646 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Reproductive Potential and Population Parameters of Hermetia illucens (Diptera: Stratiomyidae) Reared on Tofu Dreg",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive Potential and Population Parameters of Hermetia illucens (Diptera: Stratiomyidae) Reared on Tofu Dreg.",
+        "pub_year": "2022",
+        "citation": "Pakistan Journal of Biological Sciences: PJBS 25 (4), 328-336, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nocturnal Blue Light Exposure Increase Alpha and Beta Brain Waves as Cognition Function for Two Consecutive Night Driving in a Car Simulator",
+        "pub_year": "2020",
+        "citation": "SAINS MALAYSIANA 49 (9), 2091-2099, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of Nutmeg Seed Extract in Integral Membrane Protein and Synaptic Vesicle: Younger Vs Aging.",
+        "pub_year": "2020",
+        "citation": "Systematic Reviews in Pharmacy 11 (8), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peppermint (Mentha piperita) as Antidepressant on Male Wistar Rat (Rattus norvegicus) Exposed to Blue Light",
+        "pub_year": "2019",
+        "citation": "Jurnal Matematika dan Sains 23 (1), 1-6, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Latency Behavior of Sugar Selection in German Cockroaches, Blattella germanica L.(Dictyoptera: Blattellidae)",
+        "pub_year": "2018",
+        "citation": "The SEA+ Conference on Biodiversity and Biotechnology 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Status, Habi t at a nd Social Organisation of the Hooded Robin Melanodryas cuc ullat a in the N ew Engl and Region of New South Wales",
+        "pub_year": "2016",
+        "citation": "Australian Field Ornithology 17 (3), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Communication chez le canari: effet des chants du m\u00e2le sur l'activit\u00e9 reproductrice de la femelle",
+        "pub_year": "1998",
+        "citation": "XXIV Colloque National d'Ornithologie, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Communication chez le canari: l\u2019effet des chants du m\u00e2le d\u00e9pend de la phase du cycle reproducteur, de l\u2019exp\u00e9rience pr\u00e9coce et de l\u2019exp\u00e9rience r\u00e9cente",
+        "pub_year": "1998",
+        "citation": "Journ\u00e9e scientifique des Assises des r\u00e9seaux de Sciences cognitives d\u2019Ile-de \u2026, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "L\u2019influence des chants du m\u00e2le sur le comportement reproducteur de la femelle canari d\u00e9pend du contexte, de l\u2019exp\u00e9rience pr\u00e9coce et de l\u2019exp\u00e9rience r\u00e9cente",
+        "pub_year": "1998",
+        "citation": "Journ\u00e9e annuelle de la Recherche de l\u2019UFR-SPSE, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FORAGING BEHAVIOUR OF HOODED ROS: INS",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BREEDING BIOLOGY OF HOODED ROBINS Melanodryas cucullata IN NEW ENGLAND, NEW SOUTH WALES",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGGUNAAN SONAGRAM UNTUK MENGETAHUI PENGARUH ISOLASI DAN PENDEDAHAN SUARA BURUNG JANTAN DEWASA INTRASPESIES (KENARI/Serinus canaria L.) DAN INTERSPESIES (ANIS KEMBANG/Zoothera \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECT OF PASAK BUMI ROOT EXTRACT (Eurycoma longifolia Jack.) ON COGNITION AND GLUTAMIC ACID LEVEL IN THE HIPPOCAMPUS OF 4 WEEKS OLD MALE WISTAR RATS (Rattus norvegicus L.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YNNgLH0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

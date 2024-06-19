@@ -1,0 +1,342 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "lXD-XZYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Hirmas Fuady Putra",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lXD-XZYAAAAJ&citpid=2",
+  "affiliation": "Lecturer of Biology, Department of Biology, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Plant Ecology"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "homepage": "http://biologi.ipb.ac.id/web/en/faculty/profile/652/hirmas-fuady-putra",
+  "citedby": 81,
+  "citedby5y": 75,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2018": 5,
+    "2019": 6,
+    "2020": 21,
+    "2021": 12,
+    "2022": 14,
+    "2023": 15,
+    "2024": 6
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hoya species of Belitung Island, Indonesia, utilization and conservation",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (2), 369-376, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13620481633199354177",
+      "cites_id": [
+        "13620481633199354177"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A field guide to the potential plants of Belitung Islands",
+        "pub_year": "2019",
+        "citation": "Bogor: IPB Press, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:5nxA0vEk-isC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18020926357867962649",
+      "cites_id": [
+        "18020926357867962649"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Landscape Function of Post Tin-Mining Land After Reclamation in Bangka, Indonesia",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 58 (1), 012018, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=188864562562767124",
+      "cites_id": [
+        "188864562562767124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Fisiologis Lumut pada Beberapa Ketinggian di Kawasan Gunung Tangkuban Perahu",
+        "pub_year": "2015",
+        "citation": "Jurnal Sumberdaya Hayati 1 (2), 60-63, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16374850837949358518",
+      "cites_id": [
+        "16374850837949358518"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Terapi Reminiscence (Mengenang Masa Lalu yang Menyenangkan) terhadap Depresi pada Lansia di Unit Rehabilitasi Sosial Pucang Gading Semarang 2014",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4761550053869682193",
+      "cites_id": [
+        "4761550053869682193"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thottea tapanuliensis (Aristolochiaceae): A new species from Sumatra, Indonesia",
+        "pub_year": "2020",
+        "citation": "Telopea 23, 163-168, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3808678267912635423",
+      "cites_id": [
+        "3808678267912635423"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil fertility and diversity of microorganism under rubber plantation",
+        "pub_year": "2019",
+        "citation": "Asian Journal of Plant Sciences 18 (4), 148-152, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:Se3iqnhoufwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9315733303027685967",
+      "cites_id": [
+        "9315733303027685967"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of mercury on growth, anatomy and physiology of four non-edible oil-producing species.",
+        "pub_year": "2019",
+        "citation": "Asian Journal of Plant Sciences 18 (4), 164-174, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1746039851540627022",
+      "cites_id": [
+        "1746039851540627022"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Melothria (Cucurbitaceae): A new genus record of naturalized cucumber in Sumatra",
+        "pub_year": "2020",
+        "citation": "Floribunda 6 (5), 183\u2013187-183\u2013187, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4623320234921984484",
+      "cites_id": [
+        "4623320234921984484"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of crystalline nanocellulose by various methods",
+        "pub_year": "2020",
+        "citation": "Arab J. Chem. Environ. Res 7, 94-125, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:0EnyYjriUFMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5428134440627453346",
+      "cites_id": [
+        "5428134440627453346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new record of Euphorbia atoto (Euphorbiaceae) in Bangka Belitung and notes of Coptosapelta hammii (Rubiaceae) for Borneo",
+        "pub_year": "2019",
+        "citation": "Journal of Tropical Biology & Conservation (JTBC) 16, 155-163, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10380804479587184758",
+      "cites_id": [
+        "10380804479587184758"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rehabilitasi lahan bekas tambang di quarry PT Indocement Hambalang dengan menggunakan tanaman legum dan pupuk hayati",
+        "pub_year": "2022",
+        "citation": "Prosiding Seminar Nasional Biologi, Teknologi dan Kependidikan 9 (1), 139-144, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17305971936699348154",
+      "cites_id": [
+        "17305971936699348154"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial community shifts indicate recovery of soil physical properties in a post\u2010tin\u2010mining area on Belitung Island, Indonesia",
+        "pub_year": "2024",
+        "citation": "Land Degradation & Development, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity, conservation, potential uses, and alien species of lowland plants of Batang Toru, Sumatra, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gold Mine Wastewater Induced Morpho-physiological Alteration of Four Biodiesel Producing Species",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (1), 63-63, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological function of the land after Merapi eruption",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012013, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fungsi Lanskap pada Zona Rehabilitasi di Taman Nasional Gunung Ciremai",
+        "pub_year": "2019",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Forest rehabilitation on gunung ciremai.",
+        "pub_year": "2019",
+        "citation": "Journal of Natural Resources and Environmental Management 9 (4), 1010-1018, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rehabilitation of Ex-Mining Quarry Area with Phytoremediation Plants and Biological Fertilizer Application",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan Vegetatif dan Reproduktif Tanaman Padi dan Jagung pada Berbagai Dosis dan Waktu Aplikasi Pupuk Hayati",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant Diversity of Belitung Islands",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "lXD-XZYAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "K4sh_PoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Apriliana Cahya Khayrani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=K4sh_PoAAAAJ&citpid=2",
+  "affiliation": "Prodi Teknik Bioproses, Departemen Teknik Kimia, Fakultas TeknikUniversitas Indonesia",
+  "interests": [
+    "Drug Delivery System",
+    "Biomaterial",
+    "Bioactive compound"
+  ],
+  "email_domain": "@ui.ac.id",
+  "citedby": 470,
+  "citedby5y": 456,
+  "hindex": 12,
+  "hindex5y": 12,
+  "i10index": 13,
+  "i10index5y": 13,
+  "cites_per_year": {
+    "2017": 2,
+    "2018": 12,
+    "2019": 31,
+    "2020": 49,
+    "2021": 112,
+    "2022": 100,
+    "2023": 128,
+    "2024": 34
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A novel model of liver cancer stem cells developed from induced pluripotent stem cells",
+        "pub_year": "2020",
+        "citation": "British Journal of Cancer 122 (9), 1378-1390, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:Se3iqnhoufwC",
+      "num_citations": 67,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2940724000386629946",
+      "cites_id": [
+        "2940724000386629946"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new PDAC mouse model originated from iPSCs-converted pancreatic cancer stem cells (CSCcm)",
+        "pub_year": "2016",
+        "citation": "American journal of cancer research 6 (12), 2799, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 61,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14692218730231154922",
+      "cites_id": [
+        "14692218730231154922"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluating the potency of Sulawesi propolis compounds as ACE-2 inhibitors through molecular docking for COVID-19 drug discovery preliminary study",
+        "pub_year": "2021",
+        "citation": "Journal of King Saud University-Science 33 (2), 101297, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:8k81kl-MbHgC",
+      "num_citations": 53,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14061939170270801981",
+      "cites_id": [
+        "14061939170270801981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular interaction analysis of Sulawesi propolis compounds with SARS-CoV-2 main protease as preliminary study for COVID-19 drug discovery",
+        "pub_year": "2021",
+        "citation": "Journal of King Saud University-Science 33 (1), 101234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64314688594574348",
+      "cites_id": [
+        "64314688594574348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Up-regulation of PI 3-kinases and the activation of PI3K-Akt signaling pathway in cancer stem-like cells through DNA hypomethylation mediated by the cancer microenvironment",
+        "pub_year": "2018",
+        "citation": "Translational oncology 11 (3), 653-663, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13666630487235209778",
+      "cites_id": [
+        "13666630487235209778"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Targeting ovarian cancer cells overexpressing CD44 with immunoliposomes encapsulating glycosylated paclitaxel",
+        "pub_year": "2019",
+        "citation": "International journal of molecular sciences 20 (5), 1042, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12068536615586651063",
+      "cites_id": [
+        "12068536615586651063"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Targeting glioblastoma cells expressing CD44 with liposomes encapsulating doxorubicin and displaying chlorotoxin-IgG Fc fusion protein",
+        "pub_year": "2018",
+        "citation": "International journal of molecular sciences 19 (3), 659, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2676833669803320345",
+      "cites_id": [
+        "2676833669803320345"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of DNA-generated gold nanoparticles to radiosensitize and eradicate radioresistant glioma stem cells",
+        "pub_year": "2018",
+        "citation": "Nanotechnology 30 (5), 055101, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10057819597150526295",
+      "cites_id": [
+        "10057819597150526295"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Signaling inhibitors accelerate the conversion of mouse iPS cells into cancer stem cells in the tumor microenvironment",
+        "pub_year": "2020",
+        "citation": "Scientific reports 10 (1), 9955, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:UebtZRa9Y70C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5082944327099133299",
+      "cites_id": [
+        "5082944327099133299"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential hepatoprotective effects of flavonoids contained in propolis from South Sulawesi against chemotherapy agents",
+        "pub_year": "2021",
+        "citation": "Saudi Journal of Biological Sciences 28 (10), 5461-5468, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17154512183111208260",
+      "cites_id": [
+        "17154512183111208260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hyaluronic acid mediated enrichment of CD44 expressing glioblastoma stem cells in U251MG xenograft mouse model",
+        "pub_year": "2017",
+        "citation": "J Stem Cell Res Ther 7 (384), 2, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13798365338670827690",
+      "cites_id": [
+        "13798365338670827690"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exogenous cripto-1 suppresses self-renewal of cancer stem cell model",
+        "pub_year": "2018",
+        "citation": "International journal of molecular sciences 19 (11), 3345, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6352705441564024425",
+      "cites_id": [
+        "6352705441564024425"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-breast cancer activity on MCF-7 cells of melittin from Indonesia\u2019s Apis cerana: An in vitro study",
+        "pub_year": "2021",
+        "citation": "Asian Pacific journal of cancer prevention: APJCP 22 (12), 3913, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9954515331686486900",
+      "cites_id": [
+        "9954515331686486900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Practical liposomal formulation for taxanes with polyethoxylated castor oil and ethanol with complete encapsulation efficiency and high loading efficiency",
+        "pub_year": "2017",
+        "citation": "Nanomaterials 7 (10), 290, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1159660931322326586",
+      "cites_id": [
+        "1159660931322326586"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular docking of south Sulawesi propolis against fructose 1, 6-bisphosphatase as a type 2 diabetes mellitus drug",
+        "pub_year": "2020",
+        "citation": "International Journal of Technology 11 (5), 910-920, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:0EnyYjriUFMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18090352623370257623",
+      "cites_id": [
+        "18090352623370257623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Lebah Dan Pengelolaan Sampah Untuk Ekonomi Rumah Tangga Yang Berkelanjutan",
+        "pub_year": "2021",
+        "citation": "Dharmakarya: Jurnal Aplikasi Ipteks Untuk Masyarakat 10 (3), 248-257, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:Zph67rFs4hoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2318933868968271566",
+      "cites_id": [
+        "2318933868968271566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The synthesis of amino-functionalized carbon quantum dots-decorated hydroxyapatite as drug delivery agent",
+        "pub_year": "2022",
+        "citation": "Comptes Rendus. Chimie 25 (G1), 295-306, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:_kc_bZDykSQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2705507745305540676",
+      "cites_id": [
+        "2705507745305540676"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heat transfer simulation of various material for polymerase chain reaction thermal cycler",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Engineering (JMechE) 18 (2), 27-37, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1756128259972790027",
+      "cites_id": [
+        "1756128259972790027"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Review of Artificial Nacre for Oil\u2013Water Separation",
+        "pub_year": "2023",
+        "citation": "Separations 10 (3), 205, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16767069319463860715",
+      "cites_id": [
+        "16767069319463860715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol Recovery from Propolis Production Waste Using Adsorption Distillation Method",
+        "pub_year": "2021",
+        "citation": "International Journal of Applied Pharmaceutics, 13-17, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15373673385069117388",
+      "cites_id": [
+        "15373673385069117388"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-Economic Assessment of Ferulic Acid Bioproduction from Agro-industrial Waste Using Aspergillus niger",
+        "pub_year": "2024",
+        "citation": "Waste and Biomass Valorization, 1-15, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing s-allyl-cysteine (SAC) content in extract black garlic (Stamilic) for health supplement",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3080 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Freeze-Thaw Cycles Method to Transfersome Characteristics for Growth Protein Encapsulation.",
+        "pub_year": "2024",
+        "citation": "International Journal of Technology 15 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulation of Anti-Oral Mouthwash Nanoemulsion Biofilm Based on Propolis Extract Heterotrigona itama, Tetragonula sapiens, and Tetragonula clypearis",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (6), 1175-1186, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enzymatic Treatment of Enhanced Musa Peel Flour as Potential Low Digestible Starch",
+        "pub_year": "2023",
+        "citation": "Journal of Bioprocessing and Biomass Technology 2 (1), 37-41, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Type 2 CRISPR/Cas identification of Geobacillus thermoleovorans from Batu Kuwung Banten: In silico studies",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2537 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular interaction analysis of Sulawesi propolis compounds with \u50f9) SARS-CoV-2 main protease as preliminary study for COVID-19 drug \u5668\u66a8 discovery",
+        "pub_year": "2021",
+        "citation": "Journal of King Saud University\u2013Science 33, 101234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Interaction Analysis of Indonesian and Thailand Traditional Medicine Compoundswith SARS-CoV-2 Main Protease, ACE-2, and PAK-1 as Preliminary Study for COVID-19 Drug \u2026",
+        "pub_year": "2020",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 34-34, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Drug Delivery Targeting Ovarian Cancer Cells",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Generation of Hepatocellular Carcinoma Cancer Stem Cell from induced Pluripotent Stem Cells",
+        "pub_year": "2018",
+        "citation": "CANCER SCIENCE 109, 673-673, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-mutagenic Chemical Compounds enhance the Conversion of iPSCs into CSCs",
+        "pub_year": "2018",
+        "citation": "CANCER SCIENCE 109, 1313-1313, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Paclitaxel Glycoside Liposomes Conjugated with Anti-CD44 Antibody Targeting Ovarian Cancer Cells",
+        "pub_year": "2018",
+        "citation": "CANCER SCIENCE 109, 1097-1097, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA Hypomethylation and overexpression of Class IB PI3K genes in the Oncogenic Conversion of iPSCs into CSCs",
+        "pub_year": "2018",
+        "citation": "CANCER SCIENCE 109, 673-673, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new PDAC mouse model originated from iPSCs-converted pancreatic cancer stem cells (CSCcm)",
+        "pub_year": "2016",
+        "citation": "eCentury Publishing Corporation, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Functional characterizations of group II chaperonin and prefoldin from hyperthermophilic thermococcus sp. Ks-1 in organic co-solvent",
+        "pub_year": "2011",
+        "citation": "International Journal of Pharma and Bio Sciences 2 (2), 304-311, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supplementary Nanomaterials: Practical Liposomal Formulation for Taxanes with Polyethoxylated Castor Oil and Ethanol with Complete Encapsulation Efficiency and High Loading \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "K4sh_PoAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,1282 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "klOIexYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Rika Indri Astuti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=klOIexYAAAAJ&citpid=1",
+  "affiliation": "Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Microbiology"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 677,
+  "citedby5y": 582,
+  "hindex": 15,
+  "hindex5y": 15,
+  "i10index": 22,
+  "i10index5y": 22,
+  "cites_per_year": {
+    "2011": 3,
+    "2012": 3,
+    "2013": 5,
+    "2014": 8,
+    "2015": 9,
+    "2016": 16,
+    "2017": 29,
+    "2018": 17,
+    "2019": 43,
+    "2020": 64,
+    "2021": 109,
+    "2022": 115,
+    "2023": 151,
+    "2024": 98
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of Pseudomonas sp. isolated from rhizosphere of soybean plant as plant growth promoter and biocontrol agent.",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 93,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4797666222704978089",
+      "cites_id": [
+        "4797666222704978089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant growth promoting activity of actinomycetes isolated from soybean rhizosphere",
+        "pub_year": "2019",
+        "citation": "Online J. Biol. Sci 19, 1-8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:Zph67rFs4hoC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13236761885860320561",
+      "cites_id": [
+        "13236761885860320561"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitric oxide signaling in yeast",
+        "pub_year": "2016",
+        "citation": "Applied microbiology and biotechnology 100 (22), 9483-9497, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3027672583901464207",
+      "cites_id": [
+        "3027672583901464207"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitric oxide signaling and its role in oxidative stress response in Schizosaccharomyces pombe",
+        "pub_year": "2016",
+        "citation": "Nitric Oxide 52, 29-40, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9626677425498881092",
+      "cites_id": [
+        "9626677425498881092"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Leaf blast disease reduction by rice-phyllosphere actinomycetes producing bioactive compounds",
+        "pub_year": "2017",
+        "citation": "Journal of General Plant Pathology 83, 98-108, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14850939540281507285",
+      "cites_id": [
+        "14850939540281507285"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant, antiglycation and in vivo antiaging effects of metabolite extracts from marine sponge-associated bacteria",
+        "pub_year": "2019",
+        "citation": "Indian Journal of Pharmaceutical Sciences 81 (2), 344-353, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:5nxA0vEk-isC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17922722888296290976",
+      "cites_id": [
+        "17922722888296290976"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Antiaging Effect of Active Fractions and Ent-11\u03b1-Hydroxy-15-Oxo-Kaur-16-En-19-Oic Acid Isolated from Adenostemma lavenia (L.) O. Kuntze at the Cellular \u2026",
+        "pub_year": "2020",
+        "citation": "Antioxidants 9 (8), 719, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=99593959706716651",
+      "cites_id": [
+        "99593959706716651"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Life span extension of model yeast Saccharomyces cerevisiae upon ethanol derived-clover bud extract treatment",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 299 (1), 012059, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7642056625374234983",
+      "cites_id": [
+        "7642056625374234983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacillus sp. SAB E-41-derived extract shows antiaging properties via ctt1-mediated oxidative stress tolerance response in yeast Schizosaccharomyces pombe",
+        "pub_year": "2018",
+        "citation": "Asian Pacific Journal of Tropical Biomedicine 8 (11), 533-539, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15130923476505587093",
+      "cites_id": [
+        "15130923476505587093"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitric oxide signalling in yeast",
+        "pub_year": "2018",
+        "citation": "Advances in Microbial Physiology 72, 29-63, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10051245653176262013",
+      "cites_id": [
+        "10051245653176262013"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natural extract and its fractions isolated from the marine bacterium Pseudoalteromonas flavipulchra STILL-33 have antioxidant and antiaging activities in Schizosaccharomyces pombe",
+        "pub_year": "2020",
+        "citation": "FEMS Yeast Research 20 (3), foaa014, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:-f6ydRqryjwC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1768594251773759788",
+      "cites_id": [
+        "1768594251773759788"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Ethanol\u2010Derived Clove Leaf Extract on the Oxidative Stress Response in Yeast Schizosaccharomyces pombe",
+        "pub_year": "2019",
+        "citation": "International Journal of Microbiology 2019 (1), 2145378, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2294541227207625699",
+      "cites_id": [
+        "2294541227207625699"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiaging and Skin Irritation Potential of Four Main Indonesian Essential Oils",
+        "pub_year": "2021",
+        "citation": "Cosmetics 8 (4), 94, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4560920184831003891",
+      "cites_id": [
+        "4560920184831003891"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and Characterization of Sponge-Associated Bacteria Producing Bioactive Compounds Anti-Vibrio sp.",
+        "pub_year": "2018",
+        "citation": "American Journal of Biochemistry and Biotechnology 14 (3), 221-229, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14068729991374641609",
+      "cites_id": [
+        "14068729991374641609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening and characterization of sponge-associated bacteria from Seribu Island, Indonesia producing cellulase and laccase enzymes",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:qUcmZB5y_30C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8738628415908410747",
+      "cites_id": [
+        "8738628415908410747"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical screening identifies an extract from marine Pseudomonas sp.-PTR-08 as an anti-aging agent that promotes fission yeast longevity by modulating the Pap1\u2013ctt1+ pathway \u2026",
+        "pub_year": "2020",
+        "citation": "Molecular Biology Reports 47, 33-43, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17901670557016286637",
+      "cites_id": [
+        "17901670557016286637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Indigenous Pichia kudriavzevii from cocoa fermentation for a probiotic candidate",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5743248647276999111",
+      "cites_id": [
+        "5743248647276999111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modulation of Aging in Yeast Saccharomyces cerevisiae by Roselle Petal Extract (Hibiscus sabdariffa L.)",
+        "pub_year": "2019",
+        "citation": "American Journal of Biochemistry and Biotechnology 15 (1), 29-32, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:_xSYboBqXhAC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11143323187982407593",
+      "cites_id": [
+        "11143323187982407593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol Production by Novel Proline Accumulating Pichia kudriavzevii Mutants Strains Tolerant to High Temperature and Ethanol Stresses",
+        "pub_year": "2018",
+        "citation": "Online Journal of Biological Sciences 18 (3), 349-357, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6327288348466487874",
+      "cites_id": [
+        "6327288348466487874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiaging Properties of the Ethanol Fractions of Clove (Syzygium aromaticum L.) Bud and Leaf at the Cellular Levels: Study in Yeast Schizosaccharomyces pombe",
+        "pub_year": "2021",
+        "citation": "Scientia Pharmaceutica 89 (4), 45, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5906173189877074466",
+      "cites_id": [
+        "5906173189877074466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Antibacterial and Antibiofilm Activities of the Endophytic Bacteria Associated with Archidendron pauciflorum against Multidrug-Resistant Strains",
+        "pub_year": "2023",
+        "citation": "Applied Biochemistry and Biotechnology 195 (11), 6653-6674, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:a0OBvERweLwC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12489624126325196481",
+      "cites_id": [
+        "12489624126325196481"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactive compounds from sponge associated bacteria: Anticancer activity and NRPS-PKS gene expression in different carbon sources",
+        "pub_year": "2017",
+        "citation": "American Journal of Biochemistry and Biotechnology 13 (4), 148-156, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:roLk4NBRz8UC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3725929113092441754",
+      "cites_id": [
+        "3725929113092441754"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiaging and Antioxidant Bioactivities of Asteraceae Plant Fractions on the Cellular Functions of the Yeast Schizosaccharomyces pombe",
+        "pub_year": "2021",
+        "citation": "Advances in Pharmacological and Pharmaceutical Sciences 2021 (1), 2119634, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:maZDTaKrznsC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7877994763546495171",
+      "cites_id": [
+        "7877994763546495171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant activity of endophytic bacteria derived from Hoya multiflora blume plant and their cellular activities on Schizosaccharomyces pombe",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (2), 214-221, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=573436505525019310",
+      "cites_id": [
+        "573436505525019310"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh e-commerce terhadap minat berwirausaha yang dimoderasi oleh pendidikan kewirausahaan (studi kasus pada mahasiswa fakultas ekonomi universitas muhammadiyah aceh)",
+        "pub_year": "2019",
+        "citation": "Jimma: Jurnal Ilmiah Manajemen Muhammadiyah Aceh 9 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:NhqRSupF_l8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6344188465710372170",
+      "cites_id": [
+        "6344188465710372170"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis karakter pseudomonas sp. sebagai agen pemacu pertumbuhan tanaman dan biokontrol fungi patogen",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5951844373080577012",
+      "cites_id": [
+        "5951844373080577012"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of lipase producing bacteria from palm oil sewage sludge processing plant at Malimping, Banten, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (10), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:hMod-77fHWUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14175384636298037512",
+      "cites_id": [
+        "14175384636298037512"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ethanol production activity of indigenous thermotolerant yeast Pichia kudriavzevii 1P4",
+        "pub_year": "2020",
+        "citation": "Microbiology Indonesia 14 (4), 1-1, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7320717324332574132",
+      "cites_id": [
+        "7320717324332574132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of urinary tract infection bacteria in children in Indonesia based on metagenomic approach",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (4), 1375-1381, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:ufrVoPGSRksC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6373399120232294476",
+      "cites_id": [
+        "6373399120232294476"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversitas Pangan Fermentasi Berbasis-Susu di Indonesia dan Kandungan Gizinya",
+        "pub_year": "2022",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 27 (4), 552-561, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17438249577642753531",
+      "cites_id": [
+        "17438249577642753531"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Substrate utilization of ethanologenic yeasts co-cultivation of Pichia kudriavzevii and Saccharomyces cerevisiae",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012072, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17846330328818645225",
+      "cites_id": [
+        "17846330328818645225"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection and Cloning of a Gene Involved in Zwitermicin A Synthesis from Plant Growth Promoting Rhizobacteria of Bacillus sp CR64",
+        "pub_year": "2010",
+        "citation": "Indonesian Journal of Biotechnology 15 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13335530955469133920",
+      "cites_id": [
+        "13335530955469133920"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yonvitner (2016). Struktur komunitas ikan kerapu (Serranidae) yang didaratkan di Kecamatan Peukan Bada, Provinsi Aceh",
+        "citation": "Jurnal Ilmu dan Teknologi Kelautan Tropis 8 (1), 73-84, 0"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5696345464638647737",
+      "cites_id": [
+        "5696345464638647737"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactivity of the Ethanol Extract of Clove (Syzygium aromaticum) as Antitoxin",
+        "pub_year": "2023",
+        "citation": "International Journal of Food Science 2023 (1), 3245210, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10482395262559889822",
+      "cites_id": [
+        "10482395262559889822"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An orange pigment from the marine bacterium Paracoccus haeundaensis SAB E11 as a prospective source of natural antioxidants",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (9), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12751583224642644492",
+      "cites_id": [
+        "12751583224642644492"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol productivity of ethanol-tolerant mutant strain Pichia kudriavzevii R-T3 in monoculture and co-culture fermentation with Saccharomyces cerevisiae",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (4), 435-444, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12865466166173141709",
+      "cites_id": [
+        "12865466166173141709"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Methanol pigment extracts derived from two marine actinomycetes exhibit antibacterial and antioxidant activities",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (10), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:blknAaTinKkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12904880405571133551",
+      "cites_id": [
+        "12904880405571133551"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yeasts isolated from traditional brem Bali show stress tolerance phenotype against fermentation-related stresses",
+        "pub_year": "2021",
+        "citation": "Makara Journal of Science 25 (1), 7, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:r0BpntZqJG4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11361757615858771209",
+      "cites_id": [
+        "11361757615858771209"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced ethanol production by high temperature-tolerance mutant Pichia kudriavzevii T-T2 in various carbon and nitrogen sources.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17284099219068303919",
+      "cites_id": [
+        "17284099219068303919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro antibacterial activities of marine sponge associated bacteria against pathogenic Vibrio spp. causes vibriosis in shrimps",
+        "pub_year": "2019",
+        "citation": "International Journal of Pharmacy and Pharmaceutical Sciences 11 (11), 33-37, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:k_IJM867U9cC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14046797107970749588",
+      "cites_id": [
+        "14046797107970749588"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic bacteria of clove (Syzygium aromaticum L.) leaves produce metabolites with antioxidant and anti-aging properties",
+        "pub_year": "2023",
+        "citation": "Journal of Applied Pharmaceutical Science 13 (7), 241-250, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17489343759409386133",
+      "cites_id": [
+        "17489343759409386133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Current trends and future perspective of probiotic yeasts research in Indonesia",
+        "pub_year": "2023",
+        "citation": "FEMS Yeast Research 23, foad013, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6195998033848259356",
+      "cites_id": [
+        "6195998033848259356"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natural extracts derived from marine sponge-associated bacteria with diverse nonribosomal peptide synthetase genes have anticancer activities",
+        "pub_year": "2022",
+        "citation": "Journal of Applied Pharmaceutical Science 12 (4), 054-063, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15167279386137044818",
+      "cites_id": [
+        "15167279386137044818"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cell Longevity of Yeast Saccharomyces cerevisiae by Clove Bud Extract Treatment May Occur in Sirtuin-Independent Pathway",
+        "pub_year": "2021",
+        "citation": "Online Journal of Biological Sciences 21 (3), 271-278, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1996371262371969952",
+      "cites_id": [
+        "1996371262371969952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning of Genomic DNA Fragment Involve in Acid-Aluminium Tolerance in Bradyrhizobium japonicum 38 Through Transposom Mutagenesis",
+        "pub_year": "2006",
+        "citation": "IPB (Bogor Agricultural University), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16826228779910125726",
+      "cites_id": [
+        "16826228779910125726"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi, karakterisasi morfologi, dan identifikasi aktinobakteri penghasil mananase asal hutan tanah Jambi untuk produksi mananoligosakarida",
+        "pub_year": "2022",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 27 (2), 279-286, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:ldfaerwXgEUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=96703251327034578",
+      "cites_id": [
+        "96703251327034578"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Activity of Ethanol-derived Fraction of Clove Leaves and Eugenol Compound as Antiaging Agent in the Yeast Model Organism Schizosaccharomyces pombe",
+        "pub_year": "2021",
+        "citation": "3rd KOBI Congress, International and National Conferences (KOBICINC 2020 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14776751655721762100",
+      "cites_id": [
+        "14776751655721762100"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioethanol Production from Non-Conventional Yeasts Wickerhamomyces anomalus (Pichia anomala) and Detection of ADH1 Gene",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (2), 221-228, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:XiSMed-E-HIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1580353474895107203",
+      "cites_id": [
+        "1580353474895107203"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of codon-optimized Factor C fragment from Tachypleus gigas in the Pichia pastoris GS115 expression system for endotoxin detection",
+        "pub_year": "2023",
+        "citation": "Journal of Genetic Engineering and Biotechnology 21 (1), 103, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:p2g8aNsByqUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13515065996271274686",
+      "cites_id": [
+        "13515065996271274686"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolomics Study Reveals Biomarker L-Proline as Potential Stress-Protectant Compound for High-Temperature Bioethanol Fermentation by Yeast Pichia kudriavzevii 1P4",
+        "pub_year": "2023",
+        "citation": "Applied Biochemistry and Biotechnology 195 (8), 5180-5198, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15207942561296348748",
+      "cites_id": [
+        "15207942561296348748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quercetin-Containing Extract from Clove Syzygium aromaticum L. Endophytic Bacteria, Fictibacillus phosphorivorans P1U2, Exhibits Antimutagenic Activity in Yeast Saccharomyces \u2026",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (4), 734-742, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6397991523497203822",
+      "cites_id": [
+        "6397991523497203822"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Waste to Wealth: The Importance of Yeasts in Sustainable Bioethanol Production from Lignocellulosic Biomass",
+        "pub_year": "2022",
+        "citation": "Waste Management, Processing and Valorisation, 265-283, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8243462525757397688",
+      "cites_id": [
+        "8243462525757397688"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-Aging Activity of Xylocarpus Granatum Phytoextracts and Xyloccensins K Compound",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Pharmacy, 365-375, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6421790521242681157",
+      "cites_id": [
+        "6421790521242681157"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Exon and Intron of Defensin 1 Gene in Apis cerana and Apis dorsata",
+        "pub_year": "2019",
+        "citation": "Makara Journal of Science 23 (3), 3, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:hC7cP41nSMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18039998234080762199",
+      "cites_id": [
+        "18039998234080762199"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exogenous L-proline increases stress tolerance of yeast Pichia kudriavzevii against inhibitors in lignocellulose hydrolysates and enhances its ethanol production",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012052, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4195470366187451044",
+      "cites_id": [
+        "4195470366187451044"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytochemical Profiling of Hippobroma longiflora Leaf Extract Using LC-MS/MS Analysis and Pharmacological Potential",
+        "pub_year": "2024",
+        "citation": "Egyptian Journal of Chemistry 67 (7), 83-90, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Characterization of Alcohol Dehydrogenase 1 (ADH1) Gene in Indigenous Yeast, Pichia spp",
+        "pub_year": "2024",
+        "citation": "The 1st International Seminar on Tropical Bioresources Advancenment and \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The extract of Cavendish banana (Musa acuminata) peel as antioxidant and anti-aging agents in model yeast Schizosaccharomyces pombe",
+        "pub_year": "2024",
+        "citation": "Menara Perkebunan 92 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:08ZZubdj9fEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of recombinant human insulin precursor by Pichia pastoris in a 10 liter bioreactor",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012092, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The clove essential oil and its combination with galangal oil exhibit antibacterial activity, potential as antiseptic agent",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012076, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic Bacillus spp. isolated from Archidendron pauciflorum: Pharmacological property and their phytochemical constituents.",
+        "pub_year": "2023",
+        "citation": "Journal of Research in Pharmacy 27 (6), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Streptomyces\u2013Alginate Beads Formula Promote Maize Plant Growth and Modify the Rhizosphere Microbiome.",
+        "pub_year": "2023",
+        "citation": "Jordan Journal of Biological Sciences 16 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EDUKASI BAHAYA SAMPAH PLASTIK KEPADA MASYARAKAT PESISIR DI PANTAI LAMTENGOH, KECAMATAN PEUKAN BADA, ACEH BESAR",
+        "pub_year": "2023",
+        "citation": "Pintoe: Pengabdian Teuku Umar 1 (1), 1-9, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant Properties of Active Fraction Extract Derived from Yellow-Red Pigment Produced by the Marine Sponge-Associated Bacterium Bacillus haikouensis AGS112 and \u2026",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (5), 874-884, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profile of Gut Bacteria in Hypertensive Patients Based on Terminal Restriction Fragment Length Polymorphism Analysis",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (3), 500-509, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactivity of the Ethanol Extract of Clove",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "APPLICATION OF RECOMBINANT TRIACYLGLYCEROL LIPASE AND CARBOXYLESTERASE ENZYMES FROM Bacillus velezensis STRAIN S3 FOR POLYESTER SURFACE MODIFICATION",
+        "pub_year": "2022",
+        "citation": "Jurnal Bioteknologi & Biosains Indonesia (JBBI) 9 (2), 170-181, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Apoptosis in Yeast is Modulated by Clove Leaf Extract and Eugenol Potentially by Interfering Caspase YCA1",
+        "pub_year": "2022",
+        "citation": "Online Journal of Biological Science 22 (3), 388-394, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Eksperimen dalam Genetika Bakteri",
+        "pub_year": "2022",
+        "citation": "PT Penerbit IPB Press, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2022",
+        "citation": "Journal of Biosciences 29 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skrining dan Identifikasi Bakteri Laut Penghasil Enzim Selulase yang Berasosiasi dengan Spons",
+        "pub_year": "2022",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 27 (1), 70-75, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proses Monitoring Media Cetak Divisi Humas Di Lembaga Penyiaran Publik Telivisi Republik Indonesia (LPP TVRI Pusat)",
+        "pub_year": "2022",
+        "citation": "IPB University, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Antiaging and Antioxidant Bioactivities of Asteraceae Plant Fractions on the Cellular Functions of the Yeast Schizosaccharomyces pombe",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiaging and Skin Irritation Potential of Four Main Indonesian Essential Oils. Cosmetics 2021, 8, 94",
+        "pub_year": "2021",
+        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol Production Through Co-Cultivation Techniques Ethanologenic Yeast of Pichia kudriavzevii with Saccharomyces cerevisiae",
+        "pub_year": "2020",
+        "citation": "3rd KOBI Congress, International and National Conferences, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metagenomic Analysis of Bacteria Phylum Firmicutes and Bacteroidetes in Women with Type 2 Diabetes",
+        "pub_year": "2019",
+        "citation": "HAYATI Journal of Biosciences 26 (3), 110-110, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitric oxide (NO) signaling and its importance in oxidative stress response in the fission yeast Schizosaccharomyces pombe",
+        "pub_year": "2015",
+        "citation": "Nara Institute of Science and Technology, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of nitric oxide in the fission yeast Schizosaccharomyces pombe under oxidative stress conditions",
+        "pub_year": "2014",
+        "citation": "Nitric Oxide, 115, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Photoprotection and Antioxidant Activity of Eumelanin Streptomyces Lasalocidi Ntb 42 and its Photoprotective Effects on Schizosaccharomyces Pombe Arc09",
+        "citation": "Available at SSRN 4836822, 0"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kloning fragmen DNA genom yang terlibat dalam toleransi asam-alumunium pada Bradyrhizobium japonicum melalui mutagenesis dengan transposon",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan dan Produksi Enzim Kitinase dari Bakteri Rhizosfer Tanaman Bawang Merah (Allium cepa L.).",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Metagenomik Bakteri Filum Firmicutes dan Bacteroidetes pada Wanita Penderita Diabetes Melitus Tipe 2.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regulasi Lintasan Aging pada Khamir Saccharomyces cerevisiae oleh Ekstrak Kelopak Bunga Rosela (Hibiscus Sabdariffa L.)",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH E-COMMERCE TERHADAP MINAT BERWIRAUSAHA YANG DIMODERASI OLEH PENDIDIKAN KEWIRAUSAHAAN (STUDI KASUS PADA MAHASISWA FAKULTAS EKONOMI UNIVERSITAS MUHAMMADIYAH ACEH)",
+        "citation": "Jurnal Ilmiah Manajemen Muhammadiyah Aceh (JIMMA) Vol 9 (0), 2, 0"
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:abG-DnoFyZgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KLONING FRAGMEN DNA GENOM YANG TERLIBAT DALAM TOLERANSI ASAM-ALUMINIUM PADA BRADYRHIZOBIUM JAPONICUM",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "klOIexYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

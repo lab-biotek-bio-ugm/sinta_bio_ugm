@@ -1,0 +1,479 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "WxPbDzkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tien Lastini",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WxPbDzkAAAAJ&citpid=3",
+  "affiliation": "SITH Institut Teknologi Bandung",
+  "interests": [
+    "Forestry"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 121,
+  "citedby5y": 79,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2008": 1,
+    "2009": 1,
+    "2010": 0,
+    "2011": 0,
+    "2012": 2,
+    "2013": 6,
+    "2014": 3,
+    "2015": 9,
+    "2016": 3,
+    "2017": 2,
+    "2018": 15,
+    "2019": 8,
+    "2020": 17,
+    "2021": 15,
+    "2022": 13,
+    "2023": 16,
+    "2024": 9
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NfEjQtoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Endang Hernawan",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MA_UgNQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Syamsul Falah",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "0JyFbUkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I NENGAH SURATI JAYA",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "n3MzrA0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mia Rosmiati",
+      "affiliation": "SITH-ITB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "b20Hxa4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Endang Suhendang",
+      "affiliation": "Professor of Forest Management, Bogor Agricultural University (IPB)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6FJV5a2xGc4C",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Herry Purnomo",
+      "affiliation": "IPB University and CIFOR"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3wJEmXwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Samsuri",
+      "affiliation": "Doktor Kehutanan, Universitas Sumatera Utara"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9maxY2wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tuti Herawati",
+      "affiliation": "Badan Litbang dan Inovasi"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improving economic outcomes for smallholders growing teak in agroforestry systems in Indonesia",
+        "pub_year": "2015",
+        "citation": "THE FIRST INTERNATIONAL SYMPOSIUM OF INDONESIAN WOOD RESEARCH SOCIETY, 140, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15925091756392184722",
+      "cites_id": [
+        "15925091756392184722"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Pengelolaan untuk Pengembangan Hutan Rakyat di Kecamatan Rancakalong, Kabupaten Sumedang (Management Strategy for Private Forest development in Rancakalong District \u2026",
+        "pub_year": "2019",
+        "citation": "Jurnal Sylva Lestari 7 (2), 164-173, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:BUYA1_V_uYcC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6530241656672978050",
+      "cites_id": [
+        "6530241656672978050"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of active compounds and anti-acne activity from extracts and fractions of surian (Toona sinensis) leaves planted in Sumedang, West Java, Indonesia",
+        "pub_year": "2018",
+        "citation": "Biodiversitas 19 (July 2018), 1406-1412, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10689619145400566385",
+      "cites_id": [
+        "10689619145400566385"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of active compounds and antifungal activity of Toona sinensis leaves fractions against wood rot fungi",
+        "pub_year": "2018",
+        "citation": "Biodiversitas 19 (July 2018), 1313-1318, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11865185086064733756",
+      "cites_id": [
+        "11865185086064733756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tipologi desa hutan rakyat: kasus di Kabupaten Ciamis [disertasi]",
+        "pub_year": "2012",
+        "citation": "Bogor: Institut Pertanian Bogor, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15326010980148866455",
+      "cites_id": [
+        "15326010980148866455"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kelayakan Usaha Budidaya Ikan Nila di Desa Cibunar Kabupaten Sumedang: Sebuah Analisis Keberlanjutan",
+        "pub_year": "2021",
+        "citation": "JSEP (Journal of Social and Agricultural Economics) 14 (3), 281-298, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11213678968636214101",
+      "cites_id": [
+        "11213678968636214101"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainability Analysis of Dairy-Horticulture Integrated Farming System.",
+        "pub_year": "2020",
+        "citation": "Journal of Agricultural Sciences (Sri Lanka) 15 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:ipzZ9siozwsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15064664142442631169",
+      "cites_id": [
+        "15064664142442631169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tipologi desa berdasarkan variabel penciri hutan rakyat",
+        "pub_year": "2011",
+        "citation": "Jurnal Penelitian Hutan Tanaman 8 (3), 155-168, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:z_wVstp3MssC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11022138619298952762",
+      "cites_id": [
+        "11022138619298952762"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Policy in compromising ecological and social aspects for establishing Halimun-Salak corridor",
+        "pub_year": "2007",
+        "citation": "SEAMEO-BIOTROP-Bogor Agricultural University, Bogor, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14164897008041164821",
+      "cites_id": [
+        "14164897008041164821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vegetation analysis and carbon stock estimation in Kuningan Botanical Garden West Java",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012002, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:uWiczbcajpAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17868393273819614628",
+      "cites_id": [
+        "17868393273819614628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Management strategy for private forest development in Rancakalong District, Sumedang Regency",
+        "pub_year": "2019",
+        "citation": "Jurnal Sylva Lestari 7 (2), 164-173, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7916247337192058329",
+      "cites_id": [
+        "7916247337192058329"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Land cover change and land use suitability analyses of coastal area in Bantul District, Yogyakarta, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (5), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:yB1At4FlUx8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6842124534901648767",
+      "cites_id": [
+        "6842124534901648767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Land Cover and Groundwater Recharge Changes Study Using Conservation Index in the Highland Ciburial Village, Bandung Regency",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 166 (1), 012036, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:epqYDVWIO7EC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13680143284303210195",
+      "cites_id": [
+        "13680143284303210195"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengolahan Citra Resolusi (2, 5 m dan/atau 5 m dan/atau 10 m) Dalam Rangka Penaksiran Sumber Daya Hutan Di Kalimantan",
+        "pub_year": "2006",
+        "citation": "Bogor: Departemen Manajemen Hutan. Fakultas Kehutanan. Institut Pertanian Bogor, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17177711157834036657",
+      "cites_id": [
+        "17177711157834036657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation and Correlation of Surian Leaves (Toona Sinensis) Weight with the Tree Parameters",
+        "pub_year": "2020",
+        "citation": "IOP Conf. Series: Earth and Environmental Science, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:EkHepimYqZsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5219953742267009211",
+      "cites_id": [
+        "5219953742267009211"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agroforestry as a model of sustainable land use of small-scale private forest: a case study in Sumedang, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "International Journal of Business Continuity and Risk Management 10 (2-3 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:zLWjf1WUPmwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1981742688805481659",
+      "cites_id": [
+        "1981742688805481659"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A review of forest fragmentation in Indonesia under the DPSIR framework for biodiversity conservation strategies",
+        "pub_year": "2024",
+        "citation": "Global Ecology and Conservation, e02918, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:p__nRnzSRKYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2021",
+        "citation": "Journal of Biosciences 28 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Designing wildlife corridor along cikapundung river in bandung urban area (Indonesia) based on comparation with kamo river in kyoto (japan)",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (1), 83-91, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:URolC5Kub84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil fertility status at Kuningan Botanical Garden, Kuningan Regency, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012003, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:vDijr-p_gm4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation Model of Ramin (Gonystylus bancanus) Standing Stock in Peat Swamp Forest: Case Study in Sumatra and Kalimantan",
+        "pub_year": "2018",
+        "citation": "Journal of Sylva Indonesiana 1 (01), 6-15, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:nrtMV_XWKgEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Survei Kayu Rakyat Berdasarkan Karakteristik Sosial Ekonomi dan Biofisik Kawasan: Studi Kasus di Kabupaten Bogor (Survey Method for Timber Stand of Private Forest based \u2026",
+        "pub_year": "2006",
+        "citation": "Jurnal Manajemen Hutan Tropika 12 (1), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Survei Kayu Rakyat Berhrkan Beberap Karakteristiknya: Studi Kasus di Kabupaten Bogor",
+        "pub_year": "2005",
+        "citation": "IPB (Bogor Agricultural University), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi pembiakan vegetatif stek pucuk Shorea platyclados V. SI. dan Shorea leprosula Miq. dengan menggunakan zat tumbuh IBA (indole Butiric Acid) pada berbagai perlakuan media",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:vbGhcppDl1QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The typology of desa hutan rakyat (forest private villages): a case in Ciamis District",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "WxPbDzkAAAAJ:4MWp96NkSFoC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

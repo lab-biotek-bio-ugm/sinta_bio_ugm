@@ -1,0 +1,1350 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "9IzLolIAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Gede Suantika",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9IzLolIAAAAJ&citpid=6",
+  "affiliation": "Professor in Aquaculture, School of Life Sciences and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Aquaculture",
+    "Aquatic Ecology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 1441,
+  "citedby5y": 761,
+  "hindex": 19,
+  "hindex5y": 16,
+  "i10index": 31,
+  "i10index5y": 24,
+  "cites_per_year": {
+    "2001": 9,
+    "2002": 4,
+    "2003": 19,
+    "2004": 17,
+    "2005": 22,
+    "2006": 23,
+    "2007": 36,
+    "2008": 32,
+    "2009": 45,
+    "2010": 43,
+    "2011": 38,
+    "2012": 36,
+    "2013": 45,
+    "2014": 50,
+    "2015": 40,
+    "2016": 60,
+    "2017": 69,
+    "2018": 75,
+    "2019": 64,
+    "2020": 118,
+    "2021": 168,
+    "2022": 158,
+    "2023": 170,
+    "2024": 81
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Rk-R2y8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ahmed Hashim",
+      "affiliation": "Associate Professor, Queen Mary University of London; King Faisal University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Advancement of rotifer culture and manipulation techniques in Europe",
+        "pub_year": "2001",
+        "citation": "Aquaculture 200 (1-2), 129-146, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 382,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17877450488705984236",
+      "cites_id": [
+        "17877450488705984236"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "High-density production of the rotifer Brachionus plicatilis in a recirculation system: consideration of water quality, zootechnical and nutritional aspects",
+        "pub_year": "2000",
+        "citation": "Aquacultural engineering 21 (3), 201-213, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 104,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11470049847730954383",
+      "cites_id": [
+        "11470049847730954383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of ozone in a high density recirculation system for rotifers",
+        "pub_year": "2001",
+        "citation": "Aquaculture 201 (1-2), 35-49, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:r0BpntZqJG4C",
+      "num_citations": 89,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5722683474244576464",
+      "cites_id": [
+        "5722683474244576464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a zero water discharge (ZWD)\u2014Recirculating aquaculture system (RAS) hybrid system for super intensive white shrimp (Litopenaeus vannamei) culture under low \u2026",
+        "pub_year": "2018",
+        "citation": "Aquacultural engineering 82, 12-24, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 69,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16947629051041558261",
+      "cites_id": [
+        "16947629051041558261"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan potensi lokal di Desa Panawangan sebagai model desa vokasi dalam pemberdayaan masyarakat dan peningkatan ketahanan pangan nasional",
+        "pub_year": "2016",
+        "citation": "Jurnal Sosioteknologi 15 (1), 59-67, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 69,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13056034433759857393",
+      "cites_id": [
+        "13056034433759857393"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring of the evolving diversity of the microbial community present in rotifer cultures",
+        "pub_year": "2001",
+        "citation": "Aquaculture 198 (3-4), 237-252, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 63,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7838090384812023323",
+      "cites_id": [
+        "7838090384812023323"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Technical and economical feasibility of a rotifer recirculation system",
+        "pub_year": "2003",
+        "citation": "Aquaculture 227 (1-4), 173-189, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:TFP_iSt0sucC",
+      "num_citations": 61,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8009344045702003844",
+      "cites_id": [
+        "8009344045702003844"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolite profiling of whiteleg shrimp Litopenaeus vannamei from super-intensive culture in closed aquaculture systems: a recirculating aquaculture system and a \u2026",
+        "pub_year": "2020",
+        "citation": "Metabolomics 16, 1-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:Mojj43d5GZwC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10667577592635265658",
+      "cites_id": [
+        "10667577592635265658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of indoor recirculation aquaculture system for white shrimp (Litopenaeus vannamei) growout super-intensive culture at low salinity condition",
+        "pub_year": "2018",
+        "citation": "Journal of Aquaculture Research and Development 9 (04), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11508108616324239899",
+      "cites_id": [
+        "11508108616324239899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of compost produced by bioconversion of coffee husk by black soldier fly larvae (Hermetia illucens) as solid fertilizer to lettuce (Lactuca sativa Var. Crispa)",
+        "pub_year": "2017",
+        "citation": "Proceedings of the International Conference on Green Technology 8 (1), 20-26, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3583015890918436543,5500319835282643505",
+      "cites_id": [
+        "3583015890918436543",
+        "5500319835282643505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improved performance of an intensive rotifer culture system by using a nitrifying inoculum (ABIL)",
+        "pub_year": "2003",
+        "citation": "Aquaculture Research 34 (2), 165-174, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:isC4tDSrTZIC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3038295130395711568",
+      "cites_id": [
+        "3038295130395711568"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of indigenous probiotic Halomonas aquamarina and Shewanella algae for white shrimp (Litopenaeus vannamei Boone) hatchery productivity in zero water discharge system",
+        "pub_year": "2013",
+        "citation": "J. Aquac. Res. Dev 4 (5), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:RGFaLdJalmkC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17996623121889630678",
+      "cites_id": [
+        "17996623121889630678"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas teknik kultur menggunakan sistem kultur statis, semi-kontinyu, dan kontinyu terhadap produktivitas dan kualitas kultur Spirulina sp",
+        "pub_year": "2009",
+        "citation": "Jurnal Matematika dan sains 14 (2), 1-10, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6981850157170199928",
+      "cites_id": [
+        "6981850157170199928"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of Zero Water Discharge (ZWD) system with nitrifying bacteria and microalgae Chaetoceros calcitrans components in super intensive white shrimp (Litopenaeus vannamei \u2026",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:M05iB0D1s5AC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14694882484266798265",
+      "cites_id": [
+        "14694882484266798265"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced biomass productivity of microalgae Nannochloropsis sp. in an airlift photobioreactor using low-frequency flashing light with blue LED",
+        "pub_year": "2020",
+        "citation": "Bioresources and Bioprocessing 7, 1-15, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3628403709978244847",
+      "cites_id": [
+        "3628403709978244847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of compost produced by bioconversion of coffee husk by black soldier fly larvae (Hermetia Illucens) as solid fertilizer to lettuce (Lactuca Sativa Var. Crispa \u2026",
+        "pub_year": "2017",
+        "citation": "Proceedings of the International Conference on Green Technology 8 (1), 38-44, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:35r97b3x0nAC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6544882689721035319",
+      "cites_id": [
+        "6544882689721035319"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ammonium removal by nitrifying bacteria biofilm on limestone and bioball substrate established in freshwater trickling biofilter",
+        "pub_year": "2016",
+        "citation": "Poultry, Fisheries and Wildlife Sciences 4 (2), 157, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3994922503224693544",
+      "cites_id": [
+        "3994922503224693544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil productivity of the tropical marine diatom Thalassiosira sp.",
+        "pub_year": "2012",
+        "citation": "Bioresource technology 108, 240-244, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:maZDTaKrznsC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17883029456968248000",
+      "cites_id": [
+        "17883029456968248000"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nutritional profile of red seaweed Kappaphycus alvarezii after fermentation using Saccharomyces cerevisiae as a feed supplement for white shrimp Litopenaeus vannamei \u2026",
+        "pub_year": "2017",
+        "citation": "Journal of Pure & Applied Microbiology 11 (4), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:tOudhMTPpwUC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10122616592738267640",
+      "cites_id": [
+        "10122616592738267640"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a Recirculation System for The Mass Culturing of The Rotifer Brachionusplicatilis",
+        "pub_year": "2001",
+        "citation": "Animal Production Department, Faculty of Agriculture and Applied Biological \u2026, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:k_IJM867U9cC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11418707655430083676",
+      "cites_id": [
+        "11418707655430083676"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Poly\u2010\u03b2\u2010Hydroxybutyrate (PHB) Improves Nursery\u2010Phase Pacific White Shrimp Litopenaeus vannamei Defense against Vibriosis",
+        "pub_year": "2020",
+        "citation": "North American Journal of Aquaculture 82 (1), 108-114, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:t6usbXjVLHcC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8054683161261849567",
+      "cites_id": [
+        "8054683161261849567"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced Oil Production by the Tropical Marine Diatom Thalassiosira Sp. Cultivated in Outdoor Photobioreactors",
+        "pub_year": "2017",
+        "citation": "Applied Biochemistry and Biotechnology 182, 1605-1618, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:SP6oXDckpogC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=815470087688558903",
+      "cites_id": [
+        "815470087688558903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "High cell density submerged membrane photobioreactor (SMPBR) for microalgae cultivation",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 963 (1), 012034, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16343634951093094246",
+      "cites_id": [
+        "16343634951093094246"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shrimp count size: GC/MS-based metabolomics approach and quantitative descriptive analysis (QDA) reveal the importance of size in white leg shrimp (Litopenaeus vannamei)",
+        "pub_year": "2021",
+        "citation": "Metabolomics 17, 1-12, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=519172548776213947",
+      "cites_id": [
+        "519172548776213947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determinant parameters for upstream ecological status assessment of Citarum River, Indonesia",
+        "pub_year": "2018",
+        "citation": "Geomate Journal 15 (50), 205-216, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:eflP2zaiRacC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15371790597932718097",
+      "cites_id": [
+        "15371790597932718097"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of red seaweed Kappaphycus alvarezii on growth, survival, and disease resistance of Pacific white shrimp Litopenaeus vannamei against Vibrio harveyi in the nursery phase",
+        "pub_year": "2018",
+        "citation": "J Aquac Res Development 9 (523), 2, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:olpn-zPbct0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10055561983864366878",
+      "cites_id": [
+        "10055561983864366878"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of Cyanobacteria Arthrospira platensis and Cladoceran Daphnia magna as complementary protein and lipid sources in transitional diet for Common Carp (Cyprinus carpio L \u2026",
+        "pub_year": "2016",
+        "citation": "Natural Resources 7 (7), 423-433, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:ldfaerwXgEUC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14025615187839550172",
+      "cites_id": [
+        "14025615187839550172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological, technical, and financial feasibilities study of zero water discharge (ZWD) system application in low salinity white shrimp (Litopenaeus vannamei Boone) urban \u2026",
+        "pub_year": "2016",
+        "citation": "J Fisheries Livest Prod 4 (197), 2, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:UxriW0iASnsC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5416471742571576229",
+      "cites_id": [
+        "5416471742571576229"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "development of bioassessment tools for ecological status using macrozoobenthic community in upstream area (case study: Citarum River, West Java, Indonesia)",
+        "pub_year": "2017",
+        "citation": "Journal of Water Resource and Protection 9 (07), 770, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:u9iWguZQMMsC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18231067649786428164",
+      "cites_id": [
+        "18231067649786428164"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh kepadatan awal inokulum terhadap kualitas kultur Chaetoceros gracilis (Sch\u00fctt) pada sistem batch",
+        "pub_year": "2009",
+        "citation": "Jurnal Matematika & Sains 14 (1), 1-8, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:hMod-77fHWUC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12485767700074536721",
+      "cites_id": [
+        "12485767700074536721"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of red seaweed Kappaphycus alvarezii on growth, salinity stress tolerance and vibriosis resistance in shrimp Litopenaeus vannamei hatchery",
+        "pub_year": "2017",
+        "citation": "J. Fish. Aquat. Sci 12, 127-133, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:08ZZubdj9fEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8128582530522446774",
+      "cites_id": [
+        "8128582530522446774"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of nitrifying bacteria for promoting giant freshwater prawn (Macrobrachium rosenbergii de Man) nursery phase in indoor system",
+        "pub_year": "2017",
+        "citation": "J. Fish. Livest. Prod 5 (2), 5, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12306256362018987112",
+      "cites_id": [
+        "12306256362018987112"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supplementation of ex-situ biofloc to improve growth performance and enhance nutritional values of the Pacific white shrimp rearing at low salinity conditions",
+        "pub_year": "2021",
+        "citation": "Applied Sciences 11 (10), 4598, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15928421072561593860",
+      "cites_id": [
+        "15928421072561593860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis keberlanjutan dan strategi pengelolaan tambak udang putih sistem intensif di pesisir selatan Jawa Barat",
+        "pub_year": "2020",
+        "citation": "Jurnal Sosioteknologi 19 (3), 426-441, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:PELIpwtuRlgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17649752237476280557",
+      "cites_id": [
+        "17649752237476280557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of zero water discharge technology through the application of nitrifying bacteria and textile vertical substrate in grow-out phase of Macrobrachium rosenbergii De Man.",
+        "pub_year": "2012",
+        "citation": "Journal of Aquaculture & Research Development 3 (5), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:blknAaTinKkC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16347175900631252969",
+      "cites_id": [
+        "16347175900631252969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolomics approach to elucidate the importance of count size in commercial penaeid shrimps: white leg shrimp (Litopenaeus vannamei) and black tiger shrimp (Penaeus monodon)",
+        "pub_year": "2022",
+        "citation": "Journal of bioscience and bioengineering 133 (5), 459-466, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:tKAzc9rXhukC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17525755482194360043",
+      "cites_id": [
+        "17525755482194360043"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan teknologi ultrafiltrasi untuk pemekatan mikroalga",
+        "pub_year": "2004",
+        "citation": "Prosiding Seminar Nasional Rekayasa Kimia dan Proses, F-23, 1-5, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13642831411114799438",
+      "cites_id": [
+        "13642831411114799438"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of zero-water discharge technology and nitrifying bacteria application in nursery phase of the giant freshwater prawn (Macrobrachium rosenbergii de Man)",
+        "pub_year": "2009",
+        "citation": "World Aquaculture Meeting Abstract Book 208, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5628781327381015591",
+      "cites_id": [
+        "5628781327381015591"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of the characteristics of different shrimps by species and habitat using gas chromatography/mass spectrometry based metabolomics",
+        "pub_year": "2021",
+        "citation": "Journal of bioscience and bioengineering 132 (3), 258-264, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:UHK10RUVsp4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14215281894975952034",
+      "cites_id": [
+        "14215281894975952034"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of implementing the integrated management system in desalination plants in conflict zones: Case study on the Gaza strip",
+        "pub_year": "2021",
+        "citation": "Future Cities and Environment 7 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:JQOojiI6XY0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4500464228471415246",
+      "cites_id": [
+        "4500464228471415246"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Closed aquaculture system: Zero water discharge for shrimp and prawn farming in Indonesia",
+        "pub_year": "2018",
+        "citation": "Biological resources of water, 297, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:sSrBHYA8nusC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15148479429208324786",
+      "cites_id": [
+        "15148479429208324786"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainability status analysis and strategy development for common carp (Cyprinus carpio L.) hatchery industry in Ciparay District, West Java, Indonesia",
+        "pub_year": "2023",
+        "citation": "Aquaculture International 31 (5), 2531-2557, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:tzM49s52ZIMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11461896476031491494",
+      "cites_id": [
+        "11461896476031491494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supplementation of ex situ produced bioflocs improves immune response against AHPND in Pacific whiteleg shrimp (Litopenaeus vannamei) postlarvae",
+        "pub_year": "2022",
+        "citation": "Applied Microbiology and Biotechnology 106 (9), 3751-3764, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8493730002410481033",
+      "cites_id": [
+        "8493730002410481033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synbiotic containing Kappaphycus alvarezii, Spirulina sp. and Halomonas alkaliphila improves survival, growth and vibriosis resistance in whiteleg shrimp (Litopenaeus vannamei \u2026",
+        "pub_year": "2021",
+        "citation": "Aquatic Living Resources 34, 10, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:hkOj_22Ku90C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7797596328491914336",
+      "cites_id": [
+        "7797596328491914336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diverse Perceptions on Eco-Certification for shrimp aquaculture in Indonesia",
+        "pub_year": "2020",
+        "citation": "Sustainability 12 (22), 9387, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1339124504533790725",
+      "cites_id": [
+        "1339124504533790725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Urgensi Ecosystem Approach dalam Pengelolaan Pesisir dan Pulau-Pulau Kecil di Indonesia",
+        "pub_year": "2009",
+        "citation": "Bandung: ITB, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13496224024013294112",
+      "cites_id": [
+        "13496224024013294112"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Membrane-based recirculating aquaculture system: Opportunities and challenges shrimp farming",
+        "pub_year": "2023",
+        "citation": "Aquaculture, 740224, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:fEOibwPWpKIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2684709441161461150",
+      "cites_id": [
+        "2684709441161461150"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of feed supplementation with fermented red seaweed (Kappaphycus alvarezii) on growth and survival of white shrimp (Litopenaeus vannamei) post-larvae culture",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (4), 286-292, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:W5xh706n7nkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3355280707972086790",
+      "cites_id": [
+        "3355280707972086790"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Does zero-water discharged technology enhance culture performance of pacific white shrimp (Litopenaeus vannamei Boone.)?",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 300-302, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9989783054817912798",
+      "cites_id": [
+        "9989783054817912798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of probiotic bacteria against aeromonads syndrome in common carp (Cyprinus carpio L.) in simple axenic larviculture",
+        "pub_year": "2013",
+        "citation": "larvi 2013, 433, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=424385733651107479",
+      "cites_id": [
+        "424385733651107479"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nutritional profiling of microfungi and its effects on the growth performance, bacterial communities, and survival with Vibrio harveyi on white shrimp post-larvae (Litopenaeus \u2026",
+        "pub_year": "2021",
+        "citation": "Aquaculture 545, 737260, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:uLbwQdceFCQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7884110959618076773",
+      "cites_id": [
+        "7884110959618076773"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "River Water Quality Assessment Using Benthic Macroinvertebrates in Citarum Upstream Indonesia",
+        "pub_year": "2016",
+        "citation": "ASEAN/Asian Academic Society International Conference Proceeding Series, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4699705704443230108",
+      "cites_id": [
+        "4699705704443230108"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of biofiltration technology and 3-dimensional cubical bamboo shelters for nursery phase productivity improvement of giant freshwater prawns",
+        "pub_year": "2012",
+        "citation": "ITB Journal of Science 44 (2), 129-144, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8502059834225367824",
+      "cites_id": [
+        "8502059834225367824"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pencitraan tomografi atenuasi seismik 3-D untuk delineasi struktur internal dan karakterisasi sifat fisis batuan di bawah Gunungapi Guntur",
+        "pub_year": "2009",
+        "citation": "Disertasi Program Doktor, ITB, Bandung, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16227506985316925539",
+      "cites_id": [
+        "16227506985316925539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perspectives and research direction on polymeric membrane integration for sustainable aquaculture industries",
+        "pub_year": "2023",
+        "citation": "Journal of Environmental Chemical Engineering, 111691, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=604503034537755637",
+      "cites_id": [
+        "604503034537755637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ability of biofilm community sampled from metal surfaces at Saguling hydro power in utilizing carbon sources by using biolog ecoplateTM",
+        "pub_year": "2017",
+        "citation": "Journal of Biological Sciences 17 (1), 11-20, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9297214171270786052",
+      "cites_id": [
+        "9297214171270786052"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LIMITASI NITRAT UNTUK PERTUMBUHAN DAN AKUMULASI LIPID Chaetoceros calcitrans",
+        "pub_year": "2016",
+        "citation": "BIOTIKA Jurnal Ilmiah Biologi 14 (1), 66-71, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:738O_yMBCRsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335007794852168074",
+      "cites_id": [
+        "18335007794852168074"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial Community Structures of Planktonic Cells and Biofilm at Saguling Hydro Power using Denaturing Gradient Gel Electrophoresis (DGGE)",
+        "pub_year": "2014",
+        "citation": "Journal of Biological Sciences 14 (6), 414, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:70eg2SAEIzsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9138669490008445383",
+      "cites_id": [
+        "9138669490008445383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem Pakar Untuk Budidaya Tambak Udang Putih",
+        "pub_year": "2011",
+        "citation": "Tersedia: http://jiki. cs. ui. ac. id/index. php/jiki/article/view/154/270, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4917796639778514002",
+      "cites_id": [
+        "4917796639778514002"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and Optimization of Indigenous Probiotic Bacteria Against Vibriosis Syndrome Isolated from Litopenaneus vannamei Hatchery in Situbondo, East Java, Indonesia",
+        "pub_year": "2010",
+        "citation": "Proceeding of the 3rd ICMNS, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:BqipwSGYUEgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9271054623921207459",
+      "cites_id": [
+        "9271054623921207459"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon dua varietas padi terhadap isolat bakteri Azotobacter sp",
+        "pub_year": "2006",
+        "citation": "Jurnal Agrivigor 6 (1), 57-56, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15129981246207775688",
+      "cites_id": [
+        "15129981246207775688"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Produktivitas Kultur Statis Branchionus Plicatilis Mueller, 1786 dengan Optimasi Jenis dan Konsentrasi Paka n Alami",
+        "pub_year": "2006",
+        "citation": "J Biologi Indonesia 4, 9-18, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:z_wVstp3MssC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10680896794891256080",
+      "cites_id": [
+        "10680896794891256080"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological, technical, and economical feasibility of a rotifer recirculation system",
+        "pub_year": "2001",
+        "citation": "Special Publication European Aquaculture Society, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17643967424486432758",
+      "cites_id": [
+        "17643967424486432758"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a green supply chain management strategy for the aquaculture industry: The case of the common carp (Cyprinus carpio L.) hatchery industry in Ciparay District \u2026",
+        "pub_year": "2024",
+        "citation": "Journal of Cleaner Production 453, 142160, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trophic state assessment of marine ecosystems used for floating net cage aquaculture: a case study in Pegametan Bay, North Bali, Indonesia",
+        "pub_year": "2024",
+        "citation": "Aquaculture International, 1-37, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Numerical Simulation of Pyroclastic Flow of Karangetang Volcano Based on 2015 Eruption Activity",
+        "pub_year": "2024",
+        "citation": "Journal of Geoscience, Engineering, Environment, and Technology 9 (1), 1-13, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of dietary supplementation with tropical microfungi Mucor circinelloides and Trichoderma harzianum powder on growth performance, bacterial communities, and the biomass \u2026",
+        "pub_year": "2022",
+        "citation": "Aquaculture and Fisheries, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "and Halomonas alkaliphila improves survival, growth and vibriosis resistance in whiteleg shrimp",
+        "pub_year": "2021",
+        "citation": "Aquat. Living Resour 34 (10), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:evX43VCCuoAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potency of nitrifying bacteria to control Vibrio parahaemolyticus and to improvement water quality in Penaeus Monodon culture.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of zero water discharge (ZWD) system with nitrifying bacteria Bacillus megaterium and microalgae Chaetoceros calcitrans components in super intensive pacific white \u2026",
+        "pub_year": "2018",
+        "citation": "Jurnal Akuakultur Indonesia 17 (2), 137-146, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of zero water discharge (ZWD) system with nitrifying bacteria B. megaterium and microalgae C. calcitrans components in super intensive Pacific white shrimp \u2026",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:VLnqNzywnoUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development Water Quality Assessment Using Macrozoobenthos Based Multimetric Concept (A Case Study Of Citarum River\u2019s Headwaters)",
+        "pub_year": "2017",
+        "citation": "The Third International Conference on Sustainable Infrastructure and Built \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:_Ybze24A_UAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of AHL-Degrading Bacteria from Micro-Algal Chaetoceros muelleri and Chaetoceros calcitrans Cultures and Their Effect on Disease Resistance of Pacific white shrimp \u2026",
+        "pub_year": "2017",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Impact of Salinity and Light Intensity Stress on B Vitamins Content in Marine Diatom Skeletonema costatum",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keukeu K. Rosada, Navisan Najia, Rahma Widya Ningrum, Dea Indriani Astuti, Gede Suantika and Pingkan Aditiawati",
+        "pub_year": "2017",
+        "citation": "Journal of Biological Sciences 17 (1), 11-20, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gede Suantika, Alissa Diany Putri, Yovita Astuti Djohan, Fahma Fiqhiyyah Nur Azizah, Dea Indriani Astuti and Pingkan Aditiawati",
+        "pub_year": "2017",
+        "citation": "Journal of Fisheries and Aquatic Science 12 (1), 22-28, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seismic and infrasound observations of recent explosive events at Marapi Volcano in Western Sumatra",
+        "pub_year": "2016",
+        "citation": "AGU Fall Meeting Abstracts 2016, S13D-03, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DEVELOPMENT OF POROUS CERAMIC METAKAOLINITE-ZEOLITE TECHNOLOGY FOR NITRIFYING BACTERIA PRESERVATION",
+        "pub_year": "2015",
+        "citation": "\ud55c\uad6d\uc218\uc0b0\uacfc\ud559\ud68c \uc591\uc2dd\ubd84\uacfc \ud559\uc220\ub300\ud68c, 652-652, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Zero-Water Discharge Technology and Nitrifying Bacteria Application in Nursery Phase of The Giant Freshwater Prawn (Macrobrachium rosenbergii de Man)k",
+        "pub_year": "2009",
+        "citation": "World Aquaculture Meeting Abstract Book 208, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Isolation of Potential Probiotic against A erom onas spp. in Commom Carp (Cyprinus carpio L.) Larviculture",
+        "pub_year": "2005",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of the recent activity at Guntur volcano, West Java, Indonesia",
+        "pub_year": "1998",
+        "citation": "Kyoto Daigaku B\u014dsai Kenky\u016bjo nenp\u014d, 161-170, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:NJ774b8OgUMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "NEW INFORMATION FROM SEISMIC ATTENUATION TOMOGRAPHY: APPLICATION TO GUNTUR VOLCANO",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological, Technical, and Financial Feasibilities Study of Spirulina sp. Biomass Production with Modified Commercial Medium in Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Aplication of Landslide Inventory Data Base of Indonesia (LIDIA) For Supporting Landslide Susceptibility Mapping in Cianjur Regency, West Java, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EVALUASI KEBERLANJUTAN USAHA PEMBENIHAN KERAPU SKALA RUMAH TANGGA DI KECAMATAN GEROKGAK, KABUPATEN BULELENG, BALI SUSTAINABILITY EVALUATION OF HOUSEHOLD SCALE GROUPER HATCHERY \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENINGKATAN PRODUKTIVITAS KULTUR DIATOM",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "9IzLolIAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

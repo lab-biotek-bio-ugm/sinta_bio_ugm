@@ -1,0 +1,283 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "4StAVhkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Puspa Julistia Puspita",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4StAVhkAAAAJ&citpid=3",
+  "affiliation": "Institut Pertanian Bogor",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Molecular Biology",
+    "Microbiology",
+    "Biochemistry",
+    "Biorefinery",
+    "Biotechnology"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 60,
+  "citedby5y": 60,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2019": 1,
+    "2020": 2,
+    "2021": 10,
+    "2022": 21,
+    "2023": 19,
+    "2024": 6
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gawnlA0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mega Safithri",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "byJqNt0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "SSuryani M.Sc",
+      "affiliation": "Insitut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "R-LJgOgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Waras Nurcholis",
+      "affiliation": "Bogor Agricultural University (IPB University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KMSSGQcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Inda Setyawati",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "h43W-cIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Popi Asri Kurniatin",
+      "affiliation": "Bogor Agriculture University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial Activities of Sirih Merah (Piper crocatum) Leaf Extracts",
+        "pub_year": "2018",
+        "citation": "Current Biochemistry 5 (3), 1-10, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4266215646935134359",
+      "cites_id": [
+        "4266215646935134359"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico analysis of glucose oxidase H516r and H516d mutations for an enzymatic fuel cell",
+        "pub_year": "2021",
+        "citation": "Jurnal Kimia Valensi 7 (2), 83-93, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16205633713414229337",
+      "cites_id": [
+        "16205633713414229337"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Variability of Graptophyllum pictum (L.) Griff Accessions from Western Indonesia by Sequence-Related Amplified Polymorphism",
+        "pub_year": "2021",
+        "citation": "Biology and Life Sciences Forum 2 (1), 35, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11173646194864926094",
+      "cites_id": [
+        "11173646194864926094"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of Ethanol by Zymomonas Mobilis Mutant: The Effects of Sodium Acetate at pH 5 and No Control pH",
+        "pub_year": "2019",
+        "citation": "International Journal of Chemical Engineering and Applications 10 (3), 80-86, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5014940776234132900",
+      "cites_id": [
+        "5014940776234132900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Addition Effects of Glucose as a Co-substrate on Xylitol Production by Candida guilliermondii",
+        "pub_year": "2015",
+        "citation": "Current Biochemistry 2 (1), 13-21, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9581493467156500633",
+      "cites_id": [
+        "9581493467156500633"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioethanol Production by Using Detoxified Sugarcane Bagasse Hydrolysate and Adapted Culture of Candida tropicalis",
+        "pub_year": "2015",
+        "citation": "Current Biochemistry 2 (1), 1-12, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17254732116104187643",
+      "cites_id": [
+        "17254732116104187643"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Analysis of Active Compounds of Avocado Fruit (Persea americana Mill.) as Tyrosinase Enzyme Inhibitors",
+        "pub_year": "2022",
+        "citation": "Current Biochemistry 9 (2), 73-87, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9103360041133737801",
+      "cites_id": [
+        "9103360041133737801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "INHIBISI ENZIM \u03b1-GLUKOSIDASE OLEH SENYAWA FLAVONOID DAUN KELOR (Moringa oleifera) IN SILICO DAN IN VITRO",
+        "pub_year": "2023",
+        "citation": "Current Biochemistry 10 (2), 62-73, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity of Graptophyllum pictum (L.) Griff from Eastern Indonesia Ethnics Based on Sequence-Related Amplified Polymorphism",
+        "pub_year": "2022",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 50 (2), 209-217, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik Graptophyllum pictum (L.) Griff dari Etnis Indonesia Timur Berbasis Sequence-Related Amplified Polymorphism.",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Agronomy/Jurnal Agronomi Indonesia 50 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EXTRACTION, CHARACTERIZATION AND APPLICATION OF CHITOSAN DERIVED FROM MAGGOT (BLACK SOLDIER FLY) WASTE AS EDIBLE COATING FOR RED GRAPES (Vitis vinifera)",
+        "pub_year": "2021",
+        "citation": "Balai Besar Penelitian dan Pengembangan Pascapanen Pertanian, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity analysis of Piper betle from eight accessions of Indonesia based on SRAP markers",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (8), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Enzyme Electrode from Nanochitosan Immobilized Glucose Oxidase on Carbon Paste Modified with Nanofiber Polyanilinefor Biosensor Application",
+        "pub_year": "2015",
+        "citation": "The 9 th Joint Conference on Chemistry 1 (UNNES Press), 60-64, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Xylose and Glucose Concentration for Xylitol Production by Candida tropicalis ,",
+        "pub_year": "2012",
+        "citation": "The 3 rd International Annual Indonesian Scholar Conference in Taiwan(AISCT \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4StAVhkAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 2,
+    "not_available": 0
+  }
+}

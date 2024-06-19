@@ -1,0 +1,70 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "4b803HYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Arni Rahmawati Fahmi Sholihah",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Ekologi"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 5,
+  "citedby5y": 3,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2016": 1,
+    "2017": 0,
+    "2018": 1,
+    "2019": 1,
+    "2020": 0,
+    "2021": 0,
+    "2022": 2
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecosystem evaluation of post sand mining land in Cimalaka, Sumedang",
+        "pub_year": "2014",
+        "citation": "Journal of Degraded and Mining Lands Management 1 (2), 75, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "4b803HYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18060584697202166297",
+      "cites_id": [
+        "18060584697202166297"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environmental Analysis of Post Sand and Andesite Mining Land in Cimalaka and Paseh, Sumedang, West Java",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4b803HYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

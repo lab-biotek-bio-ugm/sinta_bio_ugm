@@ -1,0 +1,1306 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "ncZSVvYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ariyanti Oetari",
+  "affiliation": "Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Fungal diversity",
+    "fungal bioprospecting",
+    "manuscript biodeterioration"
+  ],
+  "email_domain": "@ui.ac.id",
+  "homepage": "http://www.ui.ac.id/",
+  "citedby": 1626,
+  "citedby5y": 868,
+  "hindex": 12,
+  "hindex5y": 11,
+  "i10index": 18,
+  "i10index5y": 12,
+  "cites_per_year": {
+    "2006": 4,
+    "2007": 4,
+    "2008": 11,
+    "2009": 10,
+    "2010": 20,
+    "2011": 14,
+    "2012": 36,
+    "2013": 51,
+    "2014": 54,
+    "2015": 91,
+    "2016": 109,
+    "2017": 132,
+    "2018": 187,
+    "2019": 149,
+    "2020": 146,
+    "2021": 180,
+    "2022": 187,
+    "2023": 149,
+    "2024": 55
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikologi dasar dan terapan",
+        "pub_year": "2006",
+        "citation": "Yayasan Obor Indonesia, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 651,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4366969515297888566",
+      "cites_id": [
+        "4366969515297888566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengenalan Kapang Tropik Umum",
+        "pub_year": "1999",
+        "citation": "Yayasan Obor Indonesia, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 342,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6440983738483799188",
+      "cites_id": [
+        "6440983738483799188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "4, 6-\u03b1-Glucanotransferase, a novel enzyme that structurally and functionally provides an evolutionary link between glycoside hydrolase enzyme families 13 and 70",
+        "pub_year": "2011",
+        "citation": "Applied and environmental microbiology 77 (22), 8154-8163, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 105,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14178318396225046016",
+      "cites_id": [
+        "14178318396225046016"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikologi: dasar dan terapan",
+        "pub_year": "2018",
+        "citation": "Yayasan Pustaka Obor Indonesia, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:8k81kl-MbHgC",
+      "num_citations": 82,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11259580899573844907",
+      "cites_id": [
+        "11259580899573844907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Occurrence of fungi on deteriorated old dluwang manuscripts from Indonesia.",
+        "pub_year": "2016",
+        "citation": "International Biodeterioration & Biodegradation 114, 94-103, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:0EnyYjriUFMC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11151651394953380862",
+      "cites_id": [
+        "11151651394953380862"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gandjariella thermophila gen. nov., sp. nov., a new member of the family Pseudonocardiaceae, isolated from forest soil in a geothermal area",
+        "pub_year": "2019",
+        "citation": "International Journal of Systematic and Evolutionary Microbiology 69 (10 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7089708669906732507",
+      "cites_id": [
+        "7089708669906732507"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of phylloplane yeasts from paper mulberry (Broussonetia payrifera (L.) L'Her.ex Vent.) in Java, Indonesia",
+        "pub_year": "2015",
+        "citation": "Malaysian Journal of Microbiology 11 (4), 324-339, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5071384261433065613,194719118195031026",
+      "cites_id": [
+        "5071384261433065613",
+        "194719118195031026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Paenibacillus cisolokensis sp. nov., isolated from litter of a geyser",
+        "pub_year": "2016",
+        "citation": "International journal of systematic and evolutionary microbiology 66 (8 \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:UebtZRa9Y70C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10527043978472114700",
+      "cites_id": [
+        "10527043978472114700"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening cellulose activity of yeast isolated from soil, sediment and water river from Taman Nasional Gunung Halimun, West Java, Indonesia",
+        "pub_year": "2011",
+        "citation": "Malaysian Journal of Microbiology 7 (210), e216, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6921489347017685589",
+      "cites_id": [
+        "6921489347017685589"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengenalan Kapang Tropik Umum Yayasan Obor Indonesia",
+        "pub_year": "1999",
+        "citation": "Jakarta, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16392714627239973167",
+      "cites_id": [
+        "16392714627239973167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological and taxonomical perspective of yeasts in Indonesia",
+        "pub_year": "2010",
+        "citation": "Microbiology Indonesia 4 (2), 3-3, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12246020429125352651",
+      "cites_id": [
+        "12246020429125352651"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Re-identification of five strains of Rhizopus arrhizus from tempeh based on ITS regions of rDNA sequence data",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:Zph67rFs4hoC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2319774588145375503",
+      "cites_id": [
+        "2319774588145375503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Basic and Applied Mycology",
+        "pub_year": "2006",
+        "citation": "Yayasan Obor Indonesia. Jakarta, 3-4, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:mB3voiENLucC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3726226639535207622",
+      "cites_id": [
+        "3726226639535207622"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introduction of general tropical fungi",
+        "pub_year": "1999",
+        "citation": "University of Indonesia. Depok.[Indonesian], 1999"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=305789141624799269",
+      "cites_id": [
+        "305789141624799269"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of the use of commercial tempeh starter on the diversity of Rhizopus tempeh in Indonesia",
+        "pub_year": "2021",
+        "citation": "Scientific reports 11 (1), 23932, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3001493273998439919",
+      "cites_id": [
+        "3001493273998439919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rapid preparation of fungal and bacterial genomic DNA for PCR",
+        "pub_year": "2003",
+        "citation": "Hayati 10, 122-124, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16450826639826868414",
+      "cites_id": [
+        "16450826639826868414"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengenalan Kapang Tropik Umum",
+        "pub_year": "2000",
+        "citation": "Pertama. Jakarta: Yayasan Obor Indonesia, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13805430099040157991",
+      "cites_id": [
+        "13805430099040157991"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Rhizopus microsporus UICC 500, UICC 531, and UICC 539 on the palm oil processing waste",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2614927004106614793",
+      "cites_id": [
+        "2614927004106614793"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of fungi from old Chinese manuscripts in Central Library Universitas Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 20069 (2016), 1729, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:Se3iqnhoufwC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9329252160755834481",
+      "cites_id": [
+        "9329252160755834481"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikologi: Dasar dan Terapan edisi revisi",
+        "pub_year": "2014",
+        "citation": "Jakarta: Yayasan Obor Indonesia, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:yD5IFk8b50cC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3209951527852236590",
+      "cites_id": [
+        "3209951527852236590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New species and newly recorded species of Cercospora and allied genera from Indonesia",
+        "pub_year": "2010",
+        "citation": "Mycosphere 1 (4), 315-323, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3013596465576526994",
+      "cites_id": [
+        "3013596465576526994"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikologi dasar dan terapan yayasan Obor Indonesia",
+        "pub_year": "2006",
+        "citation": "Jakarta (ID), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10329707159791247938",
+      "cites_id": [
+        "10329707159791247938"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of fungi from old dluwang manuscripts from Mertasinga, Cirebon",
+        "pub_year": "2016",
+        "citation": "International Symposium on Current Progress of Mathematics and Science 2015, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2633485270150642653",
+      "cites_id": [
+        "2633485270150642653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New Species of the Genus Metschnikowia Isolated from Flowers in Indonesia, Metschnikowia cibodasensis sp. nov.",
+        "pub_year": "2013",
+        "citation": "Journal of microbiology and biotechnology 23 (7), 905-912, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5507417919467954882",
+      "cites_id": [
+        "5507417919467954882"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikrobiologi Dasar dan Terapan",
+        "pub_year": "2006",
+        "citation": "Jakarta (ID): Yayasan Obor Indonesia, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:a0OBvERweLwC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6295207312440513269",
+      "cites_id": [
+        "6295207312440513269"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengenalan kapang tropik",
+        "pub_year": "1999",
+        "citation": "Yayasan Obor Indonesia, Jakarta.[Indonesian], 1999"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:D03iK_w7-QYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8390577904204490877",
+      "cites_id": [
+        "8390577904204490877"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of fungi from deteriorated old manuscripts from Banyumas, collection of Library of Universitas Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012031, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:rO6llkc54NcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2689038184704948421",
+      "cites_id": [
+        "2689038184704948421"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fungal deterioration of old manuscripts of European paper origin",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6125575971815585428",
+      "cites_id": [
+        "6125575971815585428"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mikologi",
+        "pub_year": "2006",
+        "citation": "Dasar dan Terapan. Yayasan Obor Indonesia. Jakarta, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9175789059117184036",
+      "cites_id": [
+        "9175789059117184036"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "dan Santoso, I. 1999",
+        "citation": "Pengenalan kapang tropik umum, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:r0BpntZqJG4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12564609154777335065",
+      "cites_id": [
+        "12564609154777335065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening for amylolytic activity and characterization of thermophilic Actinobacteria isolated from a geothermal area in West Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (7), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:-f6ydRqryjwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13210094175852178590",
+      "cites_id": [
+        "13210094175852178590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carboxymethyl cellulose (CMC)-degrading ability of Rhizopus azygosporus UICC 539 at various temperatures",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:maZDTaKrznsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13852546875605652252",
+      "cites_id": [
+        "13852546875605652252"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellulolytic enzyme-producing thermophilic Actinobacteria isolated from the soil of Cisolok Geysers, West Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (11), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:HDshCWvjkbEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14359190075222908335",
+      "cites_id": [
+        "14359190075222908335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ITS regions of rDNA sequence and morphological analyses clarify five Rhizopus strains from tempeh as Rhizopus oryzae",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11997724327359313489",
+      "cites_id": [
+        "11997724327359313489"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic analyses based on ITS regions of rDNA identified five Rhizopus strains from tempeh as R. delemar and R. oryzae",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:4DMP91E08xMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10609453292734510212",
+      "cites_id": [
+        "10609453292734510212"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular identification of fungal species from deteriorated old chinese manuscripts in Central Library Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:aqlVkmm33-oC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9214943182676992407",
+      "cites_id": [
+        "9214943182676992407"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polyphasic identification of a thermophilic bacterium from geyser of Cisolok, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:roLk4NBRz8UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2185102243442209593",
+      "cites_id": [
+        "2185102243442209593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mycology: basic and applied",
+        "pub_year": "2006",
+        "citation": "Yayasan Obor Indonesia, Depok.[Indonesian], 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10206134366336433126",
+      "cites_id": [
+        "10206134366336433126"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skimmed milk-degrading ability of Rhizopus azygosporus UICC 539 at various temperatures",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15072989930464430102",
+      "cites_id": [
+        "15072989930464430102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Starch-degrading ability of Rhizopus azygosporus UICC 539 at various temperatures",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:isC4tDSrTZIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13188490458683303957",
+      "cites_id": [
+        "13188490458683303957"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of olive oil and Tween 80 utilization by Rhizopus azygosporus UICC 539 at various temperatures",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:TFP_iSt0sucC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7444306805085650128",
+      "cites_id": [
+        "7444306805085650128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aerial mycelium formation in rare thermophilic Actinobacteria on media solidified with agar and gellan gum",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 483 (1), 012017, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:blknAaTinKkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5773768684343598555",
+      "cites_id": [
+        "5773768684343598555"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and 16S rRNA gene sequences analysis of thermophilic Actinobacteria isolated from soil in Cisolok geothermal area, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012015, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5212754249809090335",
+      "cites_id": [
+        "5212754249809090335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and morphological characterization of fungi from deteriorated old Chinese manuscripts from Central Library Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:4TOpqqG69KYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3801853370213448858",
+      "cites_id": [
+        "3801853370213448858"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of tributyrin utilization by Rhizopus azygosporus UICC 539 at various temperatures",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=153216465280493570",
+      "cites_id": [
+        "153216465280493570"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Crustaceous wastes as growth substrates for insect-pathogenic fungus Metarhizium majus UICC 295",
+        "pub_year": "2020",
+        "citation": "IOP conference series: earth and environmental science 483 (1), 012016, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:BqipwSGYUEgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17558536413011602704",
+      "cites_id": [
+        "17558536413011602704"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soybean dregs as main ingredients of pollen substitute for Apis cerana honey bees",
+        "pub_year": "2020",
+        "citation": "Intl J Mod Agric 9 (4), 541-555, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2329390386107291713",
+      "cites_id": [
+        "2329390386107291713"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of microcrystalline cellulose and carboxymethyl cellulose for the detection of cellulolytic fungi from old Chinese manuscripts",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:_kc_bZDykSQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3785115035413174743",
+      "cites_id": [
+        "3785115035413174743"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Pollen Substitutes on the Productivity of Apis cerana in Indonesia",
+        "pub_year": "2013",
+        "citation": "Bee World 90 (3), 72-75, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14110331731310191760",
+      "cites_id": [
+        "14110331731310191760"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skrining, isolasi, dan identifikasi bakteri asam laktat penghasil eksopolisakarida menggunakan gen penyandi 16S ribosomal RNA",
+        "pub_year": "2007",
+        "citation": "Sains Indonesia 12, 1-6, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:GnPB-g6toBAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3851184631981783285",
+      "cites_id": [
+        "3851184631981783285"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Rhizopus azygosporus UICC 539 growth on the nutrient content of sterile slurry and palm kernel cake mixtures at different temperature",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 483 (1), 012022, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12516872500756955174",
+      "cites_id": [
+        "12516872500756955174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Xylan-degrading ability of thermophilic Actinobacteria isolated from soil in a geothermal area",
+        "pub_year": "2020",
+        "citation": "Biodiversitas 21 (1), 144-154, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6195903794446319867",
+      "cites_id": [
+        "6195903794446319867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cricket powder in the growth medium provides nutrition for the insect-pathogenic fungus Metarhizium majus UICC 295",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15878954939795661391",
+      "cites_id": [
+        "15878954939795661391"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellulolytic and xerophilic fungi from old manuscripts of European paper origin",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14743762398089538988",
+      "cites_id": [
+        "14743762398089538988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Viability of Metarhizium majus UICC 295 after preservation by freezing at-80\u00b0 C",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3465543227888490184",
+      "cites_id": [
+        "3465543227888490184"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GTFB is a novel enzyme that structurally and functionally provides an evolutionary link between glycoside hydrolase enzyme families 13 and 70",
+        "pub_year": "2011",
+        "citation": "Appl Environ Microbiol 77, 8154-8163, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:u_35RYKgDlwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5319599553084859264",
+      "cites_id": [
+        "5319599553084859264"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan database mikroorganisme Indigenos Indonesia",
+        "pub_year": "2010",
+        "citation": "Makara Journal of Science 10 (1), 11, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15630606055661251727",
+      "cites_id": [
+        "15630606055661251727"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial activity of a thermophilic actinobacterium Streptomyces cellulosae SL2-2-R-9 on different growth media",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1943 (1), 012099, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10532390356852511856",
+      "cites_id": [
+        "10532390356852511856"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Naphthalene biodegradation capability and characterization of bacteria isolate DRK 9.1 from volcanic mud in Renokenongo Village, Sidoarjo",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16627647845338805649",
+      "cites_id": [
+        "16627647845338805649"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodegradation of 0.02% naphthalene by Pseudomonas aeruginosa DRK 9.1 isolated from volcanic mud in Renokenongo Village, Sidoarjo",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3944973103399990808",
+      "cites_id": [
+        "3944973103399990808"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid-state fermentation of sterile slurry and palm kernel cake (PKC) mixture using Rhizopus azygosporus UICC 539",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 483 (1), 012029, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10768658132603048322",
+      "cites_id": [
+        "10768658132603048322"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid-state fermentation and formulation of non-sterile palm oil processing waste using Rhizopus azygosporus UICC 539",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 483 (1), 012024, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:hMod-77fHWUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7319169079949627764",
+      "cites_id": [
+        "7319169079949627764"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Xylan-degrading ability of thermophilic Actinobacteria from soil in a geothermal area",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13850104071852837653",
+      "cites_id": [
+        "13850104071852837653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular phylogenetic analyses of filamentous fungi from deteriorated old Chinese manuscripts in Central Library Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17962626467669159585",
+      "cites_id": [
+        "17962626467669159585"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin Jurnal:\" The Effect of Pollen Substitutes on the Productivity of Apis cerana in Indonesia\"",
+        "pub_year": "2021",
+        "citation": "Universitas Nasional, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin Jurnal:\" Soybean Dregs as Main Ingrediens of Pollen Substitute for Apis Cerana Honey Bees\"",
+        "pub_year": "2021",
+        "citation": "Universitas Nasional, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial activity of Microbispora rosea subsp. rosea SL3-2-R-1 grown on different media and solidifying agents",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1918 (5), 052011, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodegradation of 0.02% naphthalene added with 0.5% glucose by Pseudomonas aeruginosa DRK 9.1 isolated from volcanic mud in Renokenongo Village, Sidoarjo",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of Rhizopus delemar UICC 27, UICC 67, and UICC 121 on the slurry and palm kernel cake mixtures",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and microscopical characterization of fungi from deteriorated old Chinese manuscripts from Central Library Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of a syntrophic actinomycete strain whose growth depend on co-culture with a Lysinibacillus strain.",
+        "pub_year": "2016",
+        "citation": "Malaysian Journal of Microbiology 12 (2), 116-120, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of fungi from old Chinese manuscripts in Central Library Universitas Indonesia",
+        "pub_year": "2016",
+        "citation": "International Symposium on Current Progress in Mathematics and Science 2015, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proses Pembuatan Pakan Pengganti Pollen Basah Dari Biomassa Khamir Lokal Dengan Media Produksi Limbah Nanas",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "2Dp02 Taxonomy of yeasts-associated with Apis cerana and their potential use for pollen substitutes",
+        "pub_year": "2012",
+        "citation": "\u65e5\u672c\u751f\u7269\u5de5\u5b66\u4f1a\u5927\u4f1a\u8b1b\u6f14\u8981\u65e8\u96c6 64, 50, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preference of Apis cerana to Six Pollen Substitutes",
+        "pub_year": "2011",
+        "citation": "Proceeding ICBB (The International Conference on Bioscience and \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGUJIAN KEMAMPUAN ANTAGONISTIK KHAMIR Rhodotorula spp. ASAL KEBUN RAYA CIBODAS TERHADAP KAPANG DARI TANAMAN TOMAT TERINFEKSI DENGAN CO-CULTURE",
+        "pub_year": "2011",
+        "citation": "JURNAL ISTEK 5 (1-2), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "4, 6-\u00ce\u00b1-Glucanotransferase, a Novel Enzyme That Structurally and Functionally Provides an Evolutionary Link between Glycoside Hydrolase Enzyme Families 13 and 70",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Saeh plant (Broussonetia papyrifera Vent.): A link between the yeast diversity and daluang (dluwang) paper.",
+        "pub_year": "2010",
+        "citation": "International Meeting of Association for Tropical Biology and Conservation \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan Aktivitas Selulase Isolat-isolat Khamir dari Moluska, Serasah, dan Tumbuhan di Taman Nasional Gunung Halimun, Jawa Barat",
+        "pub_year": "2007",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 186-191, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Database for Indigenous Indonesian Microorganisms",
+        "pub_year": "2006",
+        "citation": "MAKARA JOURNAL OF SCIENCE 10 (1), 1-+, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic Activity of Rhodotorula spp. Against Spoilage-Causing Moulds on Tomatoes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic Activity of Rhodotorula spp. Against Spoilage-Causing Moulds on Tomatoes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ncZSVvYAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

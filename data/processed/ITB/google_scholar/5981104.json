@@ -1,0 +1,717 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "cQIQTV4AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "azzania fibriani",
+  "affiliation": "Researcher of molecular biology, Institut Teknologi Bandung, Indonesia",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Microbiology",
+    "virology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "http://www.sith.itb.ac.id/",
+  "citedby": 269,
+  "citedby5y": 122,
+  "hindex": 9,
+  "hindex5y": 6,
+  "i10index": 9,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2005": 1,
+    "2006": 2,
+    "2007": 2,
+    "2008": 3,
+    "2009": 1,
+    "2010": 3,
+    "2011": 7,
+    "2012": 7,
+    "2013": 10,
+    "2014": 23,
+    "2015": 33,
+    "2016": 18,
+    "2017": 16,
+    "2018": 16,
+    "2019": 10,
+    "2020": 10,
+    "2021": 14,
+    "2022": 27,
+    "2023": 35,
+    "2024": 25
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response to first\u2010line antiretroviral treatment among human immunodeficiency virus\u2010infected patients with and without a history of injecting drug use in Indonesia",
+        "pub_year": "2010",
+        "citation": "Addiction 105 (6), 1055-1061, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11847829455119110876",
+      "cites_id": [
+        "11847829455119110876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virological failure and drug resistance during first line anti\u2010retroviral treatment in Indonesia",
+        "pub_year": "2013",
+        "citation": "Journal of medical virology 85 (8), 1394-1401, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13637726571760826135",
+      "cites_id": [
+        "13637726571760826135"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increased virological failure in naive HIV-1\u2013infected patients taking lamivudine compared with emtricitabine in combination with tenofovir and efavirenz or nevirapine in the \u2026",
+        "pub_year": "2015",
+        "citation": "Clinical Infectious Diseases 60 (1), 143-153, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12128886351542046988",
+      "cites_id": [
+        "12128886351542046988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of SARS-CoV-2 genomes from west Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "Viruses 13 (10), 2097, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:8k81kl-MbHgC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11832982437643670274",
+      "cites_id": [
+        "11832982437643670274"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction and cloning of plastic-degrading recombinant enzymes (MHETase)",
+        "pub_year": "2020",
+        "citation": "Recent Patents on Biotechnology 14 (3), 229-234, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:ufrVoPGSRksC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13135743878691368365",
+      "cites_id": [
+        "13135743878691368365"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ongoing HIV replication in cerebrospinal fluid under successful monotherapy",
+        "pub_year": "2013",
+        "citation": "Antiviral therapy 18 (4), 1-3, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2491955791934955672",
+      "cites_id": [
+        "2491955791934955672"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Androgen-dependent expression, gene structure, and molecular evolution of guinea pig caltrin II, a WAP-motif protein",
+        "pub_year": "2004",
+        "citation": "Biology of reproduction 71 (5), 1583-1590, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8167768575946283058",
+      "cites_id": [
+        "8167768575946283058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hepatitis B virus prevalence, risk factors and genotype distribution in HIV infected patients from West Java, Indonesia",
+        "pub_year": "2014",
+        "citation": "Journal of Clinical Virology 59 (4), 235-241, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:qjMakFHDy7sC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=472146367681398327",
+      "cites_id": [
+        "472146367681398327"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AIDS Therapy Evaluation in the Netherlands National Observational Cohort. Increased virological failure in naive HIV-1-infected patients taking lamivudine compared with \u2026",
+        "pub_year": "2015",
+        "citation": "Clin. Infec. Dis 60 (1), 143-153, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4024663112811830437",
+      "cites_id": [
+        "4024663112811830437"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Low cost HIV-1 quantitative RT-PCR assay in resource-limited settings: improvement and implementation",
+        "pub_year": "2012",
+        "citation": "Journal of virological methods 185 (1), 118-123, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16593965887755700745",
+      "cites_id": [
+        "16593965887755700745"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The performance of point-of-care antibody test for COVID-19 diagnosis in a tertiary hospital in Bandung, Indonesia",
+        "pub_year": "2021",
+        "citation": "The Journal of Infection in Developing Countries 15 (02), 237-241, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:0EnyYjriUFMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7899549641285153036",
+      "cites_id": [
+        "7899549641285153036"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification, evolution, and regulation of expression of Guinea pig trappin with an unusually long transglutaminase substrate domain",
+        "pub_year": "2005",
+        "citation": "Journal of Biological Chemistry 280 (21), 20204-20215, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14385335072819438342",
+      "cites_id": [
+        "14385335072819438342"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a dimer-based screening system for dimerization inhibitor of HIV-1 protease",
+        "pub_year": "2020",
+        "citation": "J. Microbiol. Biotechnol 2, 1-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=124445179203530605",
+      "cites_id": [
+        "124445179203530605"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "More virological failure with lamivudine than emtricitabine in efavirenz and nevirapine regimens in the Dutch nationwide HIV Cohort",
+        "pub_year": "2014",
+        "citation": "Journal of the International AIDS Society 17, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4682849997487732316",
+      "cites_id": [
+        "4682849997487732316"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNA sequence analysis of nasopharyngeal swabs from asymptomatic and mildly symptomatic patients with COVID-19",
+        "pub_year": "2022",
+        "citation": "International Journal of Infectious Diseases 122, 449-460, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16451493832121658792",
+      "cites_id": [
+        "16451493832121658792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plasmid Construction for Development of a High Throughput System Selection of New Anti-HIV Drugs Derived from Biological Resources Indonesia",
+        "pub_year": "2018",
+        "citation": "BioTechnology: An Indian Journal 14 (3), 166, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2084237260747525529",
+      "cites_id": [
+        "2084237260747525529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Curcumin-derived carbon-dots as a potential COVID-19 antiviral drug",
+        "pub_year": "2023",
+        "citation": "Heliyon 9 (9), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14125297490057836114",
+      "cites_id": [
+        "14125297490057836114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementation of dimer-based screening system in Escherichia coli BL21 (DE3) for selection of actinomycetes compounds as anti-HIV candidate",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (2), 192-203, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7915494966592482363",
+      "cites_id": [
+        "7915494966592482363"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introduction to Novel Corona Virus (2019-nCov) Infection",
+        "pub_year": "2020",
+        "citation": "Bandung, Institut Teknologi Bandung, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13466895484687748958",
+      "cites_id": [
+        "13466895484687748958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The SARS-CoV-2 Mpro Dimer-Based Screening System: A Synthetic Biology Tool for Identifying Compounds with Dimerization Inhibitory Potential",
+        "pub_year": "2024",
+        "citation": "ACS Synthetic Biology, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:-f6ydRqryjwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8075739409652267023",
+      "cites_id": [
+        "8075739409652267023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SARS-CoV-2 genetic variation and bacterial communities of naso-oropharyngeal samples in middle-aged and elderly COVID-19 patients in West Java, Indonesia",
+        "pub_year": "2024",
+        "citation": "Journal of Taibah University Medical Sciences 19 (1), 70-81, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2475695686095636386",
+      "cites_id": [
+        "2475695686095636386"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Porphyrin-derived carbon dots for an enhanced antiviral activity targeting the CTD of SARS-CoV-2 nucleocapsid",
+        "pub_year": "2023",
+        "citation": "Journal of Genetic Engineering and Biotechnology 21 (1), 93, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:IWHjjKOFINEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10429872815783593630",
+      "cites_id": [
+        "10429872815783593630"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure-Based Design of Recombinant Spike Subunit Vaccine for Coronavirus Diseases.",
+        "pub_year": "2023",
+        "citation": "International Journal on Advanced Science, Engineering & Information \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3154705110478559298",
+      "cites_id": [
+        "3154705110478559298"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of ACE2-like Enzyme from Endogenous Indonesian Microorganism in Fermented Food as an Alternative Treatment for COVID-19",
+        "pub_year": "2022",
+        "citation": "Report of Grant-Supported Research The Asahi Glass Foundation 91, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=227943132586057130",
+      "cites_id": [
+        "227943132586057130"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cell-Free Fetal DNA as a Non-invasive Method Using Pyrosequencing in Detecting Beta-Globin Gene Mutation: A Pilot Study from area with Limited Facilities in Indonesia",
+        "pub_year": "2022",
+        "citation": "Frontiers in Pediatrics, 1250, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2821159431366526716",
+      "cites_id": [
+        "2821159431366526716"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of Indonesian Medicinal Plant Active Compounds as Inhibitor Candidates of Oncoproteins E6 and E7 Human Papillomavirus Type 16 by Molecular Docking",
+        "pub_year": "2021",
+        "citation": "3Bio: Journal of Biological Science, Technology and Management 3 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18265709783343087860",
+      "cites_id": [
+        "18265709783343087860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response to first line antiretroviral treatment among HIV-infected patients with and without a history of injecting drug use in Indonesia",
+        "pub_year": "2012",
+        "citation": "Monitoring and treatment of HIV among injecting drug users in Indonesia 105 \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17505605336379927947",
+      "cites_id": [
+        "17505605336379927947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Engineering of Perithrophin-Cb42 cDNA from Old World Screwworm Fly (Chrysom ya bezziana) for Efficient Expression in Plant",
+        "pub_year": "2005",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12403557902448598162",
+      "cites_id": [
+        "12403557902448598162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution of SARS-CoV-2 Variants in West Java Based on Genomic Surveillance Data, 2021-2022",
+        "pub_year": "2024",
+        "citation": "Indonesian Journal of Clinical Pathology and Medical Laboratory 30 (3), 222-227, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring the potential of black cumin derived nanovesicles for miRNA drug delivery",
+        "pub_year": "2024",
+        "citation": "European Journal of Pharmaceutics and Biopharmaceutics 199, 114275, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Successful Primer Picking and Pooling for the Design of Multiplex PCR Primers Specific to Pork, Beef, Chicken, and Rat DNA",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 678-686, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Moloney Murine Leukemia Virus Reverse Transcriptase Fused with Archaeal DNA-binding Protein Sis7a",
+        "pub_year": "2024",
+        "citation": "Recent Patents on Biotechnology 18 (1), 71-83, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use of Biomaterials in Three-Dimensional Culturing of Cancer Cells",
+        "pub_year": "2023",
+        "citation": "Current Issues in Molecular Biology 45 (2), 1100-1112, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Validity of Cross Priming Amplification to Detect SARS-CoV-2 Virus",
+        "pub_year": "2022",
+        "citation": "INDONESIAN JOURNAL OF CLINICAL PATHOLOGY AND MEDICAL LABORATORY 28 (3), 307-312, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heterologous Production of Human Pappilomavirus L1 Capsid Protein: Systematic Review and Meta-Analysis",
+        "pub_year": "2022",
+        "citation": "3BIO 4 (1), 35, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of the SARS-CoV-2 envelope (E), nucleocapsid (N), and non-structural protein12 (nsp12) genes from COVID-19 patients in West Java",
+        "pub_year": "2021",
+        "citation": "Journal of Microbial Systematics and Biotechnology 3 (1), 20-31, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of SYBR green-based multiplex real-time PCR assay for simultaneous detection of HIV-1 and HCV in Co-infected Patients",
+        "pub_year": "2021",
+        "citation": "Research Journal of Biotechnology 16 (3), 141\u2013145, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Translational Bioinformatics of HIV Peptide 2.0: From Dry To Wet Bench",
+        "pub_year": "2021",
+        "citation": "BIO Web of Conferences, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Translational Bioinformatics of HIV Peptide 2.0: From Dry To Wet Bench",
+        "pub_year": "2021",
+        "citation": "BIO Web of Conferences 41, 02002, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penyebaran Virus Corona dalam perspektif geospasial (ITB 17 Februari 2020)",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and expression of Plasmodium falciparum lactate dehydrogenase (PfLDH) in Escherichia coli BL21 (DE3)",
+        "pub_year": "2019",
+        "citation": "Acta Biochimica Indonesiana 2 (2), 52-57, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HIV and hepatitis virus co-infection among injecting drug users in West Java, Indonesia users in West Java, Indonesia",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heterologous Production of Human Papillomavirus L1 Capsid Protein: Systematic Review and Meta-analysis",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increased risk of virological failure with lamivudine compared to emtricitabine in tenofovir and nevirapine containing initial antiretroviral regimens for therapy-naive HIV-1 \u2026",
+        "citation": "HIV and hepatitis virus co-infection among injecting drug users in West Java \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "High incidence of Hepatitis C virus co-infection in HIV-1 positive injecting drug users from West Java, Indonesia",
+        "citation": "HIV and hepatitis virus co-infection among injecting drug users in West Java \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virus Corona dalam Perspektif Medis dan Biologi Molekuler\u201d di Gedung CRCS ITB",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cQIQTV4AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

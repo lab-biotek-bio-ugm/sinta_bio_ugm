@@ -1,0 +1,109 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "M2JkRJgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Rika Alfianny",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Agroteknologi & Teknologi Bioproduk"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 15,
+  "citedby5y": 14,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2018": 1,
+    "2019": 2,
+    "2020": 3,
+    "2021": 3,
+    "2022": 3,
+    "2023": 3
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Role of indigenous rhizosphere bacteria in suppressing root-knot nematode and improve plant growth tomato.",
+        "pub_year": "2017",
+        "citation": "Plant Pathology Journal (Faisalabad) 16 (1), 25-32, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "M2JkRJgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=933053340603075223",
+      "cites_id": [
+        "933053340603075223"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Control of root-knot nematode disease in tomato-based sustainable agriculture using rhizosphere bacteria",
+        "pub_year": "2019",
+        "citation": "International Journal of Agricultural Resources, Governance and Ecology 15 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "M2JkRJgAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9723414341499753968",
+      "cites_id": [
+        "9723414341499753968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preservation technique to identify Bactrocera dorsalis complex (Diptera: Tephritidae) based on image analysis",
+        "pub_year": "2022",
+        "citation": "Jurnal Entomologi Indonesia 19 (2), 174-174, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "M2JkRJgAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root-Knot Nematodes (Meloidogyne spp.) Prevention on Tomato Plants by Utilizing Rhizosphere Bacteria for Sustainable Agriculture",
+        "pub_year": "2018",
+        "citation": "Asia Proceedings of Social Sciences 2 (1), 39-49, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "M2JkRJgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Role of Indigenous Rhizosphere Bacteria in Suppressing Root-knot Nematode and Improve Plant Growth Tomato",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "M2JkRJgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

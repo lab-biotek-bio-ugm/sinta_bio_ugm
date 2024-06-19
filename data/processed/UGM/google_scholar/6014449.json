@@ -18,8 +18,8 @@
     "Plant Physiology"
   ],
   "email_domain": "@ugm.ac.id",
-  "citedby": 536,
-  "citedby5y": 374,
+  "citedby": 537,
+  "citedby5y": 375,
   "hindex": 12,
   "hindex5y": 11,
   "i10index": 16,
@@ -45,7 +45,7 @@
     "2021": 71,
     "2022": 116,
     "2023": 86,
-    "2024": 32
+    "2024": 33
   },
   "coauthors": [],
   "publications": [
@@ -807,6 +807,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Pengaruh Osmopriming Benih terhadap Perkecambahan dan Pertumbuhan Tanaman Cabai Rawit (Capsicum frutescens L.) pada Cekaman Kekeringan",
+        "pub_year": "2023",
+        "citation": "Bioscientist: Jurnal Ilmiah Biologi 11 (2), 1001-1016, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ds53YvcAAAAJ:2KloaMYe4IUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11014728921665149790",
+      "cites_id": [
+        "11014728921665149790"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "The Potential and Characteristics of Genetic Resources of 7 National Superior of Shallots Varieties in Indonesia",
         "pub_year": "2023",
         "citation": "IOP Conference Series: Earth and Environmental Science 1246 (1), 012022, 2023"
@@ -1009,18 +1025,6 @@
       },
       "filled": false,
       "author_pub_id": "ds53YvcAAAAJ:evX43VCCuoAC",
-      "num_citations": 0
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Pengaruh Osmopriming Benih terhadap Perkecambahan dan Pertumbuhan Tanaman Cabai Rawit (Capsicum frutescens L.) pada Cekaman Kekeringan",
-        "pub_year": "2023",
-        "citation": "Bioscientist: Jurnal Ilmiah Biologi 11 (2), 1001-1016, 2023"
-      },
-      "filled": false,
-      "author_pub_id": "ds53YvcAAAAJ:2KloaMYe4IUC",
       "num_citations": 0
     },
     {

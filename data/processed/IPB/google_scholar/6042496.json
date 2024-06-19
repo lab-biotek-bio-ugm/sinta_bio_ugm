@@ -1,0 +1,958 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "s3tkIpsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Aris Tjahjoleksono",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=s3tkIpsAAAAJ&citpid=2",
+  "affiliation": "Department of Biology, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Plant Physiology and Genetics"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "homepage": "http://biologi.ipb.ac.id/web/en/faculty/profile/34/aris-tjahjoleksono",
+  "citedby": 274,
+  "citedby5y": 210,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2002": 1,
+    "2003": 1,
+    "2004": 1,
+    "2005": 0,
+    "2006": 1,
+    "2007": 2,
+    "2008": 1,
+    "2009": 3,
+    "2010": 0,
+    "2011": 0,
+    "2012": 1,
+    "2013": 4,
+    "2014": 5,
+    "2015": 4,
+    "2016": 8,
+    "2017": 16,
+    "2018": 14,
+    "2019": 23,
+    "2020": 25,
+    "2021": 60,
+    "2022": 37,
+    "2023": 50,
+    "2024": 15
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection and identification of phosphate-potassium solubilizing bacteria from the area around the limestone mining in Cirebon quarry",
+        "pub_year": "2015",
+        "citation": "Research Journal of Microbiology 10 (6), 270, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2669902904073770571",
+      "cites_id": [
+        "2669902904073770571"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biofertilizer effects in combination with different drying system and storage period on growth and production of tomato plant under field conditions",
+        "pub_year": "2014",
+        "citation": "Emirates Journal of food and agriculture 26 (8), 716, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16782395637061865602",
+      "cites_id": [
+        "16782395637061865602"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation among Snpb11 markers, root growth, and physiological characters of upland rice under aluminum stress",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (5), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9512751208356949283",
+      "cites_id": [
+        "9512751208356949283"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "QTL for aluminum tolerance on rice chromosome 3 based on root length characters.",
+        "pub_year": "2019",
+        "citation": "SABRAO Journal of Breeding & Genetics 51 (4), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=25446116458521751",
+      "cites_id": [
+        "25446116458521751"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of phosphate solubilizing bacteria and nitrogen fixing bacteria from limestone mining region.",
+        "pub_year": "2017",
+        "citation": "Malaysian Journal of Microbiology 13 (3), 147-155, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4490256842700072284",
+      "cites_id": [
+        "4490256842700072284"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and nutrient analysis of seed of local cowpea (Vigna unguiculata) varieties from Southwest Maluku, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18304675544861473724",
+      "cites_id": [
+        "18304675544861473724"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization endophytic bacteria as biological control of fungus Colletotrichum sp. on onion plants (Allium cepa L.)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012043, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8644867015285821007",
+      "cites_id": [
+        "8644867015285821007"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of bacteria producing indole-3-acetic acid and its application on oil palm seedlings (Elaeis guineensis Jacq.).",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4759672518771658691",
+      "cites_id": [
+        "4759672518771658691"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknologi DNA Rekombinan",
+        "pub_year": "2007",
+        "citation": "Jurusan Biologi FMIPA, Institut Pertanian Bogor, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15715748158744641428",
+      "cites_id": [
+        "15715748158744641428"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of acid aluminium tolerant Bradyrhizobium japonicum strains: analysis of marker genes and competition in planta",
+        "pub_year": "1998",
+        "citation": "IPB (Bogor Agricultural University), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4216107918472667970",
+      "cites_id": [
+        "4216107918472667970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological responses of some local cowpea from Southwest Maluku (Indonesia) varieties to drought stress",
+        "pub_year": "2017",
+        "citation": "Biodiversitas Journal of Biological Diversity 18 (4), 1294-1299, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2306964064582785836",
+      "cites_id": [
+        "2306964064582785836"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ripe pulp metabolite profiling of ten Indonesian dessert banana cultivars using UHPLC-Q-Orbitrap HRMS",
+        "pub_year": "2021",
+        "citation": "European Food Research and Technology 247, 2821-2830, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:lSLTfruPkqcC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7379660086646610422",
+      "cites_id": [
+        "7379660086646610422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and identification of phosphate solubilizing bacteria isolate GPC3. 7 from limestone mining region",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 58 (1), 012016, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4255377193891410056",
+      "cites_id": [
+        "4255377193891410056"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transgene insertion stability and aluminum tolerance candidate gene expression in T3 generation of transgenic tobacco.",
+        "pub_year": "2016",
+        "citation": "International Journal of Agriculture & Biology 18 (3), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:5nxA0vEk-isC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6476035786208749466",
+      "cites_id": [
+        "6476035786208749466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Caracterisation et diversite des souches de Rhizobium nodulant le haricot (Phaseolus vulgaris L.) cultive en trois sites tropicaux",
+        "pub_year": "1993",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:dhFuZR0502QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5637358805554236173,772728095218443246",
+      "cites_id": [
+        "5637358805554236173",
+        "772728095218443246"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rhizobacterial inoculants: the formulation as biofertilizer and its application on chili plants (Capsicum annum L.).",
+        "pub_year": "2019",
+        "citation": "Malaysian Journal of Microbiology 15 (1), 44-51, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11099540008028838410",
+      "cites_id": [
+        "11099540008028838410"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of drought-tolerant local cowpea varieties of Southwest Maluku (Indonesia)",
+        "pub_year": "2018",
+        "citation": "Makara Journal of Science 22 (4), 5, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16926567012798351832",
+      "cites_id": [
+        "16926567012798351832"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regeneration and histological study of somatic embryogenesis of sugarcane (Saccharum officinarum L.) cultivar PS 864",
+        "pub_year": "2018",
+        "citation": "Berkala Penelitian Hayati 24 (1), 53-57, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:isC4tDSrTZIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10722802750537463952",
+      "cites_id": [
+        "10722802750537463952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium tumefaciens-mediated transformation of MmCuZn-SOD gene to sugarcane (Saccharum officinarum cv. PS864) for acidic soil stress tolerance.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13889881870878456599",
+      "cites_id": [
+        "13889881870878456599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endophytic actinobacteria of Eleutherine palmifolia as antioxidant producer",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (8), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9596094527186513119",
+      "cites_id": [
+        "9596094527186513119"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of mutant of potato (Solanum tuberosum L.) cultivar Kennebec",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012074, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13064996115482407303",
+      "cites_id": [
+        "13064996115482407303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of somatic embryogenesis induction of cassava (Manihot esculenta Crantz)",
+        "pub_year": "2017",
+        "citation": "Annales Bogorienses 21 (2), 45-51, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7805771462663680937",
+      "cites_id": [
+        "7805771462663680937"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction of RNA interference vector to silence aluminum tolerance gene candidate in rice cv Hawara Bunar",
+        "pub_year": "2016",
+        "citation": "HAYATI Journal of Biosciences 23 (2), 79-84, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3920723516760083996",
+      "cites_id": [
+        "3920723516760083996"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi marka gen ketahanan hawar daun bakteri pada galur padi introduksi dan galur dihaploid",
+        "pub_year": "2014",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 14 (2), 101-109, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:roLk4NBRz8UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15346352818088406588",
+      "cites_id": [
+        "15346352818088406588"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic transformation of tobacco plant using Inhibitor of Meristem Activity (IMA) genes",
+        "pub_year": "2016",
+        "citation": "Pakistan Journal of Biotechnology 13 (2), 125-131, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:maZDTaKrznsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7641972563851255888",
+      "cites_id": [
+        "7641972563851255888"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Obtaining of transgenic potato (Solanum tuberosum L.) cultivar IPB CP3 containing LYZ\u2010C gene resistant to bacterial wilt disease",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Biotechnology 26 (1), 48-53, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:hMod-77fHWUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17972077766689360589",
+      "cites_id": [
+        "17972077766689360589"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of indole-3-acetic acid producing bacteria from red onion rhizosphere",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012046, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13347164674068859108",
+      "cites_id": [
+        "13347164674068859108"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan Planlet Lidah Mertua (Sansevieria sp.) Blue Leaf dari Kultur Kalus",
+        "pub_year": "2015",
+        "citation": "Jurnal Sumberdaya Hayati 1 (1), 15-18, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4382969882690632902",
+      "cites_id": [
+        "4382969882690632902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformation of Inhibitor of Meristem Activity (IMA) Gene into Jatropha curcas L.",
+        "pub_year": "2015",
+        "citation": "Makara Journal of Science 19 (3), 5, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15854773044005206824",
+      "cites_id": [
+        "15854773044005206824"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Sejumlah Isolat Bakteri Fotosintetik Anoksigenik untuk Pupuk Hayati Padi",
+        "pub_year": "1997",
+        "citation": "IPB (Bogor Agricultural University), 1997"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5855929374303889664",
+      "cites_id": [
+        "5855929374303889664"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alkaline Phosphatase Activity of Plant Growth-Promoting Actinomycetes and Their Genetic Diversity Based on the phoD Gene",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (3), 360-369, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=769989510204937686",
+      "cites_id": [
+        "769989510204937686"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of c-lysozyme gene in transgenic potatoes cv. Jala Ipam against bacterial wilt disease caused by Ralstonia solanacearum.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2354494370332291935",
+      "cites_id": [
+        "2354494370332291935"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Metabolomik pada Interaksi Padi dan Bakteri",
+        "pub_year": "2019",
+        "citation": "Jurnal Sumberdaya Hayati 5 (1), 18-24, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:-f6ydRqryjwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5764710130503811871",
+      "cites_id": [
+        "5764710130503811871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Kalus Tanaman Tebu (Saccharum officinarum L.) pada Kondisi Tercekam Aluminium secara In Vitro",
+        "pub_year": "2017",
+        "citation": "Prosiding Industrial Research Workshop and National Seminar 8, 590-592, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14921122716922191565",
+      "cites_id": [
+        "14921122716922191565"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skisotipe Bakteri Bintil Akar Kedelai Berdasarkan Analisis Pulsed-Field Gel Electrophoresis (PFGE)",
+        "pub_year": "2000",
+        "citation": "IPB (Bogor Agricultural University), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9805871330434692493",
+      "cites_id": [
+        "9805871330434692493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan Pseudomonas aeruginosa ATCC 15442 terhadap Pertumbuhan Tanaman Cabai Rawit (Capsicum frutescens L.) Varietas Bonita pada Kondisi Salin",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (4), 171-177, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Antioksidan Daging Buah Sepuluh Kultivar Pisang Meja Indonesia",
+        "pub_year": "2023",
+        "citation": "BioWallacea: Jurnal Penelitian Biologi (Journal of Biological Research) 10 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced tolerance of IPB CP1 potato (Solanum tuberosum L.) transgenic expressing superoxide dismutase gene under high temperature stress",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012096, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Manipulasi Nutrien dan Zat Pengatur Tumbuh untuk Meningkatkan Produksi dan Kualitas Buah Stroberi (Fragaria x ananassa) Kultivar BAT-1",
+        "pub_year": "2023",
+        "citation": "Jurnal Hortikultura Indonesia 14 (2), 63-70, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of transgenic potato cultivar IPB CP1 plants containing gene encoding for superoxide dismutase to increase the abiotic stress tolerance",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Biotechnology 27 (3), 118-125, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OPTIMIZATION OF Agrobacterium-MEDIATED GENETIC TRANSFORMATION OF oshox4 GENE IN SATOIMO TARO (Colocasia esculenta var. antiquorum)",
+        "pub_year": "2022",
+        "citation": "Jurnal Bioteknologi dan Biosains Indonesia 9 (1), 110-118, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and application of nitrogen-fixing and indole-3-acetic acid producing bacteria A13 in Oil Palm (Elaeisguineensis Jacq.) seedling",
+        "pub_year": "2021",
+        "citation": "Journal of Microbial Systematics and Biotechnology 3 (1), 32-40, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of cowpea cultivars from Southwest Maluku-Indonesia under different environments based on morphological characters.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Embryogenic Callus Cytology and Regeneration Condition for Genetic Transformation of Sugarcane",
+        "pub_year": "2018",
+        "citation": "International Journal of Science and Applied Technology 3 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAYATI Journal of Biosciences",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transfer Gen Horizontal dan Populasi Bakteri Filosfer pada Kapas Transgenik dan Nontransgenik",
+        "pub_year": "2005",
+        "citation": "HAYATI Journal of Biosciences 12 (3), 93-97, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kelimpahan Bakteri Filosfer pada Beberapa Sayuran Lalaban",
+        "pub_year": "2005",
+        "citation": "Microbiology Indonesia 10 (2), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Horizontal Gene Transfer and Population of Phyllosphere Bacteria on Transgenic and Nontransgenic Cotton",
+        "pub_year": "2005",
+        "citation": "HAYATI Journal of Biosciences 12 (3), 93-93, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik Beberapa Isolat Phytophthora Palmivora Penyebab Penyakit Gugur Buah Pada Kelapa Berdasarkan Penanda Random Amplified Polymorphic Dna (Rapd)",
+        "pub_year": "2004",
+        "citation": "Jurnal Penelitian Tanaman Industri 10 (4), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular ecology of anoxygen photosynthetic bacteria and delta-aminolevulinat acid production from Rhodobacter sphaeroides",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological aspects and DNA genome analysis of several Bradyrhizobium japonicum Acid-Al tolerant strains",
+        "pub_year": "1999",
+        "citation": "Seminar Pertemuan Ilmiah Tahunan Perhimpunan Mikrobiologi Indonesia, Bandar \u2026, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rhizobium associated with field-grown Phaseolus vulgaris L.",
+        "pub_year": "1995",
+        "citation": "7. International Symposium on Microbial Ecology, 133, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mesure de l'activit\u00e9 r\u00e9ductrice d'ac\u00e9tyl\u00e8ne du haricot (Phaseolus vulgaris L.). Comparaison de m\u00e9thodes et effet de la temp\u00e9rature",
+        "pub_year": "1989",
+        "citation": "CIRAD-IRAT, 1989"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perakitan Varietas, dan Pengujian Produksi Benih dan Umbi Kentang untuk Industri Keripik",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introduksi Gen LYZ-C Penyandi Lisozim ke dalam Tanaman Kentang (Solanum tuberosum L.) Kultivar IPB CP3",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Viability and Effectiveness of Biofertilizer Treated with Drying Techniques and Length of Storage.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekspresi Gen FBPase/ClRan1 pada Tanaman Kentang (Solanum tuberosum L.) Kultivar Nooksack Transgenik Generasi G1.",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan kapasitas ukm melalui perancangan dan Introduksi peralatan untuk budidaya jamur tiram",
+        "citation": "Bogor Agricultural University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penambahan Mikroba Pemacu Tumbuh untuk Meningkatkan Kualitas Pupuk Organik, Serapan Hara, Pertumbuhan serta Produksi Padi Gogo dan Jagung",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulasi Inokulan Rizobakteria sebagai Penghasil Indole-3-Acetic Acid dan Pengujiannya pada Tanaman Cabai Rawit (Capsicum frutescens L.).",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transfer Gen Horizontal dan Populasi Bakteri Filosfer pada Kapas Transgenik dan Nontransgenik Horizontal Gene Transfer and Population of Phyllosphere Bacteria on Transgenic and \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "s3tkIpsAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

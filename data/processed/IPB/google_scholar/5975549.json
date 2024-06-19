@@ -1,0 +1,219 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "LzZf24wAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Mafrikhul Muttaqin",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LzZf24wAAAAJ&citpid=8",
+  "affiliation": "Department of Biology, Faculty of Mathematics and Natural Sciences, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "plant interactions"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "homepage": "http://mafrikhul.bio.staff.ipb.ac.id/",
+  "citedby": 28,
+  "citedby5y": 26,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2017": 1,
+    "2018": 1,
+    "2019": 0,
+    "2020": 1,
+    "2021": 4,
+    "2022": 8,
+    "2023": 9,
+    "2024": 4
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hA3bBbkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Triadiati Antono",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "FGcpl6IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iman Rusmana",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "u5c40AkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Deden Derajat Matra",
+      "affiliation": "Department of Agronomy and Horticulture, IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "s3tkIpsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aris Tjahjoleksono",
+      "affiliation": "Department of Biology, Bogor Agricultural University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan, Produksi, dan Kualitas Buah Melon Dengan Pemberian Pupuk Silika",
+        "pub_year": "2019",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 24 (4), 366-374, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14774644743418497615,2413812324364984525",
+      "cites_id": [
+        "14774644743418497615",
+        "2413812324364984525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacteria as Greenhouse Gases Reducing Agents from Paddy Plantation",
+        "pub_year": "2016",
+        "citation": "Jurnal Sumberdaya Hayati 2 (2), 45-51, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2837812582890649144",
+      "cites_id": [
+        "2837812582890649144"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectiveness of germination pre-treatment on mung beans, peanuts, and tomatoes",
+        "pub_year": "2019",
+        "citation": "IOP conference series: Earth and environmental science 299 (1), 012058, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3848670907873854119",
+      "cites_id": [
+        "3848670907873854119"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Metabolomik pada Interaksi Padi dan Bakteri",
+        "pub_year": "2019",
+        "citation": "Jurnal Sumberdaya Hayati 5 (1), 18-24, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5764710130503811871",
+      "cites_id": [
+        "5764710130503811871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination of Methanotrophic Bacteria, Nitrous Oxide Reducing Bacteria, and N2 Fixing Bacteria as Biofertilizer and Greenhouse Gases Reducing Agent in Paddy",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:8k81kl-MbHgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6043541183973438330",
+      "cites_id": [
+        "6043541183973438330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DATA PENELITIAN KEONG MAS DI INDONESIA SEBAGAI DASAR KEBIJAKAN BERBASIS SAINS",
+        "pub_year": "2024",
+        "citation": "RISALAH KEBIJAKAN PERTANIAN DAN LINGKUNGAN Rumusan Kajian Strategis Bidang \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mutation Breeding and Efficiency Enhancing Technologies for Resistance to Striga in Cereals",
+        "pub_year": "2024",
+        "citation": "Springer Nature, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Histological Analysis of Striga Infected Plants",
+        "pub_year": "2023",
+        "citation": "Mutation Breeding and Efficiency Enhancing Technologies for Resistance to \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mencoba Menguak Misteri Rafflesia dan Tumbuhan Parasit Indonesia di Masa Pandemi COVID-19",
+        "pub_year": "2020",
+        "citation": "Bunga Rampai Forum Peneliti Muda Indonesia 2020: Tetap Berkarya dalam Masa \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendidikan kesehatan anak melalui wahana permainan yang menarik dan edukatif di daerah Bogor",
+        "pub_year": "2010",
+        "citation": "http://repository.ipb.ac.id/handle/123456789/44529, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "LzZf24wAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

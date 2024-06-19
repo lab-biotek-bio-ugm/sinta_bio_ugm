@@ -1,0 +1,230 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "8KXJlQYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Jayen Aris Kriswantoro",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8KXJlQYAAAAJ&citpid=14",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Microbial Biotechnology"
+  ],
+  "email_domain": "@itb.ac.id",
+  "citedby": 43,
+  "citedby5y": 43,
+  "hindex": 4,
+  "hindex5y": 4,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2020": 1,
+    "2021": 5,
+    "2022": 11,
+    "2023": 12,
+    "2024": 14
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "n37ePPYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Chen-Yeon Chu",
+      "affiliation": "Feng Chia University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dWNiZwgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Pingkan Aditiawati",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nf16tywAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sastia Prama Putri",
+      "affiliation": "Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "39WjjzEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eiichiro Fukusaki",
+      "affiliation": "Professor, Graduate School of Engineering, Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SadLvYEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Karlia Meitha",
+      "affiliation": "SITH, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "low6biAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Santiago Signorelli",
+      "affiliation": "Universidad de la Rep\u00fablica"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GC/MS-based metabolic profiling for the evaluation of solid state fermentation to improve quality of Arabica coffee beans",
+        "pub_year": "2020",
+        "citation": "Metabolomics 16, 1-14, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4340349712498227635",
+      "cites_id": [
+        "4340349712498227635"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Postharvest chitosan application maintains the quality of spinach through suppression of bacterial growth and elicitation",
+        "pub_year": "2022",
+        "citation": "Horticulture, Environment, and Biotechnology 63 (2), 217-227, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14209989080835918659",
+      "cites_id": [
+        "14209989080835918659"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of thermal alkaline pretreatment and zinc acetate-catalyzed methanolysis (MtOH-ZnOAc) for anaerobic digestion of bioplastic waste",
+        "pub_year": "2023",
+        "citation": "Bioresource Technology 377, 128959, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10931779378610283386",
+      "cites_id": [
+        "10931779378610283386"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biohydrogen production kinetics from cacao pod husk hydrolysate in dark fermentations: Effect of pretreatment, substrate concentration, and inoculum",
+        "pub_year": "2024",
+        "citation": "Journal of Cleaner Production, 140407, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095694012377219621",
+      "cites_id": [
+        "8095694012377219621"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of fungi as bioflocculant for mine drainage treatment with extra high total suspended solid",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2245 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7071638679519271371",
+      "cites_id": [
+        "7071638679519271371"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fermentative Methane Production and Microbial Community Analysis Using Deer Manure from Formosan Sambar Deer Farming Area for Velvet Antler Harvesting",
+        "pub_year": "2024",
+        "citation": "Waste and Biomass Valorization, 1-15, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Co-Digestion Approach for Enhancement of Biogas Production by Mixture of Untreated Napier Grass and Industrial Hydrolyzed Food Waste",
+        "pub_year": "2024",
+        "citation": "Frontiers in Bioengineering and Biotechnology 11, 1269727, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary Study of Methane Production Using Cacao Pod Husk in Anaerobic Digestion with Pre-Acidification Treatment",
+        "pub_year": "2023",
+        "citation": "Proceedings of The 7th Asian Conference on Innovative Energy & Environmental \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production Process Optimization of Fermented Taro Paste (Poi) With A Variation of The Inoculum Ratio Between Leuconostoc mesenteroides and Lactococcus lactis",
+        "pub_year": "2019",
+        "citation": "National Seminar Prosiding Biotechnology VI, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolomics approach for neurodegenerative disease: a guide to research design",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8KXJlQYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

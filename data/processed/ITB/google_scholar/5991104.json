@@ -1,0 +1,451 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "tUI9OKQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "andira rahmawati",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tUI9OKQAAAAJ&citpid=1",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Plant Sciences and Biotechnology"
+  ],
+  "email_domain": "@itb.ac.id",
+  "citedby": 52,
+  "citedby5y": 41,
+  "hindex": 4,
+  "hindex5y": 4,
+  "i10index": 1,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2015": 1,
+    "2016": 1,
+    "2017": 2,
+    "2018": 7,
+    "2019": 1,
+    "2020": 3,
+    "2021": 8,
+    "2022": 10,
+    "2023": 16,
+    "2024": 3
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "FACri30AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Taufik Taufikurahman",
+      "affiliation": "Associate Professor at School of Life Sciences and Technology, Institut Teknologi Bandung, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nXZrBjYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rizkita Esyanti",
+      "affiliation": "Institut technology Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dHVKagsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ida Yayu Nurul Hizqiyah",
+      "affiliation": "Universitas Pasundan"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BWGuzloAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Lida Amalia",
+      "affiliation": "Institut Pendidikan Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nLRgAN8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dea Prianka Ayu Ilhamsyah",
+      "affiliation": "University of Sydney"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of secondary metabolite production in somatic embryo of Pasak Bumi (Eurycoma longifolia Jack.)",
+        "pub_year": "2014",
+        "citation": "Procedia Chemistry 13, 112-118, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10965400119260124046",
+      "cites_id": [
+        "10965400119260124046"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Etnobotani Tumbuhan Obat oleh Masyarakat di Desa Nanggeleng Kecamatan Cipeundeuy Kabupaten Bandung Barat",
+        "pub_year": "2016",
+        "citation": "Jurnal Mangifera Edu 1 (1), 27-31, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=840392698340211545",
+      "cites_id": [
+        "840392698340211545"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of biotic and abiotic stressors to artificially induce agarwood production in Gyrinops versteegii (Gilg.) Domke seedlings",
+        "pub_year": "2022",
+        "citation": "Symbiosis 86 (2), 229-239, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2397764030001879726",
+      "cites_id": [
+        "2397764030001879726"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementasi Model Pembelajaran Problem Based Learning untuk Meningkatkan Penguasaan Defisiensi Nutrisi Tumbuhan pada Mahasiswa Pendidikan Biologi Universitas Pasundan",
+        "pub_year": "2017",
+        "citation": "Biosfer: Jurnal Biologi dan Pendidikan Biologi 2 (1), 21-25, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4848101449786069634",
+      "cites_id": [
+        "4848101449786069634"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of leather tanning wastewater on paddy fields, a case study in Garut District, West Java",
+        "pub_year": "2019",
+        "citation": "Jurnal Matematika dan Sains 23, 27-32, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17242131441365182071",
+      "cites_id": [
+        "17242131441365182071"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Kulit Pisang Raja (Musa sapientum) dalam Pembuatan Plastik Biodegradable Dengan Plasticizer Gliserin Dari Minyak Jelantah",
+        "pub_year": "2011",
+        "citation": "Laporan Kemajuan Program Kreativitas Mahasiswa. ITB, Bandung, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17495546465905459088",
+      "cites_id": [
+        "17495546465905459088"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The physiological responses of water hyacinth (Eichhornia crassipes (mart). Solms) and water lettuce (Pistia stratiotes L.) as trivalent chromium bioaccumulator",
+        "pub_year": "2020",
+        "citation": "3BIO Journal of Biological Science Technology and Management 2 (1), 2655-8777, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4415084104223827045",
+      "cites_id": [
+        "4415084104223827045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytotoxicity of chromium-containing wastewater on germination and growth of Oryza sativa L",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1034 (1), 012055, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:ufrVoPGSRksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11996223673234132",
+      "cites_id": [
+        "11996223673234132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biocomposites from anaerobically digested Eichhornia crassipes ((Mart.) Solms), as an alternative solution for the post-phytoremediation process",
+        "pub_year": "2021",
+        "citation": "Current Research on Biosciences and Biotechnology 2 (2), 139-144, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4773473480302619637",
+      "cites_id": [
+        "4773473480302619637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An environmental clean-up: A smallscale model aquaponic for the polluted Citarum river in Cianjur, Iindonesia",
+        "pub_year": "2019",
+        "citation": "Univers Wellbeing (ICUW 2019), 223-5, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11576873345583855062",
+      "cites_id": [
+        "11576873345583855062"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological Strategies of Eichhornia crassipes (Mart.) Solms to tolerate Cr6+ accumulation, compared to a sensitive species Pistia stratiotes L",
+        "citation": "Jurnal Ilmu Lingkungan 18 (1), 82-88, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4589999503431888707",
+      "cites_id": [
+        "4589999503431888707"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of methyl jasmonate on growth, stevioside and rebaudioside A production in Stevia rebaudiana shoot culture using mist bioreactor",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012088, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Stevia rebaudiana Leaf-Axillary Shoot Formation, Cultured in MS Medium Supplemented with IAA-BAP and MS Medium Supplemented with Kinetin",
+        "pub_year": "2023",
+        "citation": "3BIO: Journal of Biological Science, Technology and Management 5 (1), 128-132, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDI BIOINFORMATIKA VARIASI GEN ADP-GLUCOSE PYROPHOSPHORYLASE UBI KAYU (Manihot esculenta Crantz)",
+        "pub_year": "2022",
+        "citation": "Informatika Pertanian 31 (2), 51-62, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementation of Interface & Data Acquisition System for Biogas IoT Monitoring System",
+        "pub_year": "2022",
+        "citation": "2022 8th International Conference on Wireless and Telematics (ICWT), 1-6, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decreased in Paddy Yield (Oryza sativa L.) as a Response to Plant Bioaccumulation of Chromium",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1034 (1), 012051, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Super Master OSN Biologi SMA",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proyek Sains Tumbuhan",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecophysiological Impact of Leather Tanning Wastewater to Paddy, and A ProposedPhytoremediation Solution, A Case Study in Garut District",
+        "pub_year": "2020",
+        "citation": "2nd International Conference on Universal Wellbeing, 173, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biocomposites From Anaerobically Digested Plant Materials of Eichhornia Crassipes ((Mart.) Solms), as an Alternative Solution For Post-Phytoremediation Process",
+        "pub_year": "2020",
+        "citation": "2nd International Conference on Universal Wellbeing, 59, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improving Sustainability Programs of the Universities Community Services in Empowering Rural Areas: Lessons Learned from P2D ITB Long Experiences",
+        "pub_year": "2020",
+        "citation": "2nd International Conference on Universal Wellbeing, 50, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROGRAM PERCONTOHAN PEMBUATAN SEPTIC TANK UMUM MENUJU LINGKUNGAN DENGAN OPEN DEFECATION FREE, STUDI KASUS DI KABUPATEN CIANJUR, JAWA BARAT",
+        "pub_year": "2020",
+        "citation": "Kocenin Serial Konferensi, 3.8. 1-3.8. 6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ringkasan Materi Olimpiade Biologi Internasional, Edisi Keenam",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sukses Kuasai Materi",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential Evaluation of Water Hyacinth (Eichhornia crassipes (Mart.) Solms) as a Growth Media for Vanda foetida J.J.Sm.",
+        "citation": "The 2 nd Symposium: Plant and Microalgae Biodunstry for Ensuring Food \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Temporary Immersion Bioreactor: A Solution in Pasak Bumi (Eurycoma longifolia) Somatic Embryo Productio",
+        "citation": "PROCEEDING OF JOINT SYMPOSIUM ON PLANT SCIENCES AND PRODUCTS, 73, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of raised bed multilayered media on production of red bean  (Phaseolus vulgaris L.) and corn (Zea mays L.) in monocropping and  intercropping systems",
+        "citation": "The 1st International Conference of Bioscience and Biorefinery (IC2B) 2021, 96, 0"
+      },
+      "filled": false,
+      "author_pub_id": "tUI9OKQAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,1099 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "HI1VZYwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Muhammad Yusuf Abduh",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HI1VZYwAAAAJ&citpid=6",
+  "affiliation": "Lecturer of Bio-engineering, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "bioproduct technology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 688,
+  "citedby5y": 590,
+  "hindex": 16,
+  "hindex5y": 15,
+  "i10index": 23,
+  "i10index5y": 21,
+  "cites_per_year": {
+    "2013": 3,
+    "2014": 3,
+    "2015": 8,
+    "2016": 10,
+    "2017": 36,
+    "2018": 32,
+    "2019": 53,
+    "2020": 60,
+    "2021": 114,
+    "2022": 128,
+    "2023": 169,
+    "2024": 60
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of protein hydrolysate containing antioxidant activity from Hermetia illucens",
+        "pub_year": "2019",
+        "citation": "Heliyon 5 (6), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:4DMP91E08xMC",
+      "num_citations": 83,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839620830352497968",
+      "cites_id": [
+        "9839620830352497968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiesel synthesis from Jatropha curcas L. oil and ethanol in a continuous centrifugal contactor separator",
+        "pub_year": "2013",
+        "citation": "European Journal of Lipid Science and Technology 115 (1), 123-131, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4854177843994731866",
+      "cites_id": [
+        "4854177843994731866"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and properties of cross\u2010linked polymers from epoxidized rubber seed oil and triethylenetetramine",
+        "pub_year": "2015",
+        "citation": "Journal of applied polymer science 132 (40), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:qjMakFHDy7sC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5639321225095916663",
+      "cites_id": [
+        "5639321225095916663"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of tree age on the yield, productivity, and chemical composition of essential oil from Cinnamomum burmannii",
+        "pub_year": "2019",
+        "citation": "Current Research on Biosciences and Biotechnology 1 (1), 17-22, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:maZDTaKrznsC",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10177649682318666243",
+      "cites_id": [
+        "10177649682318666243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fermentation of coffee pulp using indigenous lactic acid bacteria with simultaneous aeration to produce cascara with a high antioxidant activity",
+        "pub_year": "2020",
+        "citation": "Heliyon 6 (7), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:TFP_iSt0sucC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16316951792813741179",
+      "cites_id": [
+        "16316951792813741179"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of rubber seeds to produce protein and oil-rich biomass using black soldier fly larva assisted by microbes",
+        "pub_year": "2017",
+        "citation": "J. Entomol. Zool. Stud 5 (4), 591-597, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7148254043522398494",
+      "cites_id": [
+        "7148254043522398494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factors affecting the bioconversion of Philippine tung seed by black soldier fly larvae for the production of protein and oil-rich biomass",
+        "pub_year": "2018",
+        "citation": "Journal of Asia-Pacific Entomology 21 (3), 836-842, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:Zph67rFs4hoC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8466102473936010702",
+      "cites_id": [
+        "8466102473936010702"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of propolis and honey from Tetragonula laeviceps cultivated in Modular Tetragonula Hives",
+        "pub_year": "2020",
+        "citation": "Heliyon 6 (11), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:k_IJM867U9cC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2814347016509557021",
+      "cites_id": [
+        "2814347016509557021"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of Pandanus tectorius using black soldier fly larvae for the production of edible oil and protein-rich biomass",
+        "pub_year": "2017",
+        "citation": "J Entomol Zool Stud 5 (1), 803-809, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11419454470450536720",
+      "cites_id": [
+        "11419454470450536720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konstruksi Ramping: Memaksimalkan Value dan Meminimalkan Waste",
+        "pub_year": "2007",
+        "citation": "Fakultas Teknik Sipil dan Lingkungan, Institut Teknologi Bandung, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:PVgj2kMGcgYC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5569667846197345631",
+      "cites_id": [
+        "5569667846197345631"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and refining of sunflower biodiesel in a cascade of continuous centrifugal contactor separators",
+        "pub_year": "2015",
+        "citation": "European Journal of Lipid Science and Technology 117 (2), 242-254, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9016640755699257080",
+      "cites_id": [
+        "9016640755699257080"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of storage time on moisture content of Reutealis trisperma seed and its effect on acid value of the isolated oil and produced biodiesel",
+        "pub_year": "2019",
+        "citation": "Energy Reports 5, 1375-1380, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:dhFuZR0502QC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3504069148220201383",
+      "cites_id": [
+        "3504069148220201383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and modelling studies on the solvent assisted hydraulic pressing of dehulled rubber seeds",
+        "pub_year": "2016",
+        "citation": "Industrial crops and products 92, 67-76, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13405320979389460511",
+      "cites_id": [
+        "13405320979389460511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential use of lemongrass (Cymbopogon winterianus) residue as dairy cow feed",
+        "pub_year": "2015",
+        "citation": "Pakistan Journal of Nutrition 14 (12), 919, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2231150599334571422",
+      "cites_id": [
+        "2231150599334571422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of aeration rate and feed on growth, productivity and nutrient composition of black soldier fly (Hermetia illucens L.) larvae",
+        "pub_year": "2022",
+        "citation": "Journal of Asia-Pacific Entomology 25 (2), 101902, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10046471004161602703",
+      "cites_id": [
+        "10046471004161602703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic evaluation for integrated cultivation of coffee and stingless bees in west Java, Indonesia: Integrated cultivation of coffee and stingless bees",
+        "pub_year": "2020",
+        "citation": "Chemical and Natural Resources Engineering Journal (Formally known as \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4511026331875456493",
+      "cites_id": [
+        "4511026331875456493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Process intensification of enzymatic fatty acid butyl ester synthesis using a continuous centrifugal contactor separator",
+        "pub_year": "2018",
+        "citation": "Industrial & Engineering Chemistry Research 57 (2), 470-482, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5621714067039503329",
+      "cites_id": [
+        "5621714067039503329"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of storage time on relevant product properties of rubber seeds, rubber seed oil and rubber seed oil ethyl esters",
+        "pub_year": "2016",
+        "citation": "Sustainable Chemical Processes 4, 1-9, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4801720924309251402",
+      "cites_id": [
+        "4801720924309251402"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis for small scale production of rubber seed oil and biodiesel in Palangkaraya, Indonesia",
+        "pub_year": "2017",
+        "citation": "Journal of Clean Energy Technologies 5 (4), 268-273, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:0EnyYjriUFMC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12029213789878555519",
+      "cites_id": [
+        "12029213789878555519"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dari ITB untuk Indonesia: Biorefinery Kopi",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:_kc_bZDykSQC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4615378803522376592",
+      "cites_id": [
+        "4615378803522376592"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of brewing conditions on total phenolic content, antioxidant activity and sensory properties of cascara",
+        "pub_year": "2023",
+        "citation": "Food Chemistry Advances 2, 100183, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:QYdC8u9Cj1oC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6870417609645977212",
+      "cites_id": [
+        "6870417609645977212"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of protein hydrolysate containing antioxidant activity from Hermetia illucens. Heliyon 5: e02005",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:HbR8gkJAVGIC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11661469992861406326",
+      "cites_id": [
+        "11661469992861406326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorisation of Reutealis trisperma seed from papua for the production of non-edible oil and protein-rich biomass",
+        "pub_year": "2016",
+        "citation": "International Proceeding Chemical, Biological and Environmental Engineering \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:UebtZRa9Y70C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14007455289423403083",
+      "cites_id": [
+        "14007455289423403083"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi propolis Dari lebah Tetragonula laeviceps menggunakan sarang MOTIVE yang dilengkapi dengan sistem instrumentasi",
+        "pub_year": "2019",
+        "citation": "Jurnal Otomasi Kontrol dan Instrumentasi 10 (2), 485831, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6045847565993279777",
+      "cites_id": [
+        "6045847565993279777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factors Affecting Biomass Growth and Production of Essential Oil from Leaf and Flower of Salvia leucantha Cav.",
+        "pub_year": "2018",
+        "citation": "Journal of Essential Oil Bearing Plants 21 (4), 1021-1029, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15329960076903351770",
+      "cites_id": [
+        "15329960076903351770"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biobased products from rubber, jatropha and sunflower oil",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17964276530721346942",
+      "cites_id": [
+        "17964276530721346942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and modelling studies on continuous synthesis and refining of biodiesel in a dedicated bench scale unit using centrifugal contactor separator technology",
+        "pub_year": "2016",
+        "citation": "European Journal of Lipid Science and Technology 118 (6), 938-948, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2808389231960582440",
+      "cites_id": [
+        "2808389231960582440"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid-state fermentation of groundnut (Arachis hypogaea) shell using Trichoderma sp., tape yeast, and tempeh yeast to produce cellulase",
+        "pub_year": "2022",
+        "citation": "Journal of Applied Biology and Biotechnology 10 (4), 153-160, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:vbGhcppDl1QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3948159675959881436",
+      "cites_id": [
+        "3948159675959881436"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of protein hydrolysate and biodiesel from black soldier fly larvae cultivated using rotten avocado and tofu residue",
+        "pub_year": "2020",
+        "citation": "Lond. J. Res. Sci. Nat. Form 20, 925652, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:isC4tDSrTZIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6234962063831230240",
+      "cites_id": [
+        "6234962063831230240"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biorefinery Kopi",
+        "pub_year": "2018",
+        "citation": "Pusat Penentilian Biosains dan Bioteknologi. PPBB-ITB. Bandung 56, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:DJbcl8HfkQkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5092054176049754815",
+      "cites_id": [
+        "5092054176049754815"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of productivity, yield and bioactivity of propolis extract produced by Tetragonula spp. Cultivated in Modular tetragonula hives",
+        "pub_year": "2023",
+        "citation": "Heliyon 9 (6), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:u-coK7KVo8oC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8097601907465130814",
+      "cites_id": [
+        "8097601907465130814"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid-State Fermentation Of Cinnamon Bark Using Aspergillus Awamori To Increase Cinnamon Oil Yield Extracted Using Hydrodistillation, Maceration, And Soxhlet Extraction",
+        "pub_year": "2021",
+        "citation": "NVEO-NATURAL VOLATILES & ESSENTIAL OILS Journal| NVEO, 1575-1588, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11619684076378600833",
+      "cites_id": [
+        "11619684076378600833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The study of sustainable procurement in the procurement of ready mixed concrete supplier",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 520 (1), 012004, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:uDGL6kOW6j0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15515429561656440867",
+      "cites_id": [
+        "15515429561656440867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of light intensity on the protein content of Azolla microphylla and pre-treatment with Saccharomyces cerevisiae to increase protein recovery",
+        "pub_year": "2017",
+        "citation": "Journal of Applied Sciences Research 13, 16-23, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17772305080557109182",
+      "cites_id": [
+        "17772305080557109182"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biobased product from rubber, jatropha and sunflower oil",
+        "pub_year": "2010",
+        "citation": "Science 36, 364-373, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8995755293547628986",
+      "cites_id": [
+        "8995755293547628986"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A water recirculation system for the cultivation of Oryza sativa L. at Sumedang, Indonesia.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:g3aElNc5_aQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8510010539653632011",
+      "cites_id": [
+        "8510010539653632011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of pre-treatment with Aspergillus awamori and extraction methods on essential oil yield from spearmint leaves (Mentha spicata L.)",
+        "pub_year": "2023",
+        "citation": "Current Research on Biosciences and Biotechnology 4 (2), 262-268, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:3htObqc8RwsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18410351524129960751",
+      "cites_id": [
+        "18410351524129960751"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of enzymatic hydrolysis on the antioxidant activity of protein hydrolysate derived from the larvae of black soldier fly (Hermetia illucens L.)",
+        "pub_year": "2023",
+        "citation": "Journal of Applied Biology and Biotechnology 11 (2), 151-157, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:sNmaIFBj_lkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8874866699460085609",
+      "cites_id": [
+        "8874866699460085609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production and characterization of cascara powder from coffee pulp",
+        "pub_year": "2022",
+        "citation": "Chemical and Natural Resources Engineering Journal (Formally known as \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:ClCfbGk0d_YC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12208931168345674243",
+      "cites_id": [
+        "12208931168345674243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorization of Lower Grade Resin, Bark, and Fruit of Styrax Sumatrana",
+        "pub_year": "2022",
+        "citation": "International Journal of Innovative Research and Scientific Studies 5 (1), 30-36, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2082134772536027794",
+      "cites_id": [
+        "2082134772536027794"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of extraction conditions on yield and bioactive compounds of coffee pulp extract",
+        "pub_year": "2021",
+        "citation": "Chemical and Natural Resources Engineering Journal (Formally known as \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:35r97b3x0nAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7230838101478206298",
+      "cites_id": [
+        "7230838101478206298"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid-State Fermentation of Agro-Industrial Waste Using Heterofermentative Lactic Acid Bacteria",
+        "pub_year": "2021",
+        "citation": "Multifaceted Protocols in Biotechnology, Volume 2, 133-144, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:JQOojiI6XY0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17022587260098225577",
+      "cites_id": [
+        "17022587260098225577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodelignification Of Lemon Peels Using Aspergillus Sp. to Improve Yield And Composition Of Extxracted Lemon Oil",
+        "pub_year": "2020",
+        "citation": "Iium Engineering Journal 21 (2), 55-66, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8006399322196263873",
+      "cites_id": [
+        "8006399322196263873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRODUCTION OF CARRAGEENAN BY DIFFERENT STRAINS OF Kappaphycus alvarezii CULTIVATED IN SERANG, INDONESIA",
+        "pub_year": "2019",
+        "citation": "IIUM Engineering Journal 20 (2), 12-21, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6041948142414375527",
+      "cites_id": [
+        "6041948142414375527"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi hidrolisat protein dari biomassa Defatted larva lalat tentara hitam (Hermetia illucens) hasil kultivasi dengan substrat alpukat dan alpukat-ampas tahu (1: 1)",
+        "pub_year": "2018",
+        "citation": "Repository Tugas Akhir SITH-ITB 1, 1-7, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9385539166957084269",
+      "cites_id": [
+        "9385539166957084269"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of meliponiculture Tetragonula laeviceps on pollinator diversity and visitation rate and citrus productivity in West Java, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (10), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:4X0JR2_MtJMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3442071969484588380",
+      "cites_id": [
+        "3442071969484588380"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enrichment of growing media using biochar, compost, and nanosilica for the cultivation of Oryza sativa L.",
+        "pub_year": "2022",
+        "citation": "Estonian University of Life Sciences, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:anf4URPfarAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18183706583954267482",
+      "cites_id": [
+        "18183706583954267482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A review on community scale stationary and mobile production of biodiesel",
+        "pub_year": "2021",
+        "citation": "Current Research on Biosciences and Biotechnology 2 (2), 126-138, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=38889937447805671",
+      "cites_id": [
+        "38889937447805671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of water stress and plant age on the yield and chemical composition of essential oil from Cymbopogon winterianus Jowitt",
+        "pub_year": "2020",
+        "citation": "BIOTROPIA 27 (1), 80-87, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10305598428074757745",
+      "cites_id": [
+        "10305598428074757745"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of pectin biodegradation with Aspergillus niger on total flavonoid content of Citrus limon L.",
+        "pub_year": "2019",
+        "citation": "Jurnal Biodjati 4 (2), 194-203, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13756003413135252287",
+      "cites_id": [
+        "13756003413135252287"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of meliponiculture Tetragonula laeviceps on productivity, physical, and chemical characteristics of tomatoes (Solanum lycopersicum)",
+        "pub_year": "2024",
+        "citation": "Journal of Research in Agriculture and Food Sciences 1 (1), 14-14, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:4xDN1ZYqzskC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE INFLUENCE OF PLANT GROWTH REGULATORS AND LIGHT SUPPLY ON BITTER CASSAVA CALLUS INITIATION FOR STARCH PRODUCTION",
+        "pub_year": "2024",
+        "citation": "IIUM Engineering Journal 25 (1), 1-11, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:6yz0xqPARnAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TECHNO-ECONOMIC AND ENVIRONMENTAL ANALYSIS OF MELIPONICULTURE IN BUKIT SANDY, CIMENYAN, BANDUNG",
+        "pub_year": "2023",
+        "citation": "Chemical and Natural Resources Engineering Journal (Formally known as \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:0CzhzZyukY4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical and antibacterial properties of chitosan derived from Mucor spp., Rhizopus. Oryzae and Hermetia illucens",
+        "pub_year": "2023",
+        "citation": "Journal of Applied Biology and Biotechnology 11 (Issue), 185-192, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:sJsF-0ZLhtgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFFECTS OF HIVE SIZES AND MESH MATERIALS ON THE PRODUCTIVITY OF PROPOLIS PRODUCED BY TETRAGONULA LAEVICEPS",
+        "pub_year": "2023",
+        "citation": "IIUM Engineering Journal 24 (2), 34-44, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:Bg7qf7VwUHIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid State Fermentation of Turmeric Rhizomes with Aspergillus SP. To Improve Yield and Composition of Extracted Turmeric Oil",
+        "pub_year": "2023",
+        "citation": "IIUM Engineering Journal 24 (1), 1-12, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:OTTXONDVkokC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Metabolic Flux Distribution in Rice (Oryza sativa) Cultures for Starch Production",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 31 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:artPoR2Yc-kC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Konsentrat Pakan Ruminansia dari Kulit Kopi dan Dedak yang Difermentasi dengan Jamur Tiram Putih (Pleurotus ostreatus)",
+        "pub_year": "2019",
+        "citation": "Jurnal Mikologi Indonesia 3 (1), 10-24, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dari ITB untuk Indonesia: Biorefinery Karet",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dari ITB untuk Indonesia: Biorefinery Padi",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dari ITB untuk Indonesia: Biorefinery Kemiri Sunan",
+        "pub_year": "2016",
+        "citation": "Penerbit ITB, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cross-linking of Epoxidised Rubber Seed Oil With Triethylenetetramine To Produce Novel Resins",
+        "pub_year": "2015",
+        "citation": "22nd Regional Symposium on Chemical Engineering (RSCE) 2015, Bangkok, Thailand, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solvent Assisted Hydraulic Pressing of Sterculia Foetida L. Kernels",
+        "pub_year": "2015",
+        "citation": "European Journal of Scientific Research 134 (3), 229-239, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification of Jatropha oil by means of a centrifugal contactor separator device",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary techno-economic evaluations on rubber seed pressing and biodiesel production",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Continous biodiesel synthesis and refining for mobile applications",
+        "pub_year": "2014",
+        "citation": "Netherlands Process Technology Sympsoium 2014,  Netherlands, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Continuous biodiesel production and refining in a dedicated bench scale unit for mobile biodiesel application",
+        "pub_year": "2014",
+        "citation": "7th Open Science Meeting 2014, Makassar, Indonesia, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solvent assisted hydraulic pressing of dehulled rubber seeds",
+        "pub_year": "2013",
+        "citation": "6th Workshop on Oil and Fats as Renewable Feedstock for the Chemical \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and modelling studies on continuous biodiesel production and refining in a dedicated bench scale unit",
+        "pub_year": "2013",
+        "citation": "4th International Conference on Biorefinery \u2013 towards Bioenergy 2013, Xiamen \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanolysis of Jatropha curcas L. oil in a continuous centrifugal contactor separator",
+        "pub_year": "2012",
+        "citation": "5th Workshop on Oil and Fats as Renewable Feedstock for the Chemical \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MELESTARIKAN UMBI LANGKA SUMEDANG-JAWA BARAT MELALUI PEMBUATAN KOLEKSI SUMBER BENIH UNTUK MENUNJANG PENGEMBANGAN PANGAN ALTERNATIF",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "HI1VZYwAAAAJ:NyGDZy8z5eUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 6,
+    "not_available": 0
+  }
+}

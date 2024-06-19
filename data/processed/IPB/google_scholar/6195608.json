@@ -1,0 +1,655 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "1BQqSW8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Djarot Sasongko Hami Seno",
+  "affiliation": "Department of Biochemistry, Bogor Agricultural University (IPB)",
+  "interests": [],
+  "citedby": 99,
+  "citedby5y": 91,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2016": 4,
+    "2017": 1,
+    "2018": 3,
+    "2019": 3,
+    "2020": 5,
+    "2021": 17,
+    "2022": 16,
+    "2023": 32,
+    "2024": 18
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Volatile compound profiles and cytotoxicity in essential oils from rhizome of Curcuma aeruginosa and Curcuma zanthorrhiza",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5431522066719405782",
+      "cites_id": [
+        "5431522066719405782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Docking of Active Compounds Piper crocatum on the A-Glucosidase Enzyme as Antidiabetic",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Pharmaceutical Science and Technology 7 (2), 64-72, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1050163204646838741",
+      "cites_id": [
+        "1050163204646838741"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The activity of wungu leaf (Graptophyllum pictum (L) Griff) extract in reducing blood glucose level of hyperglycemic mice",
+        "pub_year": "2014",
+        "citation": "Curr. Biochem 1, 83-88, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13229256758716066486",
+      "cites_id": [
+        "13229256758716066486"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico analysis of Curcuma longa against PCAF histon asetiltransferase",
+        "pub_year": "2015",
+        "citation": "Current Biochemistry 2 (2), 52-62, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:WF5omc3nYNoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14450556439871687114",
+      "cites_id": [
+        "14450556439871687114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytochemical Analysis, \u03b1-glucosidase Inhibition Activity in-vitro and Enzyme Kinetics of Ethyl Acetate and Hexane Extracts of Graptophylum pictum (L.) Griff",
+        "pub_year": "2014",
+        "citation": "Current Biochemistry 1 (2), 58-65, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2618748026089893132",
+      "cites_id": [
+        "2618748026089893132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan virtual senyawa aktif sirih merah (Piper crocatum) sebagai inhibitor angiotensin converting enzyme",
+        "pub_year": "2022",
+        "citation": "Jurnal Farmamedika (Pharmamedika Journal) 7 (2), 104-113, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:IWHjjKOFINEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2501132647827471652",
+      "cites_id": [
+        "2501132647827471652"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of glucose oxidase gene (GGOx) from Aspergillus niger IPBCC 08.610",
+        "pub_year": "2020",
+        "citation": "Jurnal Kimia Valensi 6 (1), 10-19, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8923367567162803714",
+      "cites_id": [
+        "8923367567162803714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Total Phenolic, Total Flavonoid Contents, and Radical Acavenging Activity of Different Concentrations of Ethanol Extract of Pyrrosia piloselloides (L) MG Price.",
+        "pub_year": "2022",
+        "citation": "Tropical Journal of Natural Product Research 6 (4), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1229025733104437953",
+      "cites_id": [
+        "1229025733104437953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of rhizosphere bacteria from rice fields in the coastal area as ACC-deaminase and auxin producer",
+        "pub_year": "2015",
+        "citation": "International Journal on Advanced Science 5 (1), 27-30, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:UebtZRa9Y70C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5270758599905853715",
+      "cites_id": [
+        "5270758599905853715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytotoxic Activity of Volatile Compounds in Cymbopogon nardus\u2019 Essential Oils",
+        "pub_year": "2022",
+        "citation": "Justek: Jurnal Sains dan Teknologi 5 (2), 90-100, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7435193302819362526",
+      "cites_id": [
+        "7435193302819362526"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stabilitas Laju Fotosintesis dan Produktivitas Rimpang Genotipe Curcuma aeruginosa dan Curcuma zanthorrhiza",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Agronomy 48 (1), 89-96, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:4DMP91E08xMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7537234619870647793",
+      "cites_id": [
+        "7537234619870647793"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification Of Bioactive Compounds and \u0391-Glucosidase Inhibition Activity of Caesalpinia Bonduc Seed Extract In Vitro",
+        "pub_year": "2018",
+        "citation": "Current Biochemistry 5 (2), 12-20, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14917073029354149583",
+      "cites_id": [
+        "14917073029354149583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Graptophyllum pictum (L) Griff Leaf Extracts Have Potential to Protect Pancreas of Alloxan-induced Hyperglycemic Mice",
+        "pub_year": "2017",
+        "citation": "International Journal of ChemTech Research 10 (2), 14-18, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11782486120959413531",
+      "cites_id": [
+        "11782486120959413531"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of badh2 mutation type among Indonesian fragrant rice varieties",
+        "pub_year": "2013",
+        "citation": "Journal of Biology, Agriculture and Healthcare 3 (17), 2224-3208, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=275512150640845398",
+      "cites_id": [
+        "275512150640845398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi karakter aromatik berdasarkan PCR dan organoleptik BC3F2 ciherang x mentikwangi",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:roLk4NBRz8UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2952047396352528876",
+      "cites_id": [
+        "2952047396352528876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji aktivitas antibakteri isolat lactobacillus plantarum dari buah-buahan tropis dan kaitannya dengan ekspresi gen plantaricin",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:Zph67rFs4hoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15631442489404558254",
+      "cites_id": [
+        "15631442489404558254"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi berbagai marka aromatik pada Varietas padi indonesia",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 16 (3), 149-155, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7020505752631143369",
+      "cites_id": [
+        "7020505752631143369"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFIKASI SENYAWA PADA BATANG KROKOT (Portulaca oleracea L.) DAN POTENSINYA SEBAGAI AKTIVATOR SUPEROKSIDA DISMUTASE IN SILICO",
+        "pub_year": "2023",
+        "citation": "IPB University, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1336139389884460502",
+      "cites_id": [
+        "1336139389884460502"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi karakter unggulan dan introgresi DNA turunan IR64-Gajah Mungkur",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12619883723060045195",
+      "cites_id": [
+        "12619883723060045195"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi gen aroma pada progeni-progeni backcross antara varietas Ciherang dengan Pandan Wangi",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 16 (2), 136-141, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10990398835908400603",
+      "cites_id": [
+        "10990398835908400603"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "D-Optimal Mixture Design in Sonication-Maceration Solvent Extraction of Total Phenolic and Antibacterial Activity from Acanthus ilicifolius Leaves.",
+        "pub_year": "2023",
+        "citation": "Tropical Journal of Natural Product Research 7 (12), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konstruksi Gen Glukosa Oksidase untuk Subkloning ke dalam Plasmid pPICZ\u03b1 dengan Penambahan Oligonukleotida Penyandi Spacer Peptida",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Aroma Gene (Mutated badh2) and Properties of Aroma on Aromatic BC5F2 Ciherang",
+        "pub_year": "2015",
+        "citation": "Current Biochemistry 2 (1), 42-51, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Nontransgenik F1 dan Bc1f1 Padi Ciherang Toleran Genangan secara Site-Directed Crossing",
+        "pub_year": "2014",
+        "citation": "Current Biochemistry 1 (3), 136-145, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan Pertumbuhan Butyrivibrio fibrisolvens E14 Varian Sticky dan Loose",
+        "pub_year": "2014",
+        "citation": "Current Biochemistry 1 (2), 89-100, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TEKNOLOGI SEPARASI BAHAN AKTIF TEMULAWAK MENGGUNAKAN BIOPOLIMER TERMODIFlKASI BERBASIS LIMBAH PRODUKSI SAGU",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transfer gen badh2 termutasi varietas aromatik mentik Wangi ke varietas nonaromatik ciherang",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 16 (1), 65-70, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Panduan Kurikulum Departemen Manajemen",
+        "pub_year": "2009",
+        "citation": "IPB (Bogor Agricultural University), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Analysis of Two Attachment Variants of Butyrivibrio Fibrisolvens",
+        "pub_year": "2002",
+        "citation": "University of Adelaide, School of Agriculture, Food and Wine, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komposisi asam lemak pada biofilm Escherichia coli enteropatogen (EPEC) 12.3",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Solvent Combinations of Phenolics and Antioxidants Extraction from Kaempferia rotunda Rhizomes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Aroma Gene (Mutated badh2) and Properties of Aroma on Aromatic BC",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Integrasi dan Ekspresi Gen Ketahanan terhadap Geminivirus (AV1) pada Tembakau Transgenik",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Marka Aromatik Bradbury dan RM 223 untuk Identifikasi Hasil Persilangan Ciherang-Mentik Wangi dan Ciherang-Pandan Wangi.",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Gen Aroma Pada BC5F1 Ciherang-Pandan Wangi dan BC4F1 Ciherang-Mentik Wangi",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purifikasi Protein Rekombinan Human Interferon \u03b1-2a dengan Kromatografi Afinitas dan Filtrasi Gel.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Produksi Protein Rekombinan Human Interferon \u03b1-2a Fusi dan Non Fusi yang Diproduksi dalam Pichia pastoris.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidan dan Inhibisi Enzim \u03b1 Glukosidase serta Toksisitas Ekstrak Air-Etanol dan Heksan Anggrek Merpati (Dendrobium cruminatum SW)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi, Pemurnian Parsial, dan Karakterisasi Enzim Kitinase dari Bacillus sp. BPPT CC 2",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi menggunakan PCR berdasarkan marka gen badh2 pada pembentukan BC2F1 Ciherang/Mentik Wangi dan BC3F1 Ciherang/Pandan Wangi",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknologi separasi bahan aktif temulawak Menggunakan biopolimer termodifikasi berbasis Limbah produksi sagu",
+        "citation": "bogor agricultural university, 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi marka rm223 pada introduksi aroma pandan Wangi ke varietas nonaromatik ciherang",
+        "citation": "bogor agricultural university, 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introgresi aroma padi mentik wangi berbatuan Marka bradbury",
+        "citation": "Bogor Agricultural University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konstruksi Padi Nonaromatik yang Beraroma Wangi Menggunakan PCR Berbatuan Marka Gen BADH2",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BENGKUANG (Pachyrrhizus erozus URBAN)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Kandungan Diosmin Dan Protein Tanaman Seledri (Apium Graveolens L.) Dari Daerah Cipanas Dan Ciwidey",
+        "citation": "UNIBPRESS 2009, 0"
+      },
+      "filled": false,
+      "author_pub_id": "1BQqSW8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

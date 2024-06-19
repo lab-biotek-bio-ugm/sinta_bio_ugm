@@ -1,0 +1,146 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "tDu5aZcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Susana Paulina Dewi",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tDu5aZcAAAAJ&citpid=2",
+  "affiliation": "School of Life Sciences and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Forest tree seed",
+    "Forestry"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 16,
+  "citedby5y": 14,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2008": 1,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 3,
+    "2021": 3,
+    "2022": 4,
+    "2023": 3,
+    "2024": 1
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chemical modification of Jabon wood (Anthocephalus cadamba Miq.) on morphological structure and dimensional stability",
+        "pub_year": "2018",
+        "citation": "Journal of Biological Sciences 18, 201-207, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "tDu5aZcAAAAJ:roLk4NBRz8UC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17345465603963108131",
+      "cites_id": [
+        "17345465603963108131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive period of a sub-montaneous tropical forest: estimation of seed availability for forest restoration in mount Masigit-Kareumbi, Indonesia",
+        "pub_year": "2019",
+        "citation": "Tropical Ecology 60, 62-73, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tDu5aZcAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=40234131590368344",
+      "cites_id": [
+        "40234131590368344"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset on the reproductive period of three local species in a tropical sub-mountainous forest",
+        "pub_year": "2019",
+        "citation": "Data in brief 25, 104238, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "tDu5aZcAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3838451872627193335",
+      "cites_id": [
+        "3838451872627193335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modeling the Impact of Climate Change on General Flowering in Bukit Barisan Selatan National Park, Sumatera",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 950, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "tDu5aZcAAAAJ:UebtZRa9Y70C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8826305422346712075",
+      "cites_id": [
+        "8826305422346712075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Keragaman Genetik serta Sistem Perkawinan (Mating System) Di Kebun Benih Klon Jati (Tectona grandis Linn. f.)",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tDu5aZcAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12776312122862854189",
+      "cites_id": [
+        "12776312122862854189"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Effect of Chemical Modification of Jabon Wood (Anthocephalus cadamba Miq.) on Morphological Structure and Dimensional Stability",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "tDu5aZcAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

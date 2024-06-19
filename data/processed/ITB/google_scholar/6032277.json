@@ -1,0 +1,90 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "baXaHwwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Rizki Fauziah Ramadhaini",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=baXaHwwAAAAJ&citpid=2",
+  "affiliation": "School of Life Sciences and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Ecophysiology",
+    "Crop Nutrition",
+    "Crop Modelling"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 25,
+  "citedby5y": 12,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2015": 3,
+    "2016": 0,
+    "2017": 4,
+    "2018": 5,
+    "2019": 4,
+    "2020": 2,
+    "2021": 2,
+    "2022": 1,
+    "2023": 3
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi dosis pupuk majemuk NPK dan kalsium pada bibit kelapa sawit (Elaeis guineensis Jacq.) di pembibitan utama",
+        "pub_year": "2014",
+        "citation": "Indonesian Journal of Agronomy 42 (1), 77773, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "baXaHwwAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3340969877441954121",
+      "cites_id": [
+        "3340969877441954121"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi dosis pupuk majemuk NPK dan kalsium pada bibit kelapa sawit (Elaeis guineensis Jacq.) di pembibitan utama",
+        "pub_year": "2014",
+        "citation": "Indonesian Journal of Agronomy 42 (1), 7660, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "baXaHwwAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18113628160009668260",
+      "cites_id": [
+        "18113628160009668260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing Rates of NPK Compound and Calcium Fertilizer for the Growth of Oil Palm (Elaeis guineensis Jacq.) Seedling in Main Nursery.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "baXaHwwAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

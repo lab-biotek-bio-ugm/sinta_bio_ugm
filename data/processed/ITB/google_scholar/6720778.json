@@ -1,0 +1,99 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "MWZLDDQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Shanty Rahayu Kusumawardani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MWZLDDQAAAAJ&citpid=1",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Animal physiology",
+    "Neuroscience",
+    "Neuroendocrine"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 4,
+  "citedby5y": 4,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2020": 1,
+    "2021": 1,
+    "2022": 1,
+    "2023": 0,
+    "2024": 1
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Theta Brainwave Activity as the Response to Lavender (Lavendula angustifolia) Aromatherapy Inhalation of Postgraduate Students with Acasdemic Stress Condition",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Materials Science and Engineering 180 (1), 012271, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "MWZLDDQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13918185017279830724",
+      "cites_id": [
+        "13918185017279830724"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Electrocardiogram Analysis of Hyperlipidemia-Induced Wistar Rats using Wireless Mice Electrocardiogram",
+        "pub_year": "2023",
+        "citation": "Sains Malaysiana 52 (2), 589-597, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MWZLDDQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3252570488306433785",
+      "cites_id": [
+        "3252570488306433785"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cognitive analysis based on EEG measurements on children with stunting-indicated in East Nusa Tenggara",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012095, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "MWZLDDQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekspresi Petanda Hayati \u201cImmune Check Point\u201d PD-L1 pada Sediaan Jaringan Bedah Kanker Paru",
+        "pub_year": "2022",
+        "citation": "Jurnal Respirologi Indonesia 42 (2), 136, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "MWZLDDQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

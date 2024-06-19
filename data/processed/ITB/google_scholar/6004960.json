@@ -1,0 +1,609 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "EbL3gucAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Alfi Rumidatul",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EbL3gucAAAAJ&citpid=4",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Teknologi Hasil Hutan Bukan Kayu",
+    "bioproduk",
+    "kimia bahan alam"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 167,
+  "citedby5y": 123,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 4,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2011": 2,
+    "2012": 0,
+    "2013": 3,
+    "2014": 10,
+    "2015": 6,
+    "2016": 3,
+    "2017": 10,
+    "2018": 9,
+    "2019": 12,
+    "2020": 16,
+    "2021": 15,
+    "2022": 33,
+    "2023": 33,
+    "2024": 14
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5VjlHLwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rudi Dungani",
+      "affiliation": "School of Life Sciences and Technology, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "WVY7joEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Abdul Khalil, H.P.S., PhD, FIMMM, FIA...",
+      "affiliation": "Professor in Biopolymers & Biocomposites; School of Industrial Technology, Universiti Sains"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "GHJGK-wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Shafiqul Islam",
+      "affiliation": "Professor, Civil and Environmental Engineering, Water Diplomacy, Tufts University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas arang aktif sebagai adsorben pada pengolahan air limbah",
+        "pub_year": "2006",
+        "citation": "Bogor: Pascasarjana Institut Pertanian Bogor, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2854968699129560419",
+      "cites_id": [
+        "2854968699129560419"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modification of the inner part of the oil palm trunk (OPT) with oil palm shell (OPS) nanoparticles and phenol formaldehyde (PF) resin: Physical, mechanical, and thermal properties",
+        "pub_year": "2014",
+        "citation": "BioResources 9 (1), 455-471, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16710660731461403347",
+      "cites_id": [
+        "16710660731461403347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of secondary metabolites and its antibacterial and antioxidant activity during the growth period of endophytic fungi isolated from gall rust sengon plants",
+        "pub_year": "2021",
+        "citation": "Pharmacognosy Journal 13 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6329892421631060935",
+      "cites_id": [
+        "6329892421631060935"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hardwood tannin: sources, utilizations, and prospects",
+        "pub_year": "2019",
+        "citation": "Tannins-Structural Properties, Biological Properties and Current Knowledge, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=807645309483462105",
+      "cites_id": [
+        "807645309483462105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incorporation of phenol-formaldehyde-based black liquor as an adhesive on the performance of plywood.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15603797607530172558",
+      "cites_id": [
+        "15603797607530172558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chemical modification of jabon wood (Anthocephalus cadamba Miq.) on morphological structure and dimensional stability.",
+        "pub_year": "2018",
+        "citation": "Journal of Biological Sciences 18 (4), 201-207, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17345465603963108131",
+      "cites_id": [
+        "17345465603963108131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Teknologi Biopelet Limbah Kopi sebagai Bahan Bakar Alternatif dalam Rangka Pengembangan Desa Mandiri Energi di Desa Jatiroke Kawasan Sekitar Hutan Pendidikan Gunung \u2026",
+        "pub_year": "2021",
+        "citation": "Panrita Abdi-Jurnal Pengabdian pada Masyarakat 5 (3), 256-265, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12831281950153509325",
+      "cites_id": [
+        "12831281950153509325"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration of potential bioactive compounds of endophytic microbial culture isolated from gall rust sengon (Falcataria moluccana)",
+        "pub_year": "2018",
+        "citation": "J Pharm Res Sci 10 (11), 156-169, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16939722067092773301",
+      "cites_id": [
+        "16939722067092773301"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Aktivitas Antimikroba Ekstrak Kulit dan Kayu Sakit Ranting Sengon Terhadap Bakteri dan Jamur",
+        "pub_year": "2021",
+        "citation": "Jurnal Analis Kesehatan 9 (2), 41-48, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:UebtZRa9Y70C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9355146305905864476",
+      "cites_id": [
+        "9355146305905864476"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi medik metabolit tanaman sengon (Falcataria moluccana) yang terserang penyakit karat tumor",
+        "pub_year": "2018",
+        "citation": "Institut Teknologi Bandung, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=338813271793169413",
+      "cites_id": [
+        "338813271793169413"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Asap Cair Daun Bambu (Bambusa Sp) Sebagai Antiseptik Secara In Vitro Dan In Vivo",
+        "pub_year": "2022",
+        "citation": "Jurnal Media Analis Kesehatan 13 (1), 1-15, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:4TOpqqG69KYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=71256594295781969",
+      "cites_id": [
+        "71256594295781969"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of vinegar waste logging based stimulant on production of resin from Pinus merkusii jungh. Et De Vriese",
+        "pub_year": "2019",
+        "citation": "Rasayan Journal of Chemistry 12 (4), 2227-2234, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9484337594104709605",
+      "cites_id": [
+        "9484337594104709605"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alternative materials for strandboards made with waste veneer from industrial plywood in Indonesia",
+        "pub_year": "2018",
+        "citation": "BioResources 13 (4), 8385-8393, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16474597159474056577",
+      "cites_id": [
+        "16474597159474056577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical properties, crystallinity, and fiber biometry of Jabon (Anthocephalus cadamba) wood for pulp raw material: the effect of age and position",
+        "pub_year": "2024",
+        "citation": "Nordic Pulp & Paper Research Journal 39 (1), 61-71, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2819679936204731576",
+      "cites_id": [
+        "2819679936204731576"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytochemicals Screening, GC/MS Characterization and Antioxidant Activity of Falcataria moluccana Miq. Barneby and JW Grimes Methanolic Extract",
+        "pub_year": "2021",
+        "citation": "Pharmacognosy Journal 13 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:0EnyYjriUFMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7050902739129285456",
+      "cites_id": [
+        "7050902739129285456"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian Aktivitas Antimikroba Ekstrak Kulit dan Kayu Ranting Sengon (Falcataria Moluccana) Dengan Pelarut N-Heksana, Etil Asetat Dan Metanol Terhadap Enterobacteriaceae \u2026",
+        "pub_year": "2020",
+        "citation": "Jurnal Media Analis Kesehatan 11 (2), 70-82, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:roLk4NBRz8UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=905281667247414699",
+      "cites_id": [
+        "905281667247414699"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of Particleboard Made of Agroforestry Residues Bonded with Thermosetting Adhesive Derived from Waste Styrofoam",
+        "pub_year": "2024",
+        "citation": "Polymers 16 (4), 543, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8340318691619744311",
+      "cites_id": [
+        "8340318691619744311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Drying Efficiency of Betung Bamboo Strips (Dendrocalamus asper) Based on Different Solar Drying Oven Designs",
+        "pub_year": "2024",
+        "citation": "Journal of the Korean Wood Science and Technology 52 (1), 1-12, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7658522261832274829",
+      "cites_id": [
+        "7658522261832274829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fusarium sp., an endophytic fungi isolated from sengon (Falcataria moluccana) gall rust, shows antimicrobial and antioxidant potential",
+        "pub_year": "2023",
+        "citation": "Sarhad Journal of Agriculture 39 (1), 229-235, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7799963273498682674",
+      "cites_id": [
+        "7799963273498682674"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Asap Cair Kulit Kopi (Coffea sp) Sebagai Antiseptik Terhadap Mikroba Secara In Vitro Dan In Vivo",
+        "pub_year": "2022",
+        "citation": "Medika Kartika: Jurnal Kedokteran dan Kesehatan 5 (1), 21-33, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:_kc_bZDykSQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7530685680515447486",
+      "cites_id": [
+        "7530685680515447486"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antimikroba Ekstrak N Heksana dan Etil Asetat Kulit Ranting Sakit Sengon (Falcataria moluccana) Terhadap Enterobacteriaceae",
+        "pub_year": "2021",
+        "citation": "Jurnal Analis Kesehatan 10 (1), 14-21, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10512587130384293508",
+      "cites_id": [
+        "10512587130384293508"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGUJIAN AKTIVITAS ANTIMIKROBA EKSTRAK ETIL ASETAT DAN METANOL KAYU RANTING SENGON (Falcataria moluccana) SAKIT",
+        "pub_year": "2021",
+        "citation": "Journal of Indonesian Medical Laboratory and Science (JoIMedLabS) 2 (1), 55-67, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:8k81kl-MbHgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4334549988966458547",
+      "cites_id": [
+        "4334549988966458547"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGUJIAN AKTIVITAS ANTIBAKTERI EKSTRAK KULIT RANTING SENGON (Falcataria moluccana) DENGAN PELARUT METANOL DAN N-HEKSANA",
+        "pub_year": "2020",
+        "citation": "Jurnal Mitra Kesehatan 3 (1), 5-10, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7170155600805112330",
+      "cites_id": [
+        "7170155600805112330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Empty Palm Bunch Fibers as Alternative Pulp Material",
+        "pub_year": "2020",
+        "citation": "Am. J. Appl. Sci 17, 129-134, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5723951592055982197",
+      "cites_id": [
+        "5723951592055982197"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trypsin inhibitor activity and protein analysis of gall rust from sengon plants (Falcataria moluccana Miq.) infected with Uromycladium tepperianum fungus.",
+        "pub_year": "2018",
+        "citation": "Asian Journal of Plant Sciences 17 (2), 75-84, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:WF5omc3nYNoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11091638564054869570",
+      "cites_id": [
+        "11091638564054869570"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMBERDAYAAN MASYARAKAT DALAM PENGEMBANGAN AGROFORESTRI JAGUNG HIBRIDA DI HUTAN GUNUNG GEULIS KABUPATEN SUMEDANG",
+        "pub_year": "2024",
+        "citation": "Jurnal Abdi Panca Marga 5 (1), 118-126, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMANFAATAN ASAP CAIR LIMBAH GERGAJIAN KAYU PINUS SEBAGAI BIOPESTISIDA DALAM MENGHAMBAT SERANGAN HAMA PENGGEREK BUAH KOPI (Hypothenemus hampei Ferr.): Utilization of Liquid \u2026",
+        "pub_year": "2024",
+        "citation": "Jurnal Penelitian Hasil Hutan 42 (1), 17-30, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of endophytic bacteria in different tissues of sengon (Falcataria moluccana)",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (10), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effectiveness of Palm Kernell Shell Liquid Smoke (Elaeis Guineensis Jacq) as Antiseptic Against Microbials",
+        "pub_year": "2023",
+        "citation": "Jurnal Biomedika dan Kesehatan 6 (1), 26-35, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Antiseptic Liquid Smoke of Pine Fruit (Pinus merkusii) in Vitro and in Vivo",
+        "pub_year": "2022",
+        "citation": "Biomedika 15 (2), 45-54, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Aktivitas Antimikroba Ekstrak Kulit Ranting dan Kayu Sakit Sengon (Falcataria moluccana) dengan Pelarut Metanol dan Etil Asetat",
+        "pub_year": "2021",
+        "citation": "Jurnal Analis Medika Biosains (JAMBS) 8 (1), 30-38, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi ekstrak kulit ranting sengon terhadap bakteri Pseudomonas sp, Escherichia coli, Staphylococcus aureus, dan Proteus Sp",
+        "pub_year": "2021",
+        "citation": "Jurnal Inkofar 1 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Effect of Chemical Modification of Jabon Wood (Anthocephalus cadamba Miq.) on Morphological Structure and Dimensional Stability",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Trypsin Inhibitor Activity and Protein Analysis of Gall Rust from Sengon Plants (Falcataria moluccana Miq.) Infected with Uromycladium tepperianum Fungus",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Incorporation of Phenol-formaldehyde-based Black Liquor as an Adhesive on the Performance of Plywood",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alfi Rumidatul, Endah Sulistyawati and I Nyoman Pugeg Aryantha",
+        "pub_year": "2018",
+        "citation": "Asian Journal of Plant Sciences 17 (2), 75-84, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "EbL3gucAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

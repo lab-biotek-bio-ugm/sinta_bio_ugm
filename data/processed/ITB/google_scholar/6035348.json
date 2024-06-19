@@ -1,0 +1,58 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "_Xu-ZNcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ahim Ruswandi",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Agroteknologi & Teknologi Bioproduk"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 5,
+  "citedby5y": 3,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2017": 1,
+    "2018": 1,
+    "2019": 1,
+    "2020": 0,
+    "2021": 1,
+    "2022": 0,
+    "2023": 1
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insects pollination of zucchini farming in Indonesia and their economic importance",
+        "pub_year": "2015",
+        "citation": "Asian Journal of Plant Sciences 14 (2), 84, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "_Xu-ZNcAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3543456580797727894",
+      "cites_id": [
+        "3543456580797727894"
+      ]
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

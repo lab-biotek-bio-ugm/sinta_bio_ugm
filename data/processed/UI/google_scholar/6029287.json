@@ -1,0 +1,173 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "cSxrvDwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sitaresmi",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cSxrvDwAAAAJ&citpid=1",
+  "affiliation": "University of Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "microbiology",
+    "higher education",
+    "curriculum"
+  ],
+  "email_domain": "@ui.ac.id",
+  "citedby": 13,
+  "citedby5y": 12,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2018": 1,
+    "2019": 2,
+    "2020": 2,
+    "2021": 2,
+    "2022": 3,
+    "2023": 2,
+    "2024": 1
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventarisasi Tumbuhan Kawasan Sempadan Di Situ Agathis, Universitas Indonesia, Depok, Jawa Barat",
+        "pub_year": "2017",
+        "citation": "Al-Kauniyah: Jurnal Biologi 10 (1), 17-25, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14377817166724230829",
+      "cites_id": [
+        "14377817166724230829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and screening of amylase activity of primary moulds in Ragi Tapai of Indonesia",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3239034154605005167",
+      "cites_id": [
+        "3239034154605005167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Emerging Transformation in Higher Education: Concepts-Projects-Networking; Proceedings of the International UNISTAFF Forum, March 2009, Kassel University, Witzenhausen \u2026",
+        "pub_year": "2010",
+        "citation": "Kassel University Press, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7527868867546572920",
+      "cites_id": [
+        "7527868867546572920"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Naphthalene biodegradation capability and characterization of bacteria isolate DRK 9.1 from volcanic mud in Renokenongo Village, Sidoarjo",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16627647845338805649",
+      "cites_id": [
+        "16627647845338805649"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodegradation of 0.02% naphthalene by Pseudomonas aeruginosa DRK 9.1 isolated from volcanic mud in Renokenongo Village, Sidoarjo",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3944973103399990808",
+      "cites_id": [
+        "3944973103399990808"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodegradation of 0.02% naphthalene added with 0.5% glucose by Pseudomonas aeruginosa DRK 9.1 isolated from volcanic mud in Renokenongo Village, Sidoarjo",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coliform detection in Indonesian Ragi Tapai as an indicator of unhygienic processes using chromogenic media",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An analysis of hydrocarbon degrading capabilities from three bacterial isolates from mangrove habitats in Muara Angke Jakarta",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Emerging Transformation in Higher Education",
+        "pub_year": "2009",
+        "citation": "Proceedings of the International UNISTAFF Forum, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "cSxrvDwAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

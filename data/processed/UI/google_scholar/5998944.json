@@ -1,0 +1,986 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "U3c-UkMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Adi Basukriadi",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=U3c-UkMAAAAJ&citpid=2",
+  "affiliation": "Senior Lecturer of Entomology, Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Entomology",
+    "Ecology"
+  ],
+  "email_domain": "@ui.edu",
+  "homepage": "https://staff.blog.ui.ac.id/devita/",
+  "citedby": 331,
+  "citedby5y": 236,
+  "hindex": 8,
+  "hindex5y": 6,
+  "i10index": 8,
+  "i10index5y": 6,
+  "cites_per_year": {
+    "2012": 2,
+    "2013": 2,
+    "2014": 7,
+    "2015": 10,
+    "2016": 21,
+    "2017": 17,
+    "2018": 29,
+    "2019": 26,
+    "2020": 42,
+    "2021": 45,
+    "2022": 45,
+    "2023": 52,
+    "2024": 24
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kelimpahan dan Keanekaragaman Spesies Kupu-Kupu (Lepidoptera; Rhopalocera) Pada Berbagai Tipe Habitat di Hutan Kota Muhammad Sabki Kota Jambi",
+        "pub_year": "2012",
+        "citation": "Biospecies 5 (2), 40-48, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 74,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14123322849859229138",
+      "cites_id": [
+        "14123322849859229138"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainability of rice farming based on eco-farming to face food security and climate change: Case study in Jambi Province, Indonesia",
+        "pub_year": "2013",
+        "citation": "Procedia Environmental Sciences 17, 53-59, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 57,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10620605994631249368",
+      "cites_id": [
+        "10620605994631249368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insecticidal Activity of Ethyl Acetate Extracts from Culture Filtrates of Mangrove Fungal Endophytes",
+        "pub_year": "2015",
+        "citation": "Mycobiology 43 (2), 137-149, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:UebtZRa9Y70C",
+      "num_citations": 46,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9155842168946916964",
+      "cites_id": [
+        "9155842168946916964"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oviposition Deterrent Activities of Pachyrhizus erosus Seed Extract and Other Natural Products on Plutella xylostella (Lepidoptera: Plutellidae)",
+        "pub_year": "2014",
+        "citation": "Journal of Insect Science 14 (1), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14021931422109546347",
+      "cites_id": [
+        "14021931422109546347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Host preference fruit flies Bactrocera carambolae (Drew & Hancock) and Bactrocera dorsalis (Drew and Hancock)(Diptera: Tephritidae)",
+        "pub_year": "2018",
+        "citation": "Jurnal Entomologi Indonesia 15 (1), 40-40, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:r0BpntZqJG4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4203699301242849388",
+      "cites_id": [
+        "4203699301242849388"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The comparison of aboveground C-stock between cacao-based agroforestry system and cacao monoculture practice in West Sumatra, Indonesia",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (2), 472-479, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12926613057395828882",
+      "cites_id": [
+        "12926613057395828882"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular identification and diversity of yeasts associated with Apis cerana foraging on flowers of Jatropha integerrima",
+        "pub_year": "2010",
+        "citation": "Microbiology Indonesia 4 (1), 9, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15901316479640111846",
+      "cites_id": [
+        "15901316479640111846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Termite Species Richness On The Campus Of Universitas Indonesia, Depok",
+        "pub_year": "2010",
+        "citation": "Makara Journal of Science 7 (1), 2, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7193508163277180323",
+      "cites_id": [
+        "7193508163277180323"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Rich-ness and Diversity of Butterflies (Lepidoptera; Rhopalocera) in the Urban Forest of Muhammad Sabki, Jambi Province, Indonesia",
+        "pub_year": "2012",
+        "citation": "Biospecies 5 (2), 40-48, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:HDshCWvjkbEC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7535103981830001698",
+      "cites_id": [
+        "7535103981830001698"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of dragonflies and damselflies in lakes of Universitas Indonesia, Depok, West Java",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012035, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10556881232429290998",
+      "cites_id": [
+        "10556881232429290998"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekologi hewan",
+        "pub_year": "2008",
+        "citation": "Jakarta: Penerbit Universitas Terbuka 19, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13383310122684292917",
+      "cites_id": [
+        "13383310122684292917"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree community composition and structure of cacao (Theobroma cacao L.) based agroforestry in West Sumatera, Indonesia",
+        "pub_year": "2020",
+        "citation": "Bioeksperimen: Jurnal Penelitian Biologi 6 (1), 52-59, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:hC7cP41nSMkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4610045109213412803",
+      "cites_id": [
+        "4610045109213412803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penggenangan pada Teknik Budidaya Padi terhadap Infiltrasi dan Neraca Air",
+        "pub_year": "2013",
+        "citation": "Forum Geografi 27 (1), 33-44, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16202774530718228707,10312134932704498476",
+      "cites_id": [
+        "16202774530718228707",
+        "10312134932704498476"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi biologi dan ekologi thiaridae (moluska: gastropoda) di Danau Sentani, Papua serta kelestariannya",
+        "pub_year": "2008",
+        "citation": "Seminar Nasional Sains dan Teknologi II. Universitas Lampung, 608-619, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8454385002313173684",
+      "cites_id": [
+        "8454385002313173684"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of the bird community in rubber plantations at Universitas Indonesia, Depok",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:-f6ydRqryjwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9678152288008047947",
+      "cites_id": [
+        "9678152288008047947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soybean dregs as main ingredients of pollen substitute for Apis cerana honey bees",
+        "pub_year": "2020",
+        "citation": "Intl J Mod Agric 9 (4), 541-555, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:mB3voiENLucC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2329390386107291713",
+      "cites_id": [
+        "2329390386107291713"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnobotany Nepenthes and plants in Nepenthes community based on usage-knowledge of the Kerinci local society",
+        "pub_year": "2014",
+        "citation": "International Conference on Education, Technology and Sciences. Jambi \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:_kc_bZDykSQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15843509693153297797",
+      "cites_id": [
+        "15843509693153297797"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Pollen Substitutes on the Productivity of Apis cerana in Indonesia",
+        "pub_year": "2013",
+        "citation": "Bee World 90 (3), 72-75, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:Se3iqnhoufwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14110331731310191760",
+      "cites_id": [
+        "14110331731310191760"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE STUDY ON MANGROVE LITTERS AS A SOURCE OF NUTRIENTS FOR BLANAKAN MANGROVE POND, SUBANG, WEST JAVA",
+        "pub_year": "2013",
+        "citation": "Indonesian Aquaculture Journal 8 (1), 55-64, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16192100015490460917",
+      "cites_id": [
+        "16192100015490460917"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chiroptera population as bioindicators of urbanization and fragmented habitat in West Java",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1943 (1), 012068, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4517983262290354177",
+      "cites_id": [
+        "4517983262290354177"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dragonfly species diversity (Odonata) in three telaga on the highland freshwater, West Java",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 394 (1), 012007, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8134793880365970351",
+      "cites_id": [
+        "8134793880365970351"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Graphium androcles Boisduval (Lepidoptera: Papilionidae): evaluation of biological aspect of the pre-adult stadia at Bantimurung, South Sulawesi, Indonesia.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11099579486592099989",
+      "cites_id": [
+        "11099579486592099989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of active compound from mangrove fungal endophyte Emericella nidulans BPPTCC 6038 as bioinsecticide",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5793818771333730716",
+      "cites_id": [
+        "5793818771333730716"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insecticidal activities of ethyl acetate extract of indonesian mangrove fungus Emericella nidulans BPPTCC 6038 on Spodoptera litura",
+        "pub_year": "2015",
+        "citation": "Microbiology Indonesia 9 (3), 1, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1389578626781452102",
+      "cites_id": [
+        "1389578626781452102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE PHYLOGENETIC STUDY OF NEW GUINEAN SPECIES OF ENDIANDRA (LAURACEAE) AND ITS RELATIONSHIPS WITH BEILSCHMIEDIA BASED ON MORPHOLOGICAL CHARACTERS",
+        "pub_year": "2012",
+        "citation": "Floribunda 4 (4), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:5nxA0vEk-isC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5292086724948703083",
+      "cites_id": [
+        "5292086724948703083"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Biodiversity of Birds in Land Covers of Wetlands on Jakarta\u2019s North Coast",
+        "pub_year": "2023",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 51-58, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11653462042071307346",
+      "cites_id": [
+        "11653462042071307346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HABITAT SUITABILITY SPATIAL MODEL OF NEAR THREATENED SUNDA TEAL ANAS GIBBERIFRONS (MULLER, 1842)(ANSERIFORMES: ANATIDAE) IN MUARA ANGKE WETLANDS, JAKARTA, INDONESIA",
+        "pub_year": "2022",
+        "citation": "Treubia 49 (1), 1-14, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:u_35RYKgDlwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16507099977691596432",
+      "cites_id": [
+        "16507099977691596432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Litter Production of Cocoa-Based Agroforestry in West Sumatera, Indonesia",
+        "pub_year": "2022",
+        "citation": "PLANTA TROPIKA 10 (2), 102-110, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:rO6llkc54NcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9691696452607881689",
+      "cites_id": [
+        "9691696452607881689"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecology and microhabitat model of long-tongued fruit bat Macroglossus minimus (Chiroptera: Pteropididae) in karst ecosystem of Klapanunggal, Bogor, West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "International Journal of Tropical Drylands 6 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3958621391044729947",
+      "cites_id": [
+        "3958621391044729947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Forest covers, land fire hotspots, and atmospheric pollutions (CO, SO2) in the lower Batanghari River Basin landscape during dry season (June-August 2021).",
+        "pub_year": "2021",
+        "citation": "Biodiversitas: Journal of Biological Diversity 22 (12), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:35N4QoGY0k4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2689561102250990458",
+      "cites_id": [
+        "2689561102250990458"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat Preference Modeling of Prehistoric Giant Shark Megalodon During Miocene in Bentang Formation of West Java Coast",
+        "pub_year": "2021",
+        "citation": "Jurnal Biodjati 6 (2), 264-272, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=180429263840439033",
+      "cites_id": [
+        "180429263840439033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat and distribution modeling of prehistoric hippos (Hippopotamus sivalensis spp.) during pleistocene in Java Island",
+        "pub_year": "2021",
+        "citation": "Jurnal Biodjati 6 (1), 93-101, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7702903631520711011",
+      "cites_id": [
+        "7702903631520711011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary study on the diversity of pollen collected by stingless bee (Tetragonula aff. minor) in University of Indonesia campus area",
+        "pub_year": "2021",
+        "citation": "Serangga 26 (2), 16-25, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14810291210642390935",
+      "cites_id": [
+        "14810291210642390935"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Ecosystem Approach of Wanatani Semi Arid Equatorial to Sustainable Agriculutral Management (in Amarasi District, Kupang Regency, NTT)",
+        "pub_year": "2016",
+        "citation": "IOP Conference Series: Earth and Environmental Science 31 (1), 012036, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14246254844521191796",
+      "cites_id": [
+        "14246254844521191796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "NEWLY DESCRIBED SPECIES OF ENDIANDRA (LAURACEAE) FROM NEW GUINEA",
+        "pub_year": "2012",
+        "citation": "Reinwardtia 13 (4), 341-346, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:WF5omc3nYNoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2032472318249813329",
+      "cites_id": [
+        "2032472318249813329"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainability of Food Resources by Eco-Farming Implementation: The Role of Farmer\u2019s Socio Economics",
+        "pub_year": "2011",
+        "citation": "Conference: Proceeding ICSAFS International Conference on \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:M05iB0D1s5AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12267196185851226173",
+      "cites_id": [
+        "12267196185851226173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MODELING SHIFTING GEOGRAPHICAL DISTRIBUTIONS OF LEAST CONCERN ASIAN BRACKISH FROG FEJERVARYA CANCRIVORA (GRAVENHORST, 1829)(ANURA: DICROGLOSSIDAE) IN WEST JAVA, INDONESIA \u2026",
+        "pub_year": "2023",
+        "citation": "Treubia 50 (2), 71-86, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modeling understory shrub diversity related to environmental gradients using Akaike Information Criterion (AIC) in an urban forest in Jakarta, Indonesia",
+        "pub_year": "2023",
+        "citation": "Asian Journal of Forestry 7 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:D03iK_w7-QYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MODELLING THE POTENTIAL DISTRIBUTIONS OF SAWO KECIK (MANILKARA KAUKI (L.)) DUBARD USING MAXENT TO SUPPORT CONSERVATIONS OF HISTORICAL AND CULTURAL VEGETATIONS IN DAERAH \u2026",
+        "pub_year": "2023",
+        "citation": "Reinwardtia 22 (1), 55-67, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial diversity patterns of understory shrub community in Srengseng urban forest, Jakarta",
+        "pub_year": "2023",
+        "citation": "Jurnal Penelitian Kehutanan Wallacea 12 (1), 9-17, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "APPLICATIONS OF CONVEX POLYGON AND KERNEL DENSITY ANALYSES TO MODEL THE HOME RANGES OF EQUATORIAL SPITTING COBRA Naja sputatrix (BOIE, 1827) IN GREEN AREAS OF UNIVERSITAS \u2026",
+        "pub_year": "2023",
+        "citation": "Zoo Indonesia 31 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial models of suitable sandy substrates for brittle star community conservation in Sancang Coast, West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Indo Pacific Journal of Ocean Life 6 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LANDSCAPE ECOLOGY OF ENDEMIC BLACK-WINGED STARLING Acridotheres melanopterus tricolor (HORSFIELD, 1821) RELATED TO ENVIRONMENTAL FACTORS IN A TROPICAL SAVANNA OF INDONESIA",
+        "pub_year": "2022",
+        "citation": "Zoo Indonesia 31 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Benthic infaunal spatial biodiversity, coexistence, and availability for shorebird communities in the Jakarta Coastal Wetlands, Indonesia",
+        "pub_year": "2022",
+        "citation": "International Journal of Bonorowo Wetlands 12 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carbon Sequestration of Tree Community in Urban Green Spaces of Bekasi City, Indonesia",
+        "pub_year": "2022",
+        "citation": "7th International Conference on Biological Science (ICBS 2021), 149-155, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fire Hotspot and Particulate Matter (Pm2. 5) Distribution Patterns In Tropical Rainforest Ecosystems Of Batanghari River Basin In July 2021",
+        "pub_year": "2022",
+        "citation": "Biotropika: Journal of Tropical Biology 10 (1), 40-46, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemetaan Tutupan Mangrove Dan Potensi Stok Karbon Pada Kawasan Restorasi Tangkolak Di Pesisir Cilamaya, Karawang, Jawa Barat",
+        "pub_year": "2021",
+        "citation": "Gunung Djati Conference Series 6, 122-127, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin Jurnal:\" The Effect of Pollen Substitutes on the Productivity of Apis cerana in Indonesia\"",
+        "pub_year": "2021",
+        "citation": "Universitas Nasional, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin Jurnal:\" Soybean Dregs as Main Ingrediens of Pollen Substitute for Apis Cerana Honey Bees\"",
+        "pub_year": "2021",
+        "citation": "Universitas Nasional, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROSES PRODUKSI PROTEIN SEL TUNGGAL KHAMIR MENGGUNAKAN MEDIUM AIR BERAS SEBAGAI PAKAN LEBAH MADU",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrosphere occupancy modeling (\u03c8) and Akaike (AIC) habitat model selection of urban amphibian in West Java landscape",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021.04. 23.441117, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aerosphere occupancy (\u03c8) model of lesser short nosed fruit bat (Cynopterus brachyotis Muller, 1838) related to tree species in Asia mountainous paddy fields",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021.02. 08.430234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Akaike model selections of the vegetation structures and aerosphere factors in supporting lesser short nosed fruit bat (Cynopterus brachyotis Muller, 1838 \u2026",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021.02. 03.429676, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Korelasi Panjang Probosis Kupu-Kupu (Famili: Nymphalidae) dengan Panjang Tabung Bunga Sumber Nektar",
+        "pub_year": "2017",
+        "citation": "Seminar Nasional PEI Cabang Bandung, 78, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Graphium androcles Boisduval (Lepidoptera: Papilionidae): evaluation of biological aspect of the pre-adult stadia at Bantimurung, South Sulawesi, Indonesia.",
+        "pub_year": "2017",
+        "citation": "Applied Ecology & Environmental Research 15 (3), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proses Pembuatan Pakan Pengganti Pollen Basah Dari Biomassa Khamir Lokal Dengan Media Produksi Limbah Nanas",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ENDIANDRA KASSAMENSIS (LAURACEAE), A NEW SPECIES FROM NEW GUINEA",
+        "pub_year": "2012",
+        "citation": "BIOTROPIA 19 (2), 59-63, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preference of Apis cerana to Six Pollen Substitutes",
+        "pub_year": "2011",
+        "citation": "Proceeding ICBB (The International Conference on Bioscience and \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Asiatic honey bee-associated yeasts found in the campus of University of Indonesia, Depok, West Jaya",
+        "pub_year": "2009",
+        "citation": "New trends and challenges in Science and Technology: Proceedings of the \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventory of Thiaride (mollusca: gastropoda) of Biak Island, Papua, Indonesia",
+        "pub_year": "2009",
+        "citation": "New trends and challenges in Science and Technology: Proceedings of the \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beberapa aspek ekologi fauna ekhinodermata d\u00ef rataan terumbu Pulau Menjangan, Bali",
+        "pub_year": "1999",
+        "citation": "Lingkungan dan Pembangunan 19 (2), 90-99, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resource partitioning among kingfishers in Tangkoko-Duasudara Nature Reserve, North Sulawesi",
+        "pub_year": "1999",
+        "citation": "Trop. Biodiv. 6 (1 & 2), 75-85, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH EKSTRAK DEKOMPOSISI JERAMI PADI TERHADAP PERTUMBUHAN Chalorella Pyreinodosa CHICK",
+        "pub_year": "1997",
+        "citation": "Prosiding Seminar Nasional Biologi XV 3, 903, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perilaku kunjungan lebah Xylocopa latipes Fabr. Dan X. confusa L.P. (Hymenoptera: Xylocopidae) pada bunga Bangkuang Pachyrrisus erosus di daerah Bogor",
+        "pub_year": "1985",
+        "citation": "ZooIndonesia 3, 1-5, 1985"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Identification and Diversity of Yeasts Associated with Apis cerana Foraging on Jatropha integerrima",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spread And Environmental Impact To Presence Of Sulawesi\u2019s Endemic Butterfly Graphium Androcles Boisduval (Lepidoptera: Papilionidae) In Bantimurung-Bulusaraung National Park",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "U3c-UkMAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

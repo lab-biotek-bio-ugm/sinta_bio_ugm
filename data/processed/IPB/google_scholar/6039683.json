@@ -1,0 +1,508 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "p5pHTooAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Lilis Sucahyo",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=p5pHTooAAAAJ&citpid=2",
+  "affiliation": "Mechanical and Biosystem Engineering, IPB University (Bogor Agricultural University)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Agriculture and Biosystem Engineering",
+    "Renewable Energy"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "homepage": "http://lilissucahyo.ipb.ac.id/",
+  "citedby": 68,
+  "citedby5y": 63,
+  "hindex": 5,
+  "hindex5y": 4,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2014": 1,
+    "2015": 0,
+    "2016": 1,
+    "2017": 1,
+    "2018": 2,
+    "2019": 7,
+    "2020": 4,
+    "2021": 4,
+    "2022": 20,
+    "2023": 17,
+    "2024": 10
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Qfy_uoIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mohamad Solahudin",
+      "affiliation": "Departemen Teknik Mesin dan Biosistem - IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zeuSEDAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Edy Hartulistiyoso",
+      "affiliation": "Mechanical and Bio-system Engineering, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tAjkuuMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "agus ghautsun Niam",
+      "affiliation": "Lecturer of Mechanical and Biosistem Engineering, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "i0oEhw4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhamad Yulianto",
+      "affiliation": "Lecturer at Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aBzirqkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "shandra amarillis",
+      "affiliation": "Agronomy and Horticulture, Bogor Agricultural University (IPB)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4OcP9TcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dyah Wulandani",
+      "affiliation": "Lecturer on Department of Mechanical and Biosystem Engineering IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VM4d7wsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Leopold Oscar Nelwan .",
+      "affiliation": "Lecturer, IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "YPBrBokAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Slamet Widodo",
+      "affiliation": "Department of Mechanical and Biosystem Engineering, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "QgeXR-QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Obie Farobie",
+      "affiliation": "Bogor Agricultural University (IPB University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "CCtX8i0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Supriyanto",
+      "affiliation": "Mechanical and Biosystem Engineering Department, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VRV9SwoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agus Ghautsun Niam .",
+      "affiliation": "Mechanical and biosystem engineering"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CFD simulation approach in determining air conditioners position in the mini plant factory for shallot seed production",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2062 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=692873200436377133",
+      "cites_id": [
+        "692873200436377133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal efficiency analysis of Organic Rankine Cycle (ORC) System from low-grade heat resources using various working fluids based on simulation",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012047, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18091418633844722470",
+      "cites_id": [
+        "18091418633844722470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrasonic atomizer application for low cost aeroponic chambers (LCAC): A review",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012034, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8014970302745331172",
+      "cites_id": [
+        "8014970302745331172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Pemanfaatan Asap Cair Tempurung Kelapa sebagai Bahan Koagulan Lateks dalam Pengolahan Ribbed Smoked Sheet (RSS) dan Pengurang Bau Busuk Bahan Olahan Karet",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314320455827054513",
+      "cites_id": [
+        "8314320455827054513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rekonsentrasi Larutan Gula Pada Proses Dehidrasi Osmotik Irisan Mangga (Mangifera Indica L.) Dengan Teknik Distilasi Membran DCMD",
+        "pub_year": "2013",
+        "citation": "Jurnal Teknologi Industri Pertanian 23 (3), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=818378080056556405",
+      "cites_id": [
+        "818378080056556405"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiesel production from crude palm oil under subcritical methanol conditions: Experimental investigation and kinetic model",
+        "pub_year": "2023",
+        "citation": "Bioresource Technology Reports 22, 101441, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5065353048589452041",
+      "cites_id": [
+        "5065353048589452041"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan dan Efisiensi Penggunaan Energi pada Budidaya Selada dalam Plant factory dengan Beberapa Perlakuan Fotoperiode",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian Tropis dan Biosistem 10 (2), 154-161, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12563005327829959899",
+      "cites_id": [
+        "12563005327829959899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Study of Shallot Seedling from TSS (True Shallot Seed) on LCAC (Low-Cost Aeroponic Chamber)",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012013, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9968244096467454963",
+      "cites_id": [
+        "9968244096467454963"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economy analysis of shallot seedling production form TSS (True Shallot Seed) with LCAC (Low Cost Aeroponic Chamber) technology",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012012, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3284270007648680658",
+      "cites_id": [
+        "3284270007648680658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of Crude Glycerol Waste from Biodiesel Production as an Additive to Improve the Quality of Tea Dreg Biopellet",
+        "pub_year": "2023",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 12 (3 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6748519246460297165",
+      "cites_id": [
+        "6748519246460297165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KAJIAN SISTEM HIDROPONIK MENGGUNAKAN ULTRASONIC ATOMIZER UNTUK PEMBIBITAN TSS (TRUE SHALLOT SEED) BAWANG MERAH",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmiah Rekayasa Pertanian dan Biosistem 11 (1), 34-43, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:ufrVoPGSRksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7812709167365008506",
+      "cites_id": [
+        "7812709167365008506"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal efficiency simulation of working fluids performance on small scale organic rankine cycle (ORC) with biomass energy",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012039, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7342810508464219846",
+      "cites_id": [
+        "7342810508464219846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tracer study of CO2 enrichment for shallot growth in mini plant factory with CFD approach",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 335 (1), 012020, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8376838386654549335",
+      "cites_id": [
+        "8376838386654549335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Modification Vertical Partition On Kiln Drum Performance For Coconut Shell Carbonization",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 557 (1), 012055, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8798622740309537266",
+      "cites_id": [
+        "8798622740309537266"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of the Density of Coconut Fiber as Stack in Thermo-Acoustics Refrigeration System",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012037, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14248051842557745756",
+      "cites_id": [
+        "14248051842557745756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Cutting-Edge Software Innovation for Melon Production Management in Greenhouse: This paper was not presented at the conference.",
+        "pub_year": "2023",
+        "citation": "Frontier in Sustainable Agromaritime and Environmental Development \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance Test of Hotong Seed Billing Machine (Setaria italica (L.) P. Beauv) Abrasive Roll Type with Grinding Stone",
+        "pub_year": "2023",
+        "citation": "Jurnal Agricultural Biosystem Engineering 2 (3), 438-449, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Life Cycle Assessment Proses Ekstraksi Protein dan Polisakarida dari Rumput Laut (Ulva sp.) dengan Ultrasound-Assisted Extraction",
+        "pub_year": "2023",
+        "citation": "IPB University, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Fotoperiodisme dan Media Tanam terhadap Inisiasi Pembungaan Bawang Merah (Allium ascalonicum) di Mini Plant Factory.",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Performansi Organic Rankine Cycle dengan Sumber Panas Tempurung Kelapa dan Refrigeran R134a",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Pengaruh Variasi Laju Bahan Bakar Tempurung Kelapa terhadap Efisiensi Termal Sistem Pembangkit Organic Rankine Cycle",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Potensi Energi Termal pada Penggunaan Tempurung Kelapa sebagai Sumber Energi Model Organic Rankine Cycle",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian dan Analisis Desain Evaporator Dilengkapi dengan Phase Change Material (PCM) Berbahan Etilen Glikol.",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance analysis of working fluids on organic rankie cycle (ORC) model with biomass energy as a heat sources.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recocentration of Sugar Solution in Osmotic Dehydration Slices Mango (Mangifera indica L.) with Membrane Separation Technique of Direct Contact Membrane Distillation",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Panduan Praktis Hidroponik dengan Metode Rakit Apung untuk Budidaya Tanaman Hortikultura Sayuran",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "p5pHTooAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

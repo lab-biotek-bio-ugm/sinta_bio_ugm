@@ -1,0 +1,1161 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "YPBrBokAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Slamet Widodo",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YPBrBokAAAAJ&citpid=1",
+  "affiliation": "Department of Mechanical and Biosystem Engineering, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "instrumentation",
+    "automatic control",
+    "mechatronic",
+    "robotic",
+    "precision agriculture"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 357,
+  "citedby5y": 287,
+  "hindex": 11,
+  "hindex5y": 10,
+  "i10index": 15,
+  "i10index5y": 13,
+  "cites_per_year": {
+    "2012": 1,
+    "2013": 3,
+    "2014": 3,
+    "2015": 5,
+    "2016": 13,
+    "2017": 17,
+    "2018": 21,
+    "2019": 29,
+    "2020": 48,
+    "2021": 51,
+    "2022": 65,
+    "2023": 64,
+    "2024": 30
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "O8b_bIIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Chusnul Arif",
+      "affiliation": "Associate Prof, Dept. of Civil and Environmental Engineering, IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ngLi0r0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yusuf Wibisono",
+      "affiliation": "Bioprocess Engineering, University of Brawijaya"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Moving object localization using sound-based positioning system with doppler shift compensation",
+        "pub_year": "2013",
+        "citation": "Robotics 2 (2), 36-53, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:WF5omc3nYNoC",
+      "num_citations": 50,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15832297646521582011",
+      "cites_id": [
+        "15832297646521582011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi koefisien tanaman padi pada berbagai perlakuan muka air",
+        "pub_year": "2015",
+        "citation": "Jurnal Irigasi 10 (2), 57-68, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2086191289245792999",
+      "cites_id": [
+        "2086191289245792999"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Control system for nutrient solution of nutrient film technique using fuzzy logic",
+        "pub_year": "2015",
+        "citation": "TELKOMNIKA (Telecommunication Computing Electronics and Control) 13 (4 \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9371584367473256805",
+      "cites_id": [
+        "9371584367473256805"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CFD simulation approach in determining air conditioners position in the mini plant factory for shallot seed production",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2062 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=692873200436377133",
+      "cites_id": [
+        "692873200436377133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Authentication of the geographical origin of patchouli oil using front\u2010face fluorescence spectroscopy and chemometric analysis",
+        "pub_year": "2019",
+        "citation": "Flavour and fragrance journal 34 (1), 15-20, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:Se3iqnhoufwC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16276398004108831607",
+      "cites_id": [
+        "16276398004108831607"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vaname (Litopenaeus vannamei) shrimp fry counting based on image processing method",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012014, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9968381538266421388",
+      "cites_id": [
+        "9968381538266421388"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan model jaringan saraf tiruan untuk menduga emisi gas rumah kaca dari lahan sawah dengan berbagai rejim air",
+        "pub_year": "2015",
+        "citation": "Jurnal Irigasi 10 (1), 1-10, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13641049834671824022",
+      "cites_id": [
+        "13641049834671824022"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing rice paddies\u2019 lower greenhouse gas emissions and higher yield with SRI management under varying water table levels",
+        "pub_year": "2019",
+        "citation": "Paddy and water environment 17, 485-495, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10664809060947533541",
+      "cites_id": [
+        "10664809060947533541"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Muka air optimum pada System of Rice Intensification (SRI)",
+        "pub_year": "2017",
+        "citation": "Jurnal Irigasi 12 (1), 55-64, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3770622398908326168",
+      "cites_id": [
+        "3770622398908326168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem kontrol tinggi muka air untuk budidaya padi",
+        "pub_year": "2015",
+        "citation": "Jurnal Irigasi 10 (2), 97-110, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785218520343960957",
+      "cites_id": [
+        "9785218520343960957"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IoT based growth monitoring system of guava (Psidium guajava L.) Fruits",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012048, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:0EnyYjriUFMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18245045231200282537",
+      "cites_id": [
+        "18245045231200282537"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan kadar air dan total karoten tandan buah segar (tbs) kelapa sawit menggunakan nir spektroskopi",
+        "pub_year": "2014",
+        "citation": "Jurnal Keteknikan Pertanian 2 (2), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8108899111700573452",
+      "cites_id": [
+        "8108899111700573452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of partial least square (PLS) prediction model to measure the ripeness of oil palm fresh fruit bunch (FFB) by using NIR Spectroscopy",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 347 (1), 012079, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=600289696785927673",
+      "cites_id": [
+        "600289696785927673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combined fluorescence-transmittance imaging system for geographical authentication of patchouli oil",
+        "pub_year": "2019",
+        "citation": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 218, 155-160, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11669439375565481123",
+      "cites_id": [
+        "11669439375565481123"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wind compensation for an open field spread spectrum sound-based positioning system using a base station configuration",
+        "pub_year": "2014",
+        "citation": "Engineering in agriculture, environment and food 7 (3), 127-132, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14840549726676063972",
+      "cites_id": [
+        "14840549726676063972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Triangle graphs development for estimating methane and nitrous oxide gases emission from the System of Rice Intensification (SRI).",
+        "pub_year": "2017",
+        "citation": "Journal of Environmental Science and Technology 10 (4), 206-214, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:4DMP91E08xMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16530715379841534173",
+      "cites_id": [
+        "16530715379841534173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Concentration boundary layer in membrane degumming: A CFD model and neural network approach",
+        "pub_year": "2015",
+        "citation": "Procedia Environmental Sciences 28, 224-233, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5309427402732789755",
+      "cites_id": [
+        "5309427402732789755"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design of self-calibration method for sound-based positioning system in greenhouse",
+        "pub_year": "2013",
+        "citation": "IFAC Proceedings Volumes 46 (4), 332-335, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:ufrVoPGSRksC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16911630588917268164",
+      "cites_id": [
+        "16911630588917268164"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sound-based ranging system in greenhouse environment with multipath effect compensation using artificial neural network",
+        "pub_year": "2012",
+        "citation": "Neural Information Processing: 19th International Conference, ICONIP 2012 \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5076089123522644134",
+      "cites_id": [
+        "5076089123522644134"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Non-Destrustif Kandungan Asam Lemak Bebas (ALB) Tandan Buah Segar (TBS) Kelapa Sawit dengan Metode NIR Spektroskopi",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 7 (2 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17059357391859335714",
+      "cites_id": [
+        "17059357391859335714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Single input cerebellar model articulation controller (CMAC) based maximum power point tracking for photovoltaic system",
+        "pub_year": "2010",
+        "citation": "2010 International Symposium on Computer, Communication, Control and \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:qjMakFHDy7sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16508975834696816671",
+      "cites_id": [
+        "16508975834696816671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of hydroponic technology to the yield and quality of Purwoceng\" Viagra from Asia\".",
+        "pub_year": "2023",
+        "citation": "INMATEH-Agricultural Engineering 69 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228784522203046525",
+      "cites_id": [
+        "2228784522203046525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediksi Indeks Panen Jambu \u201cKristal\u201d secara Non Destruktif Menggunakan Portable Near Infrared Spectrometer",
+        "pub_year": "2021",
+        "citation": "Jurnal Keteknikan Pertanian 9 (3), 103-110, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10193195716419547693",
+      "cites_id": [
+        "10193195716419547693"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Machine vision-based analysis for black tea quality evaluation",
+        "pub_year": "2018",
+        "citation": "Sustainable Future for Human Security: Environment and Resources, 243-250, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11588826349554936510",
+      "cites_id": [
+        "11588826349554936510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A halation reduction method for high quality images of tomato fruits in greenhouse",
+        "pub_year": "2015",
+        "citation": "Engineering in agriculture, environment and food 8 (4), 200-206, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:roLk4NBRz8UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11654793012484246435",
+      "cites_id": [
+        "11654793012484246435"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan model jaringan syaraf tiruan untuk menduga Emisi gas metana dari padi sawah",
+        "pub_year": "2014",
+        "citation": "Jurnal Ilmu Komputer dan AgroInformatika 3 (2), 245345, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6780230654605374447",
+      "cites_id": [
+        "6780230654605374447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mandarin orange (Citrus reticulata Blanco cv. Batu 55) ripeness level prediction using combination reflectance-fluorescence spectroscopy",
+        "pub_year": "2023",
+        "citation": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 302, 123061, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:P5F9QuxV20EC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1398907274112053728",
+      "cites_id": [
+        "1398907274112053728"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deep Learning Model for Identification of Diseases on Strawberry (Fragaria sp.) Plants.",
+        "pub_year": "2023",
+        "citation": "International Journal on Advanced Science, Engineering & Information \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:UxriW0iASnsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16175072001696932242",
+      "cites_id": [
+        "16175072001696932242"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of rotating laser transmitter and 4 poles receiver for local positioning on static test in the field",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012071, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:k_IJM867U9cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17752697315964417748",
+      "cites_id": [
+        "17752697315964417748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi mutu biji melinjo (Gnetum gnemon L.) menggunakan pengolahan citra digital",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 7 (2 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:Zph67rFs4hoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6325805221449786482",
+      "cites_id": [
+        "6325805221449786482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality evaluation of melinjo seeds (Gnetum gnemon L.) using digital image processing.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10195959027035576791",
+      "cites_id": [
+        "10195959027035576791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wind and doppler shift compensation for spread spectrum sound-based positioning system",
+        "pub_year": "2013",
+        "citation": "Kyoto University, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:BqipwSGYUEgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9543231149291425944",
+      "cites_id": [
+        "9543231149291425944"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan dan Efisiensi Penggunaan Energi pada Budidaya Selada dalam Plant factory dengan Beberapa Perlakuan Fotoperiode",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian Tropis dan Biosistem 10 (2), 154-161, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12563005327829959899",
+      "cites_id": [
+        "12563005327829959899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelatihan Teknis dalam Rangka Perbaikan Mutu Gula Semut di Kabupaten Tasikamaya",
+        "pub_year": "2020",
+        "citation": "Agrokreatif: Jurnal Ilmiah Pengabdian kepada Masyarakat 6 (3), 276-280, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=631303133967154091",
+      "cites_id": [
+        "631303133967154091"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modifikasi Instrumen NIR untuk Penentuan Kandungan Kimia Bahan Organik secara Cepat dan Non Destruktif",
+        "pub_year": "2019",
+        "citation": "Jurnal Keteknikan Pertanian 7 (1), 49-56, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5351264365846482004",
+      "cites_id": [
+        "5351264365846482004"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Kecepatan Udara dan Pengaruhnya Terhadap Suhu dan Kelembaban Relatif pada Mini Plant Factory",
+        "pub_year": "2019",
+        "citation": "Jurnal Keteknikan Pertanian 7 (1), 107-114, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=675050132701425714",
+      "cites_id": [
+        "675050132701425714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Model Jaringan Syaraf Tiruan untuk Penentuan Kandungan Kimia Biji Kopi Arabika Gayo dengan NIRS",
+        "pub_year": "2019",
+        "citation": "Warta IHP 36 (1), 22-29, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13421755673364604528",
+      "cites_id": [
+        "13421755673364604528"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Quality Parameters of Yellow Matoa Fruit (Pometia pinnata) Using Digital Image Processing",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 557 (1), 012025, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14238913738740838277",
+      "cites_id": [
+        "14238913738740838277"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of chemical content in patchouli oil (Pogostemon cablin Benth) by portable NIR spectroscopy",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 557 (1), 012087, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5614917597361944533",
+      "cites_id": [
+        "5614917597361944533"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of weeds density evaluation system based on RGB sensor",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012047, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:UebtZRa9Y70C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=531643345493976339",
+      "cites_id": [
+        "531643345493976339"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem navigasi berbasis pelacakan objek pada operasi robot asisten pemanenan di dalam greenhouse",
+        "pub_year": "2017",
+        "citation": "Seminar Nasional Aplikasi Teknologi Informasi (SNATI), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4183910753726359812",
+      "cites_id": [
+        "4183910753726359812"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Different Hydroponic Types and Nutrient Concentrations on the Chemical Composition and Antioxidant Capacity of Purwoceng (Pimpinella pruatjan) Extract",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (5), 985-994, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:dshw04ExmUIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17170913501297610985",
+      "cites_id": [
+        "17170913501297610985"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Deteksi Keaslian Beras Aceh Varietas Sigupai Menggunakan Portable Near-Infrared Reflectance Spectrometer",
+        "pub_year": "2023",
+        "citation": "Jurnal Keteknikan Pertanian 11 (1), 41-53, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:p2g8aNsByqUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11690317530744680336",
+      "cites_id": [
+        "11690317530744680336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Portable/Handheld NIR sebagai Teknologi Evaluasi Mutu Bahan Pertanian secara Non-Destruktif",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian 10 (1), 59-68, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7318179427489090953",
+      "cites_id": [
+        "7318179427489090953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tracer study of CO2 enrichment for shallot growth in mini plant factory with CFD approach",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 335 (1), 012020, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8376838386654549335",
+      "cites_id": [
+        "8376838386654549335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Energi Gelombang Mikro untuk Pengendalian Hama Gudang Araecerus fasciculatus (De Geer) pada Biji Kakao",
+        "pub_year": "2018",
+        "citation": "Jurnal Keteknikan Pertanian 6 (2), 145-150, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216672207890850637",
+      "cites_id": [
+        "14216672207890850637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-destructive evaluation of Free Fatty Acid (FFA) of oil palm Fresh Fruit Bunch (FFB) using NIR spectroscopy.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:08ZZubdj9fEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18371052671374110288",
+      "cites_id": [
+        "18371052671374110288"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of Formalin Content in Chicken Meat Using Portable Near Infrared Spectrometer",
+        "pub_year": "2023",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 12 (4 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Authentication of Gayo Arabica Green Coffee Beans with Different Cherry Processing Methods Using Portable LED-Based Fluorescence Spectroscopy and Chemometrics Analysis",
+        "pub_year": "2023",
+        "citation": "Foods 12 (23), 4302, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secondary Metabolites and Antioxidant Activity of Purwoceng (Pimpinella Pruatjan) Root Extracts from Various Hydroponic Planting Techniques",
+        "pub_year": "2023",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 12 (3 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "NON-DESTRUCTIVE ESTIMATION OF MATURITY LEVEL OF'CRYSTAL'GUAVA FRUIT BY MEANS OF FLUORESCENCE SPECTROSCOPY.",
+        "pub_year": "2023",
+        "citation": "INMATEH-Agricultural Engineering 71 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of the patchouli essential oil (Pogostemon cablin Benth.) aromatic characteristic by near\u2010infrared spectroscopy",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Biotechnology 28 (1), 14-22, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimal sensor location for adaptive control system in tropical smart greenhouse",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Electrical Engineering and Computer Science 30 (3 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Autentikasi Cepat Kopi Spesialti Arabika Java Preanger Kultivar Typica, Sigarar Utang dan Yellow Bourbon Menggunakan Spektroskopi UV dan Metode PLS-DA",
+        "pub_year": "2023",
+        "citation": "Jurnal Keteknikan Pertanian 11 (1), 1-15, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Authentication of Aceh Rice Variety Sigupai Using Portable Near-Infrared Reflectance Spectrometer",
+        "pub_year": "2023",
+        "citation": "Jurnal Keteknikan Pertanian 11 (1), 41-53, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological, molecular, and pathogenic characterization of Colletotrichum gloeosporioides sensu stricto associated with imported citrus fruits",
+        "pub_year": "2023",
+        "citation": "Estonian University of Life Sciences, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Deep Learning Models on the Navigation System for Assistant Harvesting Robot",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012046, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Model Development of Non-Destructive Coffee Beans Moisture Content Determination Using Modified Near Infrared Spectroscopy Instrument",
+        "pub_year": "2021",
+        "citation": "Pelita Perkebunan (a Coffee and Cocoa Research Journal) 37 (3), 229-238, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rapid Assessment of Fresh Beef Spoilage Using Portable Near-Infrared Spectroscopy",
+        "pub_year": "2021",
+        "citation": "Jurnal Keteknikan Pertanian 9 (3), 79-86, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Model Kinetika Ekstraksi Berbantu Ultrasonik pada Lada (Piper nigrum L.)",
+        "pub_year": "2021",
+        "citation": "Jurnal Keteknikan Pertanian 9 (3), 127-134, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvingpostharvesthandlingofsoybean (GlycineMax (L.) Merrill) in Cameroon",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rice Quality Assessment Using Fluorescence Imaging Technique",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Beras Sosoh pada Beberapa Tingkat Penyosohan Berdasarkan Spektrum Absorbansi Uv",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Agricultural Postharvest Research 15 (1), 274725, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Algoritma Pengendalian Manipulator Robot Bioproduksi dengan Artificial Neural Network",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a laser-based localization system in an outdoor setting: Design and performance evaluation of transmitter and receiver component",
+        "pub_year": "2016",
+        "citation": "2016 International Conference on Advanced Computer Science and Information \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Single Input Cerebellar Model Articulation Controller (CMAC) based Maximum Power Point Tracking for Photovoltaic System",
+        "pub_year": "2010",
+        "citation": "2010 International Symposium on Computer, Communication, Control and \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Jaringan Syaraf Tiruan Dan Algoritma Genetik Untuk Optimasi Komposisi Media Pembesaran Plantlet Anggrek Dendrobium Kanayao Secara In-Vitro",
+        "pub_year": "2007",
+        "citation": "IPB (Bogor Agricultural University), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rapid Assessment of Vanilla (Vanilla Planifolia) Quality Parameters Using Portable Near-Infrared Spectroscopy Combined with Random Forest",
+        "citation": "Available at SSRN 4785995, 0"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and Molecular Characterization, and Pathogenicity of Fusarium Species Causing Dry Rot Disease in Citrus Fruits",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Klasifikasi Teh Hitam Menggunakan Tekstur Tamura dan Klasifikasi Na\u00efve Bayes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Sistem Kontrol Cerdas Berbasis Internet Of Things Untuk Peningkatan Produktivitas Dan Mutu Purwoceng Sebagai Bahan Baku Industri Jamu",
+        "citation": "Lembaga Pengelola Dana Pendidikan Kementerian Keuangan Republik Indonesia, 0"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Kinerja Pembangkit Listrik Organic Rankine Cycle (ORC) Berbahan Bakar Tempurung Kelapa",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Performance of SRI Paddies under Various Water Levels",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Best Water Levels for SRI Paddies Cultivation",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison Study of Low Cost MPPT Method for Photovoltaic System",
+        "citation": "President of Formmit\u2019s Speech, 245, 0"
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microcontroller Implementation of Low-Cost Maximum Power Point Tracking Methods for Photovoltaic System",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YPBrBokAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

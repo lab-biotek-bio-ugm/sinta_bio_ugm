@@ -1,0 +1,757 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "wJmEQKYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Iriawati Iriawati",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wJmEQKYAAAAJ&citpid=2",
+  "affiliation": "Associate Professor of Plant Biology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Plant developmental biology",
+    "plant cell and tissue culture"
+  ],
+  "email_domain": "@itb.ac.id",
+  "homepage": "http://www.sith.itb.ac.id/",
+  "citedby": 323,
+  "citedby5y": 252,
+  "hindex": 10,
+  "hindex5y": 8,
+  "i10index": 10,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "1996": 4,
+    "1997": 0,
+    "1998": 3,
+    "1999": 0,
+    "2000": 0,
+    "2001": 0,
+    "2002": 3,
+    "2003": 3,
+    "2004": 0,
+    "2005": 2,
+    "2006": 0,
+    "2007": 0,
+    "2008": 0,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 1,
+    "2013": 2,
+    "2014": 4,
+    "2015": 3,
+    "2016": 6,
+    "2017": 14,
+    "2018": 24,
+    "2019": 20,
+    "2020": 27,
+    "2021": 53,
+    "2022": 66,
+    "2023": 64,
+    "2024": 22
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formation of agarwood from Aquilaria malaccensis in response to inoculation of local strains of Fusarium solani",
+        "pub_year": "2017",
+        "citation": "Trees 31, 189\u2013197, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:_kc_bZDykSQC",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13515049376122366937",
+      "cites_id": [
+        "13515049376122366937"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytoremediation of chromium: distribution and speciation of chromium in Typha angustifolia",
+        "pub_year": "2017",
+        "citation": "International Journal of Plant Biology 8, 14-18, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10901867277969853552",
+      "cites_id": [
+        "10901867277969853552"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vinblastine and Vincristine Production on Madagascar Periwinkle (Catharanthus roseus (L.) G. Don) Callus Culture Treated with  Polethylene Glycol",
+        "pub_year": "2016",
+        "citation": "Makara Journal of Science 20 (1), 7 - 16, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12600928955695797079",
+      "cites_id": [
+        "12600928955695797079"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of endophytic and rhizosphere bacteria from pineapple (Ananas comosus) plant in semi-arid ecosystem",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (7), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:IWHjjKOFINEC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2760721847017294185",
+      "cites_id": [
+        "2760721847017294185"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptome of Teak (Tectona grandis, L.f) in Vegetative to Generative Stages Development",
+        "pub_year": "2015",
+        "citation": "Journal of Plant Sciences 10 (1), 1-14, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:0EnyYjriUFMC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8580359833845811823,2408676621132723574",
+      "cites_id": [
+        "8580359833845811823",
+        "2408676621132723574"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset of volatile compounds from flowers and secondary metabolites from the skin pulp, green beans, and peaberry green beans of robusta coffee",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105219, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6000216753506829971",
+      "cites_id": [
+        "6000216753506829971"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Iriawati (2011) A qualitative and quantitative evaluation of terpenoid and alkaloid in root and stem of Pasak Bumi (Eurycoma longifolia Jack)",
+        "citation": "J Matematik Sains 16 (1), 49-52, 0"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9809698368593077517",
+      "cites_id": [
+        "9809698368593077517"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regeneration of Plantlets Through PLB (Protocorm-Like Body) Formation in Phalaenopsis \u2018Join Angle X Sogo Musadian\u2019",
+        "pub_year": "2016",
+        "citation": "Journal of Mathematical and Fundamental Sciences 48 (3), 204-212, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18210807000038371556",
+      "cites_id": [
+        "18210807000038371556"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Methyl jasmonate and crude extracts of Fusarium solani elicit agarwood compounds in shoot culture of Aquilaria malaccensis Lamk.",
+        "pub_year": "2021",
+        "citation": "Heliyon 7 (4), e06725, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:hC7cP41nSMkC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11631618278157467200",
+      "cites_id": [
+        "11631618278157467200"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of Secondary Metabolite Production in Somatic Embryo of Pasak Bumi (Eurycoma Longifolia Jack.)",
+        "pub_year": "2014",
+        "citation": "Procedia Chemistry 13, 112-118, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10965400119260124046",
+      "cites_id": [
+        "10965400119260124046"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Green pesticide: Tapping to the promising roles of plant secreted small RNAs and responses towards extracellular DNA",
+        "pub_year": "2021",
+        "citation": "Non-coding RNA Research 6 (1), 42-50, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:qUcmZB5y_30C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2243709164873905409",
+      "cites_id": [
+        "2243709164873905409"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Terminal Flowering1 (TFL1) Genes Associated with the  Teak  ( Tectona  grandis )  Floral  Development  Regulation  Using RNA-seq",
+        "pub_year": "2015",
+        "citation": "Research Journal of Botany 10 (1), 1-13, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:5nxA0vEk-isC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5848246248356078851",
+      "cites_id": [
+        "5848246248356078851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vetiver Oil Production from Root Culture of Vetiveria zizanioides",
+        "pub_year": "2013",
+        "citation": "World Academy of Science, Engineering and Technology, International Journal \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8327491886808700622",
+      "cites_id": [
+        "8327491886808700622"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructural Studies on the Fusion Product between Protoplasts of Mung Bean and Adzuki Bean.",
+        "pub_year": "1996",
+        "citation": "\u65e5\u672c\u4f5c\u7269\u5b78\u6703\u7d00\u4e8b 65 (2), 330-339, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13619993308658835348",
+      "cites_id": [
+        "13619993308658835348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructural Studies on the Fusion Product between Protoplasts of Mung Bean and Adzuki Bean.",
+        "pub_year": "1996",
+        "citation": "\u65e5\u672c\u4f5c\u7269\u5b78\u6703\u7d00\u4e8b 65 (2), 330-339, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:8k81kl-MbHgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13619993308658835348",
+      "cites_id": [
+        "13619993308658835348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organogenesis in leaf protoplast-derived calli of mungbean",
+        "pub_year": "1994",
+        "citation": "Japanese Journal of Crop Science 63 (4), 714-720, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8177308276512862387",
+      "cites_id": [
+        "8177308276512862387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organogenesis in Leaf Protoplast-Derived Calli of Mungbean.",
+        "pub_year": "1994",
+        "citation": "\u65e5\u672c\u4f5c\u7269\u5b78\u6703\u7d00\u4e8b 63 (4), 714-720, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8177308276512862387",
+      "cites_id": [
+        "8177308276512862387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro polyploidy induction of foxtail millet (Setaria italica (L) beauv) cv. buru hotong using colchicine treatment",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 484 (1), 012031, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:-f6ydRqryjwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6810558473649236383",
+      "cites_id": [
+        "6810558473649236383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transient transformation of potato plant (Solanum tuberosum L.) granola cultivar using syringe agroinfiltration",
+        "pub_year": "2018",
+        "citation": "AGRIVITA, Journal of Agricultural Science 40 (2), 313-319, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3113819148949235377",
+      "cites_id": [
+        "3113819148949235377"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data set on volatile compound of coffee flowers at different annual rainfall",
+        "pub_year": "2019",
+        "citation": "Data in brief 26 (2019), 1-9, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15602191509686944477",
+      "cites_id": [
+        "15602191509686944477"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of iodoacetamide on the fine structure of Azuki bean protoplast and its fusion product",
+        "pub_year": "1996",
+        "citation": "Japanese Journal of Crop Science 65 (3), 532-539, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13347266667858937765",
+      "cites_id": [
+        "13347266667858937765"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The structure characteristic of IAA n-acetyl-transferase enzyme produced by two species of bacteria (Bacillus subtilis and Bacillus amyloliquefaciens)",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 762 (1), 012054, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:mB3voiENLucC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12359749603092844466",
+      "cites_id": [
+        "12359749603092844466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical characterization of wood decay patterns in Hevea brasiliensis and Pinus merkusii caused by white-rot fungi: Polyporus arcularius and Pycnoporus sanguineus",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012048, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10310233436419339656",
+      "cites_id": [
+        "10310233436419339656"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Regeneration of Foxtail Millet  (Setaria italica (L.) Beauv.) cv. Buru Hotong",
+        "pub_year": "2017",
+        "citation": "Journal of Mathematical and Fundamental Sciences 49 (2), 171-180, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15317668312986117048",
+      "cites_id": [
+        "15317668312986117048"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Iriawati.(2011). Peer Assisted Learning (PAL) Program on Plant Morphology and Physiology in Empowering Future Biology Techer-Students-Assistant",
+        "citation": "Proceeding The 5th International Seminar on Science Education \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12219841936928031221",
+      "cites_id": [
+        "12219841936928031221"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flower-visiting insects to Coffea arabica flower at different temperatures and the production of the fruit of arabica coffee",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012046, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6888603963632422909",
+      "cites_id": [
+        "6888603963632422909"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "P5CS   and   HSP   81-2   Gene   Expression   Profile  of  Banana (Musa acuminata) in vitro Culture Under Salt Stress Condition",
+        "pub_year": "2016",
+        "citation": "Journal of Plant Sciences 11 (4), 91-95, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4300950461182846610",
+      "cites_id": [
+        "4300950461182846610"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of Somatic Embryos from Leaf and Stem Nodal Section Explants of Potato (Solanum tuberosum L.)",
+        "pub_year": "2014",
+        "citation": "Journal of Mathematical and Fundamental Sciences 46 (3), 301-312, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6171415512685441888",
+      "cites_id": [
+        "6171415512685441888"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro Plant Regeneration of Java Vetiver (Vetiveria zizanioides)",
+        "pub_year": "2013",
+        "citation": "World Academy of Science, Engineering and Technology, International Journal \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3350481752020493799,13066148620562830915",
+      "cites_id": [
+        "3350481752020493799",
+        "13066148620562830915"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro Plant Regeneration of Java Vetiver (Vetiveria zizanioides)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3350481752020493799",
+      "cites_id": [
+        "3350481752020493799"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extracellular DNA of Fusarium oxysporum f. sp. cubense as a Priming Agent for Inducing the Resistance of Banana Plantlets",
+        "pub_year": "2023",
+        "citation": "Agronomy 13 (2), 441, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:TQgYirikUcIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2093803897367504347",
+      "cites_id": [
+        "2093803897367504347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incidence of Intumescence Injury in Several Tomato Cultivars Under Different Calcium Conditions",
+        "pub_year": "2023",
+        "citation": "The Horticulture Journal 92 (4), 476-484, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9853702438520274376",
+      "cites_id": [
+        "9853702438520274376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of hairy root cultures and analysis of saponin production in Javanese ginseng (Talinum paniculatum Gaertn.)",
+        "pub_year": "2020",
+        "citation": "Acta Hortic. 1285, 193-202, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3714221113891894652",
+      "cites_id": [
+        "3714221113891894652"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Iradiasi Ultraviolet terhadap Multiplikasi Tunas Aksiler dan  Kadar Klorofil Anyelir (Dianthus caryophyllus L.)",
+        "pub_year": "2015",
+        "citation": "Bulletin Plasma Nutfah 21 (1), 39-46, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7653918828341935355",
+      "cites_id": [
+        "7653918828341935355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMBERDAYAAN ASISTEN PRAKTIKUM MORFOLOGI TUMBUHAN UNTUK MELAKSANAKAN PEER ASSISTED LEARNING (PAL) DITINJAU DARI TAKSONOMI BARU MARZANO",
+        "pub_year": "2014",
+        "citation": "Jurnal Pengajaran MIPA 19 (2), 188-198, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=819046920841300186",
+      "cites_id": [
+        "819046920841300186"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Suhu Tinggi terhadap Perkembangan Organ Reproduksi Jantan pada Cabai (Capsicum annum L.) cv. Tanjung-2",
+        "pub_year": "2020",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 25 (1), 19-25, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMBERDAYAAN ASISTEN PRAKTIKUM FISIOLOGI TUMBUHAN DALAM PROGRAM PEER ASSISTED LEARNING (PAL)",
+        "pub_year": "2015",
+        "citation": "Seminar Nasional Sains dan Entrepreneurship II, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Embriologi Tumbuhan",
+        "pub_year": "2014",
+        "citation": "Universitas Terbuka 2 (371.82), 1-39, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro study on production and histochemical localization of essential oils produced in root plantlet of java vetiver (Vetiveria zizanioides)",
+        "pub_year": "2014",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a, 9p, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementasi Taksonomi Baru Marzano Untuk Pemberdayaan Mahasiswa Asisten Praktikum Fisiologi Tumbuhan Dalam Program Peer Assisted Learning (Pal)",
+        "pub_year": "2012",
+        "citation": "Prosiding Seminar Biologi 9 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Expression of Small Heat Shock Protein in Response to Drought Stress during Somatic Embryogenesis Development of Carrot (Daucus carota. L.)",
+        "pub_year": "2007",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a, 1-8, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Study on The Defend Mechanism of Several Tomato Cultivars (Lycopersicon E sculentum Mill.) against Cucumber Mosaic Virus (CMV): Salicylic Acid",
+        "pub_year": "2005",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u30e8\u30fc\u30c9\u30a2\u30bb\u30c8\u30a2\u30df\u30c9\u304c\u30a2\u30ba\u30ad\u30d7\u30ed\u30c8\u30d7\u30e9\u30b9\u30c8\u304a\u3088\u3073\u305d\u306e\u878d\u5408\u4f53\u306e\u5fae\u7d30\u69cb\u9020\u306b\u53ca\u307c\u3059\u5f71\u97ff",
+        "pub_year": "1996",
+        "citation": "\u65e5\u672c\u4f5c\u7269\u5b78\u6703 65 (3), 532-539, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organogenesis in leaf protoplast-derived calli of mungbean [Vigna radiata]",
+        "pub_year": "1994",
+        "citation": "Japanese Journal of Crop Science (Japan), 1994"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tephrosia vogelli Hook. f. \u306e\u96cc\u305a\u3044\u5f62\u6210, \u53d7\u7c89\u304a\u3088\u3073\u82b1\u7c89\u7ba1\u4f38\u9577\u306b\u95a2\u3059\u308b\u7814\u7a76",
+        "pub_year": "1993",
+        "citation": "\u65e5\u672c\u4f5c\u7269\u5b66\u4f1a\u6771\u6d77\u652f\u90e8\u4f1a\u5831, 47-56, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Bunga, Alat Reproduksi, serta Proses Reproduksi Jantan dan Betina pada Tumbuhan Angiospermae",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wJmEQKYAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

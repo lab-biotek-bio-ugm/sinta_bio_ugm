@@ -1,0 +1,2086 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "Te8GQqsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Wawan Gunawan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Te8GQqsAAAAJ&citpid=2",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "decision making",
+    "policy analysis",
+    "strategic planning"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "http://sith.itb.ac.id/",
+  "citedby": 467,
+  "citedby5y": 374,
+  "hindex": 9,
+  "hindex5y": 9,
+  "i10index": 9,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2011": 3,
+    "2012": 5,
+    "2013": 4,
+    "2014": 3,
+    "2015": 8,
+    "2016": 13,
+    "2017": 20,
+    "2018": 23,
+    "2019": 39,
+    "2020": 48,
+    "2021": 62,
+    "2022": 78,
+    "2023": 113,
+    "2024": 34
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ikMSiCkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Zahidah  Hasan",
+      "affiliation": "perikanan dan ilmu kelautan, universitas padjadjaran"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "x3XMBesAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Asep Darmansyah",
+      "affiliation": "Bandung Institute of Technology"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan populasi daphnia spp. Yang diberi pupuk limbah budidaya karamba jaring apung (kja) di waduk Cirata yang telah difermentasi EM4",
+        "pub_year": "2012",
+        "citation": "Jurnal Akuatika 3 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2718662792863876003",
+      "cites_id": [
+        "2718662792863876003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "WebGIS for asset management of land and building of Madiun city government",
+        "pub_year": "2017",
+        "citation": "Procedia Computer Science 124, 437-443, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2936017267359127291",
+      "cites_id": [
+        "2936017267359127291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisa Overall Equipment Effectiveness (OEE) Dalam Mengurangi Six Big Losses Pada Cooling Pump Blower Plant PT. Pabrik Baja Terpadu",
+        "pub_year": "2018",
+        "citation": "Jurnal Intent: Jurnal Industri Dan Teknologi Terpadu 1 (1), 67-78, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:Se3iqnhoufwC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5527707161157026725",
+      "cites_id": [
+        "5527707161157026725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of factors that inhibiting implementation of Information Security Management System (ISMS) based on ISO 27001",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 978 (1), 012039, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12775670082393775838",
+      "cites_id": [
+        "12775670082393775838"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sfenrianto.(2018)",
+        "citation": "E-Learning through social media in the virtual learning environment. IOP \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:70eg2SAEIzsC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12310175197990350288",
+      "cites_id": [
+        "12310175197990350288"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wacana Fiqh Perempuan Dalam Perspektif Muhammadiyah",
+        "pub_year": "2005",
+        "citation": "Yogyakarta: PP Muhammadiyah, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3144574699829977175",
+      "cites_id": [
+        "3144574699829977175"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developing cloud-based Business Process Management (BPM): a survey",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 978 (1), 012035, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10065415388031364813",
+      "cites_id": [
+        "10065415388031364813"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Efisiensi Boiler Terhadap Nilai Kalor Batubara Pada Boiler Jenis Pulverizer Coal Kapasitas 300 T/H",
+        "pub_year": "2020",
+        "citation": "Jurnal Intent: Jurnal Industri Dan Teknologi Terpadu 3 (2), 122-130, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:blknAaTinKkC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7202140946569973009",
+      "cites_id": [
+        "7202140946569973009"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mengembangkan Pendidikan bagi Peserta Didik Cerdas Istimewa&Berbakat Istimewa CIBI",
+        "pub_year": "2013",
+        "citation": "Jakarta: PT Luxima Metro Media, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10619535060485710691",
+      "cites_id": [
+        "10619535060485710691"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemberdayaan Ormas Pemuda Pancasila dalam Upaya Menjaga Kekondusifan dan Ketertiban Masyarakat di Wilayah Kecamatan Cinambo Kota Bandung",
+        "pub_year": "2022",
+        "citation": "Jurnal Abdimas Kartika Wijayakusuma 3 (2), 140-150, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16337873518995884177",
+      "cites_id": [
+        "16337873518995884177"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of palm sap (Neera) quality (Arenga pinnata Merr) in processing of house hold palm sugar (case study on aren farmers in Gunung Halu village, Gunung Halu district \u2026",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 466 (1), 012001, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4528917543353919736",
+      "cites_id": [
+        "4528917543353919736"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dinasti-isme: Demokrasi, Dominasi Elit, dan Pemilu",
+        "pub_year": "2019",
+        "citation": "Academia Praja: Jurnal Ilmu Politik, Pemerintahan, dan Administrasi Publik 2 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4930207082074389101",
+      "cites_id": [
+        "4930207082074389101"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Sistem Aplikasi E-Ticket Pada Museum Nasional Indonesia Berbasis Android",
+        "pub_year": "2019",
+        "citation": "Format J. Ilm. Tek. Inform 8 (1), 26, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:u_35RYKgDlwC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5513136958698128780",
+      "cites_id": [
+        "5513136958698128780"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mengurangi Konsumsi Energi Dengan Audit dan Manajemen Energi pada Ruang Kendali (Studi Kasus di PT PWI)",
+        "pub_year": "2018",
+        "citation": "Journal Industrial Servicess 4 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15936325796717600796",
+      "cites_id": [
+        "15936325796717600796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROXY WAR DAN KEAMANAN NASIONAL INDONESIA: VICTORIA CONCORDIA CRESCIT PROXY WAR AND INDONESIA\u00e2\u20ac\u2122 S NATIONAL SECURITY: VICTORY GROWS THROUGH HARMONY",
+        "pub_year": "2017",
+        "citation": "Jurnal Pertahanan dan Bela Negara 7 (1), 1-20, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8124129282811918209",
+      "cites_id": [
+        "8124129282811918209"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fikih Kebinekaan, Pandangan Islam Indonesia tentang Umat, Kewargaan, dan Kepemimpinan Non Muslim",
+        "pub_year": "2015",
+        "citation": "Jakarta: Maarif Institut dan Mizan, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:J-pR_7NvFogC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8207118381383988639",
+      "cites_id": [
+        "8207118381383988639"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of vegetation structure and composition toward restoration efforts of Gunung Gede Pangrango National Park forest area",
+        "pub_year": "2011",
+        "citation": "Journal of Natural Resources and Environmental Management 2 (1), 93-105, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:D03iK_w7-QYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8242281627569993927",
+      "cites_id": [
+        "8242281627569993927"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Noorcahyati.(2007). Potensi dan hambatan pengelolaan kawasan hutan dengan tujuan khusus (KHDTK) penelitian Samboja",
+        "citation": "Prosiding Seminar Bersama Hasil-hasil Penelitian 3, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11913774191868695096",
+      "cites_id": [
+        "11913774191868695096"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anomali Kewenangan Dewan Pimpinan Pusat Partai Politik dalam Sistem Desentralisasi Pemerintahan di Indonesia",
+        "pub_year": "2018",
+        "citation": "Academia Praja: Jurnal Ilmu Politik, Pemerintahan, dan Administrasi Publik 1 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:r0BpntZqJG4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6677618702950230735",
+      "cites_id": [
+        "6677618702950230735"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tip Trik Menulis Artikel, 6 Langkah Menjadi Penulis",
+        "pub_year": "2008",
+        "citation": "Bandung: Harmax Publishing, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:dhFuZR0502QC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15912479340737735043",
+      "cites_id": [
+        "15912479340737735043"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geology of the Kotaagung Quadrangle, Sumatera",
+        "pub_year": "1994",
+        "citation": "Geological Research and Development Centre, Indonesia, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875797914892210813",
+      "cites_id": [
+        "7875797914892210813"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peta Geologi Lembar Menggala, Sumatra 1: 250,000",
+        "pub_year": "1993",
+        "citation": "Pusat Penelitian dan Pengembangan Geologi, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:HDshCWvjkbEC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1703551292346971561,8777034087203370608",
+      "cites_id": [
+        "1703551292346971561",
+        "8777034087203370608"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laporan inventarisasi gas rumah kaca (GRK) dan monitoring, pelaporan, verifikasi (MPV) tahun 2019",
+        "pub_year": "2020",
+        "citation": "Jakarta: Kementerian Lingkungan Hidup dan Kehutanan, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11045487155992457276",
+      "cites_id": [
+        "11045487155992457276"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan kpiting bakau Scylla serrata pada budidaya dengan kepadatan dan jenis yang berbeda",
+        "pub_year": "2000",
+        "citation": "Ilmu Kelautan 17, 62-65, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=907508914504487580",
+      "cites_id": [
+        "907508914504487580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesia Second Biennial Update Report Under the United Nations Framework Convention on Climate Change",
+        "pub_year": "2018",
+        "citation": "Indonesia, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:p2g8aNsByqUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8456412674171425432",
+      "cites_id": [
+        "8456412674171425432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Statistik pendidikan tinggi tahun 2018= higher educational statistical year book 2018",
+        "pub_year": "2018",
+        "citation": "Pusat Data dan Informasi Iptek Dikti, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:rO6llkc54NcC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10198475228205978475",
+      "cites_id": [
+        "10198475228205978475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEK PEMBERIAN EKSTRAK ETANOL 70% Tanaman Suruhan (Peperomia Pellucida (L). Hbk) Terhadap Kadar Asam Urat Darah Tikus Spragua Dawley Spragua Dawleyyang Diinduksi Kalium Oksonat",
+        "pub_year": "2017",
+        "citation": "Fitofarmaka: Jurnal Ilmiah Farmasi 7 (2), 7-14, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=620153015316925258",
+      "cites_id": [
+        "620153015316925258"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konstruktivisme Berbasis Karakter Materi pada Pembelajaran Bahasa Indonesia",
+        "pub_year": "2012",
+        "citation": "Pena: Jurnal Pendidikan Bahasa dan Sastra 2 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17012975704213376334",
+      "cites_id": [
+        "17012975704213376334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis struktur vegetasi dan komposisi vegetasi terhadap upaya restorasi hutan Taman Nasional Gunung Gede Pangrango",
+        "pub_year": "2011",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan 1 (2), 93-105, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:SP6oXDckpogC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17860912228104344173",
+      "cites_id": [
+        "17860912228104344173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geological map of the Kotaagung quadrangle",
+        "pub_year": "1993",
+        "citation": "Geological Agency, Ministry of Mine and Energy, Sumatera, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:geHnlv5EZngC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11257297604902734452",
+      "cites_id": [
+        "11257297604902734452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategy for increasing lowland rice productivity in West Java Province with the SWOT-AHP model approach",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012058, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14567006334920065480",
+      "cites_id": [
+        "14567006334920065480"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellulose acetate layer effect toward aluminium corrosion rate in hydrochloric acid media",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Materials Science and Engineering 237 (1), 012042, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:4DMP91E08xMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11821189305218733100",
+      "cites_id": [
+        "11821189305218733100"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use of Absorptive Capacity in Improving the New Product Development (NPD",
+        "pub_year": "2017",
+        "citation": "Journal of Physics: Conference Series 801 (1), 012092, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:roLk4NBRz8UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4937395475907931667",
+      "cites_id": [
+        "4937395475907931667"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of population and growth of Daphnia sp. in floating cages culture at cirata reservoirs with waste fertilizers fermented EM4",
+        "pub_year": "2012",
+        "citation": "Journal of Aquatic Indonesia 3 (1), 84-94, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14744631262569055368",
+      "cites_id": [
+        "14744631262569055368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kondisi sosial ekonomi masyarakat di sekitar hutan mangrove Taman Nasional Kutai, Kalimantan Timur",
+        "pub_year": "2012",
+        "citation": "Prosiding: Seminar hasil-hasil penelitian BPTKSDA Samboja, Balai Penelitian \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7763697860397475031",
+      "cites_id": [
+        "7763697860397475031"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Policy in compromising ecological and social aspects for establishing Halimun-Salak corridor",
+        "pub_year": "2007",
+        "citation": "SEAMEO-BIOTROP-Bogor Agricultural University, Bogor, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:BqipwSGYUEgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14164897008041164821",
+      "cites_id": [
+        "14164897008041164821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geological map of the Kotaagung quadrangle, Sumatera",
+        "pub_year": "1993",
+        "citation": "Bandung, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:f2IySw72cVMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7840565612315046694",
+      "cites_id": [
+        "7840565612315046694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laporan Geologi Lembar Nias, Sumatera",
+        "pub_year": "1991",
+        "citation": "Bandung: Geological Research and Development Center, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:hMod-77fHWUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7254170936459734757",
+      "cites_id": [
+        "7254170936459734757"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konsep Arsitektur Surya Pasif pada Bangunan Masjid Raja Haji Fisabilillah di Malaysia",
+        "pub_year": "2021",
+        "citation": "Jurnal Linears 4 (1), 43-49, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13351187605747498538",
+      "cites_id": [
+        "13351187605747498538"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efisiensi penyerbukan oleh penyerbuk liar dan lebah Tetragonula laeviceps pada bunga ranti dan kacang panjang",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Agronomy 48 (3), 283-291, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:qUcmZB5y_30C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3698194121420135237",
+      "cites_id": [
+        "3698194121420135237"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of changes in water quality used for supporting fish productivity of floating cage/KJA (Keramba Jaring Apung) in Cirata Reservoir",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 306 (1), 012014, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504135736717578717",
+      "cites_id": [
+        "4504135736717578717"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Ammonium-Selective Electrode Based on PVC/MB28 Membrane",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 453 (1), 012042, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:aqlVkmm33-oC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=537151785273584942",
+      "cites_id": [
+        "537151785273584942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessing ERP SAP implementation in the small and medium enterprises (SMEs) in Indonesia",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 978 (1), 012013, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:8k81kl-MbHgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12591898652577460146",
+      "cites_id": [
+        "12591898652577460146"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessing Leading ERP-SAP Implementation in Leading Firms in Indonesia",
+        "pub_year": "2017",
+        "citation": "Journal of Physics: Conference Series 801 (1), 012032, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18424219869256147042",
+      "cites_id": [
+        "18424219869256147042"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioprospeksi: Upaya Pemanfaatan Tumbuhan Obat Secara Berkelanjutan Di Kawasan Konservasi",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8987578927087329548",
+      "cites_id": [
+        "8987578927087329548"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi untuk perbaikan manajemen perkebunan teh rakyat: studi kasus di kecamatan pasirjambu dan ciwidey, kabupaten bandung",
+        "pub_year": "2014",
+        "citation": "Jurnal Matematika dan Sains 19 (2), 33-49, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16521837240802772069",
+      "cites_id": [
+        "16521837240802772069"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A., Prasetyo, LB, Soedjito, H. 2011. Analisis Komposisi dan Struktur Vegetasi Terhadap Upaya Restorasi Kawasan Hutan Taman Nasional Gunung Gede Pangrango",
+        "citation": "JSPL 1 (2), 93-105, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9970438489056002882",
+      "cites_id": [
+        "9970438489056002882"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemasangan Lampu Jalan Berbasis Tenaga Surya Untuk Penerangan Jalan Desa Di Desa Cibolang Kaler",
+        "pub_year": "2021",
+        "citation": "Jurnal Pengabdian Kepada Masyarakat Abdi Putra 1 (2), 50-55, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:35N4QoGY0k4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6137465852705571162",
+      "cites_id": [
+        "6137465852705571162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Usulan Rencana Perbaikan Kualitas Produk Komponen Vamp Dengan Pendekatan Metode Gemba Kaizen (5W+ 2H) Di PT. Masterina Grafika Esprinta",
+        "pub_year": "2020",
+        "citation": "Journal of Industrial Engineering & Management Research 1 (2), 173-183, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6448068587717800053",
+      "cites_id": [
+        "6448068587717800053"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "USULAN PERBAIKAN KINERJA PROSES PRODUKSI HOT METAL TREATMENT PLANT DENGAN MENGGUNAKAN METODE KESEIMBANGAN LINTASAN (LINE BALANCING) DI PT. KS CILEGON",
+        "pub_year": "2019",
+        "citation": "Jurnal Intent: Jurnal Industri dan Teknologi Terpadu 2 (2), 141-154, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15245714314836547329",
+      "cites_id": [
+        "15245714314836547329"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efisiensi Pemasaran Ikan Kakap Merah (Lutjanus argentimaculatus) di Wilayah Kerja TPI Karangsong, Kabupaten Indramayu",
+        "pub_year": "2019",
+        "citation": "Gema Wiralodra 10 (2), 308-320, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:-f6ydRqryjwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10832456755176025720",
+      "cites_id": [
+        "10832456755176025720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kondisi dan potensi wilayah pesisir Kabupaten Bantul sebagai sentra budidaya tambak udang berkelanjutan di pantai selatan Indonesia",
+        "pub_year": "2017",
+        "citation": "Agricore: Jurnal Agribisnis dan Sosial Ekonomi Pertanian Unpad 2 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15597948596430329703",
+      "cites_id": [
+        "15597948596430329703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembelajaran Menulis Paragraf melalui Analisis Komprehensi Ide",
+        "pub_year": "2011",
+        "citation": "Pena: Jurnal Pendidikan Bahasa dan Sastra 1 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12139688705555260415",
+      "cites_id": [
+        "12139688705555260415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rumah uluan orang Besemah",
+        "pub_year": "2009",
+        "citation": "Indra Prahasta bersama Pusat Kajian LBPB, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11292561338378808914",
+      "cites_id": [
+        "11292561338378808914"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi bahaya dan penetapan titik kendali kritis pada pembuatan makanan jajanan yang dijual dikawasan wisata Baturaden Purwokerto",
+        "pub_year": "2007",
+        "citation": "Jurnal Pembangunan Pedesaan 7 (3), 156, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18082529088487358058",
+      "cites_id": [
+        "18082529088487358058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh berbagai pupuk pelengkap cair terhadap pertumbuhan, komponen hasil dan hasil kedelai.",
+        "pub_year": "1991",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:sSrBHYA8nusC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15668349047264664128",
+      "cites_id": [
+        "15668349047264664128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRAKTIKUM TRANSFORMATOR",
+        "pub_year": "2022",
+        "citation": "Unpampress, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:Y5dfb0dijaUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11573510145194598018",
+      "cites_id": [
+        "11573510145194598018"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamics of Competitiveness and Efficiency of Rice Farming in Java Island, Indonesia",
+        "pub_year": "2022",
+        "citation": "3BIO: J. Biol. Sci. Technol. Manag. 4, 105-119, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:5ugPr518TE4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10627950794225034058",
+      "cites_id": [
+        "10627950794225034058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Tipologi Pola Ruang Hunian Vertikal di Jakarta",
+        "pub_year": "2021",
+        "citation": "Border: Jurnal Arsitektur 3 (1), 31-46, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3769830247664521403",
+      "cites_id": [
+        "3769830247664521403"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation of Vegetables and Fish Using the Aquaponics Sistem (Dft Model) in Cv Tmr",
+        "pub_year": "2021",
+        "citation": "ABDIKARYA: Jurnal Pengabdian Dan Pemberdayaan Masyarakat 3 (1), 95-102, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:k_IJM867U9cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3251559198250040739",
+      "cites_id": [
+        "3251559198250040739"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MERANCANG TATA LETAK MIKRO (MICRO LAYOUT) DENGAN PENDEKATAN LEAN MANUFACTURING",
+        "pub_year": "2018",
+        "citation": "Jurnal Intent: Jurnal Industri dan Teknologi Terpadu 1 (1), 1-12, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=339318102913740709",
+      "cites_id": [
+        "339318102913740709"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natural regeneration of mangrove seedlings in degraded area of Kutai National Park",
+        "pub_year": "2016",
+        "citation": "Jurnal Penelitian Kehutanan Wallacea 5 (2), 113-122, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:UxriW0iASnsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14538104660057384548",
+      "cites_id": [
+        "14538104660057384548"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Kadar Air Agregat Terhadap Kuat Tekan Beton",
+        "pub_year": "2011",
+        "citation": "JURNAL TEKNIK 1 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10200263948365879400",
+      "cites_id": [
+        "10200263948365879400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of composition and structure of vegetation on restoration efforts of the Gunung Gede Pangrango National Park forest area",
+        "pub_year": "2011",
+        "citation": "Journal of Natural Resources and Environmental Management 1 (2), 93, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:KxtntwgDAa4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4667505897367244556",
+      "cites_id": [
+        "4667505897367244556"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Kerja Sama Antar Pusat Dan Daerah Dalam Pemberdayaan Masyarakat Kawasan Timur Indonesia (KTI)",
+        "pub_year": "2004",
+        "citation": "Sosiohumaniora 6 (1), 36, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9787121709311137115",
+      "cites_id": [
+        "9787121709311137115"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tes Kompetensi Bersastra Dalam Evaluasi Pembelajaran Bahasa Arab",
+        "pub_year": "2023",
+        "citation": "Shibghoh: Prosiding Ilmu Kependidikan UNIDA Gontor 1, 307-316, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8435484162330370561",
+      "cites_id": [
+        "8435484162330370561"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Geophysics evidence for fault in Tertiary, Pre-Tertiary deposits rock of Lok Ulo central Java, revealed by Gravity data",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1949 (1), 012008, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:dshw04ExmUIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6286369966631796410",
+      "cites_id": [
+        "6286369966631796410"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS PENERAPAN TOTAL PRODUCTIVE MAINTENANCE MENGGUNAKAN DISTRIBUSI WEIBULL PADA MESIN ROLLING MILL",
+        "pub_year": "2020",
+        "citation": "Jurnal Intent: Jurnal Industri Dan Teknologi Terpadu 3 (1), 42-51, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14450702868656308901",
+      "cites_id": [
+        "14450702868656308901"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "peningkatan kapasitas SDM di desa nanjung kecamatan margaasih kabupaten bandung dalam perspektif era 4.0",
+        "pub_year": "2020",
+        "citation": "Jurnal Abdimas Kartika Wijayakusuma 1 (2), 104-117, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:lSLTfruPkqcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1039972771231736513",
+      "cites_id": [
+        "1039972771231736513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Condition in Intuitionistic Fuzzy C-Means Clustering for Segmentation of Teeth in Dental Panoramic Radiographs",
+        "pub_year": "2019",
+        "citation": "IJCCS (Indonesian Journal of Computing and Cybernetics Systems) 13 (4), 369-378, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:TQgYirikUcIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3496486039560770304",
+      "cites_id": [
+        "3496486039560770304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancangan Fasilitas Kerja untuk Mengurangi Kelelahan Otot Pada Proses Produksi di Stockfit Line 2 Pada PT. Pratama Abadi Industri",
+        "pub_year": "2016",
+        "citation": "Journal Industrial Servicess 1 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:UebtZRa9Y70C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5608456155375541375",
+      "cites_id": [
+        "5608456155375541375"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainable Fish Cage Aquaculture in Cirata Reservoir West Java, Indonesia: A System Dynamics Approach",
+        "pub_year": "2011",
+        "citation": "Prabandhan: Indian journal of management 4 (6), 3-12, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5493268124475854787",
+      "cites_id": [
+        "5493268124475854787"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of fertilizer and manure on soybean growth, yield components and yield in upland areas of Garut",
+        "pub_year": "1989",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9758041327982021950",
+      "cites_id": [
+        "9758041327982021950"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "analisis panic buying prespektif hukum islam",
+        "pub_year": "2024",
+        "citation": "Al-Hanan: Jurnal Ilmiah Hukum Ekonomi Syariah 4 (4), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementasi Akah Mukhabarah pada Penggarapan Sawah di Desa Naringgul Kecamatan Naringgul Kabupaten Cianjur",
+        "pub_year": "2024",
+        "citation": "Al-Hanan: Jurnal Ilmiah Hukum Ekonomi Syariah 4 (4), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "tinjauan hukum islam terhadap jual beli kulit hewan kurban: studi kasus di kp. nyalindung rt 003/rw 009 desa cileunyi wetan, kecamatan cileunyi, kabupaten bandung, jawa barat",
+        "pub_year": "2024",
+        "citation": "Al-Hanan: Jurnal Ilmiah Hukum Ekonomi Syariah 4 (4), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of Very Virulent Infectious Bursal Disease (IBD) in Chicken in West Java",
+        "pub_year": "2024",
+        "citation": "Jurnal Medika Veterinaria 18 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:bnK-pcrLprsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENATAAN INSTALASI LISTRIK RUMAH TAHFIDZ QURAN AN-NUR CIREBON JAWA BARAT",
+        "pub_year": "2024",
+        "citation": "SWADIMAS: JURNAL PENGABDIAN KEPADA MASYARAKAT 2 (1), 1-7, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERANAN TEKNOLOGI INFORMASI DAN KOMUNIKASI DALAM PELAYANAN PUBLIK DESA DI ERA DIGITAL 4. O (Studi Kasus Pemerintah Desa Ciburial Kecamatan Cimenyan Kabupaten Bandung)",
+        "pub_year": "2023",
+        "citation": "Academia Praja: Jurnal Ilmu Politik, Pemerintahan, dan Administrasi Publik 6 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan metode Tarkibiyah dalam meningkatkan keterampilan membaca dan menulis siswa: Penelitian quasi eksperimen pada siswa SMP Pesantren Al-Hikmah 2 Cirebon",
+        "pub_year": "2023",
+        "citation": "UIN Sunan Gunung Djati Bandung, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Pujian Narasumber Wanita Pada Podcast Youtube Vindes",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmiah Wahana Pendidikan 9 (15), 562-569, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tinjauan Hukum Islam Terhadap Pelunasan Utang Negara",
+        "pub_year": "2023",
+        "citation": "Al-Hanan: Jurnal Ilmiah Hukum Ekonomi Syariah 2 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENENTUAN HARGA POKOK DAN SKALA MINIMUM PRODUKSI COMRING DI DESA DAYEUHLUHUR KECAMATAN JATINAGARA KABUPATEN CIAMIS",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmiah Mahasiswa AGROINFO GALUH 10 (2), 1183-1195, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementation of Hadith Learning in Fostering the Diversity of Students at SMP IT Raudhatul Ulum Sakatiga Palembang",
+        "pub_year": "2023",
+        "citation": "AS-SABIQUN 5 (2), 363-378, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use of Poster Media to Improve Students' Arabic Speaking Skills at SMP Al-Hikmah 2 Cirebon",
+        "pub_year": "2023",
+        "citation": "AS-SABIQUN 5 (2), 403-416, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEPEMIMPINAN KHARISMATIK KIAI DALAM IMPLEMENTASI NILAI-NILAI PENDIDIKAN PESANTREN DI ERA REVOLUSI INDUSTRI 4.0 PADA PONDOK PESANTREN YASFI KAMPUNG SAWAH KECAMATAN PONDOK MELATI \u2026",
+        "pub_year": "2023",
+        "citation": "Universitas Islam\" 45\" Bekasi, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertanggungjawaban Pidana Pelaku Pencurian dengan Pemberatan dengan Ancaman Senjata Api Ditinjau dari Pasal 363 Ayat (1) Ke-4 dan Ke-5 KUHP JO Pasal 1 Ayat (1) Undang-Undang \u2026",
+        "pub_year": "2023",
+        "citation": "Universitas Pamulang, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:olpn-zPbct0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementasi Metode Regresi Nonparametrik Spline untuk Menganalisis Keuntungan Produksi Batu-Bata",
+        "pub_year": "2022",
+        "citation": "JURNAL ILMIAH MATEMATIKA DAN TERAPAN 19 (2), 215-226, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of ginger supply chains in rural communities as a form of farming sustainability (study case in Cianjur district)",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1089 (1), 012071, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:5awf1xo2G04C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STATUS KEBERLANJUTAN BUDIDAYA SAYURAN HIDROPONIK DI KOTA PADANG SUMATERA BARAT SUSTAINABILITY STATUS OF HYDROPONIC VEGETABLE CULTIVATION IN PADANG CITY, WEST SUMATRA",
+        "pub_year": "2022",
+        "citation": "Jurnal Pemikiran Masyarakat Ilmiah Berwawasan Agribisnis 8 (2), 866-884, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENERAPAN KONSEP ARSITEKTUR SURYA PASIF PADA BANGUNAN PERIBADATAN MASJID SALMAN ITB",
+        "pub_year": "2021",
+        "citation": "PURWARUPA Jurnal Arsitektur 5 (2), 55-62, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Testing Transformers of one Phase Flows With Inductive Variation Loads",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1772 (1), 012002, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:_B80troHkn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pencitraan Retakan Mikro Pada Sel Surya Silikon Dengan SEM (Scanning Electron Microscopy)",
+        "pub_year": "2020",
+        "citation": "Universitas Kristen Indonesia, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH FAKTOR-FAKTOR PERILAKU INDIVIDUAL TERHADAP PERILAKU ETIS KARYAWAN DI PT. MULTI KARYA CITRA MANDIRI KABUPATEN BOJONEGORO",
+        "pub_year": "2019",
+        "citation": "MAP (Jurnal Manajemen dan Administrasi Publik) 2 (02), 250-265, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISTIK VEGETASI HABITAT ORANGUTAN (Pongo pygmaeus morio) DI PT. KALTIM PRIMA COAL, KALIMANTAN TIMUR",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Linear Programming Approach to Integrated Farming System of Black Sugar (Arenga pinnata) in West Bandung District, West Jawa, Indonesia",
+        "pub_year": "2018",
+        "citation": "RESEARCH JOURNAL OF PHARMACEUTICAL BIOLOGICAL AND CHEMICAL SCIENCES 9 (6 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS WACANA BERITA SURAT KABAR RIAU POS TENTANG PENAMBANGAN EMAS TANPA IZIN DI KABUPATEN KUANTAN SINGINGI",
+        "pub_year": "2018",
+        "citation": "Universitas Islam Negeri Sultan Syarif Kasim Riau, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Region Merging Berdasarkan Pengukuran Fuzzy Similarity pada Segmentasi Citra",
+        "pub_year": "2017",
+        "citation": "Institut Teknologi Sepuluh Nopember, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "policy of eutrofication control in cirata reservoir,  west java,  indonesia",
+        "pub_year": "2017",
+        "citation": "the research journal of chemistry and environment 21 (no 3), 11-16, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Senarai kisah pelaporan data pendidikan tinggi",
+        "pub_year": "2017",
+        "citation": "Pusat Data dan Informasi Iptek Dikti, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONJUNGSI ANTARKLAUSA BAHASA MELAYU JAMBI DI DESA SUNGAI GELAM KECAMATAN SUNGAI GELAM KABUPATEN MUARO JAMBI",
+        "pub_year": "2016",
+        "citation": "Pena: Jurnal Pendidikan Bahasa dan Sastra 6 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Puspawarna pendidikan tinggi Indonesia",
+        "pub_year": "2016",
+        "citation": "Pusat Data dan Informasi Iptek Dikti, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Statistik perguruan tinggi 2014/2015= higher education statistical year book 2014/2015",
+        "pub_year": "2016",
+        "citation": "Pusat Data dan Informasi Iptek Dikti, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROPORSI SLUDGE DAN KOTORAN KAMBING SERTA KONSENTRASI EM4 PADA PEMBUATAN PUPUK ORGANIK",
+        "pub_year": "2016",
+        "citation": "Fakultas Pertanian 4 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancangan sistem Erp Sebagai Pengendali Inventory Dan Pengurangan Waste Pada PT Victory Indo Fashion",
+        "pub_year": "2014",
+        "citation": "Universitas Mercu Buana, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS BUTIR SOAL LATIHAN BUKU PAKET TA\u00e2\u20ac\u2122 LIM AL LUGHAH AL ARABIYAH KARANGAN Dr. D HIDAYAT KELAS X MADRASAH ALIYAH NEGERI 01 KOTA MAGELANG TAHUN 2013",
+        "pub_year": "2014",
+        "citation": "Lisanul Arab: Journal of Arabic Learning and Teaching 3 (1), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tipiba Sebagai Metode Pembelajaran Membaca Permulaan",
+        "pub_year": "2012",
+        "citation": "Pena: Jurnal Pendidikan Bahasa dan Sastra 1 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:PELIpwtuRlgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tinjauan arus kas masuk pada Perusahaan Daerah Air Minum Kabupaten Sukabumi",
+        "pub_year": "2011",
+        "citation": "Universitas Komputer Indonesia, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Village Tourism As a Key to Meet the Challenge of Sustaining Tourism in Goa",
+        "pub_year": "2011",
+        "citation": "Indian Journal of Management, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:WqliGbK-hY8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Bagi Hasil Mudharabah Dan Musyarakah Terhadap Profit Profitabilitas Pada PT Bank Muamalat Indonesia Tbk",
+        "pub_year": "2011",
+        "citation": "Universitas Mercu Buana, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERBEDAAN KADAR ALBUMIN PADA PASIEN KANKER SERVIKS DALAM BERBAGAI STADIUM (Studi Observasional di RSUP dr. Kariadi Semarang)",
+        "pub_year": "2010",
+        "citation": "Faculty of Medicine, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknologi BioCycloAquaculture (BCA) dalam Pemanfaatan Limbah Karamba Jaring Apung (KJA) yang Ramah Lingkungan",
+        "pub_year": "2009",
+        "citation": "Bionatura 11 (No. 3 (2009)), 264-275, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KAJIAN EMPIRIS TENTANG PERANCANAAN PENDIDIKAN DISEKOLAH TINGGI PENERBANGAN INDONESIA CURUG",
+        "pub_year": "2009",
+        "citation": "Langit Biru: Jurnal Ilmiah Aviasi 2 (4), 1-6, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SPIRITUALISASI KURIKULUM PENDIDIKAN AGAMA ISLAM: EVALUASI TERHADAP IMPLEMENTASI KURIKULUM ISMUBA DI SMP MUHAMMADIYAH HAURGEULIS",
+        "pub_year": "2007",
+        "citation": "UNIVERSITAS MUHAMMADIYAH YOGYAKARTA, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Masalah Keragaman Hayati Indonesia",
+        "pub_year": "2007",
+        "citation": "IPB (Bogor Agricultural University), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi peningkatan efisiensi dan pendapatan PT PLN (Persero) APJ Magelang",
+        "pub_year": "2005",
+        "citation": "Universitas Gadjah Mada, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization and prospect of Arenga palm as an agribusiness opportunity in forestry and estate crop sector",
+        "pub_year": "2002",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemilihan jenis kelamin anak ditinjau dari ked, dan Islam",
+        "pub_year": "1998",
+        "citation": "Universitas YARSI, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sikap masyarakat Desa Mudung Laut, Kecamatan Pelayangan, Kotamadya Jambi terhadap pelaksanaan program wajib belajar sembilan tahun: laporan penelitian",
+        "pub_year": "1995",
+        "citation": "Fakultas Keguruan dan Ilmu Pendidikan,[Universitas Jambi], 1995"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of foliar fertilizers on growth, yield and yield component of soybean.",
+        "pub_year": "1991",
+        "citation": "Seminar Hasil Penelitian Tanaman Pangan. Balittan Bogor (Indonesia). 21-22 \u2026, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultural management for increasing producton of legumes.",
+        "pub_year": "1981",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh pemupukan dan cara pemberian pupuk terhadap pertumbuhan dan produksi beberapa varietas kedelai.",
+        "pub_year": "1977",
+        "citation": "Seri Agronomi (Indonesia). Kacang-kacangan. no. 3., 1977"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "[Effects of fertilization and its application method on the growth and production of some varieties of soybean].[Indonesian]",
+        "pub_year": "1977",
+        "citation": "Seri Agronomi (Indonesia). Kacang-kacangan. no. 3., 1977"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of fertilization and its application method on the growth and production of some varieties of soybean",
+        "pub_year": "1977",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:eflP2zaiRacC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh mulching (tutup jerami) terhadap kedele yang ditanam setelah pertanaman padi sawah.",
+        "pub_year": "1977",
+        "citation": "Seri Agronomi (Indonesia). Kacang-kacangan. no. 3., 1977"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:D_sINldO8mEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "[Effect of mulching on the production of soybean planted in rice field after harvesting time of rice].[Indonesian]",
+        "pub_year": "1977",
+        "citation": "Seri Agronomi (Indonesia). Kacang-kacangan. no. 3., 1977"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "[Effect of soil cultivation and plant population on the production of soybean].[Indonesian]",
+        "pub_year": "1977",
+        "citation": "Seri Agronomi (Indonesia). Kacang-kacangan. no. 3., 1977"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Budidaya dalam peningkatan produksi kacang kacangan.",
+        "pub_year": "1977",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh antara pengolahan tanah dan populasi tanaman terhadap produksi kedele.",
+        "pub_year": "1977",
+        "citation": "Seri Agronomi (Indonesia). Kacang-kacangan. no. 3., 1977"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:LPZeul_q3PIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of mulching on the production of soybean planted in rice field after harvesting time of rice",
+        "pub_year": "1977",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomic research to increase bean production",
+        "pub_year": "1977",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indeks Penulis",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:HE397vMXCloC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Value Chain and Business Development Strategy of MOCAF Cap Kujang in Sumedang Regency",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelaksanaan Pelayanan Prima Pada PT Indriya Life Art Jakarta",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KOMUNIKASI PEMBELAJARAN GURU KEPADA MURID DALAM MEWUJUDKAN SEKOLAH RESPONSIF GENDER PADA SMA NEGERI 4 KOTA PEKANBARU",
+        "citation": "Jurnal Online Mahasiswa (JOM) Bidang Ilmu Sosial dan Ilmu Politik 6 (2), 1-15, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:08ZZubdj9fEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis biaya pembalakan ilegal di areal hutan konservasi (Studi kasus kelompok pembalak di Taman Nasional Ujung Kulon, Sub wilayah konservasi Cibayoni, Kabupaten Pandeglang \u2026",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Model of policy on the restoration of conservation forest area",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Pengelolaan Koridor antata Kawasan Hutan Taman Nasional Gunung Halimun dengan Kawasan Hutan Lindung Gunung Salak Berdasarkan Kondisi Masyarakat Sekitar",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mahalanobis Fuzzy C-Means Clustering with Spatial Information for Image Segmentation",
+        "citation": "IJCCS (Indonesian Journal of Computing and Cybernetics Systems) 17 (2), 139-150, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sifat fisis mekanis papan partikel dari bulu domba, serbuk gergaji kayu sengon (Paraserianthes falcataria) dan plastik polyprophylene",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:u9iWguZQMMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Penghitungan Nilai Akurasi dan Ketidakpastian Data Perubahan Penutupan Lahan dalam Kerangka Program BioCF-ISFL, Provinsi Jambi",
+        "citation": "Kementerian Lingkungan Hidup dan Kehutanan, Direktorat Jenderal Pengendalian \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROXY WAR DAN KEAMANAN NASIONAL INDONESIA: VICTORIA CONCORDIA CRESCIT PROXY WAR AND INDONESIA\u2019S NATIONAL SECURITY: VICTORY GROWS THROUGH HARMONY",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "e/rhh\u00bf-co i",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH LINGKUNGAN KERJA DAN KOMITMEN TERHADAP KINERJA DOSEN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS BIAYA PEMBALAKAN ILEGAL\\DI AREAL HUTAN KONSERVASI?",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Te8GQqsAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

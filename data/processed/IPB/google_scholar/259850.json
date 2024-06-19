@@ -1,0 +1,818 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "i0oEhw4AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Muhamad Yulianto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=i0oEhw4AAAAJ&citpid=5",
+  "affiliation": "Lecturer at Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Drying",
+    "Refrigeration",
+    "Power Cycle",
+    "Catia",
+    "Fluent"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 162,
+  "citedby5y": 128,
+  "hindex": 6,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2012": 1,
+    "2013": 2,
+    "2014": 2,
+    "2015": 1,
+    "2016": 7,
+    "2017": 7,
+    "2018": 12,
+    "2019": 11,
+    "2020": 17,
+    "2021": 14,
+    "2022": 30,
+    "2023": 47,
+    "2024": 9
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Temperature distribution of the plastics Pyrolysis process to produce fuel at 450oC",
+        "pub_year": "2015",
+        "citation": "Procedia Environmental Sciences 28, 234-241, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:ufrVoPGSRksC",
+      "num_citations": 68,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2636391614207540102",
+      "cites_id": [
+        "2636391614207540102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal efficiency analysis of Organic Rankine Cycle (ORC) System from low-grade heat resources using various working fluids based on simulation",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012047, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:TQgYirikUcIC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18091418633844722470",
+      "cites_id": [
+        "18091418633844722470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental study of thermoacoustic cooling with parallel-plate stack in different distances",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 539 (1), 012037, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14109093556479234189",
+      "cites_id": [
+        "14109093556479234189"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance assessment of an R32 commercial heat pump water heater in different climates",
+        "pub_year": "2022",
+        "citation": "Sustainable Energy Technologies and Assessments 49, 101679, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:TFP_iSt0sucC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16598935948113345791",
+      "cites_id": [
+        "16598935948113345791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The performance of solar collector CPC (compound parabolic concentrator) type with three pipes covered by glass tubes",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1826 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:5nxA0vEk-isC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=95984552884451913",
+      "cites_id": [
+        "95984552884451913"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a compact vacuum freeze drying for jelly fish (schypomedusae)",
+        "pub_year": "2012",
+        "citation": "Jurnal Teknologi (Sciences & Engineering) 58, 25-32, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6340266797967288920",
+      "cites_id": [
+        "6340266797967288920"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of temperature characterization of agricultural waste in the development of stove for combine heat power",
+        "pub_year": "2017",
+        "citation": "AIP conference proceedings 1826 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:8k81kl-MbHgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17760276604184620357",
+      "cites_id": [
+        "17760276604184620357"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Vacuum Freeze Drying with Utilization of Internal Cooling and Condenser Waste Heat for Sublimation",
+        "pub_year": "2013",
+        "citation": "Makara Journal of Technology 17 (2), 51-58, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14677874214474585705",
+      "cites_id": [
+        "14677874214474585705"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Tinggi Tumpukan dan Proses Tempering Terhadap Mutu Gabah yang Dikeringkan dengan Fluidized Bed Dryer",
+        "pub_year": "2023",
+        "citation": "Warta Industri Hasil Pertanian 39 (2), 95-103, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:hMod-77fHWUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17461521479875555457",
+      "cites_id": [
+        "17461521479875555457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cycle tempo power simulation of the variations in heat source temperatures for an organic rankine cycle power plant using R-134A working fluid",
+        "pub_year": "2019",
+        "citation": "International Journal of Technology 10 (5), 979-987, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:qUcmZB5y_30C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4096385432657549911",
+      "cites_id": [
+        "4096385432657549911"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemilihan fluida kerja pada pengembangan Organic Rankine Cycle",
+        "pub_year": "2013",
+        "citation": "PROSIDING LPPM UIKA BOGOR, 141-150, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10772532405364890831",
+      "cites_id": [
+        "10772532405364890831"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cycle-Tempo Simulation of Ultra-Micro Gas Turbine Fueled by Producer Gas Resulting from Leaf Waste Gasification",
+        "pub_year": "2021",
+        "citation": "\u041f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u043c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f 24 (3), 14-20, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353304713914685536",
+      "cites_id": [
+        "2353304713914685536"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation on vapour compression heat pump system for rough rice drying",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012042, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10387592895603379867",
+      "cites_id": [
+        "10387592895603379867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design modification of greenhouse effect solar-hybrid rack type dryer",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 557 (1), 012054, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4234498123769216077",
+      "cites_id": [
+        "4234498123769216077"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CFD-based Analysis of Non-Premixed Combustion Model in Biomass Grate Furnaces",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012029, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:4DMP91E08xMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7893747612533457042",
+      "cites_id": [
+        "7893747612533457042"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain dan Pengujian Kolektor Surya CPC Berselubung Kaca sebagai Media Evaporate Sistem ORC",
+        "pub_year": "2016",
+        "citation": "Jurnal Energi dan Manufaktur 9, 17-22, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:roLk4NBRz8UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10686984655815313724",
+      "cites_id": [
+        "10686984655815313724"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of hot air reservoir and insulator tray in the development of vacuum freeze drying",
+        "pub_year": "2013",
+        "citation": "Applied Mechanics and Materials 388, 139-145, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13834057633747035016",
+      "cites_id": [
+        "13834057633747035016"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Penggunaan Bammbu Sebagai Tabung Resonator pada Pengembangan Thermoacoustic Refrigeration",
+        "pub_year": "2013",
+        "citation": "Prosiding Seminar Nasional Unjani 28, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8762444734627238789",
+      "cites_id": [
+        "8762444734627238789"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisa Effisiensi pada fluida kerja berdasarkan variasi temperature masuk turbin pada pengembangan Organic Rankine Cycle",
+        "pub_year": "2013",
+        "citation": "Proceeding Thermofluid UGM, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8993401479298759167",
+      "cites_id": [
+        "8993401479298759167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis on ORC Performance with R134a as Working Fluid Using Computer Simulation Base and Experimental Data of Water Mass Flow Rate Variation in Solar-Thermal Collector Plate Type",
+        "pub_year": "2013",
+        "citation": "Proceeding Thermofluid UGM, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7364451898665254832",
+      "cites_id": [
+        "7364451898665254832"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Penggunaan Bambu sebagai Tabung Resonator Thermoacoustics Refrigeration",
+        "pub_year": "2013",
+        "citation": "Jurnal Keteknikan Pertanian 1 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11153835660620619628",
+      "cites_id": [
+        "11153835660620619628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Freeze Vacuum Dying and Heating from Condenser's Heat Loss on Drying Rate and Microstructure of Aloe Vera",
+        "pub_year": "2011",
+        "citation": "Research Journal of Applied Sciences 6 (5), 335-343, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13137813241618869710",
+      "cites_id": [
+        "13137813241618869710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal Characteristics of Coconut Shells as Boiler Fuel.",
+        "pub_year": "2023",
+        "citation": "International Journal of Renewable Energy Development 12 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:k_IJM867U9cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6772803122890460736",
+      "cites_id": [
+        "6772803122890460736"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal efficiency simulation of working fluids performance on small scale organic rankine cycle (ORC) with biomass energy",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012039, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7342810508464219846",
+      "cites_id": [
+        "7342810508464219846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain dan uji kinerja kondensor pirolisis plastik.",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:ldfaerwXgEUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13396107187317214007",
+      "cites_id": [
+        "13396107187317214007"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of the Density of Coconut Fiber as Stack in Thermo-Acoustics Refrigeration System",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012037, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14248051842557745756",
+      "cites_id": [
+        "14248051842557745756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modifikasi Reaktor pada Alat Pirolisis Plastik.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:HoB7MX3m0LUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16116856575392922565",
+      "cites_id": [
+        "16116856575392922565"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modifikasi Mesin Pemanen Udang/Ikan Tipe Vakum Berdasarkan Analisis Antropometri",
+        "pub_year": "2013",
+        "citation": "Jurnal Keteknikan Pertanian 27 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=494036010114864973",
+      "cites_id": [
+        "494036010114864973"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of refrigerant charge on the performance and environmental footprint of R32 heat pump water heater",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2836 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEMBERIAN PUPUK NITROGEN TERHADAP PERTUMBUHAN BIBIT KOPI ARABIKA (Coffea arabika L.) VARIETAS S795",
+        "pub_year": "2023",
+        "citation": "Politeknik Negeri Jember, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh tinggi tumpukan dan proses tempering terhadap mutu gabah yang dikeringkan dengan fluidized bed dryer. Warta IHP, 39 (2), 95-103 Halaman| 96 Warta IHP; P-ISSN 0215-1243 \u2026",
+        "pub_year": "2022",
+        "citation": "E/KPT/2019, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi eksperimental pendinginan termoakustik dengan modifikasi stack",
+        "pub_year": "2021",
+        "citation": "THESIS-2018, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Performansi Organic Rankine Cycle dengan Sumber Panas Tempurung Kelapa dan Refrigeran R134a",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Numerical investigation of CO2 heat pump water heater performance",
+        "pub_year": "2020",
+        "citation": "14th IIR Gustav-Lorentzen Conference on Natural Fluids, GL 2020, 61-66, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Potensi Energi Termal pada Penggunaan Tempurung Kelapa sebagai Sumber Energi Model Organic Rankine Cycle",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian dan Analisis Desain Evaporator Dilengkapi dengan Phase Change Material (PCM) Berbahan Etilen Glikol.",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance analysis of working fluids on organic rankie cycle (ORC) model with biomass energy as a heat sources.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation of Oil Palm Shell Pyrolysis to Produce Bio-Oil with Self-Pyrolysis Reactor",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 147 (1), 012025, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun dan Pengujian Penyimpanan Dingin dengan Sistem Pendinginan Termoakustik.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Heat Exchanger pada Pengering Efek Rumah Kaca Hybrid Tipe Rak untuk Pengeringan Ubi Jalar",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Pengeringan Beku Vakum Yang Memanfaatkan Panas Buang Kondensor Dan Tabung Untuk Metode Pengeringan Beku Vakum",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigasi Eksperimental Pengaruh Laju Aliran Massa Air Pada Solar Termal Tipe CPC",
+        "pub_year": "2016",
+        "citation": "Jurnal Energi dan Manufaktur Vol 9 (1), 75-83, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Energi Pada Sistem Refrigerasi Siklus Tunggal dan Ganda (Cascade) Sebagai Pemanas Untuk Proses Pengeringan Beku Vakum",
+        "pub_year": "2013",
+        "citation": "TEKNOTAN 7 (3), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemilihan Fluida Kerja pada Pengembangan Organic Rankine Cycle",
+        "pub_year": "2013",
+        "citation": "Proceeding Thermofluid 2013, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisa Effisiensi Pada Fluida Kerja Berdasarkan Variasi Temperatur Masuk Turbin Pada Pengembangan Organic Rankine Cycle",
+        "pub_year": "2013",
+        "citation": "Proceeding Thermofluid 2013, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modifikasi Mesin Pemanen Udang/Ikan Tipe Vakum Berdasarkan Analisis Antropometri",
+        "pub_year": "2013",
+        "citation": "Jurnal Keteknikan Pertanian 27 (1), 21828, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISA EFISIENSI PADA FLUIDA KERJA BERDASARKAN VARIASI TEMPERATUR MASUK TURBIN PADA PENGEMBANGAN ORGANIC RANKINE CYCLE",
+        "pub_year": "2013",
+        "citation": "PROSIDING LPPM UIKA BOGOR, 111-123, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a compact freeze vacuum drying for jelly fish (Schypomedusae)",
+        "pub_year": "2012",
+        "citation": "AIP Conference Proceedings 1440 (1), 1246-1256, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mini Transporter Tipe Crawler",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain dan Uji Kinerja Tungku Pembakaran Tempurung Kelapa untuk Combined Heat and Power.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Performance Comparison between Stack from Coconut Fiber and Plastic in Thermo-acoustics Refrigeration",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of the Density of Coconut Fiber as Stack in Thermo-Acoustics Refrigeration",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Kinerja Pengering dengan Menggunakan Panas Buang Evaporator Dari Tungku Combine Heat Power Performances of Dryer Using Waste Heat of evaporator from Combine Heat Power Stove",
+        "citation": "National Symposium on Thermofluids 2016, 107, 0"
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Penggunaan Bambu sebagai Tabung Resonator Thermoacoustics Refrigeration",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of freeze vacuum drying and heating from heat loss condenser on drying rate and microstructure of Aloevera",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "i0oEhw4AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

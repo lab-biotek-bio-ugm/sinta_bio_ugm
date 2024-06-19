@@ -1,0 +1,2881 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "2WNaDL8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Anom Bowolaksono",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2WNaDL8AAAAJ&citpid=15",
+  "affiliation": "Associate Professor of Biology Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Cellular and Molecular Biology",
+    "Apoptosis",
+    "Autophagy"
+  ],
+  "email_domain": "@sci.ui.ac.id",
+  "citedby": 655,
+  "citedby5y": 447,
+  "hindex": 13,
+  "hindex5y": 9,
+  "i10index": 15,
+  "i10index5y": 9,
+  "cites_per_year": {
+    "2006": 3,
+    "2007": 8,
+    "2008": 9,
+    "2009": 7,
+    "2010": 8,
+    "2011": 15,
+    "2012": 11,
+    "2013": 18,
+    "2014": 18,
+    "2015": 23,
+    "2016": 31,
+    "2017": 20,
+    "2018": 29,
+    "2019": 38,
+    "2020": 53,
+    "2021": 98,
+    "2022": 92,
+    "2023": 106,
+    "2024": 57
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BRW6MhkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Wiweko",
+      "affiliation": "University of Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "INnE42kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wisnu Jatmiko",
+      "affiliation": "Professor, Faculty Computer Science University of Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SncD6XEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Petrus Mursanto",
+      "affiliation": "Senior Lecturer, Faculty of Computer Sience, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hJhccr0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "R. Tedjo Sasmono",
+      "affiliation": "Eijkman Research Center for Molecular Biology, Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rQWeO4AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Benediktus Yohan Arman",
+      "affiliation": "University of Oxford, Eijkman Institute for Molecular Biology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "llrkVAkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dariusz Skarzynski",
+      "affiliation": "Olsztyn OR Okayama"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kkYHkRkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dwi Purnomo",
+      "affiliation": "Department of Mechanical Engineering, Imperial College London"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Nms5vioAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ari Wibisono",
+      "affiliation": "Faculty of Computer Science, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5CrgITYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yunita T. Winarto",
+      "affiliation": "Professor of Anthropology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "N_wgwa4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hanif Wisesa",
+      "affiliation": "Tokopedia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4sxS1NcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Iqbal Tawakal",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vVGOmCoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sumarsih C Purbarani",
+      "affiliation": "Research Assistant of Computer Science, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uWkPfW8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arie Rachmad Syulistyo",
+      "affiliation": "Politeknik Negeri Malang"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tOgz1sgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Alexander Agung Santoso Gunawan",
+      "affiliation": "School of Computer Science, Bina Nusantara University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "AK-fBGkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Doni  Hikmat Ramdhan",
+      "affiliation": "Universitas Indonesia, Department of Occupational Health and Safety"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Hs_mSgMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aprinaldi Jasa Mantau",
+      "affiliation": "Faculty of Computer Science, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Onb3syAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "silvia lestari",
+      "affiliation": "Medical Biology Department, Faculty of Medicine Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TLJvwCsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Adi Wibowo",
+      "affiliation": "Diponegoro University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DD0ZDUcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Adi Nurhadiyatna",
+      "affiliation": "Research Center for Informatics, Indonesian Institute of Sciences, Indonesia,"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DDelv3QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I Putu Satwika",
+      "affiliation": "Universitas Indonesia, STMIK Primakara"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "wz-nToMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Machmud Roby Alhamidi",
+      "affiliation": "Faculty of Computer Science, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rLBuJGIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Anwar Ma'sum",
+      "affiliation": "Universitas Indonesia and University of South Australia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_zmakQgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hadaiq Sanabila",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Wt9FiQEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dewa Made Sri Arsa",
+      "affiliation": "Department of Information Technology, Universitas Udayana"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "h8eKIMwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Andreas Febrian",
+      "affiliation": "Universitas YARSI"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tzjThtIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Elly Matul Imah",
+      "affiliation": "Data Science Department, Universitas Negeri Surabaya"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-apoptotic roles of prostaglandin E2 and F2alpha in bovine luteal steroidogenic cells",
+        "pub_year": "2008",
+        "citation": "Biology of reproduction 79 (2), 310-317, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4680199040184613896",
+      "cites_id": [
+        "4680199040184613896"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Possible role of interleukin-1 in the regulation of bovine corpus luteum throughout the luteal phase",
+        "pub_year": "2004",
+        "citation": "Biology of reproduction 71 (5), 1688-1693, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11369341420676938752",
+      "cites_id": [
+        "11369341420676938752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of the implementation of occupational health, safety, and environment management systems in higher education laboratories",
+        "pub_year": "2019",
+        "citation": "Journal of chemical health & safety 26 (4-5), 14-19, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15556224859206394538",
+      "cites_id": [
+        "15556224859206394538"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrometeorological learning increasing farmers' knowledge in coping with climate change and unusual risks",
+        "pub_year": "2013",
+        "citation": "Southeast Asian Studies 2 (2), 323-349, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ufrVoPGSRksC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14447629385408327152",
+      "cites_id": [
+        "14447629385408327152"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "[6]\u2010Gingerol Inhibits Chikungunya Virus Infection by Suppressing Viral Replication",
+        "pub_year": "2021",
+        "citation": "BioMed research international 2021 (1), 6623400, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15928421655816145921",
+      "cites_id": [
+        "15928421655816145921"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survival role of locally produced acetylcholine in the bovine corpus luteum",
+        "pub_year": "2009",
+        "citation": "Biology of reproduction 80 (4), 823-832, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1375646989979898122",
+      "cites_id": [
+        "1375646989979898122"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth characteristics and cytokine/chemokine induction profiles of dengue viruses in various cell lines",
+        "pub_year": "2014",
+        "citation": "Acta Virol 58 (1), 20-7, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1551862533668449993",
+      "cites_id": [
+        "1551862533668449993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ovarian steroids regulate prostaglandin secretion in the feline endometrium",
+        "pub_year": "2010",
+        "citation": "Animal Reproduction Science 120 (1-4), 142-150, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11314303752162402436",
+      "cites_id": [
+        "11314303752162402436"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiology response of the indigenous cattle breeds to the environment in West Sumbawa, Indonesia",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1862 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=129146072804775046",
+      "cites_id": [
+        "129146072804775046"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of bio-risk management system implementation in indonesian higher education laboratory",
+        "pub_year": "2021",
+        "citation": "International Journal of Environmental Research and Public Health 18 (10), 5076, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:LPZeul_q3PIC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17913495655931481839",
+      "cites_id": [
+        "17913495655931481839"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biometric of freshwater crayfish (Cherax spp.) from Papua and West Papua, Indonesia",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (2), 489-495, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:IWHjjKOFINEC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1028425047398968615",
+      "cites_id": [
+        "1028425047398968615"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Luteoprotective mechanisms of prostaglandin F2\u03b1 stimulated by luteinizing hormone in the bovine corpus luteum",
+        "pub_year": "2013",
+        "citation": "Journal of Reproduction and Development 59 (3), 225-230, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17230353553207215919",
+      "cites_id": [
+        "17230353553207215919"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Possible roles of intracellular cyclic AMP, protein kinase C and calcium ion in the apoptotic signaling pathway in bovine luteal cells",
+        "pub_year": "2006",
+        "citation": "Journal of Reproduction and Development 52 (4), 517-522, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5957906466343551729",
+      "cites_id": [
+        "5957906466343551729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementation of bio-risk management system in a national clinical and medical referral centre laboratories",
+        "pub_year": "2021",
+        "citation": "International Journal of Environmental Research and Public Health 18 (5), 2308, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:SP6oXDckpogC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8172063300382234299",
+      "cites_id": [
+        "8172063300382234299"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknik Biomedis: Teori dan Aplikasi",
+        "pub_year": "2013",
+        "citation": "Depok: Fakultas Ilmu Komputer Universitas Indonesia, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:NhqRSupF_l8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8839893163746527193",
+      "cites_id": [
+        "8839893163746527193"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-M\u00fcllerian hormone independently affect mtDNA copy number in human granulosa cells",
+        "pub_year": "2022",
+        "citation": "Journal of Ovarian Research 15 (1), 111, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=316056701977368870",
+      "cites_id": [
+        "316056701977368870"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Obesity in the Balinese is associated with FTO rs9939609 and rs1421085 single nucleotide polymorphisms",
+        "pub_year": "2020",
+        "citation": "PeerJ 8, e8327, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:D03iK_w7-QYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13504374714602646233",
+      "cites_id": [
+        "13504374714602646233"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Algal growth rate modeling and prediction optimization using incorporation of MLP and CPSO algorithm",
+        "pub_year": "2015",
+        "citation": "2015 International Symposium on Micro-NanoMechatronics and Human Science \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:_kc_bZDykSQC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14337963359515479886",
+      "cites_id": [
+        "14337963359515479886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Human Sperm tracking using Particle Swarm Optimization combined with Smoothing Stochastic sampling on low frame rate video",
+        "pub_year": "2015",
+        "citation": "2015 International Symposium on Micro-NanoMechatronics and Human Science \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=312400663806331102",
+      "cites_id": [
+        "312400663806331102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automatic detection of embryo using particle swarm optimization based hough transform",
+        "pub_year": "2013",
+        "citation": "MHS2013, 1-6, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:Zph67rFs4hoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9568548987369912942",
+      "cites_id": [
+        "9568548987369912942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of luteinizing hormone as a suppression factor for apoptosis in bovine luteal cells in vitro",
+        "pub_year": "2021",
+        "citation": "Reproduction in Domestic Animals 56 (5), 744-753, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:dshw04ExmUIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11241021222943832650",
+      "cites_id": [
+        "11241021222943832650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic algorithm optimization for extreme learning machine based microalgal growth forecasting of Chlamydomonas sp",
+        "pub_year": "2015",
+        "citation": "2015 International Conference on Advanced Computer Science and Information \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17427412374841679424",
+      "cites_id": [
+        "17427412374841679424"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Luteoprotective roles of luteinizing hormone are mediated by not only progesterone production but also glucocorticoid conversion in bovine corpus luteum",
+        "pub_year": "2013",
+        "citation": "Molecular Reproduction and Development 80 (3), 204-211, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14433787852429472042",
+      "cites_id": [
+        "14433787852429472042"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The clinical features of penile cancer patients at sanglah general hospital Bali-Indonesia",
+        "pub_year": "2012",
+        "citation": "Bali Medical Journal 1 (1), 1-5, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:UxriW0iASnsC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5378040444768142751",
+      "cites_id": [
+        "5378040444768142751"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of IGF-1 gene in ayam ketawa (Gallus gallus domesticus) with dangdut and slow type vocal characteristics",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (7), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:NaGl4SEjCO4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5275336791688228546",
+      "cites_id": [
+        "5275336791688228546"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA barcoding reveals underestimated species diversity of mantis shrimp larvae (stomatopods) in Banten Bay, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (6), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:blknAaTinKkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17117477571361711029",
+      "cites_id": [
+        "17117477571361711029"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree risk identification, assessment and mitigation in Universitas Indonesia\u2019s urban forest",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 203 (1), 012026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3067942466828665819",
+      "cites_id": [
+        "3067942466828665819"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The origin and possible mechanism of embryonic cell-free DNA release in spent embryo culture media: a review",
+        "pub_year": "2023",
+        "citation": "Journal of Assisted Reproduction and Genetics 40 (6), 1231-1242, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:z_wVstp3MssC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7731526870551542245",
+      "cites_id": [
+        "7731526870551542245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of various concentrations of palm date (Phoenix dactylifera L.) on spermatozoa motility of giant grouper (Epinephelus lanceolatus)",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:dfsIfKJdRG4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14026223778414417451",
+      "cites_id": [
+        "14026223778414417451"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Snake Diversity at Universitas Indonesia\u2019s Urban Forest",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 546 (2), 022035, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:YFjsv_pBGBYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15443309550363684595",
+      "cites_id": [
+        "15443309550363684595"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In a relationship: sister species in mixed colonies, with a description of new Chikunia species (Theridiidae)",
+        "pub_year": "2019",
+        "citation": "Zoological Journal of the Linnean Society 186 (2), 337-352, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:RGFaLdJalmkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1824277194228271515",
+      "cites_id": [
+        "1824277194228271515"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Placental mitochondrial DNA copy number is associated with reduced birth weight in women with placental malaria",
+        "pub_year": "2019",
+        "citation": "Placenta 80, 1-3, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:dhFuZR0502QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15685689953860674853",
+      "cites_id": [
+        "15685689953860674853"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Arcpso: Ellipse detection method using particle swarm optimization and arc combination",
+        "pub_year": "2014",
+        "citation": "2014 International Conference on Advanced Computer Science and Information \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10756668028637369925",
+      "cites_id": [
+        "10756668028637369925"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-Apoptotic Roles of Luteinizing Hormone in Bovine Luteal Cells.",
+        "pub_year": "2009",
+        "citation": "Biology of Reproduction 81 (Suppl_1), 511-511, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=53964406360725126",
+      "cites_id": [
+        "53964406360725126"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unravelling the Molecular Identification and Antifungal Susceptibility Profiles of Aspergillus spp. Isolated from Chronic Pulmonary Aspergillosis Patients in Jakarta \u2026",
+        "pub_year": "2022",
+        "citation": "Journal of Fungi 8 (4), 411, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:PR6Y55bgFSsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10394510184554349827",
+      "cites_id": [
+        "10394510184554349827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of egg yolk of free-range chicken and methanol as a cryoprotective agent for the sperm preservation of cyprinid fish, Neolissochilus soroides (Valenciennes, 1842)",
+        "pub_year": "2021",
+        "citation": "Heliyon 7 (10), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:LjlpjdlvIbIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16220744675897379535",
+      "cites_id": [
+        "16220744675897379535"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The genetic diversity of ayam ketawa (Gallus gallus domesticus, Linneaus, 1758) in bangkalan district, madura island, indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:8AbLer7MMksC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16390519843054789287",
+      "cites_id": [
+        "16390519843054789287"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibition of Candida albicans hypha formation in biofilm formation by Ruta angustifolia extract",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2331 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:738O_yMBCRsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16938984818463181358",
+      "cites_id": [
+        "16938984818463181358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UI Zero Plastic as an action towards sustainable campus",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1098 (5), 052046, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:u9iWguZQMMsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10697985196461272341",
+      "cites_id": [
+        "10697985196461272341"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of egg yolk as natural cryoprotectant on giant grouper (Epinephelus lanceolatus) spermatozoa motility",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12180046333134090107",
+      "cites_id": [
+        "12180046333134090107"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vaginal swab cytology aplication to determine the estrus cycle of lowland anoa (bubalus depressicornis, smith, 1927) in captivity",
+        "pub_year": "2018",
+        "citation": "MATEC Web of Conferences 197, 06008, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:isC4tDSrTZIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15399586063653997265",
+      "cites_id": [
+        "15399586063653997265"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ellipse detection on embryo imaging using Random Sample Consensus (RANSAC) method based on arc segment",
+        "pub_year": "2016",
+        "citation": "International Journal on Smart Sensing and Intelligent Systems 9 (3), 1384-1409, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16396888657228091973",
+      "cites_id": [
+        "16396888657228091973"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evolution and immunopathology of chikungunya virus informs therapeutic development",
+        "pub_year": "2023",
+        "citation": "Disease Models & Mechanisms 16 (4), dmm049804, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12130098836941616438",
+      "cites_id": [
+        "12130098836941616438"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Low-cost SYBR Green-based RT-qPCR assay for detecting SARS-CoV-2 in an Indonesian setting using WHO-recommended primers",
+        "pub_year": "2022",
+        "citation": "Heliyon 8 (11), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ZuybSZzF8UAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11408471662407180218",
+      "cites_id": [
+        "11408471662407180218"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and functional characterization of Penicillium marneffei major facilitator superfamily (MFS) transporters",
+        "pub_year": "2020",
+        "citation": "Bioscience, Biotechnology, and Biochemistry 84 (7), 1373-1383, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:bFI3QPDXJZMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16461102755542540715",
+      "cites_id": [
+        "16461102755542540715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Percentage of embryo viability after 48h sperm cryopreservation: effect of various natural cryoprotectant",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 441 (1), 012070, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:f2IySw72cVMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9612535608828022988",
+      "cites_id": [
+        "9612535608828022988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The combination effect 6% of glycerol and skim milk on spermatozoa motility of giant grouper Epinephelus lanceolatus (Bloch 1970) after frozen",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15921628791485057902",
+      "cites_id": [
+        "15921628791485057902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reassessing the Benefits and Costs of Universitas Indonesia\u2019s Urban Forest Zonation",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 546 (2), 022015, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:NMxIlDl6LWMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13325202065568663798",
+      "cites_id": [
+        "13325202065568663798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sexual behaviour of lowland anoa (bubalus depressicornis) in the captivity of anoa breeding centre (ABC) Manado",
+        "pub_year": "2018",
+        "citation": "MATEC Web of Conferences 197, 06007, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6343664201492066857",
+      "cites_id": [
+        "6343664201492066857"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of thermal stress on HSP90 expression of Bali cattle in Barru district, South Sulawesi",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1862 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:mB3voiENLucC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6408132673050838071",
+      "cites_id": [
+        "6408132673050838071"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Expression of Granulosa Cells BAX mRNA Among Endometriosis and Normal Women",
+        "pub_year": "2017",
+        "citation": "Advanced Science Letters 23 (7), 7012-7014, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5265333065419917854",
+      "cites_id": [
+        "5265333065419917854"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detecting ellipses in embryo images using arc detection method with particle swarm for Blastomere-quality measurement system",
+        "pub_year": "2016",
+        "citation": "Journal of Advanced Computational Intelligence and Intelligent Informatics \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6141748512828821232",
+      "cites_id": [
+        "6141748512828821232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A survey of whole genome alignment tools and frameworks based on Hadoop's MapReduce",
+        "pub_year": "2016",
+        "citation": "2016 International Workshop on Big Data and Information Security (IWBIS), 65-70, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:Se3iqnhoufwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=968904636014935095",
+      "cites_id": [
+        "968904636014935095"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ellipse detection on embryo image using modification of arc particle swarm optimization (arcpso) based arc segment",
+        "pub_year": "2015",
+        "citation": "2015 International Symposium on Micro-NanoMechatronics and Human Science \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:4TOpqqG69KYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14432834219867399244",
+      "cites_id": [
+        "14432834219867399244"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automatic fetal organs detection and approximation in ultrasound image",
+        "pub_year": "2015",
+        "citation": "International Journal on Smart Sensing and Intelligent Systems 8 (1), 720-748, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9873429352666455098",
+      "cites_id": [
+        "9873429352666455098"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "microRNAs as a biomarker to predict embryo quality assessment in in vitro fertilization",
+        "pub_year": "2023",
+        "citation": "International Journal of Fertility & Sterility 17 (2), 85, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13745963913993869207",
+      "cites_id": [
+        "13745963913993869207"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impact of late follicular progesterone level on in vitro fertilization-intracytoplasmic sperm injection outcome: Case-control study",
+        "pub_year": "2020",
+        "citation": "International Journal of Reproductive BioMedicine 18 (5), 367, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=185605733487495315",
+      "cites_id": [
+        "185605733487495315"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth characteristics of Chikungunya virus isolate from Indonesia in various human cell lines in vitro.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:rO6llkc54NcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9286618782609993499",
+      "cites_id": [
+        "9286618782609993499"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction the number of blastomere in time-lapse embryo using Conditional Random Field (CRF) method based on Bag of Visual Words (BoVW)",
+        "pub_year": "2016",
+        "citation": "2016 International Conference on Advanced Computer Science and Information \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:0EnyYjriUFMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1674336097171087390",
+      "cites_id": [
+        "1674336097171087390"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fnlvq design and implementation in fpga to estimate trichloroethylene in white mouse liver images",
+        "pub_year": "2011",
+        "citation": "2011 International Conference on Advanced Computer Science and Information \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1942417247627068508",
+      "cites_id": [
+        "1942417247627068508"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryoprotective effects of longan honey on preantral follicle integrity of rat ovary post vitrification",
+        "pub_year": "2023",
+        "citation": "Cryoletters 44 (1), 26-36, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:-_dYPAW6P2MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3867362525219912337",
+      "cites_id": [
+        "3867362525219912337"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carrier RNA (cRNA) enhances dsDNA recovery extracted from small volume spent embryo culture medium",
+        "pub_year": "2021",
+        "citation": "International Journal on Advanced Science, Engineering and Information \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:5awf1xo2G04C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10244563717107919898",
+      "cites_id": [
+        "10244563717107919898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spermatozoa motility of giant grouper (Epinephelus lanceolatus) 48 hours: The role of soybean milk as a cryoprotectant",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:fPk4N6BV_jEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5264630029350210345",
+      "cites_id": [
+        "5264630029350210345"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The postpartum anestrus period of lowland anoa (Bubalus depressicornis) in captivity",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 434 (1), 012140, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12916998679416676584",
+      "cites_id": [
+        "12916998679416676584"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Differentiating hybrid and juvenile of black-winged myna (Acridotheres melanopterus) by using morphometric data",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 434 (1), 012139, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:-f6ydRqryjwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5830076909475536653",
+      "cites_id": [
+        "5830076909475536653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The profile of HSP90 gene expression of Bali cattle to heat stress in West Sumbawa, West Nusa Tenggara",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13782335358826867865",
+      "cites_id": [
+        "13782335358826867865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thermal stress effect on ATP1A1 gene expression in Bali cattle (Bos sondaicus) in Barru district, South Sulawesi",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=233433405031614391",
+      "cites_id": [
+        "233433405031614391"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnozoology\u2013The perception of Tobelo Dalam tribal community in Saolat Village, East Halmahera, Indonesia towards cuscus (Phalangeridae)",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (6), 2140-2146, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10565857770371870495",
+      "cites_id": [
+        "10565857770371870495"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological characteristic of black-winged myna (acridotheres melanopterus)",
+        "pub_year": "2018",
+        "citation": "MATEC Web of Conferences 197, 06006, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9697696466228570652",
+      "cites_id": [
+        "9697696466228570652"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies of adaptive traits of Bali cattle in Buleleng district, Bali and Barru district, South Sulawesi",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1844 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=369082005965019110",
+      "cites_id": [
+        "369082005965019110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation between Follicular Fluid\u2019s Androgen Level and Fertilization Rate in Poor Responder Patients Undergone IVF: A Prospective Cohort Done in Yasmin IVF Clinic, Jakarta \u2026",
+        "pub_year": "2016",
+        "citation": "KnE Medicine, 76-80, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:UebtZRa9Y70C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1345646974393630686",
+      "cites_id": [
+        "1345646974393630686"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Expression and Purification of Octa-Arginine Apoptin and its Ability to Kill Cancer Cells",
+        "pub_year": "2016",
+        "citation": "International Journal of Pharmacy and Pharmaceutical Sciences 8 (10), 102-104, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13973399593247965334",
+      "cites_id": [
+        "13973399593247965334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of a spatial repellent intervention on Anopheles kdr insecticide resistance allele in Sumba, Indonesia",
+        "pub_year": "2024",
+        "citation": "Malaria Journal 23 (1), 31, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:epqYDVWIO7EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5365508277348769453",
+      "cites_id": [
+        "5365508277348769453"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sequencing analysis of anti mullerian hormone in polycystic ovarian syndrome and primary ovarian insufficiency",
+        "pub_year": "2023",
+        "citation": "Bali Medical Journal 12 (2), 2058-2066, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:0KyAp5RtaNEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17661485924546225399",
+      "cites_id": [
+        "17661485924546225399"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Fungal and Bacterial Interface in the Respiratory Mycobiome with a Focus on Aspergillus spp.",
+        "pub_year": "2023",
+        "citation": "Life 13 (4), 1017, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:VLnqNzywnoUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15009333892100365198",
+      "cites_id": [
+        "15009333892100365198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of different honey concentrations on the ultrastructure profile of spermatozoa in Dewa Mahseer (Neolissochilus soro)",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:j8SEvjWlNXcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13354383885972643271",
+      "cites_id": [
+        "13354383885972643271"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ACitizen SCIENCE SURVEY OF URBAN SNAKES AT THE CAMPUS OF UNIVERSITAS INDONESIA",
+        "pub_year": "2022",
+        "citation": "Herpetological Conservation and Biology 17 (2), 433-441, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:uLbwQdceFCQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8678026684571045131",
+      "cites_id": [
+        "8678026684571045131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparing Manuka and other medical honeys as adjunct to antibiotic therapy against facultative anaerobes",
+        "pub_year": "2022",
+        "citation": "Sains Malaysiana, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:_Ybze24A_UAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14280573193868166962",
+      "cites_id": [
+        "14280573193868166962"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Vetiveria zizanioides on Cytotoxicity of Human Epithelial Cervical Cancer Cells",
+        "pub_year": "2022",
+        "citation": "Journal of Hunan University Natural Sciences 49 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:dQ2og3OwTAUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9108362917770049172",
+      "cites_id": [
+        "9108362917770049172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Low Cost SYBR Green-Based RT-qPCR for Detecting SARS-CoV-2 in Indonesia Setting Using WHO-Recommended Primers",
+        "pub_year": "2021",
+        "citation": "Available at SSRN 3951700, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=61203604877008521",
+      "cites_id": [
+        "61203604877008521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of ethylene glycol on structural integrity at each stage of preantral follicle development post vitrification of rat ovary-histological analysis",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (4), 304-311, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:WqliGbK-hY8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3263671370365416961",
+      "cites_id": [
+        "3263671370365416961"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FSHR and LHR mRNA expression in granulosa cells of poor responder",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012057, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:P5F9QuxV20EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14173020995288630897",
+      "cites_id": [
+        "14173020995288630897"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The honey solution effect as a natural cryoprotectant on sperm quality of botia, Chromobotia macracanthus Bleeker 1852",
+        "pub_year": "2020",
+        "citation": "Jurnal Iktiologi Indonesia 20 (3), 205-216, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15164559477694839848",
+      "cites_id": [
+        "15164559477694839848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of alpha (\u03b1)-tocopherol antioxidant towards garut sheeps (Ovis aries) oocyte maturation and viability post-cryopreservation using slow freezing method",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:EUQCXRtRnyEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2457011120908294767",
+      "cites_id": [
+        "2457011120908294767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determining Water Quality Status in University of Indonesia Depok Campus Lakes with STORET Method",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 546 (2), 022001, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:BqipwSGYUEgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17956616244371570496",
+      "cites_id": [
+        "17956616244371570496"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Novel mutation in iduronate-2-sulfatase gene Exon 6 of an Indonesian patient with Mucopolysaccharidosis type II",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1073 (3), 032051, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14838925814643352289",
+      "cites_id": [
+        "14838925814643352289"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A novel silent mutation at exon 9 of iduronate-2-sulfatase gene in an Indonesian patient with mucopolysaccharidosis type II",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1073 (3), 032069, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9787868871937960981",
+      "cites_id": [
+        "9787868871937960981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Novel variations in Exon 4 of the iduronate 2-sulfatase gene in six Indonesian patients with mucopolysaccharidosis type II",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1073 (3), 032070, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3250708518952235989",
+      "cites_id": [
+        "3250708518952235989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation between anti-M\u00fcllerian hormone serum level and Bax/Bcl-2 mRNA expression ratio from granulosa cells in patients with PCOS",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1073 (3), 032074, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6729508038029874045",
+      "cites_id": [
+        "6729508038029874045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Quality of RNA Isolation from Frozen Granulosa Cells",
+        "pub_year": "2017",
+        "citation": "Advanced Science Letters 23 (7), 6717-6719, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5241613226552729957",
+      "cites_id": [
+        "5241613226552729957"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Building business process on tele-ultrasonography: an international collaboration of medical technology development",
+        "pub_year": "2017",
+        "citation": "Advanced Science Letters 23 (7), 6861-6865, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:roLk4NBRz8UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=711647917250405924",
+      "cites_id": [
+        "711647917250405924"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transferrin gene cloning and sequencing analysis from Indonesian Nile Tilapia (Oreochromis niloticus)",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10627311168825608867",
+      "cites_id": [
+        "10627311168825608867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular regulation of noradrenaline in bovine corpus luteum",
+        "pub_year": "2012",
+        "citation": "HAYATI Journal of Biosciences 19 (2), 81-87, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9371461471696034097",
+      "cites_id": [
+        "9371461471696034097"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Situasi malaria di dataran Cihea, Jawa Barat 80 tahun setelah dilakukan irigasi berkala",
+        "pub_year": "2000",
+        "citation": "Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Indonesia, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10188231558277990098",
+      "cites_id": [
+        "10188231558277990098"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh H2O pH 5, 2 dan TE Buffer pH 7, 8, Untuk Perbaikan Efisiensi Reaksi qPCR Skoring HER-2 Kanker Payudara",
+        "citation": "Jurnal Pendidikan Matematika dan IPA 10 (1), 139-148, 0"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:TQgYirikUcIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9562275742545295895",
+      "cites_id": [
+        "9562275742545295895"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-Invasive Pre-implantation Genetic Testing's Reliability for Aneuploidy using Cell-free DNA in Embryo Culture Media",
+        "pub_year": "2024",
+        "citation": "Journal of Gynecology Obstetrics and Human Reproduction, 102808, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:L7CI7m0gUJcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of the Signaling Pathway in Polycystic Ovary Syndrome Using an Integrated Bioinformatics Approach",
+        "pub_year": "2024",
+        "citation": "Gynecologic and Obstetric Investigation, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:vbGhcppDl1QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of the infectivity of an Indonesian Zika virus strain in mammalian cell lines",
+        "pub_year": "2024",
+        "citation": "Asian Pacific Journal of Tropical Biomedicine 14 (5), 215-224, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:EYYDruWGBe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bio-Risk Management Systems: Biosafety Assessment in COVID-19 Referral Hospitals in Indonesia",
+        "pub_year": "2024",
+        "citation": "Safety 10 (2), 36, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bio-Risk Management Systems: Biosafety Assessment in COVID-19 Referral Hospitals in Indonesia",
+        "pub_year": "2024",
+        "citation": "Safety 10 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:BwyfMAYsbu0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transferrin gene profiling from various species and strains of tilapia in Indonesia",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2710 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:URolC5Kub84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IL-6 and IL-10 Levels in Rats Blood Plasma as Immune Responses Post Radioiodine (I-131) Administration",
+        "pub_year": "2024",
+        "citation": "Asian Pacific journal of cancer prevention: APJCP 25 (3), 1017, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "# 225: miR-135b Expression Correlated with Aneuploidy in Trophectoderm from IVF Patients: An Approach to NIR-Invasive Screening for Embryo Quality Assessment",
+        "pub_year": "2023",
+        "citation": "Fertility & Reproduction 5 (04), 321-321, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:uWiczbcajpAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "# 71: Successful IVF Procedure on SARS-CoV-2 Positive Advance Maternal Age Woman",
+        "pub_year": "2023",
+        "citation": "Fertility & Reproduction 5 (04), 705-705, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:vDijr-p_gm4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructure of Javaen barb fish Systomus orphoides Valenciennes, 1842 spermatozoa (Cypriniformes: Cyprinidae) by electron microscopes",
+        "pub_year": "2023",
+        "citation": "Microscopy Research and Technique 86 (11), 1411-1415, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:XD-gHx7UXLsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u03b1-Mangostin Effectively Inhibits Chikungunya Virus Replication in HepG2 Cells",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (6), 1187-1193, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ipzZ9siozwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Honey Extender for Spermatozoa Dilution on Fertility and hatchability of Javaen Barb Fish (Systomus orphoides)",
+        "pub_year": "2023",
+        "citation": "3rd International Conference on Biology, Science and Education (IcoBioSE \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:nrtMV_XWKgEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Follitropin Alfa in Controlled Ovarian Stimulation Protocol for In Vitro Fertilization Cycles",
+        "pub_year": "2023",
+        "citation": "Journal of Reproduction & Infertility 24 (2), 139, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:EkHepimYqZsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Clinical Pregnancy Is Not Associated with Sperm Quality in POSEIDON Group 1 and 2 Patients",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ILKRHgRFtOwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Clinical Pregnancy Is Not Associated with Sperm Quality in POSEIDON Group 1 and 2 Patients",
+        "pub_year": "2023",
+        "citation": "Andrologia 2023 (1), 4637822, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Urine biochemical profile analysis and transabdominal ultrasonography for pregnancy detection in the endangered lowland anoa (Bubalus depressicornis)",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (11), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:35r97b3x0nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u4f7f\u7528\u5916\u690d\u4f53\u548c\u9176\u4fc3\u65b9\u6cd5\u4ece\u5370\u5ea6\u5c3c\u897f\u4e9a\u60a3\u8005\u7684\u80bf\u7624\u6d3b\u68c0\u4e2d\u83b7\u5f97\u4e73\u817a\u764c\u7684\u539f\u4ee3\u57f9\u517b\u7269",
+        "pub_year": "2022",
+        "citation": "Hunan Daxue Xuebao/Journal of Hunan University Natural Sciences 49 (9), 11-16, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:fEOibwPWpKIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Vetiveria zizanioides on Cytotoxicity of Human Epithelial Cervical Cancer Cells",
+        "pub_year": "2022",
+        "citation": "Hunan Daxue Xuebao/Journal of Hunan University Natural Sciences 49 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:4MWp96NkSFoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengantar konsep dasar manajemen bahaya bahan kimia dan biomonitoring",
+        "pub_year": "2022",
+        "citation": "Deepublish, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:p__nRnzSRKYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Candida Albicans and Streptococcus Mutans Biofilms Suppression by Bioactive Compounds Isolated from Ruta Angustifolia",
+        "pub_year": "2022",
+        "citation": "Journal of Hunan University Natural Sciences 49 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:N5tVd3kTz84C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRIMARY CULTURE OF COLORECTAL CANCER CELL AND BREAST CANCER TISSUE",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:tKAzc9rXhukC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IN-VITRO FERTILIZATION ON OBSTRUCTIVE AZOOSPERMIA MAN AND PAROUS WOMAN",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:7T2F9Uy0os0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DATA COLLECTION OF GENE VARIATIONS AND ANALYSIS OF THREE-DIMENSIONAL STRUCTURE OF PROTEINS ASSOCIATED WITH HAIR AGING",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:NJ774b8OgUMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNA ISOLATION OF GRANULOSA CELL",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:kzcrU_BdoSEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLATION OF CIRCULATING TUMOR CELL (CTC) BY IMMUNOMAGNETIC SEPARATION AND IMMUNOFLUORESCENCE FOR ANALYSIS CELL CHARACTERIZATION",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:Fu2w8maKXqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THREE-DIMENSIONAL ANALYSIS OF SINGLE NUCLEOTIDE POLYMORPHISMS ASSOCIATED WITH HUMAN SKIN AGING",
+        "pub_year": "2021",
+        "citation": "The 2ndNational Conference for Ummah Network 2021 (INTER-UMMAH 2021) And the \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:W5xh706n7nkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "METODE KUANTIFIKASI SARS-CoV-2 BERBASIS SEKUENS GEN N DAN NSP14 ISOLAT INDONESIA MENGGUNAKAN DETEKSI BERBASIS SYBR GREEN INTERCALATING DYE RT-qPCR",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Novel base alterations at intron 3 of 6-pyruvoyl-tetrahydropterin synthase gene in Indonesian population",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2331 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variant analysis for exon 2 and 5 of iduronate 2-sulfatase gene on mucopolysaccharidosis type II patients in Indonesia",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2331 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UI Zero Plastic as an action towards sustainable campus",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1098 (5), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:BUYA1_V_uYcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wildlife awareness program on UI civitas to achieve life on land sustainability on campus",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1098 (5), 052047, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Go Green program as an effort to enhance UI civitas awareness towards sustainable campus",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1098 (5), 052048, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inhibition Of Candida Albicans And Streptococcus Mutans (Single And Mix Species) Biofilms By Crude Extract Of Rutaangustifolia",
+        "pub_year": "2021",
+        "citation": "NVEO-NATURAL VOLATILES & ESSENTIAL OILS Journal| NVEO, 10533-10543, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ye4kPcJQO24C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u0627\u062b\u0631 \u0633\u0637\u062d \u067e\u0631\u0648\u0698\u0633\u062a\u0631\u0648\u0646 \u0622\u062e\u0631 \u0641\u0648\u0644\u06cc\u06a9\u0648\u0644\u0627\u0631 \u0628\u0631 \u0646\u062a\u0627\u06cc\u062c \u0628\u0627\u0631\u0648\u0631\u06cc \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u06cc \u0628\u0627 \u062a\u0632\u0631\u06cc\u0642 \u062f\u0627\u062e\u0644 \u0633\u06cc\u062a\u0648\u067e\u0644\u0627\u0633\u0645\u06cc \u0627\u0633\u067e\u0631\u0645: \u0645\u0637\u0627\u0644\u0639\u0647 \u0645\u0648\u0631\u062f \u0634\u0627\u0647\u062f\u06cc\u200e",
+        "pub_year": "2020",
+        "citation": "International Journal of Reproductive BioMedicine 18 (5), 367-374, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:hkOj_22Ku90C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Green Lifestyle: Menuju Universitas Berkelanjutan\"",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Kolam Kepiting Makara Sebagai Model Pengembangan Ekonomi Masyarakat Pesisir Elalui Budidaya Kepiting Dengan Cara Hybrid Di Desa Sukarame, Banten\"",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification of NS2B-NS3 dengue virus serotype 3 protein as raw material for dengue virus vaccine",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1442 (1), 012070, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Endemic species: Morphometric differences between male and female of black-winged myna (Acridotheres melanopterus)",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1402 (3), 033071, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of combination of methanol with several concentration of honey solution on sperm quality of botia Chromobotia macracanthus Bleeker 1852 after short-term storage at\u2212 80\u2103",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Erratum: In a relationship: sister species in mixed colonies, with a description of new Chikunia species (Theridiidae)",
+        "pub_year": "2019",
+        "citation": "Zoological Journal of the Linnean Society 187 (4), 1278-1278, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree Risk Assessment using VTA at Universitas Indonesia",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 546 (2), 022010, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree Risk Management at Universitas Indonesia",
+        "pub_year": "2019",
+        "citation": "6th Asian Conference on Safety in Education & Laboratory, 20, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:9vf0nzSNQJEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wildlife Management (Snake) at Universitas Indonesia",
+        "pub_year": "2019",
+        "citation": "6th Asian Conference on Safety in Education & Laboratory, 21, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Program Komputer\" Sensor Node Untuk Pemantauan Kondisi Lingkungan: Pemantauan Gas CO2, Temperatur Dan Kelambapan Udara, Dan Intensitas Cahaya\"",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kurangi Dan Pilah Sampah",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penanganan Sampah Terpadu",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Kurangi Dan Pilah Sampah\"",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Animasi Sosialisasi Nomor Darurat Di Universitas Indonesia",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Induksi Keselamatan Ruang Rapat UPT K3L UI Lantai 2 Gedung Integrated Laboratory Research Center Universitas Indonesia",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Penanganan Sampah Terpadu\"",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Animasi Kawasan Tertib Lalu Lintas Di Universitas Indonesia",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:08ZZubdj9fEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stop Contra Flow Di Universitas Indonesia",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PCA (Principal Component Analysis) application to differentiate hybrid and pure black-winged myna (Acridotheres melanopterus)",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 434 (1), 012138, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of environmental conditions on physiological response of Bali cattle in Bogor district and West Sumbawa district",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of novel variation in introns three and four of the iduronate-2-sulfatase gene in patients with mucopolysaccharidosis type II",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1073 (3), 032073, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correlation between androgen levels in follicular fluid and granulose cell FSHR expression in poor responder women",
+        "pub_year": "2018",
+        "citation": "Journal of Physics: Conference Series 1073 (3), 032054, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Induksi Keselamatan Gedung Art Center UI",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Induksi Keselamatan Ruang Auditorium Lantai 2, Gedung Integrated Laboratory Research Center Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Induksi Keselamatan Ruang Apung Perpustakaan Pusat Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Induksi Keselamatan Ruang Rapat 2A Lantai 2, Pusat Administrasi Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Induksi Keselamatan Ruang Sidang Lantai 9, Gedung Pusat Administrasi Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Induksi Keselamatan Balairung Universitas Indonesia",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Video Penanganan Bahan Kimia",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The total body length and body weight examination among gabus Sentani fish population, Oxyeleotris heterodon, Weber 1907 (Pisces: Eleotridae) of Sentani lake, Papua, Indonesia",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1862 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphology and protein molecular weight analysis from three variant of oil palm pollen; Dura, Pisifera, and Tenera",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1862 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative study of freshwater crayfish, Cherax spp.(crustaceae: decapoda: parastacidae) from Papua, Indonesia based on length-weight analysis",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1862 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ArcPSO: Ellipse detection method using particle swarm optimization and arc combination",
+        "pub_year": "2015",
+        "citation": "2014 International Conference on Advanced Computer Science and Information \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kompresi EKG 12 LEAD",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Terrain: Sistem Telehealth Pertumbuhan Janin",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LH receptor gene expression in Granulosa Cells in Poor Responder Women Undergoing IVF Treatment",
+        "pub_year": "2014",
+        "citation": "Aspire, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ooctyte and Granulosa-Cumulus Cells Interactions: LH Receptor mRNA Expression on The Oocyte Quality",
+        "pub_year": "2014",
+        "citation": "Aspiro, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological Differences between Embryos Treated with In Vitro Maturation and Routine IVF Detected with Time Lapse Monitoring Incubator",
+        "pub_year": "2014",
+        "citation": "Aspire, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetics Profiling and Reproductive Performance on Indonesian Wild Cattle, Banteng (Bos javanicus d\u2019Alton, 1823): Understanding the Potency of Climate Change Impacts on Food \u2026",
+        "pub_year": "2013",
+        "citation": "AIPI, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Characteristics and Non-Structural Protein 1 (NS1) Expression of Four Dengue Virus Serotypes in Various Cell Lines",
+        "pub_year": "2011",
+        "citation": "Eijkman Institute, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survival factors in bovine corpus luteum",
+        "pub_year": "2011",
+        "citation": "FMIPA UI, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Possible Anti-Apoptotic Roles Of Prostaglandins in Bovine Luteal Cells",
+        "pub_year": "2011",
+        "citation": "NCOP, ACAP, CAS-UI, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survival Role of Locally Produced Acetylcholine in the Bovine Corpus Luteum1",
+        "pub_year": "2009",
+        "citation": "Biology of reproduction 80 (4), 823-832, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on anti-apoptotic factors in bovine corpus luteum",
+        "pub_year": "2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-apoptotic roles of luteinizing hrmone in bovine luteal steroidogenic cells",
+        "pub_year": "2009",
+        "citation": "The Journal of Reproduction and Development Supplement The 102nd Meeting of \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Possible antiapoptotic roles of prostaglandins in bovine luteal cells.",
+        "pub_year": "2007",
+        "citation": "BIOLOGY OF REPRODUCTION, 180-181, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survival factors against apoptosis in bovine corpus luteum.",
+        "pub_year": "2006",
+        "citation": "BIOLOGY OF REPRODUCTION, 170-170, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gene expression of interleukin-1 and its receptor in bovine corpus luteum during the estrous cycle",
+        "pub_year": "2004",
+        "citation": "BIOLOGY OF REPRODUCTION, 201-201, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Telaah Anti Klastogenik Ekstrak Kasar Rimpang Kencur (Kaempferia Galanga L.) terhadap Aktivitas Klastogenik Mitomisin C pada Eritrosit Polikromatik Mencit",
+        "pub_year": "2001",
+        "citation": "Media Penelitian dan Pengembangan Kesehatan 11 (3), 150976, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:9Nmd_mFXekcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transferrin Gene Cloning and Sequencing Analysis from Indonesian Nile Tilapia (Oreochromis niloticus)",
+        "pub_year": "1729",
+        "citation": "AIP Conference Proceedings 20061 (2016), 1729"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determining Water Quality Status in University of Indonesia Depok Campus Lakes with STORET Method",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:zLWjf1WUPmwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combined U-Net Blastocyst Segmentation and Sequential Time-Lapse Blastocysts Images Could Improve Deep Learning-Based Algorithm for Ploidy Status Prediction",
+        "citation": "Available at SSRN 4509397, 0"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:uc_IGeMz5qoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "International Advisory Board",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:yB1At4FlUx8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In a relationship: sister-species in mixed colonies, with a description of Chikunia bilde (Theridiidae)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh larutan madu sebagai krioprotektan alami terhadap kualitas sperma ikan botia (Chromobotia macracanthus Bleeker 1852)",
+        "citation": "Jurnal Iktiologi Indonesia 20 (3), 205-216, 0"
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "About SEAS",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Characteristics and Cytokine Induction Profiles of Four Dengue Virus Serotypes in Various Cell Lines",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Author\u2019s Index",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "2WNaDL8AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 6,
+    "not_available": 1
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "4F7FZYOgcwMC",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dianursanti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4F7FZYOgcwMC&citpid=2",
+  "affiliation": "Chemical Engineering Department, Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Bioprocess Engineering"
+  ],
+  "email_domain": "@ui.ac.id",
+  "citedby": 537,
+  "citedby5y": 245,
+  "hindex": 9,
+  "hindex5y": 7,
+  "i10index": 9,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2008": 4,
+    "2009": 4,
+    "2010": 8,
+    "2011": 18,
+    "2012": 30,
+    "2013": 18,
+    "2014": 34,
+    "2015": 31,
+    "2016": 32,
+    "2017": 39,
+    "2018": 52,
+    "2019": 28,
+    "2020": 45,
+    "2021": 66,
+    "2022": 41,
+    "2023": 37,
+    "2024": 28
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of light supply and carbon source on cell growth and cellular composition of a newly isolated microalga Chlorella vulgaris ESP\u201031",
+        "pub_year": "2010",
+        "citation": "Engineering in Life Sciences 10 (3), 201-208, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:a0OBvERweLwC",
+      "num_citations": 256,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10587201896416147829",
+      "cites_id": [
+        "10587201896416147829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of n-hexane as co-solvent to increase biodiesel yield on direct transesterification reaction from marine microalgae",
+        "pub_year": "2015",
+        "citation": "Procedia environmental sciences 23, 412-420, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:MXK_kJrjxJIC",
+      "num_citations": 62,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6010373095278605758",
+      "cites_id": [
+        "6010373095278605758"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Surface hardening of tool steel by plasma arc with multiple passes",
+        "pub_year": "2014",
+        "citation": "International Journal of Technology 1, 79-87, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:u5HHmVD_uO8C",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16396172235612159802",
+      "cites_id": [
+        "16396172235612159802"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of compatibilizer addition in Spirulina platensis based bioplastic production",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2092 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:CHSYGLWDkRkC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12087683167126746459",
+      "cites_id": [
+        "12087683167126746459"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced Chlorella vulgaris Buitenzorg growth by photon flux density alteration in serial photobioreactors",
+        "pub_year": "2008",
+        "citation": "Biotechnology and bioprocess engineering 13, 476-482, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:8k81kl-MbHgC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13269616576124571779",
+      "cites_id": [
+        "13269616576124571779"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of photoperiodicity on CO2 fixation by Chlorella vulgaris Buitenzorg in bubble column photobioreactor for food supplement production",
+        "pub_year": "2010",
+        "citation": "Makara Journal of Technology 8 (2), 35-43, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:dfsIfKJdRG4C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1100912468066463967",
+      "cites_id": [
+        "1100912468066463967"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic model for triglyceride hydrolysis using lipase",
+        "pub_year": "2007",
+        "citation": "Makara Journal of Technology 11 (1), 6, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:fPk4N6BV_jEC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5410148701624677899",
+      "cites_id": [
+        "5410148701624677899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass production Chlorella vulgaris Buitenzorg using series of bubble column photo bioreactor with a periodic illumination",
+        "pub_year": "2010",
+        "citation": "Makara Journal of Technology 12 (1), 27-30, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:d1gkVwhDpl0C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9940101572420848669,14246116474669698885",
+      "cites_id": [
+        "9940101572420848669",
+        "14246116474669698885"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of carbon dioxide fixation by alteration of illumination duringChlorella vulgaris-Buitenzorg's growth",
+        "pub_year": "2006",
+        "citation": "Biotechnology and bioprocess engineering 11, 484-488, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:W7OEmFMy1HYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5116450980289634429",
+      "cites_id": [
+        "5116450980289634429"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Penggunaan Koagulan pada Pengolahan Air Limbah Batubara",
+        "pub_year": "2010",
+        "citation": "Prosiding Seminar Nasional Teknik Kimia \u201cKejuangan\u201d ISSN 1693, 4393, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:_xSYboBqXhAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14169272312445057825,8273701446259826673",
+      "cites_id": [
+        "14169272312445057825",
+        "8273701446259826673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of light illumination alteration on Chlorella vulgaris Buitenzorg's CO2 fixation in bubble column photobioreactor",
+        "pub_year": "2006",
+        "citation": "International Journal on Algae 8 (1), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:roLk4NBRz8UC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=617467172199563810",
+      "cites_id": [
+        "617467172199563810"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of maceration and soxhletation method for flavonoid production from Spirulina platensis as a sunscreen\u2019s raw material",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2230 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:xtRiw3GOFMkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12243757387841877515",
+      "cites_id": [
+        "12243757387841877515"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of adding microalgae extract Spirulina platensis containing flavonoid in the formation of Sunscreen towards cream stability and SPF values",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:KxtntwgDAa4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7841434044760482970",
+      "cites_id": [
+        "7841434044760482970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced Chlorella vulgaris buitenzorg growth by photon flux density alteration in serial bubble column photobioreactors",
+        "pub_year": "2007",
+        "citation": "ASEAN Journal of Chemical Engineering 7 (1 & 2), 89-101, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:UebtZRa9Y70C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18118782837263863865",
+      "cites_id": [
+        "18118782837263863865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alteration of Light illumination during microbial growth, an enhancement effort of carbon dioxide fixation and biomass production by Chlorella vulgaris Buitenzorg",
+        "pub_year": "2005",
+        "citation": "8th International Conference on Carbon Dioxide Utilization, Oslo, Norway, 48-49, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:bFI3QPDXJZMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6767505168551944354",
+      "cites_id": [
+        "6767505168551944354"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Solvent Hydrophilicity on the Enzymatic Ring-Opening Polymerization of L-Lactide by Candida rugosa Lipase",
+        "pub_year": "2022",
+        "citation": "Polymers 14 (18), 3856, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:abG-DnoFyZgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6496015382939134286",
+      "cites_id": [
+        "6496015382939134286"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan produksi biomassa Chlorella vuldaris melalui perlakuan teknik pemerangkapan sel dalam aliran sirkulasi media kultur",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Kimia Indonesia 8 (3), 87-93, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:mB3voiENLucC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16576998679312689887",
+      "cites_id": [
+        "16576998679312689887"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adsorption of Alkyl Benzene Sulfonate Surfactant on Activated carbon For Biobarrier Purpose",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 1 st International Conference on Natural Resources \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:9yKSN-GCB0IC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1348724641380379824",
+      "cites_id": [
+        "1348724641380379824"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of nutrient arrangement on biomass growth and lipid content of microalgae Nannochloropsis oculata in internally illuminated bubble column photobioreactor",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2024 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:f2IySw72cVMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6404797640160431416",
+      "cites_id": [
+        "6404797640160431416"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of microalgae Nannochloropsis oculata biomass in a bubble column photobioreactor with integrated lighting through adjustment of light intensity and air flow rate",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2024 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:D03iK_w7-QYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1129523277741047143",
+      "cites_id": [
+        "1129523277741047143"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulated flue gas fixation for large-scale biomass production of Chlorella vulgaris Buitenzorg",
+        "pub_year": "2009",
+        "citation": "International Journal on Algae 11 (4), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:4TOpqqG69KYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2303405948605204338",
+      "cites_id": [
+        "2303405948605204338"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solvent extraction of polyhydroxybutyrate with NaClO from Spirulina platensis for capsule ingredients",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:nb7KW1ujOQ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14289736918049199798",
+      "cites_id": [
+        "14289736918049199798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Electrode Al-Cu-Zn as Electricity Production Using Microalgae Spirulina platensis in Biological Cell Photovoltaic (BPV) Reactor",
+        "pub_year": "2017",
+        "citation": "Proceedings on Science and Technology, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:cFHS6HbyZ2cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7223238292879386307",
+      "cites_id": [
+        "7223238292879386307"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Discontinous Filtration System for Enhancing Biomass Production and CO2 Fixation from Chlorella vulgaris Buitenzorg",
+        "pub_year": "2012",
+        "citation": "International Journal on Algae 14 (4), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:-f6ydRqryjwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15449361271333887138",
+      "cites_id": [
+        "15449361271333887138"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PPFD alteration and cellular filtration for large scale biomass production of Chlorella vulgaris Buitenzorg",
+        "pub_year": "2009",
+        "citation": "Journal of Bioscience and Bioengineering, S117, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12435405898902231026",
+      "cites_id": [
+        "12435405898902231026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Special Issues",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:NhqRSupF_l8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13223940574550245904,12344905533786571902",
+      "cites_id": [
+        "13223940574550245904",
+        "12344905533786571902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "NOx Enriched Flue Gas Fixation for Biomass Production of Chlorella Vulgaris Buitenzorg",
+        "citation": "Asean Journal of Chemical Engineering, 14-20, 0"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:R3hNpaxXUhUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13153120873667061312,17680563175545407012",
+      "cites_id": [
+        "13153120873667061312",
+        "17680563175545407012"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of the light intensity and the reactor geometry on the microalgae yield in a bubble-column photobioreactor",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of adding microalgae Spirulina platensis in making antibacterial soap",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of carbon dioxide mass transfer in an annular bubble column",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2024 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effects of Cells Density Arrangement in Chlorella vulgaris Culture to CO2 Fixation and Essential Substances Production",
+        "pub_year": "2012",
+        "citation": "Journal of Chemistry and Chemical Engineering 6 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Browse Article",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Browse Article",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Browse Article",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOAVAILABILITY OF MONOCHLOROBENZE AND BENZENE ON AEROBIC GRANULAR ACTIVATED CARBON COLUMN",
+        "citation": "Journal of Chemical and Natural Resources Engineering 4 (1), 34-42, 0"
+      },
+      "filled": false,
+      "author_pub_id": "4F7FZYOgcwMC:BqipwSGYUEgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

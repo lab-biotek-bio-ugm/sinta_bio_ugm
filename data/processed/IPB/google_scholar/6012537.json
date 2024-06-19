@@ -1,0 +1,949 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "t7ufDD0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Rita Megia",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t7ufDD0AAAAJ&citpid=2",
+  "affiliation": "Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Banana biotechnology",
+    "plant tissue culture",
+    "medicinal plant",
+    "under-utilized plant"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 408,
+  "citedby5y": 176,
+  "hindex": 11,
+  "hindex5y": 7,
+  "i10index": 12,
+  "i10index5y": 6,
+  "cites_per_year": {
+    "1992": 1,
+    "1993": 3,
+    "1994": 4,
+    "1995": 5,
+    "1996": 6,
+    "1997": 10,
+    "1998": 7,
+    "1999": 1,
+    "2000": 10,
+    "2001": 7,
+    "2002": 13,
+    "2003": 7,
+    "2004": 3,
+    "2005": 11,
+    "2006": 6,
+    "2007": 4,
+    "2008": 3,
+    "2009": 13,
+    "2010": 12,
+    "2011": 10,
+    "2012": 12,
+    "2013": 6,
+    "2014": 9,
+    "2015": 8,
+    "2016": 10,
+    "2017": 15,
+    "2018": 26,
+    "2019": 33,
+    "2020": 19,
+    "2021": 41,
+    "2022": 37,
+    "2023": 40,
+    "2024": 6
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zHBYbyIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Alex Hartana",
+      "affiliation": "Professor of Genetics, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nZxzS2wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jean-Pierre Horry",
+      "affiliation": "CIRAD"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tXE40toAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Phebe Ding",
+      "affiliation": "Universiti Putra Malaysia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "McTcdVkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "hajrial aswidinnoor",
+      "affiliation": "Division of Plant Breeding and Genetics, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "pIPoCckAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "YUSNITA YUSNITA",
+      "affiliation": "University of Lampung Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KN6rl14AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hadisunarso",
+      "affiliation": "Department of Biology, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2VO63BoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Elizabeth A. Widjaja",
+      "affiliation": "Professor of Taxonomy, Herbarium Bogoriense Botany Division, Research Centre for Biology, LIPI"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant regeneration from cultured protoplasts of the cooking banana cv. Bluggoe (Musa spp., ABB group)",
+        "pub_year": "1993",
+        "citation": "Plant Cell Reports 13, 41-44, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 77,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9989243058532922867",
+      "cites_id": [
+        "9989243058532922867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callus formation from cultured protoplasts of banana (Musa sp.)",
+        "pub_year": "1992",
+        "citation": "Plant Science 85 (1), 91-98, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 50,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4664918184569887695",
+      "cites_id": [
+        "4664918184569887695"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Musa balbisiana Colla in Indonesia based on AFLP marker",
+        "pub_year": "2014",
+        "citation": "HAYATI Journal of Biosciences 21 (1), 39-47, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13255753536853790327",
+      "cites_id": [
+        "13255753536853790327"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Musa sebagai model genom",
+        "pub_year": "2005",
+        "citation": "Hayati Journal of Biosciences 12 (4), 167-170, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6033826113366339092",
+      "cites_id": [
+        "6033826113366339092"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Applications of biotechnologies to banana breeding: haplogenesis, plant regeneration from protoplasts, and transformation",
+        "pub_year": "1993",
+        "citation": "Proceedings of the Work. Biotechnol. Appl. Banan. plantain Impro, 52-62, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17616643707272039759",
+      "cites_id": [
+        "17616643707272039759"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Two new records of wild bananas (Musa balbisiana and Musa itinerans) from Sulawesi",
+        "pub_year": "2014",
+        "citation": "Makara Journal of Science 18 (1), 6, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15279271965264777171",
+      "cites_id": [
+        "15279271965264777171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salak (Salacca zalacca (Gaertner) Voss)",
+        "pub_year": "2011",
+        "citation": "Postharvest biology and technology of tropical and subtropical fruits, 334-352e, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18226386180481018767",
+      "cites_id": [
+        "18226386180481018767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Morfologi dan Anatomi, serta Kandungan Klorofil Lima Kultivar Tanaman Penyerap Polusi Udara Sansevieria trifasciata.",
+        "pub_year": "2015",
+        "citation": "Jurnal Sumberdaya Hayati 1 (2), 34-40, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:qUcmZB5y_30C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18364905763129477936",
+      "cites_id": [
+        "18364905763129477936"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microsatellite markers for classifying and analysing genetic relationship between banana cultivars in Indonesia",
+        "pub_year": "2009",
+        "citation": "V International Symposium on Banana: ISHS-ProMusa Symposium on Global \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7648784336193675203",
+      "cites_id": [
+        "7648784336193675203"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ratnasari, & Hadisunarso.(2015). Karakteristik morfologi dan anatomi, serta kandungan klorofil lima kultivar tanaman penyerap polusi udara Sansevieria trifasciata",
+        "citation": "Jurnal Sumberdaya Hayati 1 (2), 34-40, 0"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:u9iWguZQMMsC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17462366352346750672",
+      "cites_id": [
+        "17462366352346750672"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Folic acid content and fruit characteristics of five Indonesian dessert banana cultivars",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (1), 144-151, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:ZHo1McVdvXMC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10063791307395911751",
+      "cites_id": [
+        "10063791307395911751"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Based Classification and Phylogenetic Analysis of Indonesian Banana Cultivars",
+        "pub_year": "2009",
+        "citation": "IPB (Bogor Agricultural University), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:tOudhMTPpwUC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1061232894609950819",
+      "cites_id": [
+        "1061232894609950819"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KRIOPRESERVASI TANAMAN PURWOCENG {Pimpinella pruatjan Molk.) DENGAN TEKNIK VITRIFIKASI",
+        "pub_year": "2007",
+        "citation": "Berita Biologi 8 (6), 423-431, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:35N4QoGY0k4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10981772960629066851",
+      "cites_id": [
+        "10981772960629066851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic Relationships of Indonesian Banana Cultivars Inffered from trnL-F Intergenic Spacer of Chloroplast DNA",
+        "pub_year": "2014",
+        "citation": "Floribunda 4 (8), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:TQgYirikUcIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5651785845389065264",
+      "cites_id": [
+        "5651785845389065264"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular verification and diversity analysis of Indonesian BB, AAB and ABB banana cultivars",
+        "pub_year": "2010",
+        "citation": "Tree and Forestry Science and Biotechnology 4 (1), 69-76, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9897945800618957537",
+      "cites_id": [
+        "9897945800618957537"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kariotipe Musa acuminata \u201cMas Jambe\u201d dan M. Balbisiana \u201cKlutuk Wulung\u201d",
+        "pub_year": "1998",
+        "citation": "Hayati 5, 54-57, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4306449752319824178",
+      "cites_id": [
+        "4306449752319824178"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi integritas genomik pisang hasil iradiasi in vitro berdasarkan penanda mikrosatelit",
+        "pub_year": "2011",
+        "citation": "Makara Journal of Science 14 (2), 8, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:aqlVkmm33-oC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16388340020866102771",
+      "cites_id": [
+        "16388340020866102771"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and evaluation of Musa acuminata cultivars in Indonesia based on microsatellite markers",
+        "pub_year": "2010",
+        "citation": "Floribunda 4 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17622129932611305438",
+      "cites_id": [
+        "17622129932611305438"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Musa as a genomics model",
+        "pub_year": "2005",
+        "citation": "HAYATI Journal of Biosciences 12 (4), 167-167, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:8k81kl-MbHgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9821294117887729886",
+      "cites_id": [
+        "9821294117887729886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ripe pulp metabolite profiling of ten Indonesian dessert banana cultivars using UHPLC-Q-Orbitrap HRMS",
+        "pub_year": "2021",
+        "citation": "European Food Research and Technology 247, 2821-2830, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7379660086646610422",
+      "cites_id": [
+        "7379660086646610422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of gene candidate of Nucleotide Binding Site (NBS) from banana Musa acuminata Colla var Malaccensis (Riddl.) Nasution and Musa, AAA, Cavendish sub-group.",
+        "pub_year": "2015",
+        "citation": "Pakistan Journal of Biological Sciences 18 (3), 99-106, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:IWHjjKOFINEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1768351177053102359",
+      "cites_id": [
+        "1768351177053102359"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isozyme polymorphisms for cultivar identification in Indonesian banana",
+        "pub_year": "2001",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16644116104692632948",
+      "cites_id": [
+        "16644116104692632948"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis genetika ubijalar berdaging umbi jingga melalui persilangan dengan Ipomoea trifida diploid",
+        "pub_year": "2004",
+        "citation": "Hayati 11 (4), 139-144, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:hC7cP41nSMkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5873367855033149882",
+      "cites_id": [
+        "5873367855033149882"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetical study of wild banana species (Musa L.) in Sulawesi inferred from internal transcribed spacer region of nuclear ribosomal DNA sequences",
+        "pub_year": "2014",
+        "citation": "Biotropia 21 (1), 13-24, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7948412909859543690",
+      "cites_id": [
+        "7948412909859543690"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter anatomi daun kultur purwoceng pascakonservasi in vitro",
+        "pub_year": "2011",
+        "citation": "Indonesian Ministry of Agriculture, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3941179634865416058",
+      "cites_id": [
+        "3941179634865416058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi dan evaluasi metode kriopreservasi Purwoceng",
+        "pub_year": "2013",
+        "citation": "Industrial Crops Research Journal 19 (3), 147-157, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:maZDTaKrznsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7272456242853910457",
+      "cites_id": [
+        "7272456242853910457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of cell and protoplast cultures for banana improvement biotechnologies",
+        "pub_year": "1993",
+        "citation": "CIRAD-FLHOR, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:Tiz5es2fbqcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3580384562851453497",
+      "cites_id": [
+        "3580384562851453497"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE ECOLOGY AND DISTRIBUTION OF FREYCINETIA GAUD.(PANDANACEAE; FREYCINETOIDEAE) IN THE INDONESIAN NEW GUINEA",
+        "pub_year": "2010",
+        "citation": "Reinwardtia 13 (2), 189-197, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4875757954350234263",
+      "cites_id": [
+        "4875757954350234263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi in vitro tanaman obat langka asli Indonesia Pimpinella pruatjan Molk. secara pertumbuhan minimal dan kriopreservasi untuk protokol standar di bank gen",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:08ZZubdj9fEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12504929268201452195",
+      "cites_id": [
+        "12504929268201452195"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Banana Bunchy Top Vlrus Menggunakan Immuno Capture Polymerase Chain Reaction",
+        "pub_year": "1997",
+        "citation": "IPB (Bogor Agricultural University), 1997"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:KxtntwgDAa4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9732817275511191625",
+      "cites_id": [
+        "9732817275511191625"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Obtention de suspensions cellulaires embryog\u00e8nes, ma\u00eetrise du d\u00e9veloppement \u00e0 partir de protoplastes et premiers essais de transformation chez les bananiers [Obtention of \u2026",
+        "pub_year": "1993",
+        "citation": "Universit\u00e9 de Paris Sud-Centre d'Orsay, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11785050359859739219",
+      "cites_id": [
+        "11785050359859739219"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callus formation from cultured protoplasts of banana (Musa sp.).",
+        "pub_year": "1991",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:LPZeul_q3PIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18134886288390298078",
+      "cites_id": [
+        "18134886288390298078"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ma\u00eetrise de la culture et de la reg\u00e9n\u00e9ration des protoplastes de bananier, en vue de la cr\u00e9ation de nouvelles structures g\u00e9n\u00e9tiques",
+        "citation": "Dubois J., Demarly Y., Quel avenir pour l'am\u00e9lioration des plantes, 211-225, 0"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3858562295367355484",
+      "cites_id": [
+        "3858562295367355484"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Antioksidan Daging Buah Sepuluh Kultivar Pisang Meja Indonesia",
+        "pub_year": "2023",
+        "citation": "BioWallacea: Jurnal Penelitian Biologi (Journal of Biological Research) 10 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANATOMI DAUN BEBERAPA JENIS BIOPHYTUM (OXALIDACEAE) DI INDONESIA BERDASARKAN LETAK STOMATA DAN BENTUK DINDING SEL EPIDERMIS",
+        "pub_year": "2022",
+        "citation": "Floribunda 7 (1), 30-35, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMBIAKAN MIKRO BERBAGAI GENOTIPE PISANG (Musa spp)",
+        "pub_year": "2013",
+        "citation": "Berkala Ilmiah Agroteknologi Plumula 2 (2), 156-164, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE ECOLOGY AND DISTRIBUTION OF FREYCINETIA GAUD.(PANDANACEAE; FREYCINETOIDEAE) IN THE INDONESIAN NEW GUINEA",
+        "pub_year": "2010",
+        "citation": "Herbarium Bogoriense Botany Division Research Centre for Biology\u2013LIPI \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Dini Galur Kacang Tanah Yang Resisten Terhadap Infeksi Sclerotium Rolfsii Hasil Seleksi in Vitro Dengan Filtrat Kultur S. Rolfsii",
+        "pub_year": "2006",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 6 (1), 41-51, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Jurnal Pemuliaan Indonesia Indonesian Journal of Breeding",
+        "pub_year": "2005",
+        "citation": "Indonesian Journal of Breeding 16 (2), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIASI SOMAKLONAL DAN INDUKSI MUTASI IN VITRO GUNA MEMPERCEPAT PEMULIAAN TANAMAN PISANG",
+        "pub_year": "2005",
+        "citation": "Zuriat 16 (2), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of germplasm and use of in vitro technique to support banana breeding in Indonesia",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preservation of patchouly as a result of somaclonal variation through encapsulation",
+        "pub_year": "2000",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kariotipe Musa acuminata'Mas Jambe'dan M. balbisiana'Klutuk Wulung'[Karyotyping Musa acuminata'Mas Jambe'and M. balbisiana'Klutuk Wulung']",
+        "pub_year": "1998",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi banana bunchy top virus menggunakan immuno capture polymerase chain reaction [Detection of banana bunchy top virus using immuno capture polymerase chain reaction]",
+        "pub_year": "1997",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan teknik in vitro dalam pemuliaan pisang [Application of in vitro technique in banana improvement]",
+        "pub_year": "1997",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Embriogenesis somatik pada beberapa kultivar pisanq (Musa spp.) Indonesia [Somatic embryogenesis in indonesian banana cultivars (Musa spp.)]",
+        "pub_year": "1997",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:abG-DnoFyZgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isozyme variation on several banana (Musa spp.) cultivars of Indonesia",
+        "pub_year": "1997",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Obtention de suspensions embryogenes, maitrise du developpement a partir de protoplastes et premiers essais de transformation chez les bananiers",
+        "pub_year": "1993",
+        "citation": "Paris 11, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Obtaining embryogenic cell suspensions, controlled development of protoplasts and initial trials of transformation in banana.",
+        "pub_year": "1993",
+        "citation": "Obtaining embryogenic cell suspensions, controlled development of \u2026, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The distribution of Digitaria ciliaris (Retz.) Koeler and D. sanguinalis (L.) Scop. in New South Wales, Australia.",
+        "pub_year": "1986",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Weed seedling of Poaceae (Gramineae) in Indonesia rice field [taxonomic account].",
+        "pub_year": "1982",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "[Croton sparsiflorus Morong [Euphorbiaceae], a new weed species in Indonesia?].[Indonesian]",
+        "pub_year": "1981",
+        "citation": "SEAMEO Regional Center for Tropical Biology, Bogor (Indonesia). 5. Kongres \u2026, 1981"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi dan Viabilitas Polen Pisang Liar dan Pisang Budidaya.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seminar Hasil-Hasil Penelitian Ilmu Hayat",
+        "citation": "IPB (Bogor Agriculture University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomi dan pola pit isozim tanaman Ipomoea trifida yang tahan dan retan terhadap penyakit kudis Elsinoe batatas",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Morfologi, Anatomi, Dan Kandungan Klorofil Lima Kultivar Tanaman Penyerap Polusi Udara Sansevieria trifasciata",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Salak (Salacca zalacca (Gaertner) Voss)",
+        "citation": "Woodhead, 0"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reaksi Embrio Somatik Kedelai terhadap Polietilena Glikol dan Penggunaannya untuk Seleksi In Vitro terhadap Cekaman Kekeringan",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "t7ufDD0AAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

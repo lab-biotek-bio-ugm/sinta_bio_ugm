@@ -1,0 +1,70 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "source": "SEARCH_AUTHOR_SNIPPETS",
+  "scholar_id": "VD3shhQAAAAJ",
+  "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=VD3shhQAAAAJ",
+  "name": "Aditya Dimas Pramudya",
+  "affiliation": "Unknown affiliation",
+  "email_domain": "",
+  "interests": [],
+  "citedby": 28,
+  "citedby5y": 28,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2020": 4,
+    "2021": 7,
+    "2022": 7,
+    "2023": 5,
+    "2024": 5
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of surface defects on the interaction of the oxygen molecule with the ZnO (101 [combining macron] 0) surface",
+        "pub_year": "2020",
+        "citation": "New Journal of Chemistry 44 (18), 7376-7385, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VD3shhQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9229722613912788508",
+      "cites_id": [
+        "9229722613912788508"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Density functional study on benzene, toluene, Ethylbenzene and xylene adsorptions on ZnO (100) surface",
+        "pub_year": "2019",
+        "citation": "Molekul 14 (1), 37-47, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VD3shhQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4702766684667556698",
+      "cites_id": [
+        "4702766684667556698"
+      ]
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

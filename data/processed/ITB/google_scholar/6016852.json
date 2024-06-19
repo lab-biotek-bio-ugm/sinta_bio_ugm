@@ -1,0 +1,928 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "WXTaUFkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ahmad Ridwan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WXTaUFkAAAAJ&citpid=3",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Biologi",
+    "Fisiologi"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "http://sith.itb.ac.id/",
+  "citedby": 274,
+  "citedby5y": 151,
+  "hindex": 7,
+  "hindex5y": 6,
+  "i10index": 5,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "1996": 7,
+    "1997": 5,
+    "1998": 3,
+    "1999": 4,
+    "2000": 5,
+    "2001": 2,
+    "2002": 3,
+    "2003": 2,
+    "2004": 4,
+    "2005": 5,
+    "2006": 4,
+    "2007": 4,
+    "2008": 3,
+    "2009": 3,
+    "2010": 3,
+    "2011": 9,
+    "2012": 1,
+    "2013": 2,
+    "2014": 5,
+    "2015": 6,
+    "2016": 10,
+    "2017": 16,
+    "2018": 16,
+    "2019": 13,
+    "2020": 22,
+    "2021": 44,
+    "2022": 35,
+    "2023": 25,
+    "2024": 11
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Presence of potential prey affects web-building in an orb-weaving spider Zygiella x-notata",
+        "pub_year": "1994",
+        "citation": "Animal Behaviour 47 (2), 477-480, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3686528077180439989",
+      "cites_id": [
+        "3686528077180439989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengukuran efek antidiabetes polifenol (polyphenon 60) berdasarkan kadar glukosa darah dan histologi pankreas mencit (Mus musculus l.) sw jantan yang dikondisikan diabetes mellitus",
+        "pub_year": "2012",
+        "citation": "Jurnal Matematika dan Sains 17 (2), 78-82, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16771992019119822682",
+      "cites_id": [
+        "16771992019119822682"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chondrogenic differentiation of Wharton\u2019s Jelly mesenchymal stem cells on silk spidroin-fibroin mix scaffold supplemented with L-ascorbic acid and platelet rich plasma",
+        "pub_year": "2020",
+        "citation": "Scientific Reports 10 (1), 19449, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5197838651843868900",
+      "cites_id": [
+        "5197838651843868900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vasodilatation effect of ethanolic extract of Anredera cordifolia, Sonchus arvensis L, and ursolic acid on isolated rabbit aortic and frog heart",
+        "pub_year": "2016",
+        "citation": "International Journal of Pharmacy and Pharmaceutical Sciences, 145-149, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3990252215194938901",
+      "cites_id": [
+        "3990252215194938901"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Dan Prevalensi Risiko Penyakit Kardiovaskular Pada Tukang Masak Warung Makan Di Wilayah Kerja Puskesmas Tamalanrea",
+        "pub_year": "2018",
+        "citation": "Jurnal Kesehatan 11 (1), 30-38, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:u9iWguZQMMsC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6352519532292304008",
+      "cites_id": [
+        "6352519532292304008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vasodilation Effect of Oleanolic Acid and Apigenin as a Metabolite compound of Anredera cordifolia (Ten) V Steenis on isolated rabbit aortic and frog heart",
+        "pub_year": "2016",
+        "citation": "Int. J. Res Ayurveda Pharm 7 (5), 82-84, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:hC7cP41nSMkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11033435767928647276",
+      "cites_id": [
+        "11033435767928647276"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gonodal Maturuty Induction using Karamunting (Melastoma maalabatrhicum) Ethanol Extract on white Shrimp Female (Litopenaeus vannamei)",
+        "pub_year": "2015",
+        "citation": "Proceedings of 6th International Coference on Global Resource Conservation \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:r0BpntZqJG4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12253504918782365457,14963416053962638479",
+      "cites_id": [
+        "12253504918782365457",
+        "14963416053962638479"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Fotoperiode terhadap Respon Stres dan Parameter Reproduksi pada Mencit Jantan (Mus musculus L.) Galur Swiss Webster. Institut Tekhnologi Bandung",
+        "pub_year": "2012",
+        "citation": "Jurnal Matematika & Sains 17 (1), 39-45, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:HDshCWvjkbEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=131344616325695330",
+      "cites_id": [
+        "131344616325695330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diabetes and retinol-binding protein (RBP4): the study of free and exosomal RBP4 in blood plasma and urine of patients",
+        "pub_year": "2020",
+        "citation": "Biomedical and Pharmacology Journal 13 (2), 693-699, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:4DMP91E08xMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1616590523167965363",
+      "cites_id": [
+        "1616590523167965363"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Reactive Oxygen Species (ROS), Superoxide Dismutase (SOD) dengan Protein \u03b1-Sinuklein-Larut Air pada Batang Otak Tikus yang Diinduksi Rotenon",
+        "pub_year": "2015",
+        "citation": "Global Medical and Health Communication 3 (2), 83-92, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16232087470669695248",
+      "cites_id": [
+        "16232087470669695248"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increase of Oxidative Stress and Accumulation of \u03b1-Synuclein in Wistar Rat\u2019s Midbrain Increase of Oxidative Stress and Accumulation of Wistar Rat\u2019s Midbrain Treated with Rotenone",
+        "pub_year": "2012",
+        "citation": "ITB J Sci 44 (4), 317-332, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:ldfaerwXgEUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10157603309902921720",
+      "cites_id": [
+        "10157603309902921720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Protokol LEACH Untuk Meningkatkan Stabilitas Pada Wireless Sensor Network",
+        "pub_year": "2020",
+        "citation": "Jurnal RESTI (Rekayasa Sistem Dan Teknologi Informasi) 1 (1), 193-200, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:738O_yMBCRsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17951113253621277545",
+      "cites_id": [
+        "17951113253621277545"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skrining Potensial Pinang Aceh (Areca catechu L.) Sebagai Elevator Transporter GLUT4 dan Fitokonstituen Antiproliferatif Sel Kanker",
+        "pub_year": "2020",
+        "citation": "Herbal Medicine Journal 3 (1), 6-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10184339952705446618",
+      "cites_id": [
+        "10184339952705446618"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh ekstrak etanol seledr (Apium graveolens) terhadap profil lipid darah dan indeks atherogenik tikus putih (Rattus norvegicus) yang diinduksi hiperlipidemia",
+        "pub_year": "2016",
+        "citation": "Prosiding Symbion (Symposium on Biology Education), Prodi Pendidikan Biologi \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9573371998516396590",
+      "cites_id": [
+        "9573371998516396590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potency of Trigona\u2019s Propolis Extract as Reactive Oxygen Species Inhibitor in Diabetic Mice",
+        "pub_year": "2015",
+        "citation": "J. Math. Fund. Sci., Vol. 47, No. 3, 2015, 261-268 47 (3), 261-268, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1510158906361613507",
+      "cites_id": [
+        "1510158906361613507"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The maturity of Nypa palm worm Namalycastis rhodochorde (Nereididae: Polychaeta)",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 320-324, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=732492355669640221",
+      "cites_id": [
+        "732492355669640221"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Larval development of nypa palm worm Namalycastis rhodochorde (Polychaeta: Nereididae)",
+        "pub_year": "2020",
+        "citation": "Nusantara Bioscience 12 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:-f6ydRqryjwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1545649671810238642",
+      "cites_id": [
+        "1545649671810238642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of the LEACH Protocol to Increase Stability on the Wireless Sensor Network",
+        "pub_year": "2020",
+        "citation": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) 4 (1), 192-200, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14153631683693535619",
+      "cites_id": [
+        "14153631683693535619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Differentiation of human Wharton\u2019s jelly mesenchymal stem cells on biomaterial-based scaffold for cartilage tissue engineering",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13932701822563986189",
+      "cites_id": [
+        "13932701822563986189"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Measurement hormone progesterone and gonadal maturity on white shrimp (Litopenaeus vannamei) after the administration of the karamunting (Melastoma malabhtricum) ethanol extracts",
+        "pub_year": "2020",
+        "citation": "BIOTROPIA-The Southeast Asian Journal of Tropical Biology, 1-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16834218403404319198",
+      "cites_id": [
+        "16834218403404319198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Survival rate Benih Udang Windu (Peaneus monodon) dengan Perendaman Ekstrak Etanol Karamunting (Melastoma malabahricum)",
+        "pub_year": "2016",
+        "citation": "Jurnal Harpodon Borneo 9 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12184967370649064182",
+      "cites_id": [
+        "12184967370649064182"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstrak Etanol Seledri (Apium graveolans) sebagai Anti Atherogenik pada Tikus (Rattus norvegicus) yang Diinduksi Hiperlipidemia",
+        "pub_year": "2016",
+        "citation": "Prosidig Symbion, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12432099967943021565",
+      "cites_id": [
+        "12432099967943021565"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Ekstrak Etanol Biji Pinang Terhadap Densitas GLUT4 pada Sel-Sel Otot Rangka Mencit yang Terinduksi Hiperglikemia",
+        "pub_year": "2016",
+        "citation": "Jurnal Sumberdaya Hayati 2 (2), 52-58, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6765319139125576557",
+      "cites_id": [
+        "6765319139125576557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "R\u00e9ponses comportementales aux variations de facteurs faunistiques du milieu chez une araign\u00e9e \u00e0 toile g\u00e9om\u00e9trique zygiellax-notata (clerck)(araneae, araneidae)",
+        "pub_year": "1993",
+        "citation": "Universit\u00e9 Henri Poincar\u00e9-Nancy 1, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7936746742873937766",
+      "cites_id": [
+        "7936746742873937766"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perancangan Alat Penetas Telur Unggas Dengan Energi Terbarukan Menggunakan Panel Surya",
+        "pub_year": "2023",
+        "citation": "RELE (Rekayasa Elektrikal dan Energi): Jurnal Teknik Elektro 5 (2), 124-128, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9749194952071125238",
+      "cites_id": [
+        "9749194952071125238"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Electrocardiogram Analysis of Hyperlipidemia-Induced Wistar Rats using Wireless Mice Electrocardiogram",
+        "pub_year": "2023",
+        "citation": "Sains Malaysiana 52 (2), 589-597, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3252570488306433785",
+      "cites_id": [
+        "3252570488306433785"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of red spinach (Amaranthus tricolor) extract in shortening the molting duration of vannamei shrimp (Litopenaeus vannamei)",
+        "pub_year": "2021",
+        "citation": "AACL Bioflux: http://www.bioflux.com.ro/journal/ 14 (3), 1271-1281, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11076228206084809661",
+      "cites_id": [
+        "11076228206084809661"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Attachment, spreading, and proliferation of Wharton\u2019s jelly mesenchymal stem cells on scaffold combination of silk fibroin and Argiope appensa silk spidroin",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2346 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:M05iB0D1s5AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15165639434121744194",
+      "cites_id": [
+        "15165639434121744194"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Ekstrak Bayam Merah (Amaranthus tricolor) Dalam Mempersingkat Durasi Molting Udang Vannamei (Litopenaeus van-namei) Dengan metode Dipping",
+        "pub_year": "2019",
+        "citation": "Bachelor Thesis. Institut Teknologi Bandung, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:RGFaLdJalmkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10090956662306205658",
+      "cites_id": [
+        "10090956662306205658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji praklinis 99mTc-kanamisin sebagai radiofarmaka untuk pencitraan infeksi",
+        "pub_year": "2015",
+        "citation": "Jurnal Sains dan Teknologi Nuklir Indonesia (Indonesian Journal of Nuclear \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3785952671158570346",
+      "cites_id": [
+        "3785952671158570346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Pengendalian Internal atas Pengelolaan Keuangan Pemerintah Daerah (studi kasus di kabupaten sorong selatan, provinsi papua barat)",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:WbkHhVStYXYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1478913604687564528",
+      "cites_id": [
+        "1478913604687564528"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RANCANG BANGUN MESIN PENYAJI JUICE BERBASIS MIKROKONROLER (SOFTWARE)",
+        "pub_year": "2010",
+        "citation": "EEPIS Final Project, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14552268774073142469",
+      "cites_id": [
+        "14552268774073142469"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Duration inter spawning on Australian Red Claw Crayfish (Cherax quadricarinatus) and the possibility of its application as feed quality indicator: Preliminary study",
+        "pub_year": "2009",
+        "citation": "Proceedings of International Conference on Science and Technology in Biomass \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2449116342923312682",
+      "cites_id": [
+        "2449116342923312682"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OBSERVATION OF THE SILK-GLAND SYSTEM IN ARGIOPE MODESTA: A POTENTIAL SOURCE FOR BIOMATERIAL SCAFFOLD",
+        "pub_year": "2023",
+        "citation": "Malaysian Journal of Microscopy 19 (2), 184-195, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementasi Penggunaan Digital Marketing Strategi Guna Meningkatkan Target Pemasaran Di UMKM Barokah Desa Rejosari",
+        "pub_year": "2023",
+        "citation": "The 3rd Senodimas, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production performance of kampung hens fed rations containing black soldier fly larvae powder",
+        "pub_year": "2023",
+        "citation": "Iranian Journal of Veterinary Science and Technology 15 (3), 48-56, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERANCANGAN SISTEM INFORMASI DETAK JANTUNG BERBASIS ANDROID PHONE MENGGUNAKAN MEDIA BLUETOOTH",
+        "pub_year": "2022",
+        "citation": "Jurnal Elektro dan Telkomunikasi 8 (2), 76-81, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RANCANG BANGUN SISTEM KONTROL MOTOR INDUKSI TIGA FASA BERBASIS MIKROKONTROLER",
+        "pub_year": "2022",
+        "citation": "JuTEkS (Jurnal Teknik Elektro dan Sains) 9 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alokasi Energi, Fekunditas, dan Sintasan Larva Cacing Nipah Simpatrik (Polychaeta: Nereididae)",
+        "pub_year": "2022",
+        "citation": "Jurnal Kelautan Tropis 25 (2), 131-140, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protofibril formation: decreased total glutathione concentration as an early indicator of neuron damage in the brainstems of Wistar rats treated with rotenone",
+        "pub_year": "2021",
+        "citation": "F1000Research 10, 1158, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAMUNTING (Melastoma malabathricum) EXTRACTS ON WHITE SHRIMP (Litopenaeus vannamei) MATURITY",
+        "pub_year": "2021",
+        "citation": "BIOTROPIA 28 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Study of Morphology and Histology on Papuan Jellyfish Mastigias papua in Kakaban Lake and Sea",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Life Science 11 (2), 181-186, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "peer review: awaiting peer review",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Prolactin Hormone Profile, Patterns and Expression Level of Prolactin, Pit-1, VIP and PREB Gene in Kampung Chicken (Gallus gallus domesticus) Induced by Anti \u2026",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth response larvae of giant tiger (Penaues monodon) on ethanol extract of Karamunting (Melastoma malabhatricum) that mixed in feed",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 564 (1), 012080, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTUMBUHAN DAN IMBANGAN EFISIENSI PROTEIN AYAM KAMPUNG (Gallus gallus domesticus) YANG DIBERI RANSUM MENGANDUNG TEPUNG LARVA Back Soldier Fly (BSF) Hermetia illucens",
+        "pub_year": "2019",
+        "citation": "SAINSTEK 4 (1), 171-177, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of composition chemical compounds methanol extract of Tambelo (Bactronophorus thoracites) Mimika Regency",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 343 (1), 012162, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POTENTIAL STUDY OF ETHANOL EXTRACT OF KARAMUNTING (Melastoma malabhatricum) AS GROWTH PRECURSOR FOR LARVAE OF GIANT TIGER PRAWN (Penaues monodon) BY DIPPING METHOD",
+        "pub_year": "2016",
+        "citation": "The 6th Annual Basic Science International Conference, 14-17, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Presence of prey affects web-building in an orb-web spider Argiope versicolor (Araneae, Araneidae) in laboratory conditions",
+        "pub_year": "2016",
+        "citation": "The 6th Annual Basic Science International Conference, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "99mTc-kanamycin preclinical testing as a radiopharmaceutical for infection imaging",
+        "pub_year": "2015",
+        "citation": "Jurnal Sains dan Teknologi Nuklir Indonesia 16 (1), 15-28, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Sistem Informasi Rekam Medik di Poliklinik Polres Karawang",
+        "pub_year": "2014",
+        "citation": "Universitas Komputer Indonesia, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stem cell transplantation into pancreas of diabetic rats",
+        "pub_year": "2014",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stem cell transplantation into pancreas of diabetic rats",
+        "pub_year": "2014",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a, 9p, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Photoperiod on Stress Response and Reproduction Parameter of Male Mice (Mus musculus L.) of Swiss Webster Strain",
+        "pub_year": "2012",
+        "citation": "Bandung, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increase of Oxidative Stres \u03b1-Synuclein in Wistar Rat\u2019s",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DO THE COLORS OF HEPATOPANCREAS REFLECT ITS ENERGY CONTENT?(STUDY ON EMBRYOS BEARING FEMALE OF AUSTRALIAN RED CLAW CRAYFISH (CHERAX QUADRICARINATUS))",
+        "pub_year": "2010",
+        "citation": "ICMNS 1 (1), 98-107, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH SUHU DAN EKSTRAK BIJI NIMBA (Azadirachta indica A. Juss) TERHADAP JUMLAH HEMOSIT JENGKERIK (Gryllus mitratus Burm.)",
+        "pub_year": "2002",
+        "citation": "Jurnal Biotika Vol 1 (1), 48-56, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem Pakar Diagnosa Penyakit Paru-Paru Menggunakan Metode Case Based Reasoning dan Certainty Factor Berbasis WEB",
+        "citation": "Fakultas Ilmu Komputer, 0"
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "USULAN PEMILIHAN PEMASOK DENGAN ANALITYCAL HIERARCHY PROCESS DAN PENERAPAN SISTEM INFORMASI DENGAN KONSEP VENDOR MANAGED INVENTORY",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Project, Design and Development System of Fiber Optic Internet Infrastructure for the Sustainability Teaching and Learning with Chromebook during the Pandemic Covid-19",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "31. PENGAMATAN SPAWNING BERULANG PADA LOBSTER AIR TAWAR (LAT) CAPIT MERAH (Cherax quadricarinatus)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WXTaUFkAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

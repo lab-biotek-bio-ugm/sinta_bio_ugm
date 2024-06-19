@@ -1,0 +1,852 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "l6Islk8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ratna Yuniati",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l6Islk8AAAAJ&citpid=2",
+  "affiliation": "Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Plant Physiology",
+    "Plant Biotechnology",
+    "Phytoremediation"
+  ],
+  "email_domain": "@sci.ui.ac.id",
+  "citedby": 398,
+  "citedby5y": 234,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 7,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2011": 2,
+    "2012": 12,
+    "2013": 22,
+    "2014": 24,
+    "2015": 14,
+    "2016": 26,
+    "2017": 27,
+    "2018": 27,
+    "2019": 29,
+    "2020": 40,
+    "2021": 35,
+    "2022": 46,
+    "2023": 59,
+    "2024": 23
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IkuFb3EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Andi Salamah",
+      "affiliation": "Senior Lecturer at Dept. of Biology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4-ztqs8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sony Suharsono",
+      "affiliation": "Professor of Plant Genetics and Breeding, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9Fu32AIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Utut Widyastuti Suharsono",
+      "affiliation": "Associate Profesor in Plant Molecular Genetics, Bogor Agricultural University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan Chlorella spp. dalam medium ekstrak tauge (MET) dengan variasi pH awal",
+        "pub_year": "2005",
+        "citation": "Makara Journal of Science 9 (1), 8, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 107,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1142467024481731937",
+      "cites_id": [
+        "1142467024481731937"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penapisan galur kedelai Glycine max (L.) Merrill toleran terhadap NaCl untuk penanaman di lahan salin",
+        "pub_year": "2004",
+        "citation": "Makara Journal of Science 8 (1), 4, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 93,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11455286356180961364",
+      "cites_id": [
+        "11455286356180961364"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh konsentrasi medium ekstrak tauge (MET) terhadap pertumbuhan Scenedesmus isolat Subang",
+        "pub_year": "2007",
+        "citation": "Makara Journal of Science 11 (1), 1, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 59,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1423308578318891383",
+      "cites_id": [
+        "1423308578318891383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of leaf surface character on the ability of water hyacinth, Eichhornia crassipes (Mart.) Solms. to transpire water",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Materials Science and Engineering 902 (1), 012070, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:hCrLmN-GePgC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7765400508298406988",
+      "cites_id": [
+        "7765400508298406988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiology response of the indigenous cattle breeds to the environment in West Sumbawa, Indonesia",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1862 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:S16KYo8Pm5AC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=129146072804775046",
+      "cites_id": [
+        "129146072804775046"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitosan application for maintaining the growth of lettuce (Lactuca sativa) under drought condition",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 980 (1), 012013, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:4vMrXwiscB8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17510775107595695426",
+      "cites_id": [
+        "17510775107595695426"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of temperature variation on the growth of Leptolyngbya (cyanobacteria) HS-16 and HS-36 to biomass weight in BG-11 medium",
+        "pub_year": "2019",
+        "citation": "Biocatalysis and agricultural biotechnology 19, 101105, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:e_rmSamDkqQC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3643695350050440073",
+      "cites_id": [
+        "3643695350050440073"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The growth rate and chlorophyll content of water hyacinth under different type of water sources",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Materials Science and Engineering 902 (1), 012064, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:ClCfbGk0d_YC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2206725519064665502",
+      "cites_id": [
+        "2206725519064665502"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis pengaruh pemberian logam berat (Pb, Cd, Cu) terhadap pertumbuhan Melastoma malabathricum L",
+        "pub_year": "2014",
+        "citation": "Universitas Indonesia. Depok, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:XoXfffV-tXoC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4705971038443207295",
+      "cites_id": [
+        "4705971038443207295"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of lead (Pb) on seed germination of water spinach (Ipomoea aquatica Forsk)",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012041, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:rmuvC79q63oC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7765382408966933365",
+      "cites_id": [
+        "7765382408966933365"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Lebah Dan Pengelolaan Sampah Untuk Ekonomi Rumah Tangga Yang Berkelanjutan",
+        "pub_year": "2021",
+        "citation": "Dharmakarya: Jurnal Aplikasi Ipteks Untuk Masyarakat 10 (3), 248-257, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:9c2xU6iGI7YC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2318933868968271566",
+      "cites_id": [
+        "2318933868968271566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture from internodes of Melastoma malabathricum L. on Murashige and Skoog (1962) modified medium with thidiazuron and 1-naphthaleneacetic acid",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012007, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:q3CdL3IzO_QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15914803257185583889",
+      "cites_id": [
+        "15914803257185583889"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Coconut Shell Liquid Smoke to Control Fusarium Wilt Disease on Hevea brasiliensis Muell. Arg.",
+        "pub_year": "2021",
+        "citation": "AGRIVITA Journal of Agricultural Science 44 (1), 11-20, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:mNrWkgRL2YcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12536620552660750309",
+      "cites_id": [
+        "12536620552660750309"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of mycorrhizae on the growth of Paraserianthes falcataria L.(Nielsen) in an artificial growth medium containing copper and cadmium",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012052, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:_axFR9aDTf0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11792963550541094970",
+      "cites_id": [
+        "11792963550541094970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of thermal stress on HSP90 expression of Bali cattle in Barru district, South Sulawesi",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1862 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:SpbeaW3--B0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6408132673050838071",
+      "cites_id": [
+        "6408132673050838071"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative study on Pb absorption ability of five shade plant species in industrial estate and urban forests of Bekasi, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:bKqednn6t2AC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=210642609859888416",
+      "cites_id": [
+        "210642609859888416"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of plant-derived exosome-like nanoparticles (PDENs) from Solanum nigrum L. berries and Their Effect on interleukin-6 expression as a potential anti \u2026",
+        "pub_year": "2024",
+        "citation": "Plos one 19 (1), e0296259, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:HeT0ZceujKMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17407718876025491666",
+      "cites_id": [
+        "17407718876025491666"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation of underutilized fruit trees by indigenous people in Urug Village, West Java, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas, Journal of Biological Diversity 24 (1), 454-466, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:HtS1dXgVpQUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5237646293345540807",
+      "cites_id": [
+        "5237646293345540807"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kaolin application to increase lettuce (Lactuca sativa) growth under suboptimal watering condition",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012087, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:dBIO0h50nwkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16503939856159807208",
+      "cites_id": [
+        "16503939856159807208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mercury effects on the early seedling of Paraserianthes falcataria (L.) Nielsen grew in hydroponic culture",
+        "pub_year": "2020",
+        "citation": "IOP conference series: materials science and engineering 902 (1), 012073, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:PVjk1bu6vJQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11299890786655107501",
+      "cites_id": [
+        "11299890786655107501"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The capacity of water hyacinth as biofilter and bioaccumulator based on its size",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Materials Science and Engineering 902 (1), 012067, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:5qfkUJPXOUwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10056790588052231396",
+      "cites_id": [
+        "10056790588052231396"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture of leaf explant Melastoma malabathricum L. on Murashige & Skoog (1962) modified medium with thidiazuron (TDZ) and 1-naphthaleneacetic acid (NAA)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012025, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:ruyezt5ZtCIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2588612815995586648",
+      "cites_id": [
+        "2588612815995586648"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Temperature Variations on Growth of Nostoc (Cyanobacteria) HS-5 and HS-20 Isolated from Indonesian Hot Springs",
+        "pub_year": "2018",
+        "citation": "Microbiology Indonesia 12 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:xtoqd-5pKcoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12940409664404954119",
+      "cites_id": [
+        "12940409664404954119"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies of adaptive traits of Bali cattle in Buleleng district, Bali and Barru district, South Sulawesi",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1844 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:i2xiXl-TujoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=369082005965019110",
+      "cites_id": [
+        "369082005965019110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangbiakan Bacillus thuringiensis h-14 galur lokal menggunakan media air cucian beras dan patogenisitasnya terhadap jentik culex quinquefasciatus",
+        "pub_year": "2007",
+        "citation": "Media Penelitian dan Pengembangan Kesehatan 17 (4), 14-20, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:yqoGN6RLRZoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6149643931435946447",
+      "cites_id": [
+        "6149643931435946447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Characteristics and Utilization of Pekarangan Pangan Lestari to Achieve Urban Food Security in Depok City, West Java",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Ethnobiology 6 (2), 98-111, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:ODE9OILHJdcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1400901754767330069",
+      "cites_id": [
+        "1400901754767330069"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Study of The Physiological Condition of Six Tree Species to Air Pollution in Depok City, West Java",
+        "pub_year": "2023",
+        "citation": "Bioeduscience 7 (2), 174-181, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:3htObqc8RwsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4933716634698737860",
+      "cites_id": [
+        "4933716634698737860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of thidiazuron and 2, 4-D on the regeneration of Melastoma malabathricum L. cultured leaves",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012028, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:foquWX3nUaYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15978153218796987352",
+      "cites_id": [
+        "15978153218796987352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Akumulasi Timbal (Pb) dan Kadmium (Cd) pada Eclipta prostrata, Synedrella nodiflora, dan Tridax procumbens",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:PoWvk5oyLR8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16961731747411784121",
+      "cites_id": [
+        "16961731747411784121"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological, cytogenetics and physiological study of three harendong samples from West Java as a model plant for phytoremediation",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2032611356192528151",
+      "cites_id": [
+        "2032611356192528151"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of Tauge Extract Medium (TEM) concentration to the growth of Subang isolated Scenedesmus",
+        "pub_year": "2007",
+        "citation": "Makara Journal of Science 11 (1), 1-+, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:k8Z6L05lTy4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6095159001702638511",
+      "cites_id": [
+        "6095159001702638511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengklonan cDNA Tanaman Kedelai (Glycine max (L.) Merr.) Varietas Slamet yang Diinduksi Cekaman Aluminium",
+        "pub_year": "2000",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:OcBU2YAGkTUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1571917603402079000",
+      "cites_id": [
+        "1571917603402079000"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indigenous practices for cultivation of fruit plants in Kampung Dukuh, West Java, Indonesia",
+        "pub_year": "2024",
+        "citation": "Ethnobotany Research and Applications 27, 1-38, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:LhH-TYMQEocC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An insight into potential phosphate bioremediation and renewable energy from agricultural waste via integrated wastewater treatment systems in Indonesia",
+        "pub_year": "2024",
+        "citation": "Environmental Research Communications 6 (4), 042001, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:r_AWSJRzSzQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three Harendong Plants from West Java as a Model for Phytoremediation",
+        "pub_year": "2023",
+        "citation": "BP International, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:yMeIxYmEMEAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of fermented red ginger (Zingiber officinale var. rubrum) using kombucha culture toward free radical scavenging activity",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2902 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:KbBQZpvPDL4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Six tree species physiological responses to air pollution in Pulogadung Industrial Estate, East Jakarta, Indonesia and Universitas Indonesia Campus, Depok, Indonesia",
+        "pub_year": "2023",
+        "citation": "Int J Adv Appl Sci ISSN 2252 (8814), 8814, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:fFSKOagxvKUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dacini tribe's fruit fly species in Depok (Indonesia) with special reference to the abundance of orchard fly, Bactrocera dorsalis, for fruit pest controlling",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (4), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:yFnVuubrUp4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TREES PHYSIOLOGICAL RESPONSES TO AIR POLLUTION IN TAMAN MARGASATWA RAGUNAN AND UI DEPOK CAMPUS",
+        "pub_year": "2022",
+        "citation": "Biotropia 29 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:cWzG1nlazyYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "I. Application of Coconut Shell Liquid Smoke to Inhibit Fusarium oxysporum Colonies on the Tapping Panels of Hevea brasiliensis, Case Study in Alur Mentawak Village, Aceh \u2026",
+        "pub_year": "2021",
+        "citation": "AGRIVITA, Journal of Agricultural Science 44 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:HIFyuExEbWQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation the effect of initial pH variations to the growth of Indonesia Indigenous Synechococcus (Cyanobacteria) HS-7 and HS-9 in CT medium",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 594 (1), 012010, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:86PQX7AUzd4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture of Melastoma malabathricum (L.) from internodes on Murashige & Skoog (1962) modified medium supplemented with thidiazuron and 2, 4-dichlorophenoxyacetic acid",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012023, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:HbR8gkJAVGIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Things You Have to Know About Virus",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:kh2fBNsKQNwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Program Model Penanaman Bakau Pada Lahan Kritis Akibat Tsunami Selat Sunda 2018 Di Desa Sukajadi, Carita, Banten\"",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:Ri6SYOTghG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Pekan Kemandirian Autiscare 2 Tahun 2019\"",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:YohjEiUPhakC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The organic fertilizer development program based on the utilization of regional potential and community activity waste in supporting the efficiency of agricultural production \u2026",
+        "pub_year": "2020",
+        "citation": "International Journal of Psychosocial Rehabilitation 24 (Special Issue 2 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:0N-VGjzr574C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u201cTanam bakau\u201d as the environmental recovery program after tsunami of Sunda Strait in 2018: Empowering people for environmentally sustainable",
+        "pub_year": "2020",
+        "citation": "International Journal of Psychosocial Rehabilitation 24 (Special Issue 2 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:edDO8Oi4QzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increasing the creativity of children with autism spectrum disorder through making handicrafts from paper waste",
+        "pub_year": "2020",
+        "citation": "International Journal of Psychosocial Rehabilitation 24 (Special Issue 2 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:Ug5p-4gJ2f0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Akumulasi Timbal (Pb) dan Kadmium (Cd) pada Eclipta prostrata",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:DJbcl8HfkQkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Akumulasi Timbal (Pb) dan Kadmium (Cd) pada Eclipta prostrata, Synedrella nodiflora, dan Tridax procumbens yang Tumbuh Liar Di Sisi Jalan Raya Bogor",
+        "pub_year": "2019",
+        "citation": "BIOEDUSCIENCE: Jurnal Pendidikan Biologi & Sains, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:bz8QjSJIRt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression analysis of Jatropha curcas L. almt genes under low pH and aluminum stress",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VECTOR CONSTRUCTION FOR SOD GENE OVEREXPRESSION AS AN ATTEMPT TO DEVELOP PHYTOREMEDIATION PLANTS",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation, Cloning and Characterization of Actin-Encoding cDNAs from Jatropha curcas L. IP-2P",
+        "pub_year": "2012",
+        "citation": "Makara Journal of Science 15 (2), 16, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and molecular analysis of jatropha curcas l. related to aluminum stress as a preliminary study to develop transgenic plant",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "l6Islk8AAAAJ:OR75R8vi5nAC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

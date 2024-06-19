@@ -1,0 +1,114 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "Y42wWDgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Yooce Yustiana",
+  "affiliation": "Institut Teknologi Bandung",
+  "interests": [
+    "Manajemen Sumber Daya Hayati"
+  ],
+  "citedby": 32,
+  "citedby5y": 32,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2019": 1,
+    "2020": 7,
+    "2021": 9,
+    "2022": 6,
+    "2023": 5,
+    "2024": 4
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Government policy statements related to rice problems in Indonesia",
+        "pub_year": "2019",
+        "citation": "Journal of Biological Science, Technology, and Management 1 (1), 35-41, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Y42wWDgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15061390115841592127",
+      "cites_id": [
+        "15061390115841592127"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan model tarif sumber daya air sebagai kompensasi jasa ekosistem kawasan hutan",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional 1, 1735-1740, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Y42wWDgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15136969734326686279",
+      "cites_id": [
+        "15136969734326686279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Technology adaptation to climate change in level producers rice in West Java",
+        "pub_year": "2019",
+        "citation": "3BIO: Journal of Biological Science, Technology and Management 1 (1), 22, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "Y42wWDgAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12907328947543339448",
+      "cites_id": [
+        "12907328947543339448"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of the tariff model of water resources as a compensation for forest ecosystem services",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (7), 1735-1740, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "Y42wWDgAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16772372205598955724",
+      "cites_id": [
+        "16772372205598955724"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Problems and solutions of rice consumption pattern in West Java",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "Y42wWDgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

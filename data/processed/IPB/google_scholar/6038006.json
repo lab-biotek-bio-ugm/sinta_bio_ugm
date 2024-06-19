@@ -1,0 +1,2586 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "8RyCXaQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Agus Hikmat",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8RyCXaQAAAAJ&citpid=5",
+  "affiliation": "Associate Professor, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Plant Conservation",
+    "Plant Ecology",
+    "Ethnobotany",
+    "Invasive Plant Species"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 1700,
+  "citedby5y": 1379,
+  "hindex": 19,
+  "hindex5y": 15,
+  "i10index": 47,
+  "i10index5y": 37,
+  "cites_per_year": {
+    "2011": 12,
+    "2012": 10,
+    "2013": 8,
+    "2014": 16,
+    "2015": 40,
+    "2016": 32,
+    "2017": 68,
+    "2018": 91,
+    "2019": 150,
+    "2020": 198,
+    "2021": 314,
+    "2022": 297,
+    "2023": 310,
+    "2024": 109
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman hayati flora di Indonesia",
+        "pub_year": "2015",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 355,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11762107319933412144",
+      "cites_id": [
+        "11762107319933412144"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The biodiversity of flora in Indonesia",
+        "pub_year": "2015",
+        "citation": "Journal of Natural Resources and Environmental Management 5 (2), 187-198, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:tOudhMTPpwUC",
+      "num_citations": 150,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8091877118811184011",
+      "cites_id": [
+        "8091877118811184011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Revitalisasi konservasi tumbuhan obat keluarga (toga) guna meningkatkan kesehatan dan ekonomi keluarga mandiri di desa Contoh Lingkar Kampus IPB Darmaga Bogor",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 16 (2), 71-80, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 79,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16903088145835014980",
+      "cites_id": [
+        "16903088145835014980"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengetahuan etnobotani Suku Manggarai dan implikasinya terhadap pemanfaatan tumbuhan hutan di Pegunungan Ruteng",
+        "pub_year": "2015",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 20 (3), 171-181, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 62,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17211992824009269188",
+      "cites_id": [
+        "17211992824009269188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani Masyarakat Suku Melayu Tradisional di Sekitar Taman Nasional Bukit Tiga Puluh: Studi Kasus di Desa Rantau Langsat, Kec. Batang Gangsal, Kab. Indragiri Hulu, Provinsi \u2026",
+        "pub_year": "2009",
+        "citation": "IPB (Bogor Agricultural University), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 57,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9014272067770367197",
+      "cites_id": [
+        "9014272067770367197"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian etnobotani masyarakat kampung adat dukuh Kabupaten Garut, Jawa Barat",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (3), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:u_35RYKgDlwC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=724506757509485488",
+      "cites_id": [
+        "724506757509485488"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan pola sebaran spesies tumbuhan asing invasif di Cagar Alam Pulau Sempu, Jawa Timur",
+        "pub_year": "2014",
+        "citation": "Jurnal Biologi Indonesia 10 (2), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4882085497321249715",
+      "cites_id": [
+        "4882085497321249715"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rafflesia Indonesia: Keanekaragaman, ekologi, dan pelestariannya",
+        "pub_year": "1998",
+        "citation": "Diterbitkan Atas Kerjasama Yayasan Pembinaa, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5013526552610328301",
+      "cites_id": [
+        "5013526552610328301"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas floristik dan suksesi vegetasi setelah erupsi 2010 di Gunung Merapi Jawa Tengah",
+        "pub_year": "2017",
+        "citation": "Jurnal Biologi Indonesia 12 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10749691758434659649",
+      "cites_id": [
+        "10749691758434659649"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass estimation, carbon storage and energy content of three virgin jungle reserves in Peninsular Malaysia",
+        "pub_year": "2005",
+        "citation": "Media Konservasi 10 (2), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=298799066579698966",
+      "cites_id": [
+        "298799066579698966"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani obat pada masyarakat suku Penguluh di kphp limau unit vii hulu Sarolangun, Jambi",
+        "pub_year": "2020",
+        "citation": "Media Konservasi 25 (1), 73-80, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14665132547060293305",
+      "cites_id": [
+        "14665132547060293305"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani Masyarakat Suku Bunaq (Studi Kasus di Desa Dirun, Kecamatan Lamaknen Kabupaten Belu, Provinsi Nusa Tenggara Timur)",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:HDshCWvjkbEC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5489846210511866954",
+      "cites_id": [
+        "5489846210511866954"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hutan tropika Indonesia sebagai gudang obat bahan alam bagi kesehatan mandiri bangsa",
+        "pub_year": "2009",
+        "citation": "Bunga Rampai Biofarmaka Kehutanan Indonesia: Dari tumbuhan hutan untuk \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:8k81kl-MbHgC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3721922812354574482",
+      "cites_id": [
+        "3721922812354574482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONDISI VEGETASI DAN POPULASI Raflesia patma Blume DI CAGAR ALAM LEUWEUNG SANCANG (Conditions of Vegetation and Population of Rafflesia patma Blume in Leuweung Sancang Nature \u2026",
+        "pub_year": "2008",
+        "citation": "Media Konservasi 13 (3), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=162777870454551720",
+      "cites_id": [
+        "162777870454551720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman jenis tumbuhan obat di agroforestri repong damar krui, provinsi lampung",
+        "pub_year": "2018",
+        "citation": "Media Konservasi 23 (2), 162-168, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:ZuybSZzF8UAC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4981197169799121561",
+      "cites_id": [
+        "4981197169799121561"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KECENDERUNGAN POPULASI Rafflesia zollingeriana Kds. DI TAMAN NASIONAL MERU BETIRI, JAWA TIMUR (Population Trend of Rafflesia zollingeriana Kds. in Meru Betiri National Park \u2026",
+        "pub_year": "2006",
+        "citation": "Media Konservasi 11 (3), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:70eg2SAEIzsC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18037899561361962510",
+      "cites_id": [
+        "18037899561361962510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrating local culture into forest conservation: A case study of the Manggarai Tribe in Ruteng Mountains, Indonesia",
+        "pub_year": "2015",
+        "citation": "Jurnal Manajemen Hutan Tropika 21 (2), 55-64, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:lSLTfruPkqcC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17280859991391573618",
+      "cites_id": [
+        "17280859991391573618"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Populasi, Sebaran dan Asosiasi Kepuh (Sterculia foetida L.) Di Kabupaten Sumbawa Nusa Tenggara Barat",
+        "pub_year": "2015",
+        "citation": "Media Konservasi 20 (3), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:roLk4NBRz8UC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6827326551004483004",
+      "cites_id": [
+        "6827326551004483004"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Perubahan Cadangan Karbon di Tambling Wildlife Nature Conservation Taman Nasional Bukit Barisan Selatan",
+        "pub_year": "2011",
+        "citation": "Media Konservasi 16 (2), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10856610764306315630",
+      "cites_id": [
+        "10856610764306315630"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani dan potensi aren (Arenga pinnata Merr.) pada masyarakat Kasepuhan Pasir Eurih, Desa Sindanglaya, Kabupaten Lebak, Banten",
+        "pub_year": "2017",
+        "citation": "Media konservasi 22 (2), 171-180, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18413466236378370238",
+      "cites_id": [
+        "18413466236378370238"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Index of cultural significance as a potential tool for conservation of plants diversity by communities in the Kerinci Seblat National Park",
+        "pub_year": "2015",
+        "citation": "Jurnal Manajemen Hutan Tropika 21 (3), 192-201, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3847839650744847039",
+      "cites_id": [
+        "3847839650744847039"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of medicinal plants from heath forest: Local knowledge from Kelubi Village, Belitung Island, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (7), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:vbGhcppDl1QC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9352033864934315536",
+      "cites_id": [
+        "9352033864934315536"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Floristic composition and species diversity in three habitat types of heath forest in Belitung Island, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (12), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12534683214717371841",
+      "cites_id": [
+        "12534683214717371841"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnobotany of sugar palm (Arenga pinnata) in the Sasak Community, Kekait Village, West Nusa Tenggara, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:1qzjygNMrQYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=934448023990422399",
+      "cites_id": [
+        "934448023990422399"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth and Habitat Preference of Acacia decurrens Willd. (Fabaceae) after the 2010 Eruption of Mount Merapi, Indonesia",
+        "pub_year": "2017",
+        "citation": "Asian Journal of Applied Sciences 5 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10409542657823892656",
+      "cites_id": [
+        "10409542657823892656"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial distribution and habitat use of Javan Langur (Presbytis comata): case study in District of Kuningan",
+        "pub_year": "2016",
+        "citation": "Procedia Environmental Sciences 33, 340-353, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:GnPB-g6toBAC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15767989154145593860",
+      "cites_id": [
+        "15767989154145593860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "E., & Sari, RK (2011). The revitalization of family medicine plant (toga) conservation for crease health and economic in village exemplary IPB campus darmaga bogor",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 16 (2), 71-80, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16701094213246573472",
+      "cites_id": [
+        "16701094213246573472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman simplisia nabati dan produk obat tradisional yang diperdagangkan di Kabupaten Pati, Jawa Tengah",
+        "pub_year": "2015",
+        "citation": "Media Konservasi 20 (3), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:mB3voiENLucC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17466876398038712285",
+      "cites_id": [
+        "17466876398038712285"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnobotanical Study of Local People at Dukuh Cultural Village Garut Regency, West Java",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (3), 139-151, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4436844933013390183",
+      "cites_id": [
+        "4436844933013390183"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Traditional land practice and forest conservation: Case study of the Manggarai tribe in Ruteng Mountains, Indonesia",
+        "pub_year": "2016",
+        "citation": "Komunitas 8 (2), 256-266, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15133576569684808150",
+      "cites_id": [
+        "15133576569684808150"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komposisi vegetasi, pola sebaran dan faktor habitat Ficus magnoliifolia (nunu pisang) di Hutan Pangale, Desa Toro, Sulawesi Tengah",
+        "pub_year": "2016",
+        "citation": "Buletin Kebun Raya 19 (1), 33-46, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1072293383640617317",
+      "cites_id": [
+        "1072293383640617317"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komposisi Flora dan Keragaman Tumbuhan di Hutan Rawa Musiman, Rimbo Tujuh Danau Riau",
+        "pub_year": "2016",
+        "citation": "Jurnal Penelitian Hutan dan Konservasi Alam 13 (1), 15-28, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10882442661491461698",
+      "cites_id": [
+        "10882442661491461698"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Retensi pengetahuan tumbuhan pangan suku rejang di Kampung Rindu Hati dalam ketahanan pangan",
+        "pub_year": "2016",
+        "citation": "Media Konservasi 21 (3), 270-277, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=519889883102076849",
+      "cites_id": [
+        "519889883102076849"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ethnobotany knowledge of manggarai tribe and the implication utilization of forest plants in The Mountains of Ruteng",
+        "pub_year": "2015",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 20 (3), 171-181, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:UHK10RUVsp4C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6813166360488705431",
+      "cites_id": [
+        "6813166360488705431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribusi Baru dan Struktur Populasi Rafflesia zollingeriana Koord. di Taman Nasional Meru Betiri, Jawa Timur",
+        "pub_year": "2014",
+        "citation": "Buletin Kebun Raya 17 (2), 69-78, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3092345629779587781",
+      "cites_id": [
+        "3092345629779587781"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Medicinal Ethnobotany and Potential of Medicine Plants of Anak Rawa Ethnic at The Penyengat Village Sungai Apit Siak Riau",
+        "pub_year": "2019",
+        "citation": "Media Konservasi 24 (1), 40-51, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:p2g8aNsByqUC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12168405090111216789",
+      "cites_id": [
+        "12168405090111216789"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH FAKTOR BIOTIK DAN FISIK LINGKUNGAN TERHADAP JUMLAH INDIVIDU Rafflesia meijerii DI TAMAN NASIONAL BATANG GADIS.",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:_B80troHkn4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2327862423170251838",
+      "cites_id": [
+        "2327862423170251838"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi damar mata kucing (Shorea javanica) berbasis masyarakat di zona tradisional Taman Nasional Bukit Barisan Selatan",
+        "pub_year": "2014",
+        "citation": "Media Konservasi 19 (2), 231228, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:N5tVd3kTz84C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12566103384609396946",
+      "cites_id": [
+        "12566103384609396946"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree species composition of 1.8 ha plot Samboja research forest: 28 years after initial fire",
+        "pub_year": "2017",
+        "citation": "Indonesian Journal of Forestry Research 4 (2), 95-106, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:_kc_bZDykSQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4655667939962442674",
+      "cites_id": [
+        "4655667939962442674"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Populasi dan habitat Nepenthes ampullaria Jack. di Cagar Alam Mandor, Kalimantan Barat",
+        "pub_year": "2016",
+        "citation": "Media Konservasi 21 (2), 125-134, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3386387544495270466",
+      "cites_id": [
+        "3386387544495270466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Information transfer through food from parents to offspring in wild Javan gibbons",
+        "pub_year": "2020",
+        "citation": "Scientific Reports 10 (1), 714, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:epqYDVWIO7EC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2812652760811495569",
+      "cites_id": [
+        "2812652760811495569"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon ukuran kelompok terhadap efek tepi dan kepadatan populasi surili (Presbytis comata) pada hutan dataran rendah dan perbukitan di Kabupaten Kuningan",
+        "pub_year": "2017",
+        "citation": "Zoo Indonesia 25 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:hC7cP41nSMkC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8334244845573595738",
+      "cites_id": [
+        "8334244845573595738"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Model Sebaran Spasial dan Kesesuaian Habitat Spesies Invasif Mantangan (Merremia peltata (l.) Merr.) di Taman Nasional Bukit Barisan Selatan",
+        "pub_year": "2017",
+        "citation": "Jurnal Nusa Sylva 17 (2), 80-90, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:UxriW0iASnsC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11445141161348014267",
+      "cites_id": [
+        "11445141161348014267"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani dan Konservasi Ketimunan/Timonius timon (Spreng.) Merr. pada Masyarakat Lokal Suku Kanume di Taman Nasional Wasur Papua",
+        "pub_year": "2015",
+        "citation": "Media Konservasi 20 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:35N4QoGY0k4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16206301962146665778",
+      "cites_id": [
+        "16206301962146665778"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Karakteristik Habitat Rafflesia (Rafflesia patma Blume.) di Cagar Alam Bojonglarang Jayanti, Cianjur, Jawa Barat",
+        "pub_year": "2015",
+        "citation": "Media Konservasi 20 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16093699599568336162",
+      "cites_id": [
+        "16093699599568336162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat preferences, distribution pattern, and root weight estimation of Pasak Bumi (Eurycoma longifolia Jack.)",
+        "pub_year": "2014",
+        "citation": "Jurnal Manajemen Hutan Tropika 20 (1), 43-50, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2526514075354409267",
+      "cites_id": [
+        "2526514075354409267"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelestarian Rafflesia hasseltii Suringar di Taman Nasional Bukit Tiga Puluh Riau-Jambi",
+        "pub_year": "1999",
+        "citation": "IPB (Bogor Agricultural University), 1999"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:P5F9QuxV20EC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5632175279205218141",
+      "cites_id": [
+        "5632175279205218141"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Makna nilai penting budaya keanekaragaman hayati tumbuhan bagi masyarakat di taman nasional kerinci seblat di Kabupaten Kerinci, Propinsi Jambi",
+        "pub_year": "2016",
+        "citation": "Berita Biologi 15 (1), 7-15, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:BqipwSGYUEgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15393542181538765756",
+      "cites_id": [
+        "15393542181538765756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ethnography of Kerinci",
+        "pub_year": "2015",
+        "citation": "Komunitas 7 (2), 283-296, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=681296365671693847",
+      "cites_id": [
+        "681296365671693847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species composition, biomass and economic valuation of three virgin jungle reserves in Peninsular Malaysia",
+        "pub_year": "2005",
+        "citation": "UKM, Bangi, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:ufrVoPGSRksC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2085232335927051180",
+      "cites_id": [
+        "2085232335927051180"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population of Rafflesia Patma at Leuweung Cipeucang Geopark Ciletuh Sukabumi",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (2), 196-204, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13622260150437207767",
+      "cites_id": [
+        "13622260150437207767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Populasi dan Kesesuaian Habitat Langkap (Arenga obtusifolia Mart.) di Cagar Alam Leuweung Sancang, Jawa Barat",
+        "pub_year": "2016",
+        "citation": "Jurnal Biologi Indonesia 11 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=953226419312521117",
+      "cites_id": [
+        "953226419312521117"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian tropical medicinal plants diversity: problems and challenges in identification",
+        "pub_year": "2011",
+        "citation": "Primates 35 (18), 4, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11139852559508022865",
+      "cites_id": [
+        "11139852559508022865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological aspects and regeneration of sugar palm in the Sasak community gardens of Kekait village, West Nusa Tenggara, Indonesia",
+        "pub_year": "2020",
+        "citation": "Jurnal Manajemen Hutan Tropika 26 (1), 1-1, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:PELIpwtuRlgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4974987940571502406",
+      "cites_id": [
+        "4974987940571502406"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pinanga schwanerensis, a new species of Pinanga (Arecaceae) from Kalimantan, Indonesia",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:SP6oXDckpogC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6355440760751847746",
+      "cites_id": [
+        "6355440760751847746"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat suitability index (HIS) of surili (Presbytis comata Desmarest, 1822) in mixed forest of Kuningan District, West Java-Indonesia",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 54 (1), 012061, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7801219780230487508",
+      "cites_id": [
+        "7801219780230487508"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan bentuk dan ukuran plot contoh optimal pengukuran keanekaragaman spesies tumbuhan di hutan pegunungan bawah",
+        "pub_year": "2016",
+        "citation": "Media Konservasi 21 (1), 42-47, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2321726096139859697",
+      "cites_id": [
+        "2321726096139859697"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conservation Strategy of Rafflesia zollingeriana Koord in Meru Betiri National Park, East Java",
+        "pub_year": "2014",
+        "citation": "Jurnal Manajemen Hutan Tropika 20 (1), 9-16, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:5nxA0vEk-isC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3621747519004340015",
+      "cites_id": [
+        "3621747519004340015"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Buku Acuan Umum Tumbuhan Obat Indonesia",
+        "pub_year": "2003",
+        "citation": "Jakarta: Yayasan Sarana Wanajaya, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:HbR8gkJAVGIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9317488646795744090",
+      "cites_id": [
+        "9317488646795744090"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur dan komposisi vegetasi di habitat cemara laut (Casuarina equisetifolia L.) pada tiga kawasan konservasi di Provinsi Bengkulu",
+        "pub_year": "2019",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:08ZZubdj9fEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17550260615399541996",
+      "cites_id": [
+        "17550260615399541996"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan produksi jernang (Daemonorops didymophylla Becc.) berdasarkan karakteristik morfometrik rotan",
+        "pub_year": "2015",
+        "citation": "Media Konservasi 20 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10090277012269796350",
+      "cites_id": [
+        "10090277012269796350"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian karakteristik lingkungan biotik Rafflesia (Rafflesia zollingeriana Kds.) di taman nasional meru betiri jawa timur.[skripsi]",
+        "pub_year": "1988",
+        "citation": "Jilid 4 2020: 135 148, 1988"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15181041650847110787",
+      "cites_id": [
+        "15181041650847110787"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobatani masyarakat O Hongana Ma Nyawa di Desa Wangongira, Kabupaten Halmahera Utara",
+        "pub_year": "2015",
+        "citation": "Media Konservasi 20 (3), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Zph67rFs4hoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17324375958216267628",
+      "cites_id": [
+        "17324375958216267628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IPB biodiversity informatics (IPBiotics) untuk pembangunan berkelanjutan",
+        "pub_year": "2014",
+        "citation": "Media Konservasi 19 (1), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8426016646189498693",
+      "cites_id": [
+        "8426016646189498693"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi Ex Situ Mangifera casturi Kosterm. Berbasis Masyarakat: Studi Kasus di Kabupaten Indragiri Hilir, Provinsi Riau",
+        "pub_year": "2013",
+        "citation": "Jurnal Biologi Indonesia 9 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=51188996756024003",
+      "cites_id": [
+        "51188996756024003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Buku Acuan Umum Tumbuhan Obat Indonesia Jilid VII",
+        "pub_year": "2013",
+        "citation": "Jakarta (ID): Dian Rakyat, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:hCrLmN-GePgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14916872318102641637",
+      "cites_id": [
+        "14916872318102641637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Faktor Ekologi Tumbuhan Langka Rotan Beula Ceratolobus Glaucescens Blume di Cagar Alam Sukawayana Sukabumi Jawa Barat",
+        "pub_year": "2012",
+        "citation": "Media Konservasi 17 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:M05iB0D1s5AC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8823189461871183788",
+      "cites_id": [
+        "8823189461871183788"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Siswoyo., Sandra, E., & Sari, K. R,(2011). Revitalisasi Konservasi Tumbuhan Obat Keluarga (Toga) Guna Meningkatkan Kesehatan Dan Ekonomi Keluarga Mandiri di Desa Contoh Lingkar \u2026",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 16 (2), 71-80, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:35r97b3x0nAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6431891358958111432",
+      "cites_id": [
+        "6431891358958111432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani dan Potensi Aren di Desa Pematang Purba dan Desa Buluh Awar, Sumatera Utara",
+        "pub_year": "2021",
+        "citation": "Journal of Tropical Ethnobiology, 14-19, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12544764539784972858",
+      "cites_id": [
+        "12544764539784972858"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Visual aesthetic analysis of post-mining area for ecotourism destination",
+        "pub_year": "2019",
+        "citation": "Advances in Environmental Sciences 11 (3), 133-158, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:WqliGbK-hY8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14576687557622019900",
+      "cites_id": [
+        "14576687557622019900"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemetaan para pihak dalam pemulihan KHDTK Samboja",
+        "pub_year": "2018",
+        "citation": "Jurnal Analisis Kebijakan Kehutanan 15 (2), 127-142, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Mojj43d5GZwC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17753335206020809906",
+      "cites_id": [
+        "17753335206020809906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Medicine Plant in Repong Damar Agroforestry of Krui, Lampung Province",
+        "pub_year": "2018",
+        "citation": "Media Konservasi 23 (2), 162-168, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:NhqRSupF_l8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5556366228618003938",
+      "cites_id": [
+        "5556366228618003938"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Amorphophallus titanum in Bengkulu, Indonesia based on RAPD markers",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (5), 1783-1790, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17854920615354994120",
+      "cites_id": [
+        "17854920615354994120"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Climbing Plants Community in Rambut Island Wildlife Reserve",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 1-10, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16267323089964829110",
+      "cites_id": [
+        "16267323089964829110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Composition, Structure and Diversity of Species Plant in Dungus Iwul Nature Reserve, Bogor District",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (2), 138-145, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:rO6llkc54NcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13957309681872748925",
+      "cites_id": [
+        "13957309681872748925"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ethnobotany and potential of sugar palm (Arenga pinnata Merr.) on the Kasepuhan Pasir Eurih community, Sindanglaya Village, Lebak regency, Banten",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (2), 171-180, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15201612856864719521",
+      "cites_id": [
+        "15201612856864719521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Populasi, Sebaran dan Asosiasi Kepuh (Sterculia Foetida L.) Di Kabupaten Sumbawa Nusa Tenggara Barat",
+        "pub_year": "2015",
+        "citation": "Jurnal Media Konservasi 20 (3), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:EkHepimYqZsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15989324260717814075",
+      "cites_id": [
+        "15989324260717814075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemetaan kesesuaian habitat Rafflesia rochussenii Teijsm. et Binn. di Resort Tapos Taman Nasional Gunung Gede Pangrango",
+        "pub_year": "2012",
+        "citation": "Media Konservasi 17 (3), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11977046821763343952",
+      "cites_id": [
+        "11977046821763343952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Karakteristik Kubangan Badak Jawa (Rhinoceros sondaicus Desmarest 1822) di Taman Nasional Ujung Kulon",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:k_IJM867U9cC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10477226658780870429",
+      "cites_id": [
+        "10477226658780870429"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "kajian etnobotani Masyarakat Kampung Adat Dukuh Kabupaten Garut, Jawa Barat [skripsi]",
+        "pub_year": "2009",
+        "citation": "Bogor (ID): Institut Pertanian Bogor, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6212696593596225036",
+      "cites_id": [
+        "6212696593596225036"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree diversity assessment and economic valuation of three Virgin Jungle Reserves in Peninsular Malaysia.",
+        "pub_year": "2008",
+        "citation": "Malaysian Forester 71 (1), 51-66, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:blknAaTinKkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13760632909324841057",
+      "cites_id": [
+        "13760632909324841057"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Perbandingan polimorfisme protein darah Jalak bali (Leucopsar rotschilidi) hasil penangkaran dari Indonesia, Amerika dan Inggris. Laporan Hasil Penelitian",
+        "pub_year": "1991",
+        "citation": "Fakultas Kehutanan. IPB. Bogor, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10459280773411838394,4189514687448367843",
+      "cites_id": [
+        "10459280773411838394",
+        "4189514687448367843"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Landscape character of Pongkor mining ecotourism area",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 91 (1), 012028, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:5awf1xo2G04C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11639158691705886163",
+      "cites_id": [
+        "11639158691705886163"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The spatial suitable habitat model of Acacia decurrens in Mount Merbabu National Park",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 49-63, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:UebtZRa9Y70C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3067684707064388876",
+      "cites_id": [
+        "3067684707064388876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mixed farm as habitat for grizzled leaf monkey (Presbytis comata) population",
+        "pub_year": "2016",
+        "citation": "IJSBAR, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:_Ybze24A_UAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3369937374360897390",
+      "cites_id": [
+        "3369937374360897390"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis kinerja kelembagaan tata niaga pasak bumi (Eurycoma longifolia jack) yang berkelanjutan di Kabupaten Kubu Raya dan Kota Pontianak, Kalimantan Barat",
+        "pub_year": "2014",
+        "citation": "Jurnal Penelitian Sosial dan Ekonomi Kehutanan 11 (2), 29135, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:dhFuZR0502QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4664716261180747655",
+      "cites_id": [
+        "4664716261180747655"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Buku Acuan Umum Tumbuhan Obat Indonesia Jilid X",
+        "pub_year": "2013",
+        "citation": "Jakarta: Dian Rakyat. GLOSARIUM, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:TFP_iSt0sucC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13611731427196993353",
+      "cites_id": [
+        "13611731427196993353"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species distribution and conservation of Rafflesia in Indonesia",
+        "pub_year": "2001",
+        "citation": "Prosiding Seminar Nasional Puspa Langka Indonesia. Bogor, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3059570089540168484",
+      "cites_id": [
+        "3059570089540168484"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eksplorasi dan kemungkinan pengembangan tumbuhan hutan sebagai bahan obat",
+        "pub_year": "1998",
+        "citation": "Makalah Utama dalam Diskusi Hasil Hutan Bukan Kayu. Pusat Penelitian dan \u2026, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:NJ774b8OgUMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9310303576166406041",
+      "cites_id": [
+        "9310303576166406041"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reconciling Livelihoods and Conservation for Rattan Sustainable Harvesting in Lore Lindu National Park, Indonesia",
+        "pub_year": "2021",
+        "citation": "Small-Scale Forestry 20 (2), 175-197, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:uLbwQdceFCQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5877476333140074746,6724337870210573294",
+      "cites_id": [
+        "5877476333140074746",
+        "6724337870210573294"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant species diversity and degree of homogeneity after the 2010 eruption of Mount Merapi, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 12 (2), 274-281, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:hkOj_22Ku90C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18239225543624404576",
+      "cites_id": [
+        "18239225543624404576"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Controlling Factors of Grizzled Leaf Monkey (Presbytis comata) Population Density in a Production Forest in Kuningan District, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "Primate Conservation 34, 153-165, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4475085002742890499",
+      "cites_id": [
+        "4475085002742890499"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Crafting local institution using social-ecological system framework for sustainable rattan governance in Lore Lindu National Park",
+        "pub_year": "2019",
+        "citation": "Jurnal Manajemen Hutan Tropika 25 (3), 135-135, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:5ugPr518TE4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13335968939443728747",
+      "cites_id": [
+        "13335968939443728747"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ETNOBOTANI MERPAYANG (Scaphium macropodum Miq.) Beumee Ex K. Heyne SEBAGAI TUMBUHAN OBAT PADA ETNIK PENGULU SAROLANGUN JAMBI",
+        "pub_year": "2019",
+        "citation": "Media Konservasi 24 (2), 179-185, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14326119615647306143",
+      "cites_id": [
+        "14326119615647306143"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komposisi, pola sebaran dan faktor habitat nunu pisang (Ficus magnoliifolia) di Hutan Pangale Desa Toro Sulawesi Tengah",
+        "pub_year": "2016",
+        "citation": "Botanic Gardens Bulletin 19 (1), 33-46, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16073185628251266237",
+      "cites_id": [
+        "16073185628251266237"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ancaman Kelapa Sawit (Elaeis Guineensis Jacq.) sebagai Spesies Asing Invasif di Hutan Konservasi: Studi Kasus di Kampus Ipb Darmaga, Bogor",
+        "pub_year": "2014",
+        "citation": "Media Konservasi 19 (2), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2583652618999414138",
+      "cites_id": [
+        "2583652618999414138"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kondisi Populasi Rafflesia patma Blume di Cagar Alam Pananjung Pangandaran Jawa Barat",
+        "pub_year": "2009",
+        "citation": "Media Konservasi 14 (1), 18-21, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12611187741922240423",
+      "cites_id": [
+        "12611187741922240423"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass and carbon storage of three virgin jungle reserves in Peninsular Malaysia.",
+        "pub_year": "2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:r0BpntZqJG4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12382571710382920439",
+      "cites_id": [
+        "12382571710382920439"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kepelbagaian ekologi rimba bandar Bukit Bauk Terengganu",
+        "pub_year": "2006",
+        "citation": "Jabatan Perhutanan Negeri Terengganu, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9779723502089971638",
+      "cites_id": [
+        "9779723502089971638"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ervizal Amir Muhammad zuhud., Agus Hikmat., & nandi Kosmaryandi.(2015). Pengetahuan Etnobotani Suku Manggarai dan Implikasinya Terhadap Pemanfaatan Tumbuhan Hutan di Pegunungan \u2026",
+        "citation": "Jurnal Ilmu Pertanian Indonesia (JIPI) 20 (3), 171-181, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:uWiczbcajpAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4652752567760421172",
+      "cites_id": [
+        "4652752567760421172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Composition, Structure and Diversity of Species Plant in Dungus Iwul Nature Reserve, Bogor District",
+        "citation": "Media Konservasi 22 (2), 138-145, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:W5xh706n7nkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12037875608880147911,1896725152741528302",
+      "cites_id": [
+        "12037875608880147911",
+        "1896725152741528302"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Food preference of long-tailed macaques (Macaca fascicularis Raffles 1821) in IPB Dramaga Campus",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Primatology 1 (01), 15-24, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:ILKRHgRFtOwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7115347466026664556",
+      "cites_id": [
+        "7115347466026664556"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnobotany of Kemang (Mangifera kemanga Blume.) as identity flora of Bogor Regency",
+        "pub_year": "2022",
+        "citation": "Media Konservasi 27 (2), 34-41, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:EYYDruWGBe4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17303444513237350671",
+      "cites_id": [
+        "17303444513237350671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendataan dan Pemetaan Potensi Sumberdaya Alam Serta Pengembangan Produk Unggulan Desa",
+        "pub_year": "2021",
+        "citation": "Jurnal Pusat Inovasi Masyarakat (PIM) 2 (Khusus 2), 140-148, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8450456724064545195",
+      "cites_id": [
+        "8450456724064545195"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Biodiversity of Flora and Fauna in the Re-vegetation Area in The Post-Mining Area of Pongkor",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 501 (1), 012035, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18404705577403088121",
+      "cites_id": [
+        "18404705577403088121"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi Tumbuhan Obat Hutan Tropika Indonesia",
+        "pub_year": "2018",
+        "citation": "PT Penerbit IPB Press, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14050192845130651410",
+      "cites_id": [
+        "14050192845130651410"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ASOSIASI SPESIES POHON PENYIMPAN MAYAT DI TAMAN NASIONAL LAIWANGI WANGGAMETI, NUSA TENGGARA TIMUR",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (3), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12870103292701721977",
+      "cites_id": [
+        "12870103292701721977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of biotic and physical environmental factors on total individual of Rafflesia meijerii in Batang Gadis National Park",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 35-41, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18107106167519580022",
+      "cites_id": [
+        "18107106167519580022"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakter Komunitas dan Tingkat Keinvasifan Tumbuhan Merambat di Suaka Margasatwa Pulau Rambut",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:BUYA1_V_uYcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17453886844930016110",
+      "cites_id": [
+        "17453886844930016110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMODELAN SPASIAL KESESUAIAN HABITAT AKASIA HIJAU (Acacia decurens) DI KAWASAN TAMAN NASIONAL GUNUNG MERBABU.",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5747823267021062065",
+      "cites_id": [
+        "5747823267021062065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species Association of Corpse Storage Trees in Laiwangi Wanggameti National Park, East Nusa Tenggara",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (3), 220-229, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:D03iK_w7-QYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18195612728469571408",
+      "cites_id": [
+        "18195612728469571408"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Retensi Dan Perubahan Pengetahuan Etnobotani Masyarakat Kerinci Di Taman Nasional Kerinci Seblat",
+        "pub_year": "2016",
+        "citation": "Botanic Gardens Bulletin 19 (2), 105-116, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14916524767882044344",
+      "cites_id": [
+        "14916524767882044344"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi Damar Mata Kucing (Shorea Javanica) Berbasis Masyarakat Di Zona Tradisional Taman Nasional Bukit Barisan Selatan",
+        "pub_year": "2014",
+        "citation": "Media Konservasi 19 (2), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16535290732486814698",
+      "cites_id": [
+        "16535290732486814698"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Faktor Ekologi Dominan Pemilihan Kubangan Oleh Badak Jawa (Rhinoceros Sondaicus Desmarest 1822) Di Taman Nasional Ujung Kulon",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6947635119771323464",
+      "cites_id": [
+        "6947635119771323464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conditions of Vegetation and Population of Rafflesia patma Blume in Leuweung Sancang Nature Reserve",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:b1wdh0AR-JQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4787314666718362358",
+      "cites_id": [
+        "4787314666718362358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conservation of Rafflesia hasseltii Suringar in Bukit Tiga Puluh National Park, Riau-Jambi",
+        "pub_year": "1999",
+        "citation": "Media Konservasi 6 (1), 1999"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4593724701425434226",
+      "cites_id": [
+        "4593724701425434226"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Study on Blood Protein Polymorphism of Captive Bali Starling (Leucospar Rotschildi) from Indonesia, the United States and England",
+        "pub_year": "1991",
+        "citation": "Media Konservasi 3 (3), 1991"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:URolC5Kub84C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=471742754535016578",
+      "cites_id": [
+        "471742754535016578"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of Leguminosae plants for soil fertility in oil palm plantations",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1243 (1), 012016, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:foquWX3nUaYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERSEBARAN DAN POTENSI ETNOFITOMEDIKA KASTURI (Mangifera casturi Kosterm): STUDI KASUS PADA MASYARAKAT SUKU BANJAR DI KABUPATEN INDRAGIRI HILIR, PROVINSI RIAU",
+        "pub_year": "2022",
+        "citation": "Jurnal Tumbuhan Obat Indonesia 15 (2), 95-108, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:tYavs44e6CUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The PREY COMPOSITION OF Nepenthes gymnamphora Reinw. Ex Nees AT MOUNT BISMO, DERODUWUR HIKING TRAIL, WONOSOBO, CENTRAL JAVA",
+        "pub_year": "2022",
+        "citation": "Media Konservasi 27 (3), 116-120, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:g3aElNc5_aQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Estimation of Diversity and Potential Utilization of Agroforestry Plants in Batara Village, Timor-Leste",
+        "pub_year": "2022",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:hMsQuOkrut0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of Potential Objects for Ecotourism Development Based on Landscape Character in the Gunung Pongkor Post-Mining Area Through Expert Judgement",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1092 (1), 012019, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:L7CI7m0gUJcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Institutional model for ecotourism development in the Gunung Pongkor post-mining area",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 879 (1), 012001, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:yB1At4FlUx8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekologi, Etnobotani, dan Konservasi Rotan di Taman Nasional Lore Lindu Provinsi Sulawesi Tengah",
+        "pub_year": "2020",
+        "citation": "IPB (Bogor Agricultural University), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:oNZyr7d5Mn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of vegetation structure in Gunung Halimun Salak National Park corridor with drone technology and Geographic Information System (GIS)",
+        "pub_year": "2019",
+        "citation": "Sixth International Symposium on LAPAN-IPB Satellite 11372, 320-331, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population structure and conservation strategy of Rafflesia zollingeriana Koord. in Bandealit Resort, Meru Betiri National Park",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 394 (1), 012008, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:LPZeul_q3PIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Silviculture and Productivity of Calamus inops as an Important Resource toward Self-Financing for Lore Lindu National Park",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 394 (1), 012056, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnobotany of Merpayang (Scaphium macropodum Miq.) Beumee K. Heyne as a Medicinal Plant on The Pengulu Ethnic Sarolangun Jambi",
+        "pub_year": "2019",
+        "citation": "Media Konservasi 24 (2), 179-185, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure and composition of vegetation in sheoak (Casuarina equisetifolia L.) habitat in three conservation areas of Bengkulu Province.",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:0N-VGjzr574C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Pemulihan Hutan di KHDTK Samboja, Kalimantan Timur",
+        "pub_year": "2019",
+        "citation": "IPB (Bogor Agricultural University), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:XoXfffV-tXoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preferensi Habitat Burung Gosong Kaki Merah (Megapodius reindwart Dumont 1823) di Taman Wisata Alam Gunung Tunak",
+        "pub_year": "2019",
+        "citation": "Bogor Agricultural University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:tuHXwOkdijsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Article PHYTOTAXA",
+        "pub_year": "2019",
+        "citation": "Phytotaxa 402 (2), 121-125, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:kuK5TVdYjLIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure and composition of vegetation in sheoak (Casuarina equisetifolia L.) habitat in three conservation areas of Bengkulu Province.",
+        "pub_year": "2019",
+        "citation": "Journal of Natural Resources and Environmental Management 9 (3), 596-607, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:vDijr-p_gm4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population and composition structure of Titan Arum habitats (Amorphophallus titanum [Becc.] Becc. Ex Arcang) in lowland tropical rainforests of Bengkulu.",
+        "pub_year": "2019",
+        "citation": "Journal of Natural Resources and Environmental Management 9 (2), 241-257, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:tKAzc9rXhukC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PREFERENSI HABITAT BURUNG GOSONG KAKI MERAH (Megapodius reindwardt) DI TAMAN WISATA ALAM GUNUNG TUNAK, KABUPATEN LOMBOK TENGAH, PROVINSI NUSA TENGGARA BARAT.",
+        "pub_year": "2018",
+        "citation": "Media Konservasi 23 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:TIZ-Mc8IlK0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stakeholders Mapping For Restoration Of Khdtk Samboja",
+        "pub_year": "2018",
+        "citation": "Jurnal Analisis Kebijakan Kehutanan 15 (2), 127-142, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Konservasi Cemara Laut (Casuarina equisetifolia L.) di Provinsi Bengkulu.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:edDO8Oi4QzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekologi dan Risiko Keinvasifan Iwul (Orania sylvicola (Griff.) HE Moore) di Cagar Alam Dungus Iwul, Bogor",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:WZBGuue-350C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preferential Habitat of Orange Footed Scrubfowl (Megapodius reindwardt) at Nature Tourism Park of Mount Tunak, Lombok Tengah Regency, Nusa Tenggara Barat Province",
+        "pub_year": "2018",
+        "citation": "Media Konservasi 23 (3), 216-225, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KOMPOSISI, STRUKTUR DAN KEANEKARAGAMAN SPESIES TUMBUHAN DI CAGAR ALAM DUNGUS IWUL, KABUPATEN BOGOR.",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (22), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:gsN89kCJA0AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekologi dan Konservasi Rafflesia meijerii Wir. & Sari di Taman Nasional Batang Gadis Sumatera Utara",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Ug5p-4gJ2f0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Komunitas Tumbuhan Merambat di Cagar Alam Pulau Rambut",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 1-10, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:4MWp96NkSFoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISTIK KOMUNITAS TUMBUHAN MERAMBAT DI SUAKA MARGASATWA PULAU RAMBUT",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POPULASI DAN HABITAT Nepenthes ampullaria Jack. DI CAGAR ALAM MANDOR, KALIMANTAN BARAT",
+        "pub_year": "2016",
+        "citation": "Media Konservasi 21 (2), 125-134, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERFOMANCE ANALYSIS OF SUSTAINABLE TRADING INSTITUTION OF PASAKBUMI (EURYCOMA LONGIFOLIA JACK) IN KUBU RAYA REGENCY AND PONTIANAK CITY, WEST KALIMANTAN PROVINCE",
+        "pub_year": "2014",
+        "citation": "Jurnal Penelitian Sosial dan Ekonomi Kehutanan 11 (2), 153-164, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Replication data for: Pengelolaan Lanskap Multifungsi: Pendekatan Alternatif Dalam Konservasi Tumbuhan Kayu",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Program Neurolinguistik Terhadap Kemampuan Menulis Paragraf Siswa SMAN 7 Kota Tangerang Provinsi Banten",
+        "pub_year": "2013",
+        "citation": "LPPM UMS, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Modelling for Distribution and Habitat Suitability of Invasive Alien Species Kirinyuh (Austroeupatorium inulifolium (Kunth) RM King & H. Rob) in Mandalawangi Resort \u2026",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:ipzZ9siozwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Dan Prospek Pengembangan Keanekaragaman Hayati Tumbuhan di Kabupaten Sintang",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:xtoqd-5pKcoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dendrologi",
+        "pub_year": "2010",
+        "citation": "IPB (Bogor Agricultural University), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dendrologi",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Analysis of Forest Vegetation on Panaitan Island, Peucang Island and Ujung Kulon Peninsula, West Java-Indonesia",
+        "pub_year": "1997",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDI KARAKTERISTIK KUBANGAN BADAK JAWA (Rhinoceros sondaicus Desmarest 1822) DI TAMAN NASIONAL UJUNG KULON (Study of Wallow Characteristics of Javan Rhinoceros-Rhinoceros \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:ClCfbGk0d_YC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IPB BIODIVERSITY INFORMATICS (Ipbiotics) Untuk PEMBANGUNAN BERKELANJUTAN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:q3CdL3IzO_QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Etnobotani Masyarakat Suku Tengger: Studi Kasus di Desa Ranu Pane Wilayah Enclave Taman Nasional Bromo Tengger Semeru, Kecamatan Senduro, Kabupaten Lumajang.",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:Dip1O2bNi0gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Sebaran Kelas Diameter dan Tinggi pada Fase Pertumbuhan Iwul (Orania sylvicola) di Cagar Alam Dungus Iwul, Bogor, Jawa Barat.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:PoWvk5oyLR8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Autekologi Nepenthes Ampullaria Jack. Di Cagar Alam Mandor Kalimantan Barat",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:SpbeaW3--B0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan Pola Sebaran Spesies Tumbuhan Asing Invasif di Cagar Alam Durian Luncuk I Sarolangun Jambi.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:i2xiXl-TujoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkiraan Biomasa, Penyimpanan Carbon dan Kandungan Energi dari Tiga Virgin Jungle Reserve di Semenanjung Malaysia",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:S16KYo8Pm5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kecenderungan Populasi Rafflesia zollingeriana Kds. Di Taman Nasional Meru Betiri, Jawa Timur (Population Trend of Rafflesia zollingeriana Kds. in Meru Betiri National Park \u2026",
+        "citation": "Bogor Agricultural University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:e_rmSamDkqQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian pengembangan kampung konservasi tumbuhan pangan dan obat keluarga: studi kasus di Kampung Cigeurut, Desa Cipakem, Maleber, Kuningan, Jawa Barat",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:-FonjvnnhkoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi dan Pemanfaatan Tumbuhan Berguna di Kawasan Suaka Margasatwa Paliyan Daerah Istimewa Yogyakarta",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:M7yex6snE4oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman spesies tumbuhan dan potensi pemanfaatannya di Taman Wisata Alam Buluhcina, Riau",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:kz9GbA2Ns4gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population Trend of Rafflesia zollingeriana Kds. in Meru Betiri National Park, East Java",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:k8Z6L05lTy4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Revitalisasi Konservasi Taman (Tumbuhan) Obat Keluarga (TOGA) Guna Meningkatkan Kesehatan dan Ekonomi Keluarga Mandiri di Desa Contoh Lingkar Kampus IPB Darmaga Bogor",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spesies Tumbuhan Asing Invasif Di Areal Proyek PT Nshe Batangtoru, Tapanuli Selatan, Sumatera Utara",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:lmc2jWPfTJgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Tumbuhan Di Berbagai Tipe Vegetasi Areal PT Zirkonia, Kabupaten Kota Waringin Barat, Kalimantan Tengah",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:MLfJN-KU85MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethnobotany of Kepuh (Sterculia foetida L.) Samawa Ethnic Communities in Sumbawa Regency, West Nusa Tenggara",
+        "citation": "JURNAL ILMU-ILMU KEHUTANAN 6 (2), 30-43, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:KUbvn5osdkgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS KEANEKARAGAMAN JENIS TUMBUHAN PAKAN BURUNG GOSONG KAKI MERAH (Megapodius reindwardt) DI TAMAN WISATA ALAM GUNUNG TUNAK",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sovereignty of Indonesian Biodiversity Conservation and Health through Development of\" Kampung Konservasi",
+        "citation": "Primates 35 (18), 4, 0"
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TRIAD STIMULUS NUR (NATURE, USE, RELIGION) PRO-CONSERVATION FOR SUSTAINABLE FOREST MANAGEMENT IN INDONESIA: An analysis on Kedawung (Parkia timoriana)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution Pattern of Rare Tree Species in Two Virgin Jungle Reserves in Pahang and Johor, Malaysia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ConservationandHuman Welfare: A Case Study of The Manggarai Tribe in Ruteng Mountains, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rare Tree Species Pattern Diversity in Two Virgin Jungle Reserves in Pahang and Johor, Malaysia (ID 572-531)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "8RyCXaQAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

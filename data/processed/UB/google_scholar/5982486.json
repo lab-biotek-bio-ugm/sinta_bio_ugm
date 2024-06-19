@@ -1,0 +1,701 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "VavyAqgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Retno Mastuti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VavyAqgAAAAJ&citpid=7",
+  "affiliation": "Senior lecturer of Plant Biotechnology",
+  "interests": [
+    "Plant Tissue Culture"
+  ],
+  "email_domain": "@ub.ac.id",
+  "citedby": 248,
+  "citedby5y": 187,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 6,
+  "cites_per_year": {
+    "1998": 5,
+    "1999": 2,
+    "2000": 0,
+    "2001": 0,
+    "2002": 0,
+    "2003": 1,
+    "2004": 0,
+    "2005": 0,
+    "2006": 1,
+    "2007": 0,
+    "2008": 0,
+    "2009": 1,
+    "2010": 1,
+    "2011": 1,
+    "2012": 3,
+    "2013": 1,
+    "2014": 2,
+    "2015": 7,
+    "2016": 8,
+    "2017": 12,
+    "2018": 11,
+    "2019": 22,
+    "2020": 22,
+    "2021": 31,
+    "2022": 50,
+    "2023": 44,
+    "2024": 16
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "jBzm3VgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Estri Laras Arumingtyas",
+      "affiliation": "Doktor Biologi Molekuler/Genetika Molekuler Tanaman"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_tZeEOkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Serafinah Indriyani",
+      "affiliation": "University of Brawijaya"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of calcium oxalate (CaOx) crystals in porang (Amorphophallus muelleri Blume)",
+        "pub_year": "2013",
+        "citation": "American Journal of Plant Sciences 4 (09), 1765, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7908484262223901717",
+      "cites_id": [
+        "7908484262223901717"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The combination effect of auxin and cytokinin on in vitro callus formation of Physalis angulata L.\u2013A medicinal plant",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5316380533579564368",
+      "cites_id": [
+        "5316380533579564368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variability of porang populations (Amorphophallus muelleri) in West Java and Central Java based on trnL intron sequences",
+        "pub_year": "2013",
+        "citation": "Journal of Biodiversity and Environmental Sciences (JBES) 3 (9), 31-41, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:ufrVoPGSRksC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8944965633055148987",
+      "cites_id": [
+        "8944965633055148987"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of calcium oxalate (CaOx) crystals in porang corms (Amorphophallus muelleri Blume) at different harvest time",
+        "pub_year": "2016",
+        "citation": "American Journal of Plant Sciences 7 (2), 306-315, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:roLk4NBRz8UC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15109760006241174552",
+      "cites_id": [
+        "15109760006241174552"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro enzymatic isolation of protoplasts from tissues of the medicinal plant Physalis angulata L.",
+        "pub_year": "2019",
+        "citation": "The 9th International Conference on Global Resource Conservation (ICGRC) and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6517565524620352742",
+      "cites_id": [
+        "6517565524620352742"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of celosia variants in east java based on polyphenol oxidase-PPO genes",
+        "pub_year": "2015",
+        "citation": "Procedia Chemistry 14, 361-366, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6236643891567207536",
+      "cites_id": [
+        "6236643891567207536"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of diverse porang (Amorphophallus muelleri Blume) age in forest are based on brancing pattern of leaf petiolule",
+        "pub_year": "2014",
+        "citation": "Research Journal of Life Science 1 (1), 20-26, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=453350997550367656",
+      "cites_id": [
+        "453350997550367656"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Environmental Stresses for Enhancing Withanolides Production in Physalis angulata L.",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 239 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3896698917087710273",
+      "cites_id": [
+        "3896698917087710273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LC-MS analysis of carbohydrate components in Porang tubers (Amorphophallus muelleri Blume) from the second and the third growth period",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (012022), 1-7, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10621979739292428415",
+      "cites_id": [
+        "10621979739292428415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical Characters of Shoot Apical Meristem (SAM) on Bulbil Porang (Amorphophallus muelleri Blume) At the End of Dormancy Period",
+        "pub_year": "2019",
+        "citation": "The Journal of Experimental Life Science 9 (1), 19-24, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13858709783639996103",
+      "cites_id": [
+        "13858709783639996103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemurnian dan deteksi serologi Patchouli mottle virus pada tanaman nilam",
+        "pub_year": "2006",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 12 (2), 74-82, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10926049288746067304",
+      "cites_id": [
+        "10926049288746067304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of intergeneric hybrid Calli from C3 and C4 species of Amaranthaceae through protoplast fusion",
+        "pub_year": "1997",
+        "citation": "Japanese Journal of Crop Science 66 (3), 456-465, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10549789617336116442",
+      "cites_id": [
+        "10549789617336116442"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Selection Technique of Bulbil Porang (Amorphophallus muelleri Blume) Based on Growth Response",
+        "pub_year": "2019",
+        "citation": "Journal of Environmental Engineering & Sustainable Technology 6 (1), 30-35, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17009623675967575979",
+      "cites_id": [
+        "17009623675967575979"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and genetic variation of Amaranthus spinosus L.: an adaptation evidence of climate differences and gene interaction.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13927411859446292105",
+      "cites_id": [
+        "13927411859446292105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity study among six genera of Amaranth Family found in Malang based on RAPD marker",
+        "pub_year": "2012",
+        "citation": "Journal of Tropical Life Science 2 (3), 81-86, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11391550990640091281",
+      "cites_id": [
+        "11391550990640091281"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of banana homogenate on shoot regeneration of Ciplukan (Physalis angulata L.)",
+        "pub_year": "2018",
+        "citation": "The Journal of Experimental Life Science 8 (1), 53-60, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1237260864065903841",
+      "cites_id": [
+        "1237260864065903841"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Bulbils Position on Leaf Branches to Plant Growth Responses and Corms Quality of Amorphophallus muelleri Blume",
+        "pub_year": "2018",
+        "citation": "The Journal of Experimental Life Science 8 (1), 1-6, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2674912062611745859",
+      "cites_id": [
+        "2674912062611745859"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PHYSICAL AND CHEMICAL TREATMENTS TO BREAK SEED DORMANCY ON LERAK (Sapindus rarak DC.)",
+        "pub_year": "2016",
+        "citation": "International Journal of Agriculture and Environmental Research 2 (04), 936-937, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:Se3iqnhoufwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13651300427896088567",
+      "cites_id": [
+        "13651300427896088567"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of AUX1 gene and auxin content to the branching phenotype of Kenaf (Hibiscus cannabinus L.)",
+        "pub_year": "2010",
+        "citation": "Physiology and Molecular Biology of Plants 16, 93-98, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8025697544759009571",
+      "cites_id": [
+        "8025697544759009571"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Study of Growth and Its Polyembryonic Properties of Porang Seeds (Amorphophallus muelleri Blume) from Various Fruit Colors in Different Planting Media",
+        "pub_year": "2019",
+        "citation": "Journal of Experimental Life Sciences 9 (2), 2019, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2411829515600654192",
+      "cites_id": [
+        "2411829515600654192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of growth regulators on betalain profile in callus culture of Celosia sp.",
+        "pub_year": "2021",
+        "citation": "The 11th International Conference on Global Resource Conservation 28-29 July \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:hC7cP41nSMkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14413293667716472752",
+      "cites_id": [
+        "14413293667716472752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of tomato juices and bean sprout extracts on vitro shoot regeneration of Physalis angulata L.",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:Zph67rFs4hoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17148134789518028525",
+      "cites_id": [
+        "17148134789518028525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE PROFILE OF PARTIAL SEQUENCE OF PUTATIVE AMINOTRANSFERASE (pAMT) GENE AND TOTAL CAPSAICINOID CONTENT OF ETHYL METHANE SULFONATE (EMS)-INDUCED CHILLI PEPPER (Capsicum \u2026",
+        "pub_year": "2018",
+        "citation": "Plant Cell Biotechnology and Molecular Biology 19 (7-8), 284-292., 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3650988673442853990",
+      "cites_id": [
+        "3650988673442853990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Elisitor Kitosan terhadap Kandungan Withanolid Tunas In Vitro Aksesi Tanaman Physalis angulata dari Pulau MaduraA",
+        "pub_year": "2021",
+        "citation": "Jurnal Tumbuhan Obat Indonesia 14 (1), 1-14, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:mB3voiENLucC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6241856491415206059",
+      "cites_id": [
+        "6241856491415206059"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elicitor Effect of Chitosan on In Vitro Culture of Different Explants of Physalis Accessions From East Java",
+        "pub_year": "2021",
+        "citation": "the 3rd KOBI Congress, International and National Conferences (KOBICINC 2020 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15772421892776892994",
+      "cites_id": [
+        "15772421892776892994"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of bioactive secondary metabolites produced by medicinal plants of Physalis angulata L. (Ciplukan)",
+        "pub_year": "2021",
+        "citation": "The 11th International Conference on Global Resource Conservation 28-29 July \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:-f6ydRqryjwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8039163467063404214",
+      "cites_id": [
+        "8039163467063404214"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of Capsaicin Content of Local Indonesian Mature Green and Red Chilli Pepper (Capsicum Frutescens)",
+        "pub_year": "2017",
+        "citation": "International Journal of Applied and Physical Sciences 3 (1), 28-32, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16424271011695719037",
+      "cites_id": [
+        "16424271011695719037"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Morphogenesis Responses of Various Explant in Physalis angulata L.",
+        "pub_year": "2017",
+        "citation": "The Journal of Experimental Life Science 7 (2), 102-105, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9017420311364534033",
+      "cites_id": [
+        "9017420311364534033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructure of fusion product between protoplasts from C3 and C4 species of Amaranthaceae",
+        "pub_year": "1998",
+        "citation": "Plant production science 1 (1), 67-74, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3753857160032389647",
+      "cites_id": [
+        "3753857160032389647"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kultur Kalus Tanaman Obat Physalis angulata L. (Ciplukan)",
+        "pub_year": "2020",
+        "citation": "Biotropika: Journal of Tropical Biology 8 (1), 26-35, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1170452774473042573",
+      "cites_id": [
+        "1170452774473042573"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIATION OF PARTIAL SEQUENCE OF Pun1 GENE (EXON-1) AND CAPSAICINOID CONTENT IN CHILLI PEPPER (Capsicum frutescens L.) MUTANT INDUCED BY ETHYL METHANE SULFONATE (EMS)",
+        "pub_year": "2018",
+        "citation": "Plant Cell Biotechnology and Molecular Biology 19 (7-8), 274-283, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9947204570973973514",
+      "cites_id": [
+        "9947204570973973514"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and CUlture of Celosia cristata L. Cell Suspension Protoplasts",
+        "pub_year": "2003",
+        "citation": "Berkala Penelitian Hayati 9, 1-6, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:IWHjjKOFINEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15702055226158025282",
+      "cites_id": [
+        "15702055226158025282"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructure of Hybrid Callus between C3 and C4 Species of Amaranthaceae",
+        "pub_year": "1998",
+        "citation": "Plant production science 1 (2), 136-144, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:WF5omc3nYNoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13965934980771823335",
+      "cites_id": [
+        "13965934980771823335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of seed germination and seedling growth of Physalis accession from East Java",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1563 (012009), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric Analysis of Long Pepper (Piper Retrofractumvahl.) in Madura Island and its Potensial as Herbal Medicine",
+        "pub_year": "2018",
+        "citation": "International Journal of Advances in Science, Engineering and Technology \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tolerance level of three genotypes of cayenne pepper  ( Capsicum frutescens L.) toward drought stress of vegetative  phase based on morphological and physiological responses",
+        "pub_year": "2017",
+        "citation": "International Journal of ChemTech Research 10 (2), 183-192, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDY ON FLOWERING DEVELOPMENT BIOLOGY OF Sapindus rarak DC",
+        "pub_year": "2016",
+        "citation": "International Journal of Agriculture, Forestry and Plantation 3, 72-75, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies on protoplast fusion between C [3] and C [4] species of Amaranthaceae",
+        "pub_year": "1998",
+        "citation": "\u540d\u53e4\u5c4b\u5927\u5b66, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u30d7\u30ed\u30c8\u30d7\u30e9\u30b9\u30c8\u878d\u5408\u306b\u3088\u308b\u30d2\u30e6\u79d1 C3 \u690d\u7269\u3068 C4 \u690d\u7269\u306e\u5c5e\u9593\u96d1\u7a2e\u30ab\u30eb\u30b9\u306e\u4f5c\u51fa",
+        "pub_year": "1997",
+        "citation": "\u65e5\u672c\u4f5c\u7269\u5b78\u6703 66 (3), 456-465, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Infraspecific Classification in Amaranthus spinosus Based on Morphological and Molecular Data",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Control Mechanism of Branch Formation of Kenaf (Hibiscus Cannabinus L.): Genetic Approach",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VavyAqgAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

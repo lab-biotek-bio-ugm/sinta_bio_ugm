@@ -1,0 +1,193 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "NN0PX8cAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ngadiman",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NN0PX8cAAAAJ&citpid=1",
+  "affiliation": "Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Microbiology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "homepage": "http://mikro.faperta.ugm.ac.id/ir-ngadiman-m-si-ph-d/",
+  "citedby": 73,
+  "citedby5y": 47,
+  "hindex": 5,
+  "hindex5y": 4,
+  "i10index": 4,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2011": 1,
+    "2012": 1,
+    "2013": 3,
+    "2014": 0,
+    "2015": 1,
+    "2016": 0,
+    "2017": 6,
+    "2018": 13,
+    "2019": 11,
+    "2020": 11,
+    "2021": 7,
+    "2022": 8,
+    "2023": 7,
+    "2024": 3
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and identification of plant growth promoting and chromium uptake enhancing bacteria from soil contaminated by leather tanning industrial waste",
+        "pub_year": "2013",
+        "citation": "Journal of Basic & Applied Sciences 9, 243-251, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4837684105423195593",
+      "cites_id": [
+        "4837684105423195593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peran Rhizobakteri Dalam Fitoekstraksi Logam Berat Kromium Pada Tanaman Jagung",
+        "pub_year": "2012",
+        "citation": "Ecolab 6 (1), 38-50, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8151707206055314970",
+      "cites_id": [
+        "8151707206055314970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of actinomycetes at several forest types in Wanagama I Yogyakarta and their potency as a producer of antifungal compound",
+        "pub_year": "2009",
+        "citation": "Indonesian Journal of Biotechnology 14 (2), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8399663314874989669",
+      "cites_id": [
+        "8399663314874989669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial Cr (VI) reduction and its impact in bioremediation",
+        "pub_year": "2013",
+        "citation": "Jurnal Ilmu Lingkungan 11 (2), 120-131, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14664430106823543751",
+      "cites_id": [
+        "14664430106823543751"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution of camphor monooxygenase genes in soil bacteria",
+        "pub_year": "2005",
+        "citation": "Indonesian Journal of Biotechnology 10 (2), 848-853, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:qjMakFHDy7sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16440122536341529785",
+      "cites_id": [
+        "16440122536341529785"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification and Characterization of Protease from Bacillus sp. TBRSN-1",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Biotechnology 18 (2), 151-160, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5284554998232361282",
+      "cites_id": [
+        "5284554998232361282"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Succession of Actinomycetes During Composting Proccess of Dairy-Farm Waste Investigated by Culture-Dependent and Independent Approaches",
+        "pub_year": "2008",
+        "citation": "Indonesian Journal of Biotechnology 13 (2), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "1E13-5 Identification and distribution of a novel bacterial cytochrome P450cam-encoding gene",
+        "pub_year": "2003",
+        "citation": "\u65e5\u672c\u751f\u7269\u5de5\u5b66\u4f1a\u5927\u4f1a\u8b1b\u6f14\u8981\u65e8\u96c6, 123, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification Of An Antagonistic Actinomycete And Its Use In The Biocontrol of Potato Scab",
+        "citation": "Ilmu Pertanian (Agricultural Science) 5 (4), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Substitusi Tepung Ikan dengan Tepung Azolla Pada Pakan Ikan Karper (Cyprinus Carpio L.)",
+        "citation": "Ilmu Pertanian (Agricultural Science) 5 (1), 0"
+      },
+      "filled": false,
+      "author_pub_id": "NN0PX8cAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "sXh8mGMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Elham Sumarga",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "forest ecology",
+    "ecosystem services",
+    "spatial modelling"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 1049,
+  "citedby5y": 769,
+  "hindex": 13,
+  "hindex5y": 12,
+  "i10index": 16,
+  "i10index5y": 15,
+  "cites_per_year": {
+    "2014": 3,
+    "2015": 19,
+    "2016": 64,
+    "2017": 81,
+    "2018": 102,
+    "2019": 105,
+    "2020": 129,
+    "2021": 153,
+    "2022": 132,
+    "2023": 166,
+    "2024": 81
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Denial of long\u2010term issues with agriculture on tropical peatlands will have devastating consequences",
+        "pub_year": "2017",
+        "citation": "Global change biology 23 (3), 977-982, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:qjMakFHDy7sC",
+      "num_citations": 153,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11242828460148362641",
+      "cites_id": [
+        "11242828460148362641"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lessons learned for spatial modelling of ecosystem services in support of ecosystem accounting",
+        "pub_year": "2015",
+        "citation": "Ecosystem Services 13, 64-69, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 128,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9238272977638953705",
+      "cites_id": [
+        "9238272977638953705"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrological and economic effects of oil palm cultivation in Indonesian peatlands",
+        "pub_year": "2016",
+        "citation": "Ecology and Society 21 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 111,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18186331427207053961",
+      "cites_id": [
+        "18186331427207053961"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mapping monetary values of ecosystem services in support of developing ecosystem accounts",
+        "pub_year": "2015",
+        "citation": "Ecosystem Services 12, 71-83, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 105,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3832485771760969334",
+      "cites_id": [
+        "3832485771760969334"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mapping ecosystem services for land use planning, the case of Central Kalimantan",
+        "pub_year": "2014",
+        "citation": "Environmental management 54, 84-97, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 105,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8994608925101064096",
+      "cites_id": [
+        "8994608925101064096"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards sustainable management of Indonesian tropical peatlands",
+        "pub_year": "2017",
+        "citation": "Wetlands Ecology and Management 25, 683-701, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 104,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1523581868623815230",
+      "cites_id": [
+        "1523581868623815230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Benefits and costs of oil palm expansion in Central Kalimantan, Indonesia, under different policy scenarios",
+        "pub_year": "2016",
+        "citation": "Regional Environmental Change 16, 1011-1021, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 66,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5083961662045166330",
+      "cites_id": [
+        "5083961662045166330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Who benefits from ecosystem services? A case study for Central Kalimantan, Indonesia",
+        "pub_year": "2016",
+        "citation": "Environmental management 57, 331-344, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15135026725837496673",
+      "cites_id": [
+        "15135026725837496673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Governance, decentralisation and deforestation: The case of central Kalimantan Province, Indonesia",
+        "pub_year": "2015",
+        "citation": "Quarterly Journal of International Agriculture 54 (1), 77-100, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=816262411764492755",
+      "cites_id": [
+        "816262411764492755"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial indicators for human activities may explain the 2015 fire hotspot distribution in Central Kalimantan Indonesia",
+        "pub_year": "2017",
+        "citation": "Tropical Conservation Science 10, 1940082917706168, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4919818447866746054",
+      "cites_id": [
+        "4919818447866746054"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The health impacts of Indonesian peatland fires",
+        "pub_year": "2022",
+        "citation": "Environmental Health 21 (1), 62, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3193811106994802938",
+      "cites_id": [
+        "3193811106994802938"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mapping monetary values of ecosystem services in support of developing ecosystem accounts. Ecosyst Serv 12: 71\u201383",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10895229885928356180",
+      "cites_id": [
+        "10895229885928356180"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lessons learned for spatial modelling of ecosystem services in support of ecosystem accounting. Ecosyst. Serv. 13, 64\u201369",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:UebtZRa9Y70C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14482090720364048851",
+      "cites_id": [
+        "14482090720364048851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The comparison of logistic regression, geostatistics and Maxent for distribution modeling of a forest endemic: a pilot study on lobels maple at MT Pizzalto, Italy",
+        "pub_year": "2011",
+        "citation": "University of Twente, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:Se3iqnhoufwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=900375348980123728",
+      "cites_id": [
+        "900375348980123728"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aboveground biomass and carbon stock estimation using UAV photogrammetry in Indonesian mangroves and other competing land uses",
+        "pub_year": "2023",
+        "citation": "Ecological Informatics 77, 102227, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:_kc_bZDykSQC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7546716539933067603",
+      "cites_id": [
+        "7546716539933067603"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of soil subsidence on plantation agriculture in Indonesian peatlands",
+        "pub_year": "2022",
+        "citation": "Regional Environmental Change 22 (4), 121, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8400973280296154857",
+      "cites_id": [
+        "8400973280296154857"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Land-cover and elevation-based mapping of aboveground carbon in a tropical mixed-shrub forest area in west Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "Forests 11 (6), 636, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17809157260632480976",
+      "cites_id": [
+        "17809157260632480976"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of minimum viable population of long-tailed macaques (Macaca fascicularis Raffles 1821) in support of wildlife management in Ir. H Djuanda Grand Forest Park",
+        "pub_year": "2022",
+        "citation": "Journal of Biological Science, Technologi and Management 41, 8-18, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12011515269291849890",
+      "cites_id": [
+        "12011515269291849890"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Kesehatan Mangrove di Taman Wisata Alam Angke Kapuk, Jakarta Utara",
+        "pub_year": "2022",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 20 (1), 40-51, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13721877329050971802",
+      "cites_id": [
+        "13721877329050971802"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quantification of Ecosystem Services from Urban Mangrove Forest: A Case Study in Angke Kapuk Jakarta",
+        "pub_year": "2023",
+        "citation": "Forests 14 (9), 1796, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:aqlVkmm33-oC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4500772264237400219",
+      "cites_id": [
+        "4500772264237400219"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Risk Assessment and Management Recommendations of Invasive Species in Papandayan Mountain Nature Reserve, West Java",
+        "pub_year": "2020",
+        "citation": "Journal of Biological Science, Texhnology and Management 2 (2), 39-46, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10532765080780534792",
+      "cites_id": [
+        "10532765080780534792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introduction to Ecosystem Accounting",
+        "pub_year": "2016",
+        "citation": "Routledge Handbook of Ecosystem Services, 213, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:WF5omc3nYNoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2493714750396677886",
+      "cites_id": [
+        "2493714750396677886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mangrove ecotourism development at Karimunjawa National Park, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (8), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5824436052010660875",
+      "cites_id": [
+        "5824436052010660875"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maintaining carbon storage does not reduce fish production from mangrove-fish pond system: A case study in Coastal Area of Subang District, West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Forests 13 (8), 1308, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17004238072406827143",
+      "cites_id": [
+        "17004238072406827143"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Disturbances-based plan of delineating protected area\u2019s buffer zone: A case study in Masigit Kareumbi Mountain, West Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (11), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:0EnyYjriUFMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9153568997470886105",
+      "cites_id": [
+        "9153568997470886105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carbon stock potential in rehabilitated mangrove in Lubuk Kertang Village, North Sumatra, Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1277 (1), 012005, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13559589553751051577",
+      "cites_id": [
+        "13559589553751051577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alternative Strategy to Improve the Conservation of Javan Deer in Pangandaran Nature Reserve, West Java, Indonesia",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (1), 76498, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11243993037527680095",
+      "cites_id": [
+        "11243993037527680095"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of ecological carrying capacity of the timor deer (Cervus timorensis) habitat in Cikamal Grassland Pananjung Pangandaran Nature Reserve, West Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 8 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15411321817962779506",
+      "cites_id": [
+        "15411321817962779506"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of mangrove carbon stocks using unmanned aerial vehicle over coastal vegetation",
+        "pub_year": "2024",
+        "citation": "Global Journal of Environmental Science and Management 10 (3), 1133-1150, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quantification of ecosystem services from mangrove silvofishery",
+        "pub_year": "2024",
+        "citation": "Global Journal of Environmental Science and Management 10 (3), 1333-1344, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carbon Stock and CO2 Fluxes in Various Land Covers in Karang Gading and Langkat Timur Laut Wildlife Reserve, North Sumatra, Indonesia",
+        "pub_year": "2023",
+        "citation": "Sustainability 15 (21), 15196, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Feasibility of Local Commodities on Peatlands",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Environmental Management and Sustainability 6 (2), 67-75, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Velia; Aldi, AA; Basyuni, M. Maintaining Carbon Storage Does Not Reduce Fish Production from Mangrove-Fish Pond System: A Case Study in Coastal Area of Subang District, West \u2026",
+        "pub_year": "2022",
+        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis Vegetation and Mapping of Invasive Species Distribution Potential in Mount Masigit Kareumbi, South Sumedang",
+        "pub_year": "2018",
+        "citation": "ICoSTES 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FIRE RISK ANALYSIS IN MOUNT MASIGIT KAREUMBI, WEST JAVA",
+        "pub_year": "2018",
+        "citation": "The 1st ICoSTES 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SPATIAL DISTRIBUTION OF WOOD EXTRACTION RISK IN RUVU NORTH FOREST RESERVE TANZANIA",
+        "pub_year": "2016",
+        "citation": "MAJALAH ILMIAH GLOBE 10 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Een hydrologisch modelonderzoek naar de waterhuishouding van het natuurreservaat\" De Engbertsdijksvenen\" en zijn omgeving",
+        "pub_year": "1987",
+        "citation": "Vakgroep Cultuurtechniek, Landbouw Univ., 1987"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water Provision Benefits from Karst Ecosystems Threatened by Limestone Mining: An Example for Watuputih Groundwater Basin, North Kendeng Mountain, Indonesia",
+        "citation": "North Kendeng Mountain, Indonesia, 0"
+      },
+      "filled": false,
+      "author_pub_id": "sXh8mGMAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 6,
+    "not_available": 2
+  }
+}

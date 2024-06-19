@@ -1,0 +1,596 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "-WiqqvMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sri Listiyowati",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-WiqqvMAAAAJ&citpid=2",
+  "affiliation": "IPB University (Bogor Agricultural University)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Mycology"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 125,
+  "citedby5y": 69,
+  "hindex": 6,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2008": 2,
+    "2009": 2,
+    "2010": 2,
+    "2011": 1,
+    "2012": 1,
+    "2013": 5,
+    "2014": 6,
+    "2015": 14,
+    "2016": 6,
+    "2017": 4,
+    "2018": 10,
+    "2019": 5,
+    "2020": 11,
+    "2021": 9,
+    "2022": 8,
+    "2023": 24,
+    "2024": 12
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bhYeVAkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Okky S. Dharmaputra",
+      "affiliation": "Profesor of Mycology,  Departmen of Biology, Bogor Agricultural University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of oil palm plantation wastes for mushroom production",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 7th international conference on Mushroom Biology and \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353177843853528436",
+      "cites_id": [
+        "2353177843853528436"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cendawan dalam Praktik Laboratorium",
+        "pub_year": "2004",
+        "citation": "IPB Press. Bogor, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12711563311295072394",
+      "cites_id": [
+        "12711563311295072394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antifungal activity of soybean rhizosphere actinomycetes producing bioactive compounds against Fusarium oxysporum",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (6), 2127-2133, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:dhFuZR0502QC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6990640498019207146",
+      "cites_id": [
+        "6990640498019207146"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elaphomyces tropicalis sp. nov.: A new ectomycorrhizal fungus associated with dipterocarps from tropical Indonesia",
+        "pub_year": "2018",
+        "citation": "Mycoscience 60 (2), 83-88, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:roLk4NBRz8UC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5799335756623403483",
+      "cites_id": [
+        "5799335756623403483"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Basidiospores attach to the seed of Shorea leprosula in lowland tropical dipterocarp forest and form functional ectomycorrhiza on seed germination",
+        "pub_year": "2018",
+        "citation": "Mycorrhiza 28, 85-92, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10121881623825285179",
+      "cites_id": [
+        "10121881623825285179"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of chitinolytic bacteria used as biological control of suspected pathogenic fungi on oil palm seedlings",
+        "pub_year": "2013",
+        "citation": "Undergraduate Thesis. IPB University, Bogor, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:IWHjjKOFINEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=989575319667440322",
+      "cites_id": [
+        "989575319667440322"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversitas Pangan Fermentasi Berbasis-Susu di Indonesia dan Kandungan Gizinya",
+        "pub_year": "2022",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 27 (4), 552-561, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17438249577642753531",
+      "cites_id": [
+        "17438249577642753531"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yeasts isolated from traditional brem Bali show stress tolerance phenotype against fermentation-related stresses",
+        "pub_year": "2021",
+        "citation": "Makara Journal of Science 25 (1), 7, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11361757615858771209",
+      "cites_id": [
+        "11361757615858771209"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Jamur Pangan sebagai Alternatif Pengganti Daging Sapi dan Efeknya terhadap Budidaya Jamur di Indonesia",
+        "pub_year": "2004",
+        "citation": "Makalah Falsafah Sains. Pascasarjana Institut Pertanian Bogor. Bogor, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7751889765588436084",
+      "cites_id": [
+        "7751889765588436084"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root associated Fusarium solani Species Complex (FSSC) in epiphytic and terrestrial orchids",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (5), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14305324565661307893",
+      "cites_id": [
+        "14305324565661307893"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monascus sp. Pigment Potency as Simple Preservative in Food Ingredients",
+        "pub_year": "2022",
+        "citation": "Jurnal Biologi Tropis 22 (3), 781-786, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3843297815188766524",
+      "cites_id": [
+        "3843297815188766524"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman cendawan pascapanen pada umbi bawang merah varietas Bima Brebes",
+        "pub_year": "2018",
+        "citation": "Jurnal Fitopatologi Indonesia 14 (5), 175-175, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:Se3iqnhoufwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5193345102891207281",
+      "cites_id": [
+        "5193345102891207281"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Aspergillus flavus and Detection of Its Aflatoxin Genes Isolated from Peanut and Peanut Processed Products",
+        "pub_year": "2014",
+        "citation": "Biotropia 21 (1), 59-70, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6252006543386467093",
+      "cites_id": [
+        "6252006543386467093"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis keragaman sejumlah isolat penyebab penyakit kudis (Sphaceloma batatas Saw.) pada ubi jalar dari beberapa daerah di Jawa Barat",
+        "pub_year": "1998",
+        "citation": "IPB (Bogor Agricultural University), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7281691913011554037",
+      "cites_id": [
+        "7281691913011554037"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioethanol Production from Non-Conventional Yeasts Wickerhamomyces anomalus (Pichia anomala) and Detection of ADH1 Gene",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (2), 221-228, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1580353474895107203",
+      "cites_id": [
+        "1580353474895107203"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi Cendawan Mikoriza Arbuskula dari Rizosfer Tanaman Berkayu Asal Pulau Bangka dan Karakteristik Struktur Kultur Mikorizanya",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (2), 39-48, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12062120641863542173",
+      "cites_id": [
+        "12062120641863542173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mekanisme Antagonisme Cendawan Entomopatogen terhadap Fusarium oxysporum f. sp. cubense Penyebab Penyakit Panama Pisang.",
+        "pub_year": "2023",
+        "citation": "Jurnal Fitopatologi Indonesia 19 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:HDshCWvjkbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=907978926963766232",
+      "cites_id": [
+        "907978926963766232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quercetin-Containing Extract from Clove Syzygium aromaticum L. Endophytic Bacteria, Fictibacillus phosphorivorans P1U2, Exhibits Antimutagenic Activity in Yeast Saccharomyces \u2026",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (4), 734-742, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6397991523497203822",
+      "cites_id": [
+        "6397991523497203822"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flower endophytic fungi of Geodorum densiflorum endangered orchid",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012037, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15335608093445409241",
+      "cites_id": [
+        "15335608093445409241"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New record of gymnoascus udagawae associated with clathria sp. Sponge from indonesia and the potency as anti-candida",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012072, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4732784419203882117",
+      "cites_id": [
+        "4732784419203882117"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Entomopathogenic fungi Beauveria sp. and Aspergillus sclerotiorum can produce secondary metabolite quinidine",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012032, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1206498664552682713",
+      "cites_id": [
+        "1206498664552682713"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Cendawan Asal Hydrilla verticillata Sebagai Pengendali Hayati Fusarium oxysporum dan Ganoderma boninense",
+        "pub_year": "2019",
+        "citation": "Jurnal Sumberdaya Hayati 5 (2), 43-51, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:UebtZRa9Y70C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16171487560851260754",
+      "cites_id": [
+        "16171487560851260754"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunikasi Singkat. Isolasi dan karakterisasi \u03b1-amilase ekstraseluler dari kapang asal limbah cair tapioka",
+        "pub_year": "2002",
+        "citation": "J. Mikrobiol. Indones 7, 51-54, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10684831914176644499",
+      "cites_id": [
+        "10684831914176644499"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Penanganan Substrat Limbah dan Penanggulangan Massa Spora Limbah Produksi Tubuh Buah Jamur Ganoderma Lucidum",
+        "pub_year": "2000",
+        "citation": "IPB (Bogor Agricultural University), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16165640255052235457",
+      "cites_id": [
+        "16165640255052235457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Arbuscular mycorrhizal colonization of Scleria sumatrensis as a member of Cyperaceae family commonly known as non-mycorrhizal host plant",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012043, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Cendawan Xylaria sp. Sebagai Sumber Antioksidan",
+        "pub_year": "2023",
+        "citation": "Al-Kauniyah: Jurnal Biologi 16 (2), 365-375, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengenalan dan Pengembangan Produk Dari Jamur Liar Edible Di Sukabumi, Jawa Barat",
+        "pub_year": "2023",
+        "citation": "Jurnal Pengabdian Masyarakat Bangsa 1 (8), 1563-1575, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic Mechanism of Entomopathogenic Fungi Against Fusarium oxysporum f. sp. cubense, The Causal Agents of Banana\u2019s Panama Disease",
+        "pub_year": "2023",
+        "citation": "Jurnal Fitopatologi Indonesia 19 (3), 99-110, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of postharvest fungi on shallot bulbs variety Bima Brebes.",
+        "pub_year": "2018",
+        "citation": "Jurnal Fitopatologi Indonesia (JFI) 14 (5), 175-182, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of SCAR Markers of Pyricularia grisea Isolated from Digitaria ciliaris Following Cross Infection to Rice",
+        "pub_year": "2011",
+        "citation": "Microbiology Indonesia 5 (1), 1-1, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubunagn kemampuan pergantian inang dengan plastisitas genetika pada cendawan blas padi (Pyricularia grisea)",
+        "pub_year": "2009",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 14 (2), 133-140, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity and microevolution of pyricularia grisea from grasses",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Xylaria sp. sebagai Sumber Antioksidan",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interaksi Cendawan Endofit Asal Jahe Merah (Zingiber Officinale Roscoe) Dengan Beberapa Bakteri Yang Merugikan",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan kapasitas ukm melalui perancangan dan Introduksi peralatan untuk budidaya jamur tiram",
+        "citation": "Bogor Agricultural University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFICATION OF AND DETECTION OF ITS AFLATOXIN GENES ISOLATED FROM PEANUT",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of Chitinolytic Bacteria Used as Biology Control of Pathogenic Fungi on Oil Palm Leaves",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "-WiqqvMAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

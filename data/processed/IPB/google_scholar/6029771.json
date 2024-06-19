@@ -1,0 +1,420 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "5vvwTkMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dorly",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5vvwTkMAAAAJ&citpid=2",
+  "affiliation": "Department of Biology, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Plant Taxonomy"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "homepage": "http://biologi.ipb.ac.id/web/en/faculty/profile/27/dorly",
+  "citedby": 274,
+  "citedby5y": 184,
+  "hindex": 10,
+  "hindex5y": 9,
+  "i10index": 11,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "2011": 5,
+    "2012": 5,
+    "2013": 7,
+    "2014": 8,
+    "2015": 6,
+    "2016": 11,
+    "2017": 15,
+    "2018": 32,
+    "2019": 23,
+    "2020": 39,
+    "2021": 35,
+    "2022": 40,
+    "2023": 36,
+    "2024": 11
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secretory duct structure and phytochemistry compounds of yellow latex in mangosteen fruit",
+        "pub_year": "2008",
+        "citation": "HAYATI Journal of Biosciences 15 (3), 99-99, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 52,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5155049107879168393,14239006471352232939",
+      "cites_id": [
+        "5155049107879168393",
+        "14239006471352232939"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oxidative stress and photosynthesis reduction of cultivated (Glycine max L.) and wild soybean (G. tomentella L.) exposed to drought and paraquat.",
+        "pub_year": "2017",
+        "citation": "Asian Journal of Plant Sciences 16 (2), 65-77, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5668834716466828228",
+      "cites_id": [
+        "5668834716466828228"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Serangga pada Bunga Tomat (Lycopersicon esculentum Mill.) di Lahan Pertanian Organik",
+        "pub_year": "2009",
+        "citation": "Jurnal Entomologi Indonesia 6 (2), 77-77, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:ufrVoPGSRksC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17141034987764560563",
+      "cites_id": [
+        "17141034987764560563"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik anatomi daun dari sepuluh spesies Hoya sukulen serta analisis hubungan kekerabatannya",
+        "pub_year": "2013",
+        "citation": "Botanic Gardens Bulletin 16 (1), 58-73, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3228582734694331593",
+      "cites_id": [
+        "3228582734694331593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman dan analisis kekerabatan Hoya spp. bertipe daun non sukulen berdasarkan karakter anatomi daun",
+        "pub_year": "2013",
+        "citation": "Botanic Gardens Bulletin 16 (1), 1-16, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16907667948018817131",
+      "cites_id": [
+        "16907667948018817131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structural Insights into New Bi(III) Coordination Polymers with Pyridine-2,3-Dicarboxylic Acid: Photoluminescence Properties and Anti-Helicobacter pylori Activity",
+        "pub_year": "2020",
+        "citation": "International Journal of Molecular Sciences 21 (22), 8696, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10154708478682586601",
+      "cites_id": [
+        "10154708478682586601"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi anatomi daun dari tiga anggota suku Malvaceae di kawasan Waduk Jatiluhur",
+        "pub_year": "2016",
+        "citation": "Proceeding Biology Education Conference: Biology, Science, Enviromental, and \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11331975300320110525",
+      "cites_id": [
+        "11331975300320110525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Secretory Structure, Histochemistry and Phytochemical Compounds of Medicinal Plant Hyptis Capitata Jacq.",
+        "pub_year": "2017",
+        "citation": "Biotropia 24 (2), 94-103, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:WF5omc3nYNoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8186184850732252743",
+      "cites_id": [
+        "8186184850732252743"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan Bunga Dan Uji Viabilitas Serbuk Sari Bunga Lipstik Aeschynanthus radicans var.\u2018Monalisa\u2019Di Kebun Raya Bogor Flower development and pollen viability of \u2026",
+        "pub_year": "2016",
+        "citation": "Buletin Kebun Raya 19 (1), 21-32, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2125841048289165637",
+      "cites_id": [
+        "2125841048289165637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of physiological and anatomical changes of C3 (Oryza sativa [L.]) and C4 (Echinochloa crusgalli [L.]) leaves in response to drought stress",
+        "pub_year": "2016",
+        "citation": "IOP Conference Series: Earth and Environmental Science 31 (1), 012040, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5679668389241215111",
+      "cites_id": [
+        "5679668389241215111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Calcium spray reduces yellow latex on mangosteen fruits (Garcinia mangostana L.).",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16048696483978677181",
+      "cites_id": [
+        "16048696483978677181"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Viabilitas Polen Pada Dua Spesies Belimbing Hutan (Averrhoa Dolichocarpa Dan a. Leucopetala)",
+        "pub_year": "2017",
+        "citation": "Botanic Gardens Bulletin 19 (2), 79-90, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12651031455953864399",
+      "cites_id": [
+        "12651031455953864399"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pulasan [(Nephlium ramboutan-ake (Labill.) Leenh.] Fruit Trees: Variations in Flower Morphology, and Associated Differences in Pollination Type",
+        "pub_year": "2016",
+        "citation": "International Journal of Plant Biology 7 (1), 6149, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11783715661043301206",
+      "cites_id": [
+        "11783715661043301206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Can anatomical and physiological characters predict plant adaptation on tin-mined land in Bangka Island?",
+        "pub_year": "2011",
+        "citation": "Australian Centre for Geomechanics, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:UebtZRa9Y70C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15347427880985756136",
+      "cites_id": [
+        "15347427880985756136"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics and Ideotype Formulation of Pulasan (Nephelium ramboutan-ake) Fruit Landrace from West Java, Indonesia",
+        "pub_year": "2017",
+        "citation": "Makara Journal of Science 21 (2), 3, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18205598832351693810",
+      "cites_id": [
+        "18205598832351693810"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secretory structure and histochemistry tests of Asteraceae family members of medicinal plants in Walat Mountain Educational Forest",
+        "pub_year": "2015",
+        "citation": "Proceeding Biology Education Conference: Biology, Science, Enviromental, and \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16956569982281675088",
+      "cites_id": [
+        "16956569982281675088"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi pemberian kalsium untuk mengatasi getah kuning pada buah manggis (Garcinia mangostana L.)",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Agronomy 39 (1), 7776, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14943462083822506981",
+      "cites_id": [
+        "14943462083822506981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Berdasarkan Anatomi Tumbuhan Pakan dalam Feses Gajah Sumatra (Elephas maximus sumatranus) di Taman Nasional Way Kambas",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (3), 125-133, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10447289584394089546",
+      "cites_id": [
+        "10447289584394089546"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomi Daun Beberapa Talas Liar (Colocasia esculenta (L.) Schott dari Kabupaten Bogor",
+        "pub_year": "2018",
+        "citation": "Caraka Tani: Journal of Sustainable Agriculture 22 (1), 6-11, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1147879686629377543",
+      "cites_id": [
+        "1147879686629377543"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DISTRIBUSI KAPULASAN (NEPHELIUM RAMBOUTAN-AKE (LABILL.) LEENH.) DI PULAU JAWA DAN HUBUNGAN KEKERABATAN MORFOLOGINYA",
+        "pub_year": "2016",
+        "citation": "Floribunda 5 (4), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12990640639176391861",
+      "cites_id": [
+        "12990640639176391861"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomi Tumbuhan Pakan Gajah Sumatra (Elephas maximus sumatranus Temminck) di Taman Nasional Way Kambas",
+        "pub_year": "2024",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 29 (2), 187-195, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Sekretori pada Physalis angulata sebagai Tumbuhan Obat",
+        "pub_year": "2022",
+        "citation": "BIO-SAINS: Jurnal Ilmiah Biologi 1 (2), 19-24, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IS THE FLOWER OF PULASAN (NEPHELIUM RAMBOUTAN-AKE) A PROTOGYNY OR PROTANDRY?",
+        "pub_year": "2021",
+        "citation": "Floribunda 6 (7), 239\u2013247-239\u2013247, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEANEKARAGAMAN GENETIK KAPULASAN [NEPHELIUM RAMBOUTAN-AKE (LABILL.) LEENH.] DI JAWA BERDASARKAN MARKA SSR DAN ISSR",
+        "pub_year": "2020",
+        "citation": "Floribunda 6 (4), 117\u2013126-117\u2013126, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "5vvwTkMAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

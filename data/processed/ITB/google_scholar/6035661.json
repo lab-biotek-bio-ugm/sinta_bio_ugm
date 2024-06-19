@@ -1,0 +1,164 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "vWmsHwYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Heri Rahman",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vWmsHwYAAAAJ&citpid=1",
+  "affiliation": "Institut Teknologi Bandung",
+  "interests": [
+    "Ekonomi Pertanian"
+  ],
+  "citedby": 21,
+  "citedby5y": 21,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2019": 2,
+    "2020": 2,
+    "2021": 5,
+    "2022": 2,
+    "2023": 8,
+    "2024": 2
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGEMBANGAN PASAR LELANG FORWARD KOMODITAS BAHAN OLAH KARET (BOKAR) DI PROVINSI SUMATERA SELATAN",
+        "pub_year": "2015",
+        "citation": "JURNAL AGRIBISNIS TERPADU 8 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15337856212615122394",
+      "cites_id": [
+        "15337856212615122394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deskripsi Komparatif Iuran Pengelolaan Irigasi (IPI) di Saluran Induk Daerah Irigasi Jatiluhur Jawa Barat",
+        "pub_year": "2019",
+        "citation": "Agriekonomika 8 (2), 206-218, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7724939911220864099",
+      "cites_id": [
+        "7724939911220864099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Blockchain technology in waste management: theoretical evaluation for system adoption",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Environmental Management and Sustainability 6 (3), 104-113, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3744506503791063378",
+      "cites_id": [
+        "3744506503791063378"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS STATUS KEBERLANJUTAN AGROWISATA BERBASIS PERTANIAN BERKELANJUTAN: STUDI KASUS KEBUN STRAWBERRY UPANG",
+        "pub_year": "2022",
+        "citation": "JSEP (Journal of Social and Agricultural Economics) 15 (2), 123-136, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17664480398730963883",
+      "cites_id": [
+        "17664480398730963883"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan Konversi Lahan Pertanian Beririgasi dan Dampaknya terhadap Penguasaan Lahan Petani di Daerah Irigasi Jatiluhur Jawa Barat",
+        "pub_year": "2020",
+        "citation": "Jurnal Ekonomi Pertanian dan Agribisnis 4 (2), 384-399, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3075177977261773401",
+      "cites_id": [
+        "3075177977261773401"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agroforestry as a model of sustainable land use of small-scale private forest: a case study in Sumedang, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "International Journal of Business Continuity and Risk Management 10 (2-3 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1981742688805481659",
+      "cites_id": [
+        "1981742688805481659"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IMPROVING IRRIGATION WATER EFFICIENCY IN PADDY AGRICULTURE THROUGH A BETTER WATER PRICING POLICY IN THE JATILUHUR IRRIGATION AREA, WEST JAVA, INDONESIA",
+        "pub_year": "2019",
+        "citation": "Journal of ISSAAS (International Society for Southeast Asian Agricultural \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8404553171950967945",
+      "cites_id": [
+        "8404553171950967945"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nilai Keekonomian Brewer\u2019s Spent Grain sebagai Pakan Konsentrat Ternak Sapi",
+        "pub_year": "2022",
+        "citation": "Jurnal Ilmu Ternak Universitas Padjadjaran 22 (2), 93-101, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "vWmsHwYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

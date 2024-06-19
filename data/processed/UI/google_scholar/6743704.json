@@ -1,0 +1,216 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "QC9WdUwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Fadhillah",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QC9WdUwAAAAJ&citpid=2",
+  "affiliation": "Okayama University, Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Female Reproductive Physiology"
+  ],
+  "email_domain": "@sci.ui.ac.id",
+  "citedby": 83,
+  "citedby5y": 52,
+  "hindex": 5,
+  "hindex5y": 4,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2014": 3,
+    "2015": 4,
+    "2016": 4,
+    "2017": 10,
+    "2018": 9,
+    "2019": 4,
+    "2020": 12,
+    "2021": 8,
+    "2022": 16,
+    "2023": 10,
+    "2024": 2
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2IVblFUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Astari Dwiranti",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "yymRY3QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Drs. Abinawanto M.Si.",
+      "affiliation": "Senior Lecturer at Department of Biology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2WNaDL8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anom Bowolaksono",
+      "affiliation": "Associate Professor of Biology Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Sv-n29QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Alfi Sophian",
+      "affiliation": "Badan POM, Pusat Pengembangan Pengujian Obat dan Makanan Nasional"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KVEm12EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Retno Lestari",
+      "affiliation": "Universitas Indonesia"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hypoxia promotes progesterone synthesis during luteinization in bovine granulosa cells",
+        "pub_year": "2014",
+        "citation": "Journal of Reproduction and Development 60 (3), 194-201, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12665280358199124562",
+      "cites_id": [
+        "12665280358199124562"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hypoxia-inducible factor 1 mediates hypoxia-enhanced synthesis of progesterone during luteinization of granulosa cells",
+        "pub_year": "2017",
+        "citation": "Journal of Reproduction and Development 63 (1), 75-85, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16252932932396458510",
+      "cites_id": [
+        "16252932932396458510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of luteinizing hormone as a suppression factor for apoptosis in bovine luteal cells in vitro",
+        "pub_year": "2021",
+        "citation": "Reproduction in Domestic Animals 56 (5), 744-753, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:qjMakFHDy7sC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11241021222943832650",
+      "cites_id": [
+        "11241021222943832650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric analysis of Gorontalo (Indonesia) native chickens from six different regions",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (4), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6928115639492375089",
+      "cites_id": [
+        "6928115639492375089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of glucose in various concentrations on sperm quality of Barbonymus gonionotus (Bleeker, 1850) 24 hours postcryopreservation",
+        "pub_year": "2009",
+        "citation": "The Journal of Reproduction and Development Supplement The 102nd Meeting of \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1303863434346372759",
+      "cites_id": [
+        "1303863434346372759"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructure of Javaen barb fish Systomus orphoides Valenciennes, 1842 spermatozoa (Cypriniformes: Cyprinidae) by electron microscopes",
+        "pub_year": "2023",
+        "citation": "Microscopy Research & Technique 86, 1411-1415, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Date Palm Extract Effect on Quality of Mahseer Fish (Tor Soro) Spermatozoa after Frozen Storage",
+        "pub_year": "2021",
+        "citation": "Journal of Hunan University Natural Sciences 48 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hypoxia inducible factor-1\u03b1 plays a role in hypoxia-increased progesterone synthesis during luteinization of granulosa cells",
+        "pub_year": "2015",
+        "citation": "The Journal of Reproduction and Development Supplement The 108th Meeting of \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hypoxia is an important factor in luteinization",
+        "pub_year": "2013",
+        "citation": "The Journal of Reproduction and Development Supplement The 106th Meeting of \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "QC9WdUwAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

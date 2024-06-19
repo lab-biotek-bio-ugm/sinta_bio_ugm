@@ -1,0 +1,461 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "6f9rMQMAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Fitria Ningsih",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6f9rMQMAAAAJ&citpid=19",
+  "affiliation": "Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Bacterial diversity",
+    "Bacterial systematics",
+    "Bacterial prospecting"
+  ],
+  "email_domain": "@ui.ac.id",
+  "homepage": "https://www.researchgate.net/profile/Fitria-Ningsih-2",
+  "citedby": 115,
+  "citedby5y": 99,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2012": 2,
+    "2013": 2,
+    "2014": 3,
+    "2015": 3,
+    "2016": 1,
+    "2017": 1,
+    "2018": 4,
+    "2019": 10,
+    "2020": 23,
+    "2021": 22,
+    "2022": 17,
+    "2023": 19,
+    "2024": 8
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-tLkqC4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wellyzar Sjamsuridzal ",
+      "affiliation": "Doctor of Microbiology, Department of Biology, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SpqLwSgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Akira Yokota",
+      "affiliation": "Tohoku University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ncZSVvYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ariyanti Oetari",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "EiLwI3wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dhian Chitra Ayu Fitria Sari",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6v0DF8MAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mazytha Kinanti Rachmania",
+      "affiliation": "Universitas Indonesia"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gandjariella thermophila gen. nov., sp. nov., a new member of the family Pseudonocardiaceae, isolated from forest soil in a geothermal area",
+        "pub_year": "2019",
+        "citation": "International journal of systematic and evolutionary microbiology 69 (10 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7089708669906732507",
+      "cites_id": [
+        "7089708669906732507"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Paenibacillus cisolokensis sp. nov., isolated from litter of a geyser",
+        "pub_year": "2016",
+        "citation": "International journal of systematic and evolutionary microbiology 66 (8 \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10527043978472114700",
+      "cites_id": [
+        "10527043978472114700"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VisG is essential for biosynthesis of virginiamycin S, a streptogramin type B antibiotic, as a provider of the nonproteinogenic amino acid phenylglycine",
+        "pub_year": "2011",
+        "citation": "Microbiology 157 (11), 3213-3220, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6394878495028504851",
+      "cites_id": [
+        "6394878495028504851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening for amylolytic activity and characterization of thermophilic Actinobacteria isolated from a Geothermal Area in West Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (7), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13210094175852178590",
+      "cites_id": [
+        "13210094175852178590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellulolytic enzyme-producing thermophilic Actinobacteria isolated from the soil of Cisolok Geysers, West Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (11), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14359190075222908335",
+      "cites_id": [
+        "14359190075222908335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polyphasic identification of a thermophilic bacterium from geyser of Cisolok, Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2185102243442209593",
+      "cites_id": [
+        "2185102243442209593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of varM Encoding Type II ABC Transporter in Streptomyces virginiae, a Virginiamycin M1 Producer",
+        "pub_year": "2010",
+        "citation": "Actinomycetologica 24 (2), 51-57, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14724481315121674855",
+      "cites_id": [
+        "14724481315121674855"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosorption of Synthetic Dye by Macrofungi",
+        "pub_year": "2022",
+        "citation": "Industrial and Domestic Waste Management 2 (2), 61-70, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17740022343850276872",
+      "cites_id": [
+        "17740022343850276872"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and 16S rRNA gene sequences analysis of thermophilic Actinobacteria isolated from soil in Cisolok geothermal area, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012015, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5212754249809090335",
+      "cites_id": [
+        "5212754249809090335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aerial mycelium formation in rare thermophilic Actinobacteria on media solidified with agar and gellan gum",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 483 (1), 012017, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:roLk4NBRz8UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5773768684343598555",
+      "cites_id": [
+        "5773768684343598555"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and identification of Ktedonobacteria using 16S rRNA gene sequences data",
+        "pub_year": "2020",
+        "citation": "The International Symposium of Innovative Bio-Production Indonesia on \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:ufrVoPGSRksC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18348655880662805044",
+      "cites_id": [
+        "18348655880662805044"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DETECTION OF ANTIMICROBIAL COMPOUNDS FROM THERMOPHILIC ACTINOMYCETES USING ONE STRAIN MANY COMPOUNDS (OSMAC) APPROACH",
+        "pub_year": "2022",
+        "citation": "BIOLINK (Jurnal Biologi Lingkungan Industri Kesehatan) 9 (1), 76-94, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4666402907392451808",
+      "cites_id": [
+        "4666402907392451808"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and molecular identification of thermophilic bacteria from litter of mount Galunggung hot spring, Tasikmalaya, Indonesia",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1943 (1), 012097, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:8k81kl-MbHgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16201449586301196620",
+      "cites_id": [
+        "16201449586301196620"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and screening of enzymatic abilities of Ktedonobacteria from forest soil of Cisolok Geothermal Area, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (9), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7285647281156189034",
+      "cites_id": [
+        "7285647281156189034"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential secondary metabolite biosynthetic gene clusters and antibacterial activity of novel taxa Gandjariella",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (12), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:UebtZRa9Y70C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8372216618292341935",
+      "cites_id": [
+        "8372216618292341935"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Xylan-degrading ability of thermophilic Actinobacteria isolated from soil in a geothermal area",
+        "pub_year": "2020",
+        "citation": "Biodiversitas 21 (1), 144-154, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6195903794446319867",
+      "cites_id": [
+        "6195903794446319867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Next Generation Sequencing (NGS) for Cyanobacterial study in Agung and Sunter Barat Lakes, North Jakarta, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5274330151739546815",
+      "cites_id": [
+        "5274330151739546815"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial activity of a thermophilic actinobacterium Streptomyces cellulosae SL2-2-R-9 on different growth media",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1943 (1), 012099, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10532390356852511856",
+      "cites_id": [
+        "10532390356852511856"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and identification of rare actinomycete-like bacteria from soil-based on 16S ribosomal RNA gene sequences",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1524 (1), 012062, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13247576326036521646",
+      "cites_id": [
+        "13247576326036521646"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Xylan-degrading ability of thermophilic Actinobacteria from soil in a geothermal area",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13850104071852837653",
+      "cites_id": [
+        "13850104071852837653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Role of Fungi in Biodegradation of Bisphenol A: A Review",
+        "pub_year": "2023",
+        "citation": "Tropical Aquatic and Soil Pollution 3 (2), 131-143, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial activity of Microbispora rosea subsp. rosea SL3-2-R-1 grown on different media and solidifying agents",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1918 (5), 052011, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Antifungal Activity from Streptomyces spp. against Colletotrichum sp.",
+        "pub_year": "2007",
+        "citation": "Annual Reports of International Center for Biotechnology, Osaka University 29, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventarisasi dan Identifikasi Khamir dari Serasah di Taman Nasional Gunung Halimun",
+        "pub_year": "2005",
+        "citation": "Departemen Biologi, Fakultas Matematika dan Ilmu Pengetahuan Alam \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "6f9rMQMAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

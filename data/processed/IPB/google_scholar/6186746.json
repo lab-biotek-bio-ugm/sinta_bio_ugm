@@ -1,0 +1,156 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "4gFlsLcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Agus Sutejo .",
+  "affiliation": "Institut Pertanian Bogor",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Agricultural engineering"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 32,
+  "citedby5y": 23,
+  "hindex": 3,
+  "hindex5y": 2,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2015": 2,
+    "2016": 3,
+    "2017": 1,
+    "2018": 3,
+    "2019": 2,
+    "2020": 3,
+    "2021": 7,
+    "2022": 5,
+    "2023": 5,
+    "2024": 1
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Alat Pengupas Kulit Ari Kacang Tanah (Arachis hypogaea) Tipe Engkol",
+        "pub_year": "2012",
+        "citation": "Jurnal Keteknikan Pertanian 26 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4444300286876133241",
+      "cites_id": [
+        "4444300286876133241"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Karakteristik Spektrum Tandan Buah Segar (Tbs) Kelapa Sawit Berdasarkan Tingkat Kematangan Menggunakan Spektrofotometer Uv\u2013Vis",
+        "pub_year": "2016",
+        "citation": "TEKNOTAN 10 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:qjMakFHDy7sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5513117279558541271",
+      "cites_id": [
+        "5513117279558541271"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Non-destructive spectroscopy technique for determination of Oil Palm Fresh Fruits Bunch (FFB) maturity",
+        "pub_year": "2012",
+        "citation": "The Role of agricultural engineering to support food and energy security \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13727450055866116208",
+      "cites_id": [
+        "13727450055866116208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Sistem Penggerak dan Modifikasi Mesin Penanam Jagung Bertenaga Traktor Tangan",
+        "pub_year": "2015",
+        "citation": "Jurnal Keteknikan Pertanian 3 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2409618181240776534",
+      "cites_id": [
+        "2409618181240776534"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kriteria Perancangan Mesin Panen Jagung Berdasarkan Karakteristik Fisik-Mekanik Tanaman Jagung Siap Panen",
+        "pub_year": "2016",
+        "citation": "Prosiding Seminar Nasional Pengembangan Teknologi Pertanian, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Travelingability Mesin Sprayer Mobilemelalui Pengubahan Sistem Transmisi Ke Roda Penggerak",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan teknologi pembuatan kompos tandan kosong kelapa sawit",
+        "pub_year": "2005",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mobile Sprayer Machine",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "4gFlsLcAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

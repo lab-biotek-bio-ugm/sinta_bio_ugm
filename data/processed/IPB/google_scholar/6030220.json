@@ -1,0 +1,593 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "6HLVihIAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Taruni Sri Prawasti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6HLVihIAAAAJ&citpid=2",
+  "affiliation": "Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Animal Microtechniques and Histology"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 144,
+  "citedby5y": 115,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 6,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2005": 2,
+    "2006": 0,
+    "2007": 0,
+    "2008": 1,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 0,
+    "2013": 1,
+    "2014": 5,
+    "2015": 6,
+    "2016": 2,
+    "2017": 3,
+    "2018": 6,
+    "2019": 10,
+    "2020": 21,
+    "2021": 17,
+    "2022": 26,
+    "2023": 33,
+    "2024": 8
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitinolytic bacteria isolated from chili rhizosphere: chitinase characterization and application as biocontrol for Aphis gossypii",
+        "pub_year": "2010",
+        "citation": "Microbiology Indonesia 4 (3), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=525867349638029126",
+      "cites_id": [
+        "525867349638029126"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological characteristics and morphometric of stingless bee (Apidae: Hymenoptera) from Banten Province, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas 20 (6), 1693-1698, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:qUcmZB5y_30C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=313294805502628415",
+      "cites_id": [
+        "313294805502628415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flight activities and pollen load of three species of stingless bees (Apidae: Melliponinae)",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012025, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17867695701925086993",
+      "cites_id": [
+        "17867695701925086993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three species of ectoparasite mites (Acari: Pterygosomatidae) infested geckos in Indonesia",
+        "pub_year": "2013",
+        "citation": "HAYATI Journal of Biosciences 20 (2), 80-88, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11831758080665796874",
+      "cites_id": [
+        "11831758080665796874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stingless bees pollination increases fruit formation of strawberry (Fragaria x annanassa Duch) and Melon (Cucumis melo L.)",
+        "pub_year": "2022",
+        "citation": "Tropical Life Sciences Research 33 (1), 43, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3557323558489741328",
+      "cites_id": [
+        "3557323558489741328"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of freshwater mollusc assemblages between dry and rainy season in Situ Gede System, Bogor, Indonesia",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 58 (1), 012007, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:_kc_bZDykSQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11950852790742036564",
+      "cites_id": [
+        "11950852790742036564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pollen load and flower constancy of stingless bees Tetragonula laeviceps (Smith) and Heterotrigona itama (Cockerell)(Apidae: Meliponinae)",
+        "pub_year": "2020",
+        "citation": "International Conference and the 10th Congress of the Entomological Society \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13924640966149528289",
+      "cites_id": [
+        "13924640966149528289"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aquatic insect community as indicator of water quality assessment in situ gede system, Bogor, Indonesia",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012016, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5408499481059749124",
+      "cites_id": [
+        "5408499481059749124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversitas dan sebaran kumbang staphylinid di lahan pertanaman padi (Oryza sativa L.) dan ubi jalar (Ipomoea batatas L.)",
+        "pub_year": "2017",
+        "citation": "Indonesian Journal of Entomology 13 (2), 96448, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3771375248153056457",
+      "cites_id": [
+        "3771375248153056457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Diptera (Insecta) di Gunung Kendeng dan Gunung Botol, Taman Nasional Gunung Halimun, Jawa Barat",
+        "pub_year": "2001",
+        "citation": "Berita Biologi 5 (6), 773-779, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16267438147345372524",
+      "cites_id": [
+        "16267438147345372524"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric characteristics and heavy metal bioaccumulation in edible freshwater gastropod (Filopaludina javanica)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012005, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:k_IJM867U9cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13885009387868692002",
+      "cites_id": [
+        "13885009387868692002"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alimentary canal anatomy and histology of the worker termite Neotermes bosei",
+        "pub_year": "2006",
+        "citation": "BIOTROPIA-BOGOR- 13 (2), 99, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11154935788499015512",
+      "cites_id": [
+        "11154935788499015512"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE DIVERSITY OF LEPIDOPTERA (INSECTA) IN MOUNT KENDENG AND MOUNT BOTOL, GUNUNG HALIMUN NATIONAL PARK, WEST JAVA",
+        "pub_year": "2001",
+        "citation": "Berita Biologi 5 (6), 791-794, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=675672023634092014",
+      "cites_id": [
+        "675672023634092014"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian biologi kumbang Rove (Paederus spp.) dan organisme simbion penghasil senyawa toksik",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:TQgYirikUcIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13701070614744966558",
+      "cites_id": [
+        "13701070614744966558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventory and identification of ectoparasites lice on sheep in the Magetan regency, East-Java",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012018, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:maZDTaKrznsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=262976034486461598",
+      "cites_id": [
+        "262976034486461598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Revisiting diversity of coccinellid beetle in Mount Gede-Pangrango National Park: a preliminary observation",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012027, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:isC4tDSrTZIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3114535114996485210",
+      "cites_id": [
+        "3114535114996485210"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The pollen load on stingless bees (Apidae: Meliponinae) foraged in urban area.",
+        "pub_year": "2022",
+        "citation": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis 70 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISTIK MORFOLOGI LEBAH TANPA SENGAT (APIDAE: MELIPONINAE) ASAL PANDEGLANG, BANTEN",
+        "pub_year": "2021",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 38 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "J. Int. Environ. App. & Sei. Vol. 7, No. 2, pp. 205-445, June, 2012",
+        "pub_year": "2012",
+        "citation": "J. Int. Environ. App. & Sei. Vol 7 (2), 205-445, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of proteolytic bacteria isolated from tilapia (Oreochromis niloticus) in inhibiting the growth of Microcystis aeruginosa BT-02.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alimentary Canal Anatomy and Histology of the Worker Termite Neotermes Bosei",
+        "pub_year": "2006",
+        "citation": "Biotropia 13 (2), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunikasi Pendek* the Diversity of Lepidoptera (Insecta) in Mount Kendeng and Mount Botol, Gunung Halimun National Park, West Java",
+        "pub_year": "2001",
+        "citation": "Berita Biologi 5 (6), 67871, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Tungau pada Famili Solanaceae di Kampus IPB Dramaga, Bogor",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tungau ektoparasit pada kadal Eutropis multifasciata di Hutan Pendidikan Gunung Walat dan Kebun Percobaan Cikabayan IPB",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "culionidae: Coleoptera) untuk peningkatan produksi kelapa sawit (Elaeis guineensis Jacq.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution and Diversity of Ectoparasite Mites on Geckos in Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Observation of defensive behaviour and characterization of string-2 gene and EST1 Apis cerana in West Java, Indonesia",
+        "citation": "The Asian-Australian Association of Animal Production Societies, 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon of earthworm burrowing behaviour as a biomarker of imidacloprid in soil",
+        "citation": "Fakultas Biologi UGM, 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Morfohistologi Saluran Pencernaan Mantis sp. dan Periplaneta sp.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventarisasi dan Identifikasi Tungau Ektoparasit pada Cicak di Kawasan Taman Margasatwa Ragunan",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Percepatan pembelajaran karakteristik dan fungsi hayati hewan: Self-access learning menggunakan modul interaktif",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfohistologi Saluran Pencernaan Dua Spesies Stingless Bee (Tetragonula laeviceps dan Heterotrigona itama).",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji lengos cacing tanah untuk mendeteksi imidakloprid pada ekosistem terestrial",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji lengos cacing tanah untuk mendeteksi imidakloprid pada ekosistem terestrial",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tungau pada beberapa jenis reptilia Taruni Sri Prawasti",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Semut di Kampus IPB, Darmaga dan di Kawasan Cagar Alam Telaga Warna (CATW)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknik pembuatan preparat utuh tungau ektoparasit pada cicak dan preparat histologiintegumen cicak",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laporan penelitian tahun pertama Astra Agro Lestari (AAL) research award tahun 2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tungau ektoparasit pada cicak Cosymotus platyurus di Kabupaten Cianjur, Jawa Barat",
+        "citation": "Perhimpunan Biologi Indonesia, 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas kumbang Staphylinid (Coleoptera: Staphylinidae) di Bogor",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IOP Conference Series: Earth and Environmental Science",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6HLVihIAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

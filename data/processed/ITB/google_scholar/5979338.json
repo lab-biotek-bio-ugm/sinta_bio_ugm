@@ -1,0 +1,542 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "ON2GrUoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "hikmat ramdan",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ON2GrUoAAAAJ&citpid=2",
+  "affiliation": "School of Life Sciences and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Payment for Ecosystem Services",
+    "Watershed Management",
+    "Forestry Policy"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 235,
+  "citedby5y": 123,
+  "hindex": 9,
+  "hindex5y": 5,
+  "i10index": 7,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2005": 2,
+    "2006": 5,
+    "2007": 5,
+    "2008": 8,
+    "2009": 9,
+    "2010": 5,
+    "2011": 9,
+    "2012": 6,
+    "2013": 6,
+    "2014": 10,
+    "2015": 10,
+    "2016": 12,
+    "2017": 9,
+    "2018": 11,
+    "2019": 22,
+    "2020": 15,
+    "2021": 11,
+    "2022": 40,
+    "2023": 28,
+    "2024": 7
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "w2T_IbkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Cecep Kusmana",
+      "affiliation": "Department of Silviculture, Faculty of Forestry, IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Wf48DbgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "surjono hadi sutjahjo",
+      "affiliation": "Profesor bidang Genetik dan Pemuliaan Tanaman IPB"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomi kayu: pengantar sifat kayu sebagai bahan baku",
+        "pub_year": "2002",
+        "citation": "Yayasan Penerbit Fakultas Kehutanan, Institut Pertanian Bogor, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3764642023033504954",
+      "cites_id": [
+        "3764642023033504954"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prinsip Dasar Pengelolaan Daerah Aliran Sungai",
+        "pub_year": "2006",
+        "citation": "Laboratorium Ekologi Hutan, Fakultas Kehutanan Universitas Winaya Mukti \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11780436099853395250",
+      "cites_id": [
+        "11780436099853395250"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengelolaan sumberdaya alam dan otonomi daerah: perspektif kebijakan dan valuasi ekonomi",
+        "pub_year": "2003",
+        "citation": "Alqaprint Jatinangor, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5413415767866015628",
+      "cites_id": [
+        "5413415767866015628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yusran dan D",
+        "pub_year": "2003",
+        "citation": "Darusman, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10325190631492486906",
+      "cites_id": [
+        "10325190631492486906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas pengolahan limbah cair industri penyamakan kulit Sukaregang Garut dengan adsorben karbon aktif dan ijuk",
+        "pub_year": "2019",
+        "citation": "Jurnal Pengelolaan Lingkungan Berkelanjutan (Journal of Environmental \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1260283046914429124",
+      "cites_id": [
+        "1260283046914429124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian keberlanjutan pengembangan ecovillage di DAS Citarum hulu",
+        "pub_year": "2016",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam Dan Lingkungan (Journal of Natural \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3656894973729487464",
+      "cites_id": [
+        "3656894973729487464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Implementasi Corporate Social Responsibility PT Bio Farma Di Desa Sukamulya Kabupaten Sukabumi",
+        "pub_year": "2005",
+        "citation": "Jurnal Sosioteknologi 14 (2), 141-53, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:35N4QoGY0k4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17210881656401794580",
+      "cites_id": [
+        "17210881656401794580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengelolaan sumber air minum lintas wilayah di kawasan gunung ciremai provinsi jawa barat",
+        "pub_year": "2006",
+        "citation": "IPB (Bogor Agricultural University), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3994692703963433414",
+      "cites_id": [
+        "3994692703963433414"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yusran, & Darusman, D.(2003)",
+        "citation": "Pengelolaan sumberdaya alam dan otonomi daerah: perspektif kebijakan dan \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14588865098350140948",
+      "cites_id": [
+        "14588865098350140948"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Kebijakan Prospek Alokasi Air Lintas Wilayah dari Gunung Ciremai Propinsi Jawa Barat",
+        "pub_year": "2004",
+        "citation": "Jurnal Penelitian Kehutanan Wana Mukti 2 (2), 28-35, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1645009863908428848",
+      "cites_id": [
+        "1645009863908428848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomi kayu",
+        "pub_year": "2002",
+        "citation": "Pengantar sifat kayu sebagai bahan baku. Yayasan Penerbit Fakultas Kehutanan \u2026, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12665784839521014397",
+      "cites_id": [
+        "12665784839521014397"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of minimum viable population of long-tailed macaques (Macaca fascicularis Raffles 1821) in support of wildlife management in Ir. H Djuanda Grand Forest Park",
+        "pub_year": "2022",
+        "citation": "Journal of Biological Science, Technologi and Management 41, 8-18, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:yD5IFk8b50cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12011515269291849890",
+      "cites_id": [
+        "12011515269291849890"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suitability Analysis of Kampung Pasundan Cisamaya in Mount Ciremai National Park Area as Healing Forest Site",
+        "pub_year": "2021",
+        "citation": "Journal of Biological Science, Technology and Management 3 (2), 30-36, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:u_35RYKgDlwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14201588817138050283",
+      "cites_id": [
+        "14201588817138050283"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yusran dan Darusman, D.(2003)",
+        "citation": "Pengelolaan Sumberdaya Alam dan Otonomi Daerah. Alqaprint. Bandung, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17829499990707097281",
+      "cites_id": [
+        "17829499990707097281"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainability study of ecovillage development in the upper basin of Citarum river",
+        "pub_year": "2016",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan 6 (2), 131-141, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9658529262214670958",
+      "cites_id": [
+        "9658529262214670958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan model tarif sumber daya air sebagai kompensasi jasa ekosistem kawasan hutan",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional 1, 1735-1740, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15136969734326686279",
+      "cites_id": [
+        "15136969734326686279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Drone technology for identification of healing forest spot at Kampung Cisamaya Mount Ciremai National Park",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 918 (1), 012040, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8066907621673399523",
+      "cites_id": [
+        "8066907621673399523"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spectral Colour Characteristic\u2019s (Red, Green, Blue) of Sick Acacia Mangium Stand",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012049, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11858482433379259657",
+      "cites_id": [
+        "11858482433379259657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Characteristics of Acacia mangium Stands at Site 23 B, RPH Maribaya, BKPH Parung Panjang, KPH Bogor which is attacked by pests and diseases",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012043, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:rO6llkc54NcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8785530126481480132",
+      "cites_id": [
+        "8785530126481480132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BEK-35 Potensi Ekosistem Hutan Montana Sebagai Penyedia Healing Service Di Indonesia",
+        "pub_year": "2019",
+        "citation": "Seminar Nasional Biologi (SEMABIO), 128, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16953458596317305493",
+      "cites_id": [
+        "16953458596317305493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evakuasi pertumbuhan tanaman mahoni daun besar (Swietenia macrophylla King) pada beberapa jenis tanah: Studi kasus di KPH Banten",
+        "pub_year": "2004",
+        "citation": "IPB University, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2884417858007098221",
+      "cites_id": [
+        "2884417858007098221"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan payment for development right (PDR) untuk konservasi air pada lahan milik di Kecamatan Pamulihan, Kabupaten Sumedang, Jawa Barat",
+        "pub_year": "2019",
+        "citation": "Jurnal Pengelolaan Lingkungan Berkelanjutan (Journal of Environmental \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:ldfaerwXgEUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18390547769392802632",
+      "cites_id": [
+        "18390547769392802632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of the tariff model of water resources as a compensation for forest ecosystem services",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (7), 1735-1740, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16772372205598955724",
+      "cites_id": [
+        "16772372205598955724"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi HESSA (Hydro Ecosystem Services Spatial Assessment) untuk pemetaan wilayah penyedia dan pengguna air di kawasan hutan pegunungan [Prosiding]",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Diversitas Indonesia 1 (7), 1719-1724, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14174724218591140230",
+      "cites_id": [
+        "14174724218591140230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis pengembangan kelembagaan asuransi lingkungan",
+        "pub_year": "2009",
+        "citation": "Jurnal Bisnis & Manajemen 6 (1), 13-29, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16241467417259528821",
+      "cites_id": [
+        "16241467417259528821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Payment for Environmental Services (PES) Model in Agricultural Land Use and Rural Closed Enhancement in Upper Citarum Basin",
+        "pub_year": "2019",
+        "citation": "INTERNATIONAL JOURNAL OF ECOLOGICAL ECONOMICS & STATISTICS 40 (1), 36-50, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mapping Of The Bundle Of Forest Ecosystem Services  In West Java Province",
+        "pub_year": "2017",
+        "citation": "International Seminar Society for Indonesian Biodiversity 4 (3), 69, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplication of HESSA for mapping water providers and users in mountainous forest area",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (7), 1719-1724, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi model ANSWERS dalam pendugaan erosi dan aliran permukaan di DTA Cikumutuk Sub DAS Cimanuk Hulu",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valuasi Ekonomi Jasa Ekosistem: Kasus di Kesatuan Pemangkuan Hutan (KPH) Bandung Utara, Jawa Barat",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGELOLAAN SUMBER AIR MINUM LlNTAS WI LA YAH 01 KAWASAN GUNUNG CIREMAI PROVINSI JAWA BARAT",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ON2GrUoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

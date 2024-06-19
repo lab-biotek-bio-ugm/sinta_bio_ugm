@@ -1,0 +1,397 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "zv69SKcAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Desrial",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zv69SKcAAAAJ&citpid=2",
+  "affiliation": "Bogor Agricultural University (Institut Pertanian Bogor, IPB)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Agricultural Engineering"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 70,
+  "citedby5y": 62,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2000": 1,
+    "2001": 0,
+    "2002": 1,
+    "2003": 2,
+    "2004": 0,
+    "2005": 0,
+    "2006": 0,
+    "2007": 1,
+    "2008": 1,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 0,
+    "2013": 0,
+    "2014": 1,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 1,
+    "2019": 6,
+    "2020": 7,
+    "2021": 17,
+    "2022": 8,
+    "2023": 18,
+    "2024": 6
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Limbah Daun Kelapa Sawit sebagai Bahan Baku Pupuk Kompos",
+        "pub_year": "2016",
+        "citation": "Rona Teknik Pertanian 9 (2), 135-146, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10274734083978764884",
+      "cites_id": [
+        "10274734083978764884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical and mechanical characteristics of candle nut (Aleurites moluccana wild.)",
+        "pub_year": "2016",
+        "citation": "Jurnal Keteknikan Pertanian 4 (1), 97-106, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:roLk4NBRz8UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1303002318116428145",
+      "cites_id": [
+        "1303002318116428145"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Fisiologis dan Penyusutan Bobot Badan Domba Lokal Jantan terhadap Transportasi dengan Posisi Berbeda dalam Kendaraan",
+        "pub_year": "2019",
+        "citation": "Jurnal Agripet 19 (2), 113-121, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:WF5omc3nYNoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12667153769228955778",
+      "cites_id": [
+        "12667153769228955778"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of different transportation period on body weight loss, hematological and biochemical stress responses of sheep.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:ufrVoPGSRksC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7087652595649433704",
+      "cites_id": [
+        "7087652595649433704"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Theoretical model for the estimation of turning motion resistance for the tracked vehicle",
+        "pub_year": "1999",
+        "citation": "JOURNAL of the JAPANESE SOCIETY of AGRICULTURAL MACHINERY 61 (6), 169-178, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12039366694283461426",
+      "cites_id": [
+        "12039366694283461426"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinerja Mesin Pemisah Potongan Tangkai dan Daun Teh",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 7 (3 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3481245565653905919,15428367288479035803",
+      "cites_id": [
+        "3481245565653905919",
+        "15428367288479035803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian karakteristik fisik, mekanik dan aerodinamik daun teh hasil petikan yang telah dilayukan",
+        "pub_year": "2020",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 9 (3 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4789209949137499876",
+      "cites_id": [
+        "4789209949137499876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain dan Kinerja Mesin Terintegrasi untuk Mencacah Daun Sawit dan Mengempa Pelepah Sawit",
+        "pub_year": "2018",
+        "citation": "Jurnal Keteknikan Pertanian 6 (1), 83-90, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=232395553323229598",
+      "cites_id": [
+        "232395553323229598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinerja roda besi bersirip multi-angle untuk lahan sawah terasering",
+        "pub_year": "2018",
+        "citation": "Jurnal Keteknikan Pertanian 6 (2), 195-202, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13280337736345590786",
+      "cites_id": [
+        "13280337736345590786"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Kinerja Tarik Taktor Tangan Dengan Bahan Bakar Minyak Kelapa Murni",
+        "pub_year": "2010",
+        "citation": "Jurnal Keteknikan Pertanian 24 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4601835480027651898",
+      "cites_id": [
+        "4601835480027651898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Material Selection of Collapsible Pot Hauler and Finite Element Analysis Simulation Applied to the Selected Material",
+        "pub_year": "2023",
+        "citation": "Advances in Science and Technology. Research Journal 17 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15068061643795130598",
+      "cites_id": [
+        "15068061643795130598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Kinerja Pemisahan Tangkai dan Daun Teh Layu Berdasarkan Prinsip Perontokan dan Penghisapan",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Industrial Research 12 (2), 284-296, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14346042787733243816",
+      "cites_id": [
+        "14346042787733243816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Alogaritma Pengolahan Citra untuk Menghindari Rintangan pada Traktor Tanpa Awak",
+        "pub_year": "2010",
+        "citation": "Jurnal Keteknikan Pertanian 24 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12343907823391580746",
+      "cites_id": [
+        "12343907823391580746"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of computer-based pivot turn control system for the tracked vehicle",
+        "pub_year": "2003",
+        "citation": "JOURNAL of the JAPANESE SOCIETY of AGRICULTURAL MACHINERY 65 (5), 35-39, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11645489024539209680",
+      "cites_id": [
+        "11645489024539209680"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development and performance evaluation of circular grouser pattern rubber track",
+        "pub_year": "2000",
+        "citation": "Journal of the Japanese society of agricultural machinery 62 (4), 137-145, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16220943047975381671",
+      "cites_id": [
+        "16220943047975381671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISTIK TEKNIS ALAT BANTU PENANGKAPAN BUBU RAJUNGAN DI PESISIR KABUPATEN KARAWANG",
+        "pub_year": "2022",
+        "citation": "Jurnal Penelitian Perikanan Indonesia 28 (3), 111-122, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of Fluid Flow in Biodiesel Reactor with 4 Different Types of Agitator using Computational Fluid Dynamics Simulation",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian 10 (2), 133-144, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Back-matter (March 2020)",
+        "pub_year": "2020",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 45 (1), 1-9, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RANCANG BANGGUN ALAT DETEKSI RINTANGAN PADA LINTASAN KERJA TRAKTOR BERBASIS PENGOLAHAN CITRA",
+        "pub_year": "2016",
+        "citation": "Jurnal Teknologi Pertanian Andalas 20 (2), 65-72, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Gaya Spesifik Pemotongan Sabut Kelapa Muda (Cocos Nucifera)",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Konverter Biogas untuk Motor Bensin Silinder Tunggal",
+        "pub_year": "2014",
+        "citation": "Jurnal Keteknikan Pertanian 2 (1), 21670, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Kinerja Tarik Taktor Tangan dengan Bahan Bakar Minyak Kelapa Murni",
+        "pub_year": "2010",
+        "citation": "Jurnal Keteknikan Pertanian 24 (1), 21539, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Gaya Spesifik Pemotongan Sabut Kelapa Muda (Cocos nucifera)",
+        "citation": "Jurnal Keteknikan Pertanian 2 (2), 21965, 0"
+      },
+      "filled": false,
+      "author_pub_id": "zv69SKcAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

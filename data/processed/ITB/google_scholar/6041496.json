@@ -1,0 +1,1925 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "nXZrBjYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Rizkita Esyanti",
+  "affiliation": "Institut technology Bandung",
+  "interests": [
+    "biology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 941,
+  "citedby5y": 724,
+  "hindex": 15,
+  "hindex5y": 13,
+  "i10index": 22,
+  "i10index5y": 17,
+  "cites_per_year": {
+    "2006": 5,
+    "2007": 7,
+    "2008": 1,
+    "2009": 2,
+    "2010": 4,
+    "2011": 2,
+    "2012": 4,
+    "2013": 9,
+    "2014": 14,
+    "2015": 12,
+    "2016": 26,
+    "2017": 55,
+    "2018": 58,
+    "2019": 62,
+    "2020": 103,
+    "2021": 153,
+    "2022": 171,
+    "2023": 154,
+    "2024": 81
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nxmCduQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Fenny Dwivany",
+      "affiliation": "Professor,  The School of Life Sciences and Technology, Institut Teknologi Bandung, INDONESIA (www"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dUVcXqwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ahmad Faizal",
+      "affiliation": "School of Life Sciences and Technology | Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6IehtUsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Robert Manurung",
+      "affiliation": "Professor of Process Design for Bioconversion, Bandung Institute of Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "AdpRN9IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I Nyoman Pugeg Aryantha",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gU7qUV8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ramadhani Putra",
+      "affiliation": "Lecturer of School of Life Sciences and Technology, ITB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "wJmEQKYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iriawati Iriawati",
+      "affiliation": "Associate Professor of Plant Biology, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XQFivkUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dingse Pandiangan",
+      "affiliation": "Deartement Biology Sam Ratulangi University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kZa4SKYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tjandra Anggraeni",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mL3HHx8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Suci Rahayu",
+      "affiliation": "Universitas Sumatera Utara"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of rice straw waste by black soldier fly larvae (Hermetia illucens L.): optimal feed rate for biomass production",
+        "pub_year": "2016",
+        "citation": "J. Entomol. Zool. Stud 4 (4), 1036-1041, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:_xSYboBqXhAC",
+      "num_citations": 181,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11210698608919237875",
+      "cites_id": [
+        "11210698608919237875"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formation of agarwood from Aquilaria malaccensis in response to inoculation of local strains of Fusarium solani",
+        "pub_year": "2017",
+        "citation": "Trees 31, 189-197, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:IWHjjKOFINEC",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13515049376122366937",
+      "cites_id": [
+        "13515049376122366937"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of black soldier larvae fed on cassava peel wastes, An agriculture waste",
+        "pub_year": "2016",
+        "citation": "Journal of Entomology and Zoology Studies 4 (6), 161-165, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:TQgYirikUcIC",
+      "num_citations": 64,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3004543491973423266",
+      "cites_id": [
+        "3004543491973423266"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitosan nanoparticle-based coating as post-harvest technology in banana",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1204, 012109, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:ldfaerwXgEUC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16100042186401499483",
+      "cites_id": [
+        "16100042186401499483"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic activity assessment of fungal endophytes from oil palm tissues against Ganoderma boninense Pat.",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3961493918896536130",
+      "cites_id": [
+        "3961493918896536130"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Foliar application of chitosan enhances growth and modulates expression of defense genes in chilli pepper ('Capsicum annuum'L.)",
+        "pub_year": "2019",
+        "citation": "Australian Journal of Crop Science 13 (1), 55-60, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:lSLTfruPkqcC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12431212896438861942",
+      "cites_id": [
+        "12431212896438861942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fusarium solani induces the formation of agarwood in Gyrinops versteegii (Gilg.) Domke branches",
+        "pub_year": "2020",
+        "citation": "Symbiosis 81, 15-23, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:a0OBvERweLwC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18336112141054967946",
+      "cites_id": [
+        "18336112141054967946"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonisitas dan efektivitas Trichoderma sp dalam menekan perkembangan phytophthora palmivora pada buah kakao",
+        "pub_year": "2012",
+        "citation": "Agroland: Jurnal Ilmu-ilmu Pertanian 16 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15174690384488791557",
+      "cites_id": [
+        "15174690384488791557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Homogenat Jamur Pythium aphanidermatum (Edson) Fitzp. Terhadap Kandungan Ajmalisin Dalam Kultur Kalus Catharanthus roseus (L.) G. Don",
+        "pub_year": "1998",
+        "citation": "Tesis Magister. Program Pascasarjana. ITB. Bandung, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:Zph67rFs4hoC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6434835205206418311",
+      "cites_id": [
+        "6434835205206418311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resources partitioning and different foraging behavior is the basis for the coexistence of Thrips hawaiiensis (Thysanoptera: Tripidae) and Elaeidobius kamerunicus (Coleoptera \u2026",
+        "pub_year": "2013",
+        "citation": "Journal of Entomology and Nematology 5 (5), 59-63, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9303837479376510040",
+      "cites_id": [
+        "9303837479376510040"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gene Expression Related to Steviol Glycoside Synthesis Produced in Stevia rebaudiana (Bert.) Shoot Culture Induced with High Far-Red LED Light in TIS RITA\u00ae Bioreactor System.",
+        "pub_year": "2021",
+        "citation": "Sarhad Journal of Agriculture 37 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10234640676497498929",
+      "cites_id": [
+        "10234640676497498929"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shoot multiplication and growth rates of Aquilaria malaccensis Lamk. shoot cultures in temporary immersion system (TIS)-RITA\u00ae and bubble column bioreactors",
+        "pub_year": "2019",
+        "citation": "Pak. J. Bot 51 (4), 1317-1321, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:M05iB0D1s5AC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6530168858942861269",
+      "cites_id": [
+        "6530168858942861269"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of hairy root culture of Andrographis paniculata for in vitro adrographollide production",
+        "pub_year": "2015",
+        "citation": "Journal of Medical and Bioengineering Vol 4 (6), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1420173832871547291",
+      "cites_id": [
+        "1420173832871547291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AKTIVITAS ANTIKANKER KATARANTIN PADA SEL, MOUSE MAMMARY CANSER Mm T06054",
+        "pub_year": "2008",
+        "citation": "Jurnal Ilmiah Sains 8 (1), 107-113, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12061674254164207697",
+      "cites_id": [
+        "12061674254164207697"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass enhancement of Stevia rebaudiana bertoni shoot culture in temporary immersion system (TIS) RITA\u00ae bioreactor optimized in two different immersion periods",
+        "pub_year": "2021",
+        "citation": "E3S Web of Conferences 226, 00007, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9419858443918529297",
+      "cites_id": [
+        "9419858443918529297"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative study of nano-chitosan and synthetic bactericide application on chili pepper (Capsicum annuum L.) infected by Xanthomonas campestris",
+        "pub_year": "2020",
+        "citation": "AGRIVITA Journal of Agricultural Science 42 (1), 13-23, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6077758916204811695",
+      "cites_id": [
+        "6077758916204811695"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environment effect on fruit ripening related gene to develop a new post harvest technology",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 285-287, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=290007423835436349",
+      "cites_id": [
+        "290007423835436349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A qualitative and quantitative evaluation of terpenoid and alkaloid in root and stem of pasak bumi (eurycoma longifolia Jack)",
+        "pub_year": "2011",
+        "citation": "Jurnal Matematika & Sains 16 (1), 49-52, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9809698368593077517",
+      "cites_id": [
+        "9809698368593077517"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Methyl jasmonate and crude extracts of Fusarium solani elicit agarwood compounds in shoot culture of Aquilaria malaccensis Lamk.",
+        "pub_year": "2021",
+        "citation": "Heliyon 7 (4), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:UxriW0iASnsC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11631618278157467200",
+      "cites_id": [
+        "11631618278157467200"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of secondary metabolite production in somatic embryo of Pasak Bumi (Eurycoma longifolia Jack.)",
+        "pub_year": "2014",
+        "citation": "Procedia Chemistry 13, 112-118, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:UebtZRa9Y70C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10965400119260124046",
+      "cites_id": [
+        "10965400119260124046"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "'Raja Bulu'banana MaACS1 and MaACO1 gene expression during postharvest storage",
+        "pub_year": "2014",
+        "citation": "XXIX International Horticultural Congress on Horticulture: Sustaining Lives \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13788504948552895228",
+      "cites_id": [
+        "13788504948552895228"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of UV elicitation on callus growth, alkaloid and terpenoid contents in Eurycoma longifolia Jack",
+        "pub_year": "2014",
+        "citation": "Int J Adv Chem Eng Biol Sci 1 (1), 12-5, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7859027596689053943",
+      "cites_id": [
+        "7859027596689053943"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The chitinase activity of oil palm ('Elaeis guineensis' Jacq.) roots against fungal endophytes and pathogenic'Ganoderma boninense'",
+        "pub_year": "2017",
+        "citation": "Plant Omics 10 (5), 247-251, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18223103074104713598",
+      "cites_id": [
+        "18223103074104713598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of 2, 4-D on indirect somatic embryogenesis and surface structural changes in Garlic (Allium sativum L.) cv. Lumbu Hijau",
+        "pub_year": "2003",
+        "citation": "Jurnal Matematika dan Sains 8 (4), 133-139, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10438908153598636356",
+      "cites_id": [
+        "10438908153598636356"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daminozide enhances the vigor and steviol glycoside yield of stevia (Stevia rebaudiana Bert.) propagated in temporary immersion bioreactors",
+        "pub_year": "2022",
+        "citation": "Plant Cell, Tissue and Organ Culture (PCTOC) 149 (1), 257-268, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:p2g8aNsByqUC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15612168270398090866",
+      "cites_id": [
+        "15612168270398090866"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Green pesticide: Tapping to the promising roles of plant secreted small RNAs and responses towards extracellular DNA",
+        "pub_year": "2021",
+        "citation": "Non-coding RNA Research 6 (1), 42-50, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:KxtntwgDAa4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2243709164873905409",
+      "cites_id": [
+        "2243709164873905409"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficiency evaluation of Vanda tricolor growth in temporary immerse system bioreactor and thin layer culture system",
+        "pub_year": "2016",
+        "citation": "Journal of Advanced Agricultural Technologies Vol 3 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14905366052731634099",
+      "cites_id": [
+        "14905366052731634099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of immobilization on cell growth and alkaloid contents in cell-aggregate culture of Eurycoma longifolia Jack",
+        "pub_year": "2014",
+        "citation": "International Journal of Chemical, Environmental and Biological sciences 2, 90-3, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18238909425817682943",
+      "cites_id": [
+        "18238909425817682943"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gene expression analysis related to ethylene induced female flowers of cucumber (Cucumis sativus L.) at different photoperiod",
+        "pub_year": "2017",
+        "citation": "Journal of Plant Biotechnology 44 (3), 229-234, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:TFP_iSt0sucC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6327834098032437851",
+      "cites_id": [
+        "6327834098032437851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of Suillus fungi from pine (Pinus merkusii) stands at various locations in Bandung area, Indonesia.",
+        "pub_year": "2016",
+        "citation": "Plant Pathology Journal (Faisalabad) 15 (3), 95-101, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:NhqRSupF_l8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2072470273673941848",
+      "cites_id": [
+        "2072470273673941848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth kinetics and secondary metabolite production of Eurycoma longifolia Jack cell culture elicitated by UV in flask scale and bubble column bioreactor scale",
+        "pub_year": "2014",
+        "citation": "Int J Tech Res Appl 2, 29-32, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17259029931423623992",
+      "cites_id": [
+        "17259029931423623992"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vetiver oil production from root culture of Vetiveria zizanioides",
+        "pub_year": "2013",
+        "citation": "International Journal of Agricultural and Biosystems Engineering 7 (9), 863-866, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8327491886808700622",
+      "cites_id": [
+        "8327491886808700622"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth and Steviol Glycoside Content of Stevia rebaudiana Bertoni in the Thin-Layer Liquid Culture Treated with Late-Stage Gibberellin Biosynthesis Inhibitors",
+        "pub_year": "2020",
+        "citation": "Sugar tech 22 (1), 179-190, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17183757784967821844",
+      "cites_id": [
+        "17183757784967821844"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitosan suppresses the expression level of WRKY17 on red chili (Capsicum annuum) plant under drought stress",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Biotechnology 25 (1), 52-60, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:f2IySw72cVMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8145109565325562861",
+      "cites_id": [
+        "8145109565325562861"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of leaf extracts as plant-activator to enhance salicylic acid production on tomato plant (Lycopersicon esculentum Mill.) infected by CMV (cucumber mosaic virus)",
+        "pub_year": "2014",
+        "citation": "Intl. J. Chem. Environ. Biol. Sci 2 (2), 2320-4087, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7360953836016295082",
+      "cites_id": [
+        "7360953836016295082"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of lycopene and \u03b2carotene production in cherry tomato fruits (Solanum Lycopersicum L. var. Cerasiforme) by using red and blue light treatment",
+        "pub_year": "2014",
+        "citation": "International Journal of Technical Research and Applications 2, 7-10, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938921990826137149",
+      "cites_id": [
+        "15938921990826137149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Elisitor Homogenat Jamur Pythium aphanidermatum (Edson) Fitzp. terhadap Kandungan Ajmalisin dalam Kultur Akar Catharantus roseus (L) G. Don",
+        "pub_year": "2009",
+        "citation": "Jurnal Matematika & Sains 11 (2), 44-49, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6023467294621956714",
+      "cites_id": [
+        "6023467294621956714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of catharanthine in Catharanthus roseus aggregate cell cultures by feeding, elicitation and immobilization method",
+        "pub_year": "2008",
+        "citation": "Proceedings of The 2nd International Conference on Mathematics & Natural \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5697657340800877157",
+      "cites_id": [
+        "5697657340800877157"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of tryptophan on growth and catharanthine content in C. roseus callus culture",
+        "pub_year": "2006",
+        "citation": "Jurnal Matematika dan Sains 11, 111-5, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16653984555711853103",
+      "cites_id": [
+        "16653984555711853103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEMBERIAN EKSTRAK Saccharomyces cerevisiae Hansen TERHADAP KANDUNGAN GOSIPOL PADA KULTUR KALUS Gossypium hirsutum L.",
+        "pub_year": "2000",
+        "citation": "Berita Biologi 5 (2), 131-136, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:35N4QoGY0k4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3230333169845526977",
+      "cites_id": [
+        "3230333169845526977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Banana flower-insect interaction: alpha-pinene as potential attractant for the insect vector of banana blood disease",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (1), 8-8, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:yD5IFk8b50cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6484224050620811287",
+      "cites_id": [
+        "6484224050620811287"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression study of banana pathogenic resistance genes",
+        "pub_year": "2016",
+        "citation": "HAYATI Journal of Biosciences 23 (4), 196-199, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15842750835741943558",
+      "cites_id": [
+        "15842750835741943558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "I nyoman dan P. Aryantha. 2009. Antagonisitas dan efektifitas Trichoderma sp. dalam menekan perkembangan Phytophthora palmivora pada buah kakao",
+        "citation": "Jurnal Agroland 16 (1), 9-16, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:blknAaTinKkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14428741163064224753",
+      "cites_id": [
+        "14428741163064224753"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of photoperiodism with led light on productivity of female flower in cucumber (Cucumis sativus L.)",
+        "pub_year": "2015",
+        "citation": "MATTER: Int J Sci Tech Special, 24-34, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:4DMP91E08xMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2328994471317827701",
+      "cites_id": [
+        "2328994471317827701"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Produksi Ajmalisin dari Kultur Agregat Sel Catharanthus roseus (L.) G. Don. dalam Bioreaktor Airlift",
+        "pub_year": "2006",
+        "citation": "HAYATI Journal of Biosciences 13 (4), 161-165, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18374208412677471697",
+      "cites_id": [
+        "18374208412677471697"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEMBERIAN ELISITOR EKSTRAK KHAMIR Saccharomyces cerevisiae Hansen TERHADAP KANDUNGAN AJMALISIN DALAM KULTUR AGREGAT SEL Catharanthus roseus (L.) G. Don.",
+        "pub_year": "2001",
+        "citation": "Berita Biologi 5 (4), 349-355, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:70eg2SAEIzsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13517638376720268235",
+      "cites_id": [
+        "13517638376720268235"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elicitation of Secondary Metabolites in Aquilaria malaccensis Lam. Callus Culture by Crude Mycelial Extract of Fusarium solani and Methyl Jasmonate",
+        "pub_year": "2022",
+        "citation": "Forests 14 (1), 48, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4631690518850773650",
+      "cites_id": [
+        "4631690518850773650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bamboo Fruit Storage Chamber (FSC) Equipped with Ethylene-Degrading Manganese Doped Titanium Oxide Nanomaterial as Storage for Banana (Musa acuminata)",
+        "pub_year": "2022",
+        "citation": "Sains Malaysiana 51 (9), 2885-2895, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4735046558847116005",
+      "cites_id": [
+        "4735046558847116005"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of Plant Growth and Gallic Acid Content for Cavendish Banana (Musa acuminata) Shoot Culture with Bubble Column Bioreactor",
+        "pub_year": "2022",
+        "citation": "Journal of Integrated and Advanced Engineering (JIAE) 2 (1), 33-44, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:WbkHhVStYXYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8112608761812219348",
+      "cites_id": [
+        "8112608761812219348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of ethylene biosynthesis gene expression profile during titanium dioxide (TiO2) treatment to develop a new banana postharvest technology",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Biotechnology 24 (2), 88-93, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4855133217558441419",
+      "cites_id": [
+        "4855133217558441419"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEMBERIAN ELISITOR JAMUR Phytium aphanidermatum (Edson) Fitzp. TERHADAP KANDUNGAN AJMALISIN PADA KULTUR KALUS BERAKAR Catharanthus roseus (L.) G. Don",
+        "pub_year": "2018",
+        "citation": "Berita Biologi 6 (4), 543-547, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:maZDTaKrznsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1010611993707339053",
+      "cites_id": [
+        "1010611993707339053"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pengemasan Buah Pisang Cavendish (Musa acuminata AAA Group) dalam Plastik Vakum terhadap Kondisi Fisik, Fisiologis, dan Ekspresi Gen Selama Proses Pematangan Buah",
+        "pub_year": "2017",
+        "citation": "Seminar Nasional Ilmu Pengetahuan, Teknologi, dan Seni, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8400089039381328488",
+      "cites_id": [
+        "8400089039381328488"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical, chemical and biological characteristics of space flown tomato (Lycopersicum esculentum) seeds",
+        "pub_year": "2016",
+        "citation": "Journal of Physics: Conference Series 771 (1), 012046, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:HDshCWvjkbEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6145956079072007247",
+      "cites_id": [
+        "6145956079072007247"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stimulation of stevioside accumulation on Stevia rebaudiana (Bertoni) shoot culture induced with red LED light in TIS RITA\u00ae bioreactor system",
+        "pub_year": "2016",
+        "citation": "International Journal of Biotechnology and Bioengineering 10 (12), 803-808, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:hC7cP41nSMkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7967137363956074326",
+      "cites_id": [
+        "7967137363956074326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of photosynthetic rate through photoperiod using LED in cucumber (Cucumis sativus L.)",
+        "pub_year": "2015",
+        "citation": "MATTER: Int J Sci Tech Special, 1-12, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4584600915428223496",
+      "cites_id": [
+        "4584600915428223496"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Clinorotation to the Growth of Tomato (Lycopersicon esculentum) and Mung Bean (Vigna radiata) Seedlings",
+        "pub_year": "2014",
+        "citation": "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13221964791107891075",
+      "cites_id": [
+        "13221964791107891075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fatty acid composition induced in somatic embryo of Jatropha curcas in bioreactor",
+        "pub_year": "2010",
+        "citation": "Proceedings of the Third International Conference on Mathematics and Natural \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14068288945610342787",
+      "cites_id": [
+        "14068288945610342787"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production pattern of ajmalicine in Catharanthus roseus (L.) G. Don. cell aggregates culture in the airlift bioreactor",
+        "pub_year": "2006",
+        "citation": "Hayati Journal of Biosciences 13 (4), 161-161, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16590621902795063880",
+      "cites_id": [
+        "16590621902795063880"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan kadar capsaicin tanaman Capsicum annuum cv. Lado pada kondisi kekeringan menggunakan kitosan",
+        "pub_year": "2021",
+        "citation": "Menara Perkebunan 89 (2), 91-99, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14184095820455015354",
+      "cites_id": [
+        "14184095820455015354"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SIX6 shows high divergence in Fusarium oxysporum f. sp. cubense TR4.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:eflP2zaiRacC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8503675680457755373",
+      "cites_id": [
+        "8503675680457755373"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi dan Evaluasi Kondisi Biji Tomat (Lycopersicum esculentum) yang Telah Dibawa ke Luar Angkasa Secara Fisik dengan Kultur Jaringan",
+        "pub_year": "2020",
+        "citation": "Jurnal Sains dan Kesehatan 2 (4), 438-443, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:abG-DnoFyZgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3541936927973163257",
+      "cites_id": [
+        "3541936927973163257"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh kitosan terhadap peningkatan level ekspresi WRKY17 dan WRKY53 tanaman Capsicum annuum cv. Laba pada kondisi kekeringan",
+        "pub_year": "2020",
+        "citation": "Menara Perkebunan 88 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1653305907608703706",
+      "cites_id": [
+        "1653305907608703706"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect Of Synthetic Fungicide On Disease Severity And Plant Growth Of Chili Pepper (Capsicum Annuum L.) Infected With Phytophthora Capsici",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (2), 7-12, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4936177430864276030",
+      "cites_id": [
+        "4936177430864276030"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pre-treatment and Suitable Reagent Enabled a Reliable and Consistent for Molecular Detection of Fusarium oxysporum f. sp. cubense Tropical Race 4 (Foc4)",
+        "pub_year": "2019",
+        "citation": "HAYATI Journal of Biosciences 26 (4), 196-196, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:u_35RYKgDlwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13656454304502060671",
+      "cites_id": [
+        "13656454304502060671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improved in vitro bioassay for Musa acuminata cv. Pisang ambon kuning (AAA group) based on quantitative analysis of necrosis area and biomass changes \u2026",
+        "pub_year": "2018",
+        "citation": "Archives of Phytopathology and Plant Protection 51 (7-8), 408-422, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:RGFaLdJalmkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16953421374694200357",
+      "cites_id": [
+        "16953421374694200357"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Enhancement of Vetiver (Vetiveria zizanioides (L.) Nash) Essential Oil Production in The Symbiotic System with Glomus aggregatum NC Schenck & GS Sm. using Hydroponic Medium \u2026",
+        "pub_year": "2017",
+        "citation": "Proceedings Book, 63, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:hMod-77fHWUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8081120488790143888",
+      "cites_id": [
+        "8081120488790143888"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The efficiency of growth medium bioconversion into banana (Musa acuminata, AA) plantlet biomass in temporary immersion system (TIS) RITA\u00ae bioreactor with different immersion \u2026",
+        "pub_year": "2016",
+        "citation": "Int. J. Res. Appl. 4, 133-140, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=950688667702778368",
+      "cites_id": [
+        "950688667702778368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Led Light on Production of Female Flowers in Cucumber (Cucumis sativus L.)",
+        "pub_year": "2015",
+        "citation": "Int. J. Sci. Technol 1, 13-23, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16079158273903787012",
+      "cites_id": [
+        "16079158273903787012"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Promoting Dolichoderus thoracicus as an agent to disperse Trichoderma sp., a fungus that controls the black pod disease, Central Sulawesi\u2013Indonesia",
+        "pub_year": "2014",
+        "citation": "J Math Fund Sci 46 (1), 411-49, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8049171498444436686",
+      "cites_id": [
+        "8049171498444436686"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro Plant Regeneration of Java Vetiver (Vetiveria zizanioides)",
+        "pub_year": "2013",
+        "citation": "International Journal of Biological, Veterinary, Agricultural and Food \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:738O_yMBCRsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3350481752020493799",
+      "cites_id": [
+        "3350481752020493799"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Triptofan pada Pertumbuhan dan Kandungan Katarantin dari Kalus Catharanthus roseus",
+        "pub_year": "2006",
+        "citation": "Jurnal Matematika dan Sains 11 (4), 111-115, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:r0BpntZqJG4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13823537418382987685",
+      "cites_id": [
+        "13823537418382987685"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of invasive species Praxelis clematidea extract as a bioherbicide for Asystasia gangetica",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (9), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5105346446076118661",
+      "cites_id": [
+        "5105346446076118661"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolite profiling of the medicinal herb Phyllanthus niruri L. under drought stress",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1255 (1), 012046, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:D_sINldO8mEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2265664618513621942",
+      "cites_id": [
+        "2265664618513621942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extracellular DNA of Fusarium oxysporum f. sp. cubense as a Priming Agent for Inducing the Resistance of Banana Plantlets",
+        "pub_year": "2023",
+        "citation": "Agronomy 13 (2), 441, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:8AbLer7MMksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2093803897367504347",
+      "cites_id": [
+        "2093803897367504347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of nano-chitosan as biofungicide against Phytophthora capsici on four chili cultivars in West Java, Indonesia for sustainable agro-industry applications.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17043665621178578116",
+      "cites_id": [
+        "17043665621178578116"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of hairy root cultures and analysis of saponin production in Javanese ginseng (Talinum paniculatum Gaertn.)",
+        "pub_year": "2018",
+        "citation": "XXX International Horticultural Congress IHC2018: II International Symposium \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3714221113891894652",
+      "cites_id": [
+        "3714221113891894652"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression study of LeGAPDH, LeACO1, LeACS1A, and LeACS2 in tomato fruit (Solanum lycopersicum)",
+        "pub_year": "2015",
+        "citation": "HAYATI Journal of Biosciences 22 (4), 191-196, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10184753049900903290",
+      "cites_id": [
+        "10184753049900903290"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root growth and Gossypol content in Gossypium hirsutum L. root and hairy root cultures",
+        "pub_year": "2014",
+        "citation": "Global Illuminator 1, 223-234, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1783769178157507247",
+      "cites_id": [
+        "1783769178157507247"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ground Based Study of The Effect of Open And Close Chamber Condition on Banana Ripening Process",
+        "pub_year": "2012",
+        "citation": "A Journal of Life Sciences 2 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:8k81kl-MbHgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13082548726884352886",
+      "cites_id": [
+        "13082548726884352886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE INFLUENCE OF IMMOBILIZATION ON CELL GROWTH AND CATHARANTHINE PRODUCTION IN THE CELL AGREGATE CULTURE OF Catharanthus roseus (L.) G. Don",
+        "pub_year": "2008",
+        "citation": "Proceeding of 2nd International Conference on Mathematics and Natural \u2026, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17417028039614557278",
+      "cites_id": [
+        "17417028039614557278"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Elisitasi dengan Verticillium dahliae Kleb dan Rhizoctonia Solani Kuhn terhadap kandungan Gosipol dalam kalus Gossypium hirsutum L pada beberapa tingkat Subkultur",
+        "pub_year": "2006",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 23 (1), 9-14, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17989741068142153801",
+      "cites_id": [
+        "17989741068142153801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Gosipol Menggunakan Kultur Akar Berambut Gossypium hirsutum L. CV. KANESIA 7",
+        "pub_year": "2006",
+        "citation": "Berkala Ilmiah Biologi 5 (2006), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7327384803151610477",
+      "cites_id": [
+        "7327384803151610477"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons Pertumbuhan, Kadar Protein Dan Aktivitas Triptofan Dekarboksilase Agregat Sel Catharanthus Roseus (L) G. Don Yang Diberi Prekursor Triptofan",
+        "citation": "Bionatura 13 (1), 217963, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8252426518145915105,14558277458623254450",
+      "cites_id": [
+        "8252426518145915105",
+        "14558277458623254450"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fruit ripening and chitosan coating impacts on the expression profile of Banana Lectin (BanLec) genes",
+        "pub_year": "2024",
+        "citation": "Scientia Horticulturae 335, 113293, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:olpn-zPbct0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nano-TiO2 enhanced fruit storage chambers: unveiling the potential for prolonging banana shelf life",
+        "pub_year": "2024",
+        "citation": "The Journal of Horticultural Science and Biotechnology, 1-14, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Drought stress response in Phyllanthus niruri L.: A potentially medicinal plant",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2957 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:J-pR_7NvFogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phyllanthus Lignans: A Review of Biological Activity and Elicitation",
+        "pub_year": "2024",
+        "citation": "Horticulturae 10 (2), 195, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of methyl jasmonate on growth, stevioside and rebaudioside A production in Stevia rebaudiana shoot culture using mist bioreactor",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012088, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The deleterious effects of chitosan application on red chili pepper growth and capsaicin biosynthesis under drought stress",
+        "pub_year": "2022",
+        "citation": "Asian Journal of Tropical Biotechnology 19 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elicitation of Secondary Metabolites in Aquilaria malaccensis Lam. Callus Culture by Crude Mycelial Extract of Fusarium solani and Methyl Jasmonate. Forests 2023, 14, 48",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The increase of capsaicin level on Capsicum annuum cv. Lado under drought condition using chitosan",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of chitosan on the escalation of WRKY17 and WRKY53 genes expression level on Capsicum annuum cv. Laba under drought condition.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2020",
+        "citation": "Journal of Biosciences 27 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Possibility of sap-feeding beetle, Nitidulidae, as a spreading agent for blood disease bacterium on the banana plant",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (2), 1-5, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pematangan Buah Pisang",
+        "pub_year": "2018",
+        "citation": "Planet Banana:: Peeling the Scientific Facts of Fruit Ripening 1, 3-26, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gene Expression Related to Steviol Glycoside Synthesis Produced in Stevia rebaudiana (Bert.) Shoot Culture Induced with Far Red LED Light in TIS RITA Bioreactor System",
+        "pub_year": "2018",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Establishment of Hairy Root Lines and Analysis of Saponin Production in the Medicinal Plant Talinum paniculatum (Javanese Ginseng)",
+        "pub_year": "2017",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of microgravity simulation using 3D clinostat on cavendish banana (Musa acuminata AAA Group) ripening process",
+        "pub_year": "2016",
+        "citation": "Journal of Physics: Conference Series 771 (1), 012045, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAYATI Journal of Biosciences",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:bnK-pcrLprsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAYATI Journal of Biosciences",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Diversity of Suillus Fungi from Pine (Pinus merkusii) Stands at Various Locations in Bandung Area, Indonesia",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Bioconvertion of Cassava Tuber Skin and Dry Rice Stalk by Black Soldier Flies (Hermentia illucens",
+        "pub_year": "2014",
+        "citation": "Proceeding of the 4th Annual Basic Science International Conference 4 \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of Arabidopsis thaliana genes to produce bacterium resistance plants",
+        "pub_year": "2014",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Microgravity on Tomato (Lycopersicum esculantum) cv. Arthaloka F1 and Green Pea (Vigna radiata): Structure, Physiology and Molecular Study",
+        "pub_year": "2014",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Space Seeds for Asian Future",
+        "pub_year": "2014",
+        "citation": "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro Plant Regeneration of Java Vetiver (Vetiveria zizanioides)",
+        "pub_year": "2013",
+        "citation": "International Journal of Agricultural and Biosystems Engineering 7 (9), 867-869, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VIRULENCE STATUS OF Phytophthora infestans (Mont.) de Bary IN WEST JAVA TO POTATO PLANTS THAT CONTAIN RB GENE",
+        "pub_year": "2013",
+        "citation": "Widyariset 16 (2), 293-300, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "(Peer Review) Respon Pertumbuhan, Kadar Protein, dan Aktivitas Triptofan Dekarboksilase Agregat Sel Chatarantus roseus (L) G. Don",
+        "pub_year": "2011",
+        "citation": "Fakultas Pertanian Universitas Sam Ratulangi, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:rO6llkc54NcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of Catharanthine Production in Catharanthus roseus Cell Cultures by Adding Tryptophan as Precursors",
+        "pub_year": "2006",
+        "citation": "Internasional Conference on Mathematics and Natural Science (ICMNS), 248-249, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Study on The Defend Mechanism of Several Tomato Cultivars (Lycopersicon E sculentum Mill.) against Cucumber Mosaic Virus (CMV): Salicylic Acid",
+        "pub_year": "2005",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POLA PRODUKSI AJMALISIN DARIKULTUR AGREGAT SEL Catharanthus roseus (L) G Don. DALAM BIOREAKTOR",
+        "pub_year": "2002",
+        "citation": "BERITA BIOLOGI 6 (3), 409-414, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POLA PRODUKSIAJMALISIN DARIKULTUR AGREGAT SEL Catharanthus roseus (L) G Don. DALAM BIOREAKTOR [Production Pattern of Ajmalicine in Catharanthus roseus (L) G Don. Cell \u2026",
+        "pub_year": "2002",
+        "citation": "Berita Biologi 6 (3), 68946, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of elicitor derived from Pythium aphanidermatum [Edson] Fitzp. on Ajmalicine content of Catharanthus roseus [L.] G. Don callus cultures",
+        "pub_year": "1999",
+        "citation": "Hayati (Indonesia): Jurnal Biosains 6 (3), 1999"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Review on Hatompul (Artocarpus rigidus Blume), An Underutilized Species Collected from Dolok Sibual-buali Nature Reserve, Sipirok, North Sumatra",
+        "citation": "PROCEEDING OF, 61, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of Praxelis clematidea extract as a bioherbicide",
+        "citation": "PROCEEDING OF, 43, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of Cavendish Banana (Musa acuminata Cavendish AAA) Induced by Chitosan Elicitor against Fusarium oxysporum f. sp. cubense Tropical Race 4 Infection",
+        "citation": "PROCEEDING OF, 51, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Homogenat Pythium aphanidermatum (Edson) Fitzp. terhadap Kandungan Ajmalisin dalam Kultur Kalus Tapak Dara",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Bioconvertion of Cassava Tuber Skin and Dry Rice Stalk By Black Soldier Flies (Hermetia illucens)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:geHnlv5EZngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi In silico gen-gen dalam metabolisme giberellin pada tanaman Stevia rebaudiana Bert. melalui pendekatan komparasi genomik",
+        "citation": "PROSIDING SEMINAR NASIONAL, 108, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Produksi Ajmalisin dari Kultur Agregat Sel Catharanthus roseus (L.) G. Don. dalam Bioreaktor Airlift Production Pattern of Ajmalicine in Catharanthus roseus (L.) G. Don \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "COMPARISON OF GROWTH MEDIUM BIOCONVERSION INTO VANDA TRICOLOR BIOMASS IN THIN LAYER LIQUID MEDIUM CULTURE SYSTEM AND TIS RITA\u00ae BIOREACTOR",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nXZrBjYAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

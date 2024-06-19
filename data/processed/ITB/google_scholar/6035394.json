@@ -1,0 +1,43 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "LZp-7QsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ujang Dinar Husyari",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Agroteknologi & Teknologi Bioproduk"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "hindex": 0,
+  "hindex5y": 0,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {},
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTUMBUHAN TANAMAN, KADAR Pb UMBI DAN HASIL TANAMAN KENTANG (Solanum tuberosum L Var. Granola) AKIBAT TAKARAN KOMPOS LIMBAH PASAR DAN KALIUM PADA ANDISOL TANJUNGSARI",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "LZp-7QsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

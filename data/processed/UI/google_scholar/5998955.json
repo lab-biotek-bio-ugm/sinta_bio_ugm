@@ -1,0 +1,1407 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "r9lRzz0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Windri Handayani",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=r9lRzz0AAAAJ&citpid=4",
+  "affiliation": "Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "plant physiology",
+    "bionanotechnology",
+    "bioprospecting"
+  ],
+  "email_domain": "@sci.ui.ac.id",
+  "homepage": "http://staff.ui.ac.id/windri.handayani91",
+  "citedby": 482,
+  "citedby5y": 436,
+  "hindex": 10,
+  "hindex5y": 10,
+  "i10index": 16,
+  "i10index5y": 12,
+  "cites_per_year": {
+    "2015": 2,
+    "2016": 7,
+    "2017": 10,
+    "2018": 22,
+    "2019": 27,
+    "2020": 53,
+    "2021": 89,
+    "2022": 85,
+    "2023": 119,
+    "2024": 62
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of the stability of silver nanoparticles synthesized using aqueous extract of Diospyros discolor Willd. leaves using polyvinyl alcohol",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Materials Science and Engineering 188 (1), 012056, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:WF5omc3nYNoC",
+      "num_citations": 96,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17656179463597371124",
+      "cites_id": [
+        "17656179463597371124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of pH in synthesis silver nanoparticles using pometia pinnata (matoa) leaves extract as bioreductor",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1428 (1), 012021, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=406414759483361880",
+      "cites_id": [
+        "406414759483361880"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The UV-VIS spectrum analysis from silver nanoparticles synthesized using Diospyros maritima Blume. leaves extract",
+        "pub_year": "2021",
+        "citation": "3rd KOBI Congress, International and National Conferences (KOBICINC 2020 \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:vV6vV6tmYwMC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17726760609842834405",
+      "cites_id": [
+        "17726760609842834405"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bananas moisture content prediction system using Visual-NIR imaging",
+        "pub_year": "2017",
+        "citation": "2017 5th International Conference on Instrumentation, Control, and \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4877861055005969988",
+      "cites_id": [
+        "4877861055005969988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Banana (Musa sp.) maturity prediction system based on chlorophyll content using visible-NIR imaging",
+        "pub_year": "2018",
+        "citation": "2018 International Conference on Signals and Systems (ICSigSys), 64-68, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:UebtZRa9Y70C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15869817774483728600",
+      "cites_id": [
+        "15869817774483728600"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wavelength selection in hyperspectral imaging for prediction banana fruit quality",
+        "pub_year": "2017",
+        "citation": "2017 International Conference on Electrical Engineering and Informatics \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:Se3iqnhoufwC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5057368055902955328",
+      "cites_id": [
+        "5057368055902955328"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The formation and antibacterial activity of Zn/ZnO nanoparticle produced in Pometia pinnata leaf extract solution using a laser ablation technique",
+        "pub_year": "2021",
+        "citation": "Applied Physics A 127, 1-11, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:k_IJM867U9cC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14646262173965068114",
+      "cites_id": [
+        "14646262173965068114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman spesies lamun pada beberapa ekosistem padang lamun di Kawasan Taman Nasional Bali Barat",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversiti Indonesia 3 (2), 236-240, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:0EnyYjriUFMC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18395434803076191255",
+      "cites_id": [
+        "18395434803076191255"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pesticide colorimetric sensor based on silver nanoparticles modified by L-cysteine",
+        "pub_year": "2016",
+        "citation": "2016 International Seminar on Sensors, Instrumentation, Measurement and \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6247131895336540719",
+      "cites_id": [
+        "6247131895336540719"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coriandrum sativum L.(apiaceae) and Elettaria cardamomum (L.) maton (zingiberaceae) for antioxidant and antimicrobial protection",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1317 (1), 012092, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:_kc_bZDykSQC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7506871816235630418",
+      "cites_id": [
+        "7506871816235630418"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytochemical analysis and antioxidant activity of leaves and flowers extracts of mistletoe (Dendrophthoe pentandra (L.) Miq.), collected from UI Campus, Depok",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12308344540709199109",
+      "cites_id": [
+        "12308344540709199109"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosynthesis of ferric oxide nanoparticles using Pometia pinnata JR Frost. & G. Forst. leaves water extract",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13602384997324014107",
+      "cites_id": [
+        "13602384997324014107"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of pH in controlling size and distribution of silver nanoparticles using biosynthesis from Diospyros discolor Willd.(Ebenaceae)",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 367 (1), 012033, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12144467368493249638",
+      "cites_id": [
+        "12144467368493249638"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seagrass species diversity at various seagrass bed ecosystems in the West Bali National Park Area",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (2), 236-240, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:ufrVoPGSRksC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1549143657888633703",
+      "cites_id": [
+        "1549143657888633703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan tumbuhan tropis untuk biosintesis nanopartikel perak dan aplikasinya sebagai indikator kolometri keberadaan logam berat",
+        "pub_year": "2011",
+        "citation": "Tesis, Universitas Indonesia, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13679820506457383597",
+      "cites_id": [
+        "13679820506457383597"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi ekstrak beberapa jenis tumbuhan sebagai agen pereduksi untuk biosintesis nanopartikel perak",
+        "pub_year": "2010",
+        "citation": "Seminar Nasional Biologi Universitas Gadjah Mada. Yogyakarta, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:r0BpntZqJG4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2942545056578220972",
+      "cites_id": [
+        "2942545056578220972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komposisi Kimia, Aktivitas Antibakteri, Dan Potensi Sebagai Kemasan Aktif Beberapa Minyak Atsiri Dari Tanaman Rempah Indonesia",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Industrial Research 43 (1), 449327, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:blknAaTinKkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14404160851548101510",
+      "cites_id": [
+        "14404160851548101510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Allelopathic activity of Dendrophthoe pentandra as a potential bioherbicide to inhibit seed germination and seedling growth of Eleusine indica",
+        "pub_year": "2020",
+        "citation": "Nusantara Bioscience 12 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11360221040987568743",
+      "cites_id": [
+        "11360221040987568743"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A non-destruction measurement system based on hyperspectral imaging for sugar content in Banana (Musa sp.)",
+        "pub_year": "2017",
+        "citation": "2017 International Seminar on Sensors, Instrumentation, Measurement and \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:roLk4NBRz8UC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=550763875180549032",
+      "cites_id": [
+        "550763875180549032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant activity of extract of Mistletoe, Dendrophthoe pentandra (L.) Miq., lived in three different host plants, collected from Kampus UI, Depok",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:Zph67rFs4hoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=159974144151354891",
+      "cites_id": [
+        "159974144151354891"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "C., Purbaningsih, S., 2010, Potensi Ekstrak Beberapa Jenis Tumbuhan sebagai Agen Pereduksi untuk Biosintesis Nanopartikel Perak",
+        "citation": "Seminar Nasional Biologi, 558-567, 0"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:yD5IFk8b50cC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15199933902921890946",
+      "cites_id": [
+        "15199933902921890946"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Green synthesis of silver nanoparticles using leaf and stem bark extract of Pometia pinnata JR Forst & G. Forst",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:qUcmZB5y_30C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14029469983956449033",
+      "cites_id": [
+        "14029469983956449033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of visible-NIR imaging prediction system using genetic algorithm: prediction of carotenoid content in Amaranthus sp. Leaf",
+        "pub_year": "2018",
+        "citation": "2018 International Conference on Electrical Engineering and Informatics \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6698362706716276269",
+      "cites_id": [
+        "6698362706716276269"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Numerical study of the plasmonic resonance sensitivity silver nanoparticles coated polyvinyl alcohol (PVA) using Bohren-Huffman-Mie (BHMie) approximation",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16170848493037876223",
+      "cites_id": [
+        "16170848493037876223"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Minyak Atsiri  Sebagai Bahan Antimikroba  dalam Pengawetan Pangan",
+        "pub_year": "2021",
+        "citation": "Minyak Atsiri: Produksi dan Aplikasinya untuk Kesehatan, 85-121, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9167030549357554167",
+      "cites_id": [
+        "9167030549357554167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture from internodes of Melastoma malabathricum L. on Murashige and Skoog (1962) modified medium with thidiazuron and 1-naphthaleneacetic acid",
+        "pub_year": "2020",
+        "citation": "481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:mB3voiENLucC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15914803257185583889",
+      "cites_id": [
+        "15914803257185583889"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chlorophyll A and B Content Measurement System of Velvet Apple Leaf in Hyperspectral Imaging",
+        "pub_year": "2019",
+        "citation": "2019 3rd International Conference on Informatics and Computational Sciences \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12383291921166864261",
+      "cites_id": [
+        "12383291921166864261"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A silver nanoparticle-based colorimetric detection of Fe2+",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1317 (1), 012093, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:4TOpqqG69KYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12124408941715894052",
+      "cites_id": [
+        "12124408941715894052"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unmanned Aerial Vehicle (UAV) Data Acquisition for Archaeological Site Identification and Mapping",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 98 (1), 012017, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:HoB7MX3m0LUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11418201721971699018",
+      "cites_id": [
+        "11418201721971699018"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carotenoid profile map system based on hyperspectral technique in banana (Musa sp.)",
+        "pub_year": "2017",
+        "citation": "2017 5th International Conference on Instrumentation, Control, and \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5388290921410515587",
+      "cites_id": [
+        "5388290921410515587"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioactivity of Thalassia hemprichii (hydrocharitaceae) methanolic extract from West Bali National Park as Aedes aegypti larvacide",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:8k81kl-MbHgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10670531768031871852",
+      "cites_id": [
+        "10670531768031871852"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Senyawa Volatil dan Uji Antibakteri dari Citrus bergamia dan Citrus sinensis",
+        "pub_year": "2021",
+        "citation": "Sainstech Farma: Jurnal Ilmu Kefarmasian 14 (2), 91-96, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:u_35RYKgDlwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15731422721401903456",
+      "cites_id": [
+        "15731422721401903456"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peppermint oil loaded on recycled paper as an antibacterial label for shrimp freshness",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 739 (1), 012065, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3928880333192536379",
+      "cites_id": [
+        "3928880333192536379"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A simple synthesis of silver nanoparticles on cellulose paper for antimicrobial applications",
+        "pub_year": "2020",
+        "citation": "Materials Science Forum 990, 191-196, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10570141043773935253",
+      "cites_id": [
+        "10570141043773935253"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of extract concentration of Diospyros discolor Willd. as silver nanoparticles synthesis",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2242 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11262961172859731642",
+      "cites_id": [
+        "11262961172859731642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hyperspectral imaging feature selection using regression tree algorithm: Prediction of carotenoid content velvet apple leaf",
+        "pub_year": "2019",
+        "citation": "2019 3rd International Conference on Informatics and Computational Sciences \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12321007278328683706",
+      "cites_id": [
+        "12321007278328683706"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of plant-derived exosome-like nanoparticles (PDENs) from Solanum nigrum L. berries and Their Effect on interleukin-6 expression as a potential anti \u2026",
+        "pub_year": "2024",
+        "citation": "Plos one 19 (1), e0296259, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17407718876025491666",
+      "cites_id": [
+        "17407718876025491666"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of silver nanoparticles synthesized using Diospyros discolor Willd.(Bisbul) leaf extract for antimicrobial agents",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2314 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:TFP_iSt0sucC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3394992320465282556",
+      "cites_id": [
+        "3394992320465282556"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Active Starch/PVA Composite Films Containing Syzygium oleana for Ammonia Vapor Colorimetric Indicators",
+        "pub_year": "2020",
+        "citation": "Materials Science Forum 990, 318-324, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16228485054047333783",
+      "cites_id": [
+        "16228485054047333783"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture of leaf explant Melastoma malabathricum L. on Murashige & Skoog (1962) modified medium with thidiazuron (TDZ) and 1-naphthaleneacetic acid (NAA)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2588612815995586648",
+      "cites_id": [
+        "2588612815995586648"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosynthesis of silver nanoparticles using the leaf and stem bark of Diospyros discolor Willd.(Ebenaceae)",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1442 (1), 012024, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1978837643818726207",
+      "cites_id": [
+        "1978837643818726207"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on venation visualization system using hyperspectral images and multi-layer perceptron classifier",
+        "pub_year": "2019",
+        "citation": "2019 International Seminar on Research of Information Technology and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14337226035751856645",
+      "cites_id": [
+        "14337226035751856645"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organo-specific distribution of untargeted metabolomics of mistletoe\u2019s extract, Dendrophthoe pentandra (L.) Miq., from FKM UI, Kampus UI Depok",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7347974707020916432",
+      "cites_id": [
+        "7347974707020916432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flavonoid distribution mapping system of velvet apple leaf based on hyperspectral imaging",
+        "pub_year": "2019",
+        "citation": "2019 International Conference on Advanced Computer Science and information \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13385588532936396282",
+      "cites_id": [
+        "13385588532936396282"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wavelength Selection of Persimmon Leafusing Decision Tree Method in Visible Near-Infrared Imaging",
+        "pub_year": "2019",
+        "citation": "2019 International Conference on Advanced Computer Science and information \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5191926500383194960",
+      "cites_id": [
+        "5191926500383194960"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automatic tilting correction system for inhibition zones dimension measurement using low-cost camera",
+        "pub_year": "2016",
+        "citation": "2016 International Seminar on Sensors, Instrumentation, Measurement and \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6261836736524698236",
+      "cites_id": [
+        "6261836736524698236"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The polarization and distance effect of the double sphere silver nanoparticles to local surface plasmon resonance using boundary element approximation",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8192774695506357599",
+      "cites_id": [
+        "8192774695506357599"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRODUKSI PREBIOTIK XILOOLIGOSAKARIDA DARI PEMANFAATAN LIMBAH AGROINDUSTRI SINGKONG: AMPAS DAN KULIT SINGKONG MELALUI PROSES HIDROLISIS ENDO-\u03b2-1, 4-D XILANASE",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:M05iB0D1s5AC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16821200423592618868",
+      "cites_id": [
+        "16821200423592618868"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytotoxicity study of silver nanoparticles on the germination of water spinach (Ipomoea aquatica Forsk.) and mustard green (Brassica rapa L.) seeds",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1201 (1), 012080, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:EUQCXRtRnyEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5610451025244618886",
+      "cites_id": [
+        "5610451025244618886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial sachet from the \u03b2\u2010Cyclodextrin/lemongrass oil inclusion complex for shrimp freshness",
+        "pub_year": "2023",
+        "citation": "International Journal of Food Science & Technology 58 (6), 3097-3108, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:pyW8ca7W8N0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1576083630395718928",
+      "cites_id": [
+        "1576083630395718928"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik lumut di ruang terbuka hijau (RTH) di area permukiman jakarta selatan",
+        "pub_year": "2023",
+        "citation": "Al-Kauniyah: Jurnal Biologi 16 (1), 115-139, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:dshw04ExmUIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14490880132166791270",
+      "cites_id": [
+        "14490880132166791270"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Low-cost Digital Spectrophotometer for Heavy Metal Absorbance Measurements",
+        "pub_year": "2023",
+        "citation": "Instruments and Experimental Techniques 66 (1), 147-155, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:_xSYboBqXhAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2365654137933747907",
+      "cites_id": [
+        "2365654137933747907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Study of The Physiological Condition of Six Tree Species to Air Pollution in Depok City, West Java",
+        "pub_year": "2023",
+        "citation": "Bioeduscience 7 (2), 174-181, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:abG-DnoFyZgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4933716634698737860",
+      "cites_id": [
+        "4933716634698737860"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Development of Gametophyte Sterilization Method for Liverworts Acrolejeunea fertilis (Reinw., Blume and Nees) Schiffn. In vitro Culture",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (1), 39-39, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16226819550000134830",
+      "cites_id": [
+        "16226819550000134830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Clean synthesis of silver nanoparticles by radiochemical methods for antimicrobial materials",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2314 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:isC4tDSrTZIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18007555604498377287",
+      "cites_id": [
+        "18007555604498377287"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Detection of Cu2+ Ions Using Paper-Based Silver Nanoparticles as a Colorimetry Indicator",
+        "pub_year": "2020",
+        "citation": "Materials Science Forum 990, 306-311, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18166235197913783601",
+      "cites_id": [
+        "18166235197913783601"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of mercury ions using unmodified silver nanoparticles as colorimetric indicator",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1528 (1), 012055, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16056639836798463823",
+      "cites_id": [
+        "16056639836798463823"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial activity of biosynthesized silver nanoparticles using Diospyros celebica Bakh.(Eboni) extract",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012041, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:TQgYirikUcIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10554393647923665184",
+      "cites_id": [
+        "10554393647923665184"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Antibacterial Effect from Combining Cinnamon, Patchouli and Coriander Essential Oils",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 2nd International Conference of Essential Oils, 153-158, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11967773952803689251",
+      "cites_id": [
+        "11967773952803689251"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial Label from Lemongrass Oil Incorporated with Chitosan/Ascorbic Acid",
+        "pub_year": "2020",
+        "citation": "2nd International Conference of Essential Oil Indonesia (ICEO), 147-52, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18169864658624570439",
+      "cites_id": [
+        "18169864658624570439"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of antibacterial activity from biosynthesized silver nanoparticles using Diospyros discolor Willd. extract",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10814852120490570703",
+      "cites_id": [
+        "10814852120490570703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of thidiazuron and 2, 4-D on the regeneration of Melastoma malabathricum L. cultured leaves",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:-f6ydRqryjwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15978153218796987352",
+      "cites_id": [
+        "15978153218796987352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioreduction properties of Pometia pinnata JR Forst. & G. Forst (Sapindaceae) for silver nanoparticles synthesis",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12597679576621747903",
+      "cites_id": [
+        "12597679576621747903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of pH in the biosynthesis of Fe3O4 nanoparticles prepared from Fe (III) nitrate and matoa leaf extract",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1442 (1), 012010, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7183928803835610819",
+      "cites_id": [
+        "7183928803835610819"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioprospecting of potential seagrass Thalassia hemprichii (Ehrenb. ex solms) Asch.(hydrocharitaceae) extract from Pramuka Island against Aedes aegypti L. larvae",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3505784846102006058",
+      "cites_id": [
+        "3505784846102006058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial effectiveness measurement using non-metric camera",
+        "pub_year": "2016",
+        "citation": "2016 International Seminar on Sensors, Instrumentation, Measurement and \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17577120060822363256",
+      "cites_id": [
+        "17577120060822363256"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of potential bacteria with the ability to degrade Congo Red dye",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2018092117633400422",
+      "cites_id": [
+        "2018092117633400422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bio-Risk Management Systems: Biosafety Assessment in COVID-19 Referral Hospitals in Indonesia",
+        "pub_year": "2024",
+        "citation": "Safety 10 (2), 36, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An insight into potential phosphate bioremediation and renewable energy from agricultural waste via integrated wastewater treatment systems in Indonesia",
+        "pub_year": "2024",
+        "citation": "Environmental Research Communications 6 (4), 042001, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three Harendong Plants from West Java as a Model for Phytoremediation",
+        "pub_year": "2023",
+        "citation": "BP International, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Changes in total phenolic concentration and antioxidant capacity of fermented guava (Psidium guajava) juice extract by SCOBY",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2972 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of In Vitro Shoots in Liverwort Gametophyte Explant Acrolejeunea fertilis (Reinw., Blume & Nees) Schiffn. and its Comparative Metabolite and Bioactivity Analysis",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of process conditions for fermented banana using SCOBY in producing bioactive compounds and antioxidant activity by CCD-RSM design",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2902 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:NhqRSupF_l8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Membangun Kesadaran Terhadap Prinsip-Prinsip Keselamatan dan keamanan Hayati di Pendidikan Tinggi",
+        "pub_year": "2023",
+        "citation": "Biologi Terapan untuk Masa Depan dan Kemajuan Bangsa, 367-380, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Polyvinylpyrrolidone Molecular Weight on the Synthesis of Silver Nanoparticles using a Polyol Method",
+        "pub_year": "2022",
+        "citation": "Research Journal of Chemistry and Environment 26 (12), https \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Waste to Energy Project UI-PE",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structural, optical, and potential broad-spectrum antibacterial properties of CuO-Ag nanoparticles biosynthesized using the extract of Diospyros discolor Willd",
+        "pub_year": "2021",
+        "citation": "Advances in Natural Sciences: Nanoscience and Nanotechnology 12 (4), 045007, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Untuk Biosintesis Nanopartikel Perak Dengan Menggunakan Air Rebusan Daun Bisbul (Diospyros discolor Willd.)",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Development of In Vitro Culture Sterilization Method of Gametophyte Explant Lopholejeunea sp.",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (2), 110-110, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KERTAS ANTIMIKROBA MENGANDUNG BAHAN AKTIF NANOPARTIKEL PERAK",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro culture of Melastoma malabathricum (L.) from internodes on Murashige & Skoog (1962) modified medium supplemented with thidiazuron and 2, 4-dichlorophenoxyacetic acid",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioprospection of Diospyros discolor Willd. fruit for the biosynthesis of silver nanoparticles",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological synthesis and characterization of silver nanoparticles synthesized from Pometia pinnata and Diospyros discolor Fruits",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Autiscare Special Camp",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VECTOR CONSTRUCTION FOR SOD GENE OVEREXPRESSION AS AN ATTEMPT TO DEVELOP PHYTOREMEDIATION PLANTS",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of Star Fruit (Averrhoa carambola)\u2019s Wrapers on Morphology and Fruit Nutritions Content",
+        "pub_year": "2014",
+        "citation": "IBOC, International Biology Conference at ITS, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological Responses of Melastoma malabathricum L. To Heavy Metal Stress",
+        "pub_year": "2014",
+        "citation": "The 5th International Conference On Bioscience And Biotechnology, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization and Characterization of Tropical Plants for Silver Nanoparticles Biosynthesis",
+        "pub_year": "2011",
+        "citation": "Seminar Nasional HUT Kebun Raya Cibodas, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callus induction from Centella asiatica L. Urban petiole",
+        "pub_year": "2010",
+        "citation": "Seminar Nasional Biologi UGM, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potention of plants as a reducing agent on silver nanoparticles biosynthesis",
+        "pub_year": "2010",
+        "citation": "Seminar Nasional Biologi UGM, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plukenetia volubilis L.: A New Record of a Cultivated Alien Species in Java",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (1), 84523, 0"
+      },
+      "filled": false,
+      "author_pub_id": "r9lRzz0AAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

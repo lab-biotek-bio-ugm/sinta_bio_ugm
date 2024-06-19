@@ -1,0 +1,1878 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "nxmCduQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Fenny Dwivany",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nxmCduQAAAAJ&citpid=3",
+  "affiliation": "Professor,  The School of Life Sciences and Technology, Institut Teknologi Bandung, INDONESIA (www",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Molecular Biology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "https://sith.itb.ac.id/en/dr-fenny-martha-dwivany/",
+  "citedby": 745,
+  "citedby5y": 679,
+  "hindex": 14,
+  "hindex5y": 13,
+  "i10index": 17,
+  "i10index5y": 16,
+  "cites_per_year": {
+    "2009": 2,
+    "2010": 5,
+    "2011": 4,
+    "2012": 8,
+    "2013": 2,
+    "2014": 4,
+    "2015": 1,
+    "2016": 11,
+    "2017": 6,
+    "2018": 16,
+    "2019": 38,
+    "2020": 65,
+    "2021": 125,
+    "2022": 149,
+    "2023": 194,
+    "2024": 103
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nXZrBjYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rizkita Esyanti",
+      "affiliation": "Institut technology Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OWQ1cG8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Husna Nugrahapraja",
+      "affiliation": "School of Life Science and Technology, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "sPe9RT4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Veinardi Suendo",
+      "affiliation": "Inorganic and Physical Chemistry Research Division, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SadLvYEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Karlia Meitha",
+      "affiliation": "SITH, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "U46ClisAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ketut Wikantika",
+      "affiliation": "Institute of Technology Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nf16tywAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sastia Prama Putri",
+      "affiliation": "Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "39WjjzEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eiichiro Fukusaki",
+      "affiliation": "Professor, Graduate School of Engineering, Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "42yrZIgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sony Suhandono",
+      "affiliation": "Lecturer & researcher, School of Life Sciences and Technology, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8Bo8akkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anjaritha Aulia Rizky Parijadi",
+      "affiliation": "Osaka University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "oRy3ajUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ocky Karna Radjasa",
+      "affiliation": "Diponegoro University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DToUQWgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Geoff Fincher",
+      "affiliation": "Professor of Plant Science, University of Adelaide"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "AFF74YkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ed Newbigin",
+      "affiliation": "University of Melbourne"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "vi2K34AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rachel A Burton",
+      "affiliation": "Professor, Adelaide University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "0zXMDB4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tony Bacic",
+      "affiliation": "Professor, La Trobe University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "wx74AK8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Monika Doblin",
+      "affiliation": "La Trobe University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "pukHH7oAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Maulana Malikul Ikram",
+      "affiliation": "Research and Development Director - PT. BIOPS Agrotekno Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-U1Ovf4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ronny Martien",
+      "affiliation": "Gadjah Mada University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kZa4SKYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tjandra Anggraeni",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "AdpRN9IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I Nyoman Pugeg Aryantha",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SViAtBMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Listya Utami Karmawan",
+      "affiliation": "Faculty of Biotechnology, Atma Jaya Catholic University of Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "8Wm4gJAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jekson Robertlee",
+      "affiliation": "Post-doctoral Researcher, RIKEN CSRS"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JXO5OKEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agustina Monalisa Tangapo",
+      "affiliation": "Universitas Sam Ratulangi"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MZg2DWgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "PROF. DR. MOHAMMED SELAMAT MADOM",
+      "affiliation": "Felo Utama, Universiti Malaysia Sabah"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "F2q20q4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sachiko Yano",
+      "affiliation": "JAXA"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XLY-a_EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Farahana Kamarudin",
+      "affiliation": "Langkawi National Observatory"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "O91skb4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kinasih Prayuni",
+      "affiliation": "Universitas YARSI"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zO8AXyAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Rika Raffiudin",
+      "affiliation": "Department of Biology, Bogor Agricultural University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chitosan and chitosan-nanoparticles on post harvest quality of banana fruits",
+        "pub_year": "2018",
+        "citation": "Journal of Plant Biotechnology 45 (1), 36-44, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 233,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18446122165093873906",
+      "cites_id": [
+        "18446122165093873906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Carrageenan edible coating application prolongs Cavendish banana shelf life",
+        "pub_year": "2020",
+        "citation": "International Journal of Food Science 2020 (1), 8861610, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17403550759087586741",
+      "cites_id": [
+        "17403550759087586741"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The CELLULOSE-SYNTHASE LIKE C (CSLC) family of barley includes members that are integral membrane proteins targeted to the plasma membrane",
+        "pub_year": "2009",
+        "citation": "Molecular Plant 2 (5), 1025-1039, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670309494009511434",
+      "cites_id": [
+        "17670309494009511434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Foliar application of chitosan enhances growth and modulates expression of defense genes in chilli pepper ('Capsicum annuum'L.)",
+        "pub_year": "2019",
+        "citation": "Australian Journal of Crop Science 13 (1), 55-60, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12431212896438861942",
+      "cites_id": [
+        "12431212896438861942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolic profiling of Garcinia mangostana (mangosteen) based on ripening stages",
+        "pub_year": "2018",
+        "citation": "Journal of bioscience and bioengineering 125 (2), 238-244, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17962116559090695672",
+      "cites_id": [
+        "17962116559090695672"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chitosan coating and bamboo FSC (fruit storage chamber) to expand banana shelf life",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5052191544115847981",
+      "cites_id": [
+        "5052191544115847981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Computational prediction of the effect of mutations in the receptor-binding domain on the interaction between SARS-CoV-2 and human ACE2",
+        "pub_year": "2022",
+        "citation": "Molecular Diversity 26 (6), 3309-3324, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:_xSYboBqXhAC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=631759549971094204",
+      "cites_id": [
+        "631759549971094204"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pisang indonesia",
+        "pub_year": "2021",
+        "citation": "Supply Chain Management, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1556462792926850270",
+      "cites_id": [
+        "1556462792926850270"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of MA-ACS gene family and expression study of MA-ACS1 gene in Musa acuminata cultivar Pisang Ambon Lumut",
+        "pub_year": "2009",
+        "citation": "HAYATI Journal of Biosciences 16 (1), 35-39, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16528920094523283847",
+      "cites_id": [
+        "16528920094523283847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A metabolomics-based approach for the evaluation of off-tree ripening conditions and different postharvest treatments in mangosteen (Garcinia mangostana)",
+        "pub_year": "2019",
+        "citation": "Metabolomics 15, 1-16, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:r0BpntZqJG4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2030409304281419846",
+      "cites_id": [
+        "2030409304281419846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marine microbial-derived resource exploration: Uncovering the hidden potential of marine carotenoids",
+        "pub_year": "2022",
+        "citation": "Marine Drugs 20 (6), 352, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10445028619724628373",
+      "cites_id": [
+        "10445028619724628373"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environment effect on fruit ripening related gene to develop a new post harvest technology",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 285-287, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=290007423835436349",
+      "cites_id": [
+        "290007423835436349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolome Analysis of Banana (Musa acuminata) Treated With Chitosan Coating and Low Temperature Reveals Different Mechanisms Modulating Delayed Ripening",
+        "pub_year": "2022",
+        "citation": "Frontiers Sustainable Food System. 6: 835978. doi: 10.3389/fsufs, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4495468470414813557",
+      "cites_id": [
+        "4495468470414813557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of banana plants from unmanned aerial vehicles (UAV) photos using object based image analysis (OBIA) method (a case study in Sayang Village, Jatinangor District \u2026",
+        "pub_year": "2019",
+        "citation": "HAYATI Journal of Biosciences 26 (1), 7-7, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=356089425945975221",
+      "cites_id": [
+        "356089425945975221"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity of Bali banana (Musaceae) and its usefulness",
+        "pub_year": "2018",
+        "citation": "HAYATI Journal of Biosciences 25 (2), 47-47, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:TQgYirikUcIC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10236704704045404799",
+      "cites_id": [
+        "10236704704045404799"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "'Raja Bulu'banana MaACS1 and MaACO1 gene expression during postharvest storage",
+        "pub_year": "2014",
+        "citation": "XXIX International Horticultural Congress on Horticulture: Sustaining Lives \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13788504948552895228",
+      "cites_id": [
+        "13788504948552895228"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chitosan and chitosan-nanoparticles on post harvest quality of banana fruits. J Plant Biotechnol 45: 36\u201344",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:f2IySw72cVMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13149294707038016604",
+      "cites_id": [
+        "13149294707038016604"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cabai, Potensi Pengembangan Agrobisnis dan Agroindustri",
+        "pub_year": "2017",
+        "citation": "ISBN: 9786020378299, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:qUcmZB5y_30C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14092568574977229141",
+      "cites_id": [
+        "14092568574977229141"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of MaACS2, a stress-inducible ACC synthase gene in musa acuminata AAA group cultivar Pisang Ambon",
+        "pub_year": "2014",
+        "citation": "Journal of Mathematical and Fundamental Sciences 46 (2), 194-203, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:ufrVoPGSRksC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14575648269428109085",
+      "cites_id": [
+        "14575648269428109085"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrated Studies of Banana on Remote Sensing, Biogeography, and Biodiversity: An Indonesian Perspective",
+        "pub_year": "2022",
+        "citation": "Diversity 14 (4), 277, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9569835954127703983",
+      "cites_id": [
+        "9569835954127703983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genome-wide Identification and Characterization of the Pectin Methylesterase (PME) and Pectin Methylesterase Inhibitor (PMEI) Gene Family in the Banana A-genome (Musa acuminata \u2026",
+        "pub_year": "2021",
+        "citation": "Research Journal of Biotechnology 16 (2), 179-191, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:u_35RYKgDlwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14189866810135427371",
+      "cites_id": [
+        "14189866810135427371"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitosan-based edible coating prolongs Musa troglodytarum L.('Pisang Tongkat Langit') fruit shelf-life and changes the ACS1 and ACO1 gene expression profile.",
+        "pub_year": "2020",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 43 (4), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1079525750948539019",
+      "cites_id": [
+        "1079525750948539019"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic analysis of 23 accessions of Indonesian banana cultivars based on Internal Transcribed Spacer 2 (ITS2) region",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Biotechnology 25 (1), 1-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:lSLTfruPkqcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12053078589497712409",
+      "cites_id": [
+        "12053078589497712409"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression analysis of 1-aminocyclopropane-1-carboxylic acid oxidase genes in chitosan-coated banana",
+        "pub_year": "2018",
+        "citation": "HAYATI Journal of Biosciences 25 (1), 18-18, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:HDshCWvjkbEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12978965310515218411",
+      "cites_id": [
+        "12978965310515218411"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gene expression analysis related to ethylene induced female flowers of cucumber (Cucumis sativus L.) at different photoperiod",
+        "pub_year": "2017",
+        "citation": "Journal of Plant Biotechnology 44 (3), 229-234, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:Zph67rFs4hoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6327834098032437851",
+      "cites_id": [
+        "6327834098032437851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitosan suppresses the expression level of WRKY17 on red chili (Capsicum annuum) plant under drought stress",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Biotechnology 25 (1), 52-60, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8145109565325562861",
+      "cites_id": [
+        "8145109565325562861"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chitosan and chitosan-nanoparticles on post harvest quality of banana fruits. J Plant Biotechnol 45 (1), 36\u201344. DOI: 10.5010",
+        "pub_year": "2018",
+        "citation": "JPB 1, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:vRqMK49ujn8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8977054857301169628",
+      "cites_id": [
+        "8977054857301169628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Banana flower-insect interaction: alpha-pinene as potential attractant for the insect vector of banana blood disease",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (1), 8-8, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:BqipwSGYUEgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6484224050620811287",
+      "cites_id": [
+        "6484224050620811287"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Segmentasi Citra Digital Objek Hasil Pengamatan In Situ Localization Gen gfp pada Tanaman Transforman",
+        "pub_year": "2019",
+        "citation": "Edsence: Jurnal Pendidikan Multimedia 1 (2), 53-60, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:maZDTaKrznsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11500559300408401318",
+      "cites_id": [
+        "11500559300408401318"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium tumefaciens-mediated transformation of embryogenic callus and somatic embryos of the banana cv \u201cAmbon Lumut\u201d(Musa acuminata)",
+        "pub_year": "2017",
+        "citation": "KnE Life Sciences, 599-616, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10093059630784473461",
+      "cites_id": [
+        "10093059630784473461"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression study of banana pathogenic resistance genes",
+        "pub_year": "2016",
+        "citation": "HAYATI Journal of Biosciences 23 (4), 196-199, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15842750835741943558",
+      "cites_id": [
+        "15842750835741943558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptome dataset of ethylene-treated Klutuk Wulung banana",
+        "pub_year": "2021",
+        "citation": "Data in Brief 38, 107376, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1754437055715119631",
+      "cites_id": [
+        "1754437055715119631"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bali bananas (Musa spp. L.) genetic relationship based on internal transcribed spacer 2 (ITS-2).",
+        "pub_year": "2020",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 43 (4), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12309010883570665425",
+      "cites_id": [
+        "12309010883570665425"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic relationship between tongka langit bananas (Musa troglodytarum l.) from galunggung and maluku, indonesia, based on its2",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (3), 258-258, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10494011673239359861",
+      "cites_id": [
+        "10494011673239359861"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data on banana transcriptome in response to blood disease infection",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105133, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:blknAaTinKkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12224701834125530466",
+      "cites_id": [
+        "12224701834125530466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellulose synthase (CESA) and cellulose-synthase-like (CSL) gene families of barley.",
+        "pub_year": "2004",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U292-U292, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2942777524269302991",
+      "cites_id": [
+        "2942777524269302991"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A computational simulation appraisal of banana lectin as a potential anti-SARS-CoV-2 candidate by targeting the receptor-binding domain",
+        "pub_year": "2023",
+        "citation": "Journal of Genetic Engineering and Biotechnology 21 (1), 148, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13264863923461714758",
+      "cites_id": [
+        "13264863923461714758"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Genomics of Copia and Gypsy Retroelements in Three Banana Genomes: A, B, and S Genomes.",
+        "pub_year": "2021",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 44 (4), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:a0OBvERweLwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9599819837849619833",
+      "cites_id": [
+        "9599819837849619833"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset of Cavendish banana transcriptome in response to chitosan coating application",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105337, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15655199937517830434",
+      "cites_id": [
+        "15655199937517830434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of ethylene biosynthesis gene expression profile during titanium dioxide (tio2) treatment to develop a new banana post-harvest technology",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Biotechnology 24 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:k_IJM867U9cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4855133217558441419",
+      "cites_id": [
+        "4855133217558441419"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of fruit storage chamber (FSC) and chitosan coating on cavendish banana (Musa acuminata AAA Group) MaACO and MaACS1 genes expression",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012002, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7383174138606035015",
+      "cites_id": [
+        "7383174138606035015"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pengemasan Buah Pisang Cavendish (Musa acuminata AAA Group) dalam Plastik Vakum terhadap Kondisi Fisik, Fisiologis, dan Ekspresi Gen Selama Proses Pematangan Buah",
+        "pub_year": "2017",
+        "citation": "Seminar Nasional Ilmu Pengetahuan, Teknologi, dan Seni (Semnas-IPTEKS) 1 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:dhFuZR0502QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8400089039381328488",
+      "cites_id": [
+        "8400089039381328488"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pentingnya Data Pisang Indonesia",
+        "pub_year": "2017",
+        "citation": "Bunga Rampai Forum Peneliti Muda Indonesia 2, 6-13, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14246259040369761323",
+      "cites_id": [
+        "14246259040369761323"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physical, chemical and biological characteristics of space flown tomato (Lycopersicum esculentum) seeds",
+        "pub_year": "2016",
+        "citation": "Journal of Physics: Conference Series 771 (1), 012046, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6145956079072007247",
+      "cites_id": [
+        "6145956079072007247"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Clinorotation to the Growth of Tomato (Lycopersicon esculentum) and Mung Bean (Vigna radiata) Seedlings",
+        "pub_year": "2014",
+        "citation": "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:WF5omc3nYNoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13221964791107891075",
+      "cites_id": [
+        "13221964791107891075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico characterization and comparison of the fruit ripening related beta\u2010amylase (BAM) gene family in banana genome A and B",
+        "citation": "Indonesian Journal of Biotechnology 2021 26 (4), 175-182, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4079430928968855615",
+      "cites_id": [
+        "4079430928968855615"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosynthetic gene cluster profiling from North Java Sea Virgibacillus salarius reveals hidden potential metabolites",
+        "pub_year": "2023",
+        "citation": "Scientific Reports 13 (1), 19273, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13360940090301757628",
+      "cites_id": [
+        "13360940090301757628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico comparisons of the Ethylene Response Factor 1 (ERF1) gene between Malaysian wild banana (Musa acuminata ssp. malaccensis) and Pisang Klutuk Wulung (Musa balbisiana).",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:abG-DnoFyZgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7403585125167103137",
+      "cites_id": [
+        "7403585125167103137"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico Characterization of the Structure of Genes and Proteins related to \u03b2-carotene Degradation in Musa acuminata'DHPahang'and Musa balbisiana'Pisang Klutuk Wulung'.",
+        "pub_year": "2021",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 44 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8740911071148520992,5347402926931386312",
+      "cites_id": [
+        "8740911071148520992",
+        "5347402926931386312"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi dan Evaluasi Kondisi Biji Tomat (Lycopersicum esculentum) yang Telah Dibawa ke Luar Angkasa Secara Fisik dengan Kultur Jaringan",
+        "pub_year": "2020",
+        "citation": "Jurnal Sains dan Kesehatan 2 (4), 438-443, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3541936927973163257",
+      "cites_id": [
+        "3541936927973163257"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ISOLATION AND CHARACTERIZATION OF PISANG TONGKAT LANGIT (Musa troglodytarum L.) ACS1 AND ACO1 GENE EXPRESSION DURING FRUIT RIPENING PROCESS",
+        "pub_year": "2020",
+        "citation": "Malays. Appl. Biol.     https://www.researchgate.net/profile/Fenny_Dwivany \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10768640621562039522",
+      "cites_id": [
+        "10768640621562039522"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pre-treatment and Suitable Reagent Enabled a Reliable and Consistent for Molecular Detection of Fusarium oxysporum f. sp. cubense Tropical Race 4 (Foc4)",
+        "pub_year": "2019",
+        "citation": "HAYATI Journal of Biosciences 26 (4), 196-196, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13656454304502060671",
+      "cites_id": [
+        "13656454304502060671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improved in vitro bioassay for Musa acuminata cv. Pisang ambon kuning (AAA group) based on quantitative analysis of necrosis area and biomass changes \u2026",
+        "pub_year": "2018",
+        "citation": "Archives of Phytopathology and Plant Protection 51 (7-8), 408-422, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16953421374694200357",
+      "cites_id": [
+        "16953421374694200357"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prolonging banana shelf life through visible light-induced ethylene scavenging using manganese-decorated TiO2 via KMnO4 reduction",
+        "pub_year": "2024",
+        "citation": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 691, 133817, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:LPZeul_q3PIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15243162873863036288",
+      "cites_id": [
+        "15243162873863036288"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Study on the Distribution Pattern of Banana Blood Disease (BBD) and Fusarium Wilt Using Multispectral Aerial Photos and a Handheld Spectrometer in Subang, Indonesia",
+        "pub_year": "2023",
+        "citation": "Diversity 15 (10), 1046, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7224220279497955326",
+      "cites_id": [
+        "7224220279497955326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Characterization of Lycopene Beta Cyclase (LCYB) and Lycopene Epsilon Cyclase (LCYE) Genes from DH-Pahang (Musa acuminata, A Genome) and DH-PKW (Musa balbisiana, B \u2026",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Life Science 13 (1), 81-92, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:SP6oXDckpogC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12458982159280831896",
+      "cites_id": [
+        "12458982159280831896"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitosan improving Growth in Chili (Capsicum annuum L.) Plants and acting through Distinct Gene Regulation between Cultivars",
+        "pub_year": "2021",
+        "citation": "Research Journal of Biotechnolog 16 (2), 87-92, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12848121031739302994",
+      "cites_id": [
+        "12848121031739302994"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Pathogenesis-Related Transcriptional Activator Genes (Pti5 and Pti6) from Musa acuminata (A Genome) and Musa balbisiana (B Genome) Using in Silico Approach",
+        "pub_year": "2021",
+        "citation": "Eco. Env. Cons 27, 84-89, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:KxtntwgDAa4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5729712635922674993",
+      "cites_id": [
+        "5729712635922674993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression study of LeGAPDH, LeACO1, LeACS1A, and LeACS2 in tomato fruit (Solanum lycopersicum)",
+        "pub_year": "2015",
+        "citation": "HAYATI Journal of Biosciences 22 (4), 191-196, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10184753049900903290",
+      "cites_id": [
+        "10184753049900903290"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GROUND BASED STUDY OF THE EFFECT OF OPEN AND CLOSE CHAMBER CONDITION ON BANANA RIPENING PROCESS",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13082548726884352886",
+      "cites_id": [
+        "13082548726884352886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Functional Analysis of the Barley Cellulose Synthase Like C (cslc) Gene Family",
+        "pub_year": "2003",
+        "citation": "University of Melbourne, School of Botany, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8060511567248257191",
+      "cites_id": [
+        "8060511567248257191"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fruit ripening and chitosan coating impacts on the expression profile of Banana Lectin (BanLec) genes",
+        "pub_year": "2024",
+        "citation": "Scientia Horticulturae 335, 113293, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nano-TiO2 enhanced fruit storage chambers: unveiling the potential for prolonging banana shelf life",
+        "pub_year": "2024",
+        "citation": "The Journal of Horticultural Science and Biotechnology, 1-14, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Manufacture and performance test of banana ripe detection tool using laser light backscattering imaging",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2957 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A simple method of plant sectioning using the agarose embedding technique for screening intracellular green fluorescent protein",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Biotechnology 28 (3), 153-157, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:08ZZubdj9fEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ITS2 Isolation in Endemic Loka Pere Banana: A New Potential DNA Barcode Marker",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1242 (1), 012011, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:tOudhMTPpwUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In silico Comparative Analysis of Gene and Protein of Plant Lectins.",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vertical profile of culturable bacteria from the Makassar Strait, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Revealing disease\u2010specific endogenous target mimic of microRNA from long non\u2010coding RNA identification and characterization in Musa spp.",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Biotechnology 28 (1), 56-65, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The deleterious effects of chitosan application on red chili pepper growth and capsaicin biosynthesis under drought stress",
+        "pub_year": "2022",
+        "citation": "Asian Journal of Tropical Biotechnology 19 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TROPICAL AGRICULTURAL SCIENCE",
+        "pub_year": "2021",
+        "citation": "Pertanika J. Trop. Agric. Sci 44 (2), 429-447, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TROPICAL AGRICULTURAL SCIENCE",
+        "pub_year": "2021",
+        "citation": "Pertanika J. Trop. Agric. Sci 44 (4), 697-711, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dataset of microbial community structure in alcohol sprayed banana associated with ripening process",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105216, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Carrageenan Edible Coating Application Prolongs Cavendish Banana Shelf Life",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:738O_yMBCRsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2020",
+        "citation": "Journal of Biosciences 27 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bali Bananas (Musa spp. L.) Genetic relationship based on Internal Transcribed Spacer 2 (ITS-2)",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of Microbial Community Structure and Dynamics of Chitosan Treated Banana During Fruit Ripening Using Omics Technology Approach",
+        "pub_year": "2020",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rizkita R. Esyanti Husna Nugrahapraja Ronny Martien",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POSSIBILITY OF SAP-FEEDING BEETLE, NITIDULIDAE, AS A SPREADING AGENT FOR BLOOD DISEASE BACTERIUM ON THE BANANA PLANT",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (2), 1-5, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic Analysis of Pisang Kepok (Musa spp.[ABB subgroup \u2018Saba\u2019]) and Other Cultivars in Indonesia Based on Internal Transcribed Spacer 2 (ITS2) Region",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Biotechnology 25 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitosan Suppresses the Expression Level of WRKY17 on Red Chili Plant (Capsicum annuum) under Drought Stress",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Biotechnology 25 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Transcriptomics Study on Ripening Process of'Klutuk'Banana (Musa balbisiana: B Genome)",
+        "pub_year": "2019",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Senyawa Fotokatalis untuk Memperpanjang Umur Buah",
+        "pub_year": "2018",
+        "citation": "Bunga Rampai ForMIND 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "METODE PENGATURAN PEMATANGAN BUAH PISANG AMBON LUMUT (Musa acuminata cv. pisang ambon lumut AAA group) DENGAN MANIPULASI GEN YANG BERPERAN DALAM PENGATURAN PEMATANGAN",
+        "pub_year": "2018",
+        "citation": "IN Patent IDP000051217 (granted), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penggunaan Senyawa Fotokatalis Terhadap Kondisi Fisik, Fisiologis, dan Ekspresi Gen (MaACS1 dan MaACO1) Selama Proses Pematangan Buah Pisang Cavendish (Musa acuminata \u2026",
+        "pub_year": "2017",
+        "citation": "Seminar Nasional Ilmu Pengetahuan, Teknologi, dan Seni (Semnas-IPTEKS) 1 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "WADAH UNTUK MENGATUR PEMATANGAN BUAH DARI MATERIAL BAMBU  YANG DIKOMBINASIKAN DENGAN MATERIAL KIMIAWI PEMECAH ETILEN",
+        "pub_year": "2017",
+        "citation": "IN Patent S00,201,708,460, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Indonesian Sago Palm, Unravelling its potential for national development",
+        "pub_year": "2017",
+        "citation": "ISBN : 9786020342771, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Genetika Molekuler Pematangan Buah",
+        "pub_year": "2017",
+        "citation": "ISBN : 9786027861886, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of microgravity simulation using 3D clinostat on cavendish banana (Musa acuminata AAA Group) ripening process",
+        "pub_year": "2016",
+        "citation": "Journal of Physics: Conference Series 771 (1), 012045, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A perspective about the total solar eclipse observation from future space settlements and a review of Indonesian space researches",
+        "pub_year": "2016",
+        "citation": "Journal of Physics: Conference Series 771 (1), 012043, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAYATI Journal of Biosciences",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bunga Rampai ForMIND 2016",
+        "pub_year": "2016",
+        "citation": "Penerbit ITB 1 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pematangan Buah",
+        "pub_year": "2016",
+        "citation": "Bunga Rampai Forum Peneliti Muda Indonesia 2016 1, 1-8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proceeding of International Seminar on Tropical Bio- resources for Sustainable Bio-Industry 2013 (ISTB 2013)",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of induced resistance on banana (Musa acuminata cv. Pisang ambon kuning, AAA group) by indigenous bacterial endophyte against Fusarium oxysporum tropical race 4 (FOC4)",
+        "pub_year": "2016",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptome and Expression Profile Analysis of Banana Genes that Play a Role in Ethylene Synthesis For Application in Agriculture Field",
+        "pub_year": "2016",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimatization of transient transformation methods to study gene expression in Musa acuminata (AAA group) cultivar Ambon Lumut",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimatization of transient transformation methods to study gene expression in Musa acuminata (AAA group) cultivar Ambon...",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677, 090007, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Microgravity on Tomato (Lycopersicum esculantum) cv. Arthaloka F1 and Green Pea (Vigna radiata): Structure, Physiology and Molecular Study",
+        "pub_year": "2014",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of Arabidopsis thaliana genes to produce bacterium resistance plants",
+        "pub_year": "2014",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Space Seeds for Asian Future",
+        "pub_year": "2014",
+        "citation": "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium-mediated stable transformation of medicinal plant Andrographis paniculata callus expressing \u03b2-glucuronidase (GUS) gene",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Biotechnology 18 (2), 92-100, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformasi dan Ekspresi Transien Gen Pelapor Gusa pada Andrographis paniculata (Burm. F.) Wallich Ex Ness (Transformation and Expression of Reporter Gene Gusa on Andrographis \u2026",
+        "pub_year": "2012",
+        "citation": "BIOSLOGOS 2 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "METODE PENGATURAN PEMATANGAN BUAH PISANG AMBON LUMUT (Musa acuminata cv. pisang ambon lumut AAA group) DENGAN MANIPULASI GEN YANG BERPERAN DALAM PENGATURAN PEMATANGAN",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Ilmu Hayati dalam Menjawab Tantangan Pangan di Abad 21",
+        "pub_year": "2012",
+        "citation": "Orasi Ilmiah PMB ITB 2012, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Facing the Challenges of the Twenty First Century",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cell wall biosynthesis in barley suspension cultures and coleoptiles",
+        "pub_year": "2001",
+        "citation": "Cell, T4, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERTANIKA JOURNAL OF SOCIAL SCIENCES AND HUMANITIES",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:D_sINldO8mEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Application of Manganese-Decorated Tio2 as an Ethylene Scavenger to Extend the Shelf Life of Banana Fruit",
+        "citation": "Available at SSRN 4687573, 0"
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Current Research on Biosciences and Biotechnology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative Genomics Analysis of the Pathogenesis-related (PR) Genes on Two Banana Genomes (A and B Genomes) in Response to Banana Blood Disease Infection",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "nxmCduQAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 3,
+    "not_available": 0
+  }
+}

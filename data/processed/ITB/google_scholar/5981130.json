@@ -1,0 +1,348 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "98fHl6AAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Intan Taufik",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=98fHl6AAAAAJ&citpid=1",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Microbiology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 141,
+  "citedby5y": 115,
+  "hindex": 6,
+  "hindex5y": 6,
+  "i10index": 5,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2013": 1,
+    "2014": 4,
+    "2015": 4,
+    "2016": 6,
+    "2017": 5,
+    "2018": 4,
+    "2019": 19,
+    "2020": 13,
+    "2021": 28,
+    "2022": 23,
+    "2023": 22,
+    "2024": 10
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ZrodIwQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Driessen AJ*",
+      "affiliation": "professor of molecular microbiology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_eCcGVcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Alexej Kedrov",
+      "affiliation": "Associate Professor, University of D\u00fcsseldorf"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Monitoring the activity of single translocons",
+        "pub_year": "2013",
+        "citation": "Journal of Molecular Biology 425 (22), 4145-4153, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5423150999308266939",
+      "cites_id": [
+        "5423150999308266939"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of indoor recirculation aquaculture system for white shrimp (Litopenaeus vannamei) growout super-intensive culture at low salinity condition",
+        "pub_year": "2018",
+        "citation": "Journal of Aquaculture Research and Development 9 (04), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:-f6ydRqryjwC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11508108616324239899",
+      "cites_id": [
+        "11508108616324239899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant and antibacterial properties of tree fern Cyathea contaminans",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (5), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13133459286297789165",
+      "cites_id": [
+        "13133459286297789165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant and antibacterial activity of extract from two species of mosses: Leucobryum aduncum and Campylopus schmidii",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (6), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:mB3voiENLucC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7208057887315895368",
+      "cites_id": [
+        "7208057887315895368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of plant growth promoting rhizobacteria (PGPR) diversity and dynamics during growth of Cilembu sweet potato (Ipomoea batatas L var. Rancing) in Cilembu and \u2026",
+        "pub_year": "2017",
+        "citation": "J. Pure Appl. Microbiol 11 (2), 837-845, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:IWHjjKOFINEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17346091675638675089",
+      "cites_id": [
+        "17346091675638675089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Potential of Clove Essential Oil Microemulsion as an Alternative Biocide Against Pseudomonas aeruginosa Biofilm.",
+        "pub_year": "2020",
+        "citation": "Journal of Pure & Applied Microbiology 14 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4734976481681695449",
+      "cites_id": [
+        "4734976481681695449"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-inflammatory activity of Indonesian propolis in Zebrafish (Danio rerio) larvae",
+        "pub_year": "2020",
+        "citation": "Journal of Food and Nutrition Research 8 (5), 225-230, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:TQgYirikUcIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9131628390861681972",
+      "cites_id": [
+        "9131628390861681972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of lemongrass (Cymbopogon citratus) essential oil on biofilm-biocorrosion in formation water environment",
+        "pub_year": "2018",
+        "citation": "Asian J. Sci. Res 11, 329-336, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14749667883592276165",
+      "cites_id": [
+        "14749667883592276165"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological Profiling and Microorganism Community Analysis of Cirebon Shrimp Paste Fermentation \"Terasi\" using Biolog Ecoplate",
+        "pub_year": "2018",
+        "citation": "Mikrobiologi Indonesia 12, 15-22, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:HDshCWvjkbEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11684836473455555273",
+      "cites_id": [
+        "11684836473455555273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial Nanocellulose from Symbiotic Culture of Bacteria and Yeast Kombucha Prepared with Lemongrass Tea and Sucrose: Optimization and Characterization.",
+        "pub_year": "2023",
+        "citation": "BioResources 18 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14938230648903192501",
+      "cites_id": [
+        "14938230648903192501"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The relation between agent-based model and susceptible-infected-recovered model for spread of disease",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2320 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14134377996278282412",
+      "cites_id": [
+        "14134377996278282412"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of biosurfactant production by bacteria isolated from crude oil through adaptation laboratory evolution",
+        "pub_year": "2023",
+        "citation": "Geomicrobiology Journal 40 (2), 123-130, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8452964359172455182",
+      "cites_id": [
+        "8452964359172455182"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alteration of Basal Blood Glucose Level and Microbiota Metabolic Parameters in Rats Fed with Brown Rice and Herbal Extracts",
+        "pub_year": "2019",
+        "citation": "Journal of Food and Nutrition Research 7 (2), 162-170, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16563614805233576168",
+      "cites_id": [
+        "16563614805233576168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SWEET POTATO (Ipomoea batatas L.) BASED MICROBIAL CELLULOSE AS ADVANCED BIOMATERIAL FOR SUSTAINABLE LEATHER PRODUCTION.",
+        "pub_year": "2019",
+        "citation": "Suranaree Journal of Science & Technology 26 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7288239840359918470",
+      "cites_id": [
+        "7288239840359918470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Konsentrat Pakan Ruminansia dari Kulit Kopi dan Dedak yang Difermentasi dengan Jamur Tiram Putih (Pleurotus ostreatus)",
+        "pub_year": "2019",
+        "citation": "Jurnal Mikologi Indonesia 3 (1), 10-24, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mechanism of the translocon: events at the gate",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamics of the Interaction between the Two Helix Finger of SecA ATPase and SecYEG",
+        "pub_year": "2019",
+        "citation": "Mechanism of The Translocon: Events at The Gate, 79, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Effect of Lemongrass (Cymbopogon citratus) Essential Oil on Biofilm-biocorrossion in Formation Water Environment",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological Profiling and Microorganism Community Analysis of Cirebon",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "98fHl6AAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

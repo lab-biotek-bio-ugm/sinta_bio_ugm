@@ -1,0 +1,790 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "kMck5tgAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ernawati Arifin Giri-Rachman",
+  "affiliation": "School of Life Science and Technology ITB",
+  "interests": [
+    "Medical microbiology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 454,
+  "citedby5y": 283,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 7,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2012": 4,
+    "2013": 2,
+    "2014": 12,
+    "2015": 22,
+    "2016": 40,
+    "2017": 41,
+    "2018": 44,
+    "2019": 48,
+    "2020": 41,
+    "2021": 63,
+    "2022": 64,
+    "2023": 41,
+    "2024": 26
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Probiotic Lactobacillus rhamnosus GG enhanced Th1 cellular immunity but did not affect antibody responses in a human gut microbiota transplanted neonatal gnotobiotic pig model",
+        "pub_year": "2014",
+        "citation": "PloS one 9 (4), e94504, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 78,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=621494670819495613",
+      "cites_id": [
+        "621494670819495613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "High Protective Efficacy of Probiotics and Rice Bran against Human Norovirus Infection and Diarrhea in Gnotobiotic Pigs.",
+        "pub_year": "2016",
+        "citation": "Front Microbiol 7 (1699), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 73,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2752059048343340142",
+      "cites_id": [
+        "2752059048343340142"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intranasal P particle vaccine provided partial cross-variant protection against human GII. 4 norovirus diarrhea in gnotobiotic pigs",
+        "pub_year": "2014",
+        "citation": "Journal of virology 88 (17), 9728-9743, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 66,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13310586557997858185",
+      "cites_id": [
+        "13310586557997858185"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Probiotics and virulent human rotavirus modulate the transplanted human gut microbiota in gnotobiotic pigs",
+        "pub_year": "2014",
+        "citation": "Gut pathogens 6, 1-7, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 65,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11152701363314317008",
+      "cites_id": [
+        "11152701363314317008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lactobacillus rhamnosus GG modulates innate signaling pathway and cytokine responses to rotavirus vaccine in intestinal mononuclear cells of gnotobiotic pigs \u2026",
+        "pub_year": "2016",
+        "citation": "BMC microbiology 16, 1-14, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13891133948766733961",
+      "cites_id": [
+        "13891133948766733961"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cholera toxin B subunits assemble into pentamers-proposition of a fly-casting mechanism",
+        "pub_year": "2010",
+        "citation": "PLoS One 5 (12), e15347, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7858753875445894015",
+      "cites_id": [
+        "7858753875445894015"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthetic biology-based portable in vitro diagnostic platforms",
+        "pub_year": "2018",
+        "citation": "Alexandria journal of medicine 54 (4), 423-428, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:4DMP91E08xMC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11026630807788153188",
+      "cites_id": [
+        "11026630807788153188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Knowledge, attitude, and practice towards hepatitis B infection prevention and screening among Indonesians",
+        "pub_year": "2022",
+        "citation": "International Journal of Environmental Research and Public Health 19 (8), 4644, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11920896222497595028",
+      "cites_id": [
+        "11920896222497595028"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The expression of essential components for human influenza virus internalisation in Vero and MDCK cells",
+        "pub_year": "2014",
+        "citation": "Cytotechnology 66, 515-523, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8276160184281875103",
+      "cites_id": [
+        "8276160184281875103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of the Immunostimulatory Effect of Phosphodiester CpG Oligodeoxynucleotides by an Antiparallel Guanine-Quadruplex Structural Scaffold",
+        "pub_year": "2021",
+        "citation": "Biomolecules 11 (11), 1617, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:dhFuZR0502QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8088741787064564909",
+      "cites_id": [
+        "8088741787064564909"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nasopharyngeal carriage and antimicrobial susceptibility profile of Haemophilus influenzae among patients infected with HIV in Jakarta, Indonesia",
+        "pub_year": "2020",
+        "citation": "Access Microbiology 2 (12), e000165, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:-f6ydRqryjwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14397922471631580198",
+      "cites_id": [
+        "14397922471631580198"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and Expression of Small Hepatitis B Surface Antigen (sHBsAg) In Hansenula polymorpha",
+        "pub_year": "2016",
+        "citation": "Microbiology Indonesia 10 (4), 1, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:Zph67rFs4hoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1804241338135248016",
+      "cites_id": [
+        "1804241338135248016"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNA sequence analysis of nasopharyngeal swabs from asymptomatic and mildly symptomatic patients with COVID-19",
+        "pub_year": "2022",
+        "citation": "International Journal of Infectious Diseases 122, 449-460, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:hC7cP41nSMkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16451493832121658792",
+      "cites_id": [
+        "16451493832121658792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plasmid construction for development of a high throughput system selection of new anti-HIV drugs derived from biological resources Indonesia",
+        "pub_year": "2018",
+        "citation": "Biotechnol Ind J 14 (3), 166, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2084237260747525529",
+      "cites_id": [
+        "2084237260747525529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Complete Genome Sequence of Bordetella pertussis Pelita III, the Production Strain for an Indonesian Whole-Cell Pertussis Vaccine",
+        "pub_year": "2017",
+        "citation": "genome announcements 5 (17), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16379975320089582370",
+      "cites_id": [
+        "16379975320089582370"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction, expression and characterization of multi cassettes encoding indonesian small hepatitis b surface antigen (s-HBsAg) in methylotropic yeast Pichia pastoris",
+        "pub_year": "2015",
+        "citation": "Biotechnology 14 (5), 225, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:WF5omc3nYNoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6073090891698697658",
+      "cites_id": [
+        "6073090891698697658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular cloning of PhoR sensor domain from Mycobacterium tuberculosis for structure-based discovery of novel anti-tubercular",
+        "pub_year": "2012",
+        "citation": "Journal of Life Sciences 6 (3), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10695445876761215871",
+      "cites_id": [
+        "10695445876761215871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Curcumin-derived carbon-dots as a potential COVID-19 antiviral drug",
+        "pub_year": "2023",
+        "citation": "Heliyon 9 (9), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14125297490057836114",
+      "cites_id": [
+        "14125297490057836114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Infectious Disease Modeling with Socio-Viral Behavioral Aspects\u2014Lessons Learned from the Spread of SARS-CoV-2 in a University",
+        "pub_year": "2022",
+        "citation": "Tropical Medicine and Infectious Disease 7 (10), 289, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5656199548276992557",
+      "cites_id": [
+        "5656199548276992557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integration stability of sHBsAg-multi expression cassettes in Pichia pastoris GS115 during methanol induction",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (4), 283-283, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11216035509039857531",
+      "cites_id": [
+        "11216035509039857531"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression and purification of PhoR sensor-domain histidine kinase of mycobacterium tuberculosis in Escherichia coli",
+        "pub_year": "2015",
+        "citation": "Microbiology Indonesia 9 (2), 1-1, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:IWHjjKOFINEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11484586753982327222,7161471051843233048",
+      "cites_id": [
+        "11484586753982327222",
+        "7161471051843233048"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lactobacillus rhamnosus GG (LGG) enhances virus-specific effector T cell responses induced by human rotavirus vaccine in neonatal human gut microbiota associated gnotobiotic \u2026",
+        "pub_year": "2013",
+        "citation": "The Journal of Immunology 190 (1_Supplement), 182.12-182.12, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:qjMakFHDy7sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4834336183560266987",
+      "cites_id": [
+        "4834336183560266987"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular analysis of immune-escape mutants of hepatitis B virus from local clinical samples",
+        "pub_year": "2012",
+        "citation": "Microbiology Indonesia 6 (1), 2, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10392879902793470858",
+      "cites_id": [
+        "10392879902793470858"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The SARS-CoV-2 Mpro Dimer-Based Screening System: A Synthetic Biology Tool for Identifying Compounds with Dimerization Inhibitory Potential",
+        "pub_year": "2024",
+        "citation": "ACS Synthetic Biology, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:hMod-77fHWUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8075739409652267023",
+      "cites_id": [
+        "8075739409652267023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Porphyrin-derived carbon dots for an enhanced antiviral activity targeting the CTD of SARS-CoV-2 nucleocapsid",
+        "pub_year": "2023",
+        "citation": "Journal of Genetic Engineering and Biotechnology 21 (1), 93, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10429872815783593630",
+      "cites_id": [
+        "10429872815783593630"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SARS-CoV-2 Neutralization Assay System using Pseudo-lentivirus",
+        "pub_year": "2023",
+        "citation": "The Indonesian Biomedical Journal 15 (2), 179-86, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5404645693406450526",
+      "cites_id": [
+        "5404645693406450526"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of PCR and BsmAI restriction combination targeting wciP gene to determine serotype 6A, 6B, 6C and 6D Streptococcus pneumoniae",
+        "pub_year": "2020",
+        "citation": "Journal of microbiological methods 172, 105909, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8965221041324945875",
+      "cites_id": [
+        "8965221041324945875"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning, Overexpression, and Purification of PhoR CytoplasmicDomain Protein from Mycobacterium tuberculosis strain H37Rv",
+        "pub_year": "2014",
+        "citation": "Microbiology Indonesia 8 (4), 1-1, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2816678278727468063",
+      "cites_id": [
+        "2816678278727468063"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Role of Lys59 and Lys386 of Streptokinase from Type 12 Group A Streptococcus on In vitro Stability against Plasmin Cleavage",
+        "pub_year": "2013",
+        "citation": "Journal of Pure and Applied Microbiology 7 (4), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=58192389479918564",
+      "cites_id": [
+        "58192389479918564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Mutasi pada Quinolone Resistant Determining Regions (QRDRs) Gen gyrA pada Salmonella typhi Isolat Klinik dan Galur Khas Indonesia",
+        "citation": "Maranatha Journal of Medicine and Health 9 (1), 150269, 0"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13552190647438570149",
+      "cites_id": [
+        "13552190647438570149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial count and AvBD10 expressions in ovaries and oviducts of Kampung Unggul Balitbangtan (KUB)-1 chickens following intravaginally CpG-ODN and S. enteritidis",
+        "pub_year": "2024",
+        "citation": "Journal of Biodiversity and Biotechnology 9 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Designing a Novel Multiepitope Vaccine from the Human Papilloma Virus E1 and E2 Proteins for Indonesia with Immunoinformatics and Molecular Dynamics Approaches",
+        "pub_year": "2024",
+        "citation": "ACS omega 9 (14), 16547-16562, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of Plasmid Volumetric Yield by Addition of Glycerol and Phosphate Buffer in Escherichia coli TOP10 Batch Culture",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (3), 572-580, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Adenovirus-Based Covid-19 Vaccine Candidate in Indonesia",
+        "pub_year": "2024",
+        "citation": "Molecular Biotechnology 66 (2), 222-232, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-HBsAg IgY polyclonal antibodies potential as capture antibody for HBsAg detection kit development",
+        "pub_year": "2024",
+        "citation": "Current Research on Biosciences and Biotechnology 5 (2), 1-4, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immunogenicity studies of recombinant RBD SARS-CoV-2 as a COVID-19 vaccine candidate produced in Escherichia coli",
+        "pub_year": "2024",
+        "citation": "Vaccine: X 16, 100443, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Characteristics and Evolutionary Relationships of Toll -Like Receptor (TLR21) of Indonesian KUB-1 Chicken",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmu Ternak dan Veteriner 28 (4), 274-286, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Chimeric Hepatitis B (HBV)\u2013Norovirus (NoV) P particle as candidate vaccine against Hepatitis B and norovirus infection",
+        "pub_year": "2023",
+        "citation": "Vaccine: X 14, 100354, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Study of Splicing Variations on Angiotensin-Converting Enzyme 2 (ACE2) and Its Effects on Infection from SARS-CoV-2",
+        "pub_year": "2023",
+        "citation": "Microbiology Indonesia 17 (2), x-x, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of Human Antibodies Against HBsAg in Newly Established Chinese Hamster Lung (CHL-YN) Cell Line",
+        "pub_year": "2023",
+        "citation": "Journal of Mathematical and Fundamental Sciences, Institut Teknologi Bandung \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Impact of Restricting Community Activities on COVID-19 Transmission: A Case Study in Sumatra Island, Indonesia",
+        "pub_year": "2022",
+        "citation": "The International Conference on Data Science and Emerging Technologies, 480-493, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design of Adenovirus 5 Vector with Adenovirus 26 Hexon Hypervariable Region Sequence using In Silico Approach",
+        "pub_year": "2022",
+        "citation": "Microbiology Indonesia 16 (2), 31-36, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Translational Bioinformatics of HIV Peptide 2.0: From Dry To Wet Bench",
+        "pub_year": "2021",
+        "citation": "BIO Web of Conferences 41, 02002, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS DAN KARAKTERISTIK PROMOTER GEN ZIF23 UNTUK PENGEMBANGAN SISTEM PENAPISAN ANTITUBERKULAR BARU",
+        "pub_year": "2018",
+        "citation": "Jurnal Kesehatan Kartika 11 (1), 1-6, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Complete Genome Sequence of Bordetella pertussis Pelita III, the Production Strain for an Indonesian Whole-Cell Pertussis Vaccine",
+        "pub_year": "2017",
+        "citation": "Microbiology Resource Announcements 5 (17), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lactobacillus rhamnosus GG modulates innate signaling pathway and cytokine responses to rotavirus vaccine in intestinal mononuclear cells of gnotobiotic pigs \u2026",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "High protective efficacy of probiotics and rice bran against human norovirus infection and diarrhea in gnotobiotic pigs.",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular cloning and cold shock induced overexpression of the DNA encoding phor sensor domain from Mycobacterium tuberculosis as a target molecule for \u2026",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 407-410, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sequence Analysis of Putative potB, potC, and potD Genes from Serratia rubidae",
+        "pub_year": "2010",
+        "citation": "Microbiology Indonesia 4 (2), 8-8, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction of Binary Vector With Wound Inducible Promoter for Hbsag Expression: Development of Plant-Based Edible Hepatitis B Vaccine from Indonesian Isolate",
+        "pub_year": "2007",
+        "citation": "ANNALES BOGORIENSES 11 (1), 7-14, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The CPX two component regulatory system of V. cholerae",
+        "pub_year": "2003",
+        "citation": "University of Bristol, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary Study of Mobile Real-Time Polymerase Chain Reaction (M-RT-PCR) for Avian Influenza Diagnosis",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kMck5tgAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 8,
+    "not_available": 1
+  }
+}

@@ -1,0 +1,866 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "JlXXhaoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "atmawi darwis",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JlXXhaoAAAAJ&citpid=2",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Wood Anatomy",
+    "Biology",
+    "Wood Properties"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 326,
+  "citedby5y": 273,
+  "hindex": 11,
+  "hindex5y": 10,
+  "i10index": 11,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "2010": 1,
+    "2011": 3,
+    "2012": 0,
+    "2013": 0,
+    "2014": 10,
+    "2015": 7,
+    "2016": 5,
+    "2017": 11,
+    "2018": 15,
+    "2019": 17,
+    "2020": 33,
+    "2021": 40,
+    "2022": 61,
+    "2023": 70,
+    "2024": 49
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NbaGzmIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eka Mulya Alamsyah",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5gzgb-MAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Naresworo Nugroho",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NKwijRcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Effendi Tri Bahtiar",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bQeld_wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muh Yusram Massijaya",
+      "affiliation": "Professor of Biocomposite, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "7Ae48vEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tekat Dwi Cahyono",
+      "affiliation": "Professor of Wood Sci. and Tech. Universitas Darussalam Ambon"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ITv7pkwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dodik Ridho Nurrochmat",
+      "affiliation": "Dept of Forest Management - IPB University, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KToHbXAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "RAHMAT SAFE'I",
+      "affiliation": "LAMPUNG UNIVERSITY"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Wyp1-I4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wahyu Dwianto",
+      "affiliation": "Doctor of Wood Science and Technology, Indonesian Institute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bv74r_kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Imam Wahyudi",
+      "affiliation": "Prof. of Wood Science and Technology"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dWNiZwgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Pingkan Aditiawati",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9ODN8HgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sri Aprilia",
+      "affiliation": "Chemical Engineering Department  Engineering Faculty University of Syiah Kuala"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "WVY7joEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Abdul Khalil, H.P.S., PhD, FIMMM, FIA...",
+      "affiliation": "Professor in Biopolymers & Biocomposites; School of Industrial Technology, Universiti Sains"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5VjlHLwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rudi Dungani",
+      "affiliation": "School of Life Sciences and Technology, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uj9KF-wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Aminudin Sulaeman",
+      "affiliation": "Chemistry Dept., Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OPxyT_cAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Medyan Riza",
+      "affiliation": "Professor of Chemical Engineering, Universitas Syiah Kuala"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SuLHH9UAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ratih Damayanti",
+      "affiliation": "FORDA, Ministry of Forestry"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gsyLiEAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ignasia Maria Sulastiningsih",
+      "affiliation": "Pusat Riset Biomassa dan Bioproduk (Research Center for Biomass and Bioproducts)"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vascular bundle distribution effect on density and mechanical properties of oil palm trunk.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8138466544149033510",
+      "cites_id": [
+        "8138466544149033510"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Densified wood anatomical structure and the effect of heat treatment on the recovery of set",
+        "pub_year": "2017",
+        "citation": "Journal of the Indian Academy of Wood Science 14, 24-31, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:UebtZRa9Y70C",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7815060437768210109",
+      "cites_id": [
+        "7815060437768210109"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bionanomaterial from agricultural waste and its application",
+        "pub_year": "2017",
+        "citation": "Cellulose-Reinforced Nanofibre Composites, 45-88, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14595043079696195311",
+      "cites_id": [
+        "14595043079696195311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical, Physical, and Mechanical Properties of Belangke Bamboo (Gigantochloa pruriens) and Its Application as a Reinforcing Material in Particleboard \u2026",
+        "pub_year": "2022",
+        "citation": "Polymers 14 (15), 3111, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4248143244028066654",
+      "cites_id": [
+        "4248143244028066654"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological Characteristics of Bambusa vulgaris and the Distribution and Shape of Vascular Bundles therein",
+        "pub_year": "2018",
+        "citation": "Journal of the Korean Wood Science and Technology 46 (4), 315-322, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9729193946902717520",
+      "cites_id": [
+        "9729193946902717520"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of quantitative anatomical characteristics in the culm of belangke bamboo (Gigantochloa pruriens)",
+        "pub_year": "2020",
+        "citation": "BioResources 15 (3), 6617-6626, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:IWHjjKOFINEC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5131048923795320173",
+      "cites_id": [
+        "5131048923795320173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wood chemical compositions of Raru species originating from central Tapanuli, North Sumatra, Indonesia: Effect of differences in wood species and log positions",
+        "pub_year": "2021",
+        "citation": "Journal of the Korean Wood Science and Technology 49 (5), 416-429, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15148427536798767501",
+      "cites_id": [
+        "15148427536798767501"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik papan laminasi dari batang kelapa sawit (The Characteristics of the laminated board of oil palm trunk)",
+        "pub_year": "2014",
+        "citation": "J. Ilmu Teknol. kayu Trop, 157-168, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:aqlVkmm33-oC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4612674823961840169",
+      "cites_id": [
+        "4612674823961840169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond ability of oil palm xylem with isocyanate adhesive",
+        "pub_year": "2014",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 12 (1), 39-47, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12559149073679476604",
+      "cites_id": [
+        "12559149073679476604"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The possible use of surian tree (Toona sinensis Roem) branches as an alternative raw material in the production of composite boards",
+        "pub_year": "2020",
+        "citation": "Journal of wood science 66, 1-6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4856166613766135667",
+      "cites_id": [
+        "4856166613766135667"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation in chemical constituent of Styrax sumatrana wood growing at different cultivation site in North Sumatra, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (2), 448-452, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:4DMP91E08xMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12974283027618043322",
+      "cites_id": [
+        "12974283027618043322"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incorporation of phenol-formaldehyde-based black liquor as an adhesive on the performance of plywood.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15603797607530172558",
+      "cites_id": [
+        "15603797607530172558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rasio ikatan pembuluh sebagai substitusi rasio modulus elastisitas pada analisa layer system pada bilah bambu dan bambu laminasi",
+        "pub_year": "2014",
+        "citation": "Jurnal Teknik Sipil ITB 21 (2), 147-162, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5694270786787689646",
+      "cites_id": [
+        "5694270786787689646"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh kerapatan dan ukuran partikel terhadap sifat fisis dan mekanis papan partikel kayu suren (Toana Sureni Merr)",
+        "pub_year": "2004",
+        "citation": "Proceeding Mapeki VII, Makasar, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=995388771934964836",
+      "cites_id": [
+        "995388771934964836"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exponential curve modification by linear and nonlinear function to fit the fiber length of teakwood (Tectona grandis).",
+        "pub_year": "2014",
+        "citation": "Journal of Biological Sciences 14 (3), 183-194, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5394412410669662453",
+      "cites_id": [
+        "5394412410669662453"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan sisa umur pakai kayu komponen cooling tower di Pembangkit Listrik Tenaga Panas bumi (PLTP) unit II Kamojang",
+        "pub_year": "2012",
+        "citation": "J. Tek. Sipil 19, 103-113, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13909311284887389175",
+      "cites_id": [
+        "13909311284887389175"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Presentase Kayu Teras dan Kayu Gubal serta Penentuan Kayu Juvenil dan Kayu Dewasa pada Lima Kelas Umur Jati (Tectona grandis Lf) The Percentage of Heartwood and Sapwood and \u2026",
+        "pub_year": "2005",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 3 (1), 6-8, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4088749828149034392",
+      "cites_id": [
+        "4088749828149034392"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fiksasi kayu agathis dan gmelina terpadatkan pada arah radial serta observasi struktur anatominya",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11353246949784698739",
+      "cites_id": [
+        "11353246949784698739"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality enhancement of falcataria-wood through impregnation",
+        "pub_year": "2020",
+        "citation": "Journal of the Korean Wood Science and Technology 48 (5), 722-731, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:qUcmZB5y_30C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15528220573268044845",
+      "cites_id": [
+        "15528220573268044845"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of several exterior adhesive types on dimensional stability of bamboo oriented particleboard",
+        "pub_year": "2019",
+        "citation": "Korean Journal of Materials Research 29 (5), 277-281, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8671716399187308263",
+      "cites_id": [
+        "8671716399187308263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristic of vascular bundles and morphology of Gigantochloa apus (JA and JH Schulltes) Kurz culm.",
+        "pub_year": "2018",
+        "citation": "Asian Journal of Plant Sciences 17 (3), 129-133, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:hC7cP41nSMkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14670483502344731580",
+      "cites_id": [
+        "14670483502344731580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of vascular bundles and fiber sheaths in nodes and internodes of Gigantochloa apus bamboo strips on tensile strength",
+        "pub_year": "2023",
+        "citation": "Journal of the Korean Wood Science and Technology 51 (4), 309-319, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:isC4tDSrTZIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3436109917942324239",
+      "cites_id": [
+        "3436109917942324239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical properties of Hibiscus macrophyllus and its mature wood development",
+        "pub_year": "2021",
+        "citation": "IAWA Journal 42 (4), 475-485, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987137517948474492",
+      "cites_id": [
+        "987137517948474492"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Anatomi Kayu Surian (Toona sinensis Roem)",
+        "pub_year": "2012",
+        "citation": "Jurnal Ilmu dan Teknologi Kayu Tropis 10 (2), 159-167, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:maZDTaKrznsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3789029893009891936",
+      "cites_id": [
+        "3789029893009891936"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of Isocyanate Content and Hot-Pressing Temperatures on the Physical\u2013Mechanical Properties of Particleboard Bonded with a Hybrid Urea\u2013Formaldehyde/Isocyanate Adhesive",
+        "pub_year": "2023",
+        "citation": "Forests 14 (2), 320, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18243230668827071017",
+      "cites_id": [
+        "18243230668827071017"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical properties, crystallinity, and fiber biometry of Jabon (Anthocephalus cadamba) wood for pulp raw material: the effect of age and position",
+        "pub_year": "2024",
+        "citation": "Nordic Pulp & Paper Research Journal 39 (1), 61-71, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:hMod-77fHWUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2819679936204731576",
+      "cites_id": [
+        "2819679936204731576"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bond quality of laminated wood made from surian (Toona sinensis Roem) and sengon (Paraserianthes falcataria (L.) Nielsen).",
+        "pub_year": "2018",
+        "citation": "Journal of Biological Sciences 18 (1), 32-38, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:-f6ydRqryjwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3602203240875128192",
+      "cites_id": [
+        "3602203240875128192"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Transformasi Penampang Kayu Laminasi Kelapa Sawit menggunakan Model Distribusi Ikatan Pembuluh",
+        "pub_year": "2015",
+        "citation": "IPB (Bogor Agricultural University), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:TQgYirikUcIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8899854448973263298",
+      "cites_id": [
+        "8899854448973263298"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modified Grain Orientation of Laminated Veneer Lumber Characteristics of Three Fast-Growing Tropical Wood Species.",
+        "pub_year": "2023",
+        "citation": "BioResources 18 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17162911510246729305",
+      "cites_id": [
+        "17162911510246729305"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis layer system bambu laminasi berdasarkan penyebaran kerapatan ikatan pembuluhnya",
+        "pub_year": "2013",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 18 (1), 29-42, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3834563056905155393",
+      "cites_id": [
+        "3834563056905155393"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEKUATAN TEKAN DAN RASIO POISSON KAYU PANGSOR (Ficus callosa WILLD) DAN KECAPI (Sandoricum kucape MERR) Compression Strength and Poisson\u2019s Ratio of Pangsor (Ficus callosa WILLD \u2026",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmu dan Teknologi Hasil Hutan 4 (1), 1-7, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12666783501536174460",
+      "cites_id": [
+        "12666783501536174460"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of degumming of two selected Indonesian Ramie (Boehmeria nivea) accessions on the anatomical, chemical, mechanical, and thermal properties",
+        "pub_year": "2024",
+        "citation": "Industrial Crops and Products 216, 118725, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of chemically modified wood particles on the termite durability of sandwich particleboard from Cotylelobium melanoxylon and Gigantochloa pruriens",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1352 (1), 012020, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hot-pressing effect on the termite durability of sandwich particleboards from Styrax sumatrana and Gigantochloa pruriens",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1352 (1), 012021, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Qualitative Anatomical Characteristics and Fiber Quality of Tapped Styrax sumatrana Wood Grown in North Sumatra, Indonesia",
+        "pub_year": "2024",
+        "citation": "Forests 15 (3), 509, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of staining betung bamboo (Dendrocalamus asper) using natural and synthetic dyes with and without the addition of preservatives",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1309 (1), 012002, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Tapped Styrax sumatrana Wood Anatomy",
+        "pub_year": "2024",
+        "citation": "\ud55c\uad6d\ubaa9\uc7ac\uacf5\ud559 \ud559\uc220\ubc1c\ud45c\ub17c\ubb38\uc9d1 (Conference Proceedings) 2024 (1), 45-45, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Impregnation with Diammonium Phosphate and Sodium Silicate on Some Physical and Mechanical Properties of Modified Laminated Veneer Lumber Made of Jabon Wood.",
+        "pub_year": "2024",
+        "citation": "BioResources 19 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Simalambuo (Lophopetalum sp.) wood from Nias Island, North Sumatra Province, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (7), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ketahanan Batang Kelapa Sawit Diimpregnasi Resin Pinus dan Serbuk Kayu Surian Terhadap Rayap dan Cuaca",
+        "pub_year": "2021",
+        "citation": "Jurnal Selulosa 11 (02), 89-102, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Particleboard from kemenyan wood and belangke bamboo: effect of particle pre-treatment in acidic solution",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 912 (1), 012049, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The properties of particleboards made from non-wood lignocellulose materials bonded with melamine formaldehyde resin",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 912 (1), 012061, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of particle soaking in acetic acid and NaOH solutions on the quality of sandwich particleboard from raru wood and belangke bamboo",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 886 (1), 012015, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The resistance of Styrax sumatrana wood of varying growth sites and stem axial positions to subterranean termite (Coptotermes curvignathus) attack",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FLAT-PRESSED WOOD PLASTIC COMPOSITES FROM COMMUNITY FOREST WOOD BARK AND RECYCLED POLYPROPYLENE: THE EFFECT OF PRESSING TEMPERATURE ON THE PHYSICAL, MECHANICAL, AND \u2026",
+        "pub_year": "2021",
+        "citation": "Journal of Southwest Jiaotong University 56 (4), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Acetic Acid and Acetic Anhydride Ratio to Physical and Mechanical Properties of Particleboard",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 454 (1), 012042, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "JlXXhaoAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

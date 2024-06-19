@@ -1,0 +1,1252 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "6IehtUsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Robert Manurung",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6IehtUsAAAAJ&citpid=4",
+  "affiliation": "Professor of Process Design for Bioconversion, Bandung Institute of Technology",
+  "organization": 17169084783747613010,
+  "interests": [
+    "bioengineering",
+    "biobased products",
+    "bioconversion",
+    "industrial symbiosis",
+    "circular bioeconomy"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "http://www.sith.itb.ad.id/eh/",
+  "citedby": 2020,
+  "citedby5y": 1053,
+  "hindex": 23,
+  "hindex5y": 17,
+  "i10index": 37,
+  "i10index5y": 29,
+  "cites_per_year": {
+    "2004": 8,
+    "2005": 6,
+    "2006": 8,
+    "2007": 11,
+    "2008": 15,
+    "2009": 34,
+    "2010": 53,
+    "2011": 67,
+    "2012": 65,
+    "2013": 92,
+    "2014": 80,
+    "2015": 114,
+    "2016": 87,
+    "2017": 126,
+    "2018": 146,
+    "2019": 172,
+    "2020": 162,
+    "2021": 251,
+    "2022": 196,
+    "2023": 205,
+    "2024": 66
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and kinetic modelling studies on the acid-catalysed hydrolysis of the water hyacinth plant to levulinic acid",
+        "pub_year": "2008",
+        "citation": "Bioresource technology 99 (17), 8367-8375, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:Zph67rFs4hoC",
+      "num_citations": 297,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15875445928869026794",
+      "cites_id": [
+        "15875445928869026794"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of rice straw waste by black soldier fly larvae (Hermetia illucens L.): optimal feed rate for biomass production",
+        "pub_year": "2016",
+        "citation": "J. Entomol. Zool. Stud 4 (4), 1036-1041, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:-f6ydRqryjwC",
+      "num_citations": 181,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11210698608919237875",
+      "cites_id": [
+        "11210698608919237875"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass to fuels: upgrading of flash pyrolysis oil by reactive distillation using a high boiling alcohol and acid catalysts",
+        "pub_year": "2007",
+        "citation": "Process Safety and Environmental Protection 85 (5), 466-472, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 173,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15738046577271308946",
+      "cites_id": [
+        "15738046577271308946"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of higher fatty acid starch esters using vinyl laurate and stearate as reactants",
+        "pub_year": "2008",
+        "citation": "Starch\u2010St\u00e4rke 60 (12), 667-675, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 109,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14808880381311609148",
+      "cites_id": [
+        "14808880381311609148"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of mechanical oil extraction from Jatropha curcas L. kernel using response surface method",
+        "pub_year": "2015",
+        "citation": "Industrial Crops and Products 63, 294-302, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 106,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4959052508758299003",
+      "cites_id": [
+        "4959052508758299003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorisation of Jatropha curcas L. plant parts: Nut shell conversion to fast pyrolysis oil",
+        "pub_year": "2009",
+        "citation": "Food and Bioproducts Processing 87 (3), 187-196, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 102,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11446367588859193950",
+      "cites_id": [
+        "11446367588859193950"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mechanical extraction of oil from Jatropha curcas L. kernel: Effect of processing parameters",
+        "pub_year": "2015",
+        "citation": "Industrial Crops and Products 63, 303-310, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 77,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4622687471820190784",
+      "cites_id": [
+        "4622687471820190784"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental studies on the carboxymethylation of arrowroot starch in isopropanol\u2010water media",
+        "pub_year": "2003",
+        "citation": "Starch\u2010St\u00e4rke 55 (11), 495-503, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 66,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8728884572996627777",
+      "cites_id": [
+        "8728884572996627777"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth of black soldier larvae fed on cassava peel wastes, An agriculture waste",
+        "pub_year": "2016",
+        "citation": "Journal of Entomology and Zoology Studies 4 (6), 161-165, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 64,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3004543491973423266",
+      "cites_id": [
+        "3004543491973423266"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploratory studies on the carboxymethylation of cassava starch in water\u2010miscible organic media",
+        "pub_year": "2004",
+        "citation": "Starch\u2010St\u00e4rke 56 (3\u20104), 100-107, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16158067566160973300",
+      "cites_id": [
+        "16158067566160973300"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and modeling studies on the synthesis and properties of higher fatty esters of corn starch",
+        "pub_year": "2009",
+        "citation": "Starch\u2010St\u00e4rke 61 (2), 69-80, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 50,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16530453380886525327",
+      "cites_id": [
+        "16530453380886525327"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiesel synthesis from Jatropha curcas L. oil and ethanol in a continuous centrifugal contactor separator",
+        "pub_year": "2013",
+        "citation": "European Journal of Lipid Science and Technology 115 (1), 123-131, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4854177843994731866",
+      "cites_id": [
+        "4854177843994731866"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and properties of highly branched Jatropha curcas L. oil derivatives",
+        "pub_year": "2011",
+        "citation": "European journal of lipid science and technology 113 (1), 18-30, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1899258955575766657",
+      "cites_id": [
+        "1899258955575766657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and properties of cross\u2010linked polymers from epoxidized rubber seed oil and triethylenetetramine",
+        "pub_year": "2015",
+        "citation": "Journal of applied polymer science 132 (40), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:8k81kl-MbHgC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5639321225095916663",
+      "cites_id": [
+        "5639321225095916663"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of tree age on the yield, productivity, and chemical composition of essential oil from Cinnamomum burmannii",
+        "pub_year": "2019",
+        "citation": "Current Research on Biosciences and Biotechnology 1 (1), 17-22, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10177649682318666243",
+      "cites_id": [
+        "10177649682318666243"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of rubber seeds to produce protein and oil-rich biomass using black soldier fly larva assisted by microbes",
+        "pub_year": "2017",
+        "citation": "J. Entomol. Zool. Stud 5 (4), 591-597, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:r0BpntZqJG4C",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7148254043522398494",
+      "cites_id": [
+        "7148254043522398494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modeling and simulation of an open core down-draft moving bed rice husk gasifier",
+        "pub_year": "1993",
+        "citation": "Advances in thermochemical biomass conversion, 288-309, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12658144791617204955",
+      "cites_id": [
+        "12658144791617204955"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factors affecting the bioconversion of Philippine tung seed by black soldier fly larvae for the production of protein and oil-rich biomass",
+        "pub_year": "2018",
+        "citation": "Journal of Asia-Pacific Entomology 21 (3), 836-842, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8466102473936010702",
+      "cites_id": [
+        "8466102473936010702"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of propolis and honey from Tetragonula laeviceps cultivated in Modular Tetragonula Hives",
+        "pub_year": "2020",
+        "citation": "Heliyon 6 (11), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:ldfaerwXgEUC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2814347016509557021",
+      "cites_id": [
+        "2814347016509557021"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of Pandanus tectorius using black soldier fly larvae for the production of edible oil and protein-rich biomass",
+        "pub_year": "2017",
+        "citation": "J Entomol Zool Stud 5 (1), 803-809, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11419454470450536720",
+      "cites_id": [
+        "11419454470450536720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced biomass productivity of microalgae Nannochloropsis sp. in an airlift photobioreactor using low-frequency flashing light with blue LED",
+        "pub_year": "2020",
+        "citation": "Bioresources and Bioprocessing 7, 1-15, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:70eg2SAEIzsC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3628403709978244847",
+      "cites_id": [
+        "3628403709978244847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combustion characterization of wood-derived flash pyrolysis oils in industrial-scale turbulent diffusion flames",
+        "pub_year": "1994",
+        "citation": "Proceedings of Biomass Pyrolysis Oil Properties and Combustion Meeting, 26-28, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=139977457160111387",
+      "cites_id": [
+        "139977457160111387"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis and refining of sunflower biodiesel in a cascade of continuous centrifugal contactor separators",
+        "pub_year": "2015",
+        "citation": "European Journal of Lipid Science and Technology 117 (2), 242-254, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9016640755699257080",
+      "cites_id": [
+        "9016640755699257080"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorisation of Jatropha curcas using the biorefinery concept",
+        "pub_year": "2007",
+        "citation": "Expert seminar on Jatropha curcas L. Agronomy and genetics, 26-28, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530033929499355493",
+      "cites_id": [
+        "5530033929499355493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of storage time on moisture content of Reutealis trisperma seed and its effect on acid value of the isolated oil and produced biodiesel",
+        "pub_year": "2019",
+        "citation": "Energy Reports 5, 1375-1380, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:hMod-77fHWUC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3504069148220201383",
+      "cites_id": [
+        "3504069148220201383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and modelling studies on the solvent assisted hydraulic pressing of dehulled rubber seeds",
+        "pub_year": "2016",
+        "citation": "Industrial crops and products 92, 67-76, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:qUcmZB5y_30C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13405320979389460511",
+      "cites_id": [
+        "13405320979389460511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential use of lemongrass (Cymbopogon winterianus) residue as dairy cow feed",
+        "pub_year": "2015",
+        "citation": "Pakistan Journal of Nutrition 14 (12), 919, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:4DMP91E08xMC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2231150599334571422",
+      "cites_id": [
+        "2231150599334571422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Screening of antioxidants as stabilisers for Jatropha curcas L. oil",
+        "pub_year": "2013",
+        "citation": "European Journal of Lipid Science and Technology 115 (8), 909-920, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11651754435603378475",
+      "cites_id": [
+        "11651754435603378475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic evaluation for integrated cultivation of coffee and stingless bees in west Java, Indonesia: Integrated cultivation of coffee and stingless bees",
+        "pub_year": "2020",
+        "citation": "Chemical and Natural Resources Engineering Journal (Formally known as \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:lSLTfruPkqcC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4511026331875456493",
+      "cites_id": [
+        "4511026331875456493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of yield, productivity and chemial composition of eucalyptus oil from different species and locations in indonesia",
+        "pub_year": "2018",
+        "citation": "Chemical and Natural Resources Engineering Journal (Formally known as \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:isC4tDSrTZIC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4807481740722388741",
+      "cites_id": [
+        "4807481740722388741"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of storage time on relevant product properties of rubber seeds, rubber seed oil and rubber seed oil ethyl esters",
+        "pub_year": "2016",
+        "citation": "Sustainable Chemical Processes 4, 1-9, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4801720924309251402",
+      "cites_id": [
+        "4801720924309251402"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peran Mikoriza Vesikular Arbuskular dalam penyerapan nutrien, pertumbuhan, dan kadar minyak jarak (Jatropha curcas L.)",
+        "pub_year": "2013",
+        "citation": "Bionatura 15 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1817862338368010618",
+      "cites_id": [
+        "1817862338368010618"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis for small scale production of rubber seed oil and biodiesel in Palangkaraya, Indonesia",
+        "pub_year": "2017",
+        "citation": "Journal of Clean Energy Technologies 5 (4), 268-273, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:hC7cP41nSMkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12029213789878555519",
+      "cites_id": [
+        "12029213789878555519"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of essential oil yield from melaleuca leucadendra l. leaves by lignocellulose degradation pre-treatment using filamentous fungi",
+        "pub_year": "2021",
+        "citation": "Journal of Bioresources and Bioproducts 6 (4), 379-386, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8599854976783359944",
+      "cites_id": [
+        "8599854976783359944"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of metal triflate catalysts for the trans\u2010esterification of Jatropha curcas L. oil with methanol and higher alcohols",
+        "pub_year": "2014",
+        "citation": "Journal of the American Oil Chemists' Society 91 (2), 325-336, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13714486529575271290",
+      "cites_id": [
+        "13714486529575271290"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorisation of Reutealis trisperma seed from papua for the production of non-edible oil and protein-rich biomass",
+        "pub_year": "2016",
+        "citation": "International Proceeding Chemical, Biological and Environmental Engineering \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:IWHjjKOFINEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14007455289423403083",
+      "cites_id": [
+        "14007455289423403083"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of Gelam leaves as non-timber product of the trees for reforestation of the degraded peat land in Central Kalimantan--Indonesia",
+        "pub_year": "2015",
+        "citation": "Advances in Environmental Biology, 13-18, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:aqlVkmm33-oC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144761199071847819",
+      "cites_id": [
+        "7144761199071847819"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical modifications of Sterculia foetida L. oil to branched ester derivatives",
+        "pub_year": "2012",
+        "citation": "European Journal of Lipid Science and Technology 114 (1), 31-48, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=287687018504231953",
+      "cites_id": [
+        "287687018504231953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factors Affecting Biomass Growth and Production of Essential Oil from Leaf and Flower of Salvia leucantha Cav.",
+        "pub_year": "2018",
+        "citation": "Journal of Essential Oil Bearing Plants 21 (4), 1021-1029, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:TFP_iSt0sucC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15329960076903351770",
+      "cites_id": [
+        "15329960076903351770"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficiency evaluation of Vanda tricolor growth in temporary immerse system bioreactor and thin layer culture system",
+        "pub_year": "2016",
+        "citation": "Journal of Advanced Agricultural Technologies Vol 3 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14905366052731634099",
+      "cites_id": [
+        "14905366052731634099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of solid residue Melaleuca cajuputi Powell leaves as cattle feed.",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15527919900675706603",
+      "cites_id": [
+        "15527919900675706603"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental and modelling studies on continuous synthesis and refining of biodiesel in a dedicated bench scale unit using centrifugal contactor separator technology",
+        "pub_year": "2016",
+        "citation": "European Journal of Lipid Science and Technology 118 (6), 938-948, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2808389231960582440",
+      "cites_id": [
+        "2808389231960582440"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of gelam leaves (Melaleuca cajuputi Powell) as cattle feed",
+        "pub_year": "2014",
+        "citation": "Pakistan Journal of Nutrition 13 (6), 348, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6284224622285792884",
+      "cites_id": [
+        "6284224622285792884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth kinetics and secondary metabolite production of Eurycoma longifolia Jack cell culture elicitated by UV in flask scale and bubble column bioreactor scale",
+        "pub_year": "2014",
+        "citation": "Int J Tech Res Appl 2, 29-32, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17259029931423623992",
+      "cites_id": [
+        "17259029931423623992"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An Open Core Rice Husk Gasifier for Small Scale Application",
+        "pub_year": "1985",
+        "citation": "Proc. of the Second International Producer Gas Conference, Bandung, 1985"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:M05iB0D1s5AC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16213375654908900997",
+      "cites_id": [
+        "16213375654908900997"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gasification of rice husk in a small downdraft moving bed",
+        "pub_year": "1985",
+        "citation": "International conference on Biomass. 3, 900-904, 1985"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3728215712226021091",
+      "cites_id": [
+        "3728215712226021091"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gasification and pyrolytic conversion of agricultural and forestry wastes",
+        "pub_year": "1981",
+        "citation": "International Energy Journal 3 (1), 1981"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:mB3voiENLucC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12949351646676090719",
+      "cites_id": [
+        "12949351646676090719"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of protein hydrolysate and biodiesel from black soldier fly larvae cultivated using rotten avocado and tofu residue",
+        "pub_year": "2020",
+        "citation": "Lond. J. Res. Sci. Nat. Form 20, 925652, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6234962063831230240",
+      "cites_id": [
+        "6234962063831230240"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of lycopene and \u03b2carotene production in cherry tomato fruits (Solanum Lycopersicum L. var. Cerasiforme) by using red and blue light treatment",
+        "pub_year": "2014",
+        "citation": "International Journal of Technical Research and Applications 2, 7-10, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938921990826137149",
+      "cites_id": [
+        "15938921990826137149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorization of Jatropha curcas using the bio-refinery concept: Latest status of our research and development",
+        "pub_year": "2009",
+        "citation": "Biofuels & Jatropha Markets Asia, Evolving the Next Generation, 18th Event \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16106140055215563921",
+      "cites_id": [
+        "16106140055215563921"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Composition of leaf oil of gelam (M. leucadendra (L.) L.) growing in various peat swamp regions of Central Kalimantan Indonesia",
+        "pub_year": "2015",
+        "citation": "Advances in Natural and Applied Sciences 9 (5), 39-43, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=635660312946963748",
+      "cites_id": [
+        "635660312946963748"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "J Heeres, H.(2003). Experimental studies on the carboxymethylation of arrow root starch in isopropanol-water media",
+        "citation": "Starch 55, 495-503, 0"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8309665988001075607",
+      "cites_id": [
+        "8309665988001075607"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The determination of peatland critical criteria and classifications: A Case study of peatland in Pontianak City, West Kalimantan Province",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 256 (1), 012018, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:maZDTaKrznsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2400398307549008465",
+      "cites_id": [
+        "2400398307549008465"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of light intensity on the protein content of Azolla microphylla and pre-treatment with Saccharomyces cerevisiae to increase protein recovery",
+        "pub_year": "2017",
+        "citation": "Journal of Applied Sciences Research 13, 16-23, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:blknAaTinKkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17772305080557109182",
+      "cites_id": [
+        "17772305080557109182"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A water recirculation system for the cultivation of Oryza sativa L. at Sumedang, Indonesia.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8510010539653632011",
+      "cites_id": [
+        "8510010539653632011"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorization of Lower Grade Resin, Bark, and Fruit of Styrax Sumatrana",
+        "pub_year": "2022",
+        "citation": "International Journal of Innovative Research and Scientific Studies 5 (1), 30-36, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2082134772536027794",
+      "cites_id": [
+        "2082134772536027794"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRODUCTION OF CARRAGEENAN BY DIFFERENT STRAINS OF Kappaphycus alvarezii CULTIVATED IN SERANG, INDONESIA",
+        "pub_year": "2019",
+        "citation": "IIUM Engineering Journal 20 (2), 12-21, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:RGFaLdJalmkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6041948142414375527",
+      "cites_id": [
+        "6041948142414375527"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design and modeling of a novel continuous open core downdraft rice husk gasifier",
+        "pub_year": "1994",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17910814533357018494",
+      "cites_id": [
+        "17910814533357018494"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Field Test Performance of Open Core Down Draft Rice Husk Gasifiers",
+        "pub_year": "1990",
+        "citation": "European Conference, Biomass for Energy and Industry, 5th EC Conf., Elsevier \u2026, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3665582214253679894",
+      "cites_id": [
+        "3665582214253679894"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enrichment of growing media using biochar, compost, and nanosilica for the cultivation of Oryza sativa L.",
+        "pub_year": "2022",
+        "citation": "Estonian University of Life Sciences, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18183706583954267482",
+      "cites_id": [
+        "18183706583954267482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A review on community scale stationary and mobile production of biodiesel",
+        "pub_year": "2021",
+        "citation": "Current Research on Biosciences and Biotechnology 2 (2), 126-138, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=38889937447805671",
+      "cites_id": [
+        "38889937447805671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An Increase of Silicon Recovery from Oryza sativa L. Husk by Cow Rumen Fluid Treatment",
+        "pub_year": "2020",
+        "citation": "J. Biol. Sci. Technol. Manag 2, 30-38, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:rO6llkc54NcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5719222134053237650",
+      "cites_id": [
+        "5719222134053237650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influence of water stress and plant age on the yield and chemical composition of essential oil from Cymbopogon winterianus Jowitt",
+        "pub_year": "2020",
+        "citation": "BIOTROPIA 27 (1), 80-87, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10305598428074757745",
+      "cites_id": [
+        "10305598428074757745"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical and antibacterial properties of chitosan derived from Mucor spp., Rhizopus. Oryzae and Hermetia illucens",
+        "pub_year": "2023",
+        "citation": "Journal of Applied Biology and Biotechnology 11 (Issue), 185-192, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Effects of Different Media Composition on Growth and Productivity of Oryza sativa L.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Palm biodiesel production using by heterogeneous catalyst based corn cobs",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 505 (1), 012153, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Energy Reports",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Breakthrough Is Something You Don't See Coming Preface",
+        "pub_year": "2011",
+        "citation": "Progress in Materials Science 56 (6), 573-576, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of enzyme and hydrolisis condition on producting glucose syrup from arrowroot starch",
+        "pub_year": "2005",
+        "citation": "National Center for Genetic Engineering and Biotechnology (BIOTEC), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rice husk utilization in Indonesia. Present situation and research project",
+        "pub_year": "1985",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Pertumbuhan Tanaman Padi pada Tanah Salin-Sodik melalui Aplikasi Amendemen Gipsum dan Amendemen Biochar Sekam Padi-Kotoran Sapi serta melalui Biopriming Benih \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Bioconvertion of Cassava Tuber Skin and Dry Rice Stalk By Black Soldier Flies (Hermetia illucens)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Minyak Sawit Mentah dan Antioksidan Secara Simultan dengan Metode Aqueous Enzyme-Assisted Oil Extraction Menggunakan Enzim yang Diproduksi dari Fermentasi Semi \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERBANDINGAN PERTUMBUHAN DAN PRODUKSI BIOMASSA TANAMAN PADI VARIETAS INPARI 30 CIHERANG SUB 1 (Oryza sativa L.) DENGAN MENGGUNAKAN IRIGASI BERSELANG DAN PENGAIRAN TERGENANG \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Thin layer drying of Jatropha curcas L. seed and kernel: drying characteristics and effect on oil quality",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploratory Studies on the Carboxymethylation of Cassava Starch in Water-miscible Organic Media",
+        "citation": "University of Groningen. Industrial Engineering and Management, 0"
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solvent-assisted mechanical extraction of oil from Jatropha curcas L. kernel",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "COMPARISON OF GROWTH MEDIUM BIOCONVERSION INTO VANDA TRICOLOR BIOMASS IN THIN LAYER LIQUID MEDIUM CULTURE SYSTEM AND TIS RITA\u00ae BIOREACTOR",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary techno-economic evaluations on rubber seed pressing and biodiesel production",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "6IehtUsAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 10,
+    "not_available": 0
+  }
+}

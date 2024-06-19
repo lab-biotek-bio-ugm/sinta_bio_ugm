@@ -1,0 +1,3597 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "ayij0SsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Darda Efendi",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ayij0SsAAAAJ&citpid=3",
+  "affiliation": "Professor at Bogor Agricultural University; Senior Researcher at Center for Tropical Horticulture",
+  "organization": 13375182596662322286,
+  "interests": [
+    "horticulture",
+    "biotechnology",
+    "postharvest"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 1087,
+  "citedby5y": 787,
+  "hindex": 19,
+  "hindex5y": 15,
+  "i10index": 34,
+  "i10index5y": 22,
+  "cites_per_year": {
+    "2003": 4,
+    "2004": 2,
+    "2005": 5,
+    "2006": 3,
+    "2007": 9,
+    "2008": 6,
+    "2009": 9,
+    "2010": 10,
+    "2011": 21,
+    "2012": 20,
+    "2013": 21,
+    "2014": 24,
+    "2015": 20,
+    "2016": 29,
+    "2017": 26,
+    "2018": 77,
+    "2019": 71,
+    "2020": 93,
+    "2021": 144,
+    "2022": 213,
+    "2023": 190,
+    "2024": 74
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tIJYsDQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Roedhy Poerwanto",
+      "affiliation": "Professor of Horticulture, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6WjdvWQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Edi Santosa",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2tZq-WoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Andria Agusta",
+      "affiliation": "National Research and Innovation Agency - BRIN"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X_VBJzsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bambang S Purwoko",
+      "affiliation": "Professor in Crop Biotechnology and Physiology, Bogor Agricultural University IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "OrQdCuoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nurul Khumaida",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "x8yf6FUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Simon Hadi Teguh Raharjo",
+      "affiliation": "Pattimura University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XLMOOd4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Inanpi Hidayati Sumiasih",
+      "affiliation": "Universitas Trilogi"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XJs5Lh4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ade Wachjar",
+      "affiliation": "Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-3U8vyYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "M Rahmad Suhartanto",
+      "affiliation": "Bogor Agriculture University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1coLN-YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agus Purwito",
+      "affiliation": "Bogor Agricultural University (IPB), Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "lBv93i4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "diny dinarti",
+      "affiliation": "institut pertanian bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mMyfYnIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Winarso Drajad Widodo",
+      "affiliation": "Lecturer of Horticultural Sciences, IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ofaUQdQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Fernando Pliego Alfaro",
+      "affiliation": "Plant biology Department, University of Malaga"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JDls514AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dewi Sukma",
+      "affiliation": "Lecturer, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "KkP6F6YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tri Muji Ermayanti",
+      "affiliation": "Indonesian Intitute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4NbdhcgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anneke Pesik",
+      "affiliation": "Pattimura University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_JO9bIsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ketty Suketi",
+      "affiliation": "Departemen Agronomi dan Hortikultura, Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "a-ByXCYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yosi Zendra Joni",
+      "affiliation": "Indonesian Tropical Fruit Research Institute"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5SmNMzkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Willy Bayuardi Suwarno",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_fvl82EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Witjaksono Witjaksono",
+      "affiliation": "Research Center for Applied Botany, National Research and Innovation Agency"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kBgdRWIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ani Kurniawati",
+      "affiliation": "Bogor Agriculture University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "g1r38MsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "muhamad syukur",
+      "affiliation": "Professor in Plant Breeding, IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ZHnYEbAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "YULINDA TANARI",
+      "affiliation": "Dosen Fakultas Pertanian, Universitas Sintuwu Maroso"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DonXVhIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Slamet Susanto",
+      "affiliation": "Pertanian, Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hckwO-kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Isidro Elias Suarez Padron",
+      "affiliation": "Universidad de C\u00f3rdoba"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tQW7Ij0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "imron riyadi",
+      "affiliation": "Researcher of Plant Cell Culture and Micropropagation, Indonesian Research Institute for"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "WRAGZ8wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sobir Ridwani",
+      "affiliation": "Professor of Plant Breeding, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zxC2FPwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Awang Maharijaya",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Xmz6H_UAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Djoko Santoso, PPKS-UB",
+      "affiliation": "Pusat Penelitian Kelapa Sawit Unit Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gTaPOMsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anas D. Susila",
+      "affiliation": "Profesor in Agronomy and Horticulture. Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LQX89GMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iswari Saraswati Dewi",
+      "affiliation": "Researcher of National Research & Inovation Agency of Indonesia (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Bv8dGeYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Anggi Nindita, SP. MSi",
+      "affiliation": "Department of Agronomy and Horticulture, Faculty of Agriculture, Bogor Agriculture \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bsQnkqgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sri Hendrastuti Hidayat",
+      "affiliation": "Institut Pertanian Bogor (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X1MKj7MAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jollanda Effendy",
+      "affiliation": "Pattimura University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ZbZykxQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sudarsono",
+      "affiliation": "Department of Agronomy and Horticulture, Faculty of Agriculture, Bogor Agricultural \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ddQEh3YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Siti Noorrohmah",
+      "affiliation": "Research Center for Genetic Engineering, National Research and Innovation Agency (BRIN \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hDMByooAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wahyu Fikrinda",
+      "affiliation": "Staf Agroteknologi, Tribhuwana Tunggadewi University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "QmeDU-gAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Maya Melati",
+      "affiliation": "Bogor Agricultural University (IPB University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BuVQZ4sAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Vitria Puspitasari Rahadi",
+      "affiliation": "Pusat Penelitian Teh dan Kina"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "rDKpWqQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Siti Marwiyah",
+      "affiliation": "Bogor agricultural university"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XzeJG_YAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "trikoesoemaningtyas",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "wkMewpAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Delvi Maretta",
+      "affiliation": "Indonesia National Research and Innovation Agency (BRIN)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "TXMjSb4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ria Cahyaningsih",
+      "affiliation": "Center for Plant Conservation, Botanical Gardens, and Forestry. National Research and \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "7HWOg44AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rudiyanto",
+      "affiliation": "Universitas Pendidikan Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "U2AnPbYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mad Yamin",
+      "affiliation": "Institut Pertanian Bogor"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biotechnology of fruit and nut crops",
+        "pub_year": "2020",
+        "citation": "CABI, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:abG-DnoFyZgC",
+      "num_citations": 68,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14821946032336534736",
+      "cites_id": [
+        "14821946032336534736"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agronomical and physiological characters of kaffir lime (citrus hystrixDC) seedling under artificial shading and pruning",
+        "pub_year": "2019",
+        "citation": "Emirates Journal of Food and Agriculture, 222-230, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:2VqYfGB8ITEC",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7831839658910932102",
+      "cites_id": [
+        "7831839658910932102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation of avocado",
+        "pub_year": "2003",
+        "citation": "Proceedings V World Avocado Congress (Actas V Congreso Mundial del Aguacate \u2026, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17563682854716093279",
+      "cites_id": [
+        "17563682854716093279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengelolaan Panen Kelapa Sawit (Elaeis guineensis Jacq.) Pelantaran Agro Estate, Kota Waringin Timur, Kalimantan Tengah",
+        "pub_year": "2017",
+        "citation": "Buletin Agrohorti 5 (3), 410-417, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ye4kPcJQO24C",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17077715979820677417",
+      "cites_id": [
+        "17077715979820677417"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioteknologi dalam pemuliaan tanaman",
+        "pub_year": "2011",
+        "citation": "Pendahuluan. IPB Press. Bogor, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:SdhP9T11ey4C",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5194545677090485379",
+      "cites_id": [
+        "5194545677090485379"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Persea americana avocado.",
+        "pub_year": "2005",
+        "citation": "Biotechnology of fruit and nut crops, 326-947, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15348866448609652607",
+      "cites_id": [
+        "15348866448609652607"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformation and cryopreservation of embryogenic avocado (Persea americana Mill.) cultures",
+        "pub_year": "2003",
+        "citation": "University of Florida, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2205229914609591026",
+      "cites_id": [
+        "2205229914609591026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relationship among Agroclimatic Variables, Soil and Leaves Nutrient Status with the Yield and Main Composition of Kaffir Lime (Citrus hystrix DC) Leaves \u2026",
+        "pub_year": "2021",
+        "citation": "Metabolites 11 (5), 260, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:OR75R8vi5nAC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1907726625092703076",
+      "cites_id": [
+        "1907726625092703076"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shoot manipulations improve flushing and flowering of mandarin citrus in Indonesia",
+        "pub_year": "2018",
+        "citation": "J. Appl. Hortic 20, 112-118, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:kz9GbA2Ns4gC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13344487984175355073",
+      "cites_id": [
+        "13344487984175355073"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Off-season production of tropical fruits",
+        "pub_year": "2006",
+        "citation": "XXVII International Horticultural Congress-IHC2006: International Symposium \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11088705360012828271",
+      "cites_id": [
+        "11088705360012828271"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh umur panen dan suhu simpan terhadap umur simpan buah naga super red (Hylocereus costaricensis)",
+        "pub_year": "2013",
+        "citation": "Jurnal Hortikultura Indonesia 4 (1), 54-61, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:tOudhMTPpwUC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2460830293151251601",
+      "cites_id": [
+        "2460830293151251601"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological evaluation and determination keys of 21 citrus genotypes at seedling stage",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:OcBU2YAGkTUC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3739617226295465264",
+      "cites_id": [
+        "3739617226295465264"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A review of root pruning to regulate citrus growth",
+        "pub_year": "2019",
+        "citation": "Journal of Tropical Crop Science Vol 6 (1), 1-7, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:XvxMoLDsR5gC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3267795094355466822",
+      "cites_id": [
+        "3267795094355466822"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of limau (Citrus amblycarpa Hassk. Ochese) as a functional food and ornamental mini tree based on metabolomics and morphological approaches",
+        "pub_year": "2017",
+        "citation": "J. of Tropical Crop Science 4 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17391276007306056123",
+      "cites_id": [
+        "17391276007306056123"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of SNAP markers based on nucleotide variability of WRKY genes in coconut and their validation using multiplex PCR",
+        "pub_year": "2017",
+        "citation": "Biodiversitas Journal of Biological Diversity 18 (2), 465-475, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8429480153080513132",
+      "cites_id": [
+        "8429480153080513132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Media Induksi terhadap Multiplikasi Tunas dan Pertumbuhan Planlet Pisang Rajabulu (AAB) dan Pisang Tanduk (AAB) pada Berbagai Media Multiplikasi",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Agronomy 39 (3), 7756, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:fEOibwPWpKIC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12198549813892899237",
+      "cites_id": [
+        "12198549813892899237"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaturan pembungaan mangga Gadung 21 di luar musim dengan paklobutrazol dan zat pemecah dormansi",
+        "pub_year": "1997",
+        "citation": "IPB (Bogor Agricultural University), 1997"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16985977727982246614",
+      "cites_id": [
+        "16985977727982246614"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiplikasi Tunas In Vitro Berdasarkan Jenis Eksplan Pada Enam Genotipe Tebu (Saccharum officinarum L.)/The In Vitro Shoots Multiplication Based on Explants Type on Six \u2026",
+        "pub_year": "2017",
+        "citation": "Industrial Crops Research Journal 23 (2), 90-97, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:VLnqNzywnoUC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7379992082860381966",
+      "cites_id": [
+        "7379992082860381966"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Karakteristik Hortikultura Empat Genotipe Melon (Cucumis melo L.) Pusat Kajian Hortikultura Tropika IPB",
+        "pub_year": "2014",
+        "citation": "Jurnal Hortikultura Indonesia 5 (1), 56-63, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:08ZZubdj9fEC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17162940351136493236",
+      "cites_id": [
+        "17162940351136493236"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi morfologi beberapa genotipe kentang (Solanum tuberosum) yang dibudidayakan di Indonesia",
+        "pub_year": "2014",
+        "citation": "Skripsi. Institut Pertanian Bogor, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9286795027151862613",
+      "cites_id": [
+        "9286795027151862613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improving productivity and quality of Indonesian mangosteen",
+        "pub_year": "2006",
+        "citation": "XXVII International Horticultural Congress-IHC2006: International Symposium \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:NhqRSupF_l8C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6835455171227950736",
+      "cites_id": [
+        "6835455171227950736"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Allometric model to estimate bifoliate leaf area and weight of kaffir lime (Citrus hystrix)",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (5), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:KbBQZpvPDL4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10759582601369129123",
+      "cites_id": [
+        "10759582601369129123"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perubahan warna kulit buah tiga varietas jeruk keprok dengan perlakuan degreening dan suhu penyimpanan",
+        "pub_year": "2014",
+        "citation": "Jurnal Hortikultura Indonesia 5 (1), 10-20, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:sSrBHYA8nusC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18372706867378908234",
+      "cites_id": [
+        "18372706867378908234"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of coating materials and cytokinin to prolong selflife and to keep freshness and color of calyx of mangosteen (Garcinia mangostana L.) Fruit",
+        "pub_year": "2010",
+        "citation": "J. Hort. Ind 1 (1), 32-39, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:XiSMed-E-HIC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4024837600626645426,8457548678888859766",
+      "cites_id": [
+        "4024837600626645426",
+        "8457548678888859766"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "REVIEW Rekayasa Genetika untuk Mengatasi Masalah-masalah Pascapanen",
+        "pub_year": "2005",
+        "citation": "Indonesian Journal of Agronomy 33 (2), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11289535946755596650",
+      "cites_id": [
+        "11289535946755596650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solving yellow sap contamination problem in mangosteen (Garcinia mangostana) with Ca2+ application based on fruit growth stage",
+        "pub_year": "2016",
+        "citation": "Communications in Biometry and Crop Science 11 (2), 105-113, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7774768017958173386",
+      "cites_id": [
+        "7774768017958173386"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u03b2-Cryptoxanthin and zeaxanthin pigments accumulation to induce orange color on citrus fruits",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 299 (1), 012074, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14556266751748505428",
+      "cites_id": [
+        "14556266751748505428"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary study on antioxidant and antibacterial activity of kaffir lime (Citrus hystrix DC) leaf essential oil",
+        "pub_year": "2021",
+        "citation": "Applied Research in Science and Technology 1 (2), 58-65, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Ak0FvsSvgGUC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4464109937068724858",
+      "cites_id": [
+        "4464109937068724858"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Character, xanthone content and antioxidant properties of mangosteen fruit\u2019s hull (Garcinia mangostana L.) at several fruit growth stadia",
+        "pub_year": "2011",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 39 (3), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:KxtntwgDAa4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2089173401713442149,6752493738489591883",
+      "cites_id": [
+        "2089173401713442149",
+        "6752493738489591883"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kemampuan pecah tunas dan kemampuan berbiak mother plant pisang Rajabulu (AAB) dan pisang Tanduk (AAB) dalam medium inisiasi in vitro",
+        "pub_year": "2010",
+        "citation": "Agriplus 20 (1), 09-17, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:jE2MZjpN3IcC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16506827697637463933",
+      "cites_id": [
+        "16506827697637463933"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic transformation of avocado",
+        "pub_year": "2003",
+        "citation": "ISHS Acta Hort 692, 115-118, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14422785067714704954",
+      "cites_id": [
+        "14422785067714704954"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfogenesis Eksplan Keping Biji dari Tiga Klon Manggis (Garcinia mangostana L.) Pada Tiga Jenis Media Dasar",
+        "pub_year": "2014",
+        "citation": "Jurnal Hortikultura 24 (2), 94-101, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:SP6oXDckpogC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11571984787557376705",
+      "cites_id": [
+        "11571984787557376705"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Somatic embryogenesis media optimization study of physic nut (Jatropha curcas) as biodiesel feedstock",
+        "pub_year": "2014",
+        "citation": "Energy Procedia 47, 21-28, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:qUcmZB5y_30C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4900926207033154368",
+      "cites_id": [
+        "4900926207033154368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Calcium spray reduces yellow latex on mangosteen fruits (Garcinia mangostana L.).",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:U4n9YNQMCAIC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16048696483978677181",
+      "cites_id": [
+        "16048696483978677181"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Benefit and challenges of using tropical fruits as ornamental trees for green city",
+        "pub_year": "2021",
+        "citation": "II International Symposium on Tropical and Subtropical Ornamentals 1334, 369-378, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:jL-93Qbq4QoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11736332231691906351",
+      "cites_id": [
+        "11736332231691906351"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik fisikokimia dan profil sensori mangga gedong pada dua tingkat kematangan",
+        "pub_year": "2020",
+        "citation": "Jurnal Teknologi Dan Industri Pangan 31 (2), 113-126, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:cWzG1nlazyYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3886791133849639886",
+      "cites_id": [
+        "3886791133849639886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiplikasi Tunas",
+        "pub_year": "2017",
+        "citation": "Vitro, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:WC9gN4BGCRcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9501705667667362638",
+      "cites_id": [
+        "9501705667667362638"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi pembungaan jeruk siem Kintamani (Citrus reticulata B.) dengan paclobutrazol dan zat pemecah dormansi KNO3",
+        "pub_year": "2015",
+        "citation": "IPB (Bogor Agricultural University), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:MpfHP-DdYjUC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9637551527962398784",
+      "cites_id": [
+        "9637551527962398784"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Retardan paklobutrazol terhadap pertumbuhan dan pemulihan dua aksesi ubi kayu",
+        "pub_year": "2015",
+        "citation": "Jurnal AgroBiogen 11 (3), 95-102, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:HE397vMXCloC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18004311485234257181",
+      "cites_id": [
+        "18004311485234257181"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative and Correlation Analysis of Young and Mature Kaffir Lime (Citrus hystrix DC) Leaf Characteristics",
+        "pub_year": "2022",
+        "citation": "International Journal of Plant Biology 13 (3), 270-280, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:CaZNVDsoPx4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12099842692566069196",
+      "cites_id": [
+        "12099842692566069196"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengelolaan pemangkasan tanaman kakao (Theobroma cacao L.) di Cilacap, Jawa Tengah",
+        "pub_year": "2015",
+        "citation": "Buletin Agrohorti 3 (3), 285-293, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7627264313124224071",
+      "cites_id": [
+        "7627264313124224071"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Keragaman Genetik Manggis dalam Satu Pohon.",
+        "pub_year": "2015",
+        "citation": "J. Hortikultura Indonesia 5 (2), 106-112, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7127200459224197710",
+      "cites_id": [
+        "7127200459224197710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation of embryogenic avocado (Persea americana Mill.) cultures",
+        "pub_year": "2001",
+        "citation": "Vitro Cell Dev Biol 37, 39A, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4194615829179071027",
+      "cites_id": [
+        "4194615829179071027"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sulassih. 2018",
+        "citation": "Karakterisasi Morfologi Beberapa Genotipe Kentang (Solanum tuberosum L \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:buQ7SEKw-1sC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2425425851927784303",
+      "cites_id": [
+        "2425425851927784303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of several stages of maturity and storage temperature on color changes and shelf life of mangosteen (Garcinia mangostana L.)",
+        "pub_year": "2019",
+        "citation": "International Journal of Applied Biology 3 (1), 45-54, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:_5tno0g5mFcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6338899151698403486",
+      "cites_id": [
+        "6338899151698403486"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Morfologi dan Komponen Hasil Kubis Bunga (Brassica oleracea var. botrytis L.) di Dataran Tinggi dan Dataran Rendah",
+        "pub_year": "2019",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 47 (3), 291-298, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:4hFrxpcac9AC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3187385760020059174",
+      "cites_id": [
+        "3187385760020059174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Waktu dan dosis aplikasi kalsium dan boron untuk pengendalian getah kuning pada buah manggis (Garcinia mangostana L.) di tiga sentra produksi",
+        "pub_year": "2016",
+        "citation": "Jurnal Hortikultura Indonesia 7 (1), 21-30, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:olpn-zPbct0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16573031144814411208",
+      "cites_id": [
+        "16573031144814411208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic transformation of avocado with S-adenosylmethionine hydrolase (samase) and evaluation of transformants after three years",
+        "pub_year": "2007",
+        "citation": "Proceedings VI World Avocado Congress, 12-16, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5848863122760672921",
+      "cites_id": [
+        "5848863122760672921"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mining and characterization of genomic-based microsatellite markers in duku (Lansium domesticum)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012083, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:IUKN3-7HHlwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13862177165079890791",
+      "cites_id": [
+        "13862177165079890791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi akumulasi pigmen \u03b2-cryptoxanthin untuk membentuk warna jingga buah jeruk di daerah tropika",
+        "pub_year": "2018",
+        "citation": "Jurnal Hortikultura Indonesia 9 (2), 73-83, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:KUbvn5osdkgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7160453021103501245",
+      "cites_id": [
+        "7160453021103501245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mengatasi cemaran getah kuning pada buah manggis (Garcinia mangostana) dengan aplikasi kalsium dan teknologi lubang resapan biopori",
+        "pub_year": "2016",
+        "citation": "J. Hort 26 (1), 59-66, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17033938328550512400",
+      "cites_id": [
+        "17033938328550512400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Temperate zone fruits production in Indonesia",
+        "pub_year": "2013",
+        "citation": "IX International Symposium on Temperate Zone Fruits in the Tropics and \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:TQgYirikUcIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12295064771431819351",
+      "cites_id": [
+        "12295064771431819351"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant recovery following transformation of avocado with anti-fungal protein and SAM hydrolase genes",
+        "pub_year": "2005",
+        "citation": "International Symposium on Biotechnology of Temperate Fruit Crops and \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1910724322910660805",
+      "cites_id": [
+        "1910724322910660805"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi stimulasi pembungaan mangga (mangifera indica L. cv. Arumanis) dengan kalium nitrat dan paclobutrazol",
+        "pub_year": "1994",
+        "citation": "IPB (Bogor Agricultural University), 1994"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:43bX7VzcjpAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4277993132013834123",
+      "cites_id": [
+        "4277993132013834123"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Orange Colour Formation and Pigment Variation on Tropical Tangerine Peel by Precooling and Degreening",
+        "pub_year": "2022",
+        "citation": "Asian Journal of Plant Sciences 21 (1), 56-65, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:QD3KBmkZPeQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2411870506840164840",
+      "cites_id": [
+        "2411870506840164840"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Appropriate duration of drought stress for Madura tangerine flower induction",
+        "pub_year": "2020",
+        "citation": "Jurnal Hortikultura Indonesia 11 (2), 82-90, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ODE9OILHJdcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6070900985459621791",
+      "cites_id": [
+        "6070900985459621791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi keunggulan tanaman cabai Lembayung IPB sebagai varietas baru pada tanaman hias",
+        "pub_year": "2018",
+        "citation": "Comm. Horticulturae Journal 2 (2), 54-61, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:vbGhcppDl1QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12494140250682401306",
+      "cites_id": [
+        "12494140250682401306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman dan Hubungan Genetik Antara Kelapa Tetua Genjah Kuning Nias",
+        "pub_year": "2016",
+        "citation": "Buletin Palma 16 (2), 129, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:PELIpwtuRlgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7796355044156019461",
+      "cites_id": [
+        "7796355044156019461"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on fruit quality of selected seeded pummelo cultivars and its relationship with antioxidant activity content during storage period",
+        "pub_year": "2015",
+        "citation": "AGRIVITA Journal of Agricultural Science 37 (3), 210-219, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14162949760099327051",
+      "cites_id": [
+        "14162949760099327051"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi perakaran manggis (Garcinia mangostana L.) secara in vitro dan ex vitro",
+        "pub_year": "2015",
+        "citation": "Jurnal Hortikultura 25 (2), 97-105, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:_Ybze24A_UAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15976596896579341822",
+      "cites_id": [
+        "15976596896579341822"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organogenesis Bunga Aksis Pisang Bergenom AAB dan ABB(Organogenesis of Floral Axis of  AAB and ABB Group Banana)",
+        "pub_year": "2015",
+        "citation": "Jurnal Hortikultura 25 (1), 1-8, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:UxriW0iASnsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18046566973724515665",
+      "cites_id": [
+        "18046566973724515665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Somatic embryo germination of Jatropha curcas L in presence of sucrose and poly ethylene glycol (PEG)",
+        "pub_year": "2014",
+        "citation": "Annales Bogorienses 18 (1), 35-43, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6426443395012167367",
+      "cites_id": [
+        "6426443395012167367"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi tunas pada kotiledon dan hipokotil tanaman jarak pagar (Jatropha curcas L.) melalui organogenesis tak langsung",
+        "pub_year": "2012",
+        "citation": "Jurnal AgroBiogen 8 (3), 89-96, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:D_sINldO8mEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10741408003224479431",
+      "cites_id": [
+        "10741408003224479431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Somatic embryo development from cryopreserved avocado (Persea americana Mill.) cultures",
+        "pub_year": "2002",
+        "citation": "Proceedings of the 39th Meeting of the Society for Cryobiology, 126, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:zCSUwVk65WsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2041592348269473385",
+      "cites_id": [
+        "2041592348269473385"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation of embryogenic cultures of avocado (Persea americana Mill.)",
+        "pub_year": "2001",
+        "citation": "Vitro Cellular and Developmental Biology 37, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:v1_lew4L6wgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17418587757327303856",
+      "cites_id": [
+        "17418587757327303856"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agro-physiological traits of kaffir lime in response to pruning and nitrogen fertilizer under mild shading",
+        "pub_year": "2023",
+        "citation": "Plants 12 (5), 1155, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:kVjdVfd2voEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15108402201453595294",
+      "cites_id": [
+        "15108402201453595294"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insidensi dan identifikasi molekuler Papaya ring spot virus pada pepaya di Jawa",
+        "pub_year": "2022",
+        "citation": "Jurnal Fitopatologi Indonesia 18 (1), 43-51, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ALROH1vI_8AC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18284920368015686307",
+      "cites_id": [
+        "18284920368015686307"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of genetic stability of micropropagated sugarcane in different subculture frequencies using SSR marker",
+        "pub_year": "2020",
+        "citation": "Jurnal Penelitian Tanaman Industri 26 (1), 49-57, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:mNrWkgRL2YcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13165789442664662105",
+      "cites_id": [
+        "13165789442664662105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi ethepon dan lilin lebah dalam upaya degreening dan perpanjangan umur simpan buah jeruk keprok garut (Citrus reticulata L.)",
+        "pub_year": "2019",
+        "citation": "Buletin Agrohorti 7 (3), 287-294, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:IRz6iEL74y4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9195217772578159066",
+      "cites_id": [
+        "9195217772578159066"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Pembungaan Jeruk Keprok Garut Melalui Pemangkasan Akar, Penyungkupan Tajuk, dan Strangulasi",
+        "pub_year": "2019",
+        "citation": "Buletin Agrohorti 7 (2), 200-206, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:a9-T7VOCCH8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3160423050524394058",
+      "cites_id": [
+        "3160423050524394058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Paclobutrazol dan Benzyl Adenin terhadap Pertumbuhan dan Multiplikasi Tunas Bawang Merah (Allium cepa L.) Varietas Bima Brebes secara In Vitro",
+        "pub_year": "2018",
+        "citation": "Comm. Horticulturae Journal 2 (2), 22-27, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:p__nRnzSRKYC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10850449204502559749",
+      "cites_id": [
+        "10850449204502559749"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimation of in vitro lateral shoots multiplication of papaya (Carica papaya L.)\u201cCallina\u201d with BAP and NAA",
+        "pub_year": "2017",
+        "citation": "J. Trop. Crop Sci 4 (3), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ipzZ9siozwsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17285255983050214798",
+      "cites_id": [
+        "17285255983050214798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik Plasma Nutfah Kelapa Indonesia Dan Penentuan Identitas Kelapa Hibrida Berdasarkan Marka Molekuler",
+        "pub_year": "2016",
+        "citation": "IPB (Bogor Agricultural University), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:rHJHxKgnXwkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6171228666614846220",
+      "cites_id": [
+        "6171228666614846220"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Embriogenesis somatik tidak langsung pada tanaman sagu (Metroxylon sagu Rottb.) menggunakan sistem kultur suspensi, perendaman sesaat, dan media padat",
+        "pub_year": "2016",
+        "citation": "Jurnal AgroBiogen 12 (1), 37-44, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:DUooU5lO8OsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3089078416097688205",
+      "cites_id": [
+        "3089078416097688205"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction and proliferation of durian (Durio zibethinus) embryonic culture in media supplemented with auxin and cytokinin",
+        "pub_year": "2015",
+        "citation": "International Symposium on Durian and Other Humid Tropical Fruits 1186, 23-28, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12751778828500156454",
+      "cites_id": [
+        "12751778828500156454"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektifitas Aplikasi In-vitro Rizobakteri Sebagai Agen Antagonis Layu Fusarium pada Pisang Rajabulu/AAB di Rumah Kaca",
+        "pub_year": "2012",
+        "citation": "Jurnal Hortikultura Indonesia 2 (1), 34-42, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:LgRImbQfgY4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4964561011005820602",
+      "cites_id": [
+        "4964561011005820602"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Kalsium dan Boron untuk Pengendalian Cemaran Getah Kuning pada Buah Manggis",
+        "pub_year": "2012",
+        "citation": "Jurnal Hortikultura 23 (4), 350-357, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:u9iWguZQMMsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3534999334251032989",
+      "cites_id": [
+        "3534999334251032989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi pemberian kalsium untuk mengatasi getah kuning pada buah manggis (Garcinia mangostana L.)",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Agronomy 39 (1), 7776, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:hMsQuOkrut0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14943462083822506981",
+      "cites_id": [
+        "14943462083822506981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic transformation of avocado (Persea americana Mill.): a coordinated strategy for crop improvement",
+        "pub_year": "2005",
+        "citation": "Acta horticulturae 692, 131, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4315443141838839619",
+      "cites_id": [
+        "4315443141838839619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi pertumbuhan, kandungan klorofil dan karotenoid torbangun (Coleus amboinicus lour.) poliploid melalui kultur in vitro",
+        "pub_year": "2021",
+        "citation": "Jurnal Bioteknologi & Biosains Indonesia (JBBI) 8 (2), 230\u2013243-230\u2013243, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:4X0JR2_MtJMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9493513809911631817",
+      "cites_id": [
+        "9493513809911631817"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth response of four accessions of Moringa oleifera Linn shoots cultured on various basic media",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 741 (1), 012054, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:yMeIxYmEMEAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10111197427561002597",
+      "cites_id": [
+        "10111197427561002597"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Durasi cekaman kekeringan yang tepat untuk induksi bunga jeruk keprok Madura",
+        "pub_year": "2020",
+        "citation": "J. Hort. Indonesia 11 (2), 82-90, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Bg7qf7VwUHIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13779471021543972632",
+      "cites_id": [
+        "13779471021543972632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cekaman kekeringan berat mempengaruhi keberhasilan induksi bunga jeruk keprok madura",
+        "pub_year": "2020",
+        "citation": "J. Hort. Indonesia 11 (1), 13-23, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:mlAyqtXpCwEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10166780650152203754",
+      "cites_id": [
+        "10166780650152203754"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of cDNA clones encoding a novel subfamily sporamin B in sweet potato",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:sNmaIFBj_lkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4013986795879361606",
+      "cites_id": [
+        "4013986795879361606"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Varietas Cabai Hias Ayesha IPB",
+        "pub_year": "2018",
+        "citation": "Comm. Horticulturae Journal 2 (1), 49-56, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:BUYA1_V_uYcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7429583463825731208",
+      "cites_id": [
+        "7429583463825731208"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of calcium to decrease yellow sap contamination at different positions of Garcinia mangostana L.",
+        "pub_year": "2018",
+        "citation": "Advances in Horticultural Science 32 (2), 169-176, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:uWiczbcajpAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=203989422454990693",
+      "cites_id": [
+        "203989422454990693"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Analysis of \u03b2-cryptoxanthin and Zeaxanthin using HPLC in the Accumulation of Orange Color on Lowland Citrus",
+        "pub_year": "2017",
+        "citation": "International Journal of Applied Biology 1 (2), 37-45, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:z_wVstp3MssC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10501105574003418402",
+      "cites_id": [
+        "10501105574003418402"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Varietas Non Hibrida Cabai Besar Anies IPB",
+        "pub_year": "2017",
+        "citation": "Comm. Horticulturae Journal 1 (1), 56-64, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:hkOj_22Ku90C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1377149116335198523",
+      "cites_id": [
+        "1377149116335198523"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Functional classification of skinning injury responsive genes in storage roots of sweetpotato",
+        "pub_year": "2017",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 45 (1), 36-42, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:2KloaMYe4IUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17265667326477552458",
+      "cites_id": [
+        "17265667326477552458"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of different sources of plant growth regulator on the induction and development of mangosteen somatic embryos",
+        "pub_year": "2016",
+        "citation": "Indonesian Journal of Agricultural Science 17 (1), 9-16, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:W5xh706n7nkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9889593612166499021",
+      "cites_id": [
+        "9889593612166499021"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan parameter genetik populasi F3 dan F4 tanaman gandum persilangan Oasis x HP1744",
+        "pub_year": "2015",
+        "citation": "Jurnal Penelitian Pertanian Tanaman Pangan 34 (3), 125411, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11705381524575421620",
+      "cites_id": [
+        "11705381524575421620"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi perubahan kualitas pascapanen buah manggis (Garcinia Mangostana L.) pada beberapa stadia kematangan dan suhu simpan",
+        "pub_year": "2011",
+        "citation": "Prosiding Seminar Nasional PERHORTI 2011, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:vDZJ-YLwNdEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3245214908226671042",
+      "cites_id": [
+        "3245214908226671042"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEMAMPUAN PECAH TUNAS DAN BERBIAK MOTHER PLANT PISANG RAJABULU (AAB) DAN PISANG TANDUK (AAB) DALAM MEDIUM INISIASI IN VITRO",
+        "pub_year": "2010",
+        "citation": "Jurnal Ilmiah Agriplus 20 (1), 9-17, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262775542928930086",
+      "cites_id": [
+        "18262775542928930086"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Embrio Somatik Melon (Cucumis melo L.) pada berbagai Media dan Zat Pengatur Tumbuh.",
+        "pub_year": "2009",
+        "citation": "IPB (Bogor Agricultural University), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4581654683043429788",
+      "cites_id": [
+        "4581654683043429788"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro shoot growth and root formation enhancement of Moringa oleifera Linn. on DKW medium containing cytokinins and auxins",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2606 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:jgBuDB5drN8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12706120824036464130",
+      "cites_id": [
+        "12706120824036464130"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Lansium parasiticum (Osbeck) KC Sahni & Bennet accessions based on vegetative morphological characters and simple sequence repeat markers",
+        "pub_year": "2022",
+        "citation": "Genetic Resources and Crop Evolution 69 (4), 1707-1716, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:6yz0xqPARnAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5911665173201606",
+      "cites_id": [
+        "5911665173201606"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbanyakan pepaya (Carica papaya L.)\u2018Sukma\u2019in vitro dari eksplan tunas pucuk sebagai respon terhadap BA dan NAA",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Agronomy 47 (2), 203-209, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:QYdC8u9Cj1oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15034641825109512099",
+      "cites_id": [
+        "15034641825109512099"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation of papaya seeds cv. Sukma, Callina, and Caliso: Effect of loading treatment and immersion time in plant vitrification solution-2",
+        "pub_year": "2019",
+        "citation": "Nusantara Bioscience 11 (1), 71-78, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:OTTXONDVkokC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13500283100416386330",
+      "cites_id": [
+        "13500283100416386330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Ethephon dan Stiker Pascapanen untuk Perbaikan Kualitas Buah Jeruk Siam Garut (Citrus nobilis Lour)",
+        "pub_year": "2018",
+        "citation": "Comm. Horticulturae Journal 2 (2), 1-10, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:4MWp96NkSFoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13898825284352928886",
+      "cites_id": [
+        "13898825284352928886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The preservation of somatic embryos of papaya derived from papaya lateral shoots after being stored in cryopreservation to maintain plant genetic information in the future",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (3), 724-729, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:EkHepimYqZsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7974552229290734645",
+      "cites_id": [
+        "7974552229290734645"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Kalsium dan NAA untuk Mengendalikan Getah Kuning Buah Manggis (Garcinia mangostana L.)",
+        "pub_year": "2018",
+        "citation": "Jurnal Hortikultura Indonesia 9 (1), 10-18, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:vDijr-p_gm4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13479351263123006940",
+      "cites_id": [
+        "13479351263123006940"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konservasi In Vitro Pisang Kepok Unti Sayang (Musa balbisiana) Melalui Pertumbuhan Minimal pada Berbagai Media",
+        "pub_year": "2017",
+        "citation": "Buletin Agrohorti 5 (1), 27-36, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:5awf1xo2G04C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18049560588486172772",
+      "cites_id": [
+        "18049560588486172772"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Efikasi Teknik Kultur Meristem dan Kemoterapi untuk Eliminasi Sugarcane Streak Mosaic Virus (SCSMV) pada Tebu",
+        "pub_year": "2016",
+        "citation": "Indonesian Ministry of Agriculture, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8853525451483038249",
+      "cites_id": [
+        "8853525451483038249"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro microrhizome formation of temulawak (Curcuma xanthorrhiza Roxb.)",
+        "pub_year": "2011",
+        "citation": "Biopharmaca Research Center, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9639396197386388873",
+      "cites_id": [
+        "9639396197386388873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lauraceae",
+        "pub_year": "2005",
+        "citation": "Biotechnology of Fruit and Nut Crops 1, 325-348, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16199505823545876194",
+      "cites_id": [
+        "16199505823545876194"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of paclobutrazol application followed by dormancy breaking substance on flower formation of mango",
+        "pub_year": "1996",
+        "citation": "Proc. International Conference on Tropical fruits, 23-26, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15821795792116731505",
+      "cites_id": [
+        "15821795792116731505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formation of embryogenic mutant callus in melon (Cucumis melo L.) through gamma-ray irradiation for NaCl tolerance",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2616 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:cK4Rrx0J3m0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4996769331311001005",
+      "cites_id": [
+        "4996769331311001005"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of differences in fruit maturity levels of three Balinese banana cultivars (Musa spp.) on the quality of fruit flesh flour produced",
+        "pub_year": "2023",
+        "citation": "GSC Biological and Pharmaceutical Sciences 22 (1), 105-113, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:-7ulzOJl1JYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12285573978604926005",
+      "cites_id": [
+        "12285573978604926005"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sterilisasi dan Pertumbuhan In Vitro Tunas Aksilar Pepaya Kultivar Callina dan Caliso",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Agronomy 49 (1), 75-81, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:fFSKOagxvKUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13228489890219757988",
+      "cites_id": [
+        "13228489890219757988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth response of four accessions of Moringa oleifera Linn shoots cultured on various basic media.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:KaMxkj08jr0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5736430825922654749",
+      "cites_id": [
+        "5736430825922654749"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physicochemical characteristics and sensory profile of gedong mango at two different maturity levels.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:1Ye0OR6EYb4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8350628222722677124",
+      "cites_id": [
+        "8350628222722677124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth evaluation of taro cv. Bentul (Colocasia esculenta L.) diploid and tetraploid in the greenhouse in response to different soil water content for selection of drought \u2026",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 439 (1), 012049, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:6ZxmRoH8BuwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5683923296207698380",
+      "cites_id": [
+        "5683923296207698380"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi 13 Genotipe Terung (Solanum melongena L.) Koleksi Pusat Kajian Hortikultura Tropika (PKHT)",
+        "pub_year": "2018",
+        "citation": "Comm. Horticulturae Journal 2 (2), 28-35, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18423257891430449115",
+      "cites_id": [
+        "18423257891430449115"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Somatic Embryogenesis of Melon (Cucumis melo L.) As Affected by Culture Media and Composition of Plant Growth Regulators",
+        "pub_year": "2018",
+        "citation": "Journal of Tropical Crop Science Vol 5 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8948313503996879772",
+      "cites_id": [
+        "8948313503996879772"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Akar dan Tunas Setek Batang Tanaman Pohpohan (Pilea trinervia Wight) dalam Media Air dengan Perlakuan IBA dan Aerasi",
+        "pub_year": "2018",
+        "citation": "Buletin Agrohorti 6 (3), 362-371, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:yB1At4FlUx8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9455348679838301466",
+      "cites_id": [
+        "9455348679838301466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Somatic embryogenesis of sago palm (Metroxylon sagu Rottb.) through suspension culture technique",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 183 (1), 012007, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:URolC5Kub84C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6569598745148045020",
+      "cites_id": [
+        "6569598745148045020"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh TDZ terhadap induksi embrio somatik sagu (Metroxylon sagu Rottb.) pada tiga metode kultur berbeda (Effect of TDZ on the somatic embryo induction of sago palm \u2026",
+        "pub_year": "2018",
+        "citation": "Menara Perkebunan 86 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:0KyAp5RtaNEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10426136509564246310",
+      "cites_id": [
+        "10426136509564246310"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro pre-existing meristem proliferation and water culture cuttings propagation of pilea (Pilea trinervia Wight.).",
+        "pub_year": "2018",
+        "citation": "Acta Horticulturae, 333-338, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:dBIO0h50nwkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7308707837863721156",
+      "cites_id": [
+        "7308707837863721156"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of two cassava accessions on vitrification and modification of vitrification techniques",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1744 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:J-pR_7NvFogC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7785969860639132810",
+      "cites_id": [
+        "7785969860639132810"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cryopreservation for long-term plant germplasm storage",
+        "pub_year": "2016",
+        "citation": "Pusat Kajian Hortikultura Tropika (PKHT)-LPPM IPB, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:u-coK7KVo8oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11344969010070481990",
+      "cites_id": [
+        "11344969010070481990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mempertahankan genetik plasma nutfah tanaman pepaya (Carica papaya L.) secara kriopreservasi",
+        "pub_year": "2016",
+        "citation": "Ficus Press, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:i2xiXl-TujoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5019196484777569827",
+      "cites_id": [
+        "5019196484777569827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Pembungaian Jeruk Siem Kintamani (Citrus reticulata Blanco) dengan Paclobutrazol dan Zat Pemecah Dormansi KNO3",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13680993710991456135",
+      "cites_id": [
+        "13680993710991456135"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis genetik sifat ketahanan melon (Cucumis melo L.) terhadap virus kuning",
+        "pub_year": "2014",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 42 (2), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1155544628063935229",
+      "cites_id": [
+        "1155544628063935229"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penetapan kriteria rekomendasi pemupukan yang andal sebagai dasar penetapan dosis rekomendasi pemupukan tanaman sayuran nasional: metode uji p tanah untuk beberapa komoditas \u2026",
+        "pub_year": "2013",
+        "citation": "Prosiding Seminar Hasil-Hasil PPM IPB 1, 11-18, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:owLR8QvbtFgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1799313888121998467",
+      "cites_id": [
+        "1799313888121998467"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi embrio somatik durian (durio zibethinus) pada beberapa media yang dilengkapi dengan auksin dan sitokinin",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:7BrZ7Jt4UNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18218905561498180819",
+      "cites_id": [
+        "18218905561498180819"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS PERUBAHAN POLA GENETIK EMPAT GENERASI MANGGIS (Garcinia mangostana L.) BERDASARKAN MARKA ISSR",
+        "pub_year": "2012",
+        "citation": "Berita Biologi 11 (1), 59-66, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:eflP2zaiRacC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4077358982514900277",
+      "cites_id": [
+        "4077358982514900277"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dehidrasi Dan Pembekuan Jaringan Apeks Tebu Untuk Penyimpanan Jangka Panjang",
+        "citation": "Industrial Crops Research Journal 21 (1), 25-32, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9900242697678635428",
+      "cites_id": [
+        "9900242697678635428"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regression Models to Estimate Photosynthetic Rate and Leaf Pigment Content of Kaffir Lime (Citrus hystrix DC)",
+        "pub_year": "2024",
+        "citation": "The 1st International Seminar on Tropical Bioresources Advancenment and \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:-jrNzM816MMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of NPK fertilizer (16-16-16) concentration on the production and quality of cayenne pepper seeds (Capsicum frutescens L.) Bonita and Loblita varieties",
+        "pub_year": "2024",
+        "citation": "Open Access Research Journal of Biology and Pharmacy 11 (1), 066-072, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:U_HPUtbDl20C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of type and time of fertilizer application in foliar fertilization on production and seed quality of cayenne (Capsicum frutescens L. var. Bonita)",
+        "pub_year": "2024",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:PyEswDtIyv0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of soaking solution type on seed viability and seedling growth of Bonita and Loblita cayenne (Capsicum frutescens l.)",
+        "pub_year": "2024",
+        "citation": "Magna Scientia Advanced Biology and Pharmacy 11 (2), 097-104, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:QyXJ3EUuO1IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelilinan untuk Peningkatan Kualitas Cabai Rawit Varietas Lokal Garut dan Ori 212 pada Penyimpanan Suhu Rendah",
+        "pub_year": "2023",
+        "citation": "Jurnal Hortikultura Indonesia 14 (3), 169-176, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:OBSaB-F7qqsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rasio Daun per Buah dan Indeks Luas Daun Tanaman Manggis (Garcinia mangostana L.) di Kebun Percobaan Tajur dan Pasirkuda, Bogor",
+        "pub_year": "2023",
+        "citation": "Buletin Agrohorti 11 (3), 338-345, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:1yWc8FF-_SYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Perbedaan Waktu Pelilinan Setelah Proses Degreening Buah Jeruk Keprok Garut (Citrus reticulata L.) terhadap Perubahan Warna dan Umur Simpan Buah",
+        "pub_year": "2023",
+        "citation": "Buletin Agrohorti 11 (2), 165-174, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:nRpfm8aw39MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelilinan dan Penyimpanan Suhu Rendah pada Cabai Rawit Varietas Lokal Garut dan Ori 212",
+        "pub_year": "2023",
+        "citation": "Jurnal Hortikultura Indonesia 14 (1), 40-48, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:CdxZDUztZiMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics qualities of banana peel flour on three balinese banana cultivars (Musa spp.) with different fruit maturity levels",
+        "pub_year": "2023",
+        "citation": "Open Access Research Journal of Biology and Pharmacy 7 (1), 001-009, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:HGTzPopzzJcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incidence and Molecular-Based Identification of Papaya ringspot virus Infecting Papaya in Java",
+        "pub_year": "2022",
+        "citation": "Jurnal Fitopatologi Indonesia 18 (1), 43-51, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:wMgC3FpKEyYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kriopreservasi Tunas in Vitro Pepaya \u2018Sukma\u2019Dengan Perlakuan Prakultur, Loading, Dan Dehidrasi Dengan Pvs2 Dan Modifikasinya",
+        "pub_year": "2021",
+        "citation": "BERITA BIOLOGI 20 (2), 181-190, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:sJsF-0ZLhtgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skinning Injury Responses in Sweetpotato",
+        "pub_year": "2021",
+        "citation": "Jurnal Budidaya Pertanian 17 (1), 1-8, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:AHdEip9mkN0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DETEKSI VARIASI SOMAKLONAL PLANLET Jatropha curcas Linn. HASIL REGENERASI EMBRIO SOMATIK DENGAN MARKA MOLEKULAR ISSR",
+        "pub_year": "2021",
+        "citation": "Jurnal Bioteknologi & Biosains Indonesia (JBBI) 8 (1), 14-24, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:3htObqc8RwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi Kalus Embriogenik Pepaya (Carica papaya L.) Kultivar Caliso dan Callina",
+        "pub_year": "2021",
+        "citation": "Jurnal Hortikultura Indonesia 12 (3), 163-169, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ubry08Y2EpUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cekaman Severe Drought Stress Influences the Success of Madura Tangerine Flower InductionKekeringan Berat Mempengaruhi Keberhasilan Induksi Bunga Jeruk Keprok Madura",
+        "pub_year": "2020",
+        "citation": "Jurnal Hortikultura Indonesia 11 (1), 13-23, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:0CzhzZyukY4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth evaluation of taro cv. Bentul (Colocasia esculenta L.) diploid andtetraploid in the greenhouse in response to different soil water contentfor selection of drought \u2026",
+        "pub_year": "2020",
+        "citation": "Earth and Environmental Science 439 (012049), 1-10, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:4fGpz3EwCPoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembungaan dan Pembentukan Benih pada Beberapa Genotipe Kubis Bunga (Brassica oleracea var. botrytis L.)",
+        "pub_year": "2019",
+        "citation": "Comm. Horticulturae Journal 1 (1), 39-44, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:WJVC3Jt7v1AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Morfologi dan Uji Daya Hasil 15 Genotipe Caisin (Brassica rapa L. Cv. Grup Caisin)",
+        "pub_year": "2019",
+        "citation": "Comm. Horticulturae Journal 1 (1), 45-53, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:HtEfBTGE9r8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Incubation Duration After Degreening and Storage Methods on the Quality of Tangerine\" Garut\"(Citrus reticulata B.)",
+        "pub_year": "2019",
+        "citation": "Journal of Tropical Crop Science Vol 6 (3), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:LPtt_HFRSbwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pusat Penelitian Bioteknologi-LIPI, Jl. Raya Bogor Km. 46, Cibinong, 16911, Jawa Barat, Indonesia",
+        "pub_year": "2019",
+        "citation": "Jurnal Biologi Indonesia 15 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:9c2xU6iGI7YC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Panen dan Penanganan Pascapanen Asparagus umbellatus, Monstera, dan Philodendron di Naaldjwik, Belanda Selatan, Belanda",
+        "pub_year": "2019",
+        "citation": "Buletin Agrohorti 7 (2), 194-199, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:NXb4pA-qfm4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of immersion time in PVS2 and mesotesta removing on cryopreservation of papaya (Carica papaya L.'Sukma') seeds.",
+        "pub_year": "2019",
+        "citation": "Acta Horticulturae, 167-173, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:MLfJN-KU85MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penyimpanan Plasma Nutfah Pepaya Sukma (Carica papaya L. cv. Sukma) secara Kriopreservasi.",
+        "pub_year": "2019",
+        "citation": "IPB (Bogor Agricultural University), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:SjuI4pbJlxcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi 13 Genotipe Terung (Solanum melongena L.) Koleksi Pusat Kajian Hortikultura Tropika (PKHT) Characterization of 13 Genotype Eggplant (Solanum melongena L \u2026",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:PaBasH6fAo0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of immersion time in PVS2 and mesotesta removing on cryopreservation of papaya (Carica papaya L.'Sukma') seeds",
+        "pub_year": "2018",
+        "citation": "III International Symposium on Plant Cryopreservation 1234, 167-174, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:TIZ-Mc8IlK0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Hubungan Kejadian Getah Kuning dengan Kandungan Kalsium pada Perikarp Buah Manggis (Garcinia mangostana L.).",
+        "pub_year": "2018",
+        "citation": "IPB (Bogor Agricultural University), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:6_hjMsCP8ZoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Pembentukan Warna Jingga Buah Jeruk Tropika karena Perubahan \u03b2-Cryptoxanthin dan Zeaxanthin Setelah Precooling dan Degreening.",
+        "pub_year": "2018",
+        "citation": "IPB (Bogor Agricultural University), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:q-HalDI95KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u03b2-Cryptoxanthin and Zeaxanthin Pigments Accumulation to Induce Orange Color on Citrus Fruits",
+        "pub_year": "2018",
+        "citation": "Materials Science and Engineering Conference Series 299 (1), 012074, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:BzfGm06jWhQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of TDZ on the somatic embryo induction of sago palm (Metroxylon sagu Rottb.) in three different culture methods.",
+        "pub_year": "2018",
+        "citation": "Menara Perkebunan 86 (1), 11-20, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:HIFyuExEbWQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi Populasi Generasi Ke-2 (F2) Hasil Persilangan Pepaya Callina (IPB9) dan Carisya (IPB3)",
+        "pub_year": "2017",
+        "citation": "Comm. Horticulturae Journal 1 (1), 1-7, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Embriogenesis Somatik Sagu (Metroxylon Sagu Rottbol) Metode Kultur Cair Untuk Pengembangan Teknologi Perbanyakan Benih Bermutu",
+        "pub_year": "2017",
+        "citation": "IPB (Bogor Agricultural University), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Ade32sEp0pkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro pre-existing meristem proliferation and water culture cuttings propagation of pilea (Pilea trinervia Wight.)",
+        "pub_year": "2016",
+        "citation": "II Asian Horticultural Congress 1208, 333-338, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH INTERAKSi KALSIUM DAN NAA UNTUK MENURUNKAN CEMARAN GETAH KUNING MANGGIS (Garcinia mangostana L.)\u00b7",
+        "pub_year": "2016",
+        "citation": "Ficus Press, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:PoWvk5oyLR8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik dan Seleksi Genotipe Gandum F3 (OASIS X HP1744) di Dataran Tinggi",
+        "pub_year": "2015",
+        "citation": "Perbal: Jurnal Pertanian Berkelanjutan 3 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regenerasi Manggis (Garcinia mangostana L.) Melalui Embriogenesis Somatik",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:MhiOAD_qIWkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fisiologi Pengerasan Perikarp Buah Manggis",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:1taIhTC69MYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of boron fertilization on mangosteen (Garcinia mangostana L.) fruit quality",
+        "pub_year": "2014",
+        "citation": "XXIX International Horticultural Congress on Horticulture: Sustaining Lives \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u0628\u0631\u0631\u0633\u06cc \u062e\u0635\u0648\u0635\u06cc\u0627\u062a \u0628\u06cc\u0648\u0644\u0648\u0698\u06cc\u06a9\u06cc (Syn. Uncinula necator) Erysiphe necator \u0639\u0627\u0645\u0644 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0633\u0641\u06cc\u062f\u06a9 \u0633\u0637\u062d\u06cc \u0627\u0646\u06af\u0648\u0631 \u062f\u0631 \u0645\u0634\u06af\u06cc\u0646 \u0634\u0647\u0631\u200e",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:NyGDZy8z5eUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi fisiologi pengerasan dan perubahan warna perikarp dalam hubungannya dengan respirasi klimakterik dan kadar air buah manggis (Garcinia mangostana)",
+        "pub_year": "2013",
+        "citation": "IPB (Bogor Agricultural University), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:wKETBy42zhYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelestarian Plasma Nutfah Kakao (Theobroma cacao L.) Dengan Slow Cooling Cryopreservation",
+        "pub_year": "2013",
+        "citation": "Dep. Agronomi & Hortikultura, Faperta IPB, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:7H_MAutzIkAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Beberapa Stadia Kematangan dan Suhu Simpan terhadap Perubahan Warna dan Karakteristik Pascapanen Buah Manggis (Garcinia mangostana L.)",
+        "pub_year": "2013",
+        "citation": "Perhimpunan Hortikultura Indonesia, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:SpbeaW3--B0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi  Kalsium dan Boron untuk Pengendalian Cemaran Getah Kuning Pada Buah Manggis",
+        "pub_year": "2013",
+        "citation": "Jurnal Hortikultura 23 (4), 350-357, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and Anatomical Studies of Fruit Development Related to the Incidence of Yellow Latex in Mangosteen (Garcinia mangostana L)",
+        "pub_year": "2012",
+        "citation": "Perhimpunan Hortikultura Indonesia, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:hsZV8lGYWTMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Bakteri Endofit Terhadap Multiplikasi Tunas dan Pertumbuhan Bibit Pisang Rajabulu (AAB)",
+        "pub_year": "2012",
+        "citation": "Prosiding Seminar Nasional PERHORTI 2011, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:-mN3Mh-tlDkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inisiasi Kalus Embriogenik dari Eksplan Embrio Zigotik Durian",
+        "pub_year": "2012",
+        "citation": "Perhimpunan Hortikultura Indonesia, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:XUvXOeBm_78C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDI PENGENDALIAN GETAH KUNING DAN PENGERASAN KULIT BUAH MANGGIS (Garcinia mangostana L) DENGAN PENYEMPROTAN KALSIUM",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:WC23djZS0W4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Etilen dan Suhu Simpan terhadap Perubahan Mutu Buah Manggis",
+        "pub_year": "2012",
+        "citation": "Jurnal Pengkajian dan Pengembangan Teknologi Pertanian 15 (3), 227-240, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian karakter biomassa, kadar dan profil derivat xanthone serta potensi antioksidan kulit buah manggis pada berbagai aspek agronomi",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:AXkvAH5U_nMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kokultur rizobakteri secara in vitro pada planlet pisang untuk meningkatkan mutu planlet dan pengendaliaan penyakit layu fusarium",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:prdVHNxh-e8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Picloram Konsentrasi 0.5 Atau 1.0 \u03bcM Dapat Menginduksi Embriogenesis Somatik Pada Biji Muda Manggis (Garcinia mangostana L.)",
+        "pub_year": "2011",
+        "citation": "Prosiding Seminar Nasional PERHORTI 2011, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ZzlSgRqYykMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induksi proembrio terhadap jarak pagar (Jatropha curcas L.) dengan kombinasi zat pengatur tumbuh auksin dan sitokinin",
+        "pub_year": "2011",
+        "citation": "Bogor Agricultural University (IPB), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:a3BOlSfXSfwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effectivity of Indol-3-Butyric Acid (IBA), 6-Benzyl Amino Purin (BAP), and Sucrose to Improve In Vitro Multiplication of Temulawak (Curcuma xanthorrizha Roxb.)",
+        "pub_year": "2011",
+        "citation": "Biopharmaca Research Center, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Dip1O2bNi0gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Pemberian Kalsium untuk Mengatasi Getah Kuning pada Buah Manggis (Garcinia mangostana L.)",
+        "pub_year": "2011",
+        "citation": "Jurnal Agronomi Indonesia (Indonesian Journal of Agronomy) 39 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:35r97b3x0nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektifitas Aplikasi In-vitro Rizobakteri Sebagai Agen Antagonis Layu Fusarium pada Pisang Rajabulu/AAB di Rumah Kaca",
+        "pub_year": "2011",
+        "citation": "Jurnal Hortikultura Indonesia 2 (1), 34-42, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Calcium spray reduces yellow latex on mangosteen fruits (Garcinia mangostana L.)",
+        "pub_year": "2011",
+        "citation": "Journal of Fruit and Ornamental Plant Research 19 (2), 51-65, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Umur Buah dan Jenis Media terhadap Induksi Embrio Somatik Biji Manggis (Garcinia",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Br1UauaknNIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study Pericarp Hardening of Mangosteen During Storage",
+        "pub_year": "2010",
+        "citation": "Perhimpunan Hortikultura Indonesia, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:GFxP56DSvIMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Fruit Characters, Xanthones Content and Antioxidant Properties of Various Qualities of Mangosteens (Garcinia Mangostana L.)",
+        "pub_year": "2010",
+        "citation": "Indonesian Journal of Agronomy 38 (3), 7798, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:yFnVuubrUp4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh bakteri endofit terhadap multiplikasi tunas Rajabulu secara in vitro",
+        "pub_year": "2010",
+        "citation": "Agriplus 20 (3), 227-232, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improving Productivity and Quality of Mangosteen",
+        "pub_year": "2006",
+        "citation": "\ud55c\uad6d\uc6d0\uc608\ud559\ud68c \uae30\ud0c0\uac04\ud589\ubb3c, 57-57, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi pohon apokad (Persea americana Mill.) dan sebarannya di Kabupaten Sukabumi, Jawa Barat",
+        "pub_year": "2006",
+        "citation": "Bogor Agricultural University (IPB), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Ehil0879vHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth and development of tropical fruits",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Transformation of Avocado (Persea americana Mill.): A Coordinated Strategy for Crop Improvement",
+        "pub_year": "2001",
+        "citation": "II International Symposium on Biotechnology of Tropical and Subtropical \u2026, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kemampuan pecah tunas dan berbiak mother plant Pisang Rajabulu (AAB) dan Pisang Tanduk (AAB) dalam medium inisiasi in vitro",
+        "pub_year": "2001",
+        "citation": "Agriplus 20 (1), 9-17, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Liquid Coconut Endosperm Improves Somatic Embryos Recovery and Plant Conversion of Avocado (Persea Americana Mill.)",
+        "pub_year": "2001",
+        "citation": "PROCEEDINGS-PLANT GROWTH REGULATION SOCIETY OF AMERICA-ANNUAL MEETING- 28, 66-66, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Patentkali on tomato (Lycopersicum esculentum, Mill.) production",
+        "pub_year": "1992",
+        "citation": "Symposium on Small Scale vegetable production and Horticultural Economics in \u2026, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh konsentrasi BAP, KNO3 dan Etephon pada mangga (Mangifera indica L.) yang telah diberi Paclobutrazol",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:NDuN12AVoxsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penanganan Segar Buah Jeruk Siem (Citrus reticulata Blanco) Untuk Memperpanjang Umur Simpan dan Memperbaiki Warna Kulit Buah",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:MAUkC_7iAq8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Percepatan penanganan pasca panen padi dan pemantapan gerakan khusus kedelai-jagung di WKPP Jambak dan WKPP Cikedung II BPP Cikedung-Kabupaten Indramayu, Jawa Barat",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:Dem6FJhTUoYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh waktu aplikasi faklobutrazol dan ethephon terhadap pertumbuhan dan pembungaan tanaman mangga (Mangifera indica L.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:3NQIlFlcGxIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pelapisan dan Suhu Simpan terhadap Kualitas dan Daya Simpan Buah Nenas (Ananas comosus (L.) Merr) Effect of Coating and Storage Temperatures on Quality and Shelf Life \u2026",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:yxmsSjX2EkcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Calcium Spraying to Reduce Yellow Latex on Mangosteen Fruits (Garcinia mangostana L.)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:L1USKYWJimsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Morfologi Dan Anatomi Perkembangan Buah Dan Kaitannya Terhadap Insiden Getah Kuning Pada Manggis (Garcinia mangostana L.); Morphological and Anatomical Studies Of Fruit \u2026",
+        "citation": "PERHORTI, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:jU7OWUQzBzMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Protokol Embriogenesis Somatik Pepaya (Carica papaya L.) Kultivar Caliso dan Callina",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:CB2v5VPnA5kC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Struktur Sekretori Getah Kuning dan Pengaruh Kalsium terhadap Cemaran Getah Kuning pada Buah Manggis (Garcinia mangostana L.)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:PYBJJbyH-FwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengelolaan pemangkasan tanaman kakao (Theobroma cacao l.) Di kebun rumpun sari antan I, Pt Sumber Abadi Tirtasantosa, Cilacap, Jawa Tengah",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:7wO8s98CvbsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimasi Proliferasi dan Perkecambahan Embrio Somatik serta Pertumbuhan Planlet Jarak Pagar (Jatropha curcas Linn.) Kultivar Dompu",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:WHdLCjDvYFkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Rizobakteri untuk Meningkatkan Mutu Planlet Pisang dan Toleransi terhadap Penyakit Layu Fusarium",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:kw52XkFRtyQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemantapan Ketahanan Pangan Melalui Peningkatan Produksi dan Kualitas Apokad (Persea Americana Mill.) di Pertanian Rakyat",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:FiytvqdAVhgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Morfologi Dan Anatomi Perkembangan Buah Manggis",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:IaI1MmNe2tcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study peningkatan kualitas buah manggis",
+        "citation": "bogor agricultural university, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:j7_hQOaDUrUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Morfologi dan Potensi Hasil pada 15 Genotipe Caisin (Brassica rapa L. cv. Grup Caisin) Morphological Characterization and Yield Potential Trial of 15 Caisin \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:7Hz3ACDFbsoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbanyakan Pepaya (Carica papaya L.)\u2018Sukma\u2019In Vitro dari Eksplan Tunas Pucuk sebagai Respon terhadap BA dan NAA In Vitro Propagation of Papaya (Carica papaya L.)\u2018Sukma\u2019from \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:LdasjJ6CEcoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use of Coating Materials and Cytokinin to Prolong Shelflife And to Keep Freshness and Color of Calyx of Mangosteen (Garcinia Mangostana L.) Fruit",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:1lhNe0rCu4AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Genetik Sifat Ketahanan Melon (Cucumis melo L.) terhadap Virus Kuning Genetic Analysis on Resistance of Melon (Cucumis melo L.) to Yellow Virus",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:bKqednn6t2AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Persea americana Mill. Avocado",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:DJbcl8HfkQkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDI TRANSLOKASI KALSIUM PADA JARINGAN TANGKAI DAN BUAH DALAM USAHA MENGATASI CEMARAN GETAH KUNING PADA BUAH MANGGIS",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:8d8msizDQcsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penanggung Jawab",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:GtLg2Ama23sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENEUTIAN TANAMAN INDUSTRI",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:YohjEiUPhakC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Why is Calcium, Can Increase the Amount of Mangosteen Fruit (Garcinia mangostana L.) Quality?",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:foquWX3nUaYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of Calcium Spraying to Reduce Yellow Latex on Mangosteen Fruits (Garcinia mangostana L.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:S16KYo8Pm5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARYATI, ISA B. IPOR, ISMAIL JUSOH, MOHD. EFFENDI WASLI",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:epqYDVWIO7EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity and Association among Nias Yellow Dwarf (NYD), Tenga Tall (TAT) and KHINA-1 Hybrid Coconuts Based on Microsatellite Markers",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:zLWjf1WUPmwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proceeding International Seminar on Tropical Horticulture 2016: The Future of Tropical Horticulture",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kombinasi Termoterapi Dan Khemoterapi Dengan Kultur Apeks Dan Meristem Untuk Eliminasi Virus Mosaik Pada Tebu/the Combined Treatment of Thermotherapy and Chemotherapy with Apex \u2026",
+        "citation": "Industrial Crops Research Journal 22 (1), 19-28, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Medium and Explant source on Cassava Callus Induction",
+        "citation": "wtrlnl, 13, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluasi Potensi Xanthone pada Beberapa Kondisi Fisik Buah Manggis (Garcinia mangostana L.) Evaluation of xanthone content of mangosteen\u2019s fruit hulls on several physical \u2026",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaturan Pembungaan Mangga Gadung 21 di Luar Musim dengan Paklobutrazol dan Zat Pemecah Dormansi (Off Season Flower Forcing of Mangga Gadung 21 Using Paclobutrazol and \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ayij0SsAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 3,
+    "not_available": 0
+  }
+}

@@ -1,0 +1,783 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "CCtX8i0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Supriyanto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CCtX8i0AAAAJ&citpid=4",
+  "affiliation": "Mechanical and Biosystem Engineering Department, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Agriculture Informatics",
+    "digital farming",
+    "smart and precission agriculture",
+    "Biosystem Engineering",
+    "microalgae"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "homepage": "http://debasupriyanto.staff.ipb.ac.id/",
+  "citedby": 180,
+  "citedby5y": 152,
+  "hindex": 6,
+  "hindex5y": 6,
+  "i10index": 4,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2015": 3,
+    "2016": 6,
+    "2017": 7,
+    "2018": 10,
+    "2019": 13,
+    "2020": 19,
+    "2021": 23,
+    "2022": 41,
+    "2023": 32,
+    "2024": 24
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "sTNgUYYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tofael Ahamed",
+      "affiliation": "University of Tsukuba"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Qfy_uoIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mohamad Solahudin",
+      "affiliation": "Departemen Teknik Mesin dan Biosistem - IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "E1MP5okAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sucipto Sucipto",
+      "affiliation": "Halal Qualified Industry Development (Hal-Q ID); Agroindustrial Technology- Universitas Brawijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "-WWFTrAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dimas Firmanda Al Riza",
+      "affiliation": "Assistant Professor, Biosystems Engineering Department, Universitas Brawijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uK92WrkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agus Supriatna Somantri",
+      "affiliation": "Balai Besar Litbang Pascapanen Pertanian"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "RCg3uJsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr.Kiman Siregar",
+      "affiliation": "Senior Lecturer, Department of Agricultural Engineering, Syiah Kuala University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uLkDW0oAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Nursinta Adi Wahanani",
+      "affiliation": "Badan Riset dan Inovasi Nasional"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IRfJ9tUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bambang Pramudya",
+      "affiliation": "Prof of Agricultural Engineering, Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2RgyhGsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kudang Boro Seminar",
+      "affiliation": "Professor of Agriculture Engineering, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "lwxNEp8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "subrata I dewa made",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "JW9oIVQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "ALVIN FATIKHUNNADA .",
+      "affiliation": "Undergraduate Student of Mechanical and Bio system Enginerring, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tz47q3kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Hendra Rahmawan",
+      "affiliation": "Computer Science, Bogor Agricultural University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Artificial neural networks model for estimating growth of polyculture microalgae in an open raceway pond",
+        "pub_year": "2019",
+        "citation": "Biosystems Engineering 177 (January 2019), 122-129, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:Y5dfb0dijaUC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13242858759382829978",
+      "cites_id": [
+        "13242858759382829978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Klasifikasi Buah Belimbing Berdasarkan Citra Red-Green-Blue Menggunakan Knn Dan Lda",
+        "pub_year": "2013",
+        "citation": "Penelitian Ilmu Komputer Sistem Embedded Dan Logic 1 (1), 155397, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:eJXPG6dFmWUC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15867617338622879651",
+      "cites_id": [
+        "15867617338622879651"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gemini virus attack analysis in field of chili (Capsicum annuum L.) using aerial photography and Bayesian segmentation method",
+        "pub_year": "2015",
+        "citation": "Procedia Environmental Sciences 24, 254-257, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370482571797474830",
+      "cites_id": [
+        "16370482571797474830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Decision Tree Approach to Estimate the Microalgae Production in Open Raceway Pond",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 209 (1), 012050, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:tkaPQYYpVKoC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10519163519070238932",
+      "cites_id": [
+        "10519163519070238932"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of water content, sucrose and invert sugar of sugarcane using bioelectrical properties and artificial neural network",
+        "pub_year": "2018",
+        "citation": "International Food Research Journal 25 (6), 2674-2680, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:PELIpwtuRlgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16685676695885715967",
+      "cites_id": [
+        "16685676695885715967"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water supply pumping control system using PWM based on precision agriculture principles",
+        "pub_year": "2016",
+        "citation": "International Agricultural Engineering Journal 25 (2), 1-8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:wbdj-CoPYUoC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14047707803834088614",
+      "cites_id": [
+        "14047707803834088614"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioelectrical measurement for sugar recovery of sugarcane prediction using artificial neural network",
+        "pub_year": "2018",
+        "citation": "2018 5th International Conference on Electrical Engineering, Computer \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:9vf0nzSNQJEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2922509563853802934",
+      "cites_id": [
+        "2922509563853802934"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A novel polyculture growth model of native microalgal communities to estimate biomass productivity for biofuel production",
+        "pub_year": "2021",
+        "citation": "Biotechnology Progress 37 (4), e3156, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:hkOj_22Ku90C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5551442558558709455",
+      "cites_id": [
+        "5551442558558709455"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three Generations of Forest Peoples' Empowerment in Indonesia: Process Towards Sustainable and Equitable Forest Management",
+        "pub_year": "2020",
+        "citation": "Jurnal Manajemen Hutan Tropika (Journal of Tropical Forest Management) 26 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:VL0QpB8kHFEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8907940952224179443",
+      "cites_id": [
+        "8907940952224179443"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDN-LCI: The conceptual framework of the Indonesian life cycle inventory database to support the life cycle assessment",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012044, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:LjlpjdlvIbIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7769955244183225134",
+      "cites_id": [
+        "7769955244183225134"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis of algal fuel from native polyculture microalgae based on utilization of palm oil mill effluent and excess energy",
+        "pub_year": "2023",
+        "citation": "Bioresource Technology Reports, 101343, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:NJ774b8OgUMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17023521938732899070",
+      "cites_id": [
+        "17023521938732899070"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Conceptual of Energy Demand for Polyculture Microalgae Biomass Production in Large-scale Open Raceway Pond using Excess Energy and Effluent from Palm Oil Mills",
+        "pub_year": "2019",
+        "citation": "2019 5th International Conference on Science and Technology (ICST) 1, 1-5, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:UHK10RUVsp4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14281749756191613732",
+      "cites_id": [
+        "14281749756191613732"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of Orifice in Biodiesel Reactor with Hydrodynamic Cavitation System using Computational Fluid Dynamics",
+        "pub_year": "2022",
+        "citation": "Jurnal Keteknikan Pertanian 10 (1), 85-94, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:_Ybze24A_UAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8440003995653082706",
+      "cites_id": [
+        "8440003995653082706"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reconciling Livelihoods and Conservation for Rattan Sustainable Harvesting in Lore Lindu National Park, Indonesia",
+        "pub_year": "2021",
+        "citation": "Small-scale Forestry 20 (2), 175-197, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:1yQoGdGgb4wC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5877476333140074746",
+      "cites_id": [
+        "5877476333140074746"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Life cycle inventory of electricity production from biomass power plant system using life cycle assessment in Aceh Province, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 749 (1), 012061, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:JQOojiI6XY0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12094107482430321422",
+      "cites_id": [
+        "12094107482430321422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Rendemen Tebu Menggunakan Sifat Biolistrik dan ANN untuk Pengembangan Alat Ukur Cepat Rendemen Tebu",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknologi Informasi dan Ilmu Komputer 5 (3), 315-324, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:eMMeJKvmdy0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9565276896860236669",
+      "cites_id": [
+        "9565276896860236669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Ukuran Sampel, Frekuensi, dan Suhu terhadap Sifat Biolistrik Tebu (Saccharum officanarum L.) untuk Prediksi Cepat Rendemen Tebu",
+        "pub_year": "2016",
+        "citation": "Industria: Jurnal Teknologi dan Manajemen Agroindustri 5 (3), 140-148, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:WqliGbK-hY8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8831185172831370960",
+      "cites_id": [
+        "8831185172831370960"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Different Hydroponic Types and Nutrient Concentrations on the Chemical Composition and Antioxidant Capacity of Purwoceng (Pimpinella pruatjan) Extract",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (5), 985-994, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17170913501297610985",
+      "cites_id": [
+        "17170913501297610985"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Artificial Neural Network Models to Estimate Growth of Melon (Cucumis melo L.) at Vegetative Phase in Greenhouse with Evaporative Cooling",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012011, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:tzM49s52ZIMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4695029899149455253",
+      "cites_id": [
+        "4695029899149455253"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development Software to Evaluate Environmental Impact for Palm Oil (Elaeis guineensis Jacq) Industry using Life Cycle Assessment Approach in Indonesia",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012010, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:7T2F9Uy0os0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1933144539162208773",
+      "cites_id": [
+        "1933144539162208773"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conceptual Design of Inventory Analysis Software to Support the Life Cycle Assessment in Palm Oil Production",
+        "pub_year": "2021",
+        "citation": "E3S Web of Conferences 226, 00028, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:ZuybSZzF8UAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1343443145650017117",
+      "cites_id": [
+        "1343443145650017117"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis and design of expert system for microalgae production to produce biofuel",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012065, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:ye4kPcJQO24C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3068316107343675128",
+      "cites_id": [
+        "3068316107343675128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Preprocessing and Augmentation Process in Development of a Deep Learning Model for Fusarium Detection in Shallots",
+        "pub_year": "2024",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 13 (2 \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:XD-gHx7UXLsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Mechanical Strength and Flexibility of Shallots Leaf",
+        "pub_year": "2024",
+        "citation": "Jurnal Keteknikan Pertanian 12 (1), 21-34, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Photosynthetic Rate Prediction Model of Golden Melon Plant (Cucumis melo L.) at Vegetative Phase in Greenhouse using Artificial Neural Networks",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (1), 30-38, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:-_dYPAW6P2MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Cutting-Edge Software Innovation for Melon Production Management in Greenhouse",
+        "pub_year": "2023",
+        "citation": "Frontier in Sustainable Agromaritime and Environmental Development Conference, -, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:z_wVstp3MssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secondary Metabolites and Antioxidant Activity of Purwoceng (Pimpinella Pruatjan) Root Extracts from Various Hydroponic Planting Techniques",
+        "pub_year": "2023",
+        "citation": "Jurnal Teknik Pertanian Lampung (Journal of Agricultural Engineering) 12 (3 \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:fEOibwPWpKIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Artificial Neural Networks to Predict Melon (cucumis melo L.) Production in Tropical Greenhouse, Indonesia",
+        "pub_year": "2023",
+        "citation": "Jurnal Keteknikan Pertanian 11 (2), 193-204, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:35r97b3x0nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancangan Arsitektur Big Data Management Untuk Mendukung Pengelolaan Sumber Daya Biodesel Berkelanjutan Di Indonesia",
+        "pub_year": "2023",
+        "citation": "Lembaran publikasi minyak dan gas bumi 57 (1), 1-7, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:tKAzc9rXhukC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Panduan Praktis Hidroponik dengan Metode Rakit Apung untuk Budidaya Tanaman Hortikultura Sayuran",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Smart and Precision Agriculture Concepts and Approaches in Energy Management for and from Agriculture",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:j8SEvjWlNXcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Life Cycle Cost Analysis of Local Rice Production in Bangka Regency, Indonesia",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012009, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:kzcrU_BdoSEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data-driven Business Evaluation Framework for Microalgae to Produce Biofuel",
+        "pub_year": "2019",
+        "citation": "Proceedings of the Conference on Biomass Science \u7b2c 14 \u56de\u30d0\u30a4\u30aa\u30de\u30b9\u79d1\u5b66\u4f1a\u8b70 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:dTyEYWd-f8wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A decision tree approach to estimate the microalgae production in open raceway pond",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 209 (1), 012050, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:uLbwQdceFCQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of water content, sucrose and invert sugar of sugarcane using bioelectrical properties and artificial neural network",
+        "pub_year": "2018",
+        "citation": "International Food Research Journal (Malaysia), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:dQ2og3OwTAUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Meteorological Parameter for Estimate the Growth of Polyculture Microalgae to Produce Biofuel in Open Raceway Pond: Case Study Minamisoma, Fukushima Prefecture, Japan",
+        "pub_year": "2018",
+        "citation": "Grand Renewable Energy proceedings Japan council for Renewable Energy, 206, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:JoZmwDi-zQgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation to Forecast Mixculture Microalgae Growth in Open Raceway Pond",
+        "pub_year": "2017",
+        "citation": "The Association of Agricultural Information Sciences Annual Meeting of 2017, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:HE397vMXCloC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Sistem Online Cyber Extension untuk Budidaya dan Agribisnis Cabai Merah (Capsicum Annuum. L)",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:D_sINldO8mEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Sistem Informasi Produksi 4 Komoditas Perkebunan Di PT XYZ",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:bnK-pcrLprsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem Pakar Diagnosa dan Penanggulangan Hama dan Penyakit Tomat Buah (Solanum lycopersicum) Dataran Tinggi Berbasis Android",
+        "pub_year": "2013",
+        "citation": "Seminar Nasional HIPI 2013, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hot Pepper (Capsicum Annuum. L) Online Agribussiness Consultasion System",
+        "pub_year": "2011",
+        "citation": "Bogor Agricultural University, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Sustainable Assessment of the Implementation of Bio-Pellet Biomass from the Palm Oil Industry Waste as Fuel for Biomass Power Plants in Indonesia: Life Cycle Assessment Studies",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:VLnqNzywnoUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Model Jaringan Saraf Tiruan Untuk Pengendalian LIngkungan Budidaya Tanaman Melon Secara Hidroponik Di Dalam Greenhouse",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BERDASARKAN CITRA RED-GREEN-BLUE MENGGUNAKAN ADAPTIF NEURO FUZZY INFERENCE SYSTEM (ANFIS)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem Monitoring Online Kandang Ayam Tipe Tertutup Berbasis Mikrokontroler Arduino",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design And Optimization Of Agro-Scm For Food And Energy A Remote Monitoring System Of Broilers' Behavior In A Multi-Agent Broiler Closed House System",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "CCtX8i0AAAAJ:J-pR_7NvFogC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

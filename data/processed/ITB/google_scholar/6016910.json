@@ -1,0 +1,1080 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "kZa4SKYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tjandra Anggraeni",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kZa4SKYAAAAJ&citpid=1",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Entomology"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 325,
+  "citedby5y": 176,
+  "hindex": 8,
+  "hindex5y": 7,
+  "i10index": 8,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "1991": 2,
+    "1992": 2,
+    "1993": 5,
+    "1994": 5,
+    "1995": 4,
+    "1996": 4,
+    "1997": 2,
+    "1998": 2,
+    "1999": 2,
+    "2000": 4,
+    "2001": 3,
+    "2002": 3,
+    "2003": 2,
+    "2004": 5,
+    "2005": 3,
+    "2006": 5,
+    "2007": 2,
+    "2008": 2,
+    "2009": 4,
+    "2010": 4,
+    "2011": 12,
+    "2012": 6,
+    "2013": 3,
+    "2014": 9,
+    "2015": 8,
+    "2016": 13,
+    "2017": 11,
+    "2018": 21,
+    "2019": 18,
+    "2020": 28,
+    "2021": 31,
+    "2022": 37,
+    "2023": 42,
+    "2024": 19
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies on cell-cell co-operation during phagocytosis by purified haemocyte populations of the wax moth, Galleria mellonella",
+        "pub_year": "1991",
+        "citation": "Journal of insect physiology 37 (6), 453-460, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 71,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18021831863444057650",
+      "cites_id": [
+        "18021831863444057650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vertical and seasonal distribution of flying beetles in a suburban temperate deciduous forest collected by water pan trap",
+        "pub_year": "2005",
+        "citation": "Insect Science 12 (3), 199-206, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13488844188270128304",
+      "cites_id": [
+        "13488844188270128304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ovitrap surveillance of dengue vector mosquitoes in Bandung city, West Java province, Indonesia",
+        "pub_year": "2021",
+        "citation": "PLoS neglected tropical diseases 15 (10), e0009896, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6304969814377309144",
+      "cites_id": [
+        "6304969814377309144"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonisitas dan efektivitas Trichoderma sp dalam menekan perkembangan Phytophthora palmivora pada buah kakao.",
+        "pub_year": "2009",
+        "citation": "Agroland 16 (1), 9-16, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:4TOpqqG69KYC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15174690384488791557",
+      "cites_id": [
+        "15174690384488791557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resources partitioning and different foraging behavior is the basis for the coexistence of Thrips hawaiiensis (Thysanoptera: Tripidae) and Elaeidobius kamerunicus (Coleoptera \u2026",
+        "pub_year": "2013",
+        "citation": "Journal of Entomology and Nematology 5 (5), 59-63, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9303837479376510040",
+      "cites_id": [
+        "9303837479376510040"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellular and humoral immune defenses of Oxya japonica (Orthoptera: Acrididae) to entomopathogenic fungi Metarhizium anisopliae",
+        "pub_year": "2011",
+        "citation": "Entomological Research 41 (1), 1-6, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18221990470182794504",
+      "cites_id": [
+        "18221990470182794504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of leaf biopesticide Mirabilis jalapa and fungi Metarhizium anisopliae to immune response and mortality of Spodoptera exigua instar IV",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 312-315, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:roLk4NBRz8UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11213588532578796102",
+      "cites_id": [
+        "11213588532578796102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of Developmental Stage/Age, Gamma Irradiation Dose, and Temperature in Sterilization of Male Aedes aegypti (Diptera: Culicidae) in a Sterile Insect \u2026",
+        "pub_year": "2022",
+        "citation": "Journal of Medical Entomology 59 (1), 320-327, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:GnPB-g6toBAC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4229527198103892726",
+      "cites_id": [
+        "4229527198103892726"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Propolis Can Improve Caudal Fin Regeneration in Zebrafish (Danio rerio) Induced by The Combined Administration of Alloxan and Glucose",
+        "pub_year": "2021",
+        "citation": "Zebrafish 18 (4), 274-281, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11883718401617402348",
+      "cites_id": [
+        "11883718401617402348"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Repellency of some essential oils against Drosophila melanogaster, vector for bacterium blood disease in banana plantation.",
+        "pub_year": "2018",
+        "citation": "Journal of Entomology 15 (3), 125-134, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:blknAaTinKkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8640781035898620511",
+      "cites_id": [
+        "8640781035898620511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of Compaction, Temperature, and Duration Factors for Packaging and Transporting of Sterile Male Aedes aegypti (Diptera: Culicidae) under \u2026",
+        "pub_year": "2022",
+        "citation": "Insects 13 (9), 847, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12757563513542286040",
+      "cites_id": [
+        "12757563513542286040"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of the combination of two biological control agents, Mirabilis jalapa and Bacillus thuringiensis, to Spodoptera litura's immune response and their mortality",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 316-319, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7128408538449349859",
+      "cites_id": [
+        "7128408538449349859"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Banana flower-insect interaction: alpha-pinene as potential attractant for the insect vector of banana blood disease",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (1), 8-8, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:isC4tDSrTZIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6484224050620811287",
+      "cites_id": [
+        "6484224050620811287"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive ability enhancement of House Fly (Musca domestica Linn) (Diptera Muscidae) through hormesis by application of sublethal doses of Imidacloprid and Permethrin.",
+        "pub_year": "2017",
+        "citation": "Journal of Entomology 14 (5), 199-207, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:qUcmZB5y_30C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14026790794719166484",
+      "cites_id": [
+        "14026790794719166484"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gonadal maturity induction using karamunting (Melastoma malabatrhicum) ethanol extract on white shrimp female (Litopenaeus vannamei)",
+        "pub_year": "2016",
+        "citation": "Proceeding International Conference on Global Resource Conservation 6 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12253504918782365457",
+      "cites_id": [
+        "12253504918782365457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nutrient Self Selection by the Armyworm, Spodoptera exempta WALKER (Lepidoptera: Noctuidae) Larvae",
+        "pub_year": "2001",
+        "citation": "Pakistan Journal of Biological Sciences 4 (6), 684-687, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=714116514370579160",
+      "cites_id": [
+        "714116514370579160"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kodariah.(2016). Ekstrak Etanol Seledri (Apium Graveolens) Sebagai Anti-Atherogenik Pada Tikus (Rattus Norvegicus) Yang Diinduksi Hiperlipidemia",
+        "citation": "Prosiding Symbion (Symposium on Biology Education), Ldl, 171-188, 0"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:TFP_iSt0sucC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14247856802263584798",
+      "cites_id": [
+        "14247856802263584798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potency of carica (Carica pubescens Lenne & K. Koch) seed extract as repellent agent against mosquito vector of dengue (Aedes aegypti Linn.)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 468 (1), 012011, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5688294033616472696",
+      "cites_id": [
+        "5688294033616472696"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Ekstrak Etanol Seledri (Apium Graveolens) Terhadap Profil Lipid Darah Dan Indeks Atherogenik Tikus Putih (Rattus Norvegicus) Yang Diinduksi Hiperlipidemia",
+        "pub_year": "2019",
+        "citation": "Jurnal Kesehatan Rajawali 9 (1), 9-21, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9573371998516396590",
+      "cites_id": [
+        "9573371998516396590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The maturity of Nypa palm worm Namalycastis rhodochorde (Nereididae: Polychaeta)",
+        "pub_year": "2014",
+        "citation": "AIP Conference Proceedings 1589 (1), 320-324, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=732492355669640221",
+      "cites_id": [
+        "732492355669640221"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sex ratio parasitoid telur Hadronotus leptocorisae (Hymenoptera: Scelionidae) pada telur Leptocorisa acuta (Hemiptera: Alydidae) muda dan dewasa",
+        "pub_year": "2012",
+        "citation": "J Agroteksos 22 (1), 50-57, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5509766458302444291",
+      "cites_id": [
+        "5509766458302444291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Larval development of nypa palm worm Namalycastis rhodochorde (Polychaeta: Nereididae)",
+        "pub_year": "2020",
+        "citation": "Nusantara Bioscience 12 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:hMod-77fHWUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1545649671810238642",
+      "cites_id": [
+        "1545649671810238642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Leaf Biopesticide (Mirabilis jalapa) and Entomopathogenic Fungi (Beauveria bassiana) Combinations to Some Physiological Characters and Anatomical Histology of \u2026",
+        "pub_year": "2014",
+        "citation": "Fourth International Conference on Mathematics and Natural Sciences (ICMNS \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:4DMP91E08xMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16437432933810117543",
+      "cites_id": [
+        "16437432933810117543"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination Intervals Effects of Mirabilis jalapa Bioinsecticide and Metarhiziumanisopliae Entomopathogen Fungi Against Spodopteraexigua Larvae",
+        "pub_year": "2017",
+        "citation": "IJSDR 2 (10), 42-44, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9206011500302302521",
+      "cites_id": [
+        "9206011500302302521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of Mirabilis jalapa leaves biopesticide treatment on the mycelium growth of entomopathogenic fungi Beauveria bassiana inside the larvae body Crocidolomia binotalis",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5171738657953846463",
+      "cites_id": [
+        "5171738657953846463"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Promoting Dolichoderus thoracicus as an agent to disperse Trichoderma sp., a fungus that controls the black pod disease, Central Sulawesi\u2013Indonesia",
+        "pub_year": "2014",
+        "citation": "J Math Fund Sci 46 (1), 411-49, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8049171498444436686",
+      "cites_id": [
+        "8049171498444436686"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tanggapan Helicoverpa armigera terhadap infeksi subletal Nuclear Polyhedrosis Virus dan dampaknya terhadap laju reproduksi",
+        "pub_year": "2000",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 6 (2), 101-111, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6306663553282960820",
+      "cites_id": [
+        "6306663553282960820"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Convolutional neural network-based real-time mosquito genus identification using wingbeat frequency: A binary and multiclass classification approach",
+        "pub_year": "2024",
+        "citation": "Ecological Informatics 80, 102495, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:M05iB0D1s5AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6202728586845618341",
+      "cites_id": [
+        "6202728586845618341"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resistance status and the rate of resistance development in Musca domestica Linnaeus (Diptera: Muscidae) to permethrin and imidacloprid in Indonesia",
+        "pub_year": "2021",
+        "citation": "Jurnal Entomologi Indonesia 18 (3), 159-159, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13494001363416596825",
+      "cites_id": [
+        "13494001363416596825"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An Entomological Model for Estimating the Post-Mortem Interval",
+        "pub_year": "2020",
+        "citation": "Commun. Biomath. Sci. 3 (2), 148-156, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17339488650149527653",
+      "cites_id": [
+        "17339488650149527653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alteration of Basal Blood Glucose Level and Microbiota Metabolic Parameters in Rats Fed with Brown Rice and Herbal Extracts",
+        "pub_year": "2019",
+        "citation": "Journal of Food and Nutrition Research 7 (2), 162-170, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:r0BpntZqJG4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16563614805233576168",
+      "cites_id": [
+        "16563614805233576168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Duration Inter Spawning on Australian Red Claw Crayfish (Cherax quadricarinatus) and the Possibility of Its Application as Feed Quality Indicator: Preliminary Study",
+        "pub_year": "2009",
+        "citation": "International Conference and Exhibition Science & Technology in Biomass \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:hC7cP41nSMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2449116342923312682",
+      "cites_id": [
+        "2449116342923312682"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konsumsi Makan dan Pertumbuhan Larva Helicoverpa armigera Toleran terhadap Pemaparan Helicoverpa armigera Nuclear Polyhedrosis Virus (HaNPV)",
+        "pub_year": "2004",
+        "citation": "Jurnal Matematika dan Sains 9 (4), 295-300, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16906939669458920438",
+      "cites_id": [
+        "16906939669458920438"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studies on insect immune systems",
+        "pub_year": "1991",
+        "citation": "University College of Swansea, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=379988511563057543",
+      "cites_id": [
+        "379988511563057543"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Humoral Serangga Trigona Sp Pasca Infeksi Patogen Penyebab Penyakit Darah (Blood Disease) pada Tanaman Pisang",
+        "pub_year": "2022",
+        "citation": "Journal Science of Biodiversity 3 (2), 95-101, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A mathematical model for estimating post-mortem interval on wrapped and unwrapped carcasses",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2498 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alokasi Energi, Fekunditas, dan Sintasan Larva Cacing Nipah Simpatrik (Polychaeta: Nereididae)",
+        "pub_year": "2022",
+        "citation": "Jurnal Kelautan Tropis 25 (2), 131-140, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resistance status and the rate of resistance development in Musca domestica Linnaeus (Diptera: Muscidae) to permethrin and imidacloprid in Indonesia",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2020",
+        "citation": "Journal of Biosciences 27 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Possibility of Sap-Feeding Beetle, Nitidulidae, as a Spreading Agent for Blood Disease Bacterium on the Banana Plant.",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology Journal 49 (2), 1-5, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of Paraquat Dichloride application on diversity and abundance of soil arthropods in the corn field",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effects of Natural Biopesticide from Mirabilis jalapa toward the Immune System of Spodoptera litura",
+        "pub_year": "2018",
+        "citation": "Preprints, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrated Pest Management: Effects of Plant Bioinsecticides and Entomopathogenic Fungi Combinations to Insect Pest Anatomy Damage and Their Immune Proteins Content",
+        "pub_year": "2016",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Tipe Sel Hemosit Larva Serangga Trigona Sp (Hymenoptera : Apidae) dan Fungsinya Terhadap Pertahanan Tubuh",
+        "pub_year": "2016",
+        "citation": "Bio \u2013 Edu : Jurnal Pendidikan Biologi 1 (3), 39-41, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstrak Etanol Seledri (Apium graveolens) ssebagai Antiatherogenik pada Tikus (Rattus norvegicus) yang diinduksi Hiperlipidemia.",
+        "pub_year": "2016",
+        "citation": "Prosiding Symbion (Symposium on Biology Education) Prodi Pendidikan Biologi \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immune Protein of The Insect Pest Crocidolomia pavonana, Previously Treated with Mirabilis jalapa Extract, After Infection with Beauveria bassiana Fungi.",
+        "pub_year": "2016",
+        "citation": "The 6th Annual Basic Science International Conference \u201cEnhancing Innovation \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FUNGAL PATHOGENICITY AND PROFILE CUTICLE DAMAGE CAUSED BY ENTOMOPATHOGENIC FUNGUS Metarhizium anisopliae INFECTION AGAINST TO Oxya japonica (ORTHOPTERA: ACRIDIDAE)",
+        "pub_year": "2016",
+        "citation": "Proceeding of International Symposium for Sustainable Humanosphere, 244-249, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of lead concentration in forager stingless bees Trigona sp.(hymenoptera: Apidae) and propolis at Cilutung and Maribaya, West Java",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1677 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formicidae sebagai Serangga Pengunjung Perbungaan Pisang",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional dan Musyawarah Anggota PEI Cabang Bandung \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji Keberadaan Penyebab Penyakit Darah pada Tubuh Beberapa Serangga Pengunjung Bunga Pisang di Daerah Cigadung, Jawa Barat.",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional dan Musyawarah Anggota PEI Cabang Bandung \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Ekstrak Umbi Dioscorea hispida (Dennst) pada Kualitas Daun Brassica oleracea (L.) dan pada Kehadiran Crocidolomia binotalis (Zeller) (Lepidoptera : Pyralidae \u2026",
+        "pub_year": "2015",
+        "citation": "Prosiding Plant Protection Day 2015, 145-147, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nucleotide Sequence Analysis of Gene Overdrive (ovd) in Drosophila melanogaster Gamma Rays Irradiated",
+        "pub_year": "2014",
+        "citation": "Proceedings International Agriculture Congress, 280-284, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resources Partitioning and Different Foraging Behavior could maintained coexistence of Thrips hawaiiensis (Thysanoptera: Tripidae) and Elaeidobius kamerunicus (Coleoptera \u2026",
+        "pub_year": "2013",
+        "citation": "Journal of Entomology and Nematology 5 (5), 59-63, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kerusakan anatomi sebagai penyebab kematian Plutella xylostella yang diinfeksi jamur Paecilomyces fumosoroseus",
+        "pub_year": "2011",
+        "citation": "Prosiding pada Seminar Nasional Perhimpunan Entomologi Indonesia Cabang Bandung, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan Efektivitas Jamur Beauveria bassiana (Balsamo) dan Metarhizium anisopliae (Metschnikoff) dalam Mengendalikan Larva Nyamuk Aedes aegypti (Linnaeus).",
+        "pub_year": "2011",
+        "citation": "Eukariot 9 (1), 1-6, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengamatan Spawning Berulang pada Lobster Air Tawar (LAT) Capit Merah (Cherax quadricarinatus)",
+        "pub_year": "2010",
+        "citation": "Prosiding Seminar Nasional Biologi \u201cPeranIPTEK Bidang Biologi Dalam \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Do the colors of hepatopancreas reflect its energy content ? Study on embryos bearing female of Australian red claw crayfish Cherax quadricarinatus.",
+        "pub_year": "2010",
+        "citation": "Proceeding on The Third ICMNS. Bandung 23-25 November 2010, 98-107, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perilaku dan Penentuan Oviposisi dari Parasitoid Telur Hadronotus leptocorisae (Hymenoptera) pada Telur Hama Bulir Padi Leptocorisa acuta (Hemiptera)",
+        "pub_year": "2010",
+        "citation": "Biocelebes 4 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan formula substrat inokulum Trichoderma sp. Sebagai agen pengendali hayati terhadap penyakit busuk buah kakao (Phytophthora palmivora E.J. Butler)",
+        "pub_year": "2009",
+        "citation": "AgriSains 10 (2), 72-82, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penghentian pendedahan HaNPV terhadap Helicoverpa armigera Hubner.",
+        "pub_year": "2006",
+        "citation": "Bionatura 8 (1), 12-23, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon pertahanan diri larva Helicoverpa armigera yang diinfeksi insektisida Bacillus thuringiensis var. kurstaki (Condor Wp).",
+        "pub_year": "2002",
+        "citation": "Prosiding Seminar Nasional Biologi XVI, Kampus ITB 2000, 169-171, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Infeksi Subletal Bacillus thuringiensis pada Helicoverpa armigera: Mungkinkah Menyebabkan Resurgensi?",
+        "pub_year": "2001",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 7 (1), 16-21, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh pendedahan dan penghentian pendedahan HaNPV pada tingkat toleransi serangga Helicoverpa armigera (Hubner).",
+        "pub_year": "2001",
+        "citation": "Biosfera 18 (2), 2001"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sublethal infection of Bacillus thuringiensis to Helicoverpa armigera: is it possible to induce resurgence?",
+        "pub_year": "2001",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia (Indonesia) 7 (1), 2001"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh infeksi subletal HaNPV terhadap laju reproduksi serangga Helicoverpa armigera",
+        "pub_year": "2000",
+        "citation": "Jurnal Toksikologi Indonesia 1 (3), 12-17, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh infeksi entomopatogenik Beauveria bassiana terhadap kerusakan anatomi larva Plutella xyllostella (L.) (Lepidoptera : Plutellidae).",
+        "pub_year": "2000",
+        "citation": "Seminar Nasional Biologi XVI . Perhimpunan Biologi Indonesia. Bandung 25-27 \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons Spodoptera litura F. terhadap infeksi Spodoptera litura Nuclear Polyhedrosis Virus.",
+        "pub_year": "2000",
+        "citation": "Seminar Nasional Biologi XVI . Perhimpunan Biologi Indonesia. Bandung 25-27 \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh konsentrasi subletal insektisida bakteri Bacillus thuringiensis var. Kurstaki terhadap jumlah dan viabilitas telur Helicoverpa armigera Hubner.",
+        "pub_year": "2000",
+        "citation": "Seminar Nasional Biologi XVI . Perhimpunan Biologi Indonesia. Bandung 25-27 \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon pertahanan diri Helicoverpa armigera yang diinfeksi insektisida Bacillus thuringiensis var. Kurstaki (Condor WP). ).",
+        "pub_year": "2000",
+        "citation": "Seminar Nasional Biologi XVI . Perhimpunan Biologi Indonesia. Bandung 25-27 \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Enzim Prophenoloxidase pada Hemolimf Larva Bombyx mori L yang Diinfeksi dengan Bacillus thuringiensis var. Kurstaki (Condor WP).",
+        "pub_year": "1999",
+        "citation": "Prosiding Kongres Perhimpunan Entomologi Indonesia V dan Symposium Entomologi, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peran Faktor Pejantan Dalam Perluasan dan Pemekaran Integumen Caplak Rhipicephalus sanguineus Betina",
+        "pub_year": "1999",
+        "citation": "Seminar Nasional Biologi Menuju Millenium III. Yogyakarta 20 November 1999, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "2.14 Optimisation of haemocyte separation and monolayer formation in Galleria mellonella",
+        "pub_year": "1989",
+        "citation": "Developmental & Comparative Immunology 13 (4), 364, 1989"
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insect Succession on Wrapped Rabbit Carcasses as a Model in Forensic Entomology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kZa4SKYAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

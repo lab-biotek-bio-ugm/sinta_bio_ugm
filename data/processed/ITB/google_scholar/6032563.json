@@ -1,0 +1,56 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "LpaYqSsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Nuruddin Nurudin",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LpaYqSsAAAAJ&citpid=1",
+  "affiliation": "Associate Professor School of life sciences and technology Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "forestry and agriculture"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "hindex": 0,
+  "hindex5y": 0,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {},
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Open Green Space Ability Area of Modern Settlement for Life Of bird types(Case Study Three Areas of Modern Settlement in Bogor City).1Kemampuan Ruang Terbuka Hijau Pada Kawasan \u2026",
+        "pub_year": "2009",
+        "citation": "Majalah Ilmiah UNWIM 1 (21), 52 - 57, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "LpaYqSsAAAAJ:MNNNGtAgD4EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Tanggap Tanaman Cabe (Capsicum annuumL.), Tomat  (Lycopersicon lycopersicum (L.) Karsten) dan Jagung (Zea maysL.) Terhadap Pencemaran Debu Pabrik Seme   (PDF) Daya Tanggap \u2026",
+        "citation": "2001 1 (1), 1 -14, 0"
+      },
+      "filled": false,
+      "author_pub_id": "LpaYqSsAAAAJ:za7pDTvVV8kC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

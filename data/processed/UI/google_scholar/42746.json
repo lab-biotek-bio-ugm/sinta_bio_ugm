@@ -1,0 +1,4371 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "eTi34roAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Heri Hermansyah",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eTi34roAAAAJ&citpid=5",
+  "affiliation": "Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "biocatalyst",
+    "enzyme",
+    "kinetics"
+  ],
+  "email_domain": "@che.ui.ac.id",
+  "citedby": 2178,
+  "citedby5y": 1727,
+  "hindex": 24,
+  "hindex5y": 21,
+  "i10index": 69,
+  "i10index5y": 56,
+  "cites_per_year": {
+    "2008": 6,
+    "2009": 6,
+    "2010": 11,
+    "2011": 29,
+    "2012": 28,
+    "2013": 27,
+    "2014": 44,
+    "2015": 44,
+    "2016": 42,
+    "2017": 61,
+    "2018": 121,
+    "2019": 174,
+    "2020": 232,
+    "2021": 350,
+    "2022": 367,
+    "2023": 396,
+    "2024": 203
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "aaIAzpUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhamad Sahlan",
+      "affiliation": "Teknologi Bioproses, Departemen Teknik Kimia, Fakultas Teknik, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9FmI3BMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "anondho wijanarko",
+      "affiliation": "professor of biological engineering, universitas indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "ma2yIwgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Utami Tania Surya",
+      "affiliation": "Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LEr9IswAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mohammad Nasikin",
+      "affiliation": "Professor Chemical Engineering University of Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4F7FZYOgcwMC",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dianursanti",
+      "affiliation": "Chemical Engineering Department, Universitas Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "yF3tNg8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "muryanto",
+      "affiliation": "Research Center for Chemsitry Indonesian Institute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "f_u_AnQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "anatta budiman",
+      "affiliation": "Researcher at Universitas Sebelas Maret"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan sellulosa bagas untuk produksi ethanol melalui sakarifikasi dan fermentasi serentak dengan enzim xylanase",
+        "pub_year": "2007",
+        "citation": "Makara Journal of Technology 11 (1), 148674, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 129,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1552731264853799507",
+      "cites_id": [
+        "1552731264853799507"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prototype file transfer protocol application for LAN and Wi-Fi communication",
+        "pub_year": "2018",
+        "citation": "Int. J. Eng. Technol 7 (2.13), 345-347, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:wBLCggQE-ToC",
+      "num_citations": 103,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17717290251007534468,8242734795055548358",
+      "cites_id": [
+        "17717290251007534468",
+        "8242734795055548358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial activity of biosurfactant derived from Bacillus subtilis C19",
+        "pub_year": "2018",
+        "citation": "Energy Procedia 153, 274-278, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:X0DADzN9RKwC",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5307116330569796263",
+      "cites_id": [
+        "5307116330569796263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Aspergillus niger lipase production by solid state fermentation of agro-industrial waste",
+        "pub_year": "2020",
+        "citation": "Energy Reports 6, 331-335, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:In6cVmBjs0IC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2100383481949947718",
+      "cites_id": [
+        "2100383481949947718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of \u03b1-Amylase and \u03b2-Glucosidase from Aspergillus niger by solid state fermentation method on biomass waste substrates from rice husk, bagasse and corn cob",
+        "pub_year": "2017",
+        "citation": "Energy Procedia 136, 418-423, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:MIg0yeAD4ggC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17327243455499097718",
+      "cites_id": [
+        "17327243455499097718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mathematical model for stepwise hydrolysis of triolein using Candida rugosa lipase in biphasic oil\u2013water system",
+        "pub_year": "2006",
+        "citation": "Biochemical Engineering Journal 31 (2), 125-132, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3833387283476390668",
+      "cites_id": [
+        "3833387283476390668"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Progress of fermentation methods for bio-succinic acid production using agro-industrial waste by Actinobacillus succinogenes",
+        "pub_year": "2020",
+        "citation": "Energy Reports 6, 234-239, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:EaFouW7jFu4C",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2672005937741826576",
+      "cites_id": [
+        "2672005937741826576"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of polyhydroxybutyrate from oil palm empty fruit bunch (OPEFB) hydrolysates by Bacillus cereus suaeda B-001",
+        "pub_year": "2019",
+        "citation": "Biocatalysis and agricultural biotechnology 18, 101019, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:wUn16MOA3RoC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3085439015583234820",
+      "cites_id": [
+        "3085439015583234820"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipase production from Bacillus subtilis with submerged fermentation using waste cooking oil",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 105 (1), 012126, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:-yGd096yOn8C",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1844133347354320145",
+      "cites_id": [
+        "1844133347354320145"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of dry extract extracellular lipase from Aspergillus niger by solid state fermentation method to catalyze biodiesel synthesis",
+        "pub_year": "2017",
+        "citation": "Energy Procedia 136, 41-46, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:-6RzNnnwWf8C",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10103285198526238694",
+      "cites_id": [
+        "10103285198526238694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards efficient and greener processes for furfural production from biomass: A review of the recent trends",
+        "pub_year": "2022",
+        "citation": "Science of the Total Environment 847, 157599, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ojlX30-wUrgC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10826638916884802710",
+      "cites_id": [
+        "10826638916884802710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Life Cycle Cost and Sensitivity Analysis of Reutealis trisperma as Non-Edible Feedstock for Future Biodiesel Production",
+        "pub_year": "2017",
+        "citation": "Energies 10 (7), 877, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Wq2b2clWBLsC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16754635080388758278",
+      "cites_id": [
+        "16754635080388758278"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Total phenolic content and antioxidant activity of spray-dried microcapsules propolis from Tetragonula species",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2085 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:M0leSnx2MbUC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17373315490404376660",
+      "cites_id": [
+        "17373315490404376660"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance optimization of microbial fuel cell (MFC) using Lactobacillus bulgaricus",
+        "pub_year": "2013",
+        "citation": "Makara Journal of Technology 17 (1), 7, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:aqlVkmm33-oC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9479124868973268930",
+      "cites_id": [
+        "9479124868973268930"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of immobilized extracellular lipase from Aspergillus niger by solid state fermentation method using palm kernel cake, soybean meal, and coir pith as the substrate",
+        "pub_year": "2018",
+        "citation": "Energy Procedia 153, 242-247, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:z8nqeaKD1nsC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9745301938215863247",
+      "cites_id": [
+        "9745301938215863247"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and classification of honey\u2019s authenticity by attenuated total reflectance Fourier-transform infrared spectroscopy and chemometric method",
+        "pub_year": "2019",
+        "citation": "Veterinary world 12 (8), 1304, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:xm0LlTxljI0C",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1599224569867818017",
+      "cites_id": [
+        "1599224569867818017"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization potential analysis of micro-hydro power plant (MHPP) from river with low head",
+        "pub_year": "2018",
+        "citation": "Energy Procedia 153, 74-79, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:TaaCk18tZOkC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1757943475672848223",
+      "cites_id": [
+        "1757943475672848223"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi pemanfaatan LPG (Liquefied Petroleum Gas) sebagai bahan bakar bagi pengguna kendaraan bermotor",
+        "pub_year": "2016",
+        "citation": "Prosiding Semnastek, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:qE4H1tSSYIIC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12626307250635499377",
+      "cites_id": [
+        "12626307250635499377"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan aktivitas antioksidan ekstrak etanol daun simpur (Dillenia indica) dari berbagai metode ekstraksi dengan uji ANOVA",
+        "pub_year": "2009",
+        "citation": "Seminar Nasional Teknik Kimia Indonesia, 19-20, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:A8cqit5AE6sC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12219953743615658282",
+      "cites_id": [
+        "12219953743615658282"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid state fermentation using agroindustrial wastes to produce Aspergillus niger lipase as a biocatalyst immobilized by an adsorption-crosslinking method for biodiesel synthesis",
+        "pub_year": "2016",
+        "citation": "International Journal of Technology 7 (8), 1393-1404, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:g5Ck-dwhA_QC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3668048933560818218",
+      "cites_id": [
+        "3668048933560818218"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Process equipment common attributes for inherently safer process design at preliminary design stage",
+        "pub_year": "2019",
+        "citation": "Process Safety and Environmental Protection 128, 14-29, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:DXE8ND7PrJAC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7049695531784287006",
+      "cites_id": [
+        "7049695531784287006"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chitosan\u2019s amino group in adsorption-crosslinking immobilization of lipase enzyme on resin to catalyze biodiesel synthesis",
+        "pub_year": "2017",
+        "citation": "Energy Procedia 136, 47-52, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:z6xuaG2dYH0C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1491710065001705408",
+      "cites_id": [
+        "1491710065001705408"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production and characterization of cellulase from E. coli EgRK2 recombinant based oil palm empty fruit bunch",
+        "pub_year": "2017",
+        "citation": "Biotechnology and bioprocess engineering 22, 287-295, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:D_tqNUsBuKoC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6477990658866382129",
+      "cites_id": [
+        "6477990658866382129"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Encapsulation process of propolis extract by casein micelle improves sunscreen activity",
+        "pub_year": "2017",
+        "citation": "Makara Journal of Technology 21 (1), 1, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:RJOyoaXV5v8C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=234025247076609627",
+      "cites_id": [
+        "234025247076609627"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection and identification of polyaromatic hydrocarbon degrading bacteria",
+        "pub_year": "2012",
+        "citation": "World Appl Sci J 20 (8), 1133-1138, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:WF5omc3nYNoC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1493560875023225590",
+      "cites_id": [
+        "1493560875023225590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Solid state fermentation method for production of laccase enzyme with bagasse, cornstalk and rice husk as substrates for adrenaline biosensor",
+        "pub_year": "2020",
+        "citation": "Energy Reports 6, 336-340, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Azgs6IHzeyYC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9577271083183101040",
+      "cites_id": [
+        "9577271083183101040"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis of lipase enzyme production from Aspergillus niger using agro-industrial waste by solid state fermentation",
+        "pub_year": "2018",
+        "citation": "Energy Procedia 153, 143-148, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:nqdriD65xNoC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13298422058977110218",
+      "cites_id": [
+        "13298422058977110218"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DELIGNIFICATION OF OIL PALM EMPTY FRUIT BUNCH USING PERACETIC ACID AND ALKALINE PEROXIDE COMBINED WITH THE ULTRASOUND.",
+        "pub_year": "2019",
+        "citation": "International Journal of Technology 10 (8), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:3_LpOwP6eMYC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=895590525751959714",
+      "cites_id": [
+        "895590525751959714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced Chlorella vulgaris Buitenzorg growth by photon flux density alteration in serial photobioreactors",
+        "pub_year": "2008",
+        "citation": "Biotechnology and bioprocess engineering 13, 476-482, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:UebtZRa9Y70C",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13269616576124571779",
+      "cites_id": [
+        "13269616576124571779"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparasi mannan dan mannanase kasar dari bungkil kelapa sawit",
+        "pub_year": "2006",
+        "citation": "Jurnal Teknologi 4 (1), 312-319, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18400462638176110590",
+      "cites_id": [
+        "18400462638176110590"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microencapsulation optimization of propolis ethanolic extract from Tetragonula spp using response surface methodology",
+        "pub_year": "2020",
+        "citation": "Int. J. App. Pharm 12 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Y9VhQm-5nPIC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4974566414252474308",
+      "cites_id": [
+        "4974566414252474308"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulation of hard candy containes pure honey as functional food",
+        "pub_year": "2019",
+        "citation": "AIP conference proceedings 2092 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:N4u4nq0IxgcC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8482943716741767664",
+      "cites_id": [
+        "8482943716741767664"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of dry extract lipase from Pseudomonas aeruginosa by the submerged fermentation method in palm oil mill effluent",
+        "pub_year": "2018",
+        "citation": "International Journal of Technology 9 (2), 325-334, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:mel-f30kHHgC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10712232023779727897",
+      "cites_id": [
+        "10712232023779727897"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthesis of biodiesel using local natural zeolite as heterogeneous anion exchange catalyst",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 345, 012002, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:G1UMdFYMoxkC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9776884874081146060",
+      "cites_id": [
+        "9776884874081146060"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rigorous kinetic model considering positional specificity of lipase for enzymatic stepwise hydrolysis of triolein in biphasic oil\u2013water system",
+        "pub_year": "2010",
+        "citation": "Bioprocess and biosystems engineering 33, 787-796, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14017839192784410015",
+      "cites_id": [
+        "14017839192784410015"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Additional Amino Group to Improve the Performance of Immobilized Lipase From Aspergillus niger by Adsorption-Crosslinking Method",
+        "pub_year": "2021",
+        "citation": "Frontiers in Energy Research 9, 616945, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:NtCmTCuxid4C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11057849514509916993",
+      "cites_id": [
+        "11057849514509916993"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The usage of Saccharomyces cerevisiae in microbial fuel cell system for electricity energy production",
+        "pub_year": "2012",
+        "citation": "Journal of Chemistry and Chemical Engineering 6 (9), 814, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:roLk4NBRz8UC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1441788214218177351",
+      "cites_id": [
+        "1441788214218177351"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immobilization of Candida rugosa lipase by adsorption-crosslinking onto corn husk",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 345 (1), 012042, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hvmnpdAuIbkC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1778962122101656855",
+      "cites_id": [
+        "1778962122101656855"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Food grade bioplastic based on corn starch with banana pseudostem fibre/bacterial cellulose hybrid filler",
+        "pub_year": "2014",
+        "citation": "Advanced Materials Research 997, 158-168, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:4TOpqqG69KYC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1727662712642487254",
+      "cites_id": [
+        "1727662712642487254"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol production from bagasse with combination of cellulase-cellubiase in simultaneous saccharification and fermentation (SSF) using white-rot fungi pretreatment",
+        "pub_year": "2008",
+        "citation": "Journal of Chemical and Natural Resources Engineering 3, 20-32, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3035755761460682509",
+      "cites_id": [
+        "3035755761460682509"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic model for triglyceride hydrolysis using lipase",
+        "pub_year": "2007",
+        "citation": "Makara Journal of Technology 11 (1), 6, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5410148701624677899",
+      "cites_id": [
+        "5410148701624677899"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Equipment\u2010based route index of inherent safety",
+        "pub_year": "2020",
+        "citation": "Process safety progress 39, e12108, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:W2uZP3ddy8sC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10794413029653166231",
+      "cites_id": [
+        "10794413029653166231"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of cellulose fiber from sorghum bagasse on the mechanical properties and biodegradability of polylactic acid",
+        "pub_year": "2020",
+        "citation": "Energy Reports 6, 221-226, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:rCNdntzdTkkC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2026941783589043528",
+      "cites_id": [
+        "2026941783589043528"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antimicrobial activities of pomelo (Citrus maxima) seed and pulp ethanolic extract",
+        "pub_year": "2018",
+        "citation": "AIP conference proceedings 1933 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:4aZ_i-5WJEQC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10064635715461028800",
+      "cites_id": [
+        "10064635715461028800"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of ethanolic propolis extract from Tetragonula biroi bees on the growth of human cancer cell lines HeLa and MCF-7",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2092 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:PQEM9vzQD9gC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9264044102732250380",
+      "cites_id": [
+        "9264044102732250380"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design of portable biodiesel plant from waste cooking oil",
+        "pub_year": "2018",
+        "citation": "Energy Procedia 153, 263-268, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:37UQlXuwjP4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17258239821586879544",
+      "cites_id": [
+        "17258239821586879544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of discrimination marker from various propolis for mapping and identify anti Candida albicans activity",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 1933 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ZqE1mSdD_DYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1705106214170675380",
+      "cites_id": [
+        "1705106214170675380"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of a biopesticide based on a cysteine protease enzyme from latex and papaya (Carica papaya) for Spodoptera litura in red chili peppers (Capsicum annuum)",
+        "pub_year": "2017",
+        "citation": "International Journal of Technology 8 (8), 1455-1461, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:AzKEL7Gb_04C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13888383124340032084",
+      "cites_id": [
+        "13888383124340032084"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of methylene blue addition as a redox mediator on performance of microbial desalination cell by utilizing tempe wastewater",
+        "pub_year": "2016",
+        "citation": "International Journal of Technology 7 (6), 952-961, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:DyXnQzXoVgIC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14519375282442682135",
+      "cites_id": [
+        "14519375282442682135"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol production by encapsulated rhizopus oryzae from oil palm empty fruit bunch",
+        "pub_year": "2020",
+        "citation": "Transdisciplinary Research and Education Center for Green Technologies \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:rLGzs9wiiwIC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15440679165366672232",
+      "cites_id": [
+        "15440679165366672232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Encapsulation of agarwood essential oil with maltodextrin and gum arabic",
+        "pub_year": "2019",
+        "citation": "Int. J. Technol 10 (10.14716), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:YPNY0knpFBYC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10453280744031263792",
+      "cites_id": [
+        "10453280744031263792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of propolis Tetragonula sp. extract solvent with flavonoids and polyphenols concentration and antioxidant activity parameters",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 1933 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:NMlhSUseqAsC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1690128624278616235",
+      "cites_id": [
+        "1690128624278616235"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insect-based lipid for biodiesel production",
+        "pub_year": "2018",
+        "citation": "AIP conference proceedings 2016 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hQUaER0FWQ4C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2403582163045071767",
+      "cites_id": [
+        "2403582163045071767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consecutive reaction model for triglyceride hydrolysis using lipase",
+        "pub_year": "2007",
+        "citation": "Jurnal Teknologi 2, 151-157, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8615119951585647531",
+      "cites_id": [
+        "8615119951585647531"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of carbon dioxide fixation by alteration of illumination duringChlorella vulgaris-Buitenzorg's growth",
+        "pub_year": "2006",
+        "citation": "Biotechnology and bioprocess engineering 11, 484-488, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5116450980289634429",
+      "cites_id": [
+        "5116450980289634429"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of biofilm and selective mixed culture on microbial fuel cell for the treatment of tempeh industrial wastewater",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 316 (1), 012073, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:8dzOF9BpDQoC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5636146255849591478",
+      "cites_id": [
+        "5636146255849591478"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-alcohol route of biodiesel synthesis from used cooking oil using immobilized biocatalyst in packed bed reactor",
+        "pub_year": "2011",
+        "citation": "Journal of Sustainable Energy & Environment 2, 1-5, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ufrVoPGSRksC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13617320365165620432",
+      "cites_id": [
+        "13617320365165620432"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biomass production Chlorella vulgaris Buitenzorg using series of bubble column photo bioreactor with a periodic illumination",
+        "pub_year": "2010",
+        "citation": "Makara Journal of Technology 12 (1), 27-30, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9940101572420848669",
+      "cites_id": [
+        "9940101572420848669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interesterifikasi minyak kelapa sawit dengan metil asetat untuk sintesis biodiesel menggunakan candida rugosa lipase terimobilisasi",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Kimia Indonesia 8 (1), 24-32, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16058346289755938272",
+      "cites_id": [
+        "16058346289755938272"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microencapsulation of ethanol extract propolis by maltodextrin and freeze-dried preparation",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 1933 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:-uzm3Y7AvW0C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5778896744058825631",
+      "cites_id": [
+        "5778896744058825631"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of mother-in-law\u2019s tongue leaves (Sansevieria trifasciata) extract\u2019s solvent polarity on anti-diabetic activity through in vitro \u03b1-glucosidase enzyme inhibition test",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03003, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:pQTOvowfQioC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4810925594534601738",
+      "cites_id": [
+        "4810925594534601738"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of aeration and nutrients on Saccharomyces cerevisiae cultivation using lignocellulosic hydrolysate from Empty Fruit Bunch",
+        "pub_year": "2015",
+        "citation": "International Journal of Technology 6 (7), 1110-1118, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:_kc_bZDykSQC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7578883558789928462",
+      "cites_id": [
+        "7578883558789928462"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi antioksidan dari daun simpur (Dillenia indica) menggunakan metode ekstraksi tekanan tinggi dengan sirkulasi pelarut",
+        "pub_year": "2009",
+        "citation": "Prosiding Seminar Nasional Teknik Kimia Indonesia, 1-8, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16516071690371021047",
+      "cites_id": [
+        "16516071690371021047"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstraksi Daun Sambiloto dengan Metode Sonikasi dan Pengaruhnya pada Kenaikan Indeks Bias dan Daya Hambat Pertumbuhan Bakteri S. aureus",
+        "pub_year": "2008",
+        "citation": "Jurnal Teknologi Proses 7 (2), 161-166, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9695920701747620279",
+      "cites_id": [
+        "9695920701747620279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immobilization of cholesterol oxidase in chitosan magnetite material for biosensor application",
+        "pub_year": "2020",
+        "citation": "International Journal of Technology 11 (4), 754-763, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Ej9njvOgR2oC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9742182275223443330",
+      "cites_id": [
+        "9742182275223443330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Safety analysis technique for system with limited data: Case study of the multipurpose research reactor in Indonesia",
+        "pub_year": "2020",
+        "citation": "Energies 13 (8), 1975, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:aEW5N-EHWIMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10433679349462124129",
+      "cites_id": [
+        "10433679349462124129"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of lipase enzyme from Rhizopus oryzae by solid state fermentation and submerged fermentation using wheat bran as substrate",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2085 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hNSvKAmkeYkC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5008203279852425603",
+      "cites_id": [
+        "5008203279852425603"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiretroviral activity of Pterois volitans (red lionfish) venom in the early development of human immunodeficiency virus/acquired immunodeficiency syndrome antiretroviral \u2026",
+        "pub_year": "2019",
+        "citation": "Veterinary World 12 (2), 309, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:1r-w4gtu6w8C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14406875586051264673",
+      "cites_id": [
+        "14406875586051264673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flavonoid isolation and identification of mother-in-law\u2019s tongue leaves (sansevieria trifasciata) and the inhibitory activities to xanthine oxidase enzyme",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03011, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:jmjb1lOE9QIC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7433535173783841570",
+      "cites_id": [
+        "7433535173783841570"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Michaelis-menten parameters characterization of commercial papain enzyme \u201cpaya\u201d",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 217 (1), 012037, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:m92CDrhVnKEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14998080069954598211",
+      "cites_id": [
+        "14998080069954598211"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiviral activity of Acanthaster planci phospholipase A2 against human immunodeficiency virus",
+        "pub_year": "2018",
+        "citation": "Veterinary World 11 (6), 824, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hGdtkIFZdKAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=536617898985032898",
+      "cites_id": [
+        "536617898985032898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian honey protein isolation Apis dorsata dorsata and Tetragonula sp. as antibacterial and antioxidant agent",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 1933 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:H_jBuBxbQIAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=271927751276836127",
+      "cites_id": [
+        "271927751276836127"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Encapsulation of eugenol from clove oil using casein micelle for solid preparation",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1817 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:kJDgFkosVoMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12302383873779532516",
+      "cites_id": [
+        "12302383873779532516"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biofiltration of nitrous oxide using cow-manure based compost as medium filter",
+        "pub_year": "2012",
+        "citation": "Journal of Environmental Protection 2012, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13144688916210036708",
+      "cites_id": [
+        "13144688916210036708"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Biji Wijen Sebagai Sumber Enzim Lipase untuk Reaksi Esterifikasi Gliserol-Asam Laurat pada Pembuatan Agen Pengemulsi",
+        "pub_year": "2008",
+        "citation": "Prosiding Seminar Nasional Rekayasa Kimia dan Proses ISSN, 1411-4216, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:AYInfyleIOsC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15628969319003840456",
+      "cites_id": [
+        "15628969319003840456"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Riset Bahan Bakar Hayati (Bioethanol dan Biodiesel)",
+        "pub_year": "2007",
+        "citation": "Universitas Indonesia, Jakarta, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17764097338961686462",
+      "cites_id": [
+        "17764097338961686462"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Ultrasonic\u2014Assisted Extraction (UAE) Method Using Natural Deep Eutectic Solvent (NADES) to Increase Curcuminoid Yield from Curcuma longa L., Curcuma \u2026",
+        "pub_year": "2022",
+        "citation": "Molecules 27 (18), 6080, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:a2necdfpwlEC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13994706898435846583",
+      "cites_id": [
+        "13994706898435846583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study controlled release, toxicity test, and pesticide test of microcapsule eugenol with casein micelle",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2085 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:n3vGvpFsckwC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3451673729993729569",
+      "cites_id": [
+        "3451673729993729569"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic study of immobilized whole-cell lipase rhizopus oryzae as biocatalyst in biodiesel synthesis through non-alcohol route",
+        "pub_year": "2015",
+        "citation": "International Journal of Environmental Science and Development 6 (6), 439, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2377331819492517253",
+      "cites_id": [
+        "2377331819492517253"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pencahayaan Siklus Harian Terhadap Produksi Biomassa Chlorella vulgaris Buit-enzorg Dalam Fotobioreaktor Kolom Gelembung",
+        "pub_year": "2007",
+        "citation": "Jurnal Teknologi 1, 58-65, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:27LrP4qxOz0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14607565816649130317",
+      "cites_id": [
+        "14607565816649130317"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of methyl caffeate as an intermediate product to produce caffeic acid phenethyl ester by esterification using cation-exchange resin",
+        "pub_year": "2020",
+        "citation": "Energy Reports 6, 528-533, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:x21FZCSn4ZoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9503526079095508726",
+      "cites_id": [
+        "9503526079095508726"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiproduct biorefinery optimal design: application to the acetone-butanol-ethanol system",
+        "pub_year": "2020",
+        "citation": "Oil & Gas Science and Technology\u2013Revue d\u2019IFP Energies nouvelles 75, 9, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:natZJ_-F0IUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15719348360432240017",
+      "cites_id": [
+        "15719348360432240017"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inherently safer mechanical material selection for process equipment",
+        "pub_year": "2018",
+        "citation": "Process Safety and Environmental Protection 120, 178-186, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:AZju0d2GQJ0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13025776456638935658",
+      "cites_id": [
+        "13025776456638935658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis of lipase enzyme production from agro-industry waste with solid state fermentation method",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 316 (1), 012064, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:RuPIJ_LgqDgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9368591014363930867",
+      "cites_id": [
+        "9368591014363930867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of centrifugation speed and Chitosan-Sodium Tripolyphosphate ratio toward the nanoencapsulation of Sambiloto(Andrographis paniculata)for the \u2026",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 105, 012112, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:EsEWqaRxkBgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1209519956292371750",
+      "cites_id": [
+        "1209519956292371750"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The modification of ion exchange heterogeneous catalysts for biodiesel synthesis",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1826 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:2ywjKiB__4kC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13994579545791257419",
+      "cites_id": [
+        "13994579545791257419"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparation of the edible biocomposite film gelatin/bacterial cellulose microcrystal (BCMC): variation of matrix concentration, filler, and sonication time",
+        "pub_year": "2013",
+        "citation": "Advanced Materials Research 789, 287-293, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16988782451986205267",
+      "cites_id": [
+        "16988782451986205267"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dioxygenase gene of PAHs degrading Bacillus strains isolated from marine Indonesian environment and its biosurfactant production ability",
+        "pub_year": "2012",
+        "citation": "Int. J. Pharm. Bio. Sci 3 (4), 380-390, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6777449507345459939",
+      "cites_id": [
+        "6777449507345459939"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and properties characterization of biosurfactant synthesized by pyrene degrading Bacillus subtilis C19",
+        "pub_year": "2012",
+        "citation": "Journal of Chemistry and Chemical Engineering 6 (10), 889, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:5nxA0vEk-isC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13007495931300087692",
+      "cites_id": [
+        "13007495931300087692"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immobilization of Cholesterol Oxidase from Streptomyces Sp. on Magnetite Silicon Dioxide by Crosslinking Method for Cholesterol Oxidation",
+        "pub_year": "2020",
+        "citation": "Applied Biochemistry and Biotechnology 191, 968-980, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:rOcdG6UcVlcC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11287411649474438495",
+      "cites_id": [
+        "11287411649474438495"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of original honey (Apis sp and Tetragonula sp) and fake honey compounds in Indonesia using gas chromatography-mass spectrometry (GC-MS)",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:bVQMTfhMCi4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13682914955078787877",
+      "cites_id": [
+        "13682914955078787877"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification and characterization of proteins in multifloral honey from kelulut bee (stingless bee)",
+        "pub_year": "2019",
+        "citation": "Heliyon 5 (11), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:FsLZdJ3BAzkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1704562466955648352",
+      "cites_id": [
+        "1704562466955648352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experts\u2019 selection in the application of fuzzy fault tree analysis to evaluate an RSG\u2013GAS primary cooling system",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2021 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:nPT8s1NX_-sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5578672268923280532",
+      "cites_id": [
+        "5578672268923280532"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Use of Nicotiana tabacum L extract for anti-Aedes Aegypti mosquito paint",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 1933 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:KWzIFqRkAKkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9912454979149674518",
+      "cites_id": [
+        "9912454979149674518"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of bio-insecticide from extracted Carica papaya using NADES solvent with ultrasound-assisted extraction (UAE)",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03007, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:JWITY9-sCbMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10285494353689060970",
+      "cites_id": [
+        "10285494353689060970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of medium and incubation time on production of AA, DHA and EPA from Aspergillus oryzae by solid state fermentation",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 105 (1), 012104, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:CNPyR2KL9-0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17768597983954474075",
+      "cites_id": [
+        "17768597983954474075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Jenis Sumber Nitrogen Pada Pembuatan Olyhydroxybutyrate Dari Glukosa Menggunakan Bakteri Bacillus Cereus",
+        "pub_year": "2016",
+        "citation": "Prosiding Semnastek, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:L_l9e5I586QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10477121089423079370",
+      "cites_id": [
+        "10477121089423079370"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reducing nitrous oxide emission using goat manure-compost based biofilter.",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:X9ykpCP0fEIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=376223723802469725",
+      "cites_id": [
+        "376223723802469725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reaksi hidrolisis minyak zaitun menggunakan lipase Rhizopus oryzae yang di imobilisasi melalui metode adsorpsi",
+        "pub_year": "2011",
+        "citation": "Departemen Teknik Kimia, Fakultas Teknik, Universitas Indonesia, Depok \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Se3iqnhoufwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7485613427751442592",
+      "cites_id": [
+        "7485613427751442592"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fluoride and calcium release from peppermint-flavored fluoride varnish containing dicalcium-phosphate-dihydrate coated with xylitol",
+        "pub_year": "2022",
+        "citation": "The Saudi Dental Journal 34 (1), 68-73, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:T8_be82Iz5gC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12920450761511281932",
+      "cites_id": [
+        "12920450761511281932"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modification of fast release fluoride varnish by addition of plant-based extracts as antibacterial agents",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2344 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:rbGdIwl2e6cC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785828726516645486",
+      "cites_id": [
+        "9785828726516645486"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of nano-casein encapsulation and productions of a controlled-release on eugenol containing bio-pesticide toxicity",
+        "pub_year": "2021",
+        "citation": "Key Engineering Materials 874, 115-127, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:RXiHnyRawswC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16526555080072802719",
+      "cites_id": [
+        "16526555080072802719"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microencapsulation of clove oil using spray dry with casein encapsulator and activity test towards Streptococcus mutans",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:H7nrzBkawXsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17718776388579137352",
+      "cites_id": [
+        "17718776388579137352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semi-quantitative risk analysis of a normally unmanned installation facility",
+        "pub_year": "2019",
+        "citation": "Journal of Petroleum Exploration and Production Technology 9 (4), 3135-3147, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:QsKbpXNoaWkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9315016997936464228",
+      "cites_id": [
+        "9315016997936464228"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic study of cholesterol oxidation by cholesterol oxidase enzyme as application for cholesterol biosensor",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2092 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:WwIwg2wKZ0QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9769821314535492156",
+      "cites_id": [
+        "9769821314535492156"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tooth Coating Gel with Casein Phosphopeptide\u2013Amorphous Calcium Phosphate and Propolis to Prevent Dental Caries",
+        "pub_year": "2019",
+        "citation": "Journal of International Dental and Medical Research 12 (4), 1298-1304, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:xGWFX6Gbr9MC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13093955725565827551",
+      "cites_id": [
+        "13093955725565827551"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of nanopropolis using high pressure ball mill homogenizer",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 217 (1), 012014, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:m4fbC6XIj1kC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7635648680067324162",
+      "cites_id": [
+        "7635648680067324162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distillation column inherent safety index at preliminary design stage",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 458 (1), 012047, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:2vr6o8x5NLkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15637908608503542657",
+      "cites_id": [
+        "15637908608503542657"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transesterifikasi parsial minyak kelapa sawit dengan etanol pada pembuatan digliserida sebagai agen pengemulsi",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Kimia Indonesia 8 (1), 33-37, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Zph67rFs4hoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5508350627996882374",
+      "cites_id": [
+        "5508350627996882374"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis of portable plant from waste cooking oil",
+        "pub_year": "2018",
+        "citation": "Energy Procedia 153, 269-273, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:lYAcb2jw7qUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14762731362107106729",
+      "cites_id": [
+        "14762731362107106729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The usage of enzyme in ultrasound-assisted enzymatic extraction method and its effect on yield extract from Keji Beling (Strobilanthes crispus.) leaves",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03002, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:dAp6zn-oMfAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7742416101244723747",
+      "cites_id": [
+        "7742416101244723747"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chitin extraction fermentation Penaeus vannamei shell wastes with high density cell by recycle culture cells",
+        "pub_year": "2014",
+        "citation": "Journal of Chitin and Chitosan Science 2 (3), 209-215, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:4DMP91E08xMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3171077254589861953",
+      "cites_id": [
+        "3171077254589861953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure, energy band gap and electrical conductivity of Tapioca/metal oxide composite",
+        "pub_year": "2012",
+        "citation": "Journal of Chemistry and Chemical Engineering 6 (10), 911, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:0EnyYjriUFMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=222400371055444137",
+      "cites_id": [
+        "222400371055444137"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interesterification of triglyceride with methyl acetate using lipase to produce biodiesel",
+        "pub_year": "2009",
+        "citation": "Journal of Bioscience and Bioengineering, S42, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7182533458824266415",
+      "cites_id": [
+        "7182533458824266415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilizing rice straw and sugarcane bagasse as low-cost feedstocks towards sustainable production of succinic acid",
+        "pub_year": "2023",
+        "citation": "Science of The Total Environment 862, 160719, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:1EqfMoDn7-AC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7483356530595718985",
+      "cites_id": [
+        "7483356530595718985"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis of furfural production with various pretreatment of oil palm empty fruit bunches using SuperPro Designer",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 749 (1), 012042, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:sbeIDTyQOFgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9137832488275076663",
+      "cites_id": [
+        "9137832488275076663"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction of flavonoid from mother-in-law\u2019s tongue leaves (Sansevieria trifasciata) by ultrasound assisted enzymatic extraction and its inhibition test",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:XDrR66g3YHsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1303222128127834972",
+      "cites_id": [
+        "1303222128127834972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of heating process on anticancer activity of Pterois volitans (red lionfish) venom extraction against human cervical carcinoma cell",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:RMgMIBzvq-4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3117944092691269219",
+      "cites_id": [
+        "3117944092691269219"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment, mitigation, and control of potential gas leakage in existing buildings not designed for gas installation in Indonesia",
+        "pub_year": "2018",
+        "citation": "Energies 11 (11), 2970, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:LK8CI43ZvvMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11742570778187954643",
+      "cites_id": [
+        "11742570778187954643"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Producing armyworm (spodoptera sp.) bioinsecticide based on cysteine protease of red ginger (zingiber officinale var. Rubrum)",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 316 (1), 012062, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Zh0EY9V9P6UC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1868318658042117939",
+      "cites_id": [
+        "1868318658042117939"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of biohydrogen production in microbial electrolysis cell (MEC) system by tackling methanogenesis",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 02008, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:QVtou7C4vgoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10427920519135733422",
+      "cites_id": [
+        "10427920519135733422"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulation of microemulsion propolis fluoride (PF) as varnish topical agent to stop activity of teeth caries",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1817 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:1tZ8xJnm2c8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15562185321505724579",
+      "cites_id": [
+        "15562185321505724579"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembuatan Biodiesel Dari Minyak Dedak Padi Dengan Proses Katalis Homogen Secara Asam Dan Katalis Heterogen Secara Basa",
+        "pub_year": "2016",
+        "citation": "Prosiding Semnastek, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:tHtfpZlB6tUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16603885496421630201",
+      "cites_id": [
+        "16603885496421630201"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bionanokomposit: Peluang Polimer Alami Sebagai Material Baru Semikonduktor",
+        "pub_year": "2012",
+        "citation": "Indonesian Journal of Industrial Research 6 (1), 75-85, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=173337080084259671",
+      "cites_id": [
+        "173337080084259671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of Bagasse Cellulose for Ethanol Production through Simultaneous Saccharification and Fermentation by Xylanase",
+        "pub_year": "2010",
+        "citation": "Makara Journal of Technology 11 (1), 4, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:C33y2ycGS3YC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12305371858217646843",
+      "cites_id": [
+        "12305371858217646843"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Economic evaluation of thermochemical conversion for rice straw-based second-generation bioethanol production in West Java",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 599 (1), 012006, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:h168fVGZblEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5027230750949715045",
+      "cites_id": [
+        "5027230750949715045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biogas production from co-digestion of cocoa pod husk and cow manure with cow rumen fluid as inoculum",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:QaSi33NTfwYC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18102422666343457863",
+      "cites_id": [
+        "18102422666343457863"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement of biohydrogen production by reduction of methanogenesis at optimum electrode spacing in microbial electrolysis cell system",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:vVJNg6_NJEsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16473798158040358203",
+      "cites_id": [
+        "16473798158040358203"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Concentration optimization of sodium percarbonate as buffering catholyte on stacked microbial desalination cell by utilizing tofu wastewater as a substrate",
+        "pub_year": "2020",
+        "citation": "Engineering Journal 24 (4), 217-228, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:6ZzL7HXColQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10253957257102675195",
+      "cites_id": [
+        "10253957257102675195"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction of PLA2 and antibacterial activity test of lionfish (Pterois volitans) spine venom",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 462 (1), 012040, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:WWeOtg8bX_EC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15419479671967781497",
+      "cites_id": [
+        "15419479671967781497"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein isolation and identification of Pterois volitans spine venom coagulant activity",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 462 (1), 012039, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:9shLKfS_uJEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4289692080228511056",
+      "cites_id": [
+        "4289692080228511056"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of heating process on protein isolation of lionfish (Pterois volitans) spines venom extract to antioxidant activity assay",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:TesyEGJKHF4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17193383714433630790",
+      "cites_id": [
+        "17193383714433630790"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of lionfish (Pterois volitans) venomous spines with effective purification as an alternative antiretroviral HIV/AIDS",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:yTLRzDEmwhEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5698046404854013195",
+      "cites_id": [
+        "5698046404854013195"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Zeolit Alam bayah Banten sebagai Katalis Heterogen Pada Pembuatan Biodiesel Secara Transesterifikasi",
+        "pub_year": "2018",
+        "citation": "Prosiding Semnastek, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:jtI9f0ekYq0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3191328587959172051",
+      "cites_id": [
+        "3191328587959172051"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Kinetic of Bacillus subtilis for Pyrene biodegradation",
+        "pub_year": "2018",
+        "citation": "Energy Procedia 153, 248-252, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:_AeoHAGD03cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1026290360245908133",
+      "cites_id": [
+        "1026290360245908133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scale Up Production Indonesian Liquid Propolis From Raw Propolis and Wild Beehive Using Bubbling Vacuum Evaporator",
+        "pub_year": "2018",
+        "citation": "MATEC Web of Conferences 248, 04001, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:eI34FqJmdUoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16739582158717525990",
+      "cites_id": [
+        "16739582158717525990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Aktivitas Shalat Terhadap Kontrol Glikemik Penderita DM Tipe 2 di Wilayah Kerja Dinas Kesehatan Kabupaten Kuningan",
+        "pub_year": "2017",
+        "citation": "Jurnal Ilmu Kesehatan Bhakti Husada: Health Sciences Journal 6 (2), 33-41, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:YTuZlYwrTOUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14763177397248127578",
+      "cites_id": [
+        "14763177397248127578"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production and characterization of vaginal suppositories with propolis wax as active agent to prevent and treat Fluor albus",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1817 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ghEM2AJqZyQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12296443985629330718",
+      "cites_id": [
+        "12296443985629330718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research article effect of concentrations of bacterial consortia in culture medium from wastewater in microbial fuel cells",
+        "pub_year": "2017",
+        "citation": "Journal of Environmental Science and Technology 10, 276-282, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:__bU50VfleQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14482084043710457801",
+      "cites_id": [
+        "14482084043710457801"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan antara Pengetahuan dan Sikap Perawat Puskesmas dengan Terlaksananya Program Perawatan Kesehatan Masyarakat di Kabupaten Kuningan",
+        "pub_year": "2013",
+        "citation": "Jurnal Ilmu Kesehatan Bhakti Husada: Health Sciences Journal 2 (2), 115-118, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:LGlY6t8CeOMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14914265167343010201",
+      "cites_id": [
+        "14914265167343010201"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "N2O Reduction Using Goat and Cow Manure-Based Compost as Biofilter Medium",
+        "pub_year": "2012",
+        "citation": "Advanced Materials Research 518, 5075-5085, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15842088859426046632",
+      "cites_id": [
+        "15842088859426046632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing lipase immobilization on chitin by entrapment method as biocatalyst for non-alcohol route of biodiesel synthesis.",
+        "pub_year": "2012",
+        "citation": "International Proceedings of Chemical, Biological and Environmental \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:8k81kl-MbHgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15354230450998933031",
+      "cites_id": [
+        "15354230450998933031"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ion Exchange Resin and Entrapped Candida rugosa Lipase for Biodiesel Synthesis in the Recirculating Packed-Bed Reactor: A Performance Comparison of \u2026",
+        "pub_year": "2023",
+        "citation": "Energies 16 (12), 4765, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:C-Rn0OCouf8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=911245469273944895",
+      "cites_id": [
+        "911245469273944895"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Silico Identification of Propolis Compounds Potential as COVID-19 Drug Candidates Against SARS-CoV-2 Spike Protein",
+        "pub_year": "2023",
+        "citation": "International Journal of Technology 14 (2), 387-398, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:kO05sadLmrgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8296454546622154149",
+      "cites_id": [
+        "8296454546622154149"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of microwave pretreatment on some properties of bamboo (Gigantochloa apus) for bioethanol production",
+        "pub_year": "2022",
+        "citation": "Int J Adv Sci Eng Inf Technol 12 (1), 365-371, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:cSdaV2aYdYsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7832329643740975869",
+      "cites_id": [
+        "7832329643740975869"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improvement on Reusability, Storage Stability and Thermal Stability of Magnetic Graphene Oxide-Immobilized Cholesterol Oxidase",
+        "pub_year": "2022",
+        "citation": "Transdisciplinary Research and Education Center for Green Technologies \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ShjGdcaqzI0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6595732908485067958",
+      "cites_id": [
+        "6595732908485067958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant layout and health and safety analysis of thermochemical conversion for rice straw-based second-generation bioethanol production in West Java",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 599 (1), 012005, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:8VtEwCQfWZkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14904932824244319213",
+      "cites_id": [
+        "14904932824244319213"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The optimum flowrate recirculation of stacked microbial desalination cell",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:60iIaj97TE0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498286886671797803",
+      "cites_id": [
+        "12498286886671797803"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of temperature shift strategy in the production unsaturated fatty acids from Rhizopus oligosporus",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:KI9T_ytC6pkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10306642084045337463",
+      "cites_id": [
+        "10306642084045337463"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of fermentation time and sonication temperatures on extraction process of bitter leaves (Andrographis Paniculata) against antidiabetic activity through \u03b1-Glucosidase \u2026",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:TGkaJS32XoUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875675890835328985",
+      "cites_id": [
+        "7875675890835328985"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of papaya gum ratio per solvent volume and sonication time in bio-insecticide production using NaDES solvents with ultrasonic waves",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:vnF2_uLGgtgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5422481591040384504",
+      "cites_id": [
+        "5422481591040384504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance improvement of seawater desalination system using stacked microbial desalination cell method and activated carbon coating on cathode with tofu industrial wastewater \u2026",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:BAanoTsO0WEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3239134130106025361",
+      "cites_id": [
+        "3239134130106025361"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of flavonoid compounds from mother in law's tongue leaves (Sansevieria trifasciata) using microwave-assisted enzymatic extraction as anti-inflammatory",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:3A3nxV7CjKIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2737132898855924554",
+      "cites_id": [
+        "2737132898855924554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semi\u2010quantitative risk assessment on the impact of port development to wellhead platform",
+        "pub_year": "2020",
+        "citation": "Process Safety Progress 39, e12117, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:tz746QTLzJkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16398105696713537214",
+      "cites_id": [
+        "16398105696713537214"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of ammonium sulfate concentration in protein isolation of lionfish (Pterois volitans) spines venom extract for antitumor test",
+        "pub_year": "2019",
+        "citation": "AIP conference proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:yeL6HyUMUGUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15292164237942632878",
+      "cites_id": [
+        "15292164237942632878"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction, antioxidant, and bioactive component assay of lionfish venom Pterois volitans",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Y0-TYkg6YM4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1372800466355280303",
+      "cites_id": [
+        "1372800466355280303"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chewing gum containing propolis wax from Apis mellifera bees for prevention of dental caries disease",
+        "pub_year": "2019",
+        "citation": "Int. J. Appl. Pharm 11, 141-145, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:oTdOBqtIf_kC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6411081175406867814",
+      "cites_id": [
+        "6411081175406867814"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modification of bayah banten natural zeolite as heterogeneous catalyst in biodiesel production",
+        "pub_year": "2019",
+        "citation": "Journal of Applied Engineering Science 17 (3), 431-438, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:QoJ_w57xiyAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9363692456190811105",
+      "cites_id": [
+        "9363692456190811105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Risk analysis of gas distribution pipelines in apartments using the event tree analysis method",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2021 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:zUl2_INMlC4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10336029105926199142",
+      "cites_id": [
+        "10336029105926199142"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Applied voltage optimization for denitrification process improvement by denitrifying species of Pseudomonas in microbial electrolysis cell (MEC)",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 02027, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:naSTrk-c4S8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17754129976407223259",
+      "cites_id": [
+        "17754129976407223259"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of yeast extract co-product bioethanol from empty palm oil bunch",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03039, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ijdKiLOsEJMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11004024584686823463",
+      "cites_id": [
+        "11004024584686823463"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reduction of COD and BOD concentration in lake water of universitas indonesia with microbial desalination cell system and utilizing bio charcoal as electrode",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 01011, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Ic1VZgkJnDsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2295768571191127414",
+      "cites_id": [
+        "2295768571191127414"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Saponin Isolation as Main Ingredients of Insecticide and Collagen Type I From Crown of Thorn\u2013Starfish (Acanthaster planci)",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 89 (1), 012032, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:T_ojBgVMvoEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9408290466593158721",
+      "cites_id": [
+        "9408290466593158721"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of adding selective mixed culture of alternative electricity production based on tempe wastewater on tubular microbial fuel cell",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1840 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:isU91gLudPYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1294246942595820525",
+      "cites_id": [
+        "1294246942595820525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rekayasa Katalis Penukar ion Untuk Sintesa Biodiesel Menggunakan Katalis Zeolit Alam Bayah Banten (ZABBrht)",
+        "pub_year": "2015",
+        "citation": "Seminar Nasional Research Month, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:CRzUtm-VnGAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2976484079923901848",
+      "cites_id": [
+        "2976484079923901848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biofilm composite design on pumice stone for phenol degradation in batik industrial waste",
+        "pub_year": "2015",
+        "citation": "International Journal of Environment and Waste Management 16 (3), 209-220, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:qe6vwMD2xtsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=503389368469839411",
+      "cites_id": [
+        "503389368469839411"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Encapsulation of Candida rugosa lipase in chitosan beads as biocatalyst for biodiesel production via non-alcohol route",
+        "pub_year": "2014",
+        "citation": "New Biotechnology, S97-S98, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2392195951559037398",
+      "cites_id": [
+        "2392195951559037398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparation and Kinetic Study of Rhizopus oryzae Whole-cell as Biocatalyst for Biodiesel Synthesis through Non-alcohol Route",
+        "pub_year": "2013",
+        "citation": "Journal of Life Sciences and Technologies 168, 168-171, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16484093780385845058",
+      "cites_id": [
+        "16484093780385845058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Reaksi Esterifikasi Asam Lemak Bebas dan Gliserol Untuk Menghasilkan Minyak Diasilgliserol",
+        "pub_year": "2010",
+        "citation": "Reaktor 13 (2), 95-102, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17864633397743220469",
+      "cites_id": [
+        "17864633397743220469"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Risk identification of integral pressurized water reactor (IPWR) cooling system using a combination HAZOP, FMEA, and FTA methods",
+        "pub_year": "2024",
+        "citation": "Process Safety Progress, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:5LPo_wSKItgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6599460489464003784",
+      "cites_id": [
+        "6599460489464003784"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mangosteen pericarp extract mediated synthesis of Ag/TiO2 nanocomposite and its application on organic pollutant degradation by adsorption-photocatalytic activity",
+        "pub_year": "2024",
+        "citation": "Current Research in Green and Sustainable Chemistry 8, 100394, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:4QKQTXcH0q8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10830774983327066878",
+      "cites_id": [
+        "10830774983327066878"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aqueous Potassium Salt of L-Cysteine as Potential CO2 Removal Solvent: An Investigation on Physicochemical Properties and CO2 Loading Capacity",
+        "pub_year": "2023",
+        "citation": "Sustainability 15 (15), 11558, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:M0j1y4EgrScC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8907297209744992643",
+      "cites_id": [
+        "8907297209744992643"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Growth Inhibition of Streptococcus mutans by Fluoride Varnish Containing Averrhoa bilimbi L. and Piper crocatum Leaves Extracts",
+        "pub_year": "2022",
+        "citation": "Applied Mechanics and Materials 910, 17-23, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:zzCxg_vo7cAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1929266182913160127",
+      "cites_id": [
+        "1929266182913160127"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial effects of flouride varnish containing Ocinum sanctum and Graptophyllum pictum L. griff leaves extracts against Streptococcus mutans",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2537 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:eFf2swCANGcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4380263519644005994",
+      "cites_id": [
+        "4380263519644005994"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and anticancer activity assay of stonefish (Synanceia horrida) bioactive stonustoxin",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2537 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:sJK75vZXtG0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2183200628554481915",
+      "cites_id": [
+        "2183200628554481915"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Visualizing primary cooling system risks with bowtie diagram for RSG GAS operator guidance",
+        "pub_year": "2022",
+        "citation": "Process Safety Progress 41, S98-S105, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:rFyVMFCKTwsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6113054328324979228",
+      "cites_id": [
+        "6113054328324979228"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Techno-economic analysis of furfural purification process from hydrothermal hydrolysis products of oil palm empty fruit bunches using distillation and extraction methods",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 749 (1), 012046, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hHIA4WEVY-EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2094693258578270829",
+      "cites_id": [
+        "2094693258578270829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of protein from the spine venom of Pterois volitans found in the Indonesian ocean, using a heating process, for anticancer, antiretroviral, antibacterial, and \u2026",
+        "pub_year": "2021",
+        "citation": "Int J App Pharm, 53-8, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:q0uBw5dMOAkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15770188425810557618",
+      "cites_id": [
+        "15770188425810557618"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrotreating of Sunan Candlenut Oil using NiMo/\u0263-Al2O3 Catalyst for Renewable Diesel Production",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 673 (1), 012001, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:idthP5jqfYAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3560197110544970922",
+      "cites_id": [
+        "3560197110544970922"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessing carbon availability in bioelectrochemical systems for nitrate removal by environmental isolates",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:E7VqQtBCVmcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18321006069490565759",
+      "cites_id": [
+        "18321006069490565759"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The optimum ratio of anolyte volume and buffer phosphate volume in anode chamber of stacked microbial desalination cell",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:xyvS_IvSCKsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10379835650165981380",
+      "cites_id": [
+        "10379835650165981380"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis for the feasibility of portable biodigester to produce household scale energy",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:PuOEWVtPfzwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5412435747986643141",
+      "cites_id": [
+        "5412435747986643141"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sensitivity analysis of gas distribution pipeline risk assessment methodology in Indonesia",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2230 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Vno172sVVMwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1342395855059932012",
+      "cites_id": [
+        "1342395855059932012"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The production of bioinsecticide based from Pong-Pong fruit seed extract by ultrasonic waved extraction using nades solvent",
+        "pub_year": "2020",
+        "citation": "Transdisciplinary Research and Education Center for Green Technologies \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:lbI08cpqPnQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15957778714089889703",
+      "cites_id": [
+        "15957778714089889703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oxidation of extracted cholesterol from fatty food by using crude cholesterol oxidase Streptomyces sp.",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2193 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:I8rxH6phXEkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15841368094798156003",
+      "cites_id": [
+        "15841368094798156003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiretroviral activity of Pterois volitans (red lionfish) venom in the early development of human immunodeficiency virus/acquired immunodeficiency syndrome antiretroviral \u2026",
+        "pub_year": "2019",
+        "citation": "Abstract, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:GiYFt9mpioMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4035350364407063028",
+      "cites_id": [
+        "4035350364407063028"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and classification of honey's authenticity by attenuated total reflectance Fourier-transform infrared spectroscopy and chemometric method. Veterinary World, 12 \u2026",
+        "pub_year": "2019",
+        "citation": "Abstract, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:VnuxuLaQPLMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8856637155786246186",
+      "cites_id": [
+        "8856637155786246186"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The biological activities of indonesian propolis and it\u2019s molecular marker",
+        "pub_year": "2018",
+        "citation": "Journal of Apitherapy and Nature 1 (3), 66-66, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Og1tA8FjbJAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4094619041037872292",
+      "cites_id": [
+        "4094619041037872292"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stability study of honey, black seed oil, and olive oil emulsions with lechitin as the emulsifier",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2024 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:s85pQhAUCrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=72732686248835906",
+      "cites_id": [
+        "72732686248835906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sintesis biodiesel rute non-alkohol menggunakan Candida rugosa lipase dalam bentuk tersuspensi",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Kimia Indonesia 8 (2), 38-43, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:HDshCWvjkbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1046298218459179673",
+      "cites_id": [
+        "1046298218459179673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Batch crystallization of rifapentine for inhalable tuberculosis medication",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 1933 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:JP7YXuLIOvAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3548956282471641846",
+      "cites_id": [
+        "3548956282471641846"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Menguasai Penulisan Akademis",
+        "pub_year": "2018",
+        "citation": "Raja Grafindo Persada, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:SpPTWFSNUtQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217085108793570547",
+      "cites_id": [
+        "18217085108793570547"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Menguasai Penulisan Akademis Serial Produk Pengetahuan Smart City",
+        "pub_year": "2018",
+        "citation": "RAJA GRAFINDO PERSADA, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:X4-KO54GjGYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6717738936677181168",
+      "cites_id": [
+        "6717738936677181168"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of NADES Ratio Solvent and Sonication Time in Extraction of Papaya Sap for Bio-insecticide Production",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03024, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:wLxue7F8ec0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14788368745709461722",
+      "cites_id": [
+        "14788368745709461722"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tapioca and tofu waste utilization to produce AA, DHA, and EPA",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 105 (1), 012124, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:zwpXiJ37cpgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10709677994667724753",
+      "cites_id": [
+        "10709677994667724753"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembuatan Biodiesel dari Dedak Padi dengan Proses Transesterifikasi Menggunakan Katalis Zeolit Alam Bayah",
+        "pub_year": "2017",
+        "citation": "Prosiding Semnastek, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:c1e4I3QdEKYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11734493490124420171",
+      "cites_id": [
+        "11734493490124420171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodegradation of Phenolic Hydrocarbon Waste Using Bacterial Consortium from Cattle Rumen",
+        "pub_year": "2017",
+        "citation": "International Journal of Environmental Science and Development 8 (3), 200, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:eGYfIraVYiQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12400535894273959660",
+      "cites_id": [
+        "12400535894273959660"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nano-preparation of Andrographis paniculata extract by casein micelle for antidiabetic agent",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1817 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:wE-fMHVdjMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6242819462160436008",
+      "cites_id": [
+        "6242819462160436008"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization in expression and purification of modified apoptin as selective anti-cancer therapy",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1817 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:zdjWy_NXXwUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14574833565288726110",
+      "cites_id": [
+        "14574833565288726110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi PUFA dari Aspergillus oryzae Berbasis Onggok Dan Ampas Tahu Dengan Variasi Konsentrasi Karbon Dan Rasio Karbon-Nitrogen",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:v_tt_AnqfNMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=93703608888627988",
+      "cites_id": [
+        "93703608888627988"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Suhu dan pH pada Medium Onggok dan Ampas Tahu dalam Produksi Asam Lemak Tak Jenuh dengan Menggunakan Aspergillus oryzae",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:M_lZXyI38BkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=776016005800768171",
+      "cites_id": [
+        "776016005800768171"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fotodegradasi Fenol Dengan Katalis TiO2 P25 Berpenyangga Batu Apung",
+        "pub_year": "2013",
+        "citation": "Jurnal Kimia dan Kemasan 35 (1), 45-51, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:CYCckWUYoCcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14124401585359159796",
+      "cites_id": [
+        "14124401585359159796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-Alcohol Route of Biodiesel Synthesis from Fried Palm Oil using Immobilized Candida rugosa Lipase",
+        "pub_year": "2011",
+        "citation": "Journal of Chemistry and Chemical Engineering 5 (9), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15471615753389886320",
+      "cites_id": [
+        "15471615753389886320"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Model Matematika Reaksi Sintesis Diasilgliserol Menggunakan Biokatalis Melalui Mekanisme Esterifikasi Tak Reversible",
+        "pub_year": "2011",
+        "citation": "Makara Journal of Science, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7648956663736510027",
+      "cites_id": [
+        "7648956663736510027"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BR-O2 Interesterification of triglyceride with methyl acetate using lipase to produce biodiesel (Section IV Biorefinery)",
+        "pub_year": "2009",
+        "citation": "Journal of bioscience and bioengineering 108 (1), S42, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:LWqeokA2EBkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2532630255967913828",
+      "cites_id": [
+        "2532630255967913828"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosorption study for the removal of nitrous oxide gas using compost biofilter",
+        "pub_year": "2009",
+        "citation": "Prog. Environ. Sci. Technol, 799-802, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:3MwzVuqRcA0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14857435193246912526",
+      "cites_id": [
+        "14857435193246912526"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Special Issues",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:gmHTDCtJMcoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13223940574550245904,12344905533786571902",
+      "cites_id": [
+        "13223940574550245904",
+        "12344905533786571902"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Collection and analysis of hydrocarbon gas buried onshore pipeline accidents in Indonesia as the databases for failure frequency assessment in a quantitative risk analysis",
+        "pub_year": "2024",
+        "citation": "Process Safety Progress 43, S128-S133, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:oldoQiaHq2UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factory design and economic feasibility test for fast-release fluoride varnish with antibacterial agent using pharmaceutical ampoule packaging",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3080 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:hKjooKYXoHIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Novel Kinetic Model of Enzymatic Biodiesel Production in a Recirculating Fixed Bed Reactor.",
+        "pub_year": "2024",
+        "citation": "International Journal of Technology 15 (3), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:WMtz-WDmgKQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of stirring temperature on fluoride ion release and pH of fluoride varnish",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2710 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:vxA22ZmNLkoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of magnetite-cellulose material performance as immobilization support of Streptomyces sp. cholesterol oxidase on the enzyme storage time and usage repeatability for \u2026",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2710 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:adHtZc2wMuEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic modelling of enzymatic hydrolysis of oil palm empty fruit bunch pretreated by peracetic acid followed by alkaline peroxide solution assisted by ultrasound",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2710 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:3BvdIg-l-ZAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of toxic components of Scorpaenopsis diabolus poison on HeLa cells through cytotoxic test with MTS assay",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2710 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:QKtdBID3u5MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reactive extraction for Succinic acid separation from model fermentation broth with tributylamine in 1-decanol",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 2710 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Gb6Hms-Uo9kC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIODELIGNIFICATION OF AGRO-INDUSTRIAL WASTE AS THE SUBSTRATE TO PRODUCE LACCASE ENZYME FROM TRAMETES VERSICOLOR",
+        "pub_year": "2024",
+        "citation": "Barometer 9 (1), 56-63, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:N6_Y7JlWxwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil Palm Empty Fruit Bunch (OPEFB) Pretreatment Simulation with Ammonia Soaking and Ammonia Expansion Method for Levulinic Acid and Furfural Production",
+        "pub_year": "2024",
+        "citation": "E3S Web of Conferences 503, 04007, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Nnq8S6OXqDYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indoor air quality control at national-level regulations: A special case in Indonesia",
+        "pub_year": "2023",
+        "citation": "Journal of Air Pollution and Health, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:AFXcoJnoRH0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Guided inquiry\u2013Based model with interactive multimedia to improve students\u2019 physics creative thinking skills",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2619 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:GJVTs2krol4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementation of quantitative risk and cost\u2013benefit analysis in an aging offshore facility",
+        "pub_year": "2023",
+        "citation": "Process Safety Progress, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:pRWBApOjXDcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Immunomodulatory activity of propolis powder from Tetragonula sapiens on macrophage function",
+        "pub_year": "2022",
+        "citation": "AIP Conference Proceedings 2537 (1), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Nufq_to8ts0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of B20 Storage Tank Precipitate Removal Based on Biodiesel Monoglyceride Content",
+        "pub_year": "2022",
+        "citation": "ChemEngineering 6 (1), 7, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:cB__R-XWw9UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peppermint flavor oil in fluoride varnishes enhances fluoride release",
+        "pub_year": "2021",
+        "citation": "Scientific Dental Journal 5 (3), 133-137, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:9LpHyFPp1DQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of outlet temperature and total soluble solid in 2-stage spray dryer on black tea powder extract production",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 782 (3), 032087, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:PVqtIyvKoSUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of fluoride release by addition of flavor oils in fast release fluoride varnish",
+        "pub_year": "2021",
+        "citation": "AIP Conference Proceedings 2344 (1), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:GYcXSSpN504C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Ultrasound-Assisted on Sequential Peracetic Acid and Alkaline Peroxide Pretreatment to The Enzymatic Hydrolysis of Oil Palm Empty Fruit Bunch",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:WzTVkKNmPSkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic Model Based on Eley-Rideal and Irreversible Mechanism for Multilevel Reaction of Biodiesel Synthesis",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 673 (1), 012006, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Kqc1aDSOPooC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effects of Nano-Casein Encapsulation and Productions of a Controlled-Release on Eugenol Containing Bio-Pesticide Toxicity",
+        "pub_year": "2021",
+        "citation": "Frontiers in Molecular Sciences, 115, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:as0KMg8qHbkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of the optimum condition for biogas production using cow manure and lemongrass as the substrates",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:3lUAU8Oskd0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction of the flesh of bintaro fruit with ultrasonic waves using nades solvent for producing bioinsecticide",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:0sTkTiv_uMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of fermentation temperature and the crude extract concentration of bitter leaf (Andrographis Paniculata) on inhibition of \u03b1-glucosidase enzyme activity for \u2026",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:aDl3D7KC1E4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of unsaturated fatty acid from Rhizopus oligosporus with temperature shift strategy to prevent cardiovascular disease",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:J3LtWjKFLicC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of anodic biofilm formation on the performance of microbial electrolysis cell to produce biohydrogen from tempeh wastewater",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2255 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:eH23hyXCXa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of magnesium addition to volatile fatty acids and particulate chemical oxygen demand in hydrolysis phase of anaerobic waste treatment",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2230 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:U0iAMwwPxtsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein isolation of Pterois volitans venomous with a heating process for antibacterial activity assay",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 462 (1), 012041, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:R22Rs3tN8aoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Liquid Flow Rate on Carbon Dioxide Absorption Performance Using Aqueous Potassium Carbonate Promoted with Glycine at Elevated Pressure Condition of Packed Absorption \u2026",
+        "pub_year": "2020",
+        "citation": "Journal of Computational and Theoretical Nanoscience 17 (2-3), 957-960, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ifOnle78iJkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimization of Platforming Catalyst Deactivation due to Sintering",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Materials Science and Engineering 742 (1), 012009, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:VRfTbSk87rEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Apoptin gene optimization in Escherichia coli",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2092 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Vr2j17o0sqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Purification of recombinant protein apoptin from two cell host Bacillus subtilis 168 and Escherichia coli Bl21 Star\u2122",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2092 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:lg2tdxc6qMwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karya Rekaman Video\" Program Pembangunan Pembangkit Listrik Tenaga Biogas Dari Kotoran Ternak Untuk Pengembangan Peternakan Mandiri Energi\"",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:txeM2kYbVNMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent and Perspective of Fuel Quality Control Method in Indonesia",
+        "pub_year": "2018",
+        "citation": "2018 IEEE 5th International Conference on Engineering Technologies and \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:iyewoVqAXLQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Propolis Wax Application as Antimicrobial Active Substances of Transparent Soap",
+        "pub_year": "2018",
+        "citation": "2018 IEEE 5th International Conference on Engineering Technologies and \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ji7lAbPyDbYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan aktivitas katalis nikel dan katalis tembaga pada reaksi hidrogenasi metil ester untuk pembuatan surfaktan",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Kimia Indonesia 8 (2), 63-68, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:XAp-VaTZjjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lipase Biocatalyst Immobilization from Solid State Fermentation of Palm Oil Empty Fruit Bunches, Bagasse, and Palm Oil Sludge with Adsorption-Cross Linking Method in Anion \u2026",
+        "pub_year": "2018",
+        "citation": "Materials Science Forum 929, 209-217, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:oPLKW5k6eA4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Journal of Apitherapy and Nature",
+        "pub_year": "2018",
+        "citation": "Journal of Apitherapy and Nature/Apiterapi ve Do\u011fa Dergisi 1 (3), 66-66, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:mVC4hKzE2FoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of sesame seed sprout biomass as lipase source to hydrolyse palm oil",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 105 (1), 012101, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:_tF6a-HnqWAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing a concentration of NaCl and 2Na2CO3\u2219 3H2O with microbial desalination cell from the usage of UI lake water",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 02005, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:OzeSX8-yOCQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of Plutella xylostella bioinsecticide for brassicaceae plant based on bromelain enzyme extracted from pineapple peel and isothiocyanate extracted from broccoli stem \u2026",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03017, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:c59VksA5Vz4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction and characterization of yeast extract bioethanol byproduct from empty palm oil bunch for raw material of cosmetic products",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 67, 03040, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:c_xDhezhKKUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiviral activity of Acanthaster planci phospholipase A2 against human immunodeficiency virus, Veterinary World, 11 (6): 824-829",
+        "pub_year": "2018",
+        "citation": "Abstract, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:BmWJbWwHJAwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Life cycle cost and sensitivity analysis of Reutealis trisperma as non-edible feedstock for future biodiesel production.",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:_mQi-xiA4oYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Anion and Amino Functional Group on Resin for Lipase Immobilization with Adsorption-Cross Linking Method",
+        "pub_year": "2017",
+        "citation": "Journal of Clean Energy Technologies 5 (5), 366-370, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:eAlLMO4JVmQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Anion and Amino Functional Group on Resin for Lipase Immobilization with Adsorption-Cross LinNing Method",
+        "pub_year": "2017",
+        "citation": "International Journal of Chemical and Molecular Engineering 9 (12), 1518-1522, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:orDZ08hpP44C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Production of Cellulase from Bacillus sp. BPPTCC-RK2 using OPEFB Substrate",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:PlWzFYVEG4EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH JENIS SUMBER NITROGEN PADA PEMBUATAN OLYHYDROXYBUTYRATE DARI GLUKOSA MENGGUNAKAN BAKTERI Bacillus cereus",
+        "pub_year": "2016",
+        "citation": "PROSIDING SEMNASTEK 2016, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:8uzoZH4hB9AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Produksi Ekstrak Basah, Ekstrak Kering, Dan Imobilisasi Lipase Ekstraseluler Sebagai Biokatalis Untuk Reaksi Katalisis Minyak Nabati",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:g_UdREhPGEoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "REKAYASA KATALIS PENUKAR ION UNTUK SINTESA BIODIESEL MENGGUNAKAN KATALIS ZEOLIT ALAM BAYAH BANTEN (ZABrht) rht",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:4e5Qn2KL_jwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Students Guide Book: Environmental Science",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:KS-xo-ZNxMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Initial Dioxigenase Gene Squences Analysis of Marine Bacteria Strain M128",
+        "pub_year": "2013",
+        "citation": "ASEAN Journal of Chemical Engineering 13 (1), 33-42, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of Sweet Potato Starch for Producing Biocomposite Semiconductor Materials",
+        "pub_year": "2013",
+        "citation": "Journal of Chemistry and Chemical Engineering 7 (1), 26, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Risk Forecast of Gas Transmission Pipeline Maintenance using Random Number Generation Simulation",
+        "pub_year": "2011",
+        "citation": "Asian Transactions on Engineering, 41-54, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MODEL ADSORPSI LANGMUIR GAS DINITROGEN MONOKSIDA DALAM SISTEM BIOFILTER DENGAN MEDIUM PUPUK KOMPOS",
+        "pub_year": "2011",
+        "citation": "Reaktor 13 (3), 172-177, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Non-sterile Inorganic Carrier-based Formulations of Fluorescent Pseudomonad for Aagronomical Applications",
+        "pub_year": "2010",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 87-87, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitrous Oxide Biofiltration using Goat-Manure Based Pelletized Compost as Filter Media",
+        "pub_year": "2010",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 87-87, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Resiko Pipa Gas Melalui Metode Semi Kualitatif",
+        "pub_year": "2010",
+        "citation": "Seminar Nasional Teknik Kimia Soebardjo Brotohardjono Ketahanan Pangan dan \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:pUxgyZctzPYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SINTESIS DIMETIL ETER MENGGUNAKAN KATALIS Cu-Zn/\u03b3-Al2O3 DALAM REAKTOR FIXED BED",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:NtGNdKbuCngC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOFILTRASI N2O DENGAN MEDIUM FILTER BERBASIS KOMPOS: EVALUASI PARAMETER OPERASI",
+        "pub_year": "2010",
+        "citation": "Jurnal Purifikasi 11 (1), 71-76, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:t-hv7AR41mYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nitrous oxide gas removal by using compost-based biofilter medium",
+        "pub_year": "2010",
+        "citation": "\u5b89\u5168\u4e0e\u73af\u5883\u5b66\u62a5, 61-64, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Demineralisasi Dan Deproteinasi Kulit Udang Secara Kontinyu Pada Tahapan Ekstraksi Kitin Secara Biologis",
+        "pub_year": "2010",
+        "citation": "Jurnal Sains dan Teknologi Indonesia 12 (1), 131267, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH LAJU ALIR DAN KEDALAMAN MEDIUM PADA PROSES BIOFILTRASI DINITROGEN MONOKSIDA DENGAN MEDIUM KOMPOS BERBASIS KOTORAN SAPI",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetics for Interesterification of Triglycerides with Methyl Acetate to Produce Biodiesel Using immobilized Candida rugosa Lipase",
+        "pub_year": "2009",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 86-86, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conversion of solid and liquid waste from sugarcane industry to bioethanol by enzyme combination in SSF bioreactor",
+        "pub_year": "2008",
+        "citation": "\ud55c\uad6d\uc0dd\ubb3c\uacf5\ud559\ud68c \ud559\uc220\ub300\ud68c, 29-29, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinetic analysis for triglyceride hydrolysis using lipase in biphasic oil-water system",
+        "pub_year": "2006",
+        "citation": "(No Title), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh FenomenaTransfer Massa Terhadap Model Kinetika Berbasis Mekanisme Ping-Pong Bi Bi Untuk Interesterfikasi Trigliserida menjadi Biodiesel",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:NU-BerS4NX4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of biofilm and selective mixed culture on microbial fuel cell for the treatment of tempeh industrial wastewater",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:8RAEygVn5_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Bioaugmentation by Using Cow Manure Microbial Consortium on Microbial Communities for Treating Food Waste with Anaerobic Digestion",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:7VEv-pLvLSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE MODIFICATION OF ION EXCHANGE CATALYSTS FOR BIODIESEL SYNTHESIS",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:7H_jS4BsgvYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAZARD IDENTIFICATION OF PRIMARY COOLING SYSTEM GA SIWABESSY REACTOR AS PART OF SAFETY ANALYSIS FOR PREVENTING AND MINIMIZING THE ACCIDENT IMPACT",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:cBPnxVikjH8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Browse Article",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:ymY9cBF3mdcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Browse Article",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:pYKElYtJMmwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "List of committees",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:NxmKEeNBbOMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh kondisi reaksi hidrogenasi Metil laurat terhadap aktivitas dari surfaktan berbahan baku minyak kelapa",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:0aBXIfxlw9sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SINTESIS BIODIESEL DARI MINYAK NABATI MELALUI RUTE NON ALKOHOL SECARA KONTINYU MENGGUNAKAN CANDIDA RUGOSA LIPASE",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Asam propionat sebagai displacement acid pada reaksi hidrolisis minyak kelapa sawit dengan katalis asam sulfat",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh penambahan asam asetat sebagai displacement acid pada reaksi hidrolisis minyak kelapa sawit dengan katalis asam sulfat",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination of Cellulase and Celubiase for Bioethanol Production from Bagasse and Waste Paper through Simultaneous Saccharification And Fermentation (SSF)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interesterification of Fried Palm Oil with Methyl Acetate using Candida rugosa Lipase To Produce Biodiesel",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "eTi34roAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 9,
+    "not_available": 5
+  }
+}

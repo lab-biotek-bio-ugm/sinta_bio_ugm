@@ -1,0 +1,435 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "qurK1esAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Husnawati",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qurK1esAAAAJ&citpid=3",
+  "affiliation": "Medical Biochemistry",
+  "interests": [
+    "Biokimia medis",
+    "Tanaman Obat"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 173,
+  "citedby5y": 144,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2014": 2,
+    "2015": 2,
+    "2016": 7,
+    "2017": 5,
+    "2018": 11,
+    "2019": 9,
+    "2020": 4,
+    "2021": 18,
+    "2022": 31,
+    "2023": 55,
+    "2024": 25
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NpxjUQMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sony Hartono Wijaya",
+      "affiliation": "Dept. Computer Science, IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "o5QNJKYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Irmanida Batubara",
+      "affiliation": "Department of Chemistry, Bogor Agricultural University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Total flavonoid content and antioxidant activity of ethanol and ethyl acetate extracts from accessions of Amomum compactum fruits",
+        "pub_year": "2021",
+        "citation": "Annals of Agricultural Sciences 66 (1), 58-62, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:ufrVoPGSRksC",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16178422510084888982",
+      "cites_id": [
+        "16178422510084888982"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supervised Clustering Based on DPClusO: Prediction of Plant\u2010Disease Relations Using Jamu Formulas of KNApSAcK Database",
+        "pub_year": "2014",
+        "citation": "BioMed research international 2014 (1), 831751, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9991561640060908580",
+      "cites_id": [
+        "9991561640060908580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Classification of betel leaves (Piper betle) from 15 ethnics in eastern Indonesia based on phytochemicals fingerprint analysis",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12391691264962600867",
+      "cites_id": [
+        "12391691264962600867"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anticancer activities of endophytic fungi isolated from soursop leaves (Annona muricata L.) against WiDr cancer cells",
+        "pub_year": "2017",
+        "citation": "Annual Research & Review in Biology, 1-11, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2705742750031765610",
+      "cites_id": [
+        "2705742750031765610"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Ethyl Acetate Extract of Endophytic Fungi in Soursop Leaves towards the Growth of Mammary Tumor Induced by 7, 12-dimethylbenz (\u03b1) anthracene in Female Rats",
+        "pub_year": "2017",
+        "citation": "Annual Research & Review in Biology, 1-8, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6458340249520763404",
+      "cites_id": [
+        "6458340249520763404"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiproliferative Potency of God\u2019s Crown Fruit (Phaleria macrocarpa) Extract Against Breast Cancer Cell",
+        "pub_year": "2022",
+        "citation": "Borneo Journal of Pharmacy 5 (4), 307-314, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:8k81kl-MbHgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=479387092938210784",
+      "cites_id": [
+        "479387092938210784"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marker Compound of Jati Belanda (Guazuma ulmifolia Lamk) Extract as Anti-Cholesterol",
+        "pub_year": "2017",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 22 (2), 87-91, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=672234581736583136",
+      "cites_id": [
+        "672234581736583136"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Hambat Siklooksigenase-2 oleh Campuran Ekstrak Suruhan (Peperomia pellucida) dan Jahe Merah (Zingiber officinale) dalam Inflamasi",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12829896567621928639",
+      "cites_id": [
+        "12829896567621928639"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Penurunan Kadar Glukosa pada Tikus yang Diinduksi Aloksan dari Ekstrak Air Angkak, Bekatul, dan Kombinasinya",
+        "pub_year": "2020",
+        "citation": "Warta Industri Hasil Pertanian 37 (2), 172, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2159776373420850583",
+      "cites_id": [
+        "2159776373420850583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Gnetum gnemon Peel Extract as an Antihyperuricemic in White Rats Rattus norvegicus",
+        "pub_year": "2020",
+        "citation": "Current Biochemistry 7 (1), 21-28, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:roLk4NBRz8UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6055375484770637336",
+      "cites_id": [
+        "6055375484770637336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hasil Uji Toksisitas Subkronis Temulawak Terhadap Nilai Hemoglobin, Hematokrit, dan Leukosit Tikus",
+        "pub_year": "2022",
+        "citation": "Jurnal Pharmascience 9 (2), 234-247, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9457253445415047648",
+      "cites_id": [
+        "9457253445415047648"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toksisitas Subkronis Ekstrak Etanol Propolis Dengan Parameter Konsentrasi Glukosa, Kolesterol dan Trigliserida Pada Darah Tikus",
+        "pub_year": "2020",
+        "citation": "FITOFARMAKA: Jurnal Ilmiah Farmasi 10 (2), 158-169, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15765853072034564291",
+      "cites_id": [
+        "15765853072034564291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemberdayaan Pertanian Terpadu Bermodal Limbah Ladang, Dapur dan Kandang Berbasis Koperasi di Desa Cibitung Tengah, Bogor",
+        "pub_year": "2020",
+        "citation": "Agrokreatif: Jurnal Ilmiah Pengabdian kepada Masyarakat 6 (3), 195-205, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13749656139261750156",
+      "cites_id": [
+        "13749656139261750156"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Ekstrak Etanol Daun Kirinyuh (Eupatorium odoratum L) terhadap Mortalitas Larva Nyamuk Aedes aegypti sebagai Pengayaan Praktikum Fisiologi Hewan",
+        "pub_year": "2018",
+        "citation": "Universitas Mataram, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6658624381562264381",
+      "cites_id": [
+        "6658624381562264381"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Khasiat Antiinflamasi Ekstrak Herba Suruhan (Peperomia pellucida [L]) dan Campurannya dengan Jahe Merah (Zingiber officinale Rosc.) pada Tikus",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16779884533801318754",
+      "cites_id": [
+        "16779884533801318754"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penambatan Molekuler Senyawa Aktif Sirih Merah (Piper crocatum) pada Butirilkolinesterase sebagai Kandidat Antialzheimer",
+        "citation": "ALCHEMY Jurnal Penelitian Kimia 19 (1), 68-85, 0"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16741154613601790328",
+      "cites_id": [
+        "16741154613601790328"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of Chemical Compounds from Phomopsis Extract as Anti-Breast Cancer Using LC-MS/MS Analysis, Molecular Docking, and Molecular Dynamic Simulations",
+        "pub_year": "2023",
+        "citation": "International Journal of Technology, 1476-1486, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEKTIFITAS KONSUMSI TABLET FE DITAMBAH JUS NAGA MERAH DAN JUS TOMAT TERHADAP HEMOGLOBIN IBU HAMIL ANEMIA",
+        "pub_year": "2022",
+        "citation": "Maternal Child Health Care 1 (2), 104-113, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Level of subchronic toxicity due to administration of extract soursop leaf endophytic fungi on glucose levels rat blood cholesterol and triglycerides.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Differences in Parts of Purslane Plants (Portulaca grandiflora Hook.) To Total Phenolic and Flavonoid Content and Antioxidant Activity",
+        "pub_year": "2020",
+        "citation": "Current Biochemistry 7 (1), 10-20, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stabilitas Metabolit Sekunder Kapang Endofit Daun Sirsak (Annona Muricata L.) pada Skala Pabrik",
+        "pub_year": "2020",
+        "citation": "Prosiding Seminar Nasional Himpunan Mahasiswa KimiaFMIPA UNMUL 2020Jurusan \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IN VIVO ANTI-HYPERCHOLESTEROLEMIA EFFECT OF INDONESIAN JAMU FORMULA",
+        "pub_year": "2016",
+        "citation": "International Journal of Research in Ayurveda and Pharmacy (IJRAP) 7 (6), 79-84, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Dan Uji Bioaktivitas Pektin Dari Kulit Pisang Kepok (Musa balbisiana) Hasil Ekstraksi Dengan Berbagai Pelarut Asam",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidan in Vitro dan in Vivo Ekstrak Benalu Campuran (Lorantaceae) pada Tanaman Teh (Camelia sinensis L.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi in vivo khasiat antiinflamasi ekstrak herba suruhan (Peperomia pellucida [L]) dan campurannya dengan jahe merah (Zingiber officinale Rosc.)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antiobesitas Ekstrak Sirih Merah (Piper Crocatum) Terhadap Obesitas Yang Diinduksi Pakan Tinggi Lemak Pada Tikus",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "qurK1esAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

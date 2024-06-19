@@ -1,0 +1,473 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "F8fnGvQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tri Heru Widarto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=F8fnGvQAAAAJ&citpid=2",
+  "affiliation": "Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Animal Life Cycle and Ecophysiology"
+  ],
+  "email_domain": "@ipb.ac.id",
+  "citedby": 587,
+  "citedby5y": 294,
+  "hindex": 7,
+  "hindex5y": 4,
+  "i10index": 6,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2000": 3,
+    "2001": 1,
+    "2002": 4,
+    "2003": 3,
+    "2004": 1,
+    "2005": 1,
+    "2006": 8,
+    "2007": 9,
+    "2008": 7,
+    "2009": 9,
+    "2010": 8,
+    "2011": 5,
+    "2012": 9,
+    "2013": 15,
+    "2014": 10,
+    "2015": 41,
+    "2016": 45,
+    "2017": 63,
+    "2018": 45,
+    "2019": 63,
+    "2020": 48,
+    "2021": 56,
+    "2022": 60,
+    "2023": 44,
+    "2024": 23
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning",
+        "pub_year": "2014",
+        "citation": "Nature communications 5 (1), 5351, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 395,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2108001031332975568",
+      "cites_id": [
+        "2108001031332975568"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nonylphenol stimulates fecundity but not population growth rate (\u03bb) of Folsomia candida",
+        "pub_year": "2007",
+        "citation": "Ecotoxicology and Environmental Safety 67 (3), 369-377, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4550209396690750990",
+      "cites_id": [
+        "4550209396690750990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Discrimination of macaques by macaques: the case of Sulawesi species",
+        "pub_year": "1997",
+        "citation": "Primates 38, 233-245, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 43,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9854992943965071614",
+      "cites_id": [
+        "9854992943965071614"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of nonylphenol on life-history of the earthworm Dendrobaena octaedra Savigny: linking effects from the individual-to the population-level",
+        "pub_year": "2004",
+        "citation": "Ecotoxicology and Environmental Safety 58 (2), 147-159, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9528200622341965661",
+      "cites_id": [
+        "9528200622341965661"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning. Nat Commun 5: 5351",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4027640754146046464",
+      "cites_id": [
+        "4027640754146046464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological characters and histology of Pheretima darnleiensis",
+        "pub_year": "2012",
+        "citation": "Hayati Journal of Biosciences 19 (1), 44-48, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9122624506188956462",
+      "cites_id": [
+        "9122624506188956462"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shell form variation of a freshwater mussel Velesunio ambiguus Philippi from the Ross River, Australia",
+        "pub_year": "2007",
+        "citation": "HAYATI Journal of Biosciences 14 (3), 98-104, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17956442075964307821",
+      "cites_id": [
+        "17956442075964307821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning. Nat Commun",
+        "pub_year": "2014",
+        "citation": "Nature Publishing Group 5, 1-7, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14617305078281053206",
+      "cites_id": [
+        "14617305078281053206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beberapa Aspek Biologi Reproduksi Kijing Air Tawar yang Hidup di Daerah Tropik",
+        "pub_year": "1996",
+        "citation": "IPB (Bogor Agricultural University), 1996"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7370656185062182176",
+      "cites_id": [
+        "7370656185062182176"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Some aspects of reproductive biology of freshwater mussels living in a tropical area",
+        "pub_year": "1996",
+        "citation": "Hayati (Indonesia) 3 (1), 1996"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2963074834375921643",
+      "cites_id": [
+        "2963074834375921643"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Ekstrak Daun Nangka dan Daun Sukun sebagai Moluskisida Nabati terhadap Daya Hidup Keong Mas (Pomacea canaliculata Lamarck)",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15121608725129384710",
+      "cites_id": [
+        "15121608725129384710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioekologi Cacing Tanah Pheretima darnleiensis",
+        "pub_year": "2010",
+        "citation": "IPB (Bogor Agricultural University), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15003768936943013755",
+      "cites_id": [
+        "15003768936943013755"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas bivalvia sebagai bioremidiator polutan perairan: studi kasus waduk situ gede bogor",
+        "pub_year": "2010",
+        "citation": "Jurnal Biotik 3, 1-12, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2816951120776294259",
+      "cites_id": [
+        "2816951120776294259"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Bentuk dan Warna Sisik Sayap Kupu-Kupu dan Ngengat",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (4), 164-170, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan Distribusi Gastropoda Air Tawar di Sungai Ciapus, Jawa Barat, Indonesia",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (4), 145-151, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Observasi Perilaku Cacing Tanah Metaphire sp. Sebagai Upaya Awal Domestikasi",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (2), 70-80, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kepadatan dan Persebaran Parmarion pupillaris pada 10 Jenis Sayuran di Desa Dlangu, Kecamatan Trawas, Kabupaten Mojokerto",
+        "pub_year": "2022",
+        "citation": "Jurnal Sumberdaya Hayati 8 (2), 75-81, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sublethal effects of phenanthrene on the life history of a parthenogenetic earthworm Dendrobaena octaedra after repeated exposures",
+        "pub_year": "2005",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The life-history of a springtail Folsomia candida living in soil contaminated with nonylphenol",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Faktor Penyebab Stres Pada Axolotl (Ambystoma mexicanum) Berdasarkan Warna Kulit",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perilaku Makan dan Pengaruh Jenis Pakan Terhadap Pertumbuhan Filicaulis bleekeri Keferstein (Mollusca: Gastropoda)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Siklus Hidup Black Soldier (Hermetia illucens) dalam Media Bungkil Kelapa Sawit dengan Penambahan Silase Ikan",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kelimpahan Makrozoobenthos sebagai Bioindikator Cemaran Organik Di Sungai Cibala, Sukanagara, Cianjur",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon of earthworm burrowing behaviour as a biomarker of imidacloprid in soil",
+        "citation": "Fakultas Biologi UGM, 0"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengayaan materi ajar bagi guru Sekolah menengah pertama",
+        "citation": "Bogor Agricultural University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji lengos cacing tanah untuk mendeteksi imidakloprid pada ekosistem terestrial",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Uji lengos cacing tanah untuk mendeteksi imidakloprid pada ekosistem terestrial",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shigella, Leucocytes, and Hematocrit from Diarrheal Patient in Cangkurawok Healt Center, Dramaga, Bogor",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kepadatan dan Persebaran Deroceras laeve dan Meghimatium bilineatum pada 10 Jenis Sayuran di Agropolitan, Cipanas",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beberapa Aspek Biologi Reproduksi Kijing Air Tawar yang H\u00ecdup di Daerah Tropik (Some Aspects of Reproductive Biology of Freshwater Mussels Living in a Tropical Area)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Osmoregulasi Kijing Air Tawar (Velesunio ambiguus Phillipi){Osmoregulation of Freshwater Mussel Velesunio ambiguus Phillipi",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "F8fnGvQAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

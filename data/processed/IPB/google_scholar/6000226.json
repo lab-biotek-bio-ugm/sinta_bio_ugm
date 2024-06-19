@@ -1,0 +1,381 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "VRV9SwoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Agus Ghautsun Niam .",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VRV9SwoAAAAJ&citpid=2",
+  "affiliation": "Mechanical and biosystem engineering",
+  "interests": [
+    "Biosystem engineering"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 59,
+  "citedby5y": 56,
+  "hindex": 5,
+  "hindex5y": 4,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2017": 2,
+    "2018": 1,
+    "2019": 11,
+    "2020": 4,
+    "2021": 7,
+    "2022": 14,
+    "2023": 13,
+    "2024": 7
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "DdGORgUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Herry Suhardiyanto",
+      "affiliation": "Professor Agricultural Engineering, Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Qfy_uoIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mohamad Solahudin",
+      "affiliation": "Departemen Teknik Mesin dan Biosistem - IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2RgyhGsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kudang Boro Seminar",
+      "affiliation": "Professor of Agriculture Engineering, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VRzJRMgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sutrisno Mardjan",
+      "affiliation": "Professor of Biosystem Engineering, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "_W-TkEQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arief Sabdo Yuwono",
+      "affiliation": "Dept. of Civil and Environmental Engineering, IPB University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CFD simulation approach in determining air conditioners position in the mini plant factory for shallot seed production",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2062 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=692873200436377133",
+      "cites_id": [
+        "692873200436377133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrasonic atomizer application for low cost aeroponic chambers (LCAC): A review",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012034, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8014970302745331172",
+      "cites_id": [
+        "8014970302745331172"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CFD Simulation of Cooling Pipes Distance in The Growing Medium for Hydroponic Substrate in Tropical Lowland",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13130437976015412698",
+      "cites_id": [
+        "13130437976015412698"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Distribusi Suhu dan Pola Pergerakan Udara pada Rumah Tanaman Tipe Standard Peak Berventilasi Mekanis Menggunakan CFD (Computational Fluid Dynamics)[tesis]",
+        "pub_year": "2011",
+        "citation": "Bogor (ID): Institut Pertanian Bogor, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:ufrVoPGSRksC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10016681291918305167",
+      "cites_id": [
+        "10016681291918305167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root-zone cooling in tropical greenhouse: A review",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Materials Science and Engineering 557 (1), 012044, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10513099322164281285",
+      "cites_id": [
+        "10513099322164281285"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH SUHU TERHADAP PERMEABILITAS GAS PADA PLASTIK FILM UNTUK PENGEMASAN SECARA ATMOSFIR TERMODIFIKASI THE EFFECT OF TEMPERATURE ON THE GAS PERMEABILITY OF POLYMERIC FILM \u2026",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Pertanian Lampung Vol 7 (3), 133-141, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10276598548093534372",
+      "cites_id": [
+        "10276598548093534372"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tracer study of CO2 enrichment for shallot growth in mini plant factory with CFD approach",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 335 (1), 1-8, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:WF5omc3nYNoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8376838386654549335",
+      "cites_id": [
+        "8376838386654549335"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Distribusi Suhu pada Lubang Tanam Hidroponik Rakit Apung untuk Produksi Bawang Merah di Dataran Rendah Tropika",
+        "pub_year": "2017",
+        "citation": "Jurnal Keteknikan Pertanian 5 (3), 235-244, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15743657014466532873",
+      "cites_id": [
+        "15743657014466532873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Dispersi Gas Polutan dari Cerobong ke Lingkungan dengan Pendekatan Computational Fluid Dynamics (CFD)",
+        "pub_year": "2009",
+        "citation": "Himpunan Informatika Pertanian Indonesia (HIPI, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7628384165897867558",
+      "cites_id": [
+        "7628384165897867558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Fotoperiodisme dan Media Tanam terhadap Inisiasi Pembungaan Bawang Merah (Allium ascalonicum) di Mini Plant Factory.",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Fotoperiodisme Terhadap Fase Vegetatif Bawang Merah di Mini Plant Factory",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisa Koefisien Hambat Udara pada Rumah Tanaman Tipe Modified Standard Peak dengan Pendekatan Simulasi Computational Fluid Dynamics",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Koefisien Tekanan untuk Perancangan Rumah Tanaman Tipe Modified Standard Peak.",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Koefisien Tekanan untuk Perancangan Rumah Tanaman Tipe Modified Arch.",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Sebaran Suhu dan Aliran Udara dengan Dua Skenario Penempatan Pendingin Udara pada Mini Plant Factory Berbasis CFD.",
+        "pub_year": "2019",
+        "citation": "Bogor Agriculture University (IPB), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of temperature on the gas permeability of polymeric film for Modified Atmosphere Packaging.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediksi Sebaran Suhu Udara di dalam Rumah Tanaman Tipe Modified Arch di Dataran Rendah TropikaMenggunakan Computational Fluid Dynamics",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Root-Zone Cooling System untuk Produksi Benih Bawang Merah di Dataran Rendah Tropika",
+        "pub_year": "2017",
+        "citation": "IPB (Bogor Agricultural University), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Penggunaan Perangkat Lunak Berbasis CFD (Computational Fluid Dynamic) untuk Mendukung Pengembangan Pertanian Presisi",
+        "pub_year": "2013",
+        "citation": "Seminar Nasional HIPI (Himpunan Informatika Pertanian Indonesia) 2013, 107-114, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation of Temperature Distribution and Airflow Pattern on a Modified Standard Peak Greenhouse Equipped with Mechanical Ventilation Using CFD (Computational Fluid Dynamics).",
+        "pub_year": "2008",
+        "citation": "Bogor Agricultural University, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation of Temperature Distribution and Airflow Pattern on a Modified Standard Peak Greenhouse Equipped with Mechanical Ventilation Using CFD (Computational Fluid Dynamics).",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulasi Dispersi Gas Polutan SO2, H2S, dan CO dengan Menggunakan Program Computational Fluid Dynamics (CFD)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "VRV9SwoAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

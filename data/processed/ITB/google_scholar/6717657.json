@@ -1,0 +1,145 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "oqJ0eoQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Mochamad Firmansyah",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oqJ0eoQAAAAJ&citpid=7",
+  "affiliation": "School of Life Science and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Bioengineering",
+    "Biorefinery"
+  ],
+  "email_domain": "@itb.ac.id",
+  "citedby": 95,
+  "citedby5y": 95,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2020": 12,
+    "2021": 20,
+    "2022": 22,
+    "2023": 18,
+    "2024": 19
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "HI1VZYwAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muhammad Yusuf Abduh",
+      "affiliation": "Lecturer of Bio-engineering, Institut Teknologi Bandung"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of protein hydrolysate containing antioxidant activity from Hermetia illucens",
+        "pub_year": "2019",
+        "citation": "Heliyon 5 (6), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "oqJ0eoQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 83,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839620830352497968",
+      "cites_id": [
+        "9839620830352497968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of protein hydrolysate containing antioxidant activity from Hermetia illucens. Heliyon 5: e02005",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oqJ0eoQAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11661469992861406326",
+      "cites_id": [
+        "11661469992861406326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of enzymatic hydrolysis on the antioxidant activity of protein hydrolysate derived from the larvae of black soldier fly (Hermetia illucens L.)",
+        "pub_year": "2023",
+        "citation": "Journal of Applied Biology and Biotechnology 11 (2), 151-157, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "oqJ0eoQAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8874866699460085609",
+      "cites_id": [
+        "8874866699460085609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical and antibacterial properties of chitosan derived from Mucor spp., Rhizopus. Oryzae and Hermetia illucens",
+        "pub_year": "2023",
+        "citation": "Journal of Applied Biology and Biotechnology 11 (Issue), 185-192, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "oqJ0eoQAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioconversion of Rubber Leaves by Black Soldier Fly Larvae and Subsequent Enzymatic Hydrolysis to Produce Protein Hydrolysate",
+        "pub_year": "2018",
+        "citation": "International Conference Biotechnology Engineering, ICBioE \u201818, 40, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "oqJ0eoQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Kelayakan Produksi Bioetanol dari Ampas Tapioka dengan Metode Solid State Fermentation untuk Pemenuhan Kebutuhan Bioetanol Menuju Indonesia Energy Mix 2025",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oqJ0eoQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Minyak Sawit Mentah dan Antioksidan Secara Simultan dengan Metode Aqueous Enzyme-Assisted Oil Extraction Menggunakan Enzim yang Diproduksi dari Fermentasi Semi \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "oqJ0eoQAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

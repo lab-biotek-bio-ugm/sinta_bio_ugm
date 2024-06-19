@@ -1,0 +1,174 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "RJGFZv8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sartika Indah Amalia Sudiarto",
+  "affiliation": "Lecturer, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Environment",
+    "wastewater treatment",
+    "nutrient cycling",
+    "energy"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 282,
+  "citedby5y": 230,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2014": 2,
+    "2015": 10,
+    "2016": 7,
+    "2017": 11,
+    "2018": 20,
+    "2019": 22,
+    "2020": 26,
+    "2021": 47,
+    "2022": 47,
+    "2023": 56,
+    "2024": 31
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Floating aquatic plants for total nitrogen and phosphorus removal from treated swine wastewater and their biomass characteristics",
+        "pub_year": "2019",
+        "citation": "Journal of environmental management 231, 763-769, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 121,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1869927675565995971",
+      "cites_id": [
+        "1869927675565995971"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of livestock manure and mixture higher heating value based on fundamental analysis",
+        "pub_year": "2014",
+        "citation": "Fuel 116, 772-780, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 101,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18392877350952020876",
+      "cites_id": [
+        "18392877350952020876"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of pig welfare assessment protocol integrating animal-, environment-, and management-based measures",
+        "pub_year": "2015",
+        "citation": "Journal of animal science and technology 57, 1-11, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11359352195976167564",
+      "cites_id": [
+        "11359352195976167564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of bacterial community assembly patterns and processes in pig manure slurry",
+        "pub_year": "2015",
+        "citation": "PLoS One 10 (9), e0139437, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14145210655845931007",
+      "cites_id": [
+        "14145210655845931007"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biochemical methane potential of swine slaughter waste, swine slurry, and its codigestion effect",
+        "pub_year": "2021",
+        "citation": "Energies 14 (21), 7103, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8865793509974274710",
+      "cites_id": [
+        "8865793509974274710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The investigation of combined ventilation-biofilter systems using recycled treated wastewater on odor reduction efficiency",
+        "pub_year": "2020",
+        "citation": "Asian-Australasian journal of animal sciences 33 (7), 1209, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16690288214844129173",
+      "cites_id": [
+        "16690288214844129173"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of Phytoremediation for Total Nitrogen and Total Phosphorus Removal from Treated Swine Wastewater and Bio-methane Potential of the Biomass",
+        "pub_year": "2015",
+        "citation": "Journal of the Korea Organic Resources Recycling Association 23 (4), 21-31, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1322068431983185835,1218408263293022102",
+      "cites_id": [
+        "1322068431983185835",
+        "1218408263293022102"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of bacterial community assembly patterns and processes in pig manure slurry.",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "RJGFZv8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

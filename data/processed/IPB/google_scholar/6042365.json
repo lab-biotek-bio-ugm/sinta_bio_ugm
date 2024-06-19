@@ -1,0 +1,3231 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "dYv6__cAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Yanto Santosa",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dYv6__cAAAAJ&citpid=1",
+  "affiliation": "Institut Pertanian Bogor",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Ekologi Satwaliar"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 1650,
+  "citedby5y": 871,
+  "hindex": 16,
+  "hindex5y": 12,
+  "i10index": 27,
+  "i10index5y": 17,
+  "cites_per_year": {
+    "1985": 8,
+    "1986": 15,
+    "1987": 16,
+    "1988": 11,
+    "1989": 12,
+    "1990": 12,
+    "1991": 7,
+    "1992": 8,
+    "1993": 4,
+    "1994": 7,
+    "1995": 2,
+    "1996": 12,
+    "1997": 9,
+    "1998": 6,
+    "1999": 6,
+    "2000": 14,
+    "2001": 7,
+    "2002": 7,
+    "2003": 18,
+    "2004": 14,
+    "2005": 21,
+    "2006": 24,
+    "2007": 20,
+    "2008": 20,
+    "2009": 34,
+    "2010": 19,
+    "2011": 24,
+    "2012": 46,
+    "2013": 37,
+    "2014": 31,
+    "2015": 42,
+    "2016": 54,
+    "2017": 60,
+    "2018": 83,
+    "2019": 91,
+    "2020": 105,
+    "2021": 154,
+    "2022": 197,
+    "2023": 238,
+    "2024": 83
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MBrdAnQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agus Priyono Kartono",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "znpsKRYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arzyana Sunkar",
+      "affiliation": "Dosen"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "VTqiLmIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Prof. Ervizal AM.Zuhud (AMZU).",
+      "affiliation": "Profesor"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Some comments on measuring niche overlap",
+        "pub_year": "1980",
+        "citation": "Ecology 61 (1), 44-49, 1980"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:EUQCXRtRnyEC",
+      "num_citations": 567,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3029299064142682449",
+      "cites_id": [
+        "3029299064142682449"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman spesies tumbuhan di arealnilai konservasi tinggi (nkt) perkebunan kelapa sawit provinsi riau",
+        "pub_year": "2016",
+        "citation": "Media Konservasi 21 (1), 91-98, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:0EnyYjriUFMC",
+      "num_citations": 141,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3197043816760758871",
+      "cites_id": [
+        "3197043816760758871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi keanekaragaman mamalia pada beberapa tipe habitat di stasiun penelitian Pondok Ambung Taman Nasional Tanjung Puting Kalimantan Tengah",
+        "pub_year": "2008",
+        "citation": "Media konservasi 13 (3), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:yD5IFk8b50cC",
+      "num_citations": 90,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17530448374921158398,10132378740134124554",
+      "cites_id": [
+        "17530448374921158398",
+        "10132378740134124554"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Burung Di Beberapa Tipe Habitat Taman Nasional Gunung Ciremai (Diversity Of Bird Species at Some Habitat Type In Ciremai Mountain National Park)",
+        "pub_year": "2007",
+        "citation": "Media Konservasi 12 (3), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 72,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18355501430331735635",
+      "cites_id": [
+        "18355501430331735635"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ranging behaviour of translocated roe deer in a Mediterranean habitat: seasonal and altitudinal influences on home range size and patterns of range use",
+        "pub_year": "2008",
+        "citation": "Walter de Gruyter 72 (2), 89-94, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5190376162114500521",
+      "cites_id": [
+        "5190376162114500521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of four species diversity indices in mangrove community",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (9), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:TIZ-Mc8IlK0C",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3672215492163848451",
+      "cites_id": [
+        "3672215492163848451"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Density and spatial partitioning of endangered sympatric Javan leopard (Felidae) and dholes (Canidae) in a tropical forest landscape",
+        "pub_year": "2018",
+        "citation": "Folia Zoologica 67 (3-4), 207-219, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:tS2w5q8j5-wC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17994542965769517681",
+      "cites_id": [
+        "17994542965769517681"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis preferensi habitat badak jawa (Rhinoceros sondaicus, Desmarest 1822) di Taman Nasional Ujung Kulon",
+        "pub_year": "2008",
+        "citation": "Jurnal Manajemen Hutan Tropika 14 (3), 115-124, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2283977783746078557",
+      "cites_id": [
+        "2283977783746078557"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of observer experience on the monitoring of a mouflon population",
+        "pub_year": "2005",
+        "citation": "Acta Theriologica 50, 109-114, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6495752755167180629",
+      "cites_id": [
+        "6495752755167180629"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi kuantitatif untuk pendugaan beberapa parameter demografi dan pemanenan populasi satwaliar berdasarkan pendekatan ekologi perilaku: studi kasus terhadap populasi kera \u2026",
+        "pub_year": "1993",
+        "citation": "Institut Pertanian Bogor. Bogor, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=394617252404194485",
+      "cites_id": [
+        "394617252404194485"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Home range and movements of male translocated problem tigers in Sumatra",
+        "pub_year": "2012",
+        "citation": "Asian J. Conserv. Biol 1 (1), 20-30, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15221750806576772503",
+      "cites_id": [
+        "15221750806576772503"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impacts of oil palm plantation establishment on the habitat type, species diversity, and feeding guild of mammals and herpetofauna",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (4), 1213-1219, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:dshw04ExmUIC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5676290927878132038",
+      "cites_id": [
+        "5676290927878132038"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan model pertumbuhan dan penyebaran spasial populasi rusa timor (Cervus timorensis de Blainville, 1822) di Taman Nasional Alas Purwo Jawa Timur",
+        "pub_year": "2008",
+        "citation": "Media Konservasi 13 (1), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4227009582708357547",
+      "cites_id": [
+        "4227009582708357547"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknik Pengukuran Keanekaragaman Satwaliar",
+        "pub_year": "1995",
+        "citation": "Bogor: Jurusan Konservasi Sumberdaya Hutan Fakultas Kehutanan Institut \u2026, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:isC4tDSrTZIC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11413630721079590395",
+      "cites_id": [
+        "11413630721079590395"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological impacts of oil-palm plantation on butterfly and bird species diversity",
+        "pub_year": "2018",
+        "citation": "Jurnal Manajemen Hutan Tropika 24 (1), 23-31, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7750655703927619442",
+      "cites_id": [
+        "7750655703927619442"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan keanekaragaman kupu-kupu antara tipe tutupan lahan hutan dengan kebun sawit",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (1), 104-109, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:IWHjjKOFINEC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=334920698954668756",
+      "cites_id": [
+        "334920698954668756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Independent smallholder oil palm expansion and its impact on deforestation: case study in Kampar District, Riau Province, Indonesia",
+        "pub_year": "2017",
+        "citation": "Jurnal Manajemen Hutan Tropika 23 (3), 119-127, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12125625865388039870",
+      "cites_id": [
+        "12125625865388039870"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beberapa Parameter bio-ekologi penting dalam pengusahaan monyet ekor panjang (Macaca fascicularis)",
+        "pub_year": "1996",
+        "citation": "IPB (Bogor Agricultural University), 1996"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7404813653438371145",
+      "cites_id": [
+        "7404813653438371145"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan parameter demografi dan pola penyebaran spasial walabi lincah (Macropus agilis papuanus) di kawasan Taman Nasional Wasur studi kasus di savana campuran Udi-Udi Seksi \u2026",
+        "pub_year": "2008",
+        "citation": "Media Konservasi 13 (2), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1443662605000840761",
+      "cites_id": [
+        "1443662605000840761"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The value of secondary forest patches for bird conservation in palm oil landscapes of Riau, Sumatra",
+        "pub_year": "2016",
+        "citation": "Biodiversitas Journal of Biological Diversity 17 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:4TOpqqG69KYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5362964309593333873",
+      "cites_id": [
+        "5362964309593333873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan sistem penangkaran rusa timor (Rusa timorensis de Blainville 1822) berdasarkan jatah pemanenan dan ukuran populasi awal",
+        "pub_year": "2012",
+        "citation": "Media konservasi 17 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12691512579615415664",
+      "cites_id": [
+        "12691512579615415664"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Kuota Buru Dan Introduksi Populasi Rusa Sambar Untuk Menjamin Perburuan Lestari (Determining Hunting Quota and Population Introduced for Sustainable Hunting of Sambar \u2026",
+        "pub_year": "2008",
+        "citation": "Media Konservasi 13 (2), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:4DMP91E08xMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6089649994542010910",
+      "cites_id": [
+        "6089649994542010910"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of long-tailed macaque's (Macaca fascicularis) harvesting quotas based on demographic parameters",
+        "pub_year": "2012",
+        "citation": "Biodiversitas Journal of Biological Diversity 13 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:GnPB-g6toBAC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17714270278162296936",
+      "cites_id": [
+        "17714270278162296936"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konsep ukuran keanekaragaman hayati di hutan tropika",
+        "pub_year": "1995",
+        "citation": "Jurusan Konservasi Sumberdaya Hutan, Fakultas Kehutanan IPB. Bogor, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:hC7cP41nSMkC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8270303261223976881",
+      "cites_id": [
+        "8270303261223976881"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "How does oil palm plantation impact bird species diversity? a case study from PKWE Estate, West Kalimantan",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:eflP2zaiRacC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13949876121516260",
+      "cites_id": [
+        "13949876121516260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity conservation at Betung Kerihun National Park: the positive role of customary law in mitigating a local community trust deficit",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 196, 012024, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:tOudhMTPpwUC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13949016639773108949",
+      "cites_id": [
+        "13949016639773108949"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Home range and habitat use of reintroduced javan deer in panaitan island, ujung kulon national park",
+        "pub_year": "2015",
+        "citation": "Journal of Asia-Pacific Biodiversity 8 (3), 203-209, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13721388054156729063",
+      "cites_id": [
+        "13721388054156729063"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dampak Perkebunan Kelapa Sawit Terhadap Keanekaragaman Spesies Tumbuhan Tropika (Studi Kasus: Provinsi Riau)",
+        "pub_year": "2017",
+        "citation": "Wahana Forestra: Jurnal Kehutanan 12 (1), 76-88, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6927841382989528357",
+      "cites_id": [
+        "6927841382989528357"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Javan rhino (Rhinoceros sondaicus Desmarest 1822) utilization distribution and habitat selection in Ujung Kulon National Park",
+        "pub_year": "2013",
+        "citation": "Jurnal Manajemen Hutan Tropika 19 (1), 31-38, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14409968015744070707",
+      "cites_id": [
+        "14409968015744070707"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Faktor\u2013faktor penentu keberhasilan pelepasliaran orangutan sumatera (pongo abelii) di taman nasional bukit tigapuluh",
+        "pub_year": "2012",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 17 (3), 186-191, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:hMod-77fHWUC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16399361429301151429",
+      "cites_id": [
+        "16399361429301151429"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelatihan teknik pengukuran dan monitoring biodiversity di hutan tropika Indonesia",
+        "pub_year": "1995",
+        "citation": "Fakultas Kehutanan Institut Pertanian Bogor. Bogor, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4846159538385123814",
+      "cites_id": [
+        "4846159538385123814"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik pengguna tumbuhan obat di Hutan Lindung Jompi Kabupaten Muna Sulawesi Tenggara",
+        "pub_year": "2020",
+        "citation": "Jurnal Penelitian Kehutanan BONITA 2 (1), 11-19, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:tzM49s52ZIMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18073803860607459114",
+      "cites_id": [
+        "18073803860607459114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan parameter demografi dan model pertumbuhan monyet ekor panjang (Macaca fascicularis) di Pulau Peucang, Taman Nasional Ujung Kulon",
+        "pub_year": "2014",
+        "citation": "Media Konservasi 19 (2), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9425967759562144230",
+      "cites_id": [
+        "9425967759562144230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat selection and activity pattern of gps collared Sumateran Tigers",
+        "pub_year": "2012",
+        "citation": "Jurnal Manajemen Hutan Tropika 18 (3), 155-163, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:70eg2SAEIzsC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14591950298740969580",
+      "cites_id": [
+        "14591950298740969580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan parameter morfometrik untuk pendugaan umur siamang sumatera (Symphalagus syndactylus Raffles, 1821)",
+        "pub_year": "2011",
+        "citation": "Jurnal Penelitian Hutan dan Konservasi Alam 8 (1), 25-33, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1401089301783051648,12157303044958839271",
+      "cites_id": [
+        "1401089301783051648",
+        "12157303044958839271"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Drivers of three most charismatic mammalian species distribution across a multiple-use tropical forest landscape of Sumatra, Indonesia",
+        "pub_year": "2022",
+        "citation": "Animals 12 (19), 2722, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:M7yex6snE4oC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14992960642562223826",
+      "cites_id": [
+        "14992960642562223826"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan bentuk dan ukuran plot contoh optimal pengukuran keanekaragaman spesies tumbuhan di hutan pegunungan bawah",
+        "pub_year": "2016",
+        "citation": "Media Konservasi 21 (1), 42-47, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Se3iqnhoufwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2321726096139859697",
+      "cites_id": [
+        "2321726096139859697"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Time Budget of Javan Deer (Rusa timorensis, Blainville 1822) in Panaitan Island, Ujung Kulon National Park, Banten, Indonesia",
+        "pub_year": "2014",
+        "citation": "Hayati Journal of Biosciences 21 (3), 121-126, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:f2IySw72cVMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335138266089506184",
+      "cites_id": [
+        "18335138266089506184"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preferences of Rusa timorensis to Grasses and Their Body Morphometry and Velvet Antler Characteristics",
+        "pub_year": "2013",
+        "citation": "Media Peternakan 36 (2), 143-143, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3885490405314131580",
+      "cites_id": [
+        "3885490405314131580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi populasi dan pola penggunaan ruang monyet ekor panjang (Macaca fascicularis) di Hutan Pendidikan Gunung Walat",
+        "pub_year": "2013",
+        "citation": "Media Konservasi 18 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:roLk4NBRz8UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18110162538714823026",
+      "cites_id": [
+        "18110162538714823026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penggunaan Thidiazuron, 2, 4\u2013D dan giberellin dalam pembentukan embrio somatik pule pandak (Rauvolfia serpentina (L.) Benth. ex Kurz) melalui kultur in vitro",
+        "pub_year": "2006",
+        "citation": "Media Konservasi 11 (2), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16956481203457355681",
+      "cites_id": [
+        "16956481203457355681"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman jenis herpetofauna sebagai dampak pembangunan perkebunan kelapa sawit di Sumatera Selatan",
+        "pub_year": "2021",
+        "citation": "Jurnal Penelitian Hutan dan Konservasi Alam 18 (1), 39-51, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10852124291290194752",
+      "cites_id": [
+        "10852124291290194752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The loss, gain, and diversity of butterfly species due to the development of PT PKWE oil palm plantation, West Kalimantan Province",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012025, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8797363402097164046",
+      "cites_id": [
+        "8797363402097164046"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The variation of bird diversity in different land cover at oil palm plantation: case study at Asm Oil Palm Estate in Central Kalimantan, Indonesia",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 52, 00051, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:uWQEDVKXjbEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13593630900774523630",
+      "cites_id": [
+        "13593630900774523630"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Low resource use and high yield concept in climate-smart community empowerment",
+        "pub_year": "2018",
+        "citation": "Sustainable Future for Human Security: Society, Cities and Governance, 319-332, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:UebtZRa9Y70C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2484618981558984349",
+      "cites_id": [
+        "2484618981558984349"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan produksi jernang (Daemonorops didymophylla Becc.) berdasarkan karakteristik morfometrik rotan",
+        "pub_year": "2015",
+        "citation": "Media Konservasi 20 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10090277012269796350",
+      "cites_id": [
+        "10090277012269796350"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cohabitation study of the leaf monkey and Bornean white-bearded gibbons in Gunung Palung National Park, West Kalimantan",
+        "pub_year": "2012",
+        "citation": "HAYATI Journal of Biosciences 19 (3), 115-123, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:HDshCWvjkbEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8972810552463895628",
+      "cites_id": [
+        "8972810552463895628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan parameter demografi dan bentuk sebaran spasial biawak komodo di pulau rinca, taman nasional komodo",
+        "pub_year": "2012",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 17 (2), 126-131, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11427315484928434250",
+      "cites_id": [
+        "11427315484928434250"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis pola penggunaan ruang dan waktu orangutan (Pongo pygmaeus pygmaeus Linneaus, 1760) di hutan mentoko taman nasional kutai, kalimantan timur",
+        "pub_year": "2011",
+        "citation": "Jurnal Penelitian Hutan dan Konservasi Alam 8 (2), 109-117, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Zph67rFs4hoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4897475698376792321",
+      "cites_id": [
+        "4897475698376792321"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Karakteristik Kubangan Badak Jawa (Rhinoceros sondaicus Desmarest 1822) di Taman Nasional Ujung Kulon",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (1), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10477226658780870429,7870425930553915154",
+      "cites_id": [
+        "10477226658780870429",
+        "7870425930553915154"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of bird species at some habitat type in Ciremai Mountain National Park",
+        "pub_year": "2007",
+        "citation": "IPB (Bogor Agricultural University), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:vbGhcppDl1QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14646811704476026459",
+      "cites_id": [
+        "14646811704476026459"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The variation of bird diversity in various oil palm land cover in North Mamuju, West Sulawesi, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (7), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:KUbvn5osdkgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10602784902842719806",
+      "cites_id": [
+        "10602784902842719806"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Is it True that Oil Palm Plantations are the Main Driver of Indonesia\u2019s Tropical Forest Deforestation?",
+        "pub_year": "2020",
+        "citation": "International Journal of Oil Palm 3 (1), 1-10, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11076105176308873922",
+      "cites_id": [
+        "11076105176308873922"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of oil palm plantation on mammal and herpetofauna species diversity",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012027, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:1qzjygNMrQYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10201397853038563838",
+      "cites_id": [
+        "10201397853038563838"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan keanekaragaman jenis mamalia dan burung antara perkebunan sawit besar dengan kebun sawit swadaya",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:QYdC8u9Cj1oC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3584499140473188140",
+      "cites_id": [
+        "3584499140473188140"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan kawasan Nilai Konservasi Tinggi dalam pelestarian keanekaragaman jenis mamalia di perkebunan kelapa sawit: Studi kasus Provinsi Riau",
+        "pub_year": "2017",
+        "citation": "Pros Sem Nas Masy Biodiv Indon 3 (1), 81-87, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:8k81kl-MbHgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16505689860878308992",
+      "cites_id": [
+        "16505689860878308992"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An initial assessment of the potential contribution of \u2018community empowerment\u2019to mitigating the drivers of deforestation and forest degradation, in Giam Siak Kecil-Bukit Batu \u2026",
+        "pub_year": "2015",
+        "citation": "International Journal of Environmental and Ecological Engineering 9 (8), 978-985, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16770218564459639374",
+      "cites_id": [
+        "16770218564459639374"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preferensi Dan Pendugaan Produktivitas Pakan Alami Populasi Gajah Sumatera (Elephas Maximus Sumatranus Temmick, 1847) Di Hutan Produksi Khusus (Hpkh) Pusat Latihan Gajah (Plg \u2026",
+        "pub_year": "2011",
+        "citation": "Media Konservasi 16 (3), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10703404498215449968",
+      "cites_id": [
+        "10703404498215449968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular diagnosis with the corresponding clinical symptoms of canine distemper virus infection in javan leopard (Panthera pardus ssp. melas)",
+        "pub_year": "2022",
+        "citation": "Heliyon 8 (11), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:oNZyr7d5Mn4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17618287629430282505",
+      "cites_id": [
+        "17618287629430282505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u2019Prospek Konservasi Tumbuhan Di Areal Nilai Konservasi Tinggi Perkebunan Kelapa Sawit Riau\u2019",
+        "pub_year": "2022",
+        "citation": "Ulin-J Hut Trop 6 (1), 68-79, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:lmc2jWPfTJgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17167739489277951462",
+      "cites_id": [
+        "17167739489277951462"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of demographic parameters, spatial distribution of activity and its habitat types used of Javan Surili (Presbytis comata) in Sigedong Forest Block, Ciremai Mount \u2026",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012022, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15725610833937421295",
+      "cites_id": [
+        "15725610833937421295"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Loss and gain of the bird species after the establishment of oil palm plantation in South Sumatra",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012029, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2901453846302217081",
+      "cites_id": [
+        "2901453846302217081"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of spatial analysis in confirming the environmental issue of oil palm and biodiversity",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2120 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:D_sINldO8mEC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18019775015987708875",
+      "cites_id": [
+        "18019775015987708875"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Peubah Sosial Ekonomi Penentu Keberhasilan Konservasi Keanekaragaman Hayati",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (2), 156-163, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4648540147496930516",
+      "cites_id": [
+        "4648540147496930516"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of High Conservation Value areas in the preservation of mammals diversity in oil palm plantations: a case study in Riau",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (1), 81-87, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15428057619529350256",
+      "cites_id": [
+        "15428057619529350256"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat Suitability Modeling of Javan Rhino (Rhinoceros sondaicus Desmarest 1822) Ujung Kulon National Park",
+        "pub_year": "2012",
+        "citation": "Jurnal Manajemen Hutan Tropika 18 (2), 129-137, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:M05iB0D1s5AC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14872837279123740668",
+      "cites_id": [
+        "14872837279123740668"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi of Mammals Diversity in Several Habitat Types in Pondok Ambung Research Station of Tanjung Puting National PArk Central Kalimantan",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=153931855296779737",
+      "cites_id": [
+        "153931855296779737"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis pola penggunaan ruang dan wilayah jelajah banteng (bos javanicus d\u2019alton, 1832) di taman nasional alas purwo jawa timur",
+        "pub_year": "2007",
+        "citation": "Media Konservasi 12 (3), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6240670177884776769",
+      "cites_id": [
+        "6240670177884776769"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian ekologi populasi rusa sambar (Cervus unicolor) dalam pengusahaan taman buru gunung masigit kareumbi",
+        "pub_year": "2006",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:abG-DnoFyZgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2572245837018619060,5666467595620385719",
+      "cites_id": [
+        "2572245837018619060",
+        "5666467595620385719"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilisation de parametres eco-ethologiques pour la mise au point d'une methode d'etude quantitative des populations de grands mammiferes: exemple du mouflon (ovis ammon musimon \u2026",
+        "pub_year": "1990",
+        "citation": "Toulouse 3, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:5nxA0vEk-isC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3309239352110089320",
+      "cites_id": [
+        "3309239352110089320"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supartono. dan Thohari, M., 2011",
+        "citation": "Preferensi dan pendugaan produktivitas pakan alami populasi Gajah Sumatera \u2026, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:MLfJN-KU85MC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10088091729487821187",
+      "cites_id": [
+        "10088091729487821187"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Is it true that forest and land fires caused the extinction of biodiversity\u2026?",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012021, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:tKAzc9rXhukC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14170091752782034355",
+      "cites_id": [
+        "14170091752782034355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of undergrowth diversity between post burned and unburned land in PT National Sago Prima, Riau Province",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 504 (1), 012003, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:JQOojiI6XY0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2905435161874676270",
+      "cites_id": [
+        "2905435161874676270"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A case study on the impacts of oil palm plantation on butterflies: differences in plantation scale and management implications",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012024, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:J-pR_7NvFogC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15525385562325161196",
+      "cites_id": [
+        "15525385562325161196"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial distribution pattern of Tarsius Lariang in lore lindu national park",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Electrical Engineering and Computer Science 13 (2 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:XiVPGOgt02cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12645143831579810250",
+      "cites_id": [
+        "12645143831579810250"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of herpetofauna in different land cover types in PT ASMR oil palm plantation, Central Kalimantan Province",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10351549154305325516",
+      "cites_id": [
+        "10351549154305325516"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Butterfly diversity on different types of land cover in oil palm plantations (Case study: PT. AMR, Central Kalimantan, Indonesia)",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:XiSMed-E-HIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2810800880091569442",
+      "cites_id": [
+        "2810800880091569442"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tropical plant diversity of Borneo: The role of high conservation value area on species conservation in an oil palm plantation",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:u9iWguZQMMsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2339293314014155457",
+      "cites_id": [
+        "2339293314014155457"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of butterfly diversity in different ages palm oil plantationsin Kampar, Riau",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (2), 278-285, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7797440969890226523",
+      "cites_id": [
+        "7797440969890226523"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Kuota Eksportir Jenis Kulit Sanca Batik (Python Reticulatus Scheider 1801) Di Indonesia",
+        "pub_year": "2017",
+        "citation": "Journal of Environmental Engineering and Waste Management 1 (2), 64-74, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:35N4QoGY0k4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14465768763949804655",
+      "cites_id": [
+        "14465768763949804655"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pentingnya Kebijakan Pemanenan dalam Pengelolaan Populasi Satwa Liar di Kawasan Konservasi",
+        "pub_year": "2014",
+        "citation": "RISALAH KEBIJAKAN PERTANIAN DAN LINGKUNGAN Rumusan Kajian Strategis Bidang \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12275900793131834305",
+      "cites_id": [
+        "12275900793131834305"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemodelan kesesuaian habitat badak jawa (Rhinoceros sondaicus Desmarest 1822) di Taman Nasional Ujung Kulon",
+        "pub_year": "2012",
+        "citation": "Jurnal Manajemen Hutan Tropika 18 (2), 129-137, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9496351594999917399",
+      "cites_id": [
+        "9496351594999917399"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ketelitian Metode Sarang untuk Pendugaan Populasi Orangutan dan Penentuan Faktor Ekologi Penting dalam Manajemen Hutan Konservasi",
+        "pub_year": "2012",
+        "citation": "Jurnal JMHT 18 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1672212726205997272",
+      "cites_id": [
+        "1672212726205997272"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknik Pengukuran Keanekaragaman Satwaliar. Bogor: Jurusan Konservasi Sumberdaya Hutan Fakultas Kehutanan Institut Pertanian Bogor",
+        "pub_year": "1995",
+        "citation": "Tidak dipublikasikan, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6517071307148007989",
+      "cites_id": [
+        "6517071307148007989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary study on the role of civet (Paradoxurus hermaphroditus) in the natural regeneration of palms (Pinanga kuhlii and P. zavana) at Gunung Gede-Pangrango National Park \u2026",
+        "pub_year": "1986",
+        "citation": "BIOTROP Special Publication (Indonesia), 1986"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1300030642709245871",
+      "cites_id": [
+        "1300030642709245871"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Bentuk dan Luas Petak Contoh Optimum Pengukuran Keanekaragaman Jenis Tumbuhan Tingkat Pancang Hutan Pegunungan",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Silviculture 14 (01), 63-69, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:HbR8gkJAVGIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17279739098701877296,17270097886101618434",
+      "cites_id": [
+        "17279739098701877296",
+        "17270097886101618434"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Economic Valuation of Sun Bear (Helarctos malayanus) and Sumatran Elephant (Elephas maximus sumatranus) Based on Maintenance Cost Approach",
+        "pub_year": "2023",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Dip1O2bNi0gC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16967641055664525864",
+      "cites_id": [
+        "16967641055664525864"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamics of the global trade Asiatic Softshell Turtle (Amyda cartilaginea Boddaert 1770): Shifting trends in commerce and consequences for sustainability",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 914 (1), 012003, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:gsN89kCJA0AC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10092183490908531831",
+      "cites_id": [
+        "10092183490908531831"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Does the Change in Land Cover Alters Birds and Butterflies Diversity?",
+        "pub_year": "2021",
+        "citation": "International Journal of Oil Palm 4 (1), 8-21, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:g3aElNc5_aQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12172657408118932135",
+      "cites_id": [
+        "12172657408118932135"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution and characteristics of Javan Hawk Eagle nesting trees in Gunung Halimun Salak National Park, Indonesia",
+        "pub_year": "2020",
+        "citation": "Jurnal Biodjati 5 (2), 182-190, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:-_dYPAW6P2MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13222296674945131968",
+      "cites_id": [
+        "13222296674945131968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "How land fire impacts mammal diversity after several years: A study in Waimusi Agroindah Oil Palm Plantation, South Sumatra",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 504 (1), 012007, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_Ybze24A_UAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6473893565573257535",
+      "cites_id": [
+        "6473893565573257535"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimum sustainable population estimation of Rusa timorensis in Pananjung Pangandaran nature reserve and natural park",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1402 (3), 033051, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:SdhP9T11ey4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6159080185573030179",
+      "cites_id": [
+        "6159080185573030179"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of oil palm plantation on species diversity of tropical vegetation",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012033, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:bnK-pcrLprsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17987684482515201849",
+      "cites_id": [
+        "17987684482515201849"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of oil palm plantation on herpetofauna species diversity at PT Waimusi Agroindah South Sumatera",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012030, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10187644963128428033",
+      "cites_id": [
+        "10187644963128428033"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of oil palm plantations on herpetofauna species diversity in KGP and CNG, West Kalimantan",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012031, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1311011210395467577",
+      "cites_id": [
+        "1311011210395467577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impacts of oil palm plantations on butterfly diversity (case study: PT BLP, Central Kalimantan, Indonesia)",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:738O_yMBCRsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9701311710331233032",
+      "cites_id": [
+        "9701311710331233032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bird species diversity in various land covers in oil palm plantation of PT GSIP, Central Kalimantan",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:WbkHhVStYXYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4707005143989017734",
+      "cites_id": [
+        "4707005143989017734"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Populasi dan Pemodelan Kesesuaian Habitat Tangkasi (Tarsius lariang) di Kawasan Taman Nasional Lore Lindu",
+        "pub_year": "2018",
+        "citation": "IPB (Bogor Agricultural University), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:4vMrXwiscB8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14619966626923152629",
+      "cites_id": [
+        "14619966626923152629"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EKOLOGI HABITAT RUSA TIMOR (RUSA TIMORENSIS) DI KAWASAN KONSERVASI PULAU PEUCANG (TIPOLOGI RUSA TIMORENSIS DAN PRODUK RANGGAH MUDA",
+        "pub_year": "2012",
+        "citation": "FMIPA Unimed, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:r0BpntZqJG4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10679256396548679792",
+      "cites_id": [
+        "10679256396548679792"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prospek pengembangan kebun buru rusa perum perhutani bkph jonggol jawa barat berdasarkan tinjauan ekologi",
+        "pub_year": "2012",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 17 (1), 48-57, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:3s1wT3WcHBgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15959928282372480485",
+      "cites_id": [
+        "15959928282372480485"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Precision of nest method in estimating orangutan population and determination of important ecological factors for management of conservation forest",
+        "pub_year": "2012",
+        "citation": "Jurnal Manajemen Hutan Tropika 18 (1), 39-51, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1287440530670681139",
+      "cites_id": [
+        "1287440530670681139"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan model pertumbuhan dan bentuk sebaran spasial populasi banteng (Bos sondaicus d'alton) di Taman Nasional Alas Purwo Jawa Timur",
+        "pub_year": "2009",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 14 (3), 194-201, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:aqlVkmm33-oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5925433874469780694",
+      "cites_id": [
+        "5925433874469780694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation The Growth Model and Population Spatial Distribution of Timor Deer-Cervus timorensis de Blainville, 1822 in Alas Purwo National Park, East Java",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:HtS1dXgVpQUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10716881530139984475",
+      "cites_id": [
+        "10716881530139984475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimate of Demography Parameter and Pattern of Spatial Distribution of Nimble Walabi (Macropus agilis papuanus) in Wasur National Park Case Study in Udi-Udi Mixture Savana \u2026",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ClCfbGk0d_YC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1982402191572189730",
+      "cites_id": [
+        "1982402191572189730"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi biaya dan pendapatan penangkaran monyet ekor panjang (macaca fascicularis raffles) dengan sistem terbuka, semi terbuka dan tertutup (expenses and earnings study of \u2026",
+        "pub_year": "2006",
+        "citation": "Media Konservasi 11 (2), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10846813472455459493",
+      "cites_id": [
+        "10846813472455459493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habituasi Monyet Ekor Panjang (Macaca fascicularis) Terhadap Kandang Penangkapan Berbentuk Labirin di Lokasi Penangkapan Pulau Tinjil, Kabupaten Pandeglang, Jawa Barat",
+        "pub_year": "1992",
+        "citation": "Media Konservasi IV (1), 47-53, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ldfaerwXgEUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=833495891413066522",
+      "cites_id": [
+        "833495891413066522"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat factors that determine the movement of Sumatran elephants at Bukit Barisan Selatan National Park",
+        "pub_year": "2023",
+        "citation": "Jurnal Penelitian Pendidikan IPA 9 (6), 4738-4746, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:foquWX3nUaYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1637116509954824088",
+      "cites_id": [
+        "1637116509954824088"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat Factors That Determine the Movement Of Sumatran Elephants In Way Kambas National Park",
+        "pub_year": "2022",
+        "citation": "International Journal of Conservation Science 13 (4), 1237-1248, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:e_rmSamDkqQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9275329627891036132",
+      "cites_id": [
+        "9275329627891036132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ECONOMIC VALUATION OF THE MOLUCCAN ECLECTUS BASED ON MARKET PRICE AND MAINTENANCE COST APPROACH",
+        "pub_year": "2022",
+        "citation": "Media Konservasi 27 (2), 27-33, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:kz9GbA2Ns4gC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12986797841195910875",
+      "cites_id": [
+        "12986797841195910875"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The estimation of mammal species loss and gain from shrubs to oil palm plantations in South Sumatera",
+        "pub_year": "2022",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:k8Z6L05lTy4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11821034880984932890",
+      "cites_id": [
+        "11821034880984932890"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "-WILLINGNESS TO DONATE AND PREFERENCES OF ZOOS/SAFARI PARKS VISITORS TOWARD ENDANGERED MAMMALS CONSERVATION",
+        "pub_year": "2021",
+        "citation": "Media Konservasi 26 (3), 173-182, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:tuHXwOkdijsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4265953206400207338",
+      "cites_id": [
+        "4265953206400207338"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of forest fire on mammals: comparisons of species diversity on different time-period and area",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012023, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370932718942315157",
+      "cites_id": [
+        "16370932718942315157"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impact of fire in palm oil estate on the bird and butterfly species diversity: case study in RAJ Oil Palm Estate, South Sumatera",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 504 (1), 012002, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:NJ774b8OgUMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15032825032549997953",
+      "cites_id": [
+        "15032825032549997953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impact of fire on herpetofauna species diversity: case study in PT Waimusi Agroindah, Sumatera Selatan",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 504 (1), 012008, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:uLbwQdceFCQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5721719608154516258",
+      "cites_id": [
+        "5721719608154516258"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Estimation of Bird Diversity Loss and Gain as an Impact of Oil Palm Plantation: Study Case in KJNP Estate Riau Province",
+        "pub_year": "2020",
+        "citation": "International Journal of Environmental and Ecological Engineering 14 (4 \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:UHK10RUVsp4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18164391215506128768",
+      "cites_id": [
+        "18164391215506128768"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity loss and gain based on indigenous people\u2019s perception.(Case study: Tajok Kayong and Nanga Tayap Villages, West Kalimantan Province)",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012009, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:5ugPr518TE4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17637068582416190776",
+      "cites_id": [
+        "17637068582416190776"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of oil palm plantation on the butterfly diversity: a Case study in KGP & CNG, Ketapang, West Kalimantan",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012032, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4645733035467716578",
+      "cites_id": [
+        "4645733035467716578"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary study on factors determining the success of high conservation value area in oil palm plantations",
+        "pub_year": "2019",
+        "citation": "International Journal of Environmental and Ecological Engineering 13 (4), 189-92, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Mojj43d5GZwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16502580887584366260",
+      "cites_id": [
+        "16502580887584366260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indigenous Dayak People\u2019s Perceptions of Wildlife Loss and Gain Related to Oil Palm Development",
+        "pub_year": "2019",
+        "citation": "International Journal of Environmental and Ecological Engineering 13 (2), 37-42, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:olpn-zPbct0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15655978363809572912",
+      "cites_id": [
+        "15655978363809572912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wildlife biodiversity in plantation-working area and conservation area of PT National Sago Prima Industrial Forest in Meranti Island District, Riau Province, Indonesia",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 196 (1), 012023, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:08ZZubdj9fEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14562115236402818614",
+      "cites_id": [
+        "14562115236402818614"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The impact of oil palm plantation on the diversity of herpetofauna in PT BLP, Central Kalimantan Province",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3301915889734717352",
+      "cites_id": [
+        "3301915889734717352"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bird diversity in smallholders oil palm plantation in Riau Province",
+        "pub_year": "2018",
+        "citation": "International Journal of Oil Palm 1 (1), 28-37, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9657149271071017684",
+      "cites_id": [
+        "9657149271071017684"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The estimation loss and gain of mammal species diversity due to oil palm plantations: A case study of BPME Estate, Riau, Indonesia",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 52, 00042, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:UxriW0iASnsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=941524762050266843",
+      "cites_id": [
+        "941524762050266843"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential Estimination of Medical Plant in Jompi Forest Muna District",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 42-48, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:rO6llkc54NcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16040693381552052088",
+      "cites_id": [
+        "16040693381552052088"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of butterfly diversity in forested area and oil palm plantation",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (1), 104-109, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15537265287540747926",
+      "cites_id": [
+        "15537265287540747926"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential Estimination of Medical Plant in Jompi Forest Muna District",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (1), 42-48, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:mNrWkgRL2YcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15067676858145489974",
+      "cites_id": [
+        "15067676858145489974"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sejarah status, riwayat penggunaan lahan, dan keanekaragaman hayati kebun kelapa sawit di Provinsi Riau",
+        "pub_year": "2017",
+        "citation": "IPB Press, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:i2xiXl-TujoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5561885362319178895",
+      "cites_id": [
+        "5561885362319178895"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Determinant Socio-Economic Variables for the Success of Biodiversity Conservation",
+        "pub_year": "2017",
+        "citation": "Media Konservasi 22 (2), 156-163, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14902560977317410376",
+      "cites_id": [
+        "14902560977317410376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The value of secondary forest patches for bird conservation in palm oil landscapes of Riau, Sumatra.",
+        "pub_year": "2016",
+        "citation": "Biodiversitas: Journal of Biological Diversity 17 (2), 791-798, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6344293453836997272",
+      "cites_id": [
+        "6344293453836997272"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Antara Faktor Lingkungan Dengan Parameter Demografi Populasi Monyet Ekor Panjang (Macaca Fascicularis)",
+        "pub_year": "2015",
+        "citation": "Tesis, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:NhqRSupF_l8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7903304566417044187",
+      "cites_id": [
+        "7903304566417044187"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laju Pembuatan Sarang Orangutan Pongo pygmaeus morio di Taman Nasional Kutai Kalimantan Timur",
+        "pub_year": "2014",
+        "citation": "Media Konservasi 19 (1), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:a0OBvERweLwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=691475258267774547",
+      "cites_id": [
+        "691475258267774547"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan parameter demografi dan bentuk sebaran spasial biawak komodo (Varanus komodoensis Ouwens 1912) di Pulau Rinca, Taman Nasional Komodo",
+        "pub_year": "2012",
+        "citation": "IPB (Bogor Agricultural University), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11914503529113004623",
+      "cites_id": [
+        "11914503529113004623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Faktor Ekologi Dominan Pemilihan Kubangan Oleh Badak Jawa (Rhinoceros Sondaicus Desmarest 1822) Di Taman Nasional Ujung Kulon",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6947635119771323464",
+      "cites_id": [
+        "6947635119771323464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROSPEK PENGGUNAAN Sarcocystis singaporensis UNTUK PENGENDALIAN BIOLOGIS POPULASI TIKUS SAWAH (Rattus argentiventer)(Prospect of Sarcocystis singaporensis for the Biological \u2026",
+        "pub_year": "2006",
+        "citation": "Media Konservasi 11 (2), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13551467061950584111",
+      "cites_id": [
+        "13551467061950584111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habituasi monyet ekor panjang (Macaca fascicyularis Raffles) terhadap kandang penangkapan berbentuk labirin di lokasi penangkapan Pulau Tinjil Kabupaten Pandeglang, Jawa Barat",
+        "pub_year": "1992",
+        "citation": "IPB (Bogor Agricultural University), 1992"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:EkHepimYqZsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14866100111130931175",
+      "cites_id": [
+        "14866100111130931175"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The supply chain of Javan spitting cobra (Naja sputatrix) utilization in cobra satay businesses in Jakarta, Indonesia",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (5), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:yqoGN6RLRZoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The relationship between Bornean orangutans\u2019(Pongo pygmaeus) population and land cover change in West Kalimantan, Indonesia",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (4), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:r_AWSJRzSzQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Biofisik Sarang Trenggiling (Manis javanica Desmarest, 1822) pada Beberapa Lokasi Penelitian di Taman Nasional Gunung Halimun Salak",
+        "pub_year": "2023",
+        "citation": "Jurnal Penelitian Hutan dan Konservasi Alam, 45-60, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:DJbcl8HfkQkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas Kupu-Kupu pada Perkebunan Kelapa Sawit Pasca Terjadi Kebakaran (Butterfly Community at Oil Palm Plantation After the Fire)",
+        "pub_year": "2023",
+        "citation": "Jurnal Penelitian Hutan dan Konservasi Alam, 11-28, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:OTTXONDVkokC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation of weekly home range characteristics of Sumatran elephants (Elephas maximus sumatranus) in Bentang Seblat, Bengkulu Province, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:WJVC3Jt7v1AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factors affecting movement pattern of Sumatran elephant in Air Rami Production Forest, Bengkulu, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (10), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:DUooU5lO8OsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil palm plantations versus mammals and birds conservation: a case study in two oil palm plantations in West Kalimantan Province",
+        "pub_year": "2023",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:XvxMoLDsR5gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity tourism: a concept for oil palm villages sustainable revitalization",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1243 (1), 012021, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:4hFrxpcac9AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The potential of wildlife diversity and possible roles in oil palm agrosystem management: case study in Riau province",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1243 (1), 012003, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:a9-T7VOCCH8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maxent model application for conflict mitigation of Bornean Orangutan (Pongo pygmaeus wurmbii) in oil palm plantation",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1243 (1), 012022, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:HtEfBTGE9r8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determining Factors Of The Spatial Distribution Of Sumatra Elephant Track Activities in Pemerihan Resort Bukit Barisan Selatan National Park",
+        "pub_year": "2022",
+        "citation": "Media Konservasi 27 (3), 121-127, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:-FonjvnnhkoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Estimation of Diversity and Potential Utilization of Agroforestry Plants in Batara Village, Timor-Leste",
+        "pub_year": "2022",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:WZBGuue-350C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Primer design of D-loop region for wild population genetics of Rusa timorensis in Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012017, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:b1wdh0AR-JQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "History of land status, land use and land cover types of four private oil palm plantations in West Kalimantan Province, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 782 (3), 032064, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of bird species diversity recovery on post-burnt land in PT Waimusi Agroindah, South Sumatera",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series. Earth and Environmental Science 504 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:tYavs44e6CUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of bird species diversity recovery on post-burnt land in PT Waimusi Agroindah, South Sumatera",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 504 (1), 012006, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of bird species diversity between 4th ages burnt and unburnt land in PT Waimusi Agroindah, South Sumatera",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 504 (1), 012005, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response in bird community to a forest fire: Does bird population recover after several years?",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 504 (1), 012010, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:W5xh706n7nkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERBANDINGAN KEANEKARAGAMAN JENIS BURUNG ANTARA LAHAN ASLI KEBUN KELAPA SAWIT DAN LAHAN YANG TELAH DITANAMI KELAPA SAWIT",
+        "pub_year": "2020",
+        "citation": "Jurnal Hutan Tropis 8 (2), 153-160, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Does oil palm plantation establishment cause loss/gain of bird species?(Case study: KGP oil palm plantation, West Kalimantan)",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 336 (1), 012028, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Policy advocation: the potential role of independent smallholding oil palm plantation in biodiversity conservation",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 285 (1), 012012, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Financial Aspects of Desa Pelangi Sentul Private Commercial Hunting",
+        "pub_year": "2019",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:B3FOqHPlNUQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Minimum viable population estimation of Timor Deer (Rusa timorensis) base on demographic parameters",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Materials Science and Engineering 434 (1), 012107, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prospek Pengembangan Kebun Buru Ditinjau dari Aspek Sosial dan Finansial (Studi Kasus: Kebun Buru Desa Pelangi Sentul).",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:dBIO0h50nwkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tipologi Perkebunan Kelapa Sawit Rakyat Berwawasan Konservasi Keanekaragaman Hayati: Studi Kasus Di Provinsi Riau.",
+        "pub_year": "2018",
+        "citation": "IPB (Bogor Agricultural University), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:YohjEiUPhakC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Human dimensions of gain and loss of plant species diversity surrounding oil palm plantations",
+        "pub_year": "2018",
+        "citation": "E3S Web of Conferences 52, 00018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Butterfly diversity in various land cover types of PTPN V Tamora Oil Palm Plantation, Kampar, Riau",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (1), 110-116, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prospek Konservasi Keanekaragaman Tumbuhan Di Areal Nilai Konservasi Tinggi (Nkt) Perkebunan Kelapa Sawit Provinsi Riau",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:HIFyuExEbWQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MPACT OF PALM OIL PLANTATION TO DIVERSITY OF TROPICAL PLANT SPECIES (CASE STUDY: RIAU PROVINCE)",
+        "pub_year": "2017",
+        "citation": "Wahana Forestra: Jurnal Kehutanan 12 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:D03iK_w7-QYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Calculation of a Sustainable Quota Harvesting of Long-Tailed Macaque (Macaca fascicularis Raffles) in Their Natural Habitats",
+        "pub_year": "2015",
+        "citation": "International Journal of Agricultural and Biosystems Engineering 9 (8), 946-952, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Ukuran dan Tipe Kelompok Muncak (Muntiacus Muntjak Zimmermann, 1780) Berdasarkan Tipe Vegetasi di Taman Nasional Ujung Kulon",
+        "pub_year": "2014",
+        "citation": "Media Konservasi 19 (3), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola penggunaan ruang bertengger oleh beberapa jenis kelalawar penghuni gua di Taman Nasional Alas Purwo Jawa Timur",
+        "pub_year": "2013",
+        "citation": "Fakultas Geografi UGM, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:bz8QjSJIRt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tujuh puluh empat tahun Tanjung Puting 1936-2010",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ruyezt5ZtCIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Antara Karakteristik Lokasi Camera Trap Dengan Keberhasilan Perekaman Badak Jawa (Rhinoceros Sondaicus Desmarest 1822) Di Taman Nasional Ujung Kulon",
+        "pub_year": "2013",
+        "citation": "Media Konservasi 18 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EKOLOGI HABITAT RUSA TIMOR (RUSA TIMORENSIS) DIKAWASAN KONSERVASI PULAU PUECANG",
+        "pub_year": "2011",
+        "citation": "FMIPA Unimed, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Faktor-faktor penentu tarif masuk pengunjung Taman Nasional (Studi kasus Taman Nasional Gunung Merapi)",
+        "pub_year": "2010",
+        "citation": "Media Konservasi 15 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ASPEK EKONOMI PENGUSAHAAN TAMAN BURU MASIGIT KAREUMBI KABUPATEN SUMEDANG JAWA BARAT (The Economic Aspect of the Exertion Masigit Kareumbi Hunting Park in the Regency of \u2026",
+        "pub_year": "2006",
+        "citation": "Media Konservasi 11 (3), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Significant bio-ecological parameters in long tailed macaque (Macaca fascicularis) business",
+        "pub_year": "1996",
+        "citation": "Media Konservasi 5 (1), 1996"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of observer's experience on the estimation of abundance index of Mouflon (Ovis ammon musimon) population",
+        "pub_year": "1992",
+        "citation": "Media Konservasi (Indonesia) 3 (4), 1992"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habituation of Long-Tailed Macaque Toward Labyrinth-shaped Capture Cage in the Captive Breeding Station on Tinjil Island, Pandeglang, West Java",
+        "pub_year": "1992",
+        "citation": "Media Konservasi 4 (1), 1992"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UTILISATION DE PARAMETRES ECO-ETHOLOGIQUES POUR LA MISE AU POINT D'UNE METHODE D'ETUDE QUANTITATIVE DES POPULATIONS DE GRANDS MAMMIFERES: EXEMPLE DU MOUFLON (OVIS AMMON MUSIMON \u2026",
+        "pub_year": "1990",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_xSYboBqXhAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of climatic conditions on mouflon (Ovis ammon musimon) sampling count results",
+        "pub_year": "1990",
+        "citation": "Gibier Faune Sauvage (France) 7 (4), 1990"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi interaksi antara komodo (Varanus komodoensis ouwens 1912) dengan burung gosong (Megapodius frecinet Gaimard 1823) di Pulau Komodo Taman Nasional Komodo Nusa Tenggara Timur",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:yMeIxYmEMEAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh tipe vegetasi terhadap pola perilaku rusa Jawa (Cervus timorensis) di Pulau Peucang, Taman Nasional Ujung Kulon",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:KbBQZpvPDL4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan parameter demografi populasi komodo (Varanus komodoensis ouwens) di Pulau Komodo Taman Nasional Komodo Nusa Tenggara Timur",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:fFSKOagxvKUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian bio-ekologi dan ekonomi usaha penangkaran rusa Jawa (Cervus timorensis) dengan sistem setengah terbuka",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:3htObqc8RwsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi keanekaragaman jenis mamalia di kawasan pelestarian plasma nutfah areal pengusahaan hutan terpadu kayu mas propinsi Kalimantan Tengah",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:OR75R8vi5nAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis penggunaan sumber air oleh kerbau rawa (Bubalus bubalis Linnaeus) di Pulau Rinca, Taman Nasional Komodo Propinsi Nusaa Tenggara Timur",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:OcBU2YAGkTUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi pola penggunaan ruang dan populasi kuda liar (Equus caballus) di Pulau Rinca, Taman Nasional Komodo Nusa Tenggara Timur",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:ODE9OILHJdcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IOP Conference Series: Earth and Environmental Science",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:yFnVuubrUp4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDI KARAKTERISTIK KUBANGAN BADAK JAWA (Rhinoceros sondaicus Desmarest 1822) DI TAMAN NASIONAL UJUNG KULON (Study of Wallow Characteristics of Javan Rhinoceros-Rhinoceros \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:bKqednn6t2AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis pola penggunaan ruang dan wilayah jelajah Bos javanicus d'Alton, 1832 di Taman Nasional Alas Purwo Jawa Timur",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:cWzG1nlazyYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determining Harvesting Quota of Macaca fascicularis Based on Demographic Parameters",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:0izLItjtcgwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Permasalahan dan manfaat program relokasi satwa liar",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:anf4URPfarAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prosiding: Pengembangan perkebunan kelapa sawit versus konservasi hidupan liar Indonesia (Menciptakan sinergi kepentingan ekonomi dan ekologi dalam pengelolaan yang \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:LO7wyVUgiFcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Sebaran Kelas Diameter dan Tinggi pada Fase Pertumbuhan Iwul (Orania sylvicola) di Cagar Alam Dungus Iwul, Bogor, Jawa Barat.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:8d8msizDQcsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preference and estiamtion ofo natural feed productivity of sumatran elephants (elephas maximus sumatranus Temmick 1847) in seblat training center for elephants north Bengkulu",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:FAceZFleit8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Ecology of Cervus unicolor Population in the Development of Gunung Masigit Kareumbi Hunting Park",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_FM0Bhl9EiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Economic Aspect of the Exertion Masigit Kareumbi Hunting Park in the Regency of Sumedang West Java",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:GtLg2Ama23sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Study of Cohabitation In The Use of Spaces P. comata (Trachypithecus Auratus) with Surili (Presbytis Comata Desmarest, 1822) on Mount Ciremai National Park.",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:9pM33mqn1YgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trading System, Demographic Parameters, and Habitat Characteristics of Javan Spitting Cobra (Naja sputatrix Boie 1827) in East Java Province",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:4fGpz3EwCPoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan dan metoda pnentuan minimum viable population (MVP) dalam konservasi hidupan liar",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:kh2fBNsKQNwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expenses and Earnings Study of Breeding of Long Tail Macaque with Open, Semi Open, and Closed Systems",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Ri6SYOTghG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sindrom Pulau Dalam Reintroduksi Rusa Timor Di Pulau Panaitan Taman Nasional Ujung Kulon",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:rmuvC79q63oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determining Hunting Quota and Population Introduced for Sustainable Hunting of Sambar Deer",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_axFR9aDTf0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemberdayaan Rimbawan dalam Pengusahaan Hutan Produksi: Modal Dasar Sistem Pengelolaan Hutan Produksi Lestari",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:86PQX7AUzd4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversitas dan Tipologi Ekosistem Hutan yang Perlu DilestarikanDiversitas dan Tipologi Ekosistem Hutan yang Perlu Dilestarikan",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:PVjk1bu6vJQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Kohabitasi Kelasi (Presbytis rubicunda) dengan Kelampiau (Hylobates albibarbis) di Stasiun Penelitian Cabang Panti, Taman Nasional Gunung Palung-Kalimantan Barat",
+        "citation": "Bogor Argicultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:5qfkUJPXOUwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prospect of Sarcocystis singaporensis for the Biological Control of Rice Field Rats (Rattus argentiventer) Population",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:FPJr55Dyh1AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Permaslahan Konservasi Keanekaragaman Hayati di Hutan Produksi",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:0N-VGjzr574C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aspek ekonomi finansial pengusahaan taman buru masigit kareumbi kabupaten sumedang jawa barat",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:edDO8Oi4QzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristic of Habitat Preference for Orangutan Pongo pygmaeus wurmbii in Sebangau National Park",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:Ug5p-4gJ2f0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis on the Pattern of Spatial Use and Home Range of Bull-Bos javanicus d'Alton, 1832 in Alas Purwo National Park, East Java",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:XoXfffV-tXoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Faktor-Faktor Habitat Penentu Pergerakan dan Sebaran Konflik Gajah Sumatera di Taman Nasional Way Kambas.",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:q3CdL3IzO_QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of Optimal Sample Plot Dimension for Measuring Species Diversity of Plants in Beach Forest Ecosystem",
+        "citation": "Jurnal Ilmu Kehutanan 17 (1), 56-66, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:xtoqd-5pKcoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Parameter Demografi dan Bentuk Sebaran Spasial Biawak Komodo di Pulau Rinca, Taman Nasional Komodo (Estimation of Demographic Parameters and Spatial Distribution \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:SpbeaW3--B0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dampak Kebakaran terhadap Keanekaragaman Jenis Kupu-kupu di Hutan Tanaman Industri PT National Sago Prima, Provinsi Riau",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:LI9QrySNdTsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Inventarisasi Satwa",
+        "citation": "PT Penerbit IPB Press, 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:kuK5TVdYjLIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sejarah Status dan Riwayat Penggunaan Lahan Beberapa Perkebunan Sawit Swasta di Provinsi Kalimantan Tengah1",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:p2g8aNsByqUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determining Minimum and Optimum Viable Population Size of Banteng (Bos javanicus) Based on Demographic Parameters at Alas Purwo National Park, Banyuwangi, East Java",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:P5F9QuxV20EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EVALUASI KETELITIAN METODE SURVEI SARANG DALAM",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Potensi Tumbuhan Obat di Hutan Lindung Jompi Kabupaten Muna Provinsi Sulawesi Tenggara",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of Wallow Characteristics of Javan Rhino (Rhinoceros sondaicus Desmarest 1822) in Ujung Kulon National Park",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:xtRiw3GOFMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BEBERAPA PARAMETER BIO-EKOLOGI PENTING DALAM PENGUSAHAAN MONYET EKOR PANJANG (Macaca fascicularis)(Significant Bio-Ecological Parameters in Long Tailed Macaque (Macaca \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "dYv6__cAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

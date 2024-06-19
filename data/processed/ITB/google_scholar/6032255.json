@@ -1,0 +1,49 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "YB9_9YoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "sopandi sunarya",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YB9_9YoAAAAJ&citpid=4",
+  "affiliation": "SITH - ITB",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Forestry",
+    "Forest Genetics",
+    "Tree Improvenet",
+    "Forest Tree Seed",
+    "Silviculture"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "hindex": 0,
+  "hindex5y": 0,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {},
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FAKULTAS KEHUTANAN UNIVERSITAS WINAYA MUKTI",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "YB9_9YoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

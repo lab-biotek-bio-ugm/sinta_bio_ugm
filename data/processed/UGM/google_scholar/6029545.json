@@ -1,0 +1,908 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "A8UEW3EAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Donny Widianto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A8UEW3EAAAAJ&citpid=1",
+  "affiliation": "Associate Professor, Gadjah Mada University",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Microbial Biotechnology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 301,
+  "citedby5y": 157,
+  "hindex": 11,
+  "hindex5y": 7,
+  "i10index": 11,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "1997": 2,
+    "1998": 1,
+    "1999": 0,
+    "2000": 1,
+    "2001": 2,
+    "2002": 0,
+    "2003": 8,
+    "2004": 2,
+    "2005": 8,
+    "2006": 4,
+    "2007": 3,
+    "2008": 2,
+    "2009": 2,
+    "2010": 3,
+    "2011": 4,
+    "2012": 9,
+    "2013": 11,
+    "2014": 7,
+    "2015": 8,
+    "2016": 16,
+    "2017": 18,
+    "2018": 24,
+    "2019": 29,
+    "2020": 21,
+    "2021": 28,
+    "2022": 31,
+    "2023": 31,
+    "2024": 16
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Selection of yeast strains for ethanol fermentation of glucose-Fructose-sucrose mixture.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16312484092966720699",
+      "cites_id": [
+        "16312484092966720699"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secretion of organic acids by phosphate solubilizing bacteria",
+        "pub_year": "2009",
+        "citation": "Journal of Tropical Soils 14 (3), 245-251, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:4TOpqqG69KYC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11864240811863534256",
+      "cites_id": [
+        "11864240811863534256"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Creating aSaccharomyces cerevisiae haploid strain having 21 chromosomes",
+        "pub_year": "2003",
+        "citation": "Journal of bioscience and bioengineering 95 (1), 89-94, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6215863081784340096",
+      "cites_id": [
+        "6215863081784340096"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbaikan proses fermentasi biji kakao kering dengan penambahan tetes tebu, khamir, dan bakteri asam asetat",
+        "pub_year": "2013",
+        "citation": "Jurnal teknosains 3 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:4DMP91E08xMC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18316215921499459799",
+      "cites_id": [
+        "18316215921499459799"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil bacterial diversity and productivity of coffee-shade tree agro-ecosystems",
+        "pub_year": "2012",
+        "citation": "Journal of Tropical Soils 17 (2), 181-187, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13662595478344904700",
+      "cites_id": [
+        "13662595478344904700"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Layanan Lingkungan Pohon Pelindung pada Sumbangan Hara dan Produktivitas Agroekosistem Kopi",
+        "pub_year": "2008",
+        "citation": "Pelita Perkebunan 25 (1), 23-37, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:hC7cP41nSMkC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4693483377456129671",
+      "cites_id": [
+        "4693483377456129671"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of endophytic bacteria in sweet sorghum (Sorghum bicolor (L.) Moench) and their potential for promoting plant growth",
+        "pub_year": "2018",
+        "citation": "Indian Journal of Science and Technology, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13876492044400331836",
+      "cites_id": [
+        "13876492044400331836"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "One-step splitting of a chromosome in haploid cells of Saccharomyces cerevisiae and its effect on the cell proliferation",
+        "pub_year": "1996",
+        "citation": "Journal of fermentation and bioengineering 82 (3), 199-204, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1187427500962469420",
+      "cites_id": [
+        "1187427500962469420"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan limbah buah salak pondoh sebagai substrat Nata de Salacca melalui aplikasi bioteknologi di Dusun Tegal Domban, Sleman, Yogyakarta",
+        "pub_year": "2015",
+        "citation": "Indonesian Journal of Community Engagement 1 (1), 39-52, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9432239753491626122",
+      "cites_id": [
+        "9432239753491626122"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Legume nodulating bacterium, Achromobacter xylosoxidans found in tropical shrub agroecosystem, Sumatera, Indonesia",
+        "pub_year": "2013",
+        "citation": "Maj Kedokt Indon 18 (2), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:roLk4NBRz8UC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9829229562749153791",
+      "cites_id": [
+        "9829229562749153791"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Survey of egg-and cyst-parasitic fungi of potato cyst nematode in Indonesia",
+        "pub_year": "2010",
+        "citation": "The Plant Pathology Journal 26 (1), 32-36, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:qjMakFHDy7sC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3560121106707434679",
+      "cites_id": [
+        "3560121106707434679"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of legume nodulating bacteria as key variable of coffee agro-ecosystem productivity",
+        "pub_year": "2013",
+        "citation": "International Research Journal of Agricultural Science and Soil Science 3 (4 \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1206025866178689610",
+      "cites_id": [
+        "1206025866178689610"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol production by fermentation of various sweet-stalk sorghum juices using various yeast strains",
+        "pub_year": "2010",
+        "citation": "Indonesian Journal of Biotechnology 15 (2), 87-93, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:WF5omc3nYNoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8625341877546098771",
+      "cites_id": [
+        "8625341877546098771"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A method for fusing chromosomes in Saccharomyces cerevisiae",
+        "pub_year": "1997",
+        "citation": "Journal of fermentation and bioengineering 83 (2), 125-131, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769819223626687140",
+      "cites_id": [
+        "6769819223626687140"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacillus is one of the most potential genus as a biocontrol agent of golden cyst nematode (Globodera rostochiensis)",
+        "pub_year": "2021",
+        "citation": "Archives of Phytopathology and Plant Protection 54 (19-20), 2191-2205, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=181766188542540959",
+      "cites_id": [
+        "181766188542540959"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol fermentation on mixed sugars using mixed culture of two yeast strains",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Biotechnology 18 (2), 116-122, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7616497894918948275",
+      "cites_id": [
+        "7616497894918948275"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genomic Comparison of Lactobacillus casei AP and Lactobacillus plantarum DR131 with Emphasis on the Butyric Acid Biosynthetic Pathways",
+        "pub_year": "2021",
+        "citation": "Microorganisms 9 (2), 425, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:r0BpntZqJG4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11738978603643149514",
+      "cites_id": [
+        "11738978603643149514"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Volatile organic compounds of Streptomyces sp. GMR22 inhibit growth of two plant pathogenic fungi.",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:BqipwSGYUEgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17261873578308221331",
+      "cites_id": [
+        "17261873578308221331"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sekresi Asam-asam Organik oleh Aspergillus niger YD 17 yang Ditumbuhkan dengan Batuan Fosfat",
+        "pub_year": "2006",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 167-175, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4538636007579705865",
+      "cites_id": [
+        "4538636007579705865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conjugated linoleic acid synthesis in milk fermented with Lactobacillus casei strain AG",
+        "pub_year": "2018",
+        "citation": "Pakistan Journal of Nutrition 17 (11), 524-529, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:RGFaLdJalmkC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=811315886548790254",
+      "cites_id": [
+        "811315886548790254"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecosystem Service of Shade Trees on Nutrient Cycling and Productivity of Coffee Agro-ecosystems",
+        "pub_year": "2009",
+        "citation": "Pelita Perkebunan (a Coffee and Cocoa Research Journal) 25 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:0EnyYjriUFMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12066002911683139111",
+      "cites_id": [
+        "12066002911683139111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh batuan fosfat dan kerapatan inokulum terhadap ketahanan hidup Aspergillus niger dan kemampuannya melarutkan fosfat setelah dipeletkan dengan batuan fosfat",
+        "pub_year": "2006",
+        "citation": "Jurnal Tanah dan Lingkungan 7 (2), 77-80, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:mB3voiENLucC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6988410158183107455",
+      "cites_id": [
+        "6988410158183107455"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potato cyst nematode-infected soil as a source of egg and cyst parasitic fungi as potential biocontrol agents",
+        "pub_year": "2021",
+        "citation": "Archives of Phytopathology and Plant Protection 54 (13-14), 850-869, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11181483498537923472",
+      "cites_id": [
+        "11181483498537923472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Kombinasi Pupuk Anorganik dan Vinase Diperkaya Mikrobia terhadap Pertumbuhan dan Hasil Jagung (Zea mays L.)",
+        "pub_year": "2020",
+        "citation": "Vegetalika 9 (4), 547-561, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16246357397114555283",
+      "cites_id": [
+        "16246357397114555283"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Splitting and fusing chromosomes in saccharomyces cerevisiae",
+        "pub_year": "1997",
+        "citation": "\u5927\u962a\u5927\u5b66, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:Zph67rFs4hoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14556009166946050608",
+      "cites_id": [
+        "14556009166946050608"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration of core endophytic bacteria from different organs of diploid Musa balbisiana and triploid Musa acuminata",
+        "pub_year": "2021",
+        "citation": "Agriculture and Natural Resources 55 (5), 787\u2013794-787\u2013794, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2356767116128080842",
+      "cites_id": [
+        "2356767116128080842"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The exploration of bacteria having biocontrol ability against the golden cyst nematode (Globodera rostochiensis) in potato cultivation lands",
+        "pub_year": "2019",
+        "citation": "Indian J Sci Technol 12 (15), 1-6, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17438011610187576665",
+      "cites_id": [
+        "17438011610187576665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Legume-Nodulating Bacteria from Several Agroecosystems in Sumberjaya, Lampung",
+        "pub_year": "2013",
+        "citation": "Indonesian Journal of Biotechnology 18 (1), 64-69, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14994912340965707205",
+      "cites_id": [
+        "14994912340965707205"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synergistic Capability of Bacterial-fungal Co-culture to Degrade Drill Cutting Hydrocarbon",
+        "pub_year": "2019",
+        "citation": "J Microb Biochem Technol 11, 425, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17854708070062745740",
+      "cites_id": [
+        "17854708070062745740"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simultaneous Hydrolysis and Fermentation of Sweet Sorghum Varieties (FS501 and KCS105) into Bioethanol Using Saccharomyces steineri \u2013 A Kinetics Study",
+        "pub_year": "2017",
+        "citation": "Engineering Journal 21 (7), 105-121, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9084375663627859619",
+      "cites_id": [
+        "9084375663627859619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of agricultural intensification practices on bacterial community in agro-ecosystems of Southern Sumatra, Indonesia.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7877477993278735058",
+      "cites_id": [
+        "7877477993278735058"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penilaian pohon legum pelindung kopi berdasarkan keragaman genetik, produktivitas, dan aktivitas bintil akar",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17445182026583519908",
+      "cites_id": [
+        "17445182026583519908"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Campuran Onggok, Sekam, Pati dan Bahan Humat terhadap Pertumbuhan Aspergillus niger dan Kemampuannya dalam Melarutkan Fosfat",
+        "pub_year": "2006",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 23 (3), 144-149, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12401953296678054756",
+      "cites_id": [
+        "12401953296678054756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Acid-Tolerant and Fast-Growing Symbiotic Bacteria Isolated from Soybean Nodule in Tropical Asia",
+        "pub_year": "2000",
+        "citation": "Nitrogen Fixation: From Molecules to Crop Productivity, 503-503, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13188053767463884558",
+      "cites_id": [
+        "13188053767463884558"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Yeast Diversity in Honey Produced by Wild Honeybees at Different Elevations",
+        "pub_year": "2024",
+        "citation": "Baghdad Science Journal, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOCONTROL POTENTIAL OF NEMATODE-TARGETING FUNGI FROM COFFEE PLANT RHIZOSPHERE AGAINST PRATYLENCHUS COFFEAE ROOT LESION NEMATODE",
+        "pub_year": "2023",
+        "citation": "Pakistan Journal of Phytopathology 35 (2), 451-458, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rhizosphere bacteria Plumeria acuminata increases growth of Zea mays after root inoculation",
+        "pub_year": "2023",
+        "citation": "JIPI (Jurnal IPA dan Pembelajaran IPA) 7 (4), 369-380, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metataxonomic Analysis of Bacterial Diversity in Pigeon Pea after Soaking in Water",
+        "pub_year": "2023",
+        "citation": "Preprints, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biophysical characterization of folded state type II luciferase\u2010like monooxygenase",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Biotechnology 28 (1), 37-45, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Bakteri Endofit Asal Tanaman Pisang Klutuk (Musa balbisiana Colla) Sebagai Pendukung Pertumbuhan Tanaman",
+        "pub_year": "2021",
+        "citation": "Al-Kauniyah: Jurnal Biologi 14 (2), 313-324, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant growth\u2010promoting activity of endophytic bacteria from sweet sorghum (Sorghum bicolor (L.) Moench)",
+        "pub_year": "2021",
+        "citation": "Indonesian Journal of Biotechnology 26 (4), 190-196, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SKRINING KEMAMPUAN PATOGENISITAS ISOLAT ACTINOMYCETES ASAL RHIZOSFER KOPI DALAM MENGINFEKSI TELUR DAN LARVA STADIUM 2 NEMATODA PURU AKAR Meloidogyne Sp.",
+        "pub_year": "2018",
+        "citation": "Jurnal Agrotek Lestari 3 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increasing Bioethanol Yield from Fermentation of Sweet Sorghum (Sorghum bicolor L. Moench) Sap by Mixed Culture Composed of Two Yeast Strains",
+        "pub_year": "2017",
+        "citation": "Indian Journal of Science and Technology, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "2Hp03 Legume Nodulating Bacteria (LNB) Biodiversity in Tropical Agroecosystem",
+        "pub_year": "2012",
+        "citation": "\u65e5\u672c\u751f\u7269\u5de5\u5b66\u4f1a\u5927\u4f1a\u8b1b\u6f14\u8981\u65e8\u96c6 64, 73, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol Production by Fermentation of Various Sweet-stalk Sorghum Juices",
+        "pub_year": "2010",
+        "citation": "Indonesian Journal of Biotechnology 15 (2), 86-92, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Course of OJS By Prof. Resmana",
+        "pub_year": "2010",
+        "citation": "Journal B: Jurnal Sastra 1 (1), 6-10, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kemampuan Isolataktinomisetes Menghasilkan Enzim yang Dapatmerusak Kulit Telur Nematoda Puru-Akar Meloidogyne spp.",
+        "pub_year": "2009",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 15 (1), 22-28, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEMAMPUAN ISOLAT AKTINOMISETES MENGHASILKAN ENZIM YANG DAPAT MERUSAK KULIT TELUR NEMATODA PURU-AKAR Meloidogyne spp.= THE ABILITY OFACTINOMYCETES ISOLATE TO PRODUCE ENZYMES \u2026",
+        "pub_year": "2009",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia (Indonesian, Journal of Plant \u2026, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH SUMBER KARBON DALAM BIOAKTIVASI BATUAN FOSFAT MENGGUNAKAN Aspergillus niger",
+        "pub_year": "2008",
+        "citation": "Agrivita 29 (2), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Single Base Substitution Adjacent to the Stop Codon in the downstream of the SMP3 gene Affects its Post-trancriptional process in Saccharomyces cerevisiae",
+        "pub_year": "2007",
+        "citation": "Indonesian Journal of Biotechnology 12 (2), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Bahan Organik dan Suhu Pengeringan terhadap Ketahanan Hidup Aspergillus niger dalam Pupuk Pelet Bio-fosfat",
+        "pub_year": "2007",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 122-126, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Rock Phosphate and Level of Inoculums on The Survivability of Aspergillus niger and Its Solubilization Ability When Pelleted With Rock Phosphate",
+        "pub_year": "2005",
+        "citation": "Jurnal Ilmu Tanah dan Lingkungan 7 (2), 77-80, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construction of Saccharomyces cerevisiae haploid strain carrying splitted chromosome XII at right region of rDNA locus",
+        "pub_year": "2005",
+        "citation": "Asian Journal of Tropical Biotechnology 2 (1), 9-13, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suksesi Mikroalgae pada insulasi dingin dan dinding luar tangki LNG/LPG:: Suatu pendekatan morfologis dan molekuar",
+        "pub_year": "2005",
+        "citation": "Universitas Gadjah Mada, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh pemberian asam-asam organik= The Effects of Organic Acid to Fe (Iron) Solution in the Acid Sulphate Soil",
+        "pub_year": "2004",
+        "citation": "Agrosains 17 (2004), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Dan Identifikasi Isolat Bakteri Pendegradasi Fraksi Aspaltik Hidrokarbon Lumpur Minyak Bumi",
+        "pub_year": "2003",
+        "citation": "Berkala Ilmiah Biologi 3 (2003), 2003"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konstruksi strain haploid Saccharomyces cerevisiae pembawa kromosom XII yang terpotong pada sisi kanan lokus rDNA",
+        "pub_year": "2001",
+        "citation": "Universitas Gadjah Mada, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "One-step splitting of a chromosome in haploid cells of Saccharomyces cerevisiae",
+        "pub_year": "1996",
+        "citation": "\u65e5\u672c\u5206\u5b50\u751f\u7269\u5b66\u4f1a\u5e74\u4f1a\u30d7\u30ed\u30b0\u30e9\u30e0\u30fb\u8b1b\u6f14\u8981\u65e8\u96c6 19, 861, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "A8UEW3EAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

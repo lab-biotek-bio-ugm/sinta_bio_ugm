@@ -1,0 +1,420 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "W2i0kEIAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Lenny Saulia",
+  "affiliation": "Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "terramechanics",
+    "biomechanics",
+    "ergonomics"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 22,
+  "citedby5y": 11,
+  "hindex": 3,
+  "hindex5y": 2,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2005": 1,
+    "2006": 0,
+    "2007": 0,
+    "2008": 1,
+    "2009": 0,
+    "2010": 1,
+    "2011": 0,
+    "2012": 1,
+    "2013": 3,
+    "2014": 1,
+    "2015": 1,
+    "2016": 2,
+    "2017": 0,
+    "2018": 0,
+    "2019": 1,
+    "2020": 2,
+    "2021": 3,
+    "2022": 2,
+    "2023": 1,
+    "2024": 2
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perancangan model faktor ergonomi makro terhadap produktivitas sistem kerja pada pabrik gula",
+        "pub_year": "2008",
+        "citation": "IPB (Bogor Agricultural University), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:0EnyYjriUFMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=192018413420704302",
+      "cites_id": [
+        "192018413420704302"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RGB-D sensor application for static anthropometry measurement",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012036, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2467607951772008978",
+      "cites_id": [
+        "2467607951772008978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ergonomika",
+        "pub_year": "1998",
+        "citation": "Institut Pertanian Bogor. Bogor, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:roLk4NBRz8UC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15720295090222420400",
+      "cites_id": [
+        "15720295090222420400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Sistem Aquisis Data Kadar Nitrogen Tanah Berbasis Sensor Infra Merah Sebagai Pedoman Penentuan Dosis Pemupukan",
+        "pub_year": "2011",
+        "citation": "Jurnal Keteknikan Pertanian 25 (2), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12614534122674451252",
+      "cites_id": [
+        "12614534122674451252"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An intelligent method of sinkage prediction for tracked vehicles using possibility theory and fuzzy neural network",
+        "pub_year": "2007",
+        "citation": "JOURNAL of the JAPANESE SOCIETY of AGRICULTURAL MACHINERY 69 (5), 62-69, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4033171898955933262",
+      "cites_id": [
+        "4033171898955933262"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem resirkulasi air tertutup untuk pembenihan ikan patin (Pangasius sp.)(bagian 1): Pengendalian suhu air dengan pengendali mikrokontroller",
+        "pub_year": "2001",
+        "citation": "Fateta IPB, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7112193562723078001",
+      "cites_id": [
+        "7112193562723078001"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Postural analysis in design evaluation of oil palm loose fruits collector machine",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1038 (1), 012060, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:UebtZRa9Y70C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14781023829752536577",
+      "cites_id": [
+        "14781023829752536577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection of human fatigue level based on changes in skin color using RGB sensor",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 542 (1), 012037, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8542456951241955980",
+      "cites_id": [
+        "8542456951241955980"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Desain Model Diagnostik Resiko Ergonomi pada Kelapa Sawit Secara Manual",
+        "pub_year": "2015",
+        "citation": "Jurnal Keteknikan Pertanian 3 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14697596691522153270",
+      "cites_id": [
+        "14697596691522153270"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun dan Pengujian Alat Tanam Murbei",
+        "pub_year": "2022",
+        "citation": "Jurnal Agritechno, 85-91, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Konsep Desain Komponen Mesin Pemisah Fuli Biji Pala",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistem Kendali Larutan Nutrisi Berbasis Single Input Fuzzy Logic Control (SFLC).",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Tingkat Kelelahan Manusia Berdasarkan Perubahan Warna Kulit dengan Menggunakan Sensor RGB.",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Sensor RGB-D untuk Pengukuran Antropometri Statis",
+        "pub_year": "2020",
+        "citation": "IPB University, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rancang Bangun Alat Penanam Benih Kedelai Manual Terintegrasi dengan Sepatu Kerja Petani",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengembangan Sistem Aquisis Data Kadar Nitrogen Tanah Berbasis Sensor Infra Merah sebagai Pedoman Penentuan Dosis Pemupukan",
+        "pub_year": "2011",
+        "citation": "Jurnal Keteknikan Pertanian 25 (2), 21843, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fundamental study on the relationship between pressure and sinkage of tracked vehicles",
+        "pub_year": "2007",
+        "citation": "\u4e09\u91cd\u5927\u5b66, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation on Effect of Shape Contact Ratio to Static Sinkage for Tracked Vehicles by Using New Measurement System",
+        "pub_year": "2006",
+        "citation": "Proceedings of the International Conference of Bionic Engineering (ICBE'06), 2006"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Dynamic Local Work Load Measurement Method Using Electromyography (EMG)(an experimental measurement with drilling activities)",
+        "pub_year": "2002",
+        "citation": "Jurnal Keteknikan Pertanian 16 (1), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Panas Tungku Penggorengan Sebagai External Combustion Engine Tipe Stirling Generator Untuk Elektrifikasi Pabrik Tahu",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mempelajari pola sebaran dan ukuran butiran semprot dari penyemprot volume ultra rendah (Ulv sprayer) untuk pesawat terbang ringan",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan koefisien tenaga manusia dengan metode Step test",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study On The Possibility Of Using Other Method Than Sedimentation Method To Determine Particle Size Distribution Of Organic Soil",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scheme Model The MAcro Ergonomics Factor To Work System In Sugar Mill Productivity",
+        "citation": "Institut Pertanian Bogor, 0"
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediksi luasan telapak kaki dengan parameter berat dan tinggi badan",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan ketenggelaman Terrestrial Robotic Vehicle (TRV) dengan menggunakan tes ketenggelaman plat",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u201cBalada si Rebin\u201d: An Entertaining Movie to Criticize Students\u2019 Littering Habits",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "By Using Electromyography (EMG)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "W2i0kEIAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

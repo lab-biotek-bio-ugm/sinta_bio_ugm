@@ -1,0 +1,129 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "YK-BodQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Fenryco Pratama",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YK-BodQAAAAJ&citpid=9",
+  "affiliation": "Lecturer, School of Life Sciences and Technology, Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Microbiology",
+    "Biotechnology"
+  ],
+  "email_domain": "@itb.ac.id",
+  "homepage": "http://www.sith.itb.ac.id/microbiology/en/profiles/fenryco-pratama/",
+  "citedby": 13,
+  "citedby5y": 11,
+  "hindex": 2,
+  "hindex5y": 1,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2011": 1,
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 3,
+    "2023": 4,
+    "2024": 4
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic and process engineering strategies for enhanced recombinant N-glycoprotein production in bacteria",
+        "pub_year": "2021",
+        "citation": "Microbial cell factories 20 (1), 1-25, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "YK-BodQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3724128210936891847",
+      "cites_id": [
+        "3724128210936891847"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression and purification of PhoR sensor-domain histidine kinase of mycobacterium tuberculosis in Escherichia coli",
+        "pub_year": "2015",
+        "citation": "Microbiology Indonesia 9 (2), 1-1, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "YK-BodQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11484586753982327222,7161471051843233048",
+      "cites_id": [
+        "11484586753982327222",
+        "7161471051843233048"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning, Overexpression, and Purification of PhoR CytoplasmicDomain Protein from Mycobacterium tuberculosis strain H37Rv",
+        "pub_year": "2014",
+        "citation": "Microbiology Indonesia 8 (4), 1-1, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "YK-BodQAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2816678278727468063",
+      "cites_id": [
+        "2816678278727468063"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigation of Optimized Bacterial EOR System in X Field, Kepulauan Seribu",
+        "pub_year": "2011",
+        "citation": "Indonesian Petroleum Association, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "YK-BodQAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4781721795289991544",
+      "cites_id": [
+        "4781721795289991544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "arfA antisense RNA regulates MscL excretory activity",
+        "pub_year": "2023",
+        "citation": "Life Science Alliance 6 (6), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "YK-BodQAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 2,
+    "not_available": 0
+  }
+}

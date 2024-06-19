@@ -1,0 +1,451 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "7vz0ou0AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Chindy Ulima Zanetta",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7vz0ou0AAAAJ&citpid=3",
+  "affiliation": "School of Life Sciences and Technology - Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Plant Breeding",
+    "Plant Science",
+    "Agronomy",
+    "Ecophysiology"
+  ],
+  "email_domain": "@itb.ac.id",
+  "homepage": "http://sith.itb.ac.id/",
+  "citedby": 86,
+  "citedby5y": 54,
+  "hindex": 5,
+  "hindex5y": 4,
+  "i10index": 3,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2015": 2,
+    "2016": 11,
+    "2017": 8,
+    "2018": 10,
+    "2019": 4,
+    "2020": 6,
+    "2021": 16,
+    "2022": 13,
+    "2023": 8,
+    "2024": 7
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "lA8t2XoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Budi Waluyo",
+      "affiliation": "Universitas Brawijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "SVB6I94AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Fadhillah Laila",
+      "affiliation": "Lecturer"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cSy2c9sAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "DEDI RUSWANDI",
+      "affiliation": "Universitas Padjadjaran"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "z3g-Xe4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "EDY SURYADI",
+      "affiliation": "Universitas Padjadjaran"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "GYMfG2UAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Thomas (Tom) D. Warkentin",
+      "affiliation": "Professor, University of Saskatchewan"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "G8-btH8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Juju Nakasha Jaafar",
+      "affiliation": "Dr., Universiti Putra Malaysia"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GGE biplot analysis for combining ability of grain yield and early maturity in maize mutant in Indonesia.",
+        "pub_year": "2015",
+        "citation": "Asian Journal of Crop Science 7 (3), 160-173, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=497203591379381564",
+      "cites_id": [
+        "497203591379381564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil content and potential region for cultivation black soybean in Java as biofuel alternative",
+        "pub_year": "2015",
+        "citation": "Energy Procedia 65, 29-35, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16534288431444305702",
+      "cites_id": [
+        "16534288431444305702"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Early identification of genetic diversity and distance from Indonesia cassava potential as food, industrial and biofuel based on morphological characters",
+        "pub_year": "2015",
+        "citation": "Energy Procedia 65, 100-106, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16698089140758226873",
+      "cites_id": [
+        "16698089140758226873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman genotipe-genotipe potensial dan penentuan keragaman karakter argo-morfologi ercis (Pisum sativum L.)",
+        "pub_year": "2018",
+        "citation": "Jurnal Agro 5 (2), 127-139, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:_kc_bZDykSQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12116660467345047628",
+      "cites_id": [
+        "12116660467345047628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Fisik dan Kandungan Kimia Galur-galur Harapan Kedelai Hitam Unpad Sebagai Bahan Baku Kecap",
+        "pub_year": "2014",
+        "citation": "Prosiding Seminar Nasional Hasil Penelitian Tanaman Kacang-kacangan dan Umbi \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=268470038000892430",
+      "cites_id": [
+        "268470038000892430"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assesment of variability, heritability and divergence of ciplukan [cutleaf ground cherry: (Physalis angulata L.)] to increase exotic fruit genetic capacity in Indonesia",
+        "pub_year": "2019",
+        "citation": "Proceeding of the Emerging Challenges and Opportunities in Horticulture \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3383473451976160963",
+      "cites_id": [
+        "3383473451976160963"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi pendahuluan beberapa genotip jagung Unpad potensial toleran naungan pada sistem agroforestri dengan albizia",
+        "pub_year": "2016",
+        "citation": "Jurnal Agrotek Indonesia (Indonesian Journal of Agrotech) 1 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15731932529345342111",
+      "cites_id": [
+        "15731932529345342111"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman genetik karakter agronomis dan karakteristik fisiko-kimia biji kedelai hitam sebagai bahan baku alternatif tempe",
+        "pub_year": "2013",
+        "citation": "Prosiding Seminar Nasional 3 in One Hortikultura, Agronomi dan Pemuliaan \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9367441095794643830",
+      "cites_id": [
+        "9367441095794643830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Classifying cassava (Manihot esculenta Crantz.) clones based on principal component analysis of specific characters for use as selection criteria",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 911 (1), 012007, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2061845482625904750",
+      "cites_id": [
+        "2061845482625904750"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploitation of variability and genetic divergence of tomatillo (Physalis ixocarpa Brot) as tool for futher breeding",
+        "pub_year": "2019",
+        "citation": "Proceedings of the Emergence Challenges and Opportunities in Horticulture \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:Zph67rFs4hoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9710124614428224634",
+      "cites_id": [
+        "9710124614428224634"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and genetic potential of Indonesia pea (Pisum sativum L.) landrace based on morphological traits in lowlands",
+        "pub_year": "2019",
+        "citation": "Trans Persat Genet Malays 10, 13-19, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13391964626369491662",
+      "cites_id": [
+        "13391964626369491662"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan kandungan pati dan bahan kering non destruktif pada ubi jalar dengan pendekatan metode specific gravity",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional dan Focus Group Discussion Pendidikan dan Riset \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6811980313286463731",
+      "cites_id": [
+        "6811980313286463731"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik agronomi dan fisik biji sebagai penduga keragaman serta penciri spesifik genotip pada kultivar unggul dan galur harapan kedelai",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Hasil Penelitian Tanaman Aneka Kacang dan Umbi \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12360739253458278532",
+      "cites_id": [
+        "12360739253458278532"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman karakter agromorfologi dan kandungan nutrisi pada kentang hitam (Solenostemon rotundifo (Poir) JK Mort)",
+        "pub_year": "2016",
+        "citation": "Prosiding Seminar Nasional Biodiversitas VI, 31-38, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12705388170639368565",
+      "cites_id": [
+        "12705388170639368565"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variability and assessment of interrelationships among yield and yield-related characters of pea accessions under the influence of high temperature",
+        "pub_year": "2023",
+        "citation": "New Zealand Journal of Crop and Horticultural Science, 1-19, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8159873311698695110",
+      "cites_id": [
+        "8159873311698695110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Character selection by path and principal analysis for enhanced seed size and yield in local castor bean (Ricinus communis L.)",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012062, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8442912096463220757",
+      "cites_id": [
+        "8442912096463220757"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dissecting genetic variation and association mapping for agro-morphological traits under high temperature stress in pea (Pisum sativum L.)",
+        "pub_year": "2024",
+        "citation": "Euphytica 220 (2), 1-22, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penampilan Perkecambahan Biji sebagai Kriteria Seleksi Kultivar Kedelai Bahan Baku Taoge Berkualitas",
+        "pub_year": "2018",
+        "citation": "Agro Wiralodra 1 (2), 52-56, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi pendahuluan genotip potensial jagung toleran naungan",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional dan Focus Group Discussion Pendidikan dan Riset \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pewarisan dan Keragaman Karakteristik Fisik Umbi Ubi Jalar Madu Generasi F1 Sebagai Dasar Seleksi Genotip Potensial",
+        "pub_year": "2016",
+        "citation": "Seminar dan Lokakarya Nasional Perkumpulan Agroteknologi/Agroekoteknologi \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genotype x environment interaction and performance of black potato (Solenostemon rotundifolius (Poir. J. K. Morton)) germplasm from Indonesia",
+        "pub_year": "2016",
+        "citation": "Transaction of Persatuan Genetik Malaysia 3, 75-78, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of sweetpotato based on agronomic characters and biochemical content leaves and tubers as basis for multi-purpose food and bioindustry in Indonesia",
+        "pub_year": "2016",
+        "citation": "Transaction of Persatuan Genetik Malaysia 3, 61-66, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman karakteristik fisik biji koro manis (Phaseolus lunatus L.) sebagai dasar untuk sinkronisasi preferensi kebutuhan industri dan konsumsi",
+        "pub_year": "2016",
+        "citation": "Prosiding Seminar Nasional Pembangunan Pertanian 2016: Tantangan dan Arah \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis pola interaksi genotipe x lingkungan untuk stabilitas hasil dan adaptasi genotip pada kedelai hitam",
+        "pub_year": "2016",
+        "citation": "Prosiding Seminar Nasional: Peran Agroteknologi/Agroekoteknologi dalam \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "7vz0ou0AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

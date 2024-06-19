@@ -1,0 +1,923 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "kc-aUY4AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Sony Heru Sumarsono",
+  "affiliation": "Institut Teknologi Bandung",
+  "interests": [
+    "developmental biology"
+  ],
+  "citedby": 1092,
+  "citedby5y": 225,
+  "hindex": 9,
+  "hindex5y": 6,
+  "i10index": 7,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "1996": 14,
+    "1997": 31,
+    "1998": 39,
+    "1999": 52,
+    "2000": 50,
+    "2001": 47,
+    "2002": 40,
+    "2003": 49,
+    "2004": 26,
+    "2005": 38,
+    "2006": 30,
+    "2007": 39,
+    "2008": 24,
+    "2009": 29,
+    "2010": 36,
+    "2011": 47,
+    "2012": 47,
+    "2013": 40,
+    "2014": 37,
+    "2015": 33,
+    "2016": 39,
+    "2017": 42,
+    "2018": 29,
+    "2019": 44,
+    "2020": 42,
+    "2021": 46,
+    "2022": 41,
+    "2023": 35,
+    "2024": 17
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A null mutation in the gene encoding a type I interferon receptor component eliminates antiproliferative and antiviral responses to interferons alpha and beta and alters \u2026",
+        "pub_year": "1995",
+        "citation": "Proceedings of the National Academy of Sciences 92 (24), 11284-11288, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:8k81kl-MbHgC",
+      "num_citations": 494,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18103011464703504269,14494431974795869835",
+      "cites_id": [
+        "18103011464703504269",
+        "14494431974795869835"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Down's syndrome-like skeletal abnormalities in Ets2 transgenic mice",
+        "pub_year": "1996",
+        "citation": "Nature 379 (6565), 534-537, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 259,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3239613534283866513",
+      "cites_id": [
+        "3239613534283866513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regulation of Pdha-2 Expression Is Mediated by Proximal Promoter Sequences and CpG Methylation",
+        "pub_year": "1997",
+        "citation": "Molecular and cellular biology 17 (2), 612-619, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 79,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16670949463642088184",
+      "cites_id": [
+        "16670949463642088184"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Targeted expression of a toxin gene to D1 dopamine receptor neurons by cre-mediated site-specific recombination",
+        "pub_year": "1998",
+        "citation": "Journal of Neuroscience 18 (23), 9845-9857, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:IWHjjKOFINEC",
+      "num_citations": 72,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14136043249595191866",
+      "cites_id": [
+        "14136043249595191866"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioprospecting of Turbinaria macroalgae as a potential source of health protective compounds",
+        "pub_year": "2017",
+        "citation": "Chemistry & Biodiversity 14 (2), e1600192, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=909802877033117206",
+      "cites_id": [
+        "909802877033117206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The laminin binding protein p40 is involved in inducing limb abnormality of mouse fetuses as the effects of methoxyacetic acid treatment",
+        "pub_year": "2003",
+        "citation": "Toxicological Sciences 75 (1), 148-153, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9650262856883638167",
+      "cites_id": [
+        "9650262856883638167"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A teratoproteomics analysis: heat shock protein 70 is upregulated in mouse forelimb bud by methoxyacetic acid treatment",
+        "pub_year": "2005",
+        "citation": "Birth Defects Research Part A: Clinical and Molecular Teratology 73 (7), 517-521, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:roLk4NBRz8UC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1815189782623664689",
+      "cites_id": [
+        "1815189782623664689"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan Analisa Perkerasan Metode Bina Marga Revisi Juni 2017 dan AASHTO 1993 (Studi Kasus pada Pekerjaan Rencana Preservasi Ruas Jalan Jatibarang-Langut TA 2017)",
+        "pub_year": "2018",
+        "citation": "RekaRacana: Jurnal Teknil Sipil 4 (3), 60, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:aqlVkmm33-oC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17414124830518324222",
+      "cites_id": [
+        "17414124830518324222"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oral administration of cogongrass (Imperata cylindrica L) root ethanol-extract causes mouse epididymal sperm abnormality.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4111860231317406977",
+      "cites_id": [
+        "4111860231317406977"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The expression of essential components for human influenza virus internalisation in Vero and MDCK cells",
+        "pub_year": "2014",
+        "citation": "Cytotechnology 66, 515-523, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:Se3iqnhoufwC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8276160184281875103",
+      "cites_id": [
+        "8276160184281875103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genes, embryogenesis and Down syndrome",
+        "pub_year": "1995",
+        "citation": "Advances in human reproduction. New York: Casterton-Parthenon, 309-320, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3047038237543728602",
+      "cites_id": [
+        "3047038237543728602"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mouse testis Pdha-2 promoter upstream sequences confer tissue-and temporal-specific activity in transgenic mice",
+        "pub_year": "1994",
+        "citation": "Reproduction, fertility and development 6 (5), 599-604, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13075812579690479398",
+      "cites_id": [
+        "13075812579690479398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi embrio kucing secara in vitro dari spermatozoa hasil preservasi melalui fertilisasi mikro",
+        "pub_year": "2013",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 7 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2048704881706883388",
+      "cites_id": [
+        "2048704881706883388"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of domestic cat embryo produced by preserved sperms",
+        "pub_year": "2008",
+        "citation": "HAYATI Journal of Biosciences 15 (4), 155-160, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18194701726498892782",
+      "cites_id": [
+        "18194701726498892782"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microinjection of in vitro transcribed RNA and antisense oligonucleotides in mouse oocytes and early embryos to study the gain-and loss-of-function of genes",
+        "pub_year": "1995",
+        "citation": "In Vitro Transcription and Translation Protocols, 135-149, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17924397286937958327",
+      "cites_id": [
+        "17924397286937958327"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Repellency of some essential oils against Drosophila melanogaster, vector for bacterium blood disease in banana plantation.",
+        "pub_year": "2018",
+        "citation": "Journal of Entomology 15 (3), 125-134, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8640781035898620511",
+      "cites_id": [
+        "8640781035898620511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancement of the Immunostimulatory Effect of Phosphodiester CpG Oligodeoxynucleotides by an Antiparallel Guanine-Quadruplex Structural Scaffold",
+        "pub_year": "2021",
+        "citation": "Biomolecules 11 (11), 1617, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:maZDTaKrznsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8088741787064564909",
+      "cites_id": [
+        "8088741787064564909"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anti-inflammatory activity of Indonesian propolis in Zebrafish (Danio rerio) larvae",
+        "pub_year": "2020",
+        "citation": "Journal of Food and Nutrition Research 8 (5), 225-230, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9131628390861681972",
+      "cites_id": [
+        "9131628390861681972"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Face shape variation among Sundanese people from Western Java, Indonesia",
+        "pub_year": "2015",
+        "citation": "HAYATI Journal of Biosciences 22 (1), 34-40, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:0EnyYjriUFMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9728323033913354041",
+      "cites_id": [
+        "9728323033913354041"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas, Kemampuan Implantasi dan Viabilitas in-vivo Embrio Mencit (Mus muculus) Galur Swiss Webster Setelah Pembekuan Dengan Metode Vitrifikasi",
+        "pub_year": "2006",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 72-79, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7772225966589635680",
+      "cites_id": [
+        "7772225966589635680"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A model for understanding gene regulation during spermatogenesis: the mouse testis Pdha-2 promoter",
+        "pub_year": "1995",
+        "citation": "Reproduction, Fertility and Development 7 (4), 705-712, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:qjMakFHDy7sC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5939585804367592824",
+      "cites_id": [
+        "5939585804367592824"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deleterious effect of short-term gavage of an ethanol extract of cogon grass (Imperata cylindrica L.) roots on testis and epididymal sperm quality",
+        "pub_year": "2020",
+        "citation": "Veterinary World 13 (7), 1311, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4909906400041413326",
+      "cites_id": [
+        "4909906400041413326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential cell proliferation inhibitor isolated from Indonesian brown algae (Phaeophyta)",
+        "pub_year": "2015",
+        "citation": "Int J Pharm Pharm Sci 7 (11), 140-3, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:4TOpqqG69KYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3296325200399531176",
+      "cites_id": [
+        "3296325200399531176"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Reactive Oxygen Species (ROS), Superoxide Dismutase (SOD) dengan Protein \u03b1-Sinuklein-Larut Air pada Batang Otak Tikus yang Diinduksi Rotenon",
+        "pub_year": "2015",
+        "citation": "Global Medical and Health Communication 3 (2), 83-92, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16232087470669695248",
+      "cites_id": [
+        "16232087470669695248"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increase of Oxidative Stress and Accumulation of \u03b1-Synuclein in Wistar Rat\u2019s Midbrain Increase of Oxidative Stress and Accumulation of Wistar Rat\u2019s Midbrain Treated with Rotenone",
+        "pub_year": "2012",
+        "citation": "ITB J Sci 44 (4), 317-332, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10157603309902921720",
+      "cites_id": [
+        "10157603309902921720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive performance and vitellogenin gene expression on female Bonylip barb (Osteochilus vittatus) during its reproductive cycle under culture conditions.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:isC4tDSrTZIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4674876813712391237",
+      "cites_id": [
+        "4674876813712391237"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utilization of oocytes collected from preserved ovarian for in vitro production of cat embryos",
+        "pub_year": "2018",
+        "citation": "Biosaintifika: Journal of Biology & Biology Education 10 (1), 160-168, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:_kc_bZDykSQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14072400566566059707",
+      "cites_id": [
+        "14072400566566059707"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microinjection of in vitro transcribed RNA and antisense oligonucleotides in mouse oocytes and early embryos to study the gain-and loss-of-function of genes",
+        "pub_year": "1996",
+        "citation": "Molecular biotechnology 6, 191-199, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12141150686806944439",
+      "cites_id": [
+        "12141150686806944439"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of cryoprotectants on sperm vitrification",
+        "pub_year": "2017",
+        "citation": "Advances in Biomolecular Medicine, 119-122, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:ufrVoPGSRksC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5978832576084490573",
+      "cites_id": [
+        "5978832576084490573"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein yang terkait dengan teratogenisitas anggota tubuh mencit Swiss Webster akibat perlakuan dengan asam metoksiasetat (MAA)",
+        "pub_year": "2001",
+        "citation": "Seminar Perhimpunan Ahli Anatomi Indonesia, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:Zph67rFs4hoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15955082005526596133",
+      "cites_id": [
+        "15955082005526596133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maternal Genetic Distance Between Sundanese and Javanese Populations in Indonesia",
+        "pub_year": "2021",
+        "citation": "EPiC Series in Biological Sciences 1, 41-47, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:iH-uZ7U-co4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488297202879778015",
+      "cites_id": [
+        "17488297202879778015"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Linamarin Terhadap Penampilan Reproduksi Induk Mencit (Mus Musculus L.)",
+        "pub_year": "2017",
+        "citation": "Jurnal Ipteks Terapan 11 (4), 289-299, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1031748141115900576",
+      "cites_id": [
+        "1031748141115900576"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Low concentration of ethylene glycol improve the recovery rate of human spermatozoa after vitrification",
+        "pub_year": "2016",
+        "citation": "Jurnal Veteriner 17 (3), 1-7, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10975065453881768581",
+      "cites_id": [
+        "10975065453881768581"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas, kemampuan implantasi dan viabilitas in-vivo embrio mencit (Mus musculus) galur swiss webster setelah pembekuan dengan metode vitrifikasi",
+        "pub_year": "2005",
+        "citation": "Bogor Agriculture University, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6257606891146913032",
+      "cites_id": [
+        "6257606891146913032"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Targetted expression of a toxin gene to striatal neurons",
+        "pub_year": "1997",
+        "citation": "27th Annual Meeting, 1997"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13590176486672632712",
+      "cites_id": [
+        "13590176486672632712"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Genesis and Study of Mouse Models for Down Syndrome",
+        "pub_year": "1996",
+        "citation": "Monash University, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7433337505558562625",
+      "cites_id": [
+        "7433337505558562625"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Characteristics and Evolutionary Relationships of Toll-Like Receptor (TLR21) of Indonesian KUB-1 Chicken",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmu Ternak dan Veteriner 28 (4), 274-286, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exposure to Valproic acid (VPA) resulted in alterations in the expression of angiogenic genes (NRP-1, VEGFA, VEGFR-2 and sFlt1) and histological modifications in the placenta \u2026",
+        "pub_year": "2023",
+        "citation": "Reproductive Toxicology 119, 108405, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatiotemporal Profile of Skeletal Development in Bonylip Barb, Osteochilus vittatus (Valenciennes, 1842)",
+        "pub_year": "2022",
+        "citation": "Asian Fisheries Science 35 (4), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protofibril formation: decreased total glutathione concentration as an early indicator of neuron damage in the brainstems of Wistar rats treated with rotenone",
+        "pub_year": "2021",
+        "citation": "F1000Research 10, 1158, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In-vivo Mice Pre-Implantation Embryo Development after Oral Administration Ethanolic Extract of Cogon Grass Roots (Imperata cylindrica L).",
+        "pub_year": "2021",
+        "citation": "Jurnal Veteriner 22 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of single nucleotide polymorphisms on the D-loop region of mtDNA in Sundanese population",
+        "pub_year": "2021",
+        "citation": "Tropical Genetics 1 (1), 17-23, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "peer review: awaiting peer review",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE EFFECT OF COGON GRASS ROOT ETHANOL EXTRACT ON REPRODUCTIVE ORGAN AND EPIDIDYMAL SPERM QUALITY OF MOUSE WITH DIFFERENT AGES",
+        "pub_year": "2020",
+        "citation": "Jurnal Kedokteran Hewan-Indonesian Journal of Veterinary Sciences 14 (1), 1-6, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Indeks Massa Tubuh terhadap Dosis Radiasi pada Angiografi Koroner",
+        "pub_year": "2020",
+        "citation": "Lontara 1 (2), 108-116, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deleterious effect of short-term gavage of an ethanol extract of cogon grass (Imperata cylindrica L.) roots on testis and epididymal sperm quality, Veterinary World, 13 (7 \u2026",
+        "pub_year": "2020",
+        "citation": "Abstract, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstrak Etanol Biji Pinang Muda (Areca catechu L) Meningkatkan Apoptosis pada Sel Testikular Mencit (Mus musculus L)",
+        "pub_year": "2018",
+        "citation": "Biota: Jurnal Ilmiah Ilmu-Ilmu Hayati, 24\u2212 32-24\u2212 32, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Repellency of Some Essential Oils against Drosophila melanogaster, Vector for Bacterium Blood Disease in Banana Plantation",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:-f6ydRqryjwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Low concentration of ethylene glycol improved recovery rate of human spermatozoa after vitrification.",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increase of Oxidative Stres \u03b1-Synuclein in Wistar Rat\u2019s",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Maternal Contribution In Revealing The Effects Of Methoxyacetic Acid (Maa) Administered Before Implantation On The Embryonic Development Of Swiss Webster Mice (Mus musculus)",
+        "pub_year": "2004",
+        "citation": "Annales Bogorienses 9 (1), 20-26, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A null mutation in the gene encoding a type I interferon receptor component eliminates antiproliferative and antiviral responses to interferons alpha and beta and alters \u2026",
+        "pub_year": "1996",
+        "citation": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF \u2026, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Erratum: A null mutation in the gene encoding a type I interferon receptor component eliminates antiproliferative and antiviral responses to interferons \u03b1 and \u03b2 and alters \u2026",
+        "pub_year": "1996",
+        "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IMMUNOLOGICAL ABNORMALITIES ASSOCIATED WITH DOWN-SYNDROME AND TRISOMY-1L MICE-POTENTIAL ROLE FOR THE PROTOONCOGENE-ETS-2",
+        "pub_year": "1995",
+        "citation": "JOURNAL OF CELLULAR BIOCHEMISTRY, 134-134, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MICE TRANSGENIC FOR THE ETS2 PROTOONCOGENE DEVELOP A SUBSET OF PHENOTYPIC ABNORMALITIES FOUND IN DOWN-SYNDROME",
+        "pub_year": "1995",
+        "citation": "CYTOGENETICS AND CELL GENETICS 70 (3-4), 181-181, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE DOWN SYNDROME PHENOTYPE",
+        "pub_year": "1994",
+        "citation": "Advances in Human Reproduction 7, 309, 1994"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microbial Count and AvBD10 Expressions in Ovaries and Oviducts of Kampung Unggul Balitbangtan (KUB)-1 Chickens Following Intravaginally CpG-ODN and S. Enteritidis",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (2), 88750, 0"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "119 Effect of cryoprotectants on sperm vitrification",
+        "citation": "Advances in Biomolecular Medicine, 119-122, 0"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fertelisasi in vitro dan mikroinjeksi sperma tunggal sebagai teknologi alternatif koservasi satwa langka",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influenza H1N1 Virus Internalization in Vero and MDCK Cell Lines",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "kc-aUY4AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 2,
+    "not_available": 0
+  }
+}

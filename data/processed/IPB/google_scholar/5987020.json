@@ -1,0 +1,636 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "RRktbBkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Puji Rianti",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RRktbBkAAAAJ&citpid=3",
+  "affiliation": "Lecturer of Biology, IPB University",
+  "interests": [
+    "Primatology",
+    "Conservation Genetics",
+    "Animal Biodiversity"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 635,
+  "citedby5y": 521,
+  "hindex": 10,
+  "hindex5y": 9,
+  "i10index": 10,
+  "i10index5y": 9,
+  "cites_per_year": {
+    "2012": 4,
+    "2013": 7,
+    "2014": 7,
+    "2015": 2,
+    "2016": 8,
+    "2017": 10,
+    "2018": 67,
+    "2019": 72,
+    "2020": 83,
+    "2021": 102,
+    "2022": 109,
+    "2023": 107,
+    "2024": 46
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric, behavioral, and genomic evidence for a new orangutan species",
+        "pub_year": "2017",
+        "citation": "Current Biology 27 (22), 3487-3498. e10, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 326,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13437138916121730619,8745499177085923330",
+      "cites_id": [
+        "13437138916121730619",
+        "8745499177085923330"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and effectiveness of insect pollinators of Jatropha curcas L.(Euphorbiaceae)",
+        "pub_year": "2010",
+        "citation": "HAYATI Journal of Biosciences 17 (1), 38-42, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 55,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9476243644526073605",
+      "cites_id": [
+        "9476243644526073605"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pongo tapanuliensis, Tapanuli orangutan",
+        "pub_year": "2017",
+        "citation": "The IUCN red list of threatened species 8235, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18025450560295931431",
+      "cites_id": [
+        "18025450560295931431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Grouping behavior of Sumatran orangutans (Pongo abelii) and Tapanuli orangutans (Pongo tapanuliensis) living in forest with low fruit abundance",
+        "pub_year": "2020",
+        "citation": "American Journal of Primatology 82 (5), e23123, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1215799408753336137",
+      "cites_id": [
+        "1215799408753336137"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Density and spatial partitioning of endangered sympatric Javan leopard (Felidae) and dholes (Canidae) in a tropical forest landscape",
+        "pub_year": "2018",
+        "citation": "Folia Zoologica 67 (3-4), 207-219, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17994542965769517681",
+      "cites_id": [
+        "17994542965769517681"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geographical analysis of the Javan deer distribution in Indonesia and priorities for landscape conservation",
+        "pub_year": "2020",
+        "citation": "Journal for Nature Conservation 54, 125795, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5125403104883945566",
+      "cites_id": [
+        "5125403104883945566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Male homosexual preference: femininity and the older brother effect in Indonesia",
+        "pub_year": "2019",
+        "citation": "Evolutionary Psychology 17 (4), 1474704919880701, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1705240241288765830",
+      "cites_id": [
+        "1705240241288765830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecology and conservation of the Endangered banteng (Bos javanicus) in Indonesia tropical lowland forest",
+        "pub_year": "2019",
+        "citation": "Hayati Journal of Biosciences 26 (2), 68-68, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:WF5omc3nYNoC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15959227315788620360",
+      "cites_id": [
+        "15959227315788620360"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stingless bees pollination increases fruit formation of strawberry (Fragaria x annanassa Duch) and Melon (Cucumis melo L.)",
+        "pub_year": "2022",
+        "citation": "Tropical Life Sciences Research 33 (1), 43, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:UebtZRa9Y70C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3557323558489741328",
+      "cites_id": [
+        "3557323558489741328"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pongo tapanuliensis. The IUCN red list of threatened species 2017: e. T120588639A120588662",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:Se3iqnhoufwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6468936402208486826",
+      "cites_id": [
+        "6468936402208486826"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Migrant orangutan males use social learning to adapt to new habitat after dispersal",
+        "pub_year": "2023",
+        "citation": "Frontiers in Ecology and Evolution 11, 1158887, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12131762564015792665",
+      "cites_id": [
+        "12131762564015792665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daily activities and feeding behavior of a troop of Macaca fascicularis in Telaga Warna, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012028, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14761936350798605318",
+      "cites_id": [
+        "14761936350798605318"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of diagnostic mitochondrial DNA single nucleotide polymorphisms specific to sumatran orangutan (Pongo abelii) populations",
+        "pub_year": "2015",
+        "citation": "HAYATI Journal of Biosciences 22 (4), 149-156, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7852993020660590023",
+      "cites_id": [
+        "7852993020660590023"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman, Efektivitas, dan Perilaku Kunjungan Serangga Penyerbuk pada tanaman Jarak Pagar (Jatropha curcas L.: Euphorbiaceae)",
+        "pub_year": "2009",
+        "citation": "IPB (Bogor Agriculture University), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12052996324213058658",
+      "cites_id": [
+        "12052996324213058658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Handedness heritability in industrialized and nonindustrialized societies",
+        "pub_year": "2020",
+        "citation": "Heredity 124 (2), 313-324, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15576537193926705075",
+      "cites_id": [
+        "15576537193926705075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman perilaku kunjungan dan efektivitas serangga penyerbuk tanaman jarak pagar (Jatropha curcas L: Euphorbiaceae)[Tesis]",
+        "pub_year": "2008",
+        "citation": "Bogor: Institut Pertanian Bogor, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5977342702477541962",
+      "cites_id": [
+        "5977342702477541962"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular diagnosis with the corresponding clinical symptoms of canine distemper virus infection in javan leopard (Panthera pardus ssp. melas)",
+        "pub_year": "2022",
+        "citation": "Heliyon 8 (11), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:Zph67rFs4hoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17618287629430282505",
+      "cites_id": [
+        "17618287629430282505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daily Behaviour of Long-tailed Macaque in the Captive, Semi-wild, and Wild Habitats: Preliminary Reports",
+        "pub_year": "2022",
+        "citation": "Indonesian Journal of Primatology 1 (01), 25-32, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7831674362633913625",
+      "cites_id": [
+        "7831674362633913625"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of ABO blood groups, ethnic groups, and medical histories of university students in Indonesia",
+        "pub_year": "2023",
+        "citation": "Jurnal Natural 23 (3), 174-184, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:dhFuZR0502QC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6241145965248886942",
+      "cites_id": [
+        "6241145965248886942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Autentikasi Produk Olahan Ikan Hiu Komersial menggunakan Teknik Species-Specific DNA Mini-barcodes.",
+        "pub_year": "2020",
+        "citation": "Jurnal Pengolahan Hasil Perikanan Indonesia 23 (2), 383-391, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:roLk4NBRz8UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14176998950185336266",
+      "cites_id": [
+        "14176998950185336266"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community structure of Fusarium oxysporum f. sp. cubense in Java and Sumatra based on Cryphonectria parasitica vic primer",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012052, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:0EnyYjriUFMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2378733039006446975",
+      "cites_id": [
+        "2378733039006446975"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil DNA Forensik pada Barang Bukti Dua Kasus Pembunuhan di Indonesia",
+        "pub_year": "2018",
+        "citation": "Jurnal Sumberdaya Hayati 4 (2), 48-56, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1307722141806286811",
+      "cites_id": [
+        "1307722141806286811"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive success of Bornean orangutan males: scattered in time but clustered in space",
+        "pub_year": "2023",
+        "citation": "Behavioral Ecology and Sociobiology 77 (12), 134, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5013710926030150663",
+      "cites_id": [
+        "5013710926030150663"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Welfare assessment of slow loris (Nycticebus spp.) at an Indonesian primate rehabilitation center: Development and validation of body condition score",
+        "pub_year": "2023",
+        "citation": "American Journal of Primatology 85 (8), e23524, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:4TOpqqG69KYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3580489557059248000",
+      "cites_id": [
+        "3580489557059248000"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Activity Budget and Diet in Sumatran Orangutan (Pongo abelii) at Soraya Research Station, Aceh",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (4), 653-661, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:_kc_bZDykSQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11895625161132126636",
+      "cites_id": [
+        "11895625161132126636"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of environmental DNA (eDNA) metabarcoding method to identify threatened Sulawesi mammal based on 12S rRNA gene",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (1), 114-121, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7882144843178152246",
+      "cites_id": [
+        "7882144843178152246"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of effect of human activity on behavior of Macaca fascicularis in an ecotourism site in Indonesia-Tropical Primate Conservation Group",
+        "pub_year": "2020",
+        "citation": "\u81ea\u7136\u4fdd\u8b77\u52a9\u6210\u57fa\u91d1\u52a9\u6210\u6210\u679c\u5831\u544a\u66f8 (Web) 28, 224-232, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14095936710956754278",
+      "cites_id": [
+        "14095936710956754278"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Orangutan males make increased use of social learning opportunities, when resource availability is high",
+        "pub_year": "2024",
+        "citation": "Iscience 27 (2), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wildlife diversity and ecology for sustainable eco-edutourism in Peramun Hill, Belitung, Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012052, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEANEKARAGAMAN KELELAWAR DI KEBUN RAYA CIBINONG, KAWASAN SAINS DAN TEKNOLOGI SOEKARNO, BADAN RISET DAN INOVASI NASIONAL (BRIN)",
+        "pub_year": "2023",
+        "citation": "Berita Biologi 22 (2), 159-166, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pilot Study on Food-processing Behaviour by Males Long-tailed Macaques on Tinjil Island, Indonesia",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Primatology 2 (01), 21-26, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Feeding ecology of free-ranging long-tailed macaques in East Java, Indonesia: Relationship with human food availability",
+        "pub_year": "2023",
+        "citation": "Primates 64 (4), 429-438, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Litter Distribution of Face Masks and its Impact on the Environment",
+        "pub_year": "2023",
+        "citation": "Available at SSRN 4333478, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Primer design of D-loop region for wild population genetics of Rusa timorensis in Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012017, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "How to Be the New Guy? Strategies of Unflanged Sumatran Orangutans (Pongo abelii) to Cope with a New Environment after Dispersal",
+        "pub_year": "2020",
+        "citation": "FOLIA PRIMATOLOGICA 91 (3), 279-279, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of effect of human activity on behavior of Macaca fascicularis in an ecotourism site in Indonesia",
+        "pub_year": "2019",
+        "citation": "Annual Report of Pro Natura Foundation Japan vol 28, 28th, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Private alleles distributions for the conservation of Sumatran orangutans (Pongo abelii)",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profil Genetik Banteng Jawa di Taman Nasional di Pulau Jawa Dalam Upaya Mendukung Konservasi Banteng di Indonesia",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Conservation Genetics of Sumatran Orangutans (Pongo abelii)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic analyses suggest three management units of Sumatran orangutans (Pongo abelii)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "RRktbBkAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 6,
+    "not_available": 0
+  }
+}

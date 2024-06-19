@@ -1,0 +1,594 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "rqA9ybsAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Dian Rosleine",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rqA9ybsAAAAJ&citpid=2",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Ekologi Tumbuhan",
+    "biodiversitas"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "homepage": "http://www.sith.itb.ac.id/profile/Dian-Rosleine-CV.htm",
+  "citedby": 195,
+  "citedby5y": 165,
+  "hindex": 7,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2010": 1,
+    "2011": 0,
+    "2012": 1,
+    "2013": 1,
+    "2014": 2,
+    "2015": 3,
+    "2016": 7,
+    "2017": 7,
+    "2018": 5,
+    "2019": 5,
+    "2020": 21,
+    "2021": 23,
+    "2022": 43,
+    "2023": 52,
+    "2024": 21
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factors affecting the use of herbal medicines in the universal health coverage system in Indonesia",
+        "pub_year": "2020",
+        "citation": "Journal of ethnopharmacology 260, 112974, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 79,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10295312277243573024",
+      "cites_id": [
+        "10295312277243573024"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secondary sucession at abandoned grazing sites, Pangandaran Nature Reserve, West Java, Indonesia",
+        "pub_year": "2012",
+        "citation": "Tropics 21 (3), 91-104, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14113533072615931544",
+      "cites_id": [
+        "14113533072615931544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Documentation of underutilized fruit trees (UFTs) across indigenous communities in West Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (9), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11468856020583561291",
+      "cites_id": [
+        "11468856020583561291"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The biodiversity of Mount Papandayan and the threats",
+        "pub_year": "2006",
+        "citation": "Proceedings of International Interdisciplinary Conference Volcano \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6394402965974213894",
+      "cites_id": [
+        "6394402965974213894"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of land use history on natural forest rehabilitation at corridor area of Gunung Halimun Salak National Park, West Java Indonesia",
+        "pub_year": "2014",
+        "citation": "Reinwardtia 14 (1), 85-99, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8821320838147620463",
+      "cites_id": [
+        "8821320838147620463"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The contribution of dominant tree species to nutrient cycling in a mixed forest ecosystem on Mount Tangkubanperahu, West Java, Indonesia",
+        "pub_year": "2006",
+        "citation": "International Conference on Mathematics and Natural Sciences (ICMNS \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4935242923437750660",
+      "cites_id": [
+        "4935242923437750660"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secondary metabolite profiles in the methanolic extract of Leucobryum javense isolated from tropical montane forest in West Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2120 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9005230876796904891",
+      "cites_id": [
+        "9005230876796904891"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "General practitioners\u2019 attitudes toward traditional Indonesian herbal medicine and integrative care in the universal health coverage system",
+        "pub_year": "2022",
+        "citation": "Glob J Health Sci 14 (4), 1-82, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:0EnyYjriUFMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16497880092809943906",
+      "cites_id": [
+        "16497880092809943906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tree community structure and composition of a one-hectare permanent Plot in the Montane Zone of Mount Kerinci, Kerinci Seblat National Park, Jambi",
+        "pub_year": "2018",
+        "citation": "Journal of Mathematical and Fundamental Sciences 50 (3), 315-331, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5737609373236586124",
+      "cites_id": [
+        "5737609373236586124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gurnita.(2005)",
+        "pub_year": "2005",
+        "citation": "Struktur komunitas dan keanekaragaman tumbuhan di G. Papandayan. Paper \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7726619204962255813",
+      "cites_id": [
+        "7726619204962255813"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Risk assessment of invasive alien plant species in Pangandaran nature reserve, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "Ecology, Environment, and Conservation 26 (1), 91-99, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:WF5omc3nYNoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11425568680192476214",
+      "cites_id": [
+        "11425568680192476214"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Predictors of the Use of Traditional Medicines in the Universal Health Coverage System in Indonesia",
+        "pub_year": "2021",
+        "citation": "Global Journal of Health Science 13 (6), 24-35, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5454297124521983128",
+      "cites_id": [
+        "5454297124521983128"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vegetation analysis and carbon stock estimation in Kuningan Botanical Garden West Java",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012002, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17868393273819614628",
+      "cites_id": [
+        "17868393273819614628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cooling effect to mitigate urban Heat Island by Pterocarpus indicus, Swietenia macrophylla and Samanea saman in Bandung, West Java Indonesia",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012057, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:ufrVoPGSRksC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13807935139218070383",
+      "cites_id": [
+        "13807935139218070383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SPATIAL DISTRIBUTION OF INVASIVE PLANTS IN BANDUNG, WEST JAVA, INDONESIA",
+        "pub_year": "2023",
+        "citation": "BIOTROPIA 30 (2), 171-182, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17068231725995587020",
+      "cites_id": [
+        "17068231725995587020"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fungsi Taman Kota Untuk Mitigasi Dampak Urban Heat Island di Kota Bandung",
+        "pub_year": "2020",
+        "citation": "Jurnal Sumberdaya Hayati 6 (1), 1-7, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:roLk4NBRz8UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15400487655075369254",
+      "cites_id": [
+        "15400487655075369254"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing the spatial distribution of Southeast Asia mangrove restoration based on zonation, species and carbon projection schemes",
+        "pub_year": "2023",
+        "citation": "Estuarine, Coastal and Shelf Science 293, 108477, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16142810886677234363",
+      "cites_id": [
+        "16142810886677234363"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Harian Orangutan Kalimantan (Pongo pygmaeus) Pasca Pelepasliaran di Hutan Lindung Gunung Tarak, Kalimantan Barat",
+        "pub_year": "2021",
+        "citation": "Zoo Indonesia 27 (2), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4103323405635280882",
+      "cites_id": [
+        "4103323405635280882"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recovery process of degraded forests in protected areas, West Java, Indonesia",
+        "pub_year": "2013",
+        "citation": "\u9e7f\u5150\u5cf6\u5927\u5b66, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2022888319659948934",
+      "cites_id": [
+        "2022888319659948934"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONTRIBUSI JENIS POHON DOMINAN TERHADAP PENDAURAN NUTRIEN PADA EKOSISTEM HUTAN CAMPURAN DI GUNUNG TANGKUBANPERAHU",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:qjMakFHDy7sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10876979491607284581",
+      "cites_id": [
+        "10876979491607284581"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quantification of ecosystem services from mangrove silvofishery",
+        "pub_year": "2024",
+        "citation": "Global Journal of Environmental Science and Management 10 (3), 1333-1344, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population structure and risk assessment of invasive species Asystasia gangetica in urban area of Bandung, West Java, Indonesia",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (6), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring wild edible plants in West Java, Indonesia: Ethnobotanical assessment, use trends, and potential for improved nutrition",
+        "pub_year": "2024",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Melothria pendula L.(Cucurbitaceae): first report from Java and range extension in Sumatra, Indonesia",
+        "pub_year": "2024",
+        "citation": "Check List 20 (2), 553-558, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vegetation dynamics of permanent plot in dipterocarp forest Bukit Bangkirai, East Kalimantan, Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012047, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EPISTOLA BOTANICA: MAYACACEAE IN INDONESIA: AN ALIEN FAMILY ESCAPED FROM CULTIVATION",
+        "pub_year": "2023",
+        "citation": "Floribunda 7 (3), 139-141, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring wild, underutilized, and neglected edible plants in West Java, Indonesia: Ethnobotanical assessment, use trends, and potential for improved nutrition",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of future sea-level rise in land suitability for mangrove rehabilitation and restoration in Indonesia",
+        "pub_year": "2022",
+        "citation": "EGU General Assembly Conference Abstracts, EGU22-9058, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of future sea-level rise in land suitability for mangrove rehabilitation and restoration in Indonesia",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil fertility status at Kuningan Botanical Garden, Kuningan Regency, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 528 (1), 012003, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bryophyte Biodiversity in Lowland Forest Pangandaran Nature Reserve Area",
+        "pub_year": "2015",
+        "citation": "5th International Conference on Plant Diversity 2015, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recovery process of degraded forests in protected areas, West",
+        "pub_year": "2013",
+        "citation": "Forest Ecology and Management 188, 1-15, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water Provision Benefits from Karst Ecosystems Threatened by Limestone Mining: An Example for Watuputih Groundwater Basin, North Kendeng Mountain, Indonesia",
+        "citation": "North Kendeng Mountain, Indonesia, 0"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plukenetia volubilis L.: A New Record of a Cultivated Alien Species in Java",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 9 (1), 84523, 0"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulation of a Management Strategy Plan for Tropical Seagrass Meadows Using the Dapsir-Qspm Approach",
+        "citation": "Available at SSRN 4682670, 0"
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Land Cover Change and Land Surface Temperature (LST) in North Bandung Area (NBA) from 2010-2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phyllanthus} uitans Benth. ex M\u00fcll. Arg.(Phyllanthaceae): A new record for the alien} ora of Java, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POST-RELEASE IN GUNUNG TARAK NATURE RESERVE, WEST KALIMANTAN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trophic state and freshwater primary productivity of Saguling Reservoir, West Java",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "rqA9ybsAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

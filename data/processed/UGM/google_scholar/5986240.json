@@ -1,0 +1,2681 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "sXRwcrIAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Siti Subandiyah",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sXRwcrIAAAAJ&citpid=1",
+  "affiliation": "Professor at Universitas Gadjah Mada",
+  "organization": 18213967212371915679,
+  "interests": [
+    "Plant Pathology",
+    "Plant Biotechnology"
+  ],
+  "email_domain": "@ugm.ac.id",
+  "citedby": 2076,
+  "citedby5y": 1257,
+  "hindex": 20,
+  "hindex5y": 17,
+  "i10index": 47,
+  "i10index5y": 34,
+  "cites_per_year": {
+    "2003": 9,
+    "2004": 7,
+    "2005": 14,
+    "2006": 14,
+    "2007": 16,
+    "2008": 25,
+    "2009": 35,
+    "2010": 39,
+    "2011": 68,
+    "2012": 64,
+    "2013": 76,
+    "2014": 79,
+    "2015": 79,
+    "2016": 82,
+    "2017": 91,
+    "2018": 92,
+    "2019": 166,
+    "2020": 211,
+    "2021": 244,
+    "2022": 247,
+    "2023": 263,
+    "2024": 124
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogeny and genetic diversity of the banana Fusarium wilt pathogen Fusarium oxysporum f. sp. cubense in the Indonesian centre of origin",
+        "pub_year": "2019",
+        "citation": "Studies in mycology 92 (1), 155-194, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:sSrBHYA8nusC",
+      "num_citations": 260,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4599314677086643605",
+      "cites_id": [
+        "4599314677086643605"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Complex endosymbiotic microbiota of the citrus psyllid Diaphorina citri (Homoptera: Psylloidea)",
+        "pub_year": "2000",
+        "citation": "Zoological Science 17 (7), 983-989, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 148,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9166035429242479983",
+      "cites_id": [
+        "9166035429242479983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of the tuf B-sec E-nus G-rpl KAJL-rpo B gene cluster of the citrus greening organism and detection by loop-mediated isothermal amplification",
+        "pub_year": "2005",
+        "citation": "Plant Disease 89 (7), 705-711, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 143,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=990784606824863760",
+      "cites_id": [
+        "990784606824863760"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of 16S rDNA and 16S/23S intergenic region sequences among citrus greening organisms in Asia",
+        "pub_year": "2000",
+        "citation": "Plant disease 84 (1), 15-18, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 96,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8676891248799102665",
+      "cites_id": [
+        "8676891248799102665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Genetic Diversity Among \u2018Candidatus Liberibacter asiaticus\u2019 Isolates Collected in Southeast Asia",
+        "pub_year": "2009",
+        "citation": "Phytopathology 99 (9), 1062-1069, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 91,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548486679087400226",
+      "cites_id": [
+        "13548486679087400226"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A virus and its vector, pepper yellow leaf curl virus and Bemisia tabaci, two new invaders of Indonesia",
+        "pub_year": "2008",
+        "citation": "Biological Invasions 10, 411-433, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 89,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14363699083734217490",
+      "cites_id": [
+        "14363699083734217490"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and characterization of two entomopathogenic fungi attacking Diaphorina citri (Homoptera, Psylloidea) in Indonesia",
+        "pub_year": "2000",
+        "citation": "Mycoscience 41 (5), 509-513, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:qjMakFHDy7sC",
+      "num_citations": 83,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4369326572960094541",
+      "cites_id": [
+        "4369326572960094541"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interactions between plant nutrition and symptom expression in mandarin trees infected with the disease huanglongbing",
+        "pub_year": "2008",
+        "citation": "Australasian Plant Disease Notes 3, 112-115, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 73,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2262545948770755643",
+      "cites_id": [
+        "2262545948770755643"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Differentiation of \u201cCandidatus Liberibacter asiaticus\u201d Isolates by Variable-Number Tandem-Repeat Analysis",
+        "pub_year": "2011",
+        "citation": "Applied and Environmental Microbiology 77 (5), 1910-1917, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16439153149717264626",
+      "cites_id": [
+        "16439153149717264626"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A SIX1 homolog in Fusarium oxysporum f.sp. cubense tropical race 4 contributes to virulence towards Cavendish banana",
+        "pub_year": "2018",
+        "citation": "PLoS One 13 (10), e0205896, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:LPZeul_q3PIC",
+      "num_citations": 56,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10858808641867960239",
+      "cites_id": [
+        "10858808641867960239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecology, epidemiology and disease management of Ralstonia syzygii in Indonesia",
+        "pub_year": "2018",
+        "citation": "Frontiers in Microbiology 9, 293016, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 50,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18020514552578627389",
+      "cites_id": [
+        "18020514552578627389"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lower concentrations of microelements in leaves of citrus infected with \u2018Candidatus Liberibacter asiaticus\u2019",
+        "pub_year": "2011",
+        "citation": "Japan Agricultural Research Quarterly: JARQ 45 (3), 269-275, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 44,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13131748931864236346",
+      "cites_id": [
+        "13131748931864236346"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH SUBSTITUSI PAKAN ALAMI (TUBIFEX) DAN BUATAN TERHADAP PERTUMBUHANIKAN TILAN LURIK MERAH (Mastacembelus erythrotaenia Bleeker, 1850)[Effect of Substitusion of Life Food \u2026",
+        "pub_year": "2003",
+        "citation": "Jurnal Iktiologi Indonesia 3 (2), 67-72, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:_xSYboBqXhAC",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12133458535221460323",
+      "cites_id": [
+        "12133458535221460323"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi dan karakterisasi Ralstonia syzygii (Isolation and characterization of Ralstonia syzygii)",
+        "pub_year": "2009",
+        "citation": "J. Perlindungan Tanaman Indonesia 15, 7-12, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:aqlVkmm33-oC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9482261891993105641",
+      "cites_id": [
+        "9482261891993105641"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Padat Penebaran Terhadap Pertumbuhan dan Sintasan Dederan Ikan Nila Gift (Oreochromis Niloticus) di Kolam [Effect of Stocking Density on Growth and Survival Rates of \u2026",
+        "pub_year": "2003",
+        "citation": "Jurnal Iktiologi Indonesia 3 (2), 63-66, 2003"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6131413867473975994",
+      "cites_id": [
+        "6131413867473975994"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Assessment of taxonomic affinity of Indonesian pummelo (Citrus maxima (Burm.) Merr.) based on morphological characters.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9576539701881561065",
+      "cites_id": [
+        "9576539701881561065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Olfactory responses of Asiatic Citrus psyllid (Diaphorina citri) to mineral oil treated mandarin leaves",
+        "pub_year": "2012",
+        "citation": "Journal of Nature Studies 10 (2), 32-37, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=574874380011062960",
+      "cites_id": [
+        "574874380011062960"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of iron deficiency on root ferric chelate reductase, proton extrusion, biomass production and mineral absorption of citrus root stock orange jasmine (Murraya exotica L.)",
+        "pub_year": "2014",
+        "citation": "Journal of Plant Nutrition 37 (1), 50-64, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16469354198048207205",
+      "cites_id": [
+        "16469354198048207205"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Red Stripe of Rice Is Caused by a Bacterium Microbacterium sp.",
+        "pub_year": "2000",
+        "citation": "Journal of general plant pathology 66, 149-152, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8031540766251571511",
+      "cites_id": [
+        "8031540766251571511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evolutionary Analysis of the Highly Conserved Insect Odorant Coreceptor (Orco) Revealed a Positive Selection Mode, Implying Functional Flexibility",
+        "pub_year": "2018",
+        "citation": "Journal of Insect Science 18 (6), 18, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:t6usbXjVLHcC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7431652485712215",
+      "cites_id": [
+        "7431652485712215"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biology and culture of the clown loach Chromobotia macracanthus (Cypriniformes, Cobitidae): 1-Hormonal induced breeding, unusual latency response and egg production in two \u2026",
+        "pub_year": "2012",
+        "citation": "Aquatic Living Resources 25 (2), 95-108, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:TIZ-Mc8IlK0C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8267118688342081542",
+      "cites_id": [
+        "8267118688342081542"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geographic expansion of banana blood disease in Southeast Asia",
+        "pub_year": "2021",
+        "citation": "Plant Disease 105 (10), 2792-2800, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:1yQoGdGgb4wC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16389100844808240967",
+      "cites_id": [
+        "16389100844808240967"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Occurrence of Tropical Race 4 of Fusarium oxysporum f. sp. cubense in Indonesia",
+        "pub_year": "2011",
+        "citation": "The Plant Pathology Journal 27 (3), 280-284, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8691957510940050645",
+      "cites_id": [
+        "8691957510940050645"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peranan faktor cuaca terhadap infeksi dan perkembangan penyakit bercak ungu pada bawang merah",
+        "pub_year": "1995",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 1 (1), 56-64, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:k_IJM867U9cC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4732649663341977440",
+      "cites_id": [
+        "4732649663341977440"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Fusarium spp., the causal agent of twisted disease of shallot",
+        "pub_year": "2014",
+        "citation": "XXIX International Horticultural Congress on Horticulture: Sustaining Lives \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14539129015400351665",
+      "cites_id": [
+        "14539129015400351665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Phytophthora palmivora isolates from Indonesia and Japan using rep-PCR and microsatellite markers",
+        "pub_year": "2019",
+        "citation": "Journal of general plant pathology 85, 367-381, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17063396965515159772",
+      "cites_id": [
+        "17063396965515159772"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant response and huanglongbing disease development against heat treatments on \u2018Siam Purworejo\u2019 (Citrus nobilis (Lour)) and \u2018Nambangan\u2019 (C. maxima (Burm \u2026",
+        "pub_year": "2019",
+        "citation": "Archives of Phytopathology and Plant Protection 52 (3-4), 259-276, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:J-pR_7NvFogC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15520376888819916775",
+      "cites_id": [
+        "15520376888819916775"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi molekuler Burkholderia glumae, penyebab penyakit hawar malai padi [Molecular detection of Burkholderia glumae, a causal agent of bacterial panicle blight disease]",
+        "pub_year": "2018",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 22 (1), 98-107, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:8AbLer7MMksC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3382212869456752627",
+      "cites_id": [
+        "3382212869456752627"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of disease and growth on six scion/root stock combinations of citrus seedlings under huanglongbing pressure",
+        "pub_year": "2017",
+        "citation": "Journal of Agricultural Science 9 (6), 229-238, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:a0OBvERweLwC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2075556763940922580",
+      "cites_id": [
+        "2075556763940922580"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Teknologi Pembenihan ikan hias botia (Chromobotia macracanthus Bleeker) skala laboratorium",
+        "pub_year": "2006",
+        "citation": "Loka Riset Budidaya Ikan Hias Air Tawar. Depok, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17710355508373721329",
+      "cites_id": [
+        "17710355508373721329"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent distribution and diversity analysis on banana bunchy top virus of banana and alternative host in Indonesia",
+        "pub_year": "2021",
+        "citation": "Tropical Plant Pathology 46 (5), 506-517, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:JQOojiI6XY0C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=181563604322947104",
+      "cites_id": [
+        "181563604322947104"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of banana bunchy top virus on Sumatra (Indonesia) wild banana",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (3), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7537166422366824681",
+      "cites_id": [
+        "7537166422366824681"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Pengaruh Suhu Air Terhadap Aktivitas Bakteri Bioremediasi (N Ttrosomonas dan N Ttrobacter) Pada Pemeliharaan Benih Ikan Patin Siam (Pangasius hypopthalmus)",
+        "pub_year": "2017",
+        "citation": "Jurnal Penelitian Perikanan Indonesia 11 (7), 59-66, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:D03iK_w7-QYC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5801001284166994258",
+      "cites_id": [
+        "5801001284166994258"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record: A stem and bulb plant parasitic nematode at garlic area centre Temanggung, Central Java, Indonesia with species reference to Ditylenchus dipsaci",
+        "pub_year": "2018",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 22 (2), 233-237, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18039098752150972947",
+      "cites_id": [
+        "18039098752150972947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of Pantoea ananatis Isolated from Garlic and Shallot Karakterisasi Pantoea ananatis yang Diisolasi dari Bawang Putih dan Bawang Merah",
+        "pub_year": "2017",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 21 (2), 120-126, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:SP6oXDckpogC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7890475807931530086",
+      "cites_id": [
+        "7890475807931530086"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Control of fusarium wilt of banana by using Trichoderma harzianum and resistant banana cultivars.",
+        "pub_year": "2013",
+        "citation": "Acta horticulturae, 173-177, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15536275051179585770",
+      "cites_id": [
+        "15536275051179585770"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Occurence of bacterial soft-rot of Phalaenopsis orchids in Yogyakarta and West Java, Indonesia",
+        "pub_year": "2011",
+        "citation": "Proceeding of Internasional Seminar on \u201cNatural Resources, Climate Change \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10813800257968919057",
+      "cites_id": [
+        "10813800257968919057"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution of two distinct genotypes of citrus greening organism in the Ryukyu Islands of Japan",
+        "pub_year": "2010",
+        "citation": "Japan Agricultural Research Quarterly: JARQ 44 (2), 151-158, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7380585020652767596",
+      "cites_id": [
+        "7380585020652767596"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Role of Extracellular Protein on the Pathogenicity of Xanthomonas campestris pv. citri",
+        "pub_year": "2000",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 6 (1), 32-38, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=880439854518085326",
+      "cites_id": [
+        "880439854518085326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and molecular identification of Colletotrichum spp. associated with chili anthracnose disease in Yogyakarta Region",
+        "pub_year": "2020",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 24 (2), 161-174, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=73823712863598802",
+      "cites_id": [
+        "73823712863598802"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Increasing Soil Suppressivity to Fusarium Wilt Of Banana Through Banana Intercropping with Allium spp.",
+        "pub_year": "2016",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 19 (1), 33-39, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5092833034026300700",
+      "cites_id": [
+        "5092833034026300700"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymerase Chain Reaction untuk Deteksi atau Identifikasi Patogen Tumbuhan",
+        "pub_year": "2006",
+        "citation": "Beberapa Metode Ekstraksi DNA. Pelatihan dan Workshop Identifikasi DNA \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15872799140495513509",
+      "cites_id": [
+        "15872799140495513509"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diagnostics of banana blood disease",
+        "pub_year": "2022",
+        "citation": "Plant Disease 106 (3), 947-959, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:_Re3VWB3Y0AC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=754496845152106126",
+      "cites_id": [
+        "754496845152106126"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of Phytophthora nicotianae reveals pathogen transmission mode in Japan",
+        "pub_year": "2019",
+        "citation": "Journal of general plant pathology 85, 189-200, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:eflP2zaiRacC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2421577251668053242",
+      "cites_id": [
+        "2421577251668053242"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan teknik pembenihan buatan ikan hias Botia, Chromobotia macracanthus (Bleeker)",
+        "pub_year": "2016",
+        "citation": "Jurnal Riset Akuakultur 2 (2), 135-142, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:gsN89kCJA0AC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2186758428913474538",
+      "cites_id": [
+        "2186758428913474538"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi penyakit bacterial fruit blotch pada melon menggunakan ELISA",
+        "pub_year": "2015",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 19 (1), 1-5, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8920780084001911197",
+      "cites_id": [
+        "8920780084001911197"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi Resisten terhadap CVPD (Citrus Vein Phloem Degeneration) dengan Metode Transformasi Menggunakan Agrobacterium tumefaciens",
+        "pub_year": "2000",
+        "citation": "Laporan Riset Unggulan Terpadu V. Universitas Udayana. Denpasar, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:pyW8ca7W8N0C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=35005768721426533",
+      "cites_id": [
+        "35005768721426533"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of purple blotch pathogen of shallot by PCR using specific primer for Alternaria genus",
+        "pub_year": "2018",
+        "citation": "Archives of Phytopathology and Plant Protection 51 (3-4), 103-121, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14508780010191442178",
+      "cites_id": [
+        "14508780010191442178"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi dan identifikasi virus-virus yang menginfeksi bawang merah di Kabupaten Bantul, Yogyakarta",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (5), 961-968, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14282075689892715623",
+      "cites_id": [
+        "14282075689892715623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Erionota thrax sebagai agen penyebar patogen penyebab penyakit layu bakteri pada tanaman pisang (blood disease bacterium)",
+        "pub_year": "2006",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 6 (2), 100-106, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6952258335484169331",
+      "cites_id": [
+        "6952258335484169331"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemurnian dan deteksi serologi Patchouli mottle virus pada tanaman nilam",
+        "pub_year": "2006",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 12 (2), 74-82, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ufrVoPGSRksC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10926049288746067304",
+      "cites_id": [
+        "10926049288746067304"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial wilt disease complex of banana in Indonesia.",
+        "pub_year": "2005",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17419481281482482475",
+      "cites_id": [
+        "17419481281482482475"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of reduced and oxidized antioxidants in Hevea brasiliensis latex reveals new insights into the regulation of antioxidants in response to harvesting stress and tapping \u2026",
+        "pub_year": "2022",
+        "citation": "Heliyon 8 (7), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:uJ-U7cs_P_0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7143176457074124725",
+      "cites_id": [
+        "7143176457074124725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection and identification of banana-associated phytoplasma using nested-PCR method",
+        "pub_year": "2019",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 23 (1), 148-155, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3970011248660037769",
+      "cites_id": [
+        "3970011248660037769"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan antara frekuensi kedatangan imago Erionota thrax pada bunga pisang dan keterjadian penyakit layu bakteri pisang pada lahan sawah, tegalan dan pekarangan",
+        "pub_year": "2008",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 8 (1), 47-54, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5267726037059914953",
+      "cites_id": [
+        "5267726037059914953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenological growth stage of tropical shallot (Allium cepa L. Aggregatum group) planted from seed in lowland area based on the BBCH scale",
+        "pub_year": "2023",
+        "citation": "Annals of Applied Biology 182 (2), 257-266, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6033799108705886725",
+      "cites_id": [
+        "6033799108705886725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antagonistic potential of endophytic bacteria against Phytophthora palmivora causing black pod rot disease on cacao (Theobroma cacao L.) in Indonesia.",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:dQ2og3OwTAUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5311920071608825495",
+      "cites_id": [
+        "5311920071608825495"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological and Molecular Characterization of Rhizoctonia solani Isolates from Two Different Rice Varieties Karakterisasi Morfologi dan Molekuler Isolat Rhizoctonia solani \u2026",
+        "pub_year": "2017",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 21 (2), 72-79, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:UxriW0iASnsC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5307229676510338968",
+      "cites_id": [
+        "5307229676510338968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi virus terbawa umbi benih pada bawang merah kultivar Biru Bantul",
+        "pub_year": "2016",
+        "citation": "Jurnal Fitopatologi Indonesia 12 (5), 185-185, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16560367100889313666",
+      "cites_id": [
+        "16560367100889313666"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elimination of shallot bulb viruses through heat treatment",
+        "pub_year": "2015",
+        "citation": "Indonesian Journal of Biotechnology 20 (2), 133-140, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8633366629070620160",
+      "cites_id": [
+        "8633366629070620160"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Colonization of Asiatic citrus psyllid and Huanglongbing development on Citrus and Citrus relatives in Indonesia",
+        "pub_year": "2008",
+        "citation": "Proc Int Res Conf 1 (393), 1, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:p2g8aNsByqUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3849929817251463341",
+      "cites_id": [
+        "3849929817251463341"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of altitude and wounding on blood disease progress of plantain",
+        "pub_year": "2007",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 7 (2), 111-116, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ye4kPcJQO24C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7605930749350999874",
+      "cites_id": [
+        "7605930749350999874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microsatellite polymorphism for molecular characterization of pomelo (Citrus maxima) accessions from Indonesia:-",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (6), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9198559169673129158",
+      "cites_id": [
+        "9198559169673129158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The inhibition of Tobamovirus by using the extract of banana flower",
+        "pub_year": "2018",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 22 (2), 181-185, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9306591442960219188",
+      "cites_id": [
+        "9306591442960219188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi dan Deteksi Cepat Bakteri Penyebab Penyakit Darah pada Pisang",
+        "pub_year": "2011",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 17 (1), 26-30, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:TFP_iSt0sucC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=643686466700477089",
+      "cites_id": [
+        "643686466700477089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan ketahanan tanaman pisang kepok kuning terhadap penyakit darah melalui variasi somaklonal dan simbiosis endofitik",
+        "pub_year": "2010",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 16 (1), 15-21, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:70eg2SAEIzsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8472119304755215933",
+      "cites_id": [
+        "8472119304755215933"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Mineral Oils on Host Selection Behavior of Diaphorina citri",
+        "pub_year": "2008",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 14 (1), 23-28, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:hMod-77fHWUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=804320649412889658",
+      "cites_id": [
+        "804320649412889658"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transmission of blood disease in banana",
+        "pub_year": "2022",
+        "citation": "Plant Disease 106 (8), 2155-2164, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:35r97b3x0nAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13236342991917638753",
+      "cites_id": [
+        "13236342991917638753"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Draft Genome Sequence of Ralstonia syzygii subsp. celebesensis from Indonesia, the Causal Agent of Blood Disease of Banana",
+        "pub_year": "2022",
+        "citation": "Phytopathology\u00ae 112 (7), 1584-1586, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:XD-gHx7UXLsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15926439586730424229",
+      "cites_id": [
+        "15926439586730424229"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pathogenicity and detection of phytohormone (gibberellic acid and indole acetic acid) produced by Fusarium spp. that causes twisted disease in shallot",
+        "pub_year": "2021",
+        "citation": "Jurnal Proteksi Tanaman 5 (1), 24-33, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Fu2w8maKXqMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4561603894854421328",
+      "cites_id": [
+        "4561603894854421328"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Responses of four shallot (Allium cepa L. aggregatum group) cultivars to moler disease (Fusarium spp.) after bulb treatment",
+        "pub_year": "2015",
+        "citation": "VII International Symposium on Edible Alliaceae 1143, 69-76, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:RGFaLdJalmkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13336795169972285400",
+      "cites_id": [
+        "13336795169972285400"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dukungan kelestarian keanekaragaman me-lalui produksi larva ikan rainbow kurumoi Melanotaenia parva pada ukuran induk ber-beda. Editor Setyawan AD, Sugiyarto, Pito-yo A \u2026",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (5), 1227-1232, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3085218976049548665",
+      "cites_id": [
+        "3085218976049548665"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of silica and manure addition into suppressive and conducive soil on the incidence of fusarium wilt disease of banana",
+        "pub_year": "2012",
+        "citation": "VIII International Symposium on Banana: International Symposium on Banana \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4220468036052585632",
+      "cites_id": [
+        "4220468036052585632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMIJAHAN LARVA RAINBOW MERAH Glossolepis incisus dan RAIBOW BOYSEMANI Melanotaenia boesemani",
+        "pub_year": "2011",
+        "citation": "Prosiding FORUM INOVASI TEKNOLOGI AKUAKULTUR 1 (1), 55-58, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:rO6llkc54NcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1351985804850152865",
+      "cites_id": [
+        "1351985804850152865"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incidence of twisted disease and cultivation practice of shallot farmers in Bantul coastal area, Yogyakarta, Indonesia",
+        "pub_year": "2023",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 23 (1), 23-30, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9428183339333921045",
+      "cites_id": [
+        "9428183339333921045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Description and Pathogenicity of Colletotrichum species causing chili anthracnose in Yogyakarta, Indonesia",
+        "pub_year": "2022",
+        "citation": "AGRIVITA Journal of Agricultural Science 44 (2), 312-321, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:9Nmd_mFXekcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4076137118197438472",
+      "cites_id": [
+        "4076137118197438472"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population genetics analysis of Phytophthora nicotianae associated with heart rot in pineapple revealed geneflow between population",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (8), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:NJ774b8OgUMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18443376859983898743",
+      "cites_id": [
+        "18443376859983898743"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptomic data of the Musa balbisiana cultivar Kepok inoculated with Ralstonia syzigii subsp. celebesensis and Ralstonia solanacearum",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105366, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:_B80troHkn4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8174131592399466190",
+      "cites_id": [
+        "8174131592399466190"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data on banana transcriptome in response to blood disease infection",
+        "pub_year": "2020",
+        "citation": "Data in brief 29, 105133, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12224701834125530466",
+      "cites_id": [
+        "12224701834125530466"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNA-seq data of banana bunchy top virus (BBTV) viruliferous and non-viruliferous banana aphid (Pentalonia nigronervosa)",
+        "pub_year": "2020",
+        "citation": "Data in brief 28, 104860, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:HE397vMXCloC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9163834427473304866",
+      "cites_id": [
+        "9163834427473304866"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemotaxonomy of Indonesian Citrus maxima based on leaf essential oils",
+        "pub_year": "2016",
+        "citation": "OnLine Journal of Biological Sciences 16 (1), 26-33, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:hkOj_22Ku90C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4217559999225127912",
+      "cites_id": [
+        "4217559999225127912"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prevalensi nematoda parasit pada pertanaman pisang di daerah istimewa Yogyakarta",
+        "pub_year": "2011",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 17 (1), 36-40, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:isC4tDSrTZIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5116690350095573980",
+      "cites_id": [
+        "5116690350095573980"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular identification of Colletotrichum gloeosporioides causing anthracnose on shallot in Bantul, Yogyakarta, Indonesia",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (8), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:tYavs44e6CUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9771388851548954458",
+      "cites_id": [
+        "9771388851548954458"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VARIABILITAS MORFOLOGI Rhizoctonia solani PENYEBAB PENYAKIT HAWAR PELEPAH PADI DI SULAWESI SELATAN: MORPHOLOGICAL VARIABILITY OF Rhizoctonia solani CAUSES OF RICE SHEATH BLIGHT \u2026",
+        "pub_year": "2021",
+        "citation": "Jurnal Agrisistem 17 (1), 40-45, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:uLbwQdceFCQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17868833668610429147",
+      "cites_id": [
+        "17868833668610429147"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reversing the impact of banana blood disease in Indonesia",
+        "pub_year": "2020",
+        "citation": "Brisbane (AU): APBSF Project Final Report PBSF016, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2605635747050737539",
+      "cites_id": [
+        "2605635747050737539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric variation of Phytophthora palmivora causing black pod rot disease on cocoa (Theobroma cacao L.) in Indonesia.",
+        "pub_year": "2019",
+        "citation": "Plant Pathology Journal (Faisalabad) 18 (1), 1-11, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:PR6Y55bgFSsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12836849933596151477",
+      "cites_id": [
+        "12836849933596151477"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detection and identification of viruses infecting onion crops in Bantul District, Yogyakarta",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (5), 961-968, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:NhqRSupF_l8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3857766695704722376",
+      "cites_id": [
+        "3857766695704722376"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of genetic diversity among \u2018",
+        "pub_year": "2009",
+        "citation": "Candidatus, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:tKAzc9rXhukC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2494893951594121572",
+      "cites_id": [
+        "2494893951594121572"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insidensi Diaphorina citri dan CVPD pada tanaman jeruk interplanting jambu biji",
+        "pub_year": "2007",
+        "citation": "Prosiding Seminar Nasional Jeruk, 372, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:-f6ydRqryjwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6212201571512239389",
+      "cites_id": [
+        "6212201571512239389"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Organogenic regeneration of transgenic plant by Agrobacterium-mediated DNA transformation of citrus",
+        "pub_year": "1999",
+        "citation": "Procc. Inter. Seminar on Plant Mol. Biol, 31-36, 1999"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Se3iqnhoufwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12409447368051886913",
+      "cites_id": [
+        "12409447368051886913"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A meta-analysis of latex physiology studies reveals limited adoption and difficulties to interpret some latex diagnosis parameters in Hevea brasiliensis",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (2), 358-371, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9611328256606168529",
+      "cites_id": [
+        "9611328256606168529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Symptom expression and resistance of some banana cultivars to banana bunchy top virus infection",
+        "pub_year": "2022",
+        "citation": "Agriculture and Natural Resources 56 (5), 1019\u20131028-1019\u20131028, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:URolC5Kub84C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3500182419436044773",
+      "cites_id": [
+        "3500182419436044773"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "High Altitudes Limit The Incidence of Huanglongbing snd Its Vector, Diaphorina Citri, in Citrus Orchards",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1018 (1), 012019, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:t7zJ5fGR-2UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17954132388063639374",
+      "cites_id": [
+        "17954132388063639374"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration of core endophytic bacteria from different organs of diploid Musa balbisiana and triploid Musa acuminata",
+        "pub_year": "2021",
+        "citation": "Agriculture and Natural Resources 55 (5), 787\u2013794-787\u2013794, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:evX43VCCuoAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2356767116128080842",
+      "cites_id": [
+        "2356767116128080842"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variations of morphology, anatomy, and metabolite profiles of Citrus reticulata Blanco cv. Tawangmangu grafts produced by shoot tip grafting using several rootstocks",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (10), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16288386572193439368",
+      "cites_id": [
+        "16288386572193439368"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrated crop production of bananas in Indonesia and Australia",
+        "pub_year": "2019",
+        "citation": "ACIAR, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:WA5NYHcadZ8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12792329531937650839",
+      "cites_id": [
+        "12792329531937650839"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kadar hara pada penambahan pupuk kandang dan silika pada tanah supresif dan kondusif layu fusarium pada pisang",
+        "pub_year": "2018",
+        "citation": "Plumula: Berkala Ilmiah Agroteknologi 6 (2), 93-103, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13039482728781904053",
+      "cites_id": [
+        "13039482728781904053"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dispersal of banana blood disease in Southeast Asia",
+        "pub_year": "2018",
+        "citation": "Phytopathology 108 (10), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14006160321480516915",
+      "cites_id": [
+        "14006160321480516915"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pulsed Field Gel Electrophoresis (PFGE): a DNA finger printing technique to study the genetic diversity of blood disease bacterium of banana",
+        "pub_year": "2011",
+        "citation": "Biodiversitas Journal of Biological Diversity 12 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13749577348212415136",
+      "cites_id": [
+        "13749577348212415136"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Jenis Mangsa dan Suhu pada Perkembangan Menochilus sexmaculatus Fabricius (Coleoptera: Coccinellidae) dan Peranannya dalam Pengendalian Diaphorina citri Kuwayama \u2026",
+        "pub_year": "2008",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 14 (1), 29-34, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:blknAaTinKkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2267164382063583147",
+      "cites_id": [
+        "2267164382063583147"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Resources of Rutaceous Plants against the Psyllid Vector Preference and Pathogen Transmission of Huanglongbing",
+        "pub_year": "2007",
+        "citation": "The Conservation and Utilization of Tropical/Subtropical Plant Genetic Resources, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15587316463932676894",
+      "cites_id": [
+        "15587316463932676894"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of climatic factors on the infection and development of the purple blotch of shallot",
+        "pub_year": "1995",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia= Indonesian Journal of Plant \u2026, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:roLk4NBRz8UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9473984669835189392",
+      "cites_id": [
+        "9473984669835189392"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression of SIX1b and SIX1c effector genes and banana resistance genes during Foc TR4 infection on banana cultivars",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (10), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:uWiczbcajpAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3775357779671079888",
+      "cites_id": [
+        "3775357779671079888"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular identification of oomycetes related to horticultural crops in Southern Sumatera and Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 22 (2), 90-99, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:nrtMV_XWKgEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11091137775095841232",
+      "cites_id": [
+        "11091137775095841232"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Susceptibility of the banana inflorescence to blood disease",
+        "pub_year": "2022",
+        "citation": "Phytopathology\u00ae 112 (4), 803-810, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ZfRJV9d4-WMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15036192438410277538",
+      "cites_id": [
+        "15036192438410277538"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Manuka honey reduces the virulence of Pectobacterium brasiliense by suppressing genes that encode plant cell wall-degrading enzymes",
+        "pub_year": "2022",
+        "citation": "ASEAN Journal on Science and Technology for Development 39 (3), 119-124, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:BUYA1_V_uYcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15574476597023499986",
+      "cites_id": [
+        "15574476597023499986"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RNA-seq data of tea mosquito bugs, Helopeltis bradyi, antennae",
+        "pub_year": "2021",
+        "citation": "Data in Brief 38, 107302, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:7T2F9Uy0os0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11521810635172404498",
+      "cites_id": [
+        "11521810635172404498"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The expression of pathogenicity-related genes in Phytophthora palmivora causing black pod rot disease on cacao (Theobroma cacao L.) in Indonesia",
+        "pub_year": "2021",
+        "citation": "Journal of Plant Interactions 16 (1), 284-295, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:kzcrU_BdoSEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5831761154743819236",
+      "cites_id": [
+        "5831761154743819236"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mosquitoes repellent potency of four species plants belong to Rutaceae family",
+        "pub_year": "2020",
+        "citation": "AIP Conference Proceedings 2260 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:UHK10RUVsp4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15246126215515887620",
+      "cites_id": [
+        "15246126215515887620"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effectiveness and Bacterial Communities of Biofertilizer Application for Huanglongbing Disease Control in Indonesia",
+        "pub_year": "2019",
+        "citation": "ISH 2018, 80, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:zLWjf1WUPmwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6232477503282156873",
+      "cites_id": [
+        "6232477503282156873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SIKLUS REPRODUKSI TAHUNAN IKAN RINGAN, TIGER FISH (Datnioides quadrifasciatus) DI LINGKUNGAN BUDIDAYA AKUARIUM DAN BAK",
+        "pub_year": "2018",
+        "citation": "Prosiding FORUM INOVASI TEKNOLOGI AKUAKULTUR, 417-424, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:738O_yMBCRsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9111178173306778123",
+      "cites_id": [
+        "9111178173306778123"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implantasi hormon terhadap kematangan gonad ikan tilan merah (Mastacembelus erythrotaenia)",
+        "pub_year": "2018",
+        "citation": "Prosiding Forum Inovasi Teknologi Akuakultur, 447-452, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:WbkHhVStYXYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7313680167864362121",
+      "cites_id": [
+        "7313680167864362121"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of some specific primer sets development for detecting Fusarium oxysporum f. sp. cubense Tropic Race 4 (Foc TR4) originating from Indonesia",
+        "pub_year": "2018",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 22 (1), 82-90, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:geHnlv5EZngC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5233372785999096513",
+      "cites_id": [
+        "5233372785999096513"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Agensia Bermanfaat dan Paket Pemupukan Magnesium, Boron dan Silikon terhadap Hasil dan Kualitas Buah Pisang Mas (Musa acuminata L.)",
+        "pub_year": "2016",
+        "citation": "Vegetalika 5 (4), 37-49, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:f2IySw72cVMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13224833351399105180",
+      "cites_id": [
+        "13224833351399105180"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relations between behavior of HLB and Iron application to Citrus trees",
+        "pub_year": "2014",
+        "citation": "Journal of Citrus Pathology, 1 (1), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813282379306306526",
+      "cites_id": [
+        "5813282379306306526"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENETICS DIVERSITY ANALYSIS OF SIX DIFFERENCE VARIETIES OF PUMMELO (Citrus maxima (Burm.) Merr.) FOR RESISTANCE TO HUANGLONGBING USING RAPD MARKERS",
+        "pub_year": "2012",
+        "citation": "Vegetalika 1 (2), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Zph67rFs4hoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17029737229784611494,14040954538829022881",
+      "cites_id": [
+        "17029737229784611494",
+        "14040954538829022881"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "NILAI NUTRISI LIMBAH FILLET IKAN NILA SEBAGAI BAHAN BAKU PAKAN IKAN",
+        "pub_year": "2011",
+        "citation": "Prosiding FORUM INOVASI TEKNOLOGI AKUAKULTUR 1 (1), 837-843, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14936563056530022511",
+      "cites_id": [
+        "14936563056530022511"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGAMATAN PEMELIHARAAN TIGA JENIS LARVA RAINBOW (ASAL DANAU KURUMOI, SUNGAI SAWIAT; DAN SUNGAI GELAP) DALAM AKUARIUM",
+        "pub_year": "2011",
+        "citation": "Prosiding Forum Inovasi Teknologi Akuakultur 1 (1), 51-54, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15135023468806741887",
+      "cites_id": [
+        "15135023468806741887"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi dan Diferensiasi Virus Kerdil Pisang dengan Teknik PCR-RFLP",
+        "pub_year": "2010",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 16 (1), 1-5, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3062407918698238143",
+      "cites_id": [
+        "3062407918698238143"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transformasi cDNA Gen 1-Aminosiklopropan-1-Asam Karboksilat Oksidase untuk Penundaan Kematangan Buah Pepaya Dampit dan Sarirona",
+        "pub_year": "2004",
+        "citation": "Jurnal Hortikultura 14 (2), 76-83, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14981176618588411231",
+      "cites_id": [
+        "14981176618588411231"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstraksi DNA Phytophthora palmivora Isolat Kelapa",
+        "pub_year": "1996",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 2 (1), 1-4, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:maZDTaKrznsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2568912861268792493",
+      "cites_id": [
+        "2568912861268792493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Influence of some Environmental Factors and Isolate Variability on the Development of Peanut Bacterial Wilt Caused by Pseudomonas solanacearum",
+        "pub_year": "1992",
+        "citation": "Peanut Improvement: A Case Study in Indonesia, 26, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5010224241626428219",
+      "cites_id": [
+        "5010224241626428219"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Association of soil bacterial diversity and composition with Fusarium wilt disease of bananas in Yogyakarta Province, Indonesia",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (5), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:S16KYo8Pm5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rubber-Based Agroforestry Systems Associated with Food Crops: A Solution for Sustainable Rubber and Food Production?",
+        "pub_year": "2024",
+        "citation": "Preprints, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:e_rmSamDkqQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natural Infection of Murraya paniculata and Murraya sumatrana with CLas in Java",
+        "pub_year": "2024",
+        "citation": "Plant Disease, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:WZBGuue-350C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enrichment of organic material with Trichoderma asperellum for the management of twisted disease on shallot",
+        "pub_year": "2024",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 24 (1), 28-37, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:LI9QrySNdTsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Response of five shallot varieties applied with Bacillus spp. against twisted disease",
+        "pub_year": "2024",
+        "citation": "Jurnal Hama dan Penyakit Tumbuhan Tropika 24 (1), 17-27, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:lmc2jWPfTJgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Participatory plant breeding, what approach for rubber trees?",
+        "pub_year": "2024",
+        "citation": "IRRDB, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:M7yex6snE4oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First report of Tea plant necrotic ring blotch virus in Indonesian tea plantations.",
+        "pub_year": "2024",
+        "citation": "New Disease Reports 49 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:k8Z6L05lTy4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and molecular detection of Arbuscular Mycorrhizal Fungi colonized naturally in citrus roots in nurseries",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:tuHXwOkdijsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Field and Laboratory Detection of Clove Sumatra Disease Caused by Ralstonia syzygii subsp. syzygii in Java, Indonesia.",
+        "pub_year": "2023",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 46 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:L7CI7m0gUJcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration, Screening, and Application of Silica Solubilizing Bacteria and Silica Fertilizer to Suppress Fusarium Wilt Disease in Abaca",
+        "pub_year": "2023",
+        "citation": "Jurnal Fitopatologi Indonesia 19 (3), 111-117, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:hMsQuOkrut0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekplorasi, Skrining, dan Aplikasi Bakteri Pelarut Silika dan Pupuk Silika untuk Menekan Perkembangan Penyakit Layu Fusarium pada Pisang Abaka.",
+        "pub_year": "2023",
+        "citation": "Jurnal Fitopatologi Indonesia 19 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:KUbvn5osdkgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Primer Design of Volatile Synthesis Coding Genes in Ralstonia syzygii subsp. celebesensis",
+        "pub_year": "2023",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 27 (2), 86-92, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:oNZyr7d5Mn4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nuisance Insects of Rearing mass Asian Citrus Psyllid (ACP) Diaphorina citri Under Controlled Conditions",
+        "pub_year": "2023",
+        "citation": "BIO Web of Conferences 80, 07005, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:MLfJN-KU85MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "HAY AT I",
+        "pub_year": "2023",
+        "citation": "Journal of Biosciences 30 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:b1wdh0AR-JQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidants regulation in latex in response to harvesting stress and tapping panel dryness",
+        "pub_year": "2023",
+        "citation": "IRRDB, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:vbGhcppDl1QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RUBIS: a rubber agroforestry breeding initiative for smallholders in Indonesia",
+        "pub_year": "2023",
+        "citation": "IRRDB, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:p__nRnzSRKYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Banana Bunchy Top Virus Molecular Confirmation and DNA-S Phylogenetic of some Banana Isolates from Indonesia",
+        "pub_year": "2023",
+        "citation": "HAYATI Journal of Biosciences 30 (1), 53-64, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:AvfA0Oy_GE0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turnitin-Morphological and Molecular Characterization of Rhizoctonia solani Isolates from Two Different Rice Varieties.",
+        "pub_year": "2022",
+        "citation": "FPP UNDIP, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:VLnqNzywnoUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Biological Control Agents on Paddy Soil Bacterial Community Structure",
+        "pub_year": "2022",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 26 (1), 67-77, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:epqYDVWIO7EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Bakteri Endofit Asal Tanaman Pisang Klutuk (Musa balbisiana Colla) Sebagai Pendukung Pertumbuhan Tanaman",
+        "pub_year": "2021",
+        "citation": "Al-Kauniyah: Jurnal Biologi 14 (2), 313-324, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:2KloaMYe4IUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Statement of Peer review",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:kuK5TVdYjLIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rubber agroforestry Breeding Initiative for Smallholders (RUBIS) A participatory breeding initiative for resilient rubber cultivation systems for smallholders in a context of \u2026",
+        "pub_year": "2021",
+        "citation": "RUBIS International Workshop on the Resilience of Rubber-based Agroforestry \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:-FonjvnnhkoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A participatory breeding initiative for resilient rubber cultivation systems for smallholders in a context of global change",
+        "pub_year": "2021",
+        "citation": "E3S Web of Conferences 305, 01001, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:tzM49s52ZIMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hyper-solubilizing tricalcium phosphate mutants of Klebsiella sp. GMD08",
+        "pub_year": "2020",
+        "citation": "BIOTROPIA 27 (3), 238-247, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:olpn-zPbct0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Study of Root Colonization and Diversity of Arbuscular Mycorrhizal Fungi (AMF) Associated with Lesser Yam (Dioscorea esculenta)",
+        "pub_year": "2020",
+        "citation": "Journal of Physics: Conference Series 1665 (1), 012017, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:5awf1xo2G04C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Role of Nanochitosan on the Expression of Rice Resistance Genes against Bacterial Leaf Blight",
+        "pub_year": "2020",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 24 (2), 115-121, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:WqliGbK-hY8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The utilization of maggot meal and earthworm meal ratios for reproductive improvement of kurumoi rainbowfish (Melanotaenia parva) Broodstock",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BACTERIAL COMMUNITY DETECTION IN MALE AND FEMALE DIAPHORINA CITRI, HUANGLONGBING DISEASE VECTOR IN CITRUS USING PCR-RISA",
+        "pub_year": "2017",
+        "citation": "AGROISTA: Jurnal Agroteknologi 1 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEK TEKANAN OSMOTIK MEDIA TERHADAP SINTASAN IKAN SUMPIT (Toxotes spp.)",
+        "pub_year": "2017",
+        "citation": "Prosiding FORUM INOVASI TEKNOLOGI AKUAKULTUR, 283-288, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMELIHARAAN INDUK TILAN MERAH (Mastacembelus erythrotaenia) DALAMSUHU YANGBERBEDA",
+        "pub_year": "2017",
+        "citation": "Prosiding FORUM INOVASI TEKNOLOGI AKUAKULTUR, 243, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DETEKSI KOMUNITAS BAKTERI PADA DIAPHORINA CITRI JANTAN DAN BETINA, VEKTOR PENYAKIT HUANGLONGBING PADA JERUK MENGGUNAKAN PCR-RISA",
+        "pub_year": "2017",
+        "citation": "AGROISTA: Jurnal Agroteknologi 1 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:z_wVstp3MssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effort for the preservation of biodiversity through the production of larvae of kurumoi rainbow fish (Melanotaenia parva) at different size of the broodstock",
+        "pub_year": "2015",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 1 (5), 1227-1232, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:abG-DnoFyZgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nutrient budgeting of shallot (Allium cepa L. Aggregatum group) in Central and East Java, Indonesia",
+        "pub_year": "2015",
+        "citation": "VII International Symposium on Edible Alliaceae 1143, 321-326, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The assessment of genetic variability and taxonomic affinity of local pummelo accessions from Yogyakarta, Indonesia based on RAPD",
+        "pub_year": "2014",
+        "citation": "Indonesian Journal of Biotechnology 19 (2), 153-158, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MENGENAL KEGIATAN BUDIDAYA TANAMAN AIR DAN PRODUKSI ASESORIS AQUASCAPE DI DESA GUNUNG BUNDER 2, BOGOR, JAWA BARAT",
+        "pub_year": "2011",
+        "citation": "Prosiding FORUM INOVASI TEKNOLOGI AKUAKULTUR 1 (1), 297-302, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:u_35RYKgDlwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGAMATAN PEMELIHARAAN TIGA JENIS BENIH RAINBOW ASAL PAPUA PADA JARING DI KOLAM TANAH",
+        "pub_year": "2011",
+        "citation": "Prosiding FORUM INOVASI TEKNOLOGI AKUAKULTUR 1 (1), 71-77, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:zA6iFVUQeVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular and Biochemical Detection of Fusarium Oxysporum f. sp. cubense as the Pathogen of Fusarium Wilt Disease on Banana (Musa spp.)",
+        "pub_year": "2010",
+        "citation": "Jurnal Hortikultura Indonesia 1 (1), 40-45, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Control of Fusarium Wilt of Banana by Using Trichoderma harzianum and Resistant Banana Cultivars",
+        "pub_year": "2008",
+        "citation": "IV International Symposium on Tropical and Subtropical Fruits 975, 173-177, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan Antara Aktivitas Poligalakturonase dengan Virulensi RAS 4 Fusarium oxysporum f. sp. cubense",
+        "pub_year": "2008",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia 14 (1), 15-22, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PERKEMBANGAN PENELITIAN CVPD DI UNIVERSITAS GADJAH MADA",
+        "pub_year": "2007",
+        "citation": "Prosiding Seminar Nasional Jeruk, 54, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spread of Citrus Greening in Japan and Molecular Characterization of Candidatus Liberibacter Asiaticus",
+        "pub_year": "2006",
+        "citation": "\ud55c\uad6d\uc6d0\uc608\ud559\ud68c \uae30\ud0c0\uac04\ud589\ubb3c, 443-444, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Thiacloprid, Diafenthiuron, dan Petroleum Spray oil untuk pengelolaan Bemisia Tabaci dan Penyakit Kuning= The Effectiveness of Thiacloprid, Diafenthiuron, and Petroleum",
+        "pub_year": "2005",
+        "citation": "Agrosains 18 (2005), 2005"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengimbasan Ketahanan Pisang Terhadap Penyakit Layu Bakteri (Raistonia solanacearum) Dengan Pseudomonas Cepacia= Induced Resistance of Banana to Bacterial Wilt (Ralstonia \u2026",
+        "pub_year": "2002",
+        "citation": "Agrosains 15 (2002), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BACTERIAL DISEASES-Red Stripe of Rice is Caused by a Bacterium Microbacterium sp",
+        "pub_year": "2000",
+        "citation": "Journal of General Plant Pathology 66 (2), 149-152, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:kz9GbA2Ns4gC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization and biological control of citrus greening disease",
+        "pub_year": "2000",
+        "citation": "\u5c90\u961c\u5927\u5b66, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of extracellular protein on the pathogenicity of xanthomonas campestris pv. Citri: Peranan protein ekstrasel terhadap patogenisitas xanthomonas campestris pv. Citri",
+        "pub_year": "2000",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia (Indonesian, Journal of Plant \u2026, 2000"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Extraction of DNA Phytophthora palmivora coconut isolate",
+        "pub_year": "1996",
+        "citation": "Jurnal Perlindungan Tanaman Indonesia= Indonesian Journal of Plant \u2026, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transmission of citrus vein phloem degeneration (CVPD) to periwinkle through dodder.",
+        "pub_year": "1994",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use Of Pulse Field GelElectrophoresis For Megaplasmid",
+        "pub_year": "1994",
+        "citation": "Ilmu Pertanian 5 (1994), 1994"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial Wilt of Peanut Caused by Pseudomonas Solanacearum EF Smith",
+        "pub_year": "1991",
+        "citation": "University of Queensland, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fingerprint analysis of DNA fragments of Pseudomonas solanacearum EF Smith isolates",
+        "pub_year": "1991",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virulence screening and the influence of temperature regime on the interaction of some isolates of Pseudomonas solanacearum EF Smith with peanut (Arachis hypogaea L.)",
+        "pub_year": "1990",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The influence of temperature regime on the interaction of some isolates of Pseudomonas solanacearum with peanut (Arachis hypogaea L.).",
+        "pub_year": "1990",
+        "citation": "ACIAR Proceedings Series, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular and Biochemical Detection of Fusarium Oxysporum F. sp. Cubense as the Causal Pathogen of Fusarium Wilt Disease on Banana (Musa Spp.)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:g3aElNc5_aQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Root Colonization And Diversity Of Arbuscular Mycorrhyzal Fungi Associated With Lesser Yam (Dioscorea esculenta)",
+        "citation": "WELCOME MESSAGE RECTOR OF UNIVERSITAS BRAWIJAYA, 61, 0"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Use Of Pulse Field GelElectrophoresis For Megaplasmid Isolatioan Of Pseudomonas solanacearum",
+        "citation": "Ilmu Pertanian (Agricultural Science) 5 (4), 0"
+      },
+      "filled": false,
+      "author_pub_id": "sXRwcrIAAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 8,
+    "not_available": 0
+  }
+}

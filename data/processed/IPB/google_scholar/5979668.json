@@ -1,0 +1,597 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "DouCTt4AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Syaefudin",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DouCTt4AAAAJ&citpid=7",
+  "affiliation": "Department of Biochemistry, IPB University (Bogor Agricultural University)",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Biochemistry",
+    "Bioactive Compounds",
+    "Natural Products",
+    "Metabolomics",
+    "Fermentation"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 196,
+  "citedby5y": 161,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 6,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2016": 5,
+    "2017": 12,
+    "2018": 15,
+    "2019": 16,
+    "2020": 27,
+    "2021": 23,
+    "2022": 35,
+    "2023": 51,
+    "2024": 9
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "gawnlA0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mega Safithri",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NBuy_8EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Uswatun Hasanah",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BD8pUFoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I Made Artika",
+      "affiliation": "Departmen of Biochemistry, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MA_UgNQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Syamsul Falah",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kBgdRWIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ani Kurniawati",
+      "affiliation": "Bogor Agriculture University"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi bioaktif golongan flavonoid tanaman anting-anting (Acalypha indica L.)",
+        "pub_year": "2014",
+        "citation": "Jurnal Al-Azhar Indonesia Seri Sains dan Teknologi 2 (3), 178-187, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:u9iWguZQMMsC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7817145744035095404",
+      "cites_id": [
+        "7817145744035095404"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formula of Piper crocatum, Cinnamomum burmanii, and Zingiber officinale extracts as a functional beverage for diabetics",
+        "pub_year": "2016",
+        "citation": "International Food Research Journal 23 (3), 1123-1130, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:4TOpqqG69KYC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14189927160622430837",
+      "cites_id": [
+        "14189927160622430837"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Control of anthracnose disease (Colletotrichum gloeosporioides) using nano chitosan hydrolyzed by chitinase derived from Burkholderia cepacia Isolate E76",
+        "pub_year": "2017",
+        "citation": "Jurnal AgroBiogen 13 (2), 111-122, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:xtRiw3GOFMkC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2659721115332435741",
+      "cites_id": [
+        "2659721115332435741"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cellular Mechanism of the Cytotoxic Effect of Extracts from Syzygium polyanthum Leaves",
+        "pub_year": "2014",
+        "citation": "American Journal of Drug Discovery and Development 4 (2), 90-101, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:0EnyYjriUFMC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6128834960381847951",
+      "cites_id": [
+        "6128834960381847951"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant Activity of Flavonoid from Guazuma ulmifolia Lamk. Leaves and Apoptosis Induction in Yeast Cells",
+        "pub_year": "2014",
+        "citation": "Journal of Biological Sciences 14 (4), 305-310, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:5nxA0vEk-isC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18078684839912342957",
+      "cites_id": [
+        "18078684839912342957"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nanoparticles of Selaginella doederleinii leaves extract inhibit human lung cancer cells A549",
+        "pub_year": "2016",
+        "citation": "International Seminar on Sciences 31 (1), 1-5, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:abG-DnoFyZgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11007686171149842670",
+      "cites_id": [
+        "11007686171149842670"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antibacterial Activity of Ethanol Extract from Stem Bark and Leaves of Berenuk (Crescentia cujete L.)",
+        "pub_year": "2017",
+        "citation": "Current Biochemistry 4 (1), 1-14, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17550985468878289779",
+      "cites_id": [
+        "17550985468878289779"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potency of Ethanol Extract from Berenuk (Crescentia cujete L.) Fruit Rind and Flesh as Antibacterial Agents",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 187 (1), 012001, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3998492017593146336",
+      "cites_id": [
+        "3998492017593146336"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Waktu Inkubasi pada Derajat Distilasi Kitosan Enzim dan Efektifitas Penghambatannya terhadap Penyakit Antraknosa",
+        "pub_year": "2016",
+        "citation": "Jurnal Fitopatologi Indonesia 12 (6), 209-209, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4948412255968752491",
+      "cites_id": [
+        "4948412255968752491"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komponen Fitokimia Ekstrak Daun Suren (Toona sinensis) serta Uji Sitotoksisitasnya terhadap Sel Vero dan MCF-7",
+        "pub_year": "2015",
+        "citation": "Jurnal Ilmu Kefarmasian Indonesia 13 (2), 174-180, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:M3ejUd6NZC8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5022117864698480932",
+      "cites_id": [
+        "5022117864698480932"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Penghambatan Ekstrak Sirih Merah Piper crocatum terhadap Pembentukan Malondialdehida (MDA) dan Enzim Tirosinase",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:kNdYIx-mwKoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12508682094666791497",
+      "cites_id": [
+        "12508682094666791497"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STABILITAS TOTAL FENOLIK, AKTIVITAS ANTIOKSIDAN, DAN AKTIVITAS PENGHAMBATAN \u03b1-GLUKOSIDASE PADA MINUMAN FUNGSIONAL BERBASIS SIRIH MERAH (Piper crocatum Ruiz & Pav.)",
+        "pub_year": "2016",
+        "citation": "Jurnal Gizi dan Pangan 11 (2), 83-90, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:b0M2c_1WBrUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11642200879420813467",
+      "cites_id": [
+        "11642200879420813467"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new asteltoxin analog with insecticidal activity from Pochonia suchlasporia TAMA 87",
+        "pub_year": "2020",
+        "citation": "Journal of Pesticide Science 45 (2), 81-85, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:SP6oXDckpogC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5045200075208032698",
+      "cites_id": [
+        "5045200075208032698"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of Total Phenolic Content and Antioxidant Activity of Six Ornamental Plants",
+        "pub_year": "2019",
+        "citation": "Jurnal Kimia Sains dan Aplikasi 22 (3), 79-84, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7823109086730008174",
+      "cites_id": [
+        "7823109086730008174"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas 3 spesies lebah madu sebagai agen polinasi untuk meningkatkan produktivitas (> 40%) biji jarak pagar (Jatropha curcas) pada ekosistem iklim basah",
+        "pub_year": "2013",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 15 (1), 2013"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1466889596378809944",
+      "cites_id": [
+        "1466889596378809944"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penentuan Kadar Fenolik Total dan Aktivitas Antioksidan Enam Tanaman Hias",
+        "citation": "Jurnal Kimia Sains dan Aplikasi 22 (3), 79-84, 0"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:Tiz5es2fbqcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144292115933176248",
+      "cites_id": [
+        "7144292115933176248"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Blood Glucose Level, Langerhans Pancreas and Lipid Profile of Diabetic Rats After Administration of Red Betel, Ginger and Cinnamon Combination Extract",
+        "pub_year": "2023",
+        "citation": "Tropical life sciences research 34 (1), 41, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:geHnlv5EZngC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11860551134445960263",
+      "cites_id": [
+        "11860551134445960263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The inhibitory activity and kinetics of \u03b1-glucosidase by Toona sinensis stem bark extracts",
+        "pub_year": "2022",
+        "citation": "Current Biochemistry 9 (1), 16-25, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:D_sINldO8mEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12100410694807628600",
+      "cites_id": [
+        "12100410694807628600"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant and Antibacterial Activities of Several Fractions from Crescentia cujete L. Stem Bark Extract",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012004, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:P5F9QuxV20EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8833517325524140373",
+      "cites_id": [
+        "8833517325524140373"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas penghambatan Candida albicans oleh ekstrak daun sirih hijau (Piper betle, Linn)",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6586013187202709995",
+      "cites_id": [
+        "6586013187202709995"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antifungi Ekstrak Daun Miana (Coleus scutellariodes [L] benth) pada Pertumbuhan Candida albicans Secara In Vitro",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:ULOm3_A8WrAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496169683850370263",
+      "cites_id": [
+        "16496169683850370263"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidan Ekstrak Pelepah Pohon Aren (Arenga pinnata Merr.)",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural university, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12937765492602761685",
+      "cites_id": [
+        "12937765492602761685"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing solid-state fermentation for metabolite enrichment by Aspergillus tamarii on rice bran and wheat",
+        "pub_year": "2024",
+        "citation": "Journal of Applied Biology and Biotechnology 12 (4), 195-202, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro analysis of gradual water extract of red betel leaf (Piper crocatum) as free radical scavenging and inhibitor of \u03b1-glucosidase",
+        "pub_year": "2024",
+        "citation": "Current Biochemistry 10 (1), 38-45, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Growth, Chlorophyll Content, and Photosynthesis Rate of Curcuma xanthorrhiza With Different Shade Levels",
+        "pub_year": "2024",
+        "citation": "Current Applied Science and Technology, 12, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulasi dan evaluasi krim antijerawat berbahan limbah cangkang kerang bulu (Anadara antiquata Linn.)",
+        "pub_year": "2023",
+        "citation": "Jurnal Pengolahan Hasil Perikanan Indonesia 26 (2), 314-325, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:8AbLer7MMksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Shading and Nitrogen Fertilizer on Growth and Physiology of Gandarusa (Justicia gendarussa Burm. F.)",
+        "pub_year": "2023",
+        "citation": "Yuzuncu Yil University Journal of Agricultural Sciences 33 (2), 192-206, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:LPZeul_q3PIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary study on a-glucosidase inhibitory and antidiabetic activity of Indonesian Toona sinensis bark extract in alloxan-induced diabetic rats.",
+        "pub_year": "2020",
+        "citation": "Songklanakarin Journal of Science & Technology 42 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:OU6Ihb5iCvQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Butir Hikmah di Balik Fakta Ilmiah",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:KxtntwgDAa4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Ekstrak Daun Miana (Coleus scuttellarioides [L] Benth) Sebagai Antifungi Candida tropicalis",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antifungi Ekstrak Daun Sirih Hijau (Piper betle L.) Terhadap Candida tropicalis",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CIA (Cihideung Ilir in Action): gerakan cinta lingkungan dan kebersihan situ cihideung ilir",
+        "pub_year": "2014",
+        "citation": "Bogor Agricultural University, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidasi Campuran Ekstrak Daun Sirih Merah dan Kulit Kayu Manis",
+        "pub_year": "2013",
+        "citation": "Bogor Agricultural University, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidasi Formula Ekstrak Jati Belanda (Guazuma ulmifolia Lamk.), Jambu Biji (Psidium guajava Linn.), dan Salam (Eugenia polyantha Wight.)",
+        "pub_year": "2008",
+        "citation": "Bogor Agricultural University, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Geologi Bawah Permukaan Rencana Pembuatan Jembatan Lintas Selat P. Laut Kabupaten Kotabaru Kalimantan Selatan",
+        "pub_year": "2006",
+        "citation": "Jurnal Sains dan Teknologi Indonesia 8 (2), 128250, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "DouCTt4AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

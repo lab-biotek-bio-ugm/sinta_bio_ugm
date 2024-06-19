@@ -1,0 +1,452 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "wis2ZvUAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Anne Hadiyane",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Teknologi Kehutanan"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 943,
+  "citedby5y": 622,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 7,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2012": 3,
+    "2013": 19,
+    "2014": 35,
+    "2015": 24,
+    "2016": 48,
+    "2017": 86,
+    "2018": 97,
+    "2019": 76,
+    "2020": 119,
+    "2021": 137,
+    "2022": 145,
+    "2023": 88,
+    "2024": 57
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of jute fibre loading on tensile and dynamic mechanical properties of oil palm epoxy composites",
+        "pub_year": "2013",
+        "citation": "Composites Part B: Engineering 45 (1), 619-624, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:qjMakFHDy7sC",
+      "num_citations": 518,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13119281940619306877",
+      "cites_id": [
+        "13119281940619306877"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agricultural waste fibers towards sustainability and advanced utilization: a review.",
+        "pub_year": "2016",
+        "citation": "Asian Journal of Plant Sciences 15 (1/2), 42-55, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 198,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10841621164974768823",
+      "cites_id": [
+        "10841621164974768823"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil palm trunk polymer composite: morphology, water absorption, and thickness swelling behaviours",
+        "pub_year": "2012",
+        "citation": "BioResources 7 (3), 2948-2959, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 81,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7725975443869695771",
+      "cites_id": [
+        "7725975443869695771"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A study on production of resin from Pinus merkusii Jungh. et de Vriese in the Bosscha observatory area, West Java-Indonesia",
+        "pub_year": "2015",
+        "citation": "Asian J. Plant Sci 14 (2), 89-93, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2972224311963412953",
+      "cites_id": [
+        "2972224311963412953"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Soil burial degradation of oil palm shell (OPS) nanofiller and phenol formaldehyde (PF) resin-impregnated oil palm trunk lumber (OPTL): Dimensional stability and mechanical \u2026",
+        "pub_year": "2016",
+        "citation": "Journal of Biobased Materials and Bioenergy 10 (4), 258-264, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3064376871755637695",
+      "cites_id": [
+        "3064376871755637695"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Termite resistance study of oil palm trunk lumber (OPTL) impregnated with oil palm shell meal and phenol-formaldehyde resin",
+        "pub_year": "2013",
+        "citation": "BioResources 8 (4), 4937-4950, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16677151220963518958",
+      "cites_id": [
+        "16677151220963518958"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Review on quality enhancement of bamboo utilization: preservation, modification and applications.",
+        "pub_year": "2018",
+        "citation": "Asian Journal of Plant Sciences 17 (1), 1-18, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:UebtZRa9Y70C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9445570968486657078",
+      "cites_id": [
+        "9445570968486657078"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of chemical modification of jabon wood (Anthocephalus cadamba Miq.) on morphological structure and dimensional stability.",
+        "pub_year": "2018",
+        "citation": "Journal of Biological Sciences 18 (4), 201-207, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:5nxA0vEk-isC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17345465603963108131",
+      "cites_id": [
+        "17345465603963108131"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wood anatomical from Indonesian genus Cinnamomum (Lauraceae) and their identification key.",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8444787625576439245",
+      "cites_id": [
+        "8444787625576439245"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Teknologi Biopelet Limbah Kopi sebagai Bahan Bakar Alternatif dalam Rangka Pengembangan Desa Mandiri Energi di Desa Jatiroke Kawasan Sekitar Hutan Pendidikan Gunung \u2026",
+        "pub_year": "2021",
+        "citation": "Panrita Abdi-Jurnal Pengabdian pada Masyarakat 5 (3), 256-265, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:8k81kl-MbHgC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12831281950153509325",
+      "cites_id": [
+        "12831281950153509325"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preliminary study of characterization of nanoparticles from coconut shell as filler agent in composites materials",
+        "pub_year": "2016",
+        "citation": "MAYFEB Journal of Materials Science 1, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17641266493209133114",
+      "cites_id": [
+        "17641266493209133114"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perubahan sifat-sifat komponen penyusun kayu, struktur sel kayu dan sifat-sifat dasar kayu terdensifikasi secara parsial",
+        "pub_year": "2011",
+        "citation": "IPB (Bogor Agricultural University), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2112580746696220650",
+      "cites_id": [
+        "2112580746696220650"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coconut fibres and laminates with Jabon trunk (Anthocephalus cadamba Miq.) veneer for hybrid plywood composites: dimensional stability and mechanical \u2026",
+        "pub_year": "2019",
+        "citation": "European journal of wood and wood products 77, 749-759, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15279923105000869652",
+      "cites_id": [
+        "15279923105000869652"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of vascular bundles and fiber sheaths in nodes and internodes of Gigantochloa apus bamboo strips on tensile strength",
+        "pub_year": "2023",
+        "citation": "Journal of the Korean Wood Science and Technology 51 (4), 309-319, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3436109917942324239",
+      "cites_id": [
+        "3436109917942324239"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The role of the mahogany tree (Swietenia macrophylla King) on quantity and quality of water that fall below the canopy",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 918 (1), 012036, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8477262787561703836",
+      "cites_id": [
+        "8477262787561703836"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of vinegar waste logging based stimulant on production of resin from Pinus merkusii jungh. Et De Vriese",
+        "pub_year": "2019",
+        "citation": "Rasayan Journal of Chemistry 12 (4), 2227-2234, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9484337594104709605",
+      "cites_id": [
+        "9484337594104709605"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using kraft black liquor on coconut wood (Cocos nucifera) through impregnation with vacuum pressure method",
+        "pub_year": "2020",
+        "citation": "Journal of the Indian Academy of Wood Science 17, 82-89, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:Se3iqnhoufwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14957357437541138813",
+      "cites_id": [
+        "14957357437541138813"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance of Particleboard Made of Agroforestry Residues Bonded with Thermosetting Adhesive Derived from Waste Styrofoam",
+        "pub_year": "2024",
+        "citation": "Polymers 16 (4), 543, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:_kc_bZDykSQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8340318691619744311",
+      "cites_id": [
+        "8340318691619744311"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Natural Weathering\u2019s Effect on Mechanical Properties of Short Cycle Coconut Trunk Lumber Impregnated Using Kraft Black Liquor",
+        "pub_year": "2020",
+        "citation": "BioResources 15 (2), 3821-3838, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:roLk4NBRz8UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10500598626510760504",
+      "cites_id": [
+        "10500598626510760504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of Empty Palm Bunch Fibers as Alternative Pulp Material",
+        "pub_year": "2020",
+        "citation": "Am. J. Appl. Sci 17, 129-134, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5723951592055982197",
+      "cites_id": [
+        "5723951592055982197"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PEMANFAATAN ASAP CAIR LIMBAH GERGAJIAN KAYU PINUS SEBAGAI BIOPESTISIDA DALAM MENGHAMBAT SERANGAN HAMA PENGGEREK BUAH KOPI (Hypothenemus hampei Ferr.): Utilization of Liquid \u2026",
+        "pub_year": "2024",
+        "citation": "Jurnal Penelitian Hasil Hutan 42 (1), 17-30, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ketahanan Batang Kelapa Sawit Diimpregnasi Resin Pinus dan Serbuk Kayu Surian Terhadap Rayap dan Cuaca",
+        "pub_year": "2021",
+        "citation": "Jurnal Selulosa 11 (02), 89-102, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:Zph67rFs4hoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis and Prediction of Water Balance Using Dynamic Modelling to Solve Water Scarcity in Cimahi",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TRANSPIRATION CAPABILITY OF SEVERAL LOWLAND FOREST TREE SPECIES",
+        "pub_year": "2020",
+        "citation": "Malaysian Applied Biology 49 (2), 63-67, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Article Effect of Chemical Modification of Jabon Wood (Anthocephalus cadamba Miq.) on Morphological Structure and Dimensional Stability",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wood component properties changes, wood cell structure and base properties densified wood to partially",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengurangan Regangan Tarik di Permukaan Kayu Yang Dikeringkan Dengan Pra-susut",
+        "pub_year": "2005",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "wis2ZvUAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

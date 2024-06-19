@@ -1,0 +1,364 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "VR23SGYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Neil Priharto",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VR23SGYAAAAJ&citpid=2",
+  "affiliation": "School of Life Science and Technology, Institut Teknologi Bandung and Departement of Biosystem",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Bioengineering"
+  ],
+  "email_domain": "@itb.ac.id",
+  "homepage": "https://sith.itb.ac.id/en/neil-priharto-s-si-m-t/",
+  "citedby": 158,
+  "citedby5y": 156,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 4,
+  "i10index5y": 4,
+  "cites_per_year": {
+    "2019": 1,
+    "2020": 12,
+    "2021": 29,
+    "2022": 46,
+    "2023": 44,
+    "2024": 24
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "uC1n89cAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Frederik Ronsse",
+      "affiliation": "Ghent University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "hRKblrQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "H.J. Heeres",
+      "affiliation": ""
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cKNdLb0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Peter J Deuss",
+      "affiliation": "Associate Professor, Engineering and Technology Institute Groningen (ENTEG), University of Groningen"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "jKQlY3wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "G\u00fcray Yildiz",
+      "affiliation": "Assistant Professor at Bialystok University of Technology"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of bioethanol from four species of duckweeds (Landoltia punctata, Lemna aequinoctialis, Spirodela polyrrhiza, and Wolffia arrhiza) through optimization of \u2026",
+        "pub_year": "2021",
+        "citation": "Saudi journal of biological sciences 28 (1), 294-301, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10186543855579472085",
+      "cites_id": [
+        "10186543855579472085"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental studies on a two-step fast pyrolysis-catalytic hydrotreatment process for hydrocarbons from microalgae (Nannochloropsis gaditana and Scenedesmus almeriensis)",
+        "pub_year": "2020",
+        "citation": "Fuel Processing Technology 206, 106466, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7588867327799266733",
+      "cites_id": [
+        "7588867327799266733"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hydrotreatment of pyrolysis liquids derived from second-generation bioethanol production residues over NiMo and CoMo catalysts",
+        "pub_year": "2019",
+        "citation": "Biomass and Bioenergy 126, 84-93, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11258212417884560338",
+      "cites_id": [
+        "11258212417884560338"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fast pyrolysis with fractional condensation of lignin-rich digested stillage from second-generation bioethanol production",
+        "pub_year": "2020",
+        "citation": "Journal of analytical and applied pyrolysis 145, 104756, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6873128058569158069",
+      "cites_id": [
+        "6873128058569158069"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ex Situ Catalytic Fast Pyrolysis of Lignin-Rich Digested Stillage over Na/ZSM-5, H/ZSM-5, and Fe/ZSM-5",
+        "pub_year": "2020",
+        "citation": "Energy & Fuels 34 (10), 12710-12723, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=302267687452352539",
+      "cites_id": [
+        "302267687452352539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacterial community dynamics during MEOR biostimulation of an oil reservoir in sumatera Indonesia",
+        "pub_year": "2022",
+        "citation": "Journal of Petroleum Science and Engineering 208, 109558, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18018840797615433591",
+      "cites_id": [
+        "18018840797615433591"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Field implementation of nutrient huff and puff in Bentayan field, South Sumatera: towards a low-cost EOR",
+        "pub_year": "2020",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, D021S007R004, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2217524915455789718",
+      "cites_id": [
+        "2217524915455789718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biosynthetic gene cluster profiling from North Java Sea Virgibacillus salarius reveals hidden potential metabolites",
+        "pub_year": "2023",
+        "citation": "Scientific Reports 13 (1), 19273, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:0EnyYjriUFMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13360940090301757628",
+      "cites_id": [
+        "13360940090301757628"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil and gas industry driven academic research",
+        "pub_year": "2011",
+        "citation": "SPE Asia Pacific Oil and Gas Conference and Exhibition, SPE-148125-MS, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8683702279050099048",
+      "cites_id": [
+        "8683702279050099048"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cultivation and Propagation Techniques of Trichoderma harzianum",
+        "pub_year": "2023",
+        "citation": "BIODIVERS-BIOTROP Science Magazine 2 (2), 66-71, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OPTIMIZATION OF Bacillus paramycoides FERMENTATION MEDIUM TO INCREASE THE PRODUCTION OF 5-AMINOLEVULINIC ACID IN A 10 LITER FERMENTER",
+        "pub_year": "2022",
+        "citation": "Jurnal Bioteknologi dan Biosains Indonesia 9 (2), 195-207, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BACTERIAL CORE FLOODING TERHADAP LIMESTONE ARTIFICIAL CORE SEBAGAI APLIKASI MICROBIAL ENHANCED OIL RECOVERY (MEOR)",
+        "pub_year": "2021",
+        "citation": "Jurnal Petro Desember Th, 197, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemicals and fuels from lignin-rich digested stillage and microalgae via thermochemical conversion processes",
+        "pub_year": "2021",
+        "citation": "Ghent University, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improving the biorefinery output by coupling ethanol fermentation, anaerobic digestion and pyrolysis",
+        "pub_year": "2020",
+        "citation": "28th European Biomass Conference and Exhibition (EUBCE 2020), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:WF5omc3nYNoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preparation of Implementation of MEOR by Nutrient Injection in Bentayan Field, South Sumater",
+        "pub_year": "2018",
+        "citation": "Journal IATMI, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Micro-Pyrolysis of Lignin-Rich Digested Stillage from 2nd Generation Bioethanol Production: Investigation to Determine the Catalytic Effect of its Natural Ash",
+        "pub_year": "2018",
+        "citation": "26th European Biomass Conference and Exhibition 26 (978-88-89407-18-9), 1005 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A perfect match: anaerobic digestion and pyrolysis from agricultural residues",
+        "pub_year": "2018",
+        "citation": "14th International conference on Renewable Resources and Biorefineries (RRB-14), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valorization Assessment of Lignin-Rich Digested Stillage from a Second Generation Bio-Ethanol Plant Using Micro-Pyrolyzer",
+        "pub_year": "2016",
+        "citation": "24th European Biomass Conference and Exhibition 24 (978-88-89407-165), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Co-pyrolysis of lignin rich stillage from 2nd generation bio-ethanol plant and low density poly ethylene (LDPE) using micropyrolyzer",
+        "pub_year": "2016",
+        "citation": "12th International conference on Renewable Resources and Biorefineries (RRB \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quantitative analysis of nitrogen containing compounds in micro-algae based bio-oil using GC\u00d7 GC\u2013NCD/TOF-MS",
+        "pub_year": "2016",
+        "citation": "14th International Symposium on Hyphenated Techniques in Chromatography and \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Validation and optimization of a semicontinuous, bench scale fast pyrolysis setup",
+        "pub_year": "2015",
+        "citation": "University of Santiago de Compostela, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "VR23SGYAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

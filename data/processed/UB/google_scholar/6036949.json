@@ -1,0 +1,973 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "q96GtiEAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Wahyu Widoretno",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q96GtiEAAAAJ&citpid=2",
+  "affiliation": "Brawijaya University",
+  "interests": [
+    "Plant Physiology and Tissue Culture"
+  ],
+  "citedby": 323,
+  "citedby5y": 220,
+  "hindex": 9,
+  "hindex5y": 7,
+  "i10index": 8,
+  "i10index5y": 5,
+  "cites_per_year": {
+    "2004": 1,
+    "2005": 1,
+    "2006": 3,
+    "2007": 1,
+    "2008": 0,
+    "2009": 1,
+    "2010": 11,
+    "2011": 4,
+    "2012": 4,
+    "2013": 7,
+    "2014": 5,
+    "2015": 14,
+    "2016": 16,
+    "2017": 14,
+    "2018": 21,
+    "2019": 36,
+    "2020": 25,
+    "2021": 46,
+    "2022": 44,
+    "2023": 47,
+    "2024": 22
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro induction and characterization of tetraploid Patchouli (Pogostemon cablin Benth.) plant",
+        "pub_year": "2016",
+        "citation": "Plant Cell, Tissue and Organ Culture (PCTOC) 125, 261-267, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5597057359365975555",
+      "cites_id": [
+        "5597057359365975555"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metode Induksi Pembentukan Embrio Somatik dari Kotiledon dan Regenerasi Plantlet Kedelai secara In Vitro",
+        "pub_year": "2003",
+        "citation": "IPB (Bogor Agricultural University), 2003"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 57,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4479660652842922813,17942779942350713552",
+      "cites_id": [
+        "4479660652842922813",
+        "17942779942350713552"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Drought tolerance selection of soybean lines generated from somatic embryogenesis using osmotic stress simulation of polyethylene glycol (PEG)",
+        "pub_year": "2016",
+        "citation": "Nusantara Bioscience 8 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:5nxA0vEk-isC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3962441775291136327",
+      "cites_id": [
+        "3962441775291136327"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Somaclonal variations of soybeans (Glycine Max. L. Merr) stimulated by drought stress based on random amplified polymorphic DNAs (RAPDs)",
+        "pub_year": "2012",
+        "citation": "Scientific Research Publishing, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4218498027380313895",
+      "cites_id": [
+        "4218498027380313895"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regenerasi in vitro tanaman bawang merah (Allium ascalonicum L.)",
+        "pub_year": "2016",
+        "citation": "Biotropika: Journal of Tropical Biology 4 (1), 1-4, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15679957016798140527",
+      "cites_id": [
+        "15679957016798140527"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Regenerasi tanaman dari eksplan kalus bawang putih (Allium sativum L.) secara in vitro",
+        "pub_year": "2015",
+        "citation": "Biotropika: Journal of Tropical Biology 3 (1), 32-35, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10911530367208876371",
+      "cites_id": [
+        "10911530367208876371"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Drought resistant selection on soybean somaclonal variants",
+        "pub_year": "2012",
+        "citation": "AGRIVITA Journal of Agricultural Science 34 (1), 22-27, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7367092748967001298",
+      "cites_id": [
+        "7367092748967001298"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi In Vitro untuk Toleransi terhadap Cekaman Kekeringan pada Kedelai (Glycine max [Ll Merr.) dan Karakterisasi Varian Somaklonal yang Toleran.",
+        "pub_year": "2003",
+        "citation": "IPB (Bogor Agricultural University), 2003"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2690629561778462885",
+      "cites_id": [
+        "2690629561778462885"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design and construction of a vertical hydroponic system with semi-continuous and continuous nutrient cycling",
+        "pub_year": "2017",
+        "citation": "AIP Conference Proceedings 1908 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4635451533860586386",
+      "cites_id": [
+        "4635451533860586386"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phenotypic variation of Fei banana (Musa troglodytarum L.) originated from Maluku islands.",
+        "pub_year": "2015",
+        "citation": "Research Journal of Pharmaceutical, Biological and Chemical Sciences 6 (2 \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8115655426848089529",
+      "cites_id": [
+        "8115655426848089529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kultur kalus tanaman obat ciplukan (Physalis angulata L.)",
+        "pub_year": "2020",
+        "citation": "BIOTROPIKA Journal of Tropical Biology 8 (1), 26-35, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:35N4QoGY0k4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3056339809638806308",
+      "cites_id": [
+        "3056339809638806308"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Clonal propagation of Vetiveria zizanioides L. through tissue culture technique",
+        "pub_year": "2017",
+        "citation": "Indonesian J. Essent. Oil 2 (1), 38-44, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:4TOpqqG69KYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10684132299282284106",
+      "cites_id": [
+        "10684132299282284106"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of photoperiod to break dormancy of porang\u2019s (Amorphophallus muelleri Blume) tuber and growth",
+        "pub_year": "2017",
+        "citation": "Research Journal of Life Science 3 (3), 166-171, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10938138148004951908",
+      "cites_id": [
+        "10938138148004951908"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh sukrosa dan fotoperiode terhadap embriogenesis somatik jeruk Keprok Batu 55 (Citrus reticulata Blanco.)",
+        "pub_year": "2013",
+        "citation": "Jurnal Hortikultura Indonesia 4 (1), 44-53, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8377017309223583471",
+      "cites_id": [
+        "8377017309223583471"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skrining untuk toleransi terhadap stres kekeringan pada 36 varietas kedelai pada fase perkecambahan",
+        "pub_year": "2011",
+        "citation": "Berkala Penelitian Hayati 16 (2), 133-142, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16874513721373120070",
+      "cites_id": [
+        "16874513721373120070"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of bulbils position on leaf branches to plant growth responses and corms quality of Amorphophallus muelleri Blume",
+        "pub_year": "2018",
+        "citation": "The Journal of Experimental Life Science 8 (1), 1-6, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:aqlVkmm33-oC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2674912062611745859",
+      "cites_id": [
+        "2674912062611745859"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of sugar type and concentration on Batu 55 Mandarin (Citrus reticulata Blanco.) somatic embryo maturation",
+        "pub_year": "2016",
+        "citation": "AGRIVITA Journal of Agricultural Science 39 (1), 100-110, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:8k81kl-MbHgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12201557518294745199",
+      "cites_id": [
+        "12201557518294745199"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic kinship of tongkat langit banana (Musa troglodytarum L.) from Moluccas based on rbcL gene sequence",
+        "pub_year": "2015",
+        "citation": "Indian Journal of Genetics and Plant Breeding 75 (04), 526-528, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:UebtZRa9Y70C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17239015311472913848",
+      "cites_id": [
+        "17239015311472913848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of gibberellin on somatic embryo growth and maturation and plantlet regeneration of tangerine (Citrus reticulata Blanco.) var. Batu 55",
+        "pub_year": "2015",
+        "citation": "The Journal of Experimental Life Science 5 (1), 19-23, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=897941874718266394",
+      "cites_id": [
+        "897941874718266394"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic transformation of tomato (Lycopersicon esculentum Mill.) with Agrobacterium rhizogenes and production of ycopene in transformed root culture.",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11496372148924251527",
+      "cites_id": [
+        "11496372148924251527"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sudarsono. 2002. Efektivitas polyethylene glycol untuk mengevaluasi tanggapan grnotipe kedelai terhadap cekaman kekeringan pada fase perkecambahan",
+        "citation": "Hayati. 9 (2), 33-36, 0"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5708271971320497560",
+      "cites_id": [
+        "5708271971320497560"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of scarification on seed germination of porang (Amorphophallus muelleri)",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2019 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:4DMP91E08xMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15529860414459827673",
+      "cites_id": [
+        "15529860414459827673"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of cell density and benzyl amino purine on the growth of somatic embryo of citrus mandarin batu 55 (Citrus reticulata blanco.) in liquid culture",
+        "pub_year": "2016",
+        "citation": "The Journal of Experimental Life Science 6 (1), 1-4, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15158102000304464133",
+      "cites_id": [
+        "15158102000304464133"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Elicitation of organosulfur bioactive compounds with Fe3+ and Zn2+ in cell suspension culture of single garlic (allium sativum L.)",
+        "pub_year": "2022",
+        "citation": "Farmacia 70 (1), 81-89, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:k_IJM867U9cC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4800288143830133787",
+      "cites_id": [
+        "4800288143830133787"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of the combination of NAA and BA on callus induction from hypocotyl explants in black cumin (Nigella sativa L.)",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 743 (1), 012013, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6140652889881243816",
+      "cites_id": [
+        "6140652889881243816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of gamma irradiation on the growth and multiplication of the in vitro shoot of patchouli (Pogostemon cablin Benth.)",
+        "pub_year": "2020",
+        "citation": "The Journal of Experimental Life Science 10 (2), 144-149, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8373069649155003358",
+      "cites_id": [
+        "8373069649155003358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Benzyl Adenine Concentration on Callus Induction of Geranium Plants (Pelargonium graveolens L'Her) from Petiole and Leaf Explants",
+        "pub_year": "2020",
+        "citation": "The Journal of Experimental Life Science 10 (1), 20-23, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:mB3voiENLucC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3586052639270537729",
+      "cites_id": [
+        "3586052639270537729"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of Organosulfur Bioactive Compounds in Bulb, Callus and Cells Suspension of Single Garlic (Allium sativum. L)",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012039, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:-f6ydRqryjwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7658453723661916879",
+      "cites_id": [
+        "7658453723661916879"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Vitro Induction and Identification of Polyploid Amorphophallus muelleri Blume Plants by Colchicine Treatment",
+        "pub_year": "2023",
+        "citation": "AGRIVITA Journal of Agricultural Science 45 (1), 87-97, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5418664195275476452",
+      "cites_id": [
+        "5418664195275476452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity of macroalgae epiphytes on the thallus surface of Kappaphycus Spp in Serewe Bay, East Lombok",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 712 (1), 012006, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9562999760152001260",
+      "cites_id": [
+        "9562999760152001260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Water and chlorophyll content and leaf anatomy of patchouli planlet (Pogostemon cablin Benth.) resulted by shoot-tip culture experience hyperhydricity after treatment of \u2026",
+        "pub_year": "2016",
+        "citation": "J. Exp. Life Sci. Vol 6 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:Zph67rFs4hoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15410663993780266127",
+      "cites_id": [
+        "15410663993780266127"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced Production of Organosulfur Bioactive Compounds in Cell Suspension Culture of Single Garlic (Allium sativum L.) Using Precursor Feeding.",
+        "pub_year": "2022",
+        "citation": "Jordan Journal of Biological Sciences 15 (2), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:maZDTaKrznsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3359567656086611616",
+      "cites_id": [
+        "3359567656086611616"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Sensitivity of Leersia hexandra Sw. to Gamma-Ray Irradiation",
+        "pub_year": "2021",
+        "citation": "The Journal of Experimental Life Science 11 (1), 6-9, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1003602829297215250",
+      "cites_id": [
+        "1003602829297215250"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of colchicine on in vitro growth and ploidicity of crown vetiver plant (Vetiveria zizanioides L. Nash)",
+        "pub_year": "2020",
+        "citation": "The Journal of Experimental Life Science 10 (1), 6-11, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:HDshCWvjkbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7955331234149518996",
+      "cites_id": [
+        "7955331234149518996"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kultur Kalus Tanaman Obat Physalis angulata L.(Ciplukan)",
+        "pub_year": "2020",
+        "citation": "Biotropika: Journal of Tropical Biology 8 (1), 26-35, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1170452774473042573",
+      "cites_id": [
+        "1170452774473042573"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of ethyl methane sulfonate (EMS) on the in vitro shoot regeneration of vetiver (Vetiveria zizanioides [L.] Nash)",
+        "pub_year": "2020",
+        "citation": "The Journal of Experimental Life Science 10 (3), 150-153, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5153440285126483838",
+      "cites_id": [
+        "5153440285126483838"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of explant types and plant growth regulators on callus induction of Geranium (Pelargonium graveolens L\u2019Her) in vitro",
+        "pub_year": "2019",
+        "citation": "IOP Conference Series: Earth and Environmental Science 391 (1), 012034, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:hC7cP41nSMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15000408405442348109",
+      "cites_id": [
+        "15000408405442348109"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Pb and Cd Elicitors on Growth and Content of Vetiver Oil Adventitious Root In Vitro of Vetiver (Vetiveria zizanioides L. Nash)",
+        "pub_year": "2019",
+        "citation": "The Journal of Experimental Life Science 9 (3), 194-200, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14840647869562481596",
+      "cites_id": [
+        "14840647869562481596"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Explant Types and Kinetin Concentration on In Vitro Callus Induction in Vetiveria zizanioides (L.) Nash",
+        "pub_year": "2017",
+        "citation": "The Journal of Experimental Life Science 7 (2), 84-87, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:_kc_bZDykSQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12281458459969599045",
+      "cites_id": [
+        "12281458459969599045"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological characteristic of purple long yard bean cultivars and their tolerance to drought stress",
+        "pub_year": "2015",
+        "citation": "Journal of Degraded and Mining Lands Management 2 (2), 281, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12250081567140120343",
+      "cites_id": [
+        "12250081567140120343"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seleksi plasma nutfah kedelai toleran kekeringan secara in vitro dan ex vitro serta karakterisasi mekanisme toleransinya terhadap kekeringan",
+        "pub_year": "2007",
+        "citation": "Fakultas MIPA-Universitas Brawijaya, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:TFP_iSt0sucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12970884431873027843",
+      "cites_id": [
+        "12970884431873027843"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interaction of epiphyte Polysiphonia sp with Kappaphycus alvarezii host based on anatomical structure and phytochemical profile",
+        "pub_year": "2024",
+        "citation": "AIP Conference Proceedings 3001 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plantlet regeneration and acclimatization from gamma-irradiated in vitro shoots of vetiver (Vetiveria zizanioides (L.) nash)",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2913 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:ldfaerwXgEUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro mutagenesis on patchouli (Pogostemon cablin Benth.) with gamma-ray irradiation on leaf explants",
+        "pub_year": "2023",
+        "citation": "Biodiversitas Journal of Biological Diversity 24 (12), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gamma Irradiation Effect on the Callus Growth and Shoot Regeneration of Pogostemon cablin Benth.",
+        "pub_year": "2023",
+        "citation": "International Journal of Application on Sciences, Technology and Engineering \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Gamma-Ray Irradiation on Vetiver Grass (Vetiveria Zizanioides (L.) Nash.) in Vitro Shoots Growth and Multiplication",
+        "pub_year": "2023",
+        "citation": "3rd International Conference on Biology, Science and Education (IcoBioSE \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Combination Effect of Auxin and Cytokinin on Callus Induction of Patchouli (Pogostemon Cablin Benth.) from Leaf Explants",
+        "pub_year": "2023",
+        "citation": "3rd International Conference on Biology, Science and Education (IcoBioSE \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:GnPB-g6toBAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mathematics and Natural Sciences Faculty, Brawijaya University, Malang, Indonesia wahyu_widoretno@ yahoo. com",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 3rd International Conference on Biology, Science and \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Macroepiphyte biodiversity on Kappaphycus alvarezii surface and its interaction with environment in cultivation centers on Lombok Island, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (12), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Elicitor Al3+ and Pb2+ For Daidzein and Genistein Accumulation on Phaseolus vulgaris L. and Phaseolus aureus Roxb Callus",
+        "pub_year": "2020",
+        "citation": "MISEIC 2020, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Callus culture of medicinal plants ciplukan (Physalis angulata L.).",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:M05iB0D1s5AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Metal Ion Elicitor on Growth of Vetiveriazizanioides (L.) Nash. Callus and Its Vetiver Oil Compounds",
+        "pub_year": "2018",
+        "citation": "RESEARCH JOURNAL OF PHARMACEUTICAL BIOLOGICAL AND CHEMICAL SCIENCES 9 (5 \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH ELISITOR Al3+ TERHADAP AKUMULASI DAIDZEIN DAN GENISTEIN PADA KALUS Phaseolus vulgaris L. Dan Phaseolus aureus Roxb.",
+        "pub_year": "2017",
+        "citation": "STIGMA: Jurnal Matematika dan Ilmu Pengetahuan Alam Unipa 10 (02), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of Low Temperature on Somatic Embryos Growth, Maturation and Planlet Regeneration of Citrus Mandarin var Batu 55 (Citrus reticulata Blanco.)",
+        "pub_year": "2015",
+        "citation": "Journal of Experimental Life Science 5 (1), 6-9, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DROUGHT RESISTANT SELECTION ON SOYBEAN SOMACLONAL VARIANTS",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Karakter Kualitatif dan Kuantitatif pada Populasi Tanaman Somaklon Kedelai dari Embrio Somatik Hasil Seleksi In Vitro",
+        "pub_year": "2010",
+        "citation": "IPB (Bogor Agricultural University), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pembentukan Probe dan Identifikasi Gen Tahan Kering pada Galur Kedelai Pasca Perlakuan Polietilena Glikol (PEG) dengan Metode PCR-Sekuensing",
+        "pub_year": "2008",
+        "citation": "LPPM Universitas Brawijaya, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation on a number of soybean drought tolerance somaclones generated from in vitro selection",
+        "pub_year": "2004",
+        "citation": "Hayati (Indonesia) 11 (1), 2004"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro methods for inducing somatic embryos of soybean and plantlet regeneration",
+        "pub_year": "2003",
+        "citation": "Hayati (Indonesia) 10 (1), 2003"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fusion and culture of protoplasts from soybean and rice",
+        "pub_year": "1996",
+        "citation": "Jurnal Bioteknologi Pertanian= Indonesian Journal of Agricultural \u2026, 1996"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi dan fusi protoplas kedelai (Glycine max (L.) Merr.) dengan protoplas padi (Oryza sativa L.) dan kultur hasil fusinya",
+        "pub_year": "1995",
+        "citation": "Universitas Gadjah Mada, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reaksi Embrio Somatik Kedelai terhadap Polietilena Glikol dan Penggunaannya untuk Seleksi In Vitro terhadap Cekaman Kekeringan",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Produksi Flavon 3-OL Melalui Kalus Camella sinensis L: untuk penghambatan Diferensiasi sel adiposa",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "q96GtiEAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

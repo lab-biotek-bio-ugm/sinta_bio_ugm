@@ -1,0 +1,3421 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "G-wgx3sAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Achmad Farajallah",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=G-wgx3sAAAAJ&citpid=2",
+  "affiliation": "Department of Biology, Bogor Agricultural University Indonesia",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Zoology"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "homepage": "http://achamad.staff.ipb.ac.id/",
+  "citedby": 1760,
+  "citedby5y": 1073,
+  "hindex": 23,
+  "hindex5y": 16,
+  "i10index": 47,
+  "i10index5y": 32,
+  "cites_per_year": {
+    "2005": 9,
+    "2006": 7,
+    "2007": 12,
+    "2008": 6,
+    "2009": 14,
+    "2010": 12,
+    "2011": 32,
+    "2012": 26,
+    "2013": 21,
+    "2014": 29,
+    "2015": 70,
+    "2016": 118,
+    "2017": 159,
+    "2018": 139,
+    "2019": 179,
+    "2020": 207,
+    "2021": 215,
+    "2022": 168,
+    "2023": 230,
+    "2024": 71
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X4V3UyAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yusli Wardiatno",
+      "affiliation": "Professor at IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nhMmElMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Cece Sumantri",
+      "affiliation": "Department of Animal Production and Technology, Faculty of Animal Science, Bogor \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xkDFQ1QAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ali Mashar",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "EvFFxp0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agus A. Hakim",
+      "affiliation": "Master Science, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "PU-QAzMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Andrew D Barnes",
+      "affiliation": "University of Waikato, New Zealand"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "X4s7KtYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mennofatria Boer",
+      "affiliation": "Profesor of Biomathematics and Biostatistics, IPB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "mK_cKGcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ulrich Brose",
+      "affiliation": "iDiv"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "T9Dy2JkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Amir Hamidy",
+      "affiliation": "Lab of Herpetology, Museum Zoologicum Bogoriense, National Research and Innovation \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "j3w-jLsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "eryk andreas",
+      "affiliation": "Department of Paediatrics and Reprodutive Health, The University of Adelaide"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "IfXah3AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Puji utari ardika, S.Si., M.Si",
+      "affiliation": "Universitas Jambi"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zrlh6gEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Malte Jochum",
+      "affiliation": "University of Wuerzburg"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bkRdaCIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Steffen Mumme",
+      "affiliation": "Department of Zoology and Physiology, University of Wyoming"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "XfC9RncAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "noor farikhah haneda",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "F8fnGvQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tri Heru Widarto",
+      "affiliation": "Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "56PAd2EAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Maria Ulfah",
+      "affiliation": "Dept. Animal Production and Technology, Faculty of Animal Science, Bogor Agricultural \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "W3MON-kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Eric N. Smith",
+      "affiliation": "University of Texas Arlington"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "s-PcfAoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ronny Rachman Noor .",
+      "affiliation": "Professor of Genetics, Faculty of animal science, Bogor Agriculture University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4vUUyrkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dyah Perwitasari-Farajallah",
+      "affiliation": "Department of Biology, IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LymJtdcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Kanthi Arum Widayati",
+      "affiliation": "Department of Biology, Faculty Mathematics and Natural Science,Bogor Agricultural \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "3YXC_WUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Daisy Wowor",
+      "affiliation": "Research Center for Biosystematics and Evolution, National Research and Innovation \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "5EquM7oAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Mohammad Mukhlis Kamal",
+      "affiliation": "Department of Aquatic Resources Management, Faculty of Fisheries and Marine Science \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "INGQyLIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Muladno",
+      "affiliation": "IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "coau6xgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Lora Purnamasari",
+      "affiliation": "STKIP PGRI Sumatera Barat"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "6LCrQMAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Henny Nuraini",
+      "affiliation": "Lecturer, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4aX9mXMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "restu misrianti",
+      "affiliation": "Universitas islam negeri sultan syarif Kasim Riau"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "kc5LT0cAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yanti Ariyanti",
+      "affiliation": "Institut Teknologi Sumatera"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "zO8AXyAAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dr. Rika Raffiudin",
+      "affiliation": "Department of Biology, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "s2dPleQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Katja Rembold",
+      "affiliation": "Botanical Garden of the University of Bern"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tFSEAO8AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dedi Rahmat",
+      "affiliation": "Universitas Padjadjaran"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "bqvhJ3wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Stefan Scheu",
+      "affiliation": "Professor, Animal Ecology, University of Goettingen"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "oxAc-ZsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ryouka Kawahara-Miki",
+      "affiliation": "NODAI Genome Research Center,  Tokyo University of Agriculture"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "7gDaykYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Wahyudin Abdul Karim",
+      "affiliation": "Universitas Muhammadiyah Luwuk"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "z0IvlMkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Keliopas Krey",
+      "affiliation": "universitas Papua"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "LzGOf5AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Arif Wibowo",
+      "affiliation": "Kementerian Kelautan dan Perikanan"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "NNQiBccAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jerry Fred Salamena",
+      "affiliation": "Pemuliaan Ternak Universitas Pattimura"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "EIj5tzoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Randall Kyes",
+      "affiliation": "Research Professor - Psychology; Director - Center for Global Field Study - - University of"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cn72tVcAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dondin Sajuthi",
+      "affiliation": "Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "cmyIhoUAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Entang Iskandar",
+      "affiliation": "Primate Research Center, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9PfUVs0AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Diah Iskandriati",
+      "affiliation": "Institut Pertanian Bogor"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "7HzZeFMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Irma Arlyza",
+      "affiliation": "Senior Scientist, Research Center for Oceanography Indonesian Institute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "tBCfB_kAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dewi Purnama",
+      "affiliation": "universitas bengkulu"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "34n5O-IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Miura, Takeshi",
+      "affiliation": "Ehime University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "byJ_XQMAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "awal RIYANTO",
+      "affiliation": "BRIN (Research and Innovation National Agency)/LIPI Lembaga Ilmu Pengetahuan \u2026"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "EiF91rEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bram Brahmantiyo",
+      "affiliation": "Badan Penelitian dan Pengembangan Pertanian, Balitbangtan"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "Q6aVGBsAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Annawaty",
+      "affiliation": "Jurusan Biologi FMIPA Universitas Tadulako"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning",
+        "pub_year": "2014",
+        "citation": "Nature communications 5 (1), 5351, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:6ZzL7HXColQC",
+      "num_citations": 395,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2108001031332975568",
+      "cites_id": [
+        "2108001031332975568"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decreasing stoichiometric resource quality drives compensatory feeding across trophic levels in tropical litter invertebrate communities",
+        "pub_year": "2017",
+        "citation": "The American Naturalist 190 (1), 131-143, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:c1AJUTjuCtUC",
+      "num_citations": 53,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2479647302323563110",
+      "cites_id": [
+        "2479647302323563110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of GH| AluI and GHR| AluI genes polymorphisms in Indonesian Buffalo",
+        "pub_year": "2010",
+        "citation": "Journal of the Indonesian Tropical Animal Agriculture 35 (4), 215-221, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 46,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11824509646062372689",
+      "cites_id": [
+        "11824509646062372689"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new Megophrys Kuhl and Van Hasselt (Amphibia: Megophryidae) from southwestern Sumatra, Indonesia.",
+        "pub_year": "2018",
+        "citation": "Zootaxa 4442 (3), 389-412, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:a2necdfpwlEC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3359650587480346399",
+      "cites_id": [
+        "3359650587480346399"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic features of red and green junglefowls and relationship with Indonesian native chickens Sumatera and Kedu Hitam",
+        "pub_year": "2016",
+        "citation": "bmc genomic, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:SrKkpNFED5gC",
+      "num_citations": 44,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14070564054091478482",
+      "cites_id": [
+        "14070564054091478482"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record of Albunea symmysta (Crustacea: Decapoda: Albuneidae) from Sumatra and Java, Indonesia",
+        "pub_year": "2015",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 8 (4), 611-615, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:0sTkTiv_uMkC",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17667883234275196238",
+      "cites_id": [
+        "17667883234275196238"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biodiversity of Indonesian sand crabs (Crustacea, Anomura, Hippidae) and assessment of their phylogenetic relationships",
+        "pub_year": "2015",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 8 (2), 224-235, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ukw-9cB-YDkC",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17947731142321339504",
+      "cites_id": [
+        "17947731142321339504"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variations in long-and middle-wavelength-sensitive opsin gene loci in crab-eating monkeys",
+        "pub_year": "2002",
+        "citation": "Vision Research 42 (3), 281-292, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 38,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178282066555290118",
+      "cites_id": [
+        "2178282066555290118"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymorphism identification of Pit1 gene in Indonesian buffaloes (Bubalus bubalis) and Holstein-Friesian cows",
+        "pub_year": "2010",
+        "citation": "Media Peternakan 33 (3), 131-131, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:UebtZRa9Y70C",
+      "num_citations": 36,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17468318472500839725",
+      "cites_id": [
+        "17468318472500839725"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New records of Panulirus femoristriga Von Martens, 1872 (crustacea achelata palinuridae) from Celebes and Seram Islands, Indonesia",
+        "pub_year": "2016",
+        "citation": "Biodiversity Journal 7 (4), 901-906, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:rqnDXT1GswoC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7937494689263984547",
+      "cites_id": [
+        "7937494689263984547"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record of Hippa adactyla (Fabricius, 1787; Crustacea, Anomura, Hippidae) from Indonesian Waters",
+        "pub_year": "2015",
+        "citation": "Tropical Life Sciences Research 26 (2), 105, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:v_tt_AnqfNMC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17354578692438929181",
+      "cites_id": [
+        "17354578692438929181"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lobster diversity of Palabuhanratu Bay, South Java, Indonesia with new distribution record of Panulirus ornatus, P. polyphagus and Parribacus antarcticus",
+        "pub_year": "2017",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 10 (2), 308-327, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Vztgr1qGG8IC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8585092586540420962",
+      "cites_id": [
+        "8585092586540420962"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration and prevalence of gastrointestinal worm in buffalo from West Java, Central Java, East Java and Lombok, Indonesia",
+        "pub_year": "2016",
+        "citation": "Aceh Journal of Animal Science 1 (1), 1-15, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:BJtnxTr0fRcC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2246257620286639921",
+      "cites_id": [
+        "2246257620286639921"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record of Puerulus mesodontus Chan, Ma & Chu, 2013 (Crustacea, Decapoda, Achelata, Palinuridae) from south of Java, Indonesia",
+        "pub_year": "2016",
+        "citation": "Biodiversity Data Journal, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:NtCmTCuxid4C",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1214795797549538431",
+      "cites_id": [
+        "1214795797549538431"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the presence of the Andaman lobster, Metanephrops andamanicus (Wood-Mason, 1891)(Crustacea, Astacidea, Nephropidae) in Palabuhanratu bay (S-Java, Indonesia)",
+        "pub_year": "2016",
+        "citation": "Biodiversity Journal 7 (1), 17-20, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:sbeIDTyQOFgC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15583332581411716798",
+      "cites_id": [
+        "15583332581411716798"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resource stoichiometry and availability modulate species richness and biomass of tropical litter macro\u2010invertebrates",
+        "pub_year": "2017",
+        "citation": "Journal of Animal Ecology 86 (5), 1114-1123, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:j5aT6aphRxQC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2334237801626097417",
+      "cites_id": [
+        "2334237801626097417"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of ivermectin and albendazole against Haemonchus contortus in sheep in West Java, Indonesia",
+        "pub_year": "2016",
+        "citation": "Tropical Life Sciences Research 27 (1), 135, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:idthP5jqfYAC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7146413730444256005",
+      "cites_id": [
+        "7146413730444256005"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric and phylogenic analysis of six population Indonesian local goats",
+        "pub_year": "2011",
+        "citation": "Media Peternakan 34 (3), 165-165, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:-f6ydRqryjwC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9709073459444744906",
+      "cites_id": [
+        "9709073459444744906"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Molekuler Microhyla, Tschudi 1839 dari Sumatera Berdasarkan Gen 16S rRNA",
+        "pub_year": "2019",
+        "citation": "Zoo Indonesia 26 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:M0j1y4EgrScC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15827302249249499774",
+      "cites_id": [
+        "15827302249249499774"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning. Nat Commun 5: 5351",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:IyxfXMz2bNAC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4027640754146046464",
+      "cites_id": [
+        "4027640754146046464"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymorphism of calpastatin gene and its effect on body weight of local sheeps",
+        "pub_year": "2008",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2366191172289276668",
+      "cites_id": [
+        "2366191172289276668"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rediscovery of Micryletta inornata (Boulenger, 1890) from Sumatra: redescription, molecular identity, and taxonomic implications",
+        "pub_year": "2019",
+        "citation": "Zootaxa 4613 (1), 111-126, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:oldoQiaHq2UC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11978501111193931852",
+      "cites_id": [
+        "11978501111193931852"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiple maternal origins of Indonesian crowing chickens revealed by mitochondrial DNA analysis",
+        "pub_year": "2017",
+        "citation": "Mitochondrial DNA Part A 28 (2), 254-262, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:JH5k92_tO-AC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4701315568945004708",
+      "cites_id": [
+        "4701315568945004708"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The mole crab Hippa marmorata (Hombron et Jacquinot, 1846)(Crustacea Anomura Hippidae): a first record from Indonesian waters",
+        "pub_year": "2015",
+        "citation": "Biodiversity Journal 6 (2), 517-520, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:i_7YvbSbtFEC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=865611105801367577",
+      "cites_id": [
+        "865611105801367577"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new distribution record of the mud-spiny lobster, Panulirus polyphagus (Herbst, 1793)(Crustacea, Achelata, Palinuridae) in Mayalibit Bay, West Papua, Indonesia",
+        "pub_year": "2017",
+        "citation": "Biodiversitas Journal of Biological Diversity 18 (2), 780-783, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:qPeb-qHga9sC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8485624847299400380",
+      "cites_id": [
+        "8485624847299400380"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kappa-casein genotypic frequencies in holstein-friesian dairy cattle in West Java Province",
+        "pub_year": "2010",
+        "citation": "Media Peternakan 33 (2), 61-61, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:3A3nxV7CjKIC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8609165138209602560",
+      "cites_id": [
+        "8609165138209602560"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Electroretinogram analysis of relative spectral sensitivity in genetically identified dichromatic macaques",
+        "pub_year": "2001",
+        "citation": "Proceedings of the National Academy of Sciences 98 (14), 8124-8127, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11845385660820210495",
+      "cites_id": [
+        "11845385660820210495"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and Abundance of Sand Crabs on the South Coast of Central Java (Diversitas dan Kelimpahan Kepiting Pasir di Pantai Selatan Jawa Tengah)",
+        "pub_year": "2014",
+        "citation": "Ilmu Kelautan: Indonesian Journal of Marine Sciences 19 (4), 226-232, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:as0KMg8qHbkC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10861990989259282087",
+      "cites_id": [
+        "10861990989259282087"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman genetik DNA mikrosatelit dan hubungannya dengan performa bobot badan pada domba lokal",
+        "pub_year": "2008",
+        "citation": "Media Peternakan 31 (1), 2008"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3267102615940635483",
+      "cites_id": [
+        "3267102615940635483"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anoa, dwarf buffalo from Sulawesi, Indonesia: Identification based on DNA barcode",
+        "pub_year": "2018",
+        "citation": "Biodiversitas Journal of Biological Diversity 19 (6), 1985-1992, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:1EqfMoDn7-AC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6797451195156665693",
+      "cites_id": [
+        "6797451195156665693"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reproductive biology of ovigerous female Emerita emeritus (Crustacea, Decapoda) in Bengkulu coastal waters, Indonesia: egg production and reproductive output",
+        "pub_year": "2016",
+        "citation": "Croatian Journal of Fisheries 74 (3), 103-109, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:MDX3w3dAD3YC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3326087040380979714",
+      "cites_id": [
+        "3326087040380979714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat preferences and distribution of the freshwater shrimps of the genus Caridina (Crustacea: Decapoda: Atyidae) in Lake Lindu, Sulawesi, Indonesia",
+        "pub_year": "2016",
+        "citation": "HAYATI Journal of Biosciences 23 (2), 45-50, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:hHIA4WEVY-EC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=586153249122805732",
+      "cites_id": [
+        "586153249122805732"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Genotipe Kappa Kasein (\u03ba-kasein) terhadap Kualitas Susu pada Sapi Perah FH di BPTU Baturraden",
+        "pub_year": "2005",
+        "citation": "Seminar Nasional Teknologi Peternakan dan Veteriner, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:blknAaTinKkC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8089834583776907009",
+      "cites_id": [
+        "8089834583776907009"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komparasi Karakter Morfologi Sapi Madura Sonok dan Madura Pedaging (Morphological Characters Comparison of Sonok and Madura Cattle)",
+        "pub_year": "2017",
+        "citation": "Jurnal Ilmu Pertanian Indonesia (JIPI) 22 (1), 67-72, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:xa5BkEQK8BgC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10544914332952303683,2984074428045011541",
+      "cites_id": [
+        "10544914332952303683",
+        "2984074428045011541"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Breed determination for Indonesian local chickens based on matrilineal evolution analysis",
+        "pub_year": "2015",
+        "citation": "International Journal of Poultry Science 14 (11), 615, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:E7VqQtBCVmcC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9988879510731917235",
+      "cites_id": [
+        "9988879510731917235"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three species of ectoparasite mites (Acari: Pterygosomatidae) infested geckos in Indonesia",
+        "pub_year": "2013",
+        "citation": "HAYATI Journal of Biosciences 20 (2), 80-88, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:aqlVkmm33-oC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11831758080665796874",
+      "cites_id": [
+        "11831758080665796874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifying Penaeus merguiensis de Man, 1888 stocks in Indonesian Fisheries Management Area 573: a truss network analysis approach",
+        "pub_year": "2017",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 10 (4), 922-935, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:G36d5HCDkJYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2771984827244921447",
+      "cites_id": [
+        "2771984827244921447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi molekuler enam subpopulasi kambing lokal Indonesia berdasarkan analisis sekuen daerah D-loop DNA mitokondria",
+        "pub_year": "2011",
+        "citation": "Jurnal Ilmu Ternak dan Veteriner 16 (1), 49-60, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:g5m5HwL7SMYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14918250923655141297",
+      "cites_id": [
+        "14918250923655141297"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polimorfisme gen calpastatin (cast-msp1) dan pengaruhnya terhadap bobot hidup domba lokal",
+        "pub_year": "2008",
+        "citation": "JITV 13 (2), 117-126, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5888572687636327088",
+      "cites_id": [
+        "5888572687636327088"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan famili gen Hormon Pertumbuhan (GH, GHR, GHRH dan PIT-1) untuk mendeteksi keragaman genetik kerbau di Kabupaten Pandeglang dan Lebak Provinsi Banten",
+        "pub_year": "2010",
+        "citation": "JITV 15 (4), 286-296, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:mB3voiENLucC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6155318627452599261",
+      "cites_id": [
+        "6155318627452599261"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian kemurnian sapi bali dengan analisis hemoglobin dengan metode isoelectric focusing",
+        "pub_year": "2001",
+        "citation": "Hayati 8 (4), 107-111, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7547250992454703735",
+      "cites_id": [
+        "7547250992454703735"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eksplorasi preferensi masyarakat terhadap pemanfaatan ayam lokal di kabupaten bogor jawa barat",
+        "pub_year": "2016",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 21 (3), 180-185, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:u3T1itk59dMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4937007086877829775",
+      "cites_id": [
+        "4937007086877829775"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Frekuensi gen kappa kasein (\u03ba-kasein) pada sapi perah FH berdasarkan produksi susu di BPTU Baturraden",
+        "pub_year": "2004",
+        "citation": "Prosiding Seminar Nasional Teknologi Peternakan dan Veteriner. Bogor, 4-5, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:qjMakFHDy7sC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12354677928983313125",
+      "cites_id": [
+        "12354677928983313125"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The first complete mitochondrial genome sequence of the endangered mountain anoa (Bubalus quarlesi)(Artiodactyla: Bovidae) and phylogenetic analysis",
+        "pub_year": "2020",
+        "citation": "Journal of Asia-Pacific Biodiversity 13 (2), 123-133, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:j8pvxH-kN2QC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6147596162790541955",
+      "cites_id": [
+        "6147596162790541955"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Blood profile of quails (Coturnix Coturnix Japonica) fed ration containing silkworm pupae (Bombyx Mori) powder extract",
+        "pub_year": "2016",
+        "citation": "Media Peternakan 39 (1), 1-8, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:rbGdIwl2e6cC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16302192462059179343",
+      "cites_id": [
+        "16302192462059179343"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman gen Pituitary-Specific Transcription Factor-1 Lokus Pit-1-Hinf1 dan pengaruhnya terhadap bobot tubuh induk, dan produksi susu pada domba lokal",
+        "pub_year": "2009",
+        "citation": "JITV 14 (3), 222-229, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ufrVoPGSRksC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=200505307483998319",
+      "cites_id": [
+        "200505307483998319"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GENETIC VARIATION AMONG LOCAL SHEEP IN INDONESIA USING MICROSATELLITE DNA",
+        "pub_year": "2006",
+        "citation": "International Seminar on Tropical Animal Production (ISTAP) 2, 25-32, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8007057256611816694",
+      "cites_id": [
+        "8007057256611816694"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of DNA barcode in determination of shrimp species of fresh water from the Province of Jambi",
+        "pub_year": "2016",
+        "citation": "Biocencetta 2 (1), 50-59, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:4E1Y8I9HL1wC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18215932849367395044",
+      "cites_id": [
+        "18215932849367395044"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA BARCODING OF FRESHWATER FISH SPECIES OF MANNA RIVER (BENGKULU) AND SEMANKA RIVER (LAMPUNG)",
+        "pub_year": "2013",
+        "citation": "Indonesian Fisheries Research Journal 19 (1), 9-17, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:DquSII9TDu4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=273655112230417738",
+      "cites_id": [
+        "273655112230417738"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis keragaman genetik kerbau lokal (Bubalus bubalis) berdasarkan haplotipe DNA mitokondria",
+        "pub_year": "2011",
+        "citation": "Seminar Nasional Teknologi Peternakan dan Veteriner, 59-67, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:zzCxg_vo7cAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10592356788662476065",
+      "cites_id": [
+        "10592356788662476065"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Mikrosatelit DNA Sapi Perah Friesian-Holstein di Balai Pembibitan Ternak Unggul Baturaden",
+        "pub_year": "2007",
+        "citation": "JITV 12 (2), 124-133, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7765339513054487799",
+      "cites_id": [
+        "7765339513054487799"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Species confirmation of juvenile cloudy grouper, Epinephelus erythrurus (Valenciennes, 1828), based on a morphologic analysis and partial CO1 gene sequencing",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (3), 914-921, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:AFXcoJnoRH0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10693962684247558770",
+      "cites_id": [
+        "10693962684247558770"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Morfologi dan Molekuler pada Gurita (Genus Octopus Cuvier, 1798) yang Ditangkap di Palabuhanratu, Sukabumi, Jawa Barat.",
+        "pub_year": "2018",
+        "citation": "Bogor Agricultural University (IPB), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:jq04SsiGh3QC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18354840897077930095",
+      "cites_id": [
+        "18354840897077930095"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Verifikasi kontrol gen Kappa Kasein pada protein susu sapi Friesian-Holstein di daerah sentra produksi susu Jawa Barat",
+        "pub_year": "2009",
+        "citation": "JITV 14 (2), 131-141, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:roLk4NBRz8UC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16321310189145840246",
+      "cites_id": [
+        "16321310189145840246"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population dynamics of Macrobrachium sintangense and M. lanchesteri in Lake Lido, West Java",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:oAywNP-vUhwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=492479970565114975",
+      "cites_id": [
+        "492479970565114975"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Article ZOOTAXA",
+        "pub_year": "2020",
+        "citation": "Zootaxa 4830 (1), 186-196, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:XtJa11BXPS4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17290238257033863721",
+      "cites_id": [
+        "17290238257033863721"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian aspek reproduksi dan genetika udang mantis (Harpiosquilla raphidea, fabricius 1798) di Kuala Tungkal, Kabupaten Tanjung Jabung Barat, Jambi sebagai upaya lanjutan \u2026",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:mVC4hKzE2FoC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1532288855977214189",
+      "cites_id": [
+        "1532288855977214189"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektivitas Ivermectin dan Albendazole dalam Melawan Ostertagia pada Anakan Domba di Bogor, Indonesia",
+        "pub_year": "2015",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 20 (3), 257-264, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:QaSi33NTfwYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=655020801385000216",
+      "cites_id": [
+        "655020801385000216"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Skin histology and microtopography of Papuan White Snake (Micropechis ikaheka) in relation to their zoogeographical distribution",
+        "pub_year": "2013",
+        "citation": "HAYATI Journal of Biosciences 20 (1), 7-14, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17401493657851553621",
+      "cites_id": [
+        "17401493657851553621"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variability in the population of long-tailed macaques introduced into Tinjil Island, Indonesia: Microsatellite loci variations",
+        "pub_year": "2004",
+        "citation": "Hayati 11, 21-4, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:5nxA0vEk-isC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8098062666326982935",
+      "cites_id": [
+        "8098062666326982935"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ismail. 2015a",
+        "pub_year": "1846",
+        "citation": "The mole crab Hippa marmorata, 517-520, 1846"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:5LPo_wSKItgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15612127734429259720",
+      "cites_id": [
+        "15612127734429259720"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The origin of pesisir cattle based on D-loop mitochondrial DNA",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (9), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:_mQi-xiA4oYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17074144325340320825",
+      "cites_id": [
+        "17074144325340320825"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic Analysis of the Darkfin Hind, Cephalopholis urodeta (Serranidae) Using Partial Mitochondrial CO1 Gene Sequences (Analisis Filogenetik Cephalopholis urodeta \u2026",
+        "pub_year": "2015",
+        "citation": "ILMU KELAUTAN: Indonesian Journal of Marine Sciences 20 (1), 38-44, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:KI9T_ytC6pkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18144103841236897138",
+      "cites_id": [
+        "18144103841236897138"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning. Nat Commun",
+        "pub_year": "2014",
+        "citation": "Nature Publishing Group 5, 1-7, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:IT1MJ6E3JesC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14617305078281053206",
+      "cites_id": [
+        "14617305078281053206"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microsatellite DNA analysis on the polyandry of green sea turtle Chelonia mydas",
+        "pub_year": "2013",
+        "citation": "HAYATI Journal of Biosciences 20 (4), 182-186, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:VRfTbSk87rEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16878489247405662249",
+      "cites_id": [
+        "16878489247405662249"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik Sapi Peranakan Ongole (PO) Berdasarkan Uji DNA Mikrosatelit",
+        "pub_year": "2002",
+        "citation": "Media Peternakan 25 (3), 84-91, 2002"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:g_UdREhPGEoC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2205605576700789262",
+      "cites_id": [
+        "2205605576700789262"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new Megophrys Kuhl and Van Hasselt (Amphibia: Megophryidae) from southwestern Sumatra, Indonesia. Zootaxa4442: 389-412",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ZysSsiWj_g4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9467586782257272970",
+      "cites_id": [
+        "9467586782257272970"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Laju Kehilangan dan Kondisi Terkini Habitat Baning Sulawesi (Indotestudo forstenii) di Semenanjung Santigi, Sulawesi Tengah, Indonesia",
+        "pub_year": "2017",
+        "citation": "Jurnal Biologi Indonesia 6 (2), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15746571153728652360",
+      "cites_id": [
+        "15746571153728652360"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh suhu terhadap diferensial leukosit serta kadar malondialdehide (mda) burung puyuh (Coturnix Coturnix Japonica)",
+        "pub_year": "2017",
+        "citation": "Bioma 13 (2), 81-89, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:rFyVMFCKTwsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4290578700345136426",
+      "cites_id": [
+        "4290578700345136426"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kejadian Indel Simultan pada Intron 7 Gen Branched-Chain \u03b1-Ketoacid Dehydrogenase E1a (BCKDHA) pada Sapi Madura",
+        "pub_year": "2015",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 20 (2), 97-102, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:xyvS_IvSCKsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14558357002194375670",
+      "cites_id": [
+        "14558357002194375670"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman genetik DNA Y-kromosom pada enam rumpun kambing lokal Indonesia",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:vVJNg6_NJEsC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4343242048952767683",
+      "cites_id": [
+        "4343242048952767683"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik Ukuran Tubuh dan Polimorfisme Gen GH, GHRH dan Pit-1 pada Populasi Kerbau di Banten",
+        "pub_year": "2009",
+        "citation": "IPB (Bogor Agriculture University), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17661040118194476998",
+      "cites_id": [
+        "17661040118194476998"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The complete nucleotide sequence of Malayan soft-shelled turtle (Dogania subplana) mitochondrial genome",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14187954979584997274",
+      "cites_id": [
+        "14187954979584997274"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphology and molecular identification on octopus (Genus Octopus Cuvier, 1798) caught in Palabuhanratu, Sukabumi, West Java",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 420 (012011), 1-9, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:I9gX6wnfuA8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9253879015412897688",
+      "cites_id": [
+        "9253879015412897688"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Herpetofauna diversity, potential ecotourism in Mount Galunggung, West Java, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (4), 1173-1179, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:pRWBApOjXDcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3122285279388522937",
+      "cites_id": [
+        "3122285279388522937"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of Genetic Diversity of Local Buffalo (Bubalusbubalis) Based on Mitochondrial DNA Halotipe",
+        "pub_year": "2011",
+        "citation": "National Seminar on Animal Husbandry and Veterinary Technology. Department \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ujxm2eEBZHIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15031667018954792905",
+      "cites_id": [
+        "15031667018954792905"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of growth hormone genes familly (GH, GHR, GHRH and Pit-1) for detecting genetic variation of buffaloes in Pandeglang and Lebak districts in Banten Province.",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15354433762332335320",
+      "cites_id": [
+        "15354433762332335320"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of growth hormone releasing hormone gene in local buffalo (Bubalus bubalis) using PCR-RFLP",
+        "pub_year": "2009",
+        "citation": "IPB (Bogor Agricultural University), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:7VEv-pLvLSsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5043776090290681914",
+      "cites_id": [
+        "5043776090290681914"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Association between polymorphism of \u03b2-lactoglobulin gene on milk yield and quality in local sheep at jonggol animal science teaching and research unit (Jastru)",
+        "pub_year": "2008",
+        "citation": "ANNALES BOGORIENSES 12 (1), 17-24, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:XDrR66g3YHsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5841117789594888762",
+      "cites_id": [
+        "5841117789594888762"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Laktoferin Pada Susu Kambing Kacang Dengan Metode Imunodifusi Radial Tunggal Dan Natrium Dodesil Sulfat Poliakrilamida Elektroforesis Gel",
+        "pub_year": "2007",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 12 (3), 163-172, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:RXiHnyRawswC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16996685337706543436",
+      "cites_id": [
+        "16996685337706543436"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The variation of microsatellite DNA among fat, medium and thin tail local sheeps",
+        "pub_year": "2007",
+        "citation": "J. Ilmiah Ilmu Peternakan dan Perikanan, Protein 14, 1-8, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:WF5omc3nYNoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2075117524789074105",
+      "cites_id": [
+        "2075117524789074105"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A preliminary survey of the freshwater shrimp genus Caridina from eastern Sulawesi, Indonesia",
+        "pub_year": "2021",
+        "citation": "Tropical Natural History 21 (2), 337-342, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:BCdnXsLIVDwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=972623802724814826",
+      "cites_id": [
+        "972623802724814826"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution of Matuta purnama JCY Lai & Galil, 2007 (Brachyura: Matutidae) outside type locality",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 744 (1), 012023, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:tgTmbKTkO1IC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7717579022278371655",
+      "cites_id": [
+        "7717579022278371655"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The mitochondrial cytochrome c oxidase subunit I (COI) for identification of batoids collected from landed sites in Medan, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (11), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:xii_ZKWM4-0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9984638014624938492",
+      "cites_id": [
+        "9984638014624938492"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Newly distribution record of four marine crabs (Decapoda: Brachyura) collected from Seribu Island-Jakarta, Indonesia",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:wkm4DBaukwsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14511690951030678992",
+      "cites_id": [
+        "14511690951030678992"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Notes on the distribution of Caridina sulawesi, an endemic freshwater shrimp from Sulawesi, Indonesia",
+        "pub_year": "2020",
+        "citation": "BIO Web of Conferences 19, 00001, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:SWgZeABleR0C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14517270894491369062",
+      "cites_id": [
+        "14517270894491369062"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Determination of grouper species of subfamily Epinephelinae from Raja Ampat (West Papua) region using CO1 gene sequence",
+        "pub_year": "2019",
+        "citation": "Majalah Ilmiah Biologi BIOSFERA: A Scientific Journal 36 (3), 112-117, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:CRzUtm-VnGAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5697422910437527112",
+      "cites_id": [
+        "5697422910437527112"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Suitable COI Marker for Lobster of Genus Panulirus.",
+        "pub_year": "2019",
+        "citation": "Pakistan Journal of Scientific and Industrial Research Series B: Biological \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:vofGIMt6cyEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10531765822162671019",
+      "cites_id": [
+        "10531765822162671019"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Leatherback turtle (Dermochelys coriacea) populations in Sumatra: genetic diversity and connectivity pattern.",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:WM2K3OHRCGMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6350820713704286834",
+      "cites_id": [
+        "6350820713704286834"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymorphism of Pituitary-Specific Transcription Factor-1 (Pit-1) Gene at Locus (Pit-1-Hinf1) and its effects on dam body weight and milk production of local sheeps",
+        "pub_year": "2009",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:GnPB-g6toBAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6304087334244441035",
+      "cites_id": [
+        "6304087334244441035"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi alel pembawa bovine leucocyte adhesion deficiency (BLAD) pada sapi perah friesian holstein di Indonesia",
+        "pub_year": "2007",
+        "citation": "Pros. Sem. Nas. Tek. Per. Vet, 21-25, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7323460651997662043",
+      "cites_id": [
+        "7323460651997662043"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Keragaman Genetik dan Filogeni Molekular Bangsa Kura-Kura Air Tawar (Reptilia: Testudines) di Indonesia sebagai Dasar Pelestarian dan Pemanfaatannya",
+        "pub_year": "1998",
+        "citation": "Laporan Pelaksanaan RUT 1, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12209182866329962525",
+      "cites_id": [
+        "12209182866329962525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity of the endangered endemic Anoa (Bubalus spp): Implication for conservation",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (5), 586-596, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:s1ouQE5r0WUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9576407414769341288",
+      "cites_id": [
+        "9576407414769341288"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Origin and phylogenetic analysis of Pasundan cattle based on D-loop of Mitochondrial genome",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1001 (1), 012041, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:pxXbYLTb8EgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5632459983780027805",
+      "cites_id": [
+        "5632459983780027805"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mitochondrial DNA suggests the existence of two distinct species in Moluccas and New Guinea within Nyctimystes infrafrenatus (G\u00fcnther, 1867)",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (8), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Ul_CLA4dPeMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16154913940984789820",
+      "cites_id": [
+        "16154913940984789820"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population dynamics of pronghorn spiny lobster (Panulirus penicillatus) in Palabuhanratu Bay, Sukabumi, West Java",
+        "pub_year": "2021",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:U5uP8zs9lfgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=496049769053391079",
+      "cites_id": [
+        "496049769053391079"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic Study of Madura Cattle Based on Mitochondrial Cyt b and D-loop Sequences",
+        "pub_year": "2021",
+        "citation": "Bulletin of Animal Science 45 (1), 14-20, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:nU66GSXDKhoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14855235474147205162",
+      "cites_id": [
+        "14855235474147205162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "First record of Hippa admirabilis Thallwitz, 1891 (Crustacea: Decapoda: Hippidae) from Tomini Bay, Province Gorontalo, Indonesia confirmed by DNA barcoding",
+        "pub_year": "2020",
+        "citation": "BIO Web of Conferences 19, 00019, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:v_xunPV0uK0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6594423090898055212",
+      "cites_id": [
+        "6594423090898055212"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Suitable COI Marker for Lobster of Genus Panulirus: COI Markers for Panulirus Lobster",
+        "pub_year": "2019",
+        "citation": "Biological Sciences-PJSIR 62 (2), 111-115, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:N6_Y7JlWxwsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13639817711408748044",
+      "cites_id": [
+        "13639817711408748044"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sex-changing patterns of Akoya pearl oyster (Pinctada fucata)",
+        "pub_year": "2018",
+        "citation": "Zoological Letters 4, 1-7, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:cB__R-XWw9UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9706446797319542072",
+      "cites_id": [
+        "9706446797319542072"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Redescription of Larval Development in Cultured Pearl Oyster Pinctada maxima",
+        "pub_year": "2018",
+        "citation": "Ilmu Kelautan 23 (2), 109-112, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:wGzT3bKASkAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12953955696908312910",
+      "cites_id": [
+        "12953955696908312910"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hubungan filogenetik Phrynella pulchra Boulenger, 1887 Berdasarkan Gen 16s rRNA",
+        "pub_year": "2017",
+        "citation": "Zoo Indonesia 26 (2), 107-115, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:kO05sadLmrgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=813652953647829960",
+      "cites_id": [
+        "813652953647829960"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi genetik gen myostatin ekson 3 pada sembilan bangsa kambing lokal di Indonesia",
+        "pub_year": "2017",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 22 (2), 73-78, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:nWoA1JPTheMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7122665809777061859",
+      "cites_id": [
+        "7122665809777061859"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New record of Macrobrachium gua (Chong, 1989)(Crustacea Palaemonidae) from Sintang, West Kalimantan, Indonesia",
+        "pub_year": "2016",
+        "citation": "Biodiversity Journal 7 (3), 297-300, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:l6Q3WhenKVUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=243002109016566710",
+      "cites_id": [
+        "243002109016566710"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Micropechis ikaheka (Elapidae) in Papua, Indonesia: A Study of Diet and Cannibalism",
+        "pub_year": "2015",
+        "citation": "Herpetology Notes 8, 323-328, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:aDl3D7KC1E4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5073870248279500642",
+      "cites_id": [
+        "5073870248279500642"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Growth Hormone Releasing Hormone Gene in Local Buffalo Buffalo (Bubalus bubalis) Using PCR-RFLP",
+        "pub_year": "2012",
+        "citation": "International Seminar on Animal Industry, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12209708837230925978",
+      "cites_id": [
+        "12209708837230925978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular characterization of six sub population Indonesian local goats based on mitochondrial DNA D-loop.",
+        "pub_year": "2011",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:HDshCWvjkbEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4059743650674460591",
+      "cites_id": [
+        "4059743650674460591"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Keragaman Genetik dan Identifikasi Marka Gen Pertumbuhan pada Kerbau di Indonesia",
+        "pub_year": "2007",
+        "citation": "IPB (Bogor Agricultural University), 2007"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Ej9njvOgR2oC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10777721327275219785",
+      "cites_id": [
+        "10777721327275219785"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymorphism of \u00df-casein gene in Indonesian sheep",
+        "pub_year": "2007",
+        "citation": "Proceedings of The 2nd International Symposium on Food Security \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11542635058367825767",
+      "cites_id": [
+        "11542635058367825767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new high elevation species of Oreophryne Boettger (Anura: Microhylidae) from Sulawesi, Indonesia",
+        "pub_year": "2023",
+        "citation": "Zootaxa 5353 (5), 455-467, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:5F1dSjz1ScoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10133052492234689959",
+      "cites_id": [
+        "10133052492234689959"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New sightings reported in western Indonesia and a preliminary study of Hippa ovalis distribution in Indonesian waters",
+        "pub_year": "2023",
+        "citation": "Taiwania 68 (1), 116-121, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:-38epGy1wY0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8107188219139554176",
+      "cites_id": [
+        "8107188219139554176"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Emerita pangandaranensis sp. nov., a new sand crab (Anomura, Hippidae) from the South Coast of Java, Indonesia",
+        "pub_year": "2022",
+        "citation": "ARPHA Preprints 3, e81075, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:NnTm98qLMbgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7771408892670468610",
+      "cites_id": [
+        "7771408892670468610"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Insulin-like growth factor 1 (IGF-1) gene polymorphisms in Madura karapan and beef cattle breed",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (10), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:QKtdBID3u5MC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2146539650051060583",
+      "cites_id": [
+        "2146539650051060583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA barcoding for identification freshwater shrimp from Jambi Province, Sumatra, Indonesia",
+        "pub_year": "2019",
+        "citation": "RESEARCH JOURNAL OF PHARMACEUTICAL BIOLOGICAL AND CHEMICAL SCIENCES 10 (1 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:VnuxuLaQPLMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8206530334589062923",
+      "cites_id": [
+        "8206530334589062923"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi DNA barcode pada penentuan spesies udang air tawar yang berasal dari Provinsi Jambi",
+        "pub_year": "2016",
+        "citation": "Jurnal Bioconcetta 2 (1), 50-59, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:GUYAmugLYisC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7782745625883742162",
+      "cites_id": [
+        "7782745625883742162"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Berudu Anura di Sungai Kedurang, Bengkulu Selatan dan Pusat Pendidikan Konservasi Alam Bodogol, Jawa Barat",
+        "pub_year": "2012",
+        "citation": "Media Konservasi 17 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:bXQfdp6S9ecC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18416152190914740613",
+      "cites_id": [
+        "18416152190914740613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rapid detection of the Africanized honey bee: a tool for Indonesian animal quarantine",
+        "pub_year": "2009",
+        "citation": "Biotropia 16 (1), 2009"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6738641092059721588",
+      "cites_id": [
+        "6738641092059721588"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Gen K-Kasein dan Hubungannya dengan Produksi dan Kualitas Susu pada Domba di Unit Pendidikan dan Penelitian Peternakan (UP3) Jonggol",
+        "pub_year": "2008",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 13 (1), 49-55, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15988679638230731204",
+      "cites_id": [
+        "15988679638230731204"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Endangered Sulawesi Tortoise (Indotestudo forstenii): Behavior, habitat, population in the wild and the harvest level",
+        "pub_year": "2008",
+        "citation": "Annual Report to TCF & CI, USA, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13750031234704795716",
+      "cites_id": [
+        "13750031234704795716"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Peningkatan Produksi dan Kualitas Karkas Ternak Domba Lokal Melalui Program Seleksi dengan Menggunakan Penciri Genetik Callipyge Gene",
+        "pub_year": "2002",
+        "citation": "IPB (Bogor Agricultural University), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:1wZ_wKGpLuwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3575414123998148293",
+      "cites_id": [
+        "3575414123998148293"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi Genom Mitokondria Labi-Labi, Dogania subplana (Trionychidae, Testudines, Reptilia)",
+        "pub_year": "2002",
+        "citation": "IPB (Bogor Agricultural University), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15805186209653046679",
+      "cites_id": [
+        "15805186209653046679"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengujian Kemurnian Sapi Bali dengan Menggunakan Metode Isoelektric Focusing",
+        "pub_year": "2001",
+        "citation": "Media Peternakan 24 (3), 94-100, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:eAUscmXIlQ8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15312742047381294525",
+      "cites_id": [
+        "15312742047381294525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nucleotide Sequence of Whole Mitochondrial DNA of a Soft-shelled Turtle, Dogania, and PCR RFLP Analyses of Cytochrome b Gene",
+        "pub_year": "1998",
+        "citation": "Proceeding of The Tokyo International Forum on Conservation and Sustainable \u2026, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7809946416678047625",
+      "cites_id": [
+        "7809946416678047625"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Primata di Jawa Barat: Struktur Genetik dan Diferensiasi mtDNA Populasi Moyet Ekor Panjang (Macaca fascicularis)",
+        "pub_year": "1995",
+        "citation": "Laporan Penelitian, 1995"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4129276469800337077",
+      "cites_id": [
+        "4129276469800337077"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nucleotides Variability of Branched Chain Ketoacid Dehydrogenase E1-\u03b1 Polypeptide (BCKDHA) Gene on Madura Cattle",
+        "pub_year": "2024",
+        "citation": "The 1st International Seminar on Tropical Bioresources Advancenment and \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:qCaWouos7ogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Variation of Albunied Crab Albunea symmysta (Crustacea: Albuneidae) from Enggano Island and Adjacent Region",
+        "pub_year": "2024",
+        "citation": "The 1st International Seminar on Tropical Bioresources Advancenment and \u2026, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:5bfplxN71z4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sexual dimorphism phenomenon of first record Macrobrachium lar (Fabricius, 1978) from the southern Sukabumi, West Java, Indonesia",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (5), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:6Zm5LS9gQ5UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A reference collection of the acoustic signals of male Nyctixalus margaritifer Boulenger, 1882 (Anura: Rhacophoridae)",
+        "pub_year": "2024",
+        "citation": "RAFFLES BULLETIN OF ZOOLOGY 72, 110\u2013115, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ovGv7akYl-cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unraveling fine-scale genetic structure in endangered hawksbill turtle (Eretmochelys imbricata) in Indonesia: implications for management strategies",
+        "pub_year": "2024",
+        "citation": "Frontiers in Marine Science 11, 1358695, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:DUFsPKDdMi0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Food Habits of the Common Palm Civet (Paradoxurus hermaphroditus) in Pangandaran Nature Reserve, West Java, Indonesia: a Preliminary Report",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 687-692, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:nroGzMJTTpEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Diversity and Differentiation of Sand Crab (Albunea symmysta)(Crustacea: Decapoda: Hippoidea) from Java and Papua, Indonesia",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 671-677, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:koF6b02d8EEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of the 4th Exon of DRD4 Gene in Arab Tiara G15 Chicken Breed with Feather Pecking Behaviors",
+        "pub_year": "2024",
+        "citation": "Jurnal Ilmu Pertanian Indonesia, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:I2jIoRS3jIgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Female reciprocal calling of pearly tree frog (Nyctixalus margaritifer Boulenger, 1882) in West Java, Indonesia",
+        "pub_year": "2024",
+        "citation": "Zootaxa 5410 (2), 297-300, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:3_f9JqYsqVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Notes on freshwater shrimp (Crustacea, Decapoda, Caridea) from Belitung, Indonesia",
+        "pub_year": "2024",
+        "citation": "ARPHA Preprints 5, e120274, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:9tXw7Op4-u0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Structure of Gallus varius Based on Middle-Lower Section of Control Region mtDNA",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (3), 548-558, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:3x-KLxxGyuUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "STUDY ON MORPHOLOGICAL CHARACTERS OF INDONESIAN LITTER FROG (LEPTOBRACHIUM, MEGOPHRYIDAE)",
+        "pub_year": "2023",
+        "citation": "Treubia 50 (2), 89-110, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:KsTgnNRry18C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of brachyuran crab (Crustacea: Decapoda) in West Coast of North Sumatra, Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012055, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:lRPiJ3GhvscC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New distribution record of Hippoid crabs on Bali strait, Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012029, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:kvJssbFybhEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distribution of moon crab Matuta victor (Fabricius, 1781) from the West and East of Java coastline and the comparison of COI mitochondria among the locations: This title will \u2026",
+        "pub_year": "2023",
+        "citation": "Frontier in Sustainable Agromaritime and Environmental Development \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:PZE8UkGerEcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Looking at the potential of HSP70 gene sequence in the germplasm of Indonesian green jungle fowl: This title will be presented on Friday, December 15, 2023 at 13.35-13.45 GMT+ 7.",
+        "pub_year": "2023",
+        "citation": "Frontier in Sustainable Agromaritime and Environmental Development \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:9VeumLvkZSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Notes on two rare species of brachyuran crabs (families Matutidae and Parthenopidae) from Indonesian waters with new distribution records",
+        "pub_year": "2023",
+        "citation": "Tropical Life Sciences Research 34 (3), 185, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:TeJ9juy8vcMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Undur-Undur Laut (Anomura: Hippidae) Dari Kepulauan Banda",
+        "pub_year": "2023",
+        "citation": "Jurnal Ilmu Pertanian Indonesia 28 (1), 155-161, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Q3-QASNKTMEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variations of Exon 2-3 of the Branched Chain Keto Acid Dehydrogenase E1 Subunit Alpha (BCKDHA) Gene and Its Flanking Intronic Region in Madura Cattle",
+        "pub_year": "2022",
+        "citation": "Al-Hayat: Journal of Biology and Applied Biology 5 (2), 141-146, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:s2G-WRnXBicC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Leukocyte Profile of Dexamethasone-Induced Quail After Administration of Bombyx Mori Silkworm Pupae Extract",
+        "pub_year": "2022",
+        "citation": "Journal Tropical Animal Science and Technology 9 (2), 523-528, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Ei5r6KrKXVQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Batoid Fishes from North Sumatra waters, Indonesia: Comparing between 12S and 16S rRNA gene as DNA marker.",
+        "pub_year": "2021",
+        "citation": "ILMU KELAUTAN: Indonesian Journal of Marine Sciences 26 (4), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:XeErXHja3Z8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Freshwater Fish Distribution and Biodiversity in the Padang-Bengkulu Border Area",
+        "pub_year": "2021",
+        "citation": "BIOLOGICA SAMUDRA 3 (2), 94-103, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:za7pDTvVV8kC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Emerita pangandaranensis sp. nov., a new sand crab (Anomura: Hippidae) from South Coast of Java, Indonesia",
+        "pub_year": "2021",
+        "citation": "ARPHA Preprints 2, e72509, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:dFKc6_kCK1wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characterization of whole mitochondrial genome Amyda cartilaginea from Dharmasraya, West Sumatera",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 744 (1), 012047, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:cdwqcPQS8ssC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic variation of COI gene of Hippa admirabilis in Northern Sulawesi",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 744 (1), 012060, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:1xBWf43XMUgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Notes on the distribution ofCaridina sulawesi, an endemic freshwater shrimp from Sulawesi, Indonesia",
+        "pub_year": "2021",
+        "citation": "E3S Web of Conferences 322, 01012, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:w7CBUyPWg-0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MIGRASI Hemidactylus platyurus (Squamata: Gekkonidae) DI INDONESIA",
+        "pub_year": "2020",
+        "citation": "Zoo Indonesia 27 (1), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:vD2iS2Kej30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secondary productivity of small Crustacea, Neosesarma sp. in Bintan Island waters, Riau Islands",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 420 (012017), 1-9, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:HqhvjgTjE9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New record of Charybdis goaensis (Decapoda: Brachyura: Portunidae) in Indonesia",
+        "pub_year": "2020",
+        "citation": "BIO Web of Conferences 19, 00010, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ufKn5pxu7C0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Teknik Environmental Dna (edna) untuk Deteksi Spesies Cheraxquadricarinatus (Von Martens 1868) Menggunakan Sampel Air",
+        "pub_year": "2018",
+        "citation": "Jurnal Biologi Tropis 18 (2), 134-140, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:8RAEygVn5_EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Clarification of freshwater shrimp species with DNA barcoding",
+        "pub_year": "2018",
+        "citation": "MISEIC 2018, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:i91s68tWr-MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Molekuler Mircohyla Tschudi, 1839 dari Sumatra berdasarkan gen 16S rRNA Mitokondria",
+        "pub_year": "2017",
+        "citation": "Zoo Indonesia 26 (2), 70-90, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:WIXB4To3Tx4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KERAGAMAN DNA MIKROSATELIT SAPI FRIESIAN HOLSTEIN (FH) DI BALAI PEMBIBITAN TERNAK UNGGUL (BPTU) SAPI PERAH BATURRADEN",
+        "pub_year": "2017",
+        "citation": "Seminar Nasional Teknologi Peternakan dan Veteriner 2006, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:IExZWSxeYXUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KERAGAMAN GEN K-KASEIN DAN HUBUNGANNYA DENGAN PRODUKSI DAN KUALIT AS SUSU PADA DO MBA DI UNIT PENDIDIKAN DAN PENELITIAN PETERNAKAN (UP3) JONGGOL",
+        "pub_year": "2017",
+        "citation": "Jurnal llmu Pertanian Indonesia, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:U3qCfcK-7lkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SKKD NO. 402/UN25. 5.1/TU. 3/2016.\" konfirmasi identitas kepiting air tawar (brachyura) menggunakan gen cytochrome C oxidase sub unit 1 (COI).\"",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:iKswqCX-FLkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resource stoichiometry and habitat structure drive diversity and biomass density of tropical macro-invertebrate communities",
+        "pub_year": "2016",
+        "citation": "101st ESA Annual Meeting (August 7--12, 2016), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:37Fl7vPTsUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEKTIVITAS JENIS ALAT TANGKAP DAN JENIS UMPAN YANG DIGUNAKAN UNTUK MENANGKAP UDANG AIR TAWAR DI DANAU KAMPUS INSTITUT PERTANIAN BOGOR",
+        "pub_year": "2016",
+        "citation": "Zoo Indonesia 24 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:SpPTWFSNUtQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perbandingan Filogeografi Dari Ikan Air Tawar Di Jawa Dan Bali Menggunakan Barcode Dna",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultural University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:FQ36aI_S1AEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulir Hasil Validasi (The mole crab Hippa marmorata (Hombron et Jocquinot, 1846)(Crustacea Anomura Hippidae): a first record from Indonesia Waters)",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:QtA78RmWg5MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaan Gen Pituitary-Specipik Transcription Factor-1 Locus Pit-1-Hinf1 dan Pengaruhnya terhadap Bobot Tumbuh Induk, dan Produksi Susu Pada Domba Lokal",
+        "pub_year": "2016",
+        "citation": "other, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:o-PowTg_VKEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulir Hasil Validasi (Biodiversity of Indonesian sand crabs (Crustacea, Anomura, Hippidae) and asssessment of their phylogenetic relationships)",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:cww_0JKUTDwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulir Falidasi (First record of Puerulus Mesodontus chan, Ma dan Chu, 2013 (Crustacea, Decapoda, Achelata, Palinuridae) form south of Java, Indonesia)",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:J4E9jCG1tHUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulir Validasi (On the presence of the Andaman lobster, Metanephrops andamanicus (WoodMason, 1891)(Crustacea Astacidea Nephropidae) in Palabuhanratu bay (S-Java, Indonesia))",
+        "pub_year": "2016",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:HKviVsUxM5wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Leatherback turtle (Dermochelys coriacea) populations in Sumatra: genetic diversity and connectivity pattern",
+        "pub_year": "2016",
+        "citation": "AACL Bioflux 9 (2), 276-283, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:X4-KO54GjGYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AACL BI OFLUX",
+        "pub_year": "2015",
+        "citation": "AACL Bioflux 8 (2), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:IvSMUa3B7yYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Testing Reliability of Serum Samples as a DNA Source on Captive Breeding Long-tailed Macaques (Macaca fascicularis)",
+        "pub_year": "2014",
+        "citation": "Biotropia 21 (2), 125-130, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:BAanoTsO0WEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Formulir Hasil Validasi (Diversitas dan Kelimpahan Kepiting Pasir di Pantai Selatan Jawa Tengah)",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:2Q0AJrNhS-QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The freshwater atyid shrimps of the genus Caridina (Crustacea: Decapoda: Caridea) from Lake Lindu, Central Sulawesi, Indonesia",
+        "pub_year": "2014",
+        "citation": "IPB (Bogor Agricultural University), 2014"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:g8uWPOAv7ggC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymorphism of Leptin and Myostatin Genes in Aceh and Madura Cattles",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:-vzq6BoH5oUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiple levels of categorization in long tailed macaque (Macaca fascicularis)",
+        "pub_year": "2012",
+        "citation": "\u970a\u9577\u985e\u7814\u7a76 Supplement \u7b2c 28 \u56de\u65e5\u672c\u970a\u9577\u985e\u5b66\u4f1a\u5927\u4f1a, 41, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:GHsHDPAyICYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Basic Level of Categorization in Macaca fascicularis",
+        "pub_year": "2011",
+        "citation": "HAYATI Journal of Biosciences 18 (4), 177, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:uUvzmPk0f8oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Alel BoLA DRB 3.2 pada Sapi Madura",
+        "pub_year": "2010",
+        "citation": "IPB (Bogor Agricultural University), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:oFn-K-OQSCAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification Polymorphism Of Pituaitary-Scecific Positive Transciption Factor 1 (Pit1) Gene In Indonesian Swamp Buffalo (Bubalus Bubalis) And Holstein Friesan Cows",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:I-2NeQpV75MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification The Polymorphism Of Growth Hormone Releasing Hormone (GHRH) Gene In Local PCR-RFLP Method",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:e3CVSTJ63dQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic Polymorphism Of The Kappa Casein Gene In Holstein Friesian Dairy Cattle In West Java Province",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FREKUENSI GEN \u03ba-KASEIN FRIESIAN-HOLSTEIN DI WILAYAH SENTRA PRODUKSI SUSU",
+        "pub_year": "2007",
+        "citation": "Prosiding Seminar Nasional Peternakan dan Veteriner, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:1paMEeroeoQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation on DNA microsatellite of Holstein-Friesian dairy cows in Baturaden Dairy Cattle Breeding Center",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:I858iXPj1OkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komposisi Makanan Pada Tiga Spesies Cicak (Cosymbotus platyurus Schneider, Hemidactylus frenatus Dumb. Bibr, Dan Gehyra mutilata Weigm.) Melalui Analisis Makanan Dalam Lambung",
+        "pub_year": "2007",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEJANTAN TERHADAP KERAGAMAN DNA MIKROSATELIT DARI LOKUS CSN-3, BM 143, BM 415 DI KROMOSOM BTA-6",
+        "pub_year": "2006",
+        "citation": "Lokakarya Nasional Pengelolaan dan Perlindungan Sumber Daya Genetik di \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:RJNGbXJAtMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Association between Polymorphism of B-Lactoglobulin Gene on Milk Yield and Quality in Local Sheep at Jonggol Animal Science Teaching and Research Unit (JASTRU)",
+        "pub_year": "2005",
+        "citation": "Annales Bogorienses 10 (1), 17, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:gFrPXmx1TSsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mitochondrial transfer RNA [tRNA] genes of Malayan softshell turtles (Dogania subplana, Reptilia)",
+        "pub_year": "1998",
+        "citation": "Hayati: Jurnal Biosains (Indonesia) 5 (4), 1998"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Polymorphism of Cyt-b Gene in Several Indonesian Cattle Using PCR-RFLP Method",
+        "citation": "Buletin Peternakan 48 (2), 106-110, 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:SPgmg5JLkoEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Birahi dan siklus berahi kambing",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:QeguYG95ZbAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi perilaku anoa (Bubalus (Anoa) quarlesi) di kebun binatang Ragunan Jakarta",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:onKP9CxGSkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kejadian Indel Simultan pada Intron 7 Gen Branched-Chain \u03b1-Ketoacid Dehydrogenase E1a (BCKDHA) pada Sapi Madura (Simultaneous Indel of Intron 7 of Branched-Chain \u03b1-Ketoacid \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:Oj-SLI0tZTcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "https://doi.org/10.21315/tlsr2023.34.3.10",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:h1pkognVyKwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multiple levels of categorization in long tailed macaque (Macaca fascicularis)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:g30IDTdgJMgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gen Miostatin pada Domba Lokal Indonesia",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:1_W9tMSvGuwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Aplikasi Seleksi Domba Lokal Unggul dengan Menggunakan Penciri Genetik (Marker Gene)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:BFa5h04uPMwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman Genetik Dan Asal Penyu Belimbing (Dermochelys Coriacea) Di Sumatera",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:hB2aVRuWZNwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The freshwater atyid shrimps of the genus Caridina (Crustacea: Decapoda: Caridea) from Lake Lindu, Central Sulawesi, Indonesia",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:uEM9VtRl8xsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Udang Air Tawar di Sungai yang Berhulu di Gunung Salak, Jawa Barat",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:uPCvBZYD9qUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Observation of defensive behaviour and characterization of string-2 gene and EST1 Apis cerana in West Java, Indonesia",
+        "citation": "The Asian-Australian Association of Animal Production Societies, 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:jKT558fuBk8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian pembentukan ruas dna berulang dalam daerah pengontrol genom mitokondria labi-labi",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ynsZFq2pu0MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IDENTIFIKASI KERAGAMAN GEN GH, GHRH, DAN PIT-1 PADA KERBAU DI PROVINSI BANTEN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:oH8HCDhqVGsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Jenis Ikan Air Tawar di Sungai-sungai yang Berasal dari Gunung Salak",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:YGhAHpnIhDoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pola Distribusi Geografis Pada Udang Mantis Di Laut Jawa Berdasarkan Genom Mitokondria",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:jRIwE-1ttnoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi Gen Hormon Pertumbuhan (GH, GHRH) sebagai Marka dalam Seleksi Peningkatan Bobot Potong dan Kualitas Daging pada Kerbau (Penelitian lanjutan Tahun III)",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:KIRwYnRZzWQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biological Information on Harpiosquilla raphidea (Fabricius 1798)(Stomatopoda, Crustacea) with a highlight to reproductive aspects",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:cOfwuRB03ygC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Published on: 25 February 2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:j2GSQqY3pL0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The first occurrence of Cycloachelous granulatus (H. Milne Edwards, 1834)(Decapoda Portunidae) from Klah Island, Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:_9Xh93LWpsYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MIGRASI Hemidactylus platyurus (Squamata: Gekkonidae) DI INDONESIA MIGRATION OF Hemidactylus platyurus (Squamata: Gekkonidae) IN INDONESIA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:oynPyU19kbsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEANEKARAGAMAN UDANG AIR TAWAR PADA SUNGAI DI LAHAN PERKEBUNAN PROVINSI JAMBI",
+        "citation": "PROSIDING, 27, 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:ybfzIt2tCtgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BASED ON 16S rRNA GENE",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:8p8iYwVyaVcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Newly distribution record of four marine crabs (Decapoda: Brachyura) collected from Seribu Island-Jakarta, Indonesia",
+        "citation": "https://iopscience.iop.org/article/10.1088/1755-1315/457/1/012022, 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:It0W0vAlS5QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Turtle Conservation Fund",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:4DMP91E08xMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakterisasi dan Identifikasi Marka Gen Pertumbuhan dan Produksi Susu Domba Lokal",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "G-wgx3sAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 7,
+    "not_available": 0
+  }
+}

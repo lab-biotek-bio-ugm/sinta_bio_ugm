@@ -1,0 +1,249 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "ykIPWa8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Yayat Hidayat",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ykIPWa8AAAAJ&citpid=3",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "Forestry"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 156,
+  "citedby5y": 101,
+  "hindex": 6,
+  "hindex5y": 5,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2010": 2,
+    "2011": 5,
+    "2012": 2,
+    "2013": 2,
+    "2014": 2,
+    "2015": 3,
+    "2016": 7,
+    "2017": 12,
+    "2018": 13,
+    "2019": 20,
+    "2020": 15,
+    "2021": 18,
+    "2022": 19,
+    "2023": 25,
+    "2024": 4
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2Zzi-c4AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Iskandar Zulkarnaen Siregar",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon pertumbuhan akar tanaman sengon (Paraserianthes falcataria) terhadap kepadatan dan kandungan air tanah podsolik merah kuning",
+        "pub_year": "2000",
+        "citation": "Jurnal Manajemen Hutan Tropika 6 (2), 2000"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 81,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=786959568341712052",
+      "cites_id": [
+        "786959568341712052"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pertumbuhan Akar Primer, Sekunder dan Tersier Stek Batang Bibit Surian (Toona sinensis Roem)",
+        "pub_year": "2010",
+        "citation": "Wana Mukti 10, 1-8, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=965414333295558836,11982077425048242718",
+      "cites_id": [
+        "965414333295558836",
+        "11982077425048242718"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkembangan Bunga dan Buah pada Tegakan Benih Surian (Toona Sinensis Roem)",
+        "pub_year": "2010",
+        "citation": "Agrikultura 21 (1), 13-20, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7330853950692997570",
+      "cites_id": [
+        "7330853950692997570"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological variation of surian (Toona sinensis Roem) candidate plus trees collected from community forest population in west Java and central Java",
+        "pub_year": "2010",
+        "citation": "Proc. Promoting Boidiversity, Rainforest Protection, and Economic \u2026, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14970464884390983485",
+      "cites_id": [
+        "14970464884390983485"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keefektifan bahan sterilisasi dalam pengendalian kontaminasi pada pertumbuhan kultur zygotik Surian (Toona sinensis Roem)",
+        "pub_year": "2008",
+        "citation": "Wana Mukti 6, 35-44, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14433445945228868619",
+      "cites_id": [
+        "14433445945228868619"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kajian Optimalisasi Penggunaan Air Irigasi Di Daerah Irigasi Wanir Kabupaten Bandung",
+        "pub_year": "2012",
+        "citation": "Program Studi Magister Pengelolaan Sumber Daya Air, Fakultas Teknik Sipil \u2026, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3162191663709125787",
+      "cites_id": [
+        "3162191663709125787"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Waktu Penyimpanan Buah Terhadap Viabilitas Benih Gmelina (Gmelina arborea, Roxb)",
+        "pub_year": "2007",
+        "citation": "Wana Mukti 5, 27-36, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15334274492163591223",
+      "cites_id": [
+        "15334274492163591223"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendugaan Parameter Genetik, Korelasi Antar Karakter Fenotipik serta Hubungan Kekerabatan Genetik Populasi Bibit Surian (Toona sinensis Roem)",
+        "pub_year": "2011",
+        "citation": "Indonesian Journal of Applied Sciences 1 (1), 2011"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9482338241188354942",
+      "cites_id": [
+        "9482338241188354942"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Korelasi Genotipik dan Fenotipik antara Karakter Morfologi dengan Karakter Kayu Surian",
+        "pub_year": "2014",
+        "citation": "Seminar Nasional Masyarakat Peneliti Kayu Indonesia XV, 431-435, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indeks Keragaman jenis Pohon di Hutan Gunung Karang Banten",
+        "pub_year": "2010",
+        "citation": "Wana Mukti 11, 1-6, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi Morfologis Calon Pohon plus Surian (Toona sinensis Roem) pada populasi Hutan Rakyat di Jawa Barat dan Jawa Tengah",
+        "pub_year": "2010",
+        "citation": "Rimba Kalimantan 15, 18-24, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifikasi Kesalahan Identitas Genetik Jati antara Ramet dan Ortetnya Menggunakan Marka RAPD",
+        "pub_year": "2010",
+        "citation": "Zuriat 21, 34-43, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respon Pertumbuhan Akar Tanaman Sengon (Paraserianthes feltacaria) terhadap Kepadatan dan Kadar Air Tanah Podsolik Merah Kuning",
+        "pub_year": "2000",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ykIPWa8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

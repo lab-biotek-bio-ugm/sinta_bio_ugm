@@ -1,0 +1,998 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "ORnibDEAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Windra Priawandiputra",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ORnibDEAAAAJ&citpid=2",
+  "affiliation": "Lecturer of Biology, Bogor Agricultural University",
+  "organization": 13375182596662322286,
+  "interests": [
+    "Invertebrate Ecology",
+    "Aquatic Invertebrates",
+    "Insect Ecology",
+    "Pollination Ecology",
+    "Invertebrates Systematics"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "homepage": "http://priawandiputra.staff.ipb.ac.id/",
+  "citedby": 241,
+  "citedby5y": 225,
+  "hindex": 9,
+  "hindex5y": 8,
+  "i10index": 9,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2017": 3,
+    "2018": 6,
+    "2019": 5,
+    "2020": 15,
+    "2021": 40,
+    "2022": 44,
+    "2023": 82,
+    "2024": 38
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Musuh Alami Koloni Lepidotrigona terminata Smith (Hymenoptera: Apidae: Meliponinae)",
+        "pub_year": "2020",
+        "citation": "Jurnal Sumberdaya Hayati 6 (2), 33-39, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:_kc_bZDykSQC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14425583006765932548,3929751853461719202",
+      "cites_id": [
+        "14425583006765932548",
+        "3929751853461719202"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beekeeping and managed bee diversity in Indonesia: Perspective and preference of beekeepers",
+        "pub_year": "2022",
+        "citation": "Diversity 14 (1), 52, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5274710026369003593",
+      "cites_id": [
+        "5274710026369003593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Population growth and insecticide residues of honey bees in tropical agricultural landscapes",
+        "pub_year": "2019",
+        "citation": "Diversity 12 (1), 1, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:UebtZRa9Y70C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4716031580589445106",
+      "cites_id": [
+        "4716031580589445106"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flight activities and pollen load of Lepidotrigona terminata Smith (Apidae: Meliponinae)",
+        "pub_year": "2020",
+        "citation": "HAYATI Journal of Biosciences 27 (2), 97-97, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=991968823448831458",
+      "cites_id": [
+        "991968823448831458"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphological identification of stingless bees from Belitung",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012011, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11034614770050570727",
+      "cites_id": [
+        "11034614770050570727"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efektifitas empat perangkap serangga dengan tiga jenis atraktan di perkebunan pala (Myristica fragrans Houtt)",
+        "pub_year": "2015",
+        "citation": "Jurnal Sumberdaya Hayati 1 (2), 54-59, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16240263049018704415",
+      "cites_id": [
+        "16240263049018704415"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of freshwater mollusc assemblages between dry and rainy season in Situ Gede System, Bogor, Indonesia",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Earth and Environmental Science 58 (1), 012007, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11950852790742036564",
+      "cites_id": [
+        "11950852790742036564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of abundance and diversity of bees (Hymenoptera: Apoidea) collected by window traps among four types of forest on Noto Peninsula, Japan",
+        "pub_year": "2015",
+        "citation": "Far Eastern Entomologist, 1-23, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5299627619327445289",
+      "cites_id": [
+        "5299627619327445289"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Opportunities and challenges in Asian bee research and conservation",
+        "pub_year": "2023",
+        "citation": "Biological Conservation, 110173, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:TFP_iSt0sucC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7634450746686926986",
+      "cites_id": [
+        "7634450746686926986"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dung beetle assemblages in lowland forests of Pangandaran nature reserve, West Java, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:5nxA0vEk-isC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8773119235862126848",
+      "cites_id": [
+        "8773119235862126848"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfologi dan variasi morfometrik stingless bees di Kepulauan Maluku, Indonesia",
+        "pub_year": "2021",
+        "citation": "Jurnal Entomologi Indonesia 18 (1), 10-10, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9914565776963514756",
+      "cites_id": [
+        "9914565776963514756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aquatic insect community as indicator of water quality assessment in situ gede system, Bogor, Indonesia",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012016, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:roLk4NBRz8UC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5408499481059749124",
+      "cites_id": [
+        "5408499481059749124"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of aquatic insect assemblages between managed and unmanaged artificial lakes in Indonesia",
+        "pub_year": "2017",
+        "citation": "J. Entomol. Zool. Stud 5, 496-506, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13648208483717478094",
+      "cites_id": [
+        "13648208483717478094"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Panduan Budidaya Labah Tanpa Sengat (Stingless Bees) di Desa Perbatasan Hutan",
+        "pub_year": "2020",
+        "citation": "ZSL Indonesia, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7512920056139400821",
+      "cites_id": [
+        "7512920056139400821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RESEARCH ARTICLE Distribution modelling of Aedes aegypti in three dengue-endemic areas in Sumatera, Indonesia",
+        "pub_year": "2022",
+        "citation": "Tropical Biomedicine 39 (3), 373-383, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:-f6ydRqryjwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8011219639893313279",
+      "cites_id": [
+        "8011219639893313279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric characteristics and heavy metal bioaccumulation in edible freshwater gastropod (Filopaludina javanica)",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012005, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13885009387868692002",
+      "cites_id": [
+        "13885009387868692002"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community structure and habitat characteristics of dragonflies (Odonata) in tropical lowland forest of Ujung Kulon National Park",
+        "pub_year": "2020",
+        "citation": "Journal of Entomology and Zoology Studies 8 (5), 251-258, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:Zph67rFs4hoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3252499960809231209",
+      "cites_id": [
+        "3252499960809231209"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan komposisi keong air tawar (mollusca: gastropoda) di beberapa situ Kabupaten Bogor dan Kabupaten Sukabumi",
+        "pub_year": "2019",
+        "citation": "Limnotek: perairan darat tropis di Indonesia 26 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:0EnyYjriUFMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1218498602968489675",
+      "cites_id": [
+        "1218498602968489675"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Occurrence of microdebris in commercial cephalopod",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012029, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1973199314614801749",
+      "cites_id": [
+        "1973199314614801749"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of shallow water soft coral (Octocorallia) diversity and distribution among three islands in Makassar Strait, Indonesia",
+        "pub_year": "2022",
+        "citation": "Biodiversitas Journal of Biological Diversity 23 (11), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:mB3voiENLucC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=43376535408354713",
+      "cites_id": [
+        "43376535408354713"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flight activity and pollen resources of Apis nigrocincta and Apis cerana in Central Sulawesi, Indonesia",
+        "pub_year": "2022",
+        "citation": "Agriculture and Natural Resources 56 (3), 463\u2013472-463\u2013472, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:IWHjjKOFINEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=379497024634779",
+      "cites_id": [
+        "379497024634779"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Characteristics of apiculture and meliponiculture in Banten Province, Indonesia: profile of beekeepers, bee and pollen diversity",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012050, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13947391013833316861",
+      "cites_id": [
+        "13947391013833316861"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microdebris in Echinodea Tripneustes gratilla at Spermonde Archipelago, South Sulawesi, Indonesia",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 948 (1), 012027, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4977697324348826610",
+      "cites_id": [
+        "4977697324348826610"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Panduan budidaya lebah tanpa sengat di desa perbatasan hutan: Studi di Lubuk Bintialo dan Pangkalan Bulian, Sumatera Selatan",
+        "pub_year": "2020",
+        "citation": "Zoological Society of London (ZSL) Indonesia, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4381625701035156317",
+      "cites_id": [
+        "4381625701035156317"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diversity and distribution of two families of Sumatran land snail (Gastropoda: Camaenidae and Cyclophoridae)",
+        "pub_year": "2019",
+        "citation": "Berita Biologi 18 (3), 325-338, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:Se3iqnhoufwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10505308921070753598",
+      "cites_id": [
+        "10505308921070753598"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of land cover on the foraging behavior and pollen in the honey of the giant bee Apis dorsata in Sumatra",
+        "pub_year": "2024",
+        "citation": "Frontiers in Bee Science 2, 1366287, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18030678787642077012",
+      "cites_id": [
+        "18030678787642077012"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tropical lowland rainforest conversion to rubber monoculture affects flight activity and pollen resources of the stingless bees Tetragonula laeviceps: Konversi hutan tropis \u2026",
+        "pub_year": "2023",
+        "citation": "Jurnal Entomologi Indonesia 20 (1), 88-88, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8768288845589052425",
+      "cites_id": [
+        "8768288845589052425"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Density and habitat characterization of Aedes sp. breeding places in dengue Endemic Area in Bandar Lampung",
+        "pub_year": "2021",
+        "citation": "IOP Conference Series: Earth and Environmental Science 886 (1), 012065, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:4DMP91E08xMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13841381044690770903",
+      "cites_id": [
+        "13841381044690770903"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphology and morphometric variation of stingless bees in the Moluccas, Indonesia.",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:GnPB-g6toBAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=193059337792806148",
+      "cites_id": [
+        "193059337792806148"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity of dragonflies (Insecta: Odonata) in Ujung Kulon National Park",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012031, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14678507458222416863",
+      "cites_id": [
+        "14678507458222416863"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wild Bee Visitors of Squash (Cucurbita Maxima D.) and Tomato (Solanum Lycopersicum L.) Flowers In Two Types of Satoyama Habitats",
+        "pub_year": "2018",
+        "citation": "IOP Conference Series: Earth and Environmental Science 197 (1), 012037, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1314724065213322852",
+      "cites_id": [
+        "1314724065213322852"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variation in flowering plant-bee linkages following experimental restoration of satoyama paddy fields.",
+        "pub_year": "2017",
+        "citation": "International Proceedings of Chemical, Biological and Environmental \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7863978899327734691",
+      "cites_id": [
+        "7863978899327734691"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Konservasi dan Pelestarian Lebah di Indonesia",
+        "pub_year": "2023",
+        "citation": "Policy Brief Pertanian, Kelautan, dan Biosains Tropika 5 (3), 690-694, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:ns9cj8rnVeAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8567558800931564454",
+      "cites_id": [
+        "8567558800931564454"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The foraging activity and pollination services of three stingless bee species to enhance fruit quality and quantity of okra (Abelmoschus esculentus L.).",
+        "pub_year": "2022",
+        "citation": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis 70 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:qUcmZB5y_30C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8305765842585777893",
+      "cites_id": [
+        "8305765842585777893"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intra-and Interspecies Wing Venation Variations of Apis cerana and Apis nigrocincta Species in Indonesia",
+        "pub_year": "2022",
+        "citation": "HAYATI Journal of Biosciences 29 (2), 222-233, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14308616203425803629",
+      "cites_id": [
+        "14308616203425803629"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pollination services of Tetragonula laeviceps smith (Apidae: Meliponinae) on melon plants (Cucumis melo L.)",
+        "pub_year": "2021",
+        "citation": "Serangga 26 (4), 124-136, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:hC7cP41nSMkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13693476558766647945",
+      "cites_id": [
+        "13693476558766647945"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Land snail from limestone karst in Java: an update with notes on their distribution",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 457 (1), 012002, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15058414038157410347",
+      "cites_id": [
+        "15058414038157410347"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u5916\u6765\u690d\u7269\u304c\u5728\u6765\u690d\u7269\u3068\u30cf\u30ca\u30d0\u30c1\u985e\u306e\u95a2\u4fc2\u306b\u53ca\u307c\u3059\u5f71\u97ff",
+        "pub_year": "2015",
+        "citation": "\u65e5\u672c\u6d77\u57df\u7814\u7a76= Bulletin of the Japan Sea Research Institute, Kanazawa \u2026, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2772854989069500343",
+      "cites_id": [
+        "2772854989069500343"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Traditional Knowledge of Plants for Sunggau Rafters on Three Forest Types for Conservation of Apis dorsata in Indonesia",
+        "pub_year": "2024",
+        "citation": "Forests 15 (4), 657, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Apis cerana Fabricius, 1793 in Sumatra: Haplotype Variations of Mitochondrial DNA and the Molecular Relationship with the Asian Honey Bees (Hymenoptera: Apidae)",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (4), 768-780, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:vV6vV6tmYwMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agricultural landscape composition alters ant communities in maize fields more than plant diversity enrichment",
+        "pub_year": "2024",
+        "citation": "Biodiversitas Journal of Biological Diversity 25 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Toxicity Test of Synthetic Insecticides on Tetragonula laeviceps (Apidae: Meliponini)",
+        "pub_year": "2024",
+        "citation": "HAYATI Journal of Biosciences 31 (2), 271-283, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:JV2RwH3_ST0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Scarabaeid Beetles (Scarabaeidae: Coleoptera) in The Lowland Rainforest Ecosystem of Sorong Nature Tourism Park, West Papua, Indonesia.",
+        "pub_year": "2023",
+        "citation": "Journal of Tropical Biodiversity & Biotechnology 8 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:NaGl4SEjCO4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morphometric differentiation of Landouria smimensis along altitudinal gradient",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012028, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Marine debris in three species of bivalve from two big fish markets in Indonesia",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1271 (1), 012001, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:hMod-77fHWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An Infrared based Real-Time Monitoring System of Bees Activities: Integration of STEM and Environmental Education: This title will be presented on Friday, December 15, 2023 at \u2026",
+        "pub_year": "2023",
+        "citation": "Frontier in Sustainable Agromaritime and Environmental Development \u2026, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:maZDTaKrznsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan Distribusi Gastropoda Air Tawar di Sungai Ciapus, Jawa Barat, Indonesia",
+        "pub_year": "2023",
+        "citation": "Jurnal Sumberdaya Hayati 9 (4), 145-151, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Coral diseases and health issues: case study in three islands from Makassar strait.",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:O3NaXMp0MMsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KEANEKARAGAMAN KELELAWAR DI KEBUN RAYA CIBINONG, KAWASAN SAINS DAN TEKNOLOGI SOEKARNO, BADAN RISET DAN INOVASI NASIONAL (BRIN)",
+        "pub_year": "2023",
+        "citation": "Berita Biologi 22 (2), 159-166, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Impact of Ecological Engineering on Zea mays Plantations to Biodiversity of Insect Pollinators",
+        "pub_year": "2023",
+        "citation": "IOP Conference Series: Earth and Environmental Science 1220 (1), 012030, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Habitat Preference of Aedes aegypti and Aedes albopictus: a Case Study on Dengue Endemic Areas of Sumatera, Indonesia.",
+        "pub_year": "2023",
+        "citation": "Philippine Journal of Science 152 (3), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:R3hNpaxXUhUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Microdebris contamination in scleractinian coral in the Spermonde Archipelago, South Sulawesi, Indonesia",
+        "pub_year": "2023",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 16 (1), 317-327, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:TQgYirikUcIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman dan komposisi spesies laba-laba predator dan parasitoid Hymenoptera pada tanaman jagung dengan dan tanpa refugia pada musim yang berbeda: Diversity and species \u2026",
+        "pub_year": "2023",
+        "citation": "Jurnal Entomologi Indonesia 20 (3), 258-258, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effectiveness of Pollinator Insects in Increasing Fruit Formation of Pummelo ('Citrus maxima'(Burm.) Merr.)",
+        "pub_year": "2022",
+        "citation": "Australian Journal of Crop Science 16 (9), 1078-1083, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversitas Serangga yang Berasosiasi dengan Tanaman Jeruk Pamelo (Citrus maxima)",
+        "pub_year": "2022",
+        "citation": "Jurnal Sumberdaya Hayati 8 (1), 8-13, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Jauharlina; Pradana, MG; Meilin, A.; Leatemia, JA; et al. Beekeeping and Managed Bee Diversity in Indonesia: Perspective and Preference of Beekeepers. Diversity 2022, 14, 52",
+        "pub_year": "2022",
+        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A DUMMY TEST Beekeeping and Managed Bee Diversity in Indonesia: Perspective and Preference of Beekeepers: Subtitle DUMMY TEST Beekeeping and Managed",
+        "pub_year": "2022",
+        "citation": "Indonesian Bee Journal 1 (01), 6-6, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:BqipwSGYUEgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daftar Spesies Lebah Tanpa Sengat (Stingless Bees) dan Tumbuhan Pakannya di Lubuk Bintialo dan Pangkalan Bulian, Sumatera Selatan",
+        "pub_year": "2020",
+        "citation": "Zoological Society of London (ZSL) Indonesia, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diversity and structure of bee pollination system in different satoyama habitats",
+        "pub_year": "2014",
+        "citation": "\u535a\u58eb\u8ad6\u6587\u672c\u6587 Full, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research project of counterparts funded at IPB University",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Diversity of Scarabaeid Beetles (Scarabaeidae: Coleoptera) in The Lowland Rainforest Ecosystem of Sorong Nature Tourism Park, West Papua, Indonesia",
+        "citation": "Journal of Tropical Biodiversity and Biotechnology 8 (3), 78230, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research projects of counterparts funded at IPB University in 2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:isC4tDSrTZIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kontaminasi Mikrodebris Pada Karang Keras di Kepulauan Spermonde Provinsi Sulawesi Selatan.",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:r0BpntZqJG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Struktur Morfohistologi Saluran Pencernaan Mantis sp. dan Periplaneta sp.",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Morfohistologi Saluran Pencernaan Dua Spesies Stingless Bee (Tetragonula laeviceps dan Heterotrigona itama).",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:4JMBOYKVnBMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Serangga di Tanaman Sawi (Brassica juncea) dan Tanaman Cabai (Capsicum frutescens) di Lahan Pertanian Organik",
+        "citation": "IPB University, 0"
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lebah Tanpa Sengat (Stingless Bees) dan Tumbuhan Pakannya",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "ORnibDEAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 1,
+    "not_available": 0
+  }
+}

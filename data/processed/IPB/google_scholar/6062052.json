@@ -1,0 +1,1931 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "WUK30SUAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Hasim",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WUK30SUAAAAJ&citpid=1",
+  "affiliation": "Doctor of biochemistry and toxicology. Ipb",
+  "organization": 13375182596662322286,
+  "interests": [
+    "biochemistry"
+  ],
+  "email_domain": "@apps.ipb.ac.id",
+  "citedby": 473,
+  "citedby5y": 379,
+  "hindex": 10,
+  "hindex5y": 9,
+  "i10index": 12,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "2009": 3,
+    "2010": 2,
+    "2011": 3,
+    "2012": 9,
+    "2013": 11,
+    "2014": 9,
+    "2015": 8,
+    "2016": 6,
+    "2017": 11,
+    "2018": 20,
+    "2019": 19,
+    "2020": 46,
+    "2021": 52,
+    "2022": 78,
+    "2023": 128,
+    "2024": 53
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "eemlbusAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dimas  Andrianto .",
+      "affiliation": "Associate Professor of Biochemistry, IPB University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MA_UgNQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Syamsul Falah",
+      "affiliation": "IPB University (Bogor Agricultural University)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BD92AGIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Jean-Pierre Braun",
+      "affiliation": "Ecole Nationale V\u00e9t\u00e9rinaire de Toulouse, France"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "BD8pUFoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I Made Artika",
+      "affiliation": "Departmen of Biochemistry, Bogor Agricultural University"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "t5_ACqQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Apon Zaenal Mustopa",
+      "affiliation": "Indonesian Institute of Sciences "
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "N6F7E6sAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Rifqiyah Nur Umami",
+      "affiliation": "Research Center for Biotechnology Indonesian Institute of Sciences"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "nf_c21wAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Didah Nur Faridah",
+      "affiliation": "Doctor of Food Science, IPB"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstrak etanol daun belimbing wuluh (Averrhoa bilimbi) sebagai antioksidan dan antiinflamasi",
+        "pub_year": "2019",
+        "citation": "Jurnal Aplikasi Teknologi Pangan 8 (3), 86-93, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:IaI1MmNe2tcC",
+      "num_citations": 90,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=175203329949932525",
+      "cites_id": [
+        "175203329949932525"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Boiled Cassava Leaves (Manihot esculenta Crantz) on Total Phenolic,  Flavonoid  and its Antioxidant Activity",
+        "pub_year": "2016",
+        "citation": "Current Biochemistry 3 (3), 116-127, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:PaBasH6fAo0C",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15952690657079249926",
+      "cites_id": [
+        "15952690657079249926"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing angkak pigments and lovastatin production by Monascus purpureus",
+        "pub_year": "2008",
+        "citation": "Hayati Journal of Biosciences 15 (2), 61-66, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:wbdj-CoPYUoC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3528153210139432844",
+      "cites_id": [
+        "3528153210139432844"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mengurangi Ketimpangan Sosial Melalui Program Bantuan Pendidikan Bagi Anak-Anak Kurang Mampu",
+        "pub_year": "2023",
+        "citation": "Community Development Journal: Jurnal Pengabdian Masyarakat 4 (4), 8440-8447, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:DrR-2ekChdkC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17321600377896221869",
+      "cites_id": [
+        "17321600377896221869"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Suitable location map of floating net cage for environmentally friendly fish farming development with Geographic Information Systems applications in Lake Limboto, Gorontalo \u2026",
+        "pub_year": "2017",
+        "citation": "Aquaculture, Aquarium, Conservation & Legislation 10 (2), 254-264, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:UuEBAcK4md4C",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5150566115482439447",
+      "cites_id": [
+        "5150566115482439447"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pesantren transformation system in the food sustainability",
+        "pub_year": "2016",
+        "citation": "International Journal of Development and Economic Sustainability 4 (2), 1-18, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:kWvqk_afx_IC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12854031651673569039",
+      "cites_id": [
+        "12854031651673569039"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The production of tannin acyl hydrolase from Aspergillus niger",
+        "pub_year": "2007",
+        "citation": "Microbiology Indonesia 1 (2), 9-9, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2664913539394877134",
+      "cites_id": [
+        "2664913539394877134"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiproliferation activity of God\u2019s crown fruit (Phaleria macrocarpa) extract and fractions against MCM-B2 breast cancer cells",
+        "pub_year": "2020",
+        "citation": "Journal of Applied Pharmaceutical Science 10 (3), 052-058, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:SjuI4pbJlxcC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5974397171458982838",
+      "cites_id": [
+        "5974397171458982838"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas antioksidan ekstrak sulur buah naga putih (Hylocereus undatus) dengan metode DPPH dan Rancimat",
+        "pub_year": "2017",
+        "citation": "Jurnal Gizi dan Pangan 12 (3), 203-210, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:MpfHP-DdYjUC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12150582686923470714",
+      "cites_id": [
+        "12150582686923470714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Perebusan Daun Singkong (Manihot esculenta Crantz) terhadap Kadar Total Fenol, Flavonoid dan Aktivitas Antioksidannya",
+        "pub_year": "2016",
+        "citation": "Current Biochemistry 3 (3), 116-127, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:6bLC7aUMtPcC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14273203636315995305",
+      "cites_id": [
+        "14273203636315995305"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daun sirih sebagai antibakteri pasta gigi",
+        "pub_year": "2003",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:zCSUwVk65WsC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17814456427028160289",
+      "cites_id": [
+        "17814456427028160289"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Liver enzyme changes in a guinea-pig model of facial eczema (sporidesmiotoxicosis)",
+        "pub_year": "1989",
+        "citation": "Enzyme 42 (1), 39-46, 1989"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:4xDN1ZYqzskC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7331863635701148767",
+      "cites_id": [
+        "7331863635701148767"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacillus subtilis natto fermentation to improve aglycone isoflavones content of black soybean varieties detam 2.",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:JTqpx9DYBaYC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10861656946489970827",
+      "cites_id": [
+        "10861656946489970827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fractionation and characterization of Tannin Acyl Hydrolase from Aspergillus niger",
+        "pub_year": "2009",
+        "citation": "HAYATI Journal of Biosciences 16 (3), 95-99, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12938031012963288125",
+      "cites_id": [
+        "12938031012963288125"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mangrove ecosystem, seagrass, coral reef: Its role in self-purification and carrying capacity in coastal areas",
+        "pub_year": "2021",
+        "citation": "International Journal Papier Advance and Scientific Review 2 (1), 37-49, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:Dem6FJhTUoYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6888937334362798772",
+      "cites_id": [
+        "6888937334362798772"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of institution structure of agriculture resources management at pesantren",
+        "pub_year": "2017",
+        "citation": "WACANA, Jurnal Sosial dan Humaniora 20 (1), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:RoXSNcbkSzsC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3405732088618374597",
+      "cites_id": [
+        "3405732088618374597"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ANALISIS ENZIM ALANIN AMINO TRANSFERASE (ALAT), ASPARTAT AMINO TRANSFERASE (ASAT), UREA DARAH, DAN HISTOPATOLOGIS HATI DAN GINJAL TIKUS PUTIH GALUR Sprague-Dawley SETELAH \u2026",
+        "pub_year": "2009",
+        "citation": "Jurnal Teknologi dan Industri Pangan 20 (1), 41-41, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17479170742154696326",
+      "cites_id": [
+        "17479170742154696326"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant activity, inhibition \u03b1-glucosidase of Cymbopogon nardus (L.) rendle and identification of active compounds",
+        "pub_year": "2021",
+        "citation": "Current Biochemistry 8 (1), 24-36, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:NDuN12AVoxsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5258709236184844061",
+      "cites_id": [
+        "5258709236184844061"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunikasi antarpribadi para disabilitas dalam proses pementasan teater di Smile Motivator Bandung",
+        "pub_year": "2020",
+        "citation": "Ensains Journal 3 (1), 17-27, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:1DsIQWDZLl8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14010180211148942721",
+      "cites_id": [
+        "14010180211148942721"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combination of angkak (red yeast rice), red guava (Psidium guajava Linn) leaf extract and red guava fruit juice increase thrombocyte in quinine-exposed rats",
+        "pub_year": "2015",
+        "citation": "IOSR J Pharm 5 (4), 1-6, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:otzGkya1bYkC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15972319668752009166",
+      "cites_id": [
+        "15972319668752009166"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antibakteri Ekstrak Kulit Petai (Parkia speciosa Hassk.) Terhadap Bakteri Escherichia coli dan Staphylococcus aureus",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:jgBuDB5drN8C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5626690676412896930",
+      "cites_id": [
+        "5626690676412896930"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiproliferative Potency of God\u2019s Crown Fruit (Phaleria macrocarpa) Extract Against Breast Cancer Cell",
+        "pub_year": "2022",
+        "citation": "Borneo Journal of Pharmacy 5 (4), 307-314, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:F2UWTTQJPOcC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=479387092938210784",
+      "cites_id": [
+        "479387092938210784"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phytochemical screening and anti-breastcancer activities of annona muricata (L.) leaf extracts",
+        "pub_year": "2020",
+        "citation": "Pharmacologyonline 2, 23-30, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:wKETBy42zhYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=115781286930833522",
+      "cites_id": [
+        "115781286930833522"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ekstrak Angkak dan Bekatul untuk Mencegah Peroksidasi Lipid Tikus Spague-Dawley Hiperglikemik",
+        "pub_year": "2020",
+        "citation": "Jurnal Aplikasi Teknologi Pangan 9 (2), 62-69, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:hsZV8lGYWTMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16073905396982049640",
+      "cites_id": [
+        "16073905396982049640"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ethanol extract of belimbing wuluh leaf (Averrhoa bilimbi) as Antioxidant and Anti-inflammatory",
+        "pub_year": "2019",
+        "citation": "J. Apl. Teknol. Pangan 8, 86-93, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:aIdbFUkbNIkC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3450417577924968460",
+      "cites_id": [
+        "3450417577924968460"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Valuation the fishery economic value Limboto Lake Gorontalo",
+        "pub_year": "2018",
+        "citation": "Haya: The Saudi Journal of Life Sciences (SJLS) 3, 443-446, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:-jrNzM816MMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15470081351451722982",
+      "cites_id": [
+        "15470081351451722982"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kidney tubule enzymes and extracellular DNA in urine as markers for nephrotoxicity in the Guinea pig",
+        "pub_year": "1993",
+        "citation": "Enzyme and Protein 47 (1), 27-36, 1993"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:jL-93Qbq4QoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10407114148347532505",
+      "cites_id": [
+        "10407114148347532505"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Protein Content of Spirulina sp. Cultured Using a Combination of Urea and TSP Fertilizers",
+        "pub_year": "2022",
+        "citation": "Journal of Aquaculture and Fish Health 11 (2), 269-276, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:VN7nJs4JPk0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1549431327388883869",
+      "cites_id": [
+        "1549431327388883869"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kinerja Kepadatan Spirulina Sp. yang diberi Salinitas Berbeda pada Media Kultur Walne",
+        "pub_year": "2022",
+        "citation": "Jurnal Sumberdaya Akuatik Indopasifik 6 (2), 141-152, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:HhcuHIWmDEUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5129858907813425072",
+      "cites_id": [
+        "5129858907813425072"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant Activities and \u03b1-glucosidase Inhibition of Gayo Arabica Coffee Skin (Coffea arabica L)",
+        "pub_year": "2021",
+        "citation": "Current Biochemistry 8 (1), 37-50, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:U_HPUtbDl20C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11378425491005965857",
+      "cites_id": [
+        "11378425491005965857"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Penurunan Kadar Glukosa pada Tikus yang Diinduksi Aloksan dari Ekstrak Air Angkak, Bekatul, dan Kombinasinya",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Industrial Research 37 (2), 172-179, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:WC9gN4BGCRcC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2159776373420850583",
+      "cites_id": [
+        "2159776373420850583"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Suhu, pH, Enzim dan Surfaktan terhadap Plantarisin F Rekombinan Enkapsulasi sebagai Antibakteri Staphylococcus aureus dan Salmonella typhi",
+        "pub_year": "2018",
+        "citation": "Jurnal Biologi Indonesia 14 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:WC23djZS0W4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9274945504819538520",
+      "cites_id": [
+        "9274945504819538520"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keefektifan Trichoderma sp. dan Fusarium non patogenik dalam mengendalikan penyakit busuk pucuk vanili berwawasan lingkungan",
+        "pub_year": "2017",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:7H_MAutzIkAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1079385154667446553",
+      "cites_id": [
+        "1079385154667446553"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development strategy for marine ecotourism area in Pohuwato District (a case study at Pohon Cinta Beach and Tanjung Maleo Beach)",
+        "pub_year": "2021",
+        "citation": "Tomini Journal of Aquatic Science 2 (1), 1-8, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:HGTzPopzzJcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2341918706184365452",
+      "cites_id": [
+        "2341918706184365452"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analsis keberlanjutan perikanan tangkap ikan cakalang (katsuwonus pelamis) di Kabupaten Gorontalo",
+        "pub_year": "2018",
+        "citation": "Jurnal Pascasarjana 2 (2), 236-243, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:Br1UauaknNIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15720107599112742940",
+      "cites_id": [
+        "15720107599112742940"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antioxidant Activity, Inhibition \u03b1-Glucosidase of Ethanol Extract of Strychnos nitida G. Don and Identification of Active Compounds",
+        "pub_year": "2018",
+        "citation": "Current Biochemistry 5 (3), 11-20, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:nRpfm8aw39MC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3925567387398611676,15618646055538386380",
+      "cites_id": [
+        "3925567387398611676",
+        "15618646055538386380"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sirih Sebagai Anti Bakteri",
+        "pub_year": "2006",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:43bX7VzcjpAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12335515309716290823",
+      "cites_id": [
+        "12335515309716290823"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pancreatic lipase inhibition activity in lipid absorption using traditional plants: A systematic review and meta-analysis",
+        "pub_year": "2023",
+        "citation": "Indonesian Journal of Chemistry, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:raTqNPD5sRQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18225033206879076783",
+      "cites_id": [
+        "18225033206879076783"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perkawinan Politik di Kecamatan Mowewe Kabupaten Kolaka Timur (Perspektif Maqashid Syariah)",
+        "pub_year": "2022",
+        "citation": "KALOSARA: Family Law Review 2 (1), 63-83, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:w0F2JDEymm0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15637134816142163530",
+      "cites_id": [
+        "15637134816142163530"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Land Suitability Analysis for Settlement Areas in Tilamuta District, Boalemo Regency",
+        "pub_year": "2022",
+        "citation": "Journal of Asian Multicultural Research for Social Sciences Study 3 (3), 11-22, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:sA9dB-pw3HoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2054376376270404260",
+      "cites_id": [
+        "2054376376270404260"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Larutan Meniran (Phyllanthus niruri) terhadap Daya Tetas Telur serta Kelangsungan Hidup Larva pada Ikan Mas Koi (Cyprinus carpio)",
+        "pub_year": "2022",
+        "citation": "The NIKe Journal 10 (1), 001-006, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:eO3_k5sD8BwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12379649756397271951",
+      "cites_id": [
+        "12379649756397271951"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Administration of probiotic sanolife Mic-S on biological performance of Vanamei Shrimp (Litopenaeus vannamei) PL 10",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:QyXJ3EUuO1IC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4962542227721937169",
+      "cites_id": [
+        "4962542227721937169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparison of growth pattern, condition factor, gonadosomatic index of Manggabai (Glosogobius giuris) and Payangka (Ophieleotris aporos) in Limboto Lake, Gorontalo, Indonesia",
+        "pub_year": "2021",
+        "citation": "Biodiversitas Journal of Biological Diversity 22 (6), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:jE2MZjpN3IcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8133090301609487266",
+      "cites_id": [
+        "8133090301609487266"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The implementation of baitul maal management in early Islam as the alternative to increasing people\u2019s economy: Case study on the management of mosque in Yogyakarta",
+        "pub_year": "2017",
+        "citation": "Proceeding of International Conference on Art, Language, and Culture, 375-383, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:uVUOdF_882EC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3208806433452430727",
+      "cites_id": [
+        "3208806433452430727"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidan Dan Inhibisi Hmg Koa Reduktase Dari Formula Ekstrak Angkak Dan Bekatul Sebagai Antikolesterolemia",
+        "pub_year": "2016",
+        "citation": "Bogor Agricultural University (IPB), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:lgwcVrK6X84C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1992585359955624241",
+      "cites_id": [
+        "1992585359955624241"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bacillus subtilis natto fermentation to improve aglycone isoflavones content of black soybean varieties detam 2.",
+        "pub_year": "2015",
+        "citation": "International Food Research Journal 22 (6), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:buQ7SEKw-1sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10499151206251967158",
+      "cites_id": [
+        "10499151206251967158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fermentasi Kedelai Hitam Detam 2 oleh Bacillus subtilis natto untuk Meningkatkan Kandungan Isoflavon Aglikon",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:wMgC3FpKEyYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18037272728537821279",
+      "cites_id": [
+        "18037272728537821279"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Importance diagnostique de la gamma glutamyl trasnf\u00e9rase chez les ruminants",
+        "pub_year": "1989",
+        "citation": "Le Point v\u00e9t\u00e9rinaire: revue d'enseignement post-universitaie et de formation \u2026, 1989"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:LdasjJ6CEcoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2777441118669260885",
+      "cites_id": [
+        "2777441118669260885"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PENAMBAHAN VITERNA PLUS DENGAN DOSIS BERBEDA PADA PAKAN TERHADAP PERTUMBUHAN IKAN GURAME (Osphronemus Gouramy)",
+        "pub_year": "2023",
+        "citation": "Journal Of Fisheries Agribusiness 1 (1), 41-47, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:BrOSOlqYqPUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=779518437677855360",
+      "cites_id": [
+        "779518437677855360"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Limbah Cair Tahu Dengan Dosis Berbeda Terhadap Pertumbuhan Skeletonema costatum",
+        "pub_year": "2022",
+        "citation": "Jurnal Vokasi Sains dan Teknologi 2 (1), 27-31, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:w1MjKQ0l0TYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16353347063888347318",
+      "cites_id": [
+        "16353347063888347318"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tingkat Kontaminasi Logam Berat Merkuri (Hg) di Perairan Danau Limboto",
+        "pub_year": "2021",
+        "citation": "The NIKe Journal 9 (3), 058-063, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:2l5NCbZemmgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6154210013321913733",
+      "cites_id": [
+        "6154210013321913733"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Indonesian Anti-obesity Traditional Medicinal Plants: A Systematic Review and Meta-analysis on Pancreatic Lipase Inhibition Activity",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:OBSaB-F7qqsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12712794976150427536",
+      "cites_id": [
+        "12712794976150427536"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Strategi Komunikasi Pemasaran Scoop dan Skoop Dalam Membangun Brand Image",
+        "pub_year": "2021",
+        "citation": "Jurnal Indonesia Sosial Teknologi 2 (01), 62-71, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:-95Q15plzcUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14607848587414925744",
+      "cites_id": [
+        "14607848587414925744"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mercury Contamination in Limboto Lake",
+        "pub_year": "2020",
+        "citation": "The NIKe Journal 8 (3), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:DBa1UEJaJKAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13617861328795006653",
+      "cites_id": [
+        "13617861328795006653"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEKTIFITAS PELAKSANAAN EVALUASI PENDIDIKAN PADA MINAT BELAJAR PESERTA DIDIK",
+        "pub_year": "2020",
+        "citation": "Islamika: Jurnal Agama, Pendidikan dan Sosial Budaya 14 (1), 69-76, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:jFemdcug13IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5186947115275796355",
+      "cites_id": [
+        "5186947115275796355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cytotoxic Activity of Citral from Cymbopogon nardus as Anticancer of MCM-B2 Cell",
+        "pub_year": "2020",
+        "citation": "Current Biochemistry 7 (1), 29-36, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:j7_hQOaDUrUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084812459800477132",
+      "cites_id": [
+        "18084812459800477132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pendidikan Anti Kekerasan Dalam Mencegah Paham Radikalisme Di Organisasi Kerohanian Islam (Rohis) Sma Negeri 1 Karanganom",
+        "pub_year": "2020",
+        "citation": "Prosiding Seminar Nasional Membangun Desa-Uns 2 (2), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:mUJArPsKIAAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11085616482844681981",
+      "cites_id": [
+        "11085616482844681981"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MODEL PEMBELAJARAN CONTEXTUAL TEACHING LEARNING TERHADAP MOTIVASI BELAJAR MAHASISWA PROGRAM STUDI PENDIDIKAN AGAMA UNIVERSITAS ISLAM SYEKH YUSUF TANGERANG",
+        "pub_year": "2019",
+        "citation": "Islamika: Jurnal Agama, Pendidikan dan Sosial Budaya 13 (2), 62-70, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:1Ye0OR6EYb4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5772187906055727593",
+      "cites_id": [
+        "5772187906055727593"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Penambahan Bekatul dan Angkak pada Produk Agar-agar sebagai Alternatif Cemilan Pengikat Kolesterol",
+        "pub_year": "2019",
+        "citation": "Jurnal Mutu Pangan: Indonesian Journal of Food Quality 6 (2), 85-90, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:FiytvqdAVhgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3825686058885819603",
+      "cites_id": [
+        "3825686058885819603"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penambahan Tepung Biji Buah Nangka (Artocarpus heterophyllus) Pada Pembuatan Pakan Ikan Terhadap Pertumbuhan Dan Sintasan Ikan Nila (Oreochromis niloticus)",
+        "pub_year": "2019",
+        "citation": "Jurnal Sumberdaya Akuatik Indopasifik 3 (1), 21-30, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:1yWc8FF-_SYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16536353573454504315",
+      "cites_id": [
+        "16536353573454504315"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nilai-nilai budaya sosial etnis dalam pergaulan sehari-hari etnis sunda dan etnis tionghoa",
+        "pub_year": "2019",
+        "citation": "SERAMBI SYARIAH; Studi Ilmu-ilmu Keislaman 1 (1), 88-106, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:FiDNX6EVdGUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17727568804241165980",
+      "cites_id": [
+        "17727568804241165980"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemberian Pakan Alami Cacing Sutera pada Benih Ikan Lele Sangkuriang| Natural feeding of silk worms to Sangkuriang catfish seeds",
+        "pub_year": "2018",
+        "citation": "The NIKe Journal 6 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:L1USKYWJimsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9589235817854040796",
+      "cites_id": [
+        "9589235817854040796"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning, expression, and partial purification of plantaricin W locus produced by Lactobacillus plantarum S34",
+        "pub_year": "2017",
+        "citation": "Berita Biologi 16 (1), 59-67, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:i2xiXl-TujoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2143575938908313756",
+      "cites_id": [
+        "2143575938908313756"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidan dan Inhibisi \u03b1-Glukosidase Formulasi Ekstrak Angkak (Red Yeast Rice) dan Bekatul (Rice Bran) sebagai Antidiabetes In Vitro",
+        "pub_year": "2017",
+        "citation": "Bogor Agricultural University (IPB), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:ALROH1vI_8AC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4542716494538338160",
+      "cites_id": [
+        "4542716494538338160"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Daya Tetas Artemia sp. menggunakan Air Bersalinitas Buatan dengan Jenis Garam Berbeda| Hatcability of Artemia sp. in artificial salinity using different types of salt",
+        "pub_year": "2016",
+        "citation": "The NIKe Journal 4 (2), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:owLR8QvbtFgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7444826674690964852",
+      "cites_id": [
+        "7444826674690964852"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Model Kebijakan dan Sistem Hukum Pemberantasan Pembalakan Liar di Indonesia (Studi Kasus di Provinsi Riau)",
+        "pub_year": "2013",
+        "citation": "Jurnal Pengelolaan Sumberdaya Alam dan Lingkungan (Journal of Natural \u2026, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:7BrZ7Jt4UNcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17644414207400620691",
+      "cites_id": [
+        "17644414207400620691"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effects of sporidesmin on liver zinc, metallothionein and cytochromes in vivo",
+        "pub_year": "1990",
+        "citation": "Comptes Rendus de L'academie des sciences. Serie III, Sciences de la vie 311 \u2026, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:U4n9YNQMCAIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5473023642581939175",
+      "cites_id": [
+        "5473023642581939175"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SOSIALISASI PENGEMBANGAN AKHLAKUL KARIMAH DAN BUDI PEKERTI UNTUK MENINGKATKAN TAKWA DI JUM\u2019AT DZIKIR",
+        "pub_year": "2024",
+        "citation": "Abdi Pandawa: Jurnal Pengabdian Kepada Masyarakat 4 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:DyXnQzXoVgIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community Structure Analysis of The Boroko and Binuanga Mangrove Areas North Bolaang Mongondow Regency, North Sulawesi Province",
+        "pub_year": "2024",
+        "citation": "Jurnal Biologi Tropis 24 (2), 235-240, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:silx2ntsSuwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Literasi Media Televisi Kepada Ibu Rumah Tangga Dalam Pendampingan Menonton Anak",
+        "pub_year": "2024",
+        "citation": "Tuturlogi: Journal of Southeast Asian Communication 5 (1), 1-6, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:Xl6nMSl579sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Investigasi Topik Riset Jasa Ekosistem dan Sistem Informasi Geografis Menggunakan Analisis Bibliometrik",
+        "pub_year": "2024",
+        "citation": "Jurnal Ilmu Alam dan Lingkungan 15 (1), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:SIv7DqKytYAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunikasi Pariwisata Berbasis Kearifan Lokal Dalam Mengembangkan Potensi Wisata Di Situ Lengkong Panjalu",
+        "pub_year": "2024",
+        "citation": "RISOMA: Jurnal Riset Sosial Humaniora dan Pendidikan 2 (2), 61-73, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:LXmCCkuhhTsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Probiotik Probio 7 Dengan Dosis Berbeda Pada Pakan Terhadap Pertumbuhan Dan Kelangsungan Hidup Benih Ikan Gurame (Osphronemus Gouramy)",
+        "pub_year": "2023",
+        "citation": "Journal Of Fisheries Agribusiness 1 (2), 85-93, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:wvYxNZNCP7wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGKAYAAN PAKAN MENGGUNAKAN MADU DENGAN DOSIS YANG BERBEDA TERHADAP PERTUMBUHAN DAN KELANGSUNGAN HIDUP BENIH IKAN MAS (cyprinus carpio)",
+        "pub_year": "2023",
+        "citation": "Journal Of Fisheries Agribusiness 1 (2), 59-67, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:QUX0mv85b1cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementing Accrual-Based SAP and Promoting Good Financial Governance More Effectively in South Buton Regency",
+        "pub_year": "2023",
+        "citation": "Journal of Social and Humanities 1 (2), 59-65, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:UmS_249rOGwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penambahan Dedak Padi dengan Fermentasi Probiotik EM4 terhadap Peningkatan Populasi Daphnia magna",
+        "pub_year": "2023",
+        "citation": "The NIKe Journal 11 (3), 135-143, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:pS0ncopqnHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penambahan Probiotik pada Pakan FFF-999 dengan Dosis Berbeda terhadap Pertumbuhan dan Kelangsungan Hidup Benih Ikan Nila",
+        "pub_year": "2023",
+        "citation": "The NIKe Journal 11 (2), 085-091, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:5bg8sr1QxYwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PENGARUH PEMBERIAN PAKAN RUCAH IKAN LEMURU (Sardinella Longiceps) DENGAN DOSIS YANG BERBEDA TERHADAP PERTUMBUHAN DAN KELANGSUNGAN HIDUP BENIH KERAPU CANTANG (Epinephelus sp)",
+        "pub_year": "2023",
+        "citation": "Jurnal Vokasi Sains dan Teknologi 2 (2), 92-98, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:WAzi4Gm8nLoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of Ectourism In Limboto Lake Through Supply and Demand Approach",
+        "pub_year": "2023",
+        "citation": "Jambura Agribusiness Journal 4 (2), 84-93, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:65Yg0jNCQDAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EFEKTIVITAS METODE KISAH DALAM PEMBELAJARAN SEJARAH PERADABAN ISLAM",
+        "pub_year": "2022",
+        "citation": "Islamika: Jurnal Agama, Pendidikan dan Sosial Budaya 16 (2), 1-10, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:ziOE8S1-AIUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi Pendahuluan Morfometrik Meristik Ikan Manggabai (Glossogobius giuris) Untuk Eksplorasi DNA Barcode Ikan Lokal Danau Limboto",
+        "pub_year": "2022",
+        "citation": "Jurnal Sumberdaya Akuatik Indopasifik 6 (4), 343-350, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:YsrPvlHIBpEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LITERASI UNTUK MENUMBUHKAN KESADARAN MEDIA SOSIAL BAGI IBU RUMAH TANGGA",
+        "pub_year": "2022",
+        "citation": "Jurnal Abdimas Sang Buana 3 (2), 61-68, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:69ZgNCALVd0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SISTEM RESIRKULASI MENGGUNAKAN KOMBINASI FILTER YANG BERBEDA TERHADAP PERTUMBUHAN DAN KELANGSUNGAN HIDUP UDANG VANAME (LITOPENAEUS VANNAMEI)",
+        "pub_year": "2022",
+        "citation": "Jurnal Vokasi Sains dan Teknologi 2 (1), 21-26, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:-nhnvRiOwuoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiproliferative Potency of God\u2019s Crown Fruit (Phaleria macrocarpa) Extract Against Breast Cancer Cell: Antiproliferative Potency of God\u2019s Crown Fruit (Phaleria macrocarpa \u2026",
+        "pub_year": "2022",
+        "citation": "Institute for Research and Community Services Universitas Muhammadiyah \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:QsaTk4IG4EwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Kualitas Perairan untuk Kegiatan Budidaya Rumput Laut di Pulau Damar Kabupaten Bolaang Mongondow Utara",
+        "pub_year": "2022",
+        "citation": "The NIKe Journal 10 (3), 118-122, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:EPG8bYD4jVwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploration of the potential of vitamin premix with different doses to increase growth and survival of saline tilapia (Oreochromis niloticus) on laboratory scale environment",
+        "pub_year": "2022",
+        "citation": "Tomini Journal of Aquatic Science 3 (1), 21-27, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:kF1pexMAQbMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mercury, Lead, and Cadmium Heavy Metal Content in Water, Fish, and Sediment in Limboto Lake",
+        "pub_year": "2022",
+        "citation": "Jurnal Sumberdaya Akuatik Indopasifik 6 (1), 1-10, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:sszUF3NjhM4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Profile in Education and Breeding Experience with the Implementation of Seven Principles of Super Free-Range Chicken Breeding Business in Bone Bolango Regency",
+        "pub_year": "2022",
+        "citation": "Technium Soc. Sci. J. 32, 241, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:pAkWuXOU-OoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Penambahan Serbuk Temulawak (Curcuma Xanthhorhiza) pada Pakan Fengli-0 terhadap Kelangsungan Hidup Benih Ikan Lele Sangkuriang (Clarias Gariepinus)",
+        "pub_year": "2021",
+        "citation": "The NIKe Journal 9 (4), 099-104, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:DkZNVXde3BIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Ekstrak Sereh (Cymbopogon citratus) terhadap Lama Pembiusan dan Pemulihan Ikan Mas Koki (Carassius auratus)",
+        "pub_year": "2021",
+        "citation": "The NIKe Journal 9 (4), 112-117, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:SGW5VrABaM0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Influencers as a Means of Marketing Communications Strategy Digital Marketing Little PEP Jaya",
+        "pub_year": "2021",
+        "citation": "Journal Research of Social Science, Economics, and Management 1 (4), 362-373, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:TlpoogIpr_IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effect of Chicken Manure and Tofu Dregs on Biomass Growth of Silkworm",
+        "pub_year": "2021",
+        "citation": "The NIKe Journal 9 (2), 033-037, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:An6A6Jpfc1oC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CORAL REEF ECOSYSTEM CONDITION IN BINTALAHE BEACH BONE BOLANGO",
+        "pub_year": "2021",
+        "citation": "Jurnal Pascasarjana 6 (1), 102-107, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:-7ulzOJl1JYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study on Physical and Chemical Parameters of Lake Limboto for the Development of Aquaculture",
+        "pub_year": "2021",
+        "citation": "The NIKe Journal 9 (1), 13-18, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:kzcSZmkxUKAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "THE SOCIO-ECONOMIC CONDITION OF THE FISHER COMMUNITIES IN THE COASTAL AREAS OF GORONTALO",
+        "pub_year": "2021",
+        "citation": "Jurnal Pascasarjana 5 (1), 15-25, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:AXkvAH5U_nMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LELE MASAMO (Clarias gariepinus) CULTIVATION STRATEGY WITH BIOFLOCK TECHNOLOGY IN BONE BOLANGO",
+        "pub_year": "2021",
+        "citation": "Jurnal Pascasarjana 5 (1), 35-40, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:q-HalDI95KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bioecology of Manggabai Fish (Glossogobius giuris) in Limboto Lake",
+        "pub_year": "2020",
+        "citation": "Jurnal Sumberdaya Akuatik Indopasifik 4 (2), 89-100, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:CdxZDUztZiMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potensi Ekstrak Air Angkak dalam Mencegah Peroksidasi Lipid dan Efeknya terhadap Organ Hati Tikus Sprague Dawley",
+        "pub_year": "2020",
+        "citation": "Indonesian Journal of Industrial Research 37 (1), 30-40, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:rTD5ala9j4wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AQUATIC QUALITY PARAMETER AT LAKE LIMBOTO",
+        "pub_year": "2020",
+        "citation": "Jurnal Pascasarjana 5 (1), 93-98, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:6_hjMsCP8ZoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spora Growth Gracillaria sp in Different Salinities",
+        "pub_year": "2019",
+        "citation": "Jurnal Sumberdaya Akuatik Indopasifik 3 (2), 81-88, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:PYBJJbyH-FwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KOMUNIKASI ANTAR PRIBADI ANTARA ANAK TUNAGRAHITA DAN ANAK TUNARUNGU DI SLB NEGERI CINTA ASIH SOREANG",
+        "pub_year": "2019",
+        "citation": "ENSAINS JOURNAL 2 (3), 201-206, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:O0nohqN1r9EC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Mangrove Ecosystem Rehabilitation Program in Limbatihu Village",
+        "pub_year": "2019",
+        "citation": "The NIKe Journal 7 (3), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:3NQIlFlcGxIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ecological Parameters as the Basis of Bivalvia Management in the Peace Ecosystem in Ponelo District, Islands North Gorontalo District",
+        "pub_year": "2019",
+        "citation": "Jurnal Sumberdaya Akuatik Indopasifik 3 (2), 141-149, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:XUvXOeBm_78C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POLA KOMUNIKASI BISNIS ETNIS SUNDA DI BANDUNG",
+        "pub_year": "2018",
+        "citation": "ENSAINS JOURNAL 1 (1), 36-43, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:ce2CqMG-AY4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vitro antioxidant and antihypercholesterolemia activity of a mixture of red yeast rice and rice bran extracts.",
+        "pub_year": "2018",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:jSAVyFp_754C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of Natural Feed Provision on the Growth of Koi Fish Seed",
+        "pub_year": "2018",
+        "citation": "The NIKe Journal 6 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:prdVHNxh-e8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perendaman Ekstrak Kunyit terhadap Ikan Nila yang Terinfeksi Bakteri Aeromonas Hydrophila| Soaking in turmeric extract on tilapia infected with Aeromonas Hydrophila bacteria",
+        "pub_year": "2018",
+        "citation": "The NIKe Journal 6 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:jU7OWUQzBzMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Relevansi Pemikiran Al-maududi Dengan Perkembangan Perbankan Syari'ah Di Indonesia",
+        "pub_year": "2017",
+        "citation": "Gema 30 (52), 61807, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:mKu_rENv82IC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Intensitas Cahaya Berbeda terhadap Daya Tetas Telur Ikan Mas| Effect of different light intensity on hatchability of goldfish eggs",
+        "pub_year": "2017",
+        "citation": "The NIKe Journal 5 (3), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:-mN3Mh-tlDkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Pemberian Tepung Keong Mas terhadap Pertumbuhan dan Sintasan Benih Ikan Patin Siam| Effect of giving golden snail flour on the growth and survival of siamese catfish \u2026",
+        "pub_year": "2016",
+        "citation": "The NIKe Journal 4 (4), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:CB2v5VPnA5kC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PELAKSANAAN PEMBERIAN INSENTIF DAN DISINSENTIF DALAM PENATAAN RUANG BERDASARKAN PERDA NOMOR 2 TAHUN 2012 DI KABUPATEN LOMBOK TIMUR",
+        "pub_year": "2015",
+        "citation": "Universitas Mataram, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:MAUkC_7iAq8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SUPLEMENTASI KELAPA KOPYOR TERHADAP AKTIVITAS SUPEROKSIDA DISMUTASE DAN PATOLOGI ANATOMI HATI TIKUS AKIBAT PERLAKUAN PARASETAMOL",
+        "pub_year": "2013",
+        "citation": "FITOFARMAKA: Jurnal Ilmiah Farmasi 3 (1), 167-176, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:7wO8s98CvbsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pelaksanaan Program Nasional Pembuatan Sertifikat Tanah Bagi Masyarakat Miskin di Desa Talumae Kecamatan Watang Sidenreng Kabupaten Sidenreng Rappang",
+        "pub_year": "2013",
+        "citation": "PRAJA: Jurnal Ilmiah Pemerintahan 2 (1), 117-150, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:LPtt_HFRSbwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lack of Atherosclerotic Lesion Progression on Severe Hyperlipidemic Rabbits",
+        "pub_year": "2009",
+        "citation": "HAYATI Journal of Biosciences 16 (2), 59-63, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The use of skim latex serum as a growth medium for production of single-cell protein by Spirulina platensis.",
+        "pub_year": "1995",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:IsPWOBWtZBwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Contribution \u00e0 l'\u00e9tude de l'intoxication exp\u00e9rimentale du cobaye par la sporidesmine: un mod\u00e8le de l'ecz\u00e9ma facial",
+        "pub_year": "1992",
+        "citation": "Toulouse, INPT, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:v1_lew4L6wgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effets de la spridesmine sur le zinc, la m\u00e9tallothion\u00e9ine et les cytochromes h\u00e9patiques in vivo",
+        "pub_year": "1990",
+        "citation": "Comptes rendus de l'Acad\u00e9mie des sciences. S\u00e9rie 3, Sciences de la vie 311 \u2026, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:k_7cPK9k7w8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental intoxication of guinea-pigs by sporidesmin: a model for facial eczema of sheep.",
+        "pub_year": "1990",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:PkcyUWeTMh0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In vivo interactions of sporidesmin with liver zinc, metallothionein and cytochromes [Pithomyces chartarum]",
+        "pub_year": "1990",
+        "citation": "Comptes Rendus de l'Academie des Sciences Serie 3 Sciences de la Vie (France \u2026, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:BzfGm06jWhQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Diagnostic importance of gamma glutamyl transferase in ruminants.",
+        "pub_year": "1989",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:zGdJYJv2LkUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intoxication experimentale du cobaye par la sporidesmine: un modele de cholestase intra-hepatique",
+        "pub_year": "1989",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:yxmsSjX2EkcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The diagnosis value of gamma glutamyl transferase in ruminants",
+        "pub_year": "1989",
+        "citation": "Point Veterinaire (France) 21 (120), 1989"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:1lhNe0rCu4AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experimental intoxication of guineapigs with sporidesmin: a model of intrahepatic cholestasis.",
+        "pub_year": "1989",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:QD3KBmkZPeQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KONTRIBUSI ISLAM DALAM PERADABAN DUNIA",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:HJSXoJQnj-YC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effectiveness of Dayak onion (Eleutherine palmifolia) extracts for medicinal treatment of sangkuriang catfish (Clarias gariepinus) infected with different doses of Bacteria \u2026",
+        "citation": "IJFAR, 0"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:oi2SiIJ9l4AC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Antiproliferation activity of water and ethyl acetate red yeast rice fraction against MCM-B2 tumor cells",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:Ade32sEp0pkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hematological and Histopathological Organs Studies on Quinine Induced Rat as Metabolic Potential Test of Angkak.",
+        "citation": "IPB (Bogor Agricultural University), 0"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:48xauSegjOkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aktivitas Antioksidan Fraksi Ekstrak Etanol Angkak Dengan Metode 1, 1-Difenil-2-Pikrilhidrazil",
+        "citation": "Bogor Agricultural University (IPB), 0"
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:CaZNVDsoPx4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efek Genistein terhadap Derajat Alergi dan Kadar Imunoglobulin E Marmut yang Diinduksi Putih Telur",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh Kuersetin terhadap Derajat Alergi dan Kadar Imunoglobulin E pada Marmot yang Diinduksi Putih Telur",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "WUK30SUAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

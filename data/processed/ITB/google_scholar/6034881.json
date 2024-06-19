@@ -1,0 +1,1497 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "jj-onjoAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "adi pancoro",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jj-onjoAAAAJ&citpid=2",
+  "affiliation": "Institut Teknologi Bandung",
+  "organization": 17169084783747613010,
+  "interests": [
+    "biology",
+    "genetics"
+  ],
+  "email_domain": "@sith.itb.ac.id",
+  "citedby": 730,
+  "citedby5y": 326,
+  "hindex": 13,
+  "hindex5y": 10,
+  "i10index": 19,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "1991": 4,
+    "1992": 4,
+    "1993": 10,
+    "1994": 16,
+    "1995": 21,
+    "1996": 14,
+    "1997": 15,
+    "1998": 18,
+    "1999": 21,
+    "2000": 19,
+    "2001": 11,
+    "2002": 10,
+    "2003": 14,
+    "2004": 7,
+    "2005": 3,
+    "2006": 7,
+    "2007": 8,
+    "2008": 15,
+    "2009": 7,
+    "2010": 11,
+    "2011": 15,
+    "2012": 11,
+    "2013": 29,
+    "2014": 10,
+    "2015": 14,
+    "2016": 21,
+    "2017": 28,
+    "2018": 32,
+    "2019": 38,
+    "2020": 45,
+    "2021": 67,
+    "2022": 64,
+    "2023": 75,
+    "2024": 34
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "0kZ6i10AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Topik Hidayat",
+      "affiliation": "Lecturer, Universitas Pendidikan Indonesia (UPI)"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "42yrZIgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Sony Suhandono",
+      "affiliation": "Lecturer & researcher, School of Life Sciences and Technology, Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "9xxfhSQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Panca Jarot Santoso",
+      "affiliation": "Indonesian Tropical Fruit Research Institute, IAARD"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "AdpRN9IAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "I Nyoman Pugeg Aryantha",
+      "affiliation": "Institut Teknologi Bandung"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "dMbTH84AAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dadang Sumardi",
+      "affiliation": "School of Life Sciences and Technology, ITB"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "FnvBfaIAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yunus Effendi",
+      "affiliation": "Universitas Al Azhar Indonesia"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "2hCSUrEAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Agung Karuniawan",
+      "affiliation": "Professor in Plant Breeding - Universitas Padjadjaran"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "EvCGsKkAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "martha aznury",
+      "affiliation": "Chemistry Engineering Department, Politeknik Negeri Sriwijaya"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "fVtJPLoAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Tjandra Setiadi",
+      "affiliation": "Institut Teknologi Bandung"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A molecular and biochemical analysis of the structure of the cyanogenic \u03b2-glucosidase (linamarase) from cassava (Manihot esculenta Cranz)",
+        "pub_year": "1992",
+        "citation": "Archives of Biochemistry and Biophysics 295 (2), 273-279, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 125,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15250357682036059280",
+      "cites_id": [
+        "15250357682036059280"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ulasan kajian filogenetika molekuler dan peranannya dalam menyediakan informasi dasar untuk meningkatkan kualitas sumber genetik anggrek",
+        "pub_year": "2016",
+        "citation": "Jurnal AgroBiogen 4 (1), 35-40, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:z6xuaG2dYH0C",
+      "num_citations": 86,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15783266060100858837",
+      "cites_id": [
+        "15783266060100858837"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nucleotide and derived amino acid sequence of the cyanogenic \u03b2-glucosidase (linamarase) from white clover (Trifolium repens L.)",
+        "pub_year": "1991",
+        "citation": "Plant molecular biology 17, 209-219, 1991"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 82,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15619322321461346207",
+      "cites_id": [
+        "15619322321461346207"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In-situ localization of cyanogenic \u03b2-glucosidase (linamarase) gene expression in leaves of cassava (Manihot esculenta Cranz) using non-isotopic riboprobes.",
+        "pub_year": "1992",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 47,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5483611752554256978",
+      "cites_id": [
+        "5483611752554256978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intestinal bacteria of common carp (Cyprinus carpio L.) as a biological control agent for Aeromonas.",
+        "pub_year": "2018",
+        "citation": "Journal of Pure & Applied Microbiology 12 (2), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:4aZ_i-5WJEQC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406463491125420952",
+      "cites_id": [
+        "15406463491125420952"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Revealing the role of Plant Growth Promoting Rhizobacteria in suppressive soils against Fusarium oxysporum f. sp. cubense based on metagenomic analysis",
+        "pub_year": "2021",
+        "citation": "Heliyon 7 (8), 2021"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:lYAcb2jw7qUC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=369708829403021512",
+      "cites_id": [
+        "369708829403021512"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Pythium and Phytophthora associated with durian (Durio sp.) in Indonesia: their molecular and morphological characteristics and distribution.",
+        "pub_year": "2015",
+        "citation": "Asian Journal of Plant Pathology 9 (2), 59-71, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13621841999684863074",
+      "cites_id": [
+        "13621841999684863074"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptome of teak (Tectona grandis, Lf) in vegetative to generative stages development",
+        "pub_year": "2015",
+        "citation": "Journal of Plant Sciences 10 (1), 1, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:aqlVkmm33-oC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8580359833845811823",
+      "cites_id": [
+        "8580359833845811823"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of local black soybean as a source of the isoflavones daidzein and genistein.",
+        "pub_year": "2017",
+        "citation": "International Food Research Journal 24 (5), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:X0DADzN9RKwC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13830270573546804063",
+      "cites_id": [
+        "13830270573546804063"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Production of polyhydroxyalkanoate (PHA) by Ralstonia eutropha JMP 134 with volatile fatty acids from palm oil mill effluent as precursors",
+        "pub_year": "2015",
+        "citation": "Water Science and Technology 72 (11), 1889-1895, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Se3iqnhoufwC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16699124749453851301",
+      "cites_id": [
+        "16699124749453851301"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metagenomic analysis of Fusarium oxysporum f. sp. cubense-infected soil in banana plantation, Sukabumi, Indonesia",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (7), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:RtRctb2lSbAC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10912500567508504363",
+      "cites_id": [
+        "10912500567508504363"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic analisys of Mangifera base on rbcL sequences, chloroplast DNA.",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:ufrVoPGSRksC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=426154174900805659",
+      "cites_id": [
+        "426154174900805659"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular diversification and phylogeny of Mangifera (Anacardiaceae) in Indonesia and Thailand",
+        "pub_year": "2011",
+        "citation": "International Journal on Advanced Science, Engineering and Information \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4954694531348134957",
+      "cites_id": [
+        "4954694531348134957"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Total flavonoids and anthocyanins content of pigmented rice",
+        "pub_year": "2019",
+        "citation": "Drug Invent. Today 12, 369-373, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:TaaCk18tZOkC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7263063524806927012",
+      "cites_id": [
+        "7263063524806927012"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sistematika dan filogenetika molekuler",
+        "pub_year": "2006",
+        "citation": "Kursus Singkat Aplikasi Perangkat Lunak PAUP dan MrBayers untuk Penelitian \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1043601257137839570",
+      "cites_id": [
+        "1043601257137839570"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Restriction fragment length polymorphism segregation analysis of the Li locus in Trifolium repens L.",
+        "pub_year": "1990",
+        "citation": "Plant molecular biology 14, 407-414, 1990"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13465442431399851016",
+      "cites_id": [
+        "13465442431399851016"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development matK gene as DNA barcode to assess evolutionary relationship of important tropical forest tree genus Mangifera (Anacardiaceae) in Indonesia and Thailand",
+        "pub_year": "2012",
+        "citation": "Jurnal Teknologi 59 (1), 2012"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8370771111797252089",
+      "cites_id": [
+        "8370771111797252089"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Genetic diversity analysis of Tenera\u00d7 Tenera and Tenera\u00d7 Pisifera Crosses and D self of oil palm (Elaeis guineensis) parental populations originating from Cameroon",
+        "pub_year": "2019",
+        "citation": "Biodiversitas Journal of Biological Diversity 20 (4), 937-949, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:mel-f30kHHgC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7685710439525003947",
+      "cites_id": [
+        "7685710439525003947"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inbreeding depression level of post-larvae freshwater prawn (Macrobrachium rosenbergii) from several hatcheries in Java, Indonesia",
+        "pub_year": "2017",
+        "citation": "Biodiversitas Journal of Biological Diversity 18 (1), 609-618, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Zph67rFs4hoC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5636119404437135892",
+      "cites_id": [
+        "5636119404437135892"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of simple-sequence repeats markers from Durian (Durio zibethinus Murr. cultv. Matahari) genomic library",
+        "pub_year": "2017",
+        "citation": "Agrivita Journal of Agricultural Science 39 (3), 257-265, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2681948253099777669",
+      "cites_id": [
+        "2681948253099777669"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effect of feeding time of volatile fatty acids from palm oil mill effluent on production of polyhydroxyalkanoates by Ralstonia eutropha JMP 134 in batch fermentation",
+        "pub_year": "2012",
+        "citation": "Proceedings of 5th AUN/SEED Regional Conference on Global Environment, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1154415650230513932",
+      "cites_id": [
+        "1154415650230513932"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of identification techniques for the fish pathogen, Aeromonas hydrophila, from Indonesia.",
+        "pub_year": "2016",
+        "citation": "Malaysian Journal of Microbiology 12 (3), 191-198, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8369012186893266292",
+      "cites_id": [
+        "8369012186893266292"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification of Terminal Flowering1 (TFL1) Genes Associated with the Teak (Tectona grandis) Floral Development Regulation Using RNA-seq",
+        "pub_year": "2015",
+        "citation": "Research Journal of Botany 10 (1), 1-14, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5848246248356078851",
+      "cites_id": [
+        "5848246248356078851"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utility of matK gene to assess evolutionary relationship of genus Mangifera (anacardiaceae) in Indonesia and Thailand",
+        "pub_year": "2011",
+        "citation": "Biotropia 18 (2), 74-80, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11833166138400907926",
+      "cites_id": [
+        "11833166138400907926"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogeny of Indonesian durian (Durio sp.) germplasm based on polymorphism of ITS-nrDNA sequences",
+        "pub_year": "2015",
+        "citation": "International Symposium on Durian and Other Humid Tropical Fruits 1186, 35-42, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:__bU50VfleQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5423450693754014074",
+      "cites_id": [
+        "5423450693754014074"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation of swine and avian influenza viruses recombination based on genetic algorithm",
+        "pub_year": "2010",
+        "citation": "International Journal on Electrical Engineering and Informatics 2 (2), 123-136, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:roLk4NBRz8UC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11687050706314782398",
+      "cites_id": [
+        "11687050706314782398"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studi filogenetika molekuler Anacardiaceae berdasarkan pada variasi urutan daerah internal transcribe spacer",
+        "pub_year": "2001",
+        "citation": "Hayati 8: 98 101, 2001"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7374272250710341732",
+      "cites_id": [
+        "7374272250710341732"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "1H NMR metabolomics analysis of oil palm stem tissue infected by Ganoderma boninense based on field severity Indices",
+        "pub_year": "2022",
+        "citation": "Scientific Reports 12 (1), 21087, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:dAp6zn-oMfAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4198878614755395810",
+      "cites_id": [
+        "4198878614755395810"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of Toll-like receptor (TLR) 2 and Myeloid88-dependent TLR-signaling response to aeromonas hydrophila infections in gouramy (osphronemus gouramy)",
+        "pub_year": "2017",
+        "citation": "IOP Conference Series: Materials Science and Engineering 180 (1), 012270, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:8k81kl-MbHgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=694520723862049006",
+      "cites_id": [
+        "694520723862049006"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Progeni F1 Hasil Persilangan Intra dan Inter-Spesies Durian (Durio SP.) Menggunakan Marka Mikrosatelit [Analysis Of F1 Progenies Of Intra And Inter-Species Crossing Of \u2026",
+        "pub_year": "2016",
+        "citation": "Jurnal Hortikultura 26 (2), 171-180, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12024890008467871073",
+      "cites_id": [
+        "12024890008467871073"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Loci analysis and diversity of durian (Durio sp.) germplasm based on microsatellite markers",
+        "pub_year": "2016",
+        "citation": "Jurnal Hortikultura 26 (1), 9-20, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Og1tA8FjbJAC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6433419979056635139",
+      "cites_id": [
+        "6433419979056635139"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis lokus dan keragaman sumber daya genetik Durian (Durio sp.) berdasarkan marka mikrosatelit",
+        "pub_year": "2016",
+        "citation": "Jurnal Hortikultura 26 (1), 9-20, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:dhFuZR0502QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15796759636450394061,8587111017835164816",
+      "cites_id": [
+        "15796759636450394061",
+        "8587111017835164816"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptome of teak (Tectona grandis, Lf) in vegetative to generative stages development. J Plant Sci 10: 1\u201314",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:sfnaS5RM6jYC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5187082538839288908",
+      "cites_id": [
+        "5187082538839288908"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Construct and Production Gonad-Inhibiting Hormone dsRNA of Black Tiger Prawn (Penaeus monodon) by In vitro and In vivo Technique in L44440 Expression Vector",
+        "pub_year": "2010",
+        "citation": "Master Thesis. Bandung: Institut Teknologi Bandung, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:JWITY9-sCbMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9328072241597314574",
+      "cites_id": [
+        "9328072241597314574"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Phylogenetic study of Piper L.(Piperaceae) based on ITS regions of nrDNA",
+        "pub_year": "2002",
+        "citation": "Floribunda 2 (1-8), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11438827158152775637",
+      "cites_id": [
+        "11438827158152775637"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Join Classifier of Type and Index Mutation on Lung Cancer DNA Using Sequential Labeling Model",
+        "pub_year": "2022",
+        "citation": "IEEE Access 10, 9004 - 9021, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:wLxue7F8ec0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4316315139770851672",
+      "cites_id": [
+        "4316315139770851672"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pengaruh sumber karbon terhadap produksi bioplastik polihidroksialkanoat (PHA) dengan ralstonia eutropha",
+        "pub_year": "2018",
+        "citation": "Jurnal Teknik Kimia Indonesia 9 (1), 28-32, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:WF5omc3nYNoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14373320094676642501",
+      "cites_id": [
+        "14373320094676642501"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis diversitas dan paternitas progeni F1 hasil persilangan Arumanis 143 x Mangga Merah menggunakan Marka Mikrosatelit",
+        "pub_year": "2014",
+        "citation": "Jurnal Hortikultura 24 (3), 210-219, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:0EnyYjriUFMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17243942091864942662",
+      "cites_id": [
+        "17243942091864942662"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Simulation of influenza pandemic based on genetic algorithm and agent-based modeling: A multi-objective optimization problem solving",
+        "pub_year": "2010",
+        "citation": "JMS, FMIPA ITB 2, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3684660780309767564",
+      "cites_id": [
+        "3684660780309767564"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular phylogenetic studies provide a basic knowledge of improving genetic resources",
+        "pub_year": "2008",
+        "citation": "Agrobiogen 4, 35-40, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:nqdriD65xNoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5388388461990103435",
+      "cites_id": [
+        "5388388461990103435"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Short Comunication: DNA Technology and Studies in Phylogenetic Relationship of tropical Plant: Prospect in Indonesia",
+        "pub_year": "2006",
+        "citation": "International Conference on Mathematic and Natural Science, Facultyof \u2026, 2006"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:hQUaER0FWQ4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11253519821163352709",
+      "cites_id": [
+        "11253519821163352709"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular studies of cyanogenesis in cassava",
+        "pub_year": "1993",
+        "citation": "Working Document (CIAT), 1993"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18150580885885038250",
+      "cites_id": [
+        "18150580885885038250"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Illegitimacy testing of Elaeis guineensis population based on simple sequence repeat markers",
+        "pub_year": "2019",
+        "citation": "AGRIVITA, Journal of Agricultural Science 41 (3), 504-512, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:YB4bud6kWLwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6662541864071562446",
+      "cites_id": [
+        "6662541864071562446"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Klarifikasi Keanggotaan Manggis \u2018Malinau\u2019Dalam Species Garcina Mangostana Menggunkan Analisis Filogenik",
+        "pub_year": "2019",
+        "citation": "Jurnal Pertanian Tropik 6 (1), 42-48, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:SxCCDk4iOpsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1049003727366380393",
+      "cites_id": [
+        "1049003727366380393"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Utility of matK gene as DNA barcode to assess evolutionary relationship of important tropical forest tree genus Mangifera (Anacardiaceae) in Indonesia and Thailand",
+        "pub_year": "2012",
+        "citation": "Biotropia 18 (2), 58938, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:-6RzNnnwWf8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1878056708385096968",
+      "cites_id": [
+        "1878056708385096968"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Single Strand Conformation Polymorphism Method for Initial Detection DNA Sequences Homogeneity",
+        "pub_year": "2010",
+        "citation": "HAYATI Journal of Biosciences 17 (1), 50-52, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:UebtZRa9Y70C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8953261536486806393",
+      "cites_id": [
+        "8953261536486806393"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deteksi Dini Enterocytozoon hepatopenaei (EHP) pada Udang Vaname (Litopenaeus vannamei) Menggunakan Metode PCR (Polymerase Chain Reaction)",
+        "pub_year": "2018",
+        "citation": "Jurnal Riset Akuakultur 13 (3), 267-275, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:RuPIJ_LgqDgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3258282755625310499",
+      "cites_id": [
+        "3258282755625310499"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Agrobacterium tumefaciens-mediated transformation of Jatropha curcas L. with a polyhydroxyalkanoate gene (phaC)",
+        "pub_year": "2018",
+        "citation": "Indonesian Journal of Biotechnology 22 (2), 61-67, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:EsEWqaRxkBgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4349706567580831306",
+      "cites_id": [
+        "4349706567580831306"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Transcriptomes of Teak (Tectona grandis, Lf) in Vegetative to Generative Transition Stage Development",
+        "pub_year": "2014",
+        "citation": "International Journal of Innovation and Applied Studies 9 (3), 1416-1427, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2408676621132723574",
+      "cites_id": [
+        "2408676621132723574"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Murray, BS, Oxtoby, E. & Hughes, J.(1992)",
+        "citation": "Arch. Biochem. Biophys 295, 273-279, 0"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13214951303020065358",
+      "cites_id": [
+        "13214951303020065358"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Point mutation of ITS-nrDNA sequences as specific markers of three durian species: Durio zibethinus, D. kutejensis and D. lowianus",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 482 (1), 012020, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:LGlY6t8CeOMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1947010291812190019",
+      "cites_id": [
+        "1947010291812190019"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolic Pathway Prediction using HMM",
+        "pub_year": "2019",
+        "citation": "2019 5th International Conference on Science and Technology (ICST) 1, 1-5, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:oPLKW5k6eA4C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1845993245849846483",
+      "cites_id": [
+        "1845993245849846483"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation of SSR markers from Lai (Durio kutejensis cult. Lai mahakam) genomic library using enrichment method with magnetic beads",
+        "pub_year": "2015",
+        "citation": "Proceedings Paper of International Conference on Biosciences (ICOBIO) 2015, 23, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4952325871714311982",
+      "cites_id": [
+        "4952325871714311982"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pandemic Influenza simulation based on Genetic Algorithm and Agent Based Modeling",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 2011 International Conference on Electrical Engineering \u2026, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4975777465621475542",
+      "cites_id": [
+        "4975777465621475542"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemodelan dan simulasi penyebaran pandemik influenza: aspek internal dan eksternal",
+        "pub_year": "2010",
+        "citation": "Prosiding KNIF 2010, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:hvmnpdAuIbkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3369694002772341618",
+      "cites_id": [
+        "3369694002772341618"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aplikasi penanda molekuler mikrosatelit untuk analisis keragaman genetik dan heterozigositas pada mangga",
+        "pub_year": "2005",
+        "citation": "Seminar Nasional dan Kongres III Perhimpunan Bioteknologi Pertanian \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:IWHjjKOFINEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7181577959604299997",
+      "cites_id": [
+        "7181577959604299997"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Gene expression profiles of oil palm leaves from different oil yields and genetic population: Transcriptomic dataset",
+        "pub_year": "2023",
+        "citation": "Data in Brief 48, 109043, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:yY3RG6sOEgwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Temporal convolutional network for a Fast DNA mutation detection in breast cancer data",
+        "pub_year": "2023",
+        "citation": "Plos one 18 (5), e0285981, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:m4fbC6XIj1kC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SSR polymorphism assay using bulked germplasm DNA template amplification",
+        "pub_year": "2023",
+        "citation": "AIP Conference Proceedings 2616 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:eI34FqJmdUoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sea Surface Temperature and Current-related Parameters Affecting Local Adaptation of Scalloped Spiny Lobster Population in Indonesia's Archipelagic System",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:2vr6o8x5NLkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Media Selection and Fed-Batch Fermentation Strategy for dsRNA Plasmid Production in Escherichia coli GT115",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.03. 07.531461, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:sJPMR1oEGYQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Impact of Restricting Community Activities on COVID-19 Transmission: A Case Study in Sumatra Island, Indonesia",
+        "pub_year": "2022",
+        "citation": "The International Conference on Data Science and Emerging Technologies, 480-493, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:AZju0d2GQJ0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Effectiveness of Bio-catharanthine on Peanut (Arachis hypogea L.) Lurik Cultivar",
+        "pub_year": "2022",
+        "citation": "Advances in Biological Sciences Research, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:naSTrk-c4S8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimating High Dimensional Spatial SIRD Parameters Using a Heuristic Algorithm, Study Case: Forecasting of COVID-19 Spread in Indonesia",
+        "pub_year": "2021",
+        "citation": "Study Case: Forecasting of COVID-19 Spread in Indonesia, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:c_xDhezhKKUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Comparative Metagenomic Analysis of Rhizospheric Bacterial Communities between Suppressive and Conducive Soil towards Ganoderma boninense Infection in Oil Palm (Elaeis \u2026",
+        "pub_year": "2021",
+        "citation": "ITB Graduate School Conference 1 (1), 743-757, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:ijdKiLOsEJMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimating Corn Weight Using Mixed Model with Linear Covariance Function Matrix",
+        "pub_year": "2021",
+        "citation": "Cyber Physical, Computer and Automation System: A Study of New Technologies \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:LK8CI43ZvvMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alignment Recovery for General Integer Scoring",
+        "pub_year": "2019",
+        "citation": "2019 2nd International Conference on Bioinformatics, Biotechnology and \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:t-hv7AR41mYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bit-Parallelism Score Computation with Multi Integer Weight",
+        "pub_year": "2019",
+        "citation": "International Journal on Electrical Engineering and Informatics 11 (1), 35-50, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:BmWJbWwHJAwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Indonesian Journal of Biotechnology",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:37UQlXuwjP4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expression profiling of the CHS8, CHI1A, IFS2, and CHR genes in black soybean seed [Glycine max (L). Merr.] of F4 generation",
+        "pub_year": "2019",
+        "citation": "Indonesian Journal of Biotechnology 24 (2), 119-124, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:jtI9f0ekYq0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Response of TLR3 and IL-1\u00df Genes Following Exposure to LPS, Poly (I: C), Zymosan in Culture of Gouramy (Osphronemus gouramy) Kidney Cells.",
+        "pub_year": "2018",
+        "citation": "Pertanika Journal of Tropical Agricultural Science 41 (3), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:KWzIFqRkAKkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "POLA EKSPRESI GEN pal1, chs7, DAN chi1b1 PADA TAHAP PERTUMBUHAN VARIETAS LOKAL DAUN KEDELAI HITAM (Glycine max (L) Merr.)",
+        "pub_year": "2017",
+        "citation": "HSG Journal 2 (1), 98-113, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:_AeoHAGD03cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The implementation of bit-parallelism for DNA sequence alignment",
+        "pub_year": "2017",
+        "citation": "Journal of Physics: Conference Series 835 (1), 012004, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:hGdtkIFZdKAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential of local black soybean as a source of the isoflavones daidzein and genistein",
+        "pub_year": "2017",
+        "citation": "International Food Research Journal (Malaysia), 2017"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:z8nqeaKD1nsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Allelic pattern and diversity in wild stocks of the giant freshwater prawn (Macrobrachium rosenbergii) from Indonesia",
+        "pub_year": "2016",
+        "citation": "AIP Conference Proceedings 1729 (1), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The distribution of genome shared identical by descent for a pair of full sibs by means of the continuous time Markov chain",
+        "pub_year": "2015",
+        "citation": "AIP Conference Proceedings 1692 (1), 2015"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variasi haplotipe pada populasi alami udang galah (Macrobracium rosenbergii) asal Papua",
+        "pub_year": "2013",
+        "citation": "Seminar Nasional. Seminar Insentif Riset SINas, Kementerian Riset dan Teknologi, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:OzeSX8-yOCQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UTILITY OF K GENE TO ASSESS EVOLUTIONARY RELATIONSHIP OF GENUS (ANACARDIACEAE) IN INDONESIA AND THAILAND",
+        "pub_year": "2011",
+        "citation": "Biotropia: The Southeast Asian Journal of Tropical Biology, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:G1UMdFYMoxkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolation and Characterization of Partial cDNA of Sucrose Synthase Putative Gene in Palmyra Palm (Borassus flabellifer)",
+        "pub_year": "2010",
+        "citation": "Biotropia 17 (2), 2010"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:T_ojBgVMvoEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cloning and Characterization of Putative Promoters from Sugarcane Elongation Factor 1\u03b1 Gene Family",
+        "pub_year": "2007",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Molecular Marker Development of Gouramy Fish (O sphronem us gouram y) Which is Resistant to A erom onas hydrophila Using\u2036 Random Amplified Polymorphic DNA\"(RAPD) Method: I \u2026",
+        "pub_year": "2005",
+        "citation": "\u65ed\u785d\u5b50\u8ca1\u56e3\u52a9\u6210\u7814\u7a76\u6210\u679c\u5831\u544a= Reports of research assisted by the Asahi Glass \u2026, 2005"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Isolasi dan Karakterisasi Gen Homolog LEAFY/FLORICAULA pada Jati (Tectona grandis Lf.)",
+        "pub_year": "2002",
+        "citation": "BioSMART 4 (2), 2002"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A representational difference analysis: A promising method to clone a DNA fragment which is responsible on the resistance mechanism of a plant to a pathogen",
+        "pub_year": "1998",
+        "citation": "Indonesian Journal Of Biotechnology, 1998"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:-yGd096yOn8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Localisation of cyanogenic \u03b2-glucosidase gene expression in Manihot esculenta Crantz (Cassava)",
+        "pub_year": "1992",
+        "citation": "University of Newcastle upon Tyne, 1992"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Revealing the role of Plant Growth Promoting Rhizobacteria in suppressive soils against Fusarium oxysporum f. sp. cubense based on metagenomic analysis",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:QVtou7C4vgoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Single Nucleotide Polymorphism Gen Faktor Transkripsi MYB dalam Biosintesis Antosianin Kulit Buah Mangga (Analysis of Single Nucleotide Polymorphism Gene Transcription \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Ic1VZgkJnDsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lokus SSR Berasosiasi Karakter Tahan Penyakit Mati-Pohon Durian Berdasarkan Bulked Pseudo-Segregant Analysis (SSR Loci Associated to Resistance Traits to Durian Die-Back based \u2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:nPT8s1NX_-sC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Progeni F",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:YTuZlYwrTOUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Virus Corona dalam Perspektif Medis dan Biologi Molekuler\u201d di Gedung CRCS ITB",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:BJrgspguQaEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "monodon",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Zh0EY9V9P6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "1. PENDAHULUAN",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BERBAGAI TIPE MIKROSATELIT YANG DITEMUKAN PADA GENOM GURAME (Osphronemus gouramy Lac)",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malaysian Journal of Microbiology",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:4TOpqqG69KYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DAFTAR BUKU TEXT BOOK PERPUSTAKAAN P2PAR ITB",
+        "citation": "Sage 941, 1, 0"
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DNA technology and studies in phylogenetic relationships of tropical plant: Prospect in Indonesia",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "jj-onjoAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

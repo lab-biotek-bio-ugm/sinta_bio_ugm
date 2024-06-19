@@ -1,0 +1,99 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "8lRphvkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Trimurti Hesti Wardini",
+  "affiliation": "Institut Teknologi Bandung",
+  "interests": [
+    "Sains dan Bioteknologi Tumbuhan"
+  ],
+  "citedby": 61,
+  "citedby5y": 10,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 2,
+  "i10index5y": 0,
+  "cites_per_year": {
+    "2007": 5,
+    "2008": 2,
+    "2009": 6,
+    "2010": 5,
+    "2011": 3,
+    "2012": 4,
+    "2013": 3,
+    "2014": 1,
+    "2015": 9,
+    "2016": 3,
+    "2017": 8,
+    "2018": 2,
+    "2019": 1,
+    "2020": 3,
+    "2021": 4,
+    "2022": 1,
+    "2023": 1
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of wall ingrowths of transfer cells occurs rapidly and depends upon gene expression in cotyledons of developing Vicia faba seeds",
+        "pub_year": "2007",
+        "citation": "Protoplasma 231, 15-23, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8lRphvkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=168791238772916904,4126960028481899519",
+      "cites_id": [
+        "168791238772916904",
+        "4126960028481899519"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Role of sugars in regulating transfer cell development in cotyledons of developing Vicia faba seeds",
+        "pub_year": "2007",
+        "citation": "Protoplasma 230, 75-88, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "8lRphvkAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7087366491893155623",
+      "cites_id": [
+        "7087366491893155623"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sugar Regulation of Transfer Cell Wall Ingrowth Deposition in Faba Bean Colyledons",
+        "pub_year": "2004",
+        "citation": "University of Newcastle, 2004"
+      },
+      "filled": false,
+      "author_pub_id": "8lRphvkAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9495335226310009802",
+      "cites_id": [
+        "9495335226310009802"
+      ]
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}

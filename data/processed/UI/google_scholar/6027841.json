@@ -1,0 +1,650 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "GNUTF10AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Afiatry Putrika",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=GNUTF10AAAAJ&citpid=2",
+  "affiliation": "Universitas Indonesia",
+  "organization": 6271598661313830606,
+  "interests": [
+    "Botani"
+  ],
+  "email_domain": "@sci.ui.ac.id",
+  "citedby": 148,
+  "citedby5y": 120,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 6,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2010": 1,
+    "2011": 1,
+    "2012": 1,
+    "2013": 2,
+    "2014": 2,
+    "2015": 0,
+    "2016": 1,
+    "2017": 8,
+    "2018": 11,
+    "2019": 13,
+    "2020": 16,
+    "2021": 27,
+    "2022": 21,
+    "2023": 25,
+    "2024": 17
+  },
+  "coauthors": [],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bryophytes of Mount Patuha, West Java, Indonesia",
+        "pub_year": "2010",
+        "citation": "Reinwardtia 13 (2), 107-123, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11380361090025871736",
+      "cites_id": [
+        "11380361090025871736"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman spesies lamun pada beberapa ekosistem padang lamun di Kawasan Taman Nasional Bali Barat",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversiti Indonesia 3 (2), 236-240, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18395434803076191255",
+      "cites_id": [
+        "18395434803076191255"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas lumut epifit di kampus Universitas Indonesia Depok",
+        "pub_year": "2012",
+        "citation": "Universitas Indonesia, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4486615605975202339",
+      "cites_id": [
+        "4486615605975202339"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of temperature variation on the growth of Leptolyngbya (cyanobacteria) HS-16 and HS-36 to biomass weight in BG-11 medium",
+        "pub_year": "2019",
+        "citation": "Biocatalysis and agricultural biotechnology 19, 101105, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3643695350050440073",
+      "cites_id": [
+        "3643695350050440073"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keragaman lumut epifit di hutan kota dan tepi jalan utama kampus universitas Indonesia",
+        "pub_year": "2017",
+        "citation": "BIO-SITE| Biologi dan Sains Terapan 3 (1), 25-38, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:qjMakFHDy7sC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17289767826567894230",
+      "cites_id": [
+        "17289767826567894230"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Seagrass species diversity at various seagrass bed ecosystems in the West Bali National Park Area",
+        "pub_year": "2017",
+        "citation": "Prosiding Seminar Nasional Masyarakat Biodiversitas Indonesia 3 (2), 236-240, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1549143657888633703",
+      "cites_id": [
+        "1549143657888633703"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analysis of the potential application of chitosan to improve vegetative growth and reduce transpiration rate in Amaranthus hybridus",
+        "pub_year": "2020",
+        "citation": "IOP Conference Series: Earth and Environmental Science 481 (1), 012021, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17606970591686822529",
+      "cites_id": [
+        "17606970591686822529"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effects of osmium tetroxide post\u2010fixation and drying steps on leafy liverwort ultrastructure study by scanning electron microscopy",
+        "pub_year": "2019",
+        "citation": "Microscopy Research and Technique 82 (7), 1041-1046, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9780288897149689886",
+      "cites_id": [
+        "9780288897149689886"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plants diversity on postpartum recovery medical used in sundanese community forecourts in Ciburial village, Banten",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2114961884195921608",
+      "cites_id": [
+        "2114961884195921608"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pemanfaatan Lebah Dan Pengelolaan Sampah Untuk Ekonomi Rumah Tangga Yang Berkelanjutan",
+        "pub_year": "2021",
+        "citation": "Dharmakarya: Jurnal Aplikasi Ipteks Untuk Masyarakat 10 (3), 248-257, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2318933868968271566",
+      "cites_id": [
+        "2318933868968271566"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keanekaragaman Spesies Lumut Hati Epifit dan Rekaman Baru untuk Jawa",
+        "pub_year": "2020",
+        "citation": "Floribunda 6 (4), 133\u2013140-133\u2013140, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:roLk4NBRz8UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4551845855452079075",
+      "cites_id": [
+        "4551845855452079075"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flora Jakarta: Daftar awal jenis-jenis tumbuhan berbiji",
+        "pub_year": "2019",
+        "citation": "Yayasan Generasi Biologi Indonesia, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:3fE2CSJIrl8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16334569015245438292",
+      "cites_id": [
+        "16334569015245438292"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inventarisasi Tumbuhan Kawasan Sempadan Di Situ Agathis, Universitas Indonesia, Depok, Jawa Barat",
+        "pub_year": "2017",
+        "citation": "Al-Kauniyah: Jurnal Biologi 10 (1), 17-25, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14377817166724230829",
+      "cites_id": [
+        "14377817166724230829"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Komunitas Lumut efipit di Kampus Universitas Indonesia Depok [Tesis]",
+        "pub_year": "2012",
+        "citation": "Depok (ID): Universitas Indonesia, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:ufrVoPGSRksC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2075031680986507492",
+      "cites_id": [
+        "2075031680986507492"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Potential ecological distributions of urban adapters and urban exploiters for the sustainability of the urban bird network",
+        "pub_year": "2022",
+        "citation": "ISPRS International Journal of Geo-Information 11 (9), 474, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15101722079618220003",
+      "cites_id": [
+        "15101722079618220003"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ultrastructure of Lejeunea spp. leaves surface in a lowland tropical urban forest of Universitas Indonesia Campus, Depok, Indonesia",
+        "pub_year": "2020",
+        "citation": "Biodiversitas Journal of Biological Diversity 21 (9), 2020"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:Se3iqnhoufwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8647779118868756714",
+      "cites_id": [
+        "8647779118868756714"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Community structure of tree at three location points of Ciliwung riparian zone in Depok\u2013South Jakarta",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012036, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:8k81kl-MbHgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14445863562325866874",
+      "cites_id": [
+        "14445863562325866874"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Oil bodies variation in ephypitic leafy liverworts at Universitas Indonesia, Depok",
+        "pub_year": "2019",
+        "citation": "AIP Conference Proceedings 2168 (1), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:WF5omc3nYNoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12170431249575490005",
+      "cites_id": [
+        "12170431249575490005"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analisis Morfologi Begonia isoptera Dryand. ex Sm (Begoniaceae) Kompleks di Jawa.",
+        "pub_year": "2019",
+        "citation": "Floribunda 6 (2), 2019"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1475844109012946769",
+      "cites_id": [
+        "1475844109012946769"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Jenisjenis Tumbuhan yang Berpotensi Sebagai Sumber Bahan Bakar Alternatif Masa Depan",
+        "pub_year": "2023",
+        "citation": "Biologi Terapan untuk Masa Depan dan Kemajuan Bangsa, 237, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5556159069197224814",
+      "cites_id": [
+        "5556159069197224814"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Karakteristik lumut di ruang terbuka hijau (RTH) di area permukiman jakarta selatan",
+        "pub_year": "2023",
+        "citation": "Al-Kauniyah: Jurnal Biologi 16 (1), 115-139, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:-f6ydRqryjwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14490880132166791270",
+      "cites_id": [
+        "14490880132166791270"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Development of Gametophyte Sterilization Method for Liverworts Acrolejeunea fertilis (Reinw., Blume and Nees) Schiffn. In vitro Culture",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (1), 39-39, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16226819550000134830",
+      "cites_id": [
+        "16226819550000134830"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Estimation of carbon stocks from tree stands vegetation in Universitas Indonesia\u2019s urban forest, Depok",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012043, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12450662302539089760",
+      "cites_id": [
+        "12450662302539089760"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\u201cBuruken\u201d The New Type of Waste Bank to Support Electricity Sustainability in Sarimukti Village, Garut",
+        "pub_year": "2020",
+        "citation": "2nd INTERNATIONAL CONFERENCE ON COMMUNITY SERVICE PROGRAMME, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:UebtZRa9Y70C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16826743577359477575",
+      "cites_id": [
+        "16826743577359477575"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of drying step in the preparation of Microlejeunea ulicina for scanning electron microscopy observation",
+        "pub_year": "2019",
+        "citation": "Journal of Physics: Conference Series 1245 (1), 012003, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5359266451754652601",
+      "cites_id": [
+        "5359266451754652601"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anatomical and sound intensity comparison of bamboo culms that used as Angklung Gubrag in Cipining Village",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13903406832534172355",
+      "cites_id": [
+        "13903406832534172355"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DB Error: Disk full (/tmp/# sql_5d9_0. MAI); waiting for someone to free some space...(errno: 28\" No space left on device\")",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1145348650916963103",
+      "cites_id": [
+        "1145348650916963103"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BRYOPHYTE DIVERSITY AND ATMOSPHERIC POLLUTION IN A RESIDENTIAL AREA AND AN INDUSTRIAL URBAN FOREST IN JAKARTA, INDONESIA",
+        "pub_year": "2023",
+        "citation": "BIOTROPIA 30 (3), 355-364, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:hC7cP41nSMkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Induction of In Vitro Shoots in Liverwort Gametophyte Explant Acrolejeunea fertilis (Reinw., Blume & Nees) Schiffn. and its Comparative Metabolite and Bioactivity Analysis",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:qUcmZB5y_30C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Six tree species physiological responses to air pollution in Pulogadung Industrial Estate, East Jakarta, Indonesia and Universitas Indonesia Campus, Depok, Indonesia",
+        "pub_year": "2023",
+        "citation": "Int J Adv Appl Sci ISSN 2252 (8814), 8814, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:IWHjjKOFINEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KARAKTERISTIK LUMUT DI RUANG TERBUKA HIJAU (RTH) DI AREA PERMUKIMAN JAKARTA SELATAN",
+        "pub_year": "2023",
+        "citation": "AL-KAUNIYAH: Journal of Biology 16 (1), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BIOLOGI TERAPAN UNTUK MASA DEPAN & KEMAJUAN BANGSA",
+        "pub_year": "2023",
+        "citation": "Yayasan Pustaka Obor Indonesia, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TREES PHYSIOLOGICAL RESPONSES TO AIR POLLUTION IN TAMAN MARGASATWA RAGUNAN AND UI DEPOK CAMPUS",
+        "pub_year": "2022",
+        "citation": "Biotropia 29 (3), 2022"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Respons Eksplan Gametofit Acrolejeunea fertilis (Reinw., Blume & Nees) Schiffn. terhadap Variasi Bahan Sterilisasi dan Konsentrasi Medium Murashige & Skoog (MS)",
+        "pub_year": "2022",
+        "citation": "Seminar S1, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:mB3voiENLucC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Environmental Conservation Efforts Through The Akrelosa Education Program (Anak Kreatif Kelola Sampah) At The Alternative School For Street Children, Setiabudi, South Jakarta",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Upaya Pelestarian Lingkungan Melalui Program Edukasi Akrelosa (Anak Kreatif Kelola Sampah) di Sekolah Alternatif Anak Jalanan, Setiabudi, Jakarta Selatan",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:dhFuZR0502QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Program Edukasi Akrelosa (Anak Kreatif Kelola Sampah) di Sekolah Anak Jalanan, Setiabudi, Jakarta Selatan",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Specimen management of the genus Lygodium (Pteridophytes) in the biota collection room, Universitas Indonesia (ruang koleksi biota UI/RKB UI), Depok",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1918 (5), 052027, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Development of In Vitro Culture Sterilization Method of Gametophyte Explant Lopholejeunea sp.",
+        "pub_year": "2021",
+        "citation": "HAYATI Journal of Biosciences 28 (2), 110-110, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Poles carbon stock estimation of urban forest in Universitas Indonesia, Depok",
+        "pub_year": "2021",
+        "citation": "Journal of Physics: Conference Series 1725 (1), 012048, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plant diversity of building materials in yard based on Sundanese community perspectives in Ciburial Village, Cimanggu Sub-district, Banten",
+        "pub_year": "2018",
+        "citation": "AIP Conference Proceedings 2023 (1), 2018"
+      },
+      "filled": false,
+      "author_pub_id": "GNUTF10AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    }
+  ],
+  "public_access": {
+    "available": 0,
+    "not_available": 0
+  }
+}
