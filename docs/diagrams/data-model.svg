@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1000 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="data-model-title data-model-desc" id="data-model-root">
+        <title id="data-model-title">Lecturer record data model</title>
+        <desc id="data-model-desc">Each lecturer record in life_science.json combines roster, SINTA and Google Scholar fields, belongs to one SINTA affiliation, lists many publications and links to many Scholar co-authors.</desc>
+        <defs>
+      <style>@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&amp;family=Geist:wght@400;500;600&amp;family=Geist+Mono:wght@400;500;600&amp;family=Noto+Serif:ital@0;1&amp;family=Noto+Sans+KR:wght@400;500;600&amp;family=Noto+Serif+KR:wght@400&amp;family=Noto+Sans+TC:wght@400;500;600&amp;family=Noto+Serif+TC:wght@400&amp;display=swap');
+      #data-model-root { --paper: #f5f5f5; --ink: #2d3142; --muted: #4f5d75; --accent: #eb6c36;
+      --sans: 'Geist', system-ui, sans-serif; --serif: 'Instrument Serif', serif; --mono: 'Geist Mono', ui-monospace, monospace; }
+      #data-model-root { color: var(--ink); font-family: var(--sans); }
+      #data-model-root .diagram-container { width: 100%; overflow-x: auto; }
+      #data-model-root .diagram-container { overflow-x: visible; }</style>
+          <pattern id="data-model-dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#2d3142" fill-opacity="0.10"/></pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="#f5f5f5"/>
+        <rect width="100%" height="100%" fill="url(#data-model-dots)" opacity="0.55"/>
+        <!-- Relationship lines (drawn first) -->
+        <line x1="240" y1="240" x2="340" y2="240" stroke="#4f5d75" stroke-width="1"/>
+        <line x1="600" y1="180" x2="720" y2="180" stroke="#4f5d75" stroke-width="1"/>
+        <line x1="600" y1="320" x2="720" y2="320" stroke="#4f5d75" stroke-width="1"/>
+        <rect x="246" y="232" width="12" height="12" rx="2" fill="#f5f5f5"/><text x="252" y="242" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="middle" font-weight="600">1</text>
+        <rect x="320" y="232" width="12" height="12" rx="2" fill="#f5f5f5"/><text x="326" y="242" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="middle" font-weight="600">N</text>
+        <rect x="606" y="172" width="12" height="12" rx="2" fill="#f5f5f5"/><text x="612" y="182" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="middle" font-weight="600">1</text>
+        <rect x="700" y="172" width="12" height="12" rx="2" fill="#f5f5f5"/><text x="706" y="182" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="middle" font-weight="600">N</text>
+        <rect x="606" y="312" width="12" height="12" rx="2" fill="#f5f5f5"/><text x="612" y="322" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="middle" font-weight="600">N</text>
+        <rect x="700" y="312" width="12" height="12" rx="2" fill="#f5f5f5"/><text x="706" y="322" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="middle" font-weight="600">N</text>
+        <rect x="263" y="220" width="54" height="14" rx="2" fill="#f5f5f5"/><text x="290" y="230" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle" letter-spacing="0.12em">EMPLOYS</text>
+        <rect x="627" y="160" width="66" height="14" rx="2" fill="#f5f5f5"/><text x="660" y="170" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle" letter-spacing="0.12em">PUBLISHED</text>
+        <rect x="624" y="300" width="72" height="14" rx="2" fill="#f5f5f5"/><text x="660" y="310" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle" letter-spacing="0.12em">CO-AUTHORS</text>
+        <!-- Entities -->
+        <rect x="40" y="180" width="200" height="120" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+        <rect x="40" y="180" width="200" height="40" rx="6" fill="#2d3142" fill-opacity="0.04" stroke="none"/>
+        <rect x="40" y="212" width="200" height="8" fill="#2d3142" fill-opacity="0.04"/>
+        <line x1="40" y1="220" x2="240" y2="220" stroke="#2d3142" stroke-opacity="0.22" stroke-width="1"/>
+        <text x="56" y="196" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ENTITY · SINTA</text>
+        <text x="56" y="212" fill="#2d3142" font-size="14" font-weight="600" font-family="'Geist', sans-serif">Affiliation</text>
+        <text x="56" y="240" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace"># id</text>
+        <text x="224" y="240" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">int</text>
+        <text x="56" y="260" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">name</text>
+        <text x="224" y="260" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+        <text x="56" y="280" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">url</text>
+        <text x="224" y="280" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+        <rect x="340" y="100" width="260" height="260" rx="6" fill="#eb6c36" fill-opacity="0.04" stroke="#eb6c36" stroke-width="1"/>
+        <rect x="340" y="100" width="260" height="40" rx="6" fill="#eb6c36" fill-opacity="0.10" stroke="none"/>
+        <rect x="340" y="132" width="260" height="8" fill="#eb6c36" fill-opacity="0.10"/>
+        <line x1="340" y1="140" x2="600" y2="140" stroke="#eb6c36" stroke-opacity="0.40" stroke-width="1"/>
+        <text x="356" y="116" fill="#eb6c36" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ENTITY · ONE JSON RECORD</text>
+        <text x="356" y="132" fill="#2d3142" font-size="14" font-weight="600" font-family="'Geist', sans-serif">Lecturer</text>
+        <text x="356" y="160" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace"># sinta_id</text>
+        <text x="584" y="160" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">key</text>
+        <text x="356" y="180" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">name_inputted</text>
+        <text x="584" y="180" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">roster</text>
+        <text x="356" y="200" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">NIDN</text>
+        <text x="584" y="200" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">roster</text>
+        <text x="356" y="220" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">birth_date · age</text>
+        <text x="584" y="220" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">derived</text>
+        <text x="356" y="240" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">department</text>
+        <text x="584" y="240" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">SINTA</text>
+        <text x="356" y="260" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">subjects</text>
+        <text x="584" y="260" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">SINTA · list</text>
+        <text x="356" y="280" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">score · h-index</text>
+        <text x="584" y="280" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">SINTA · dict</text>
+        <text x="356" y="300" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">→ affiliation_sinta</text>
+        <text x="584" y="300" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">SINTA · obj</text>
+        <text x="356" y="320" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">scholar_id</text>
+        <text x="584" y="320" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">Scholar</text>
+        <text x="356" y="340" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">citedby · interests</text>
+        <text x="584" y="340" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">Scholar</text>
+        <rect x="720" y="60" width="240" height="160" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+        <rect x="720" y="60" width="240" height="40" rx="6" fill="#2d3142" fill-opacity="0.04" stroke="none"/>
+        <rect x="720" y="92" width="240" height="8" fill="#2d3142" fill-opacity="0.04"/>
+        <line x1="720" y1="100" x2="960" y2="100" stroke="#2d3142" stroke-opacity="0.22" stroke-width="1"/>
+        <text x="736" y="76" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ENTITY · SCHOLAR</text>
+        <text x="736" y="92" fill="#2d3142" font-size="14" font-weight="600" font-family="'Geist', sans-serif">Publication</text>
+        <text x="736" y="120" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">bib.title</text>
+        <text x="944" y="120" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+        <text x="736" y="140" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">bib.pub_year</text>
+        <text x="944" y="140" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">int</text>
+        <text x="736" y="160" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">bib.citation</text>
+        <text x="944" y="160" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+        <text x="736" y="180" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">num_citations</text>
+        <text x="944" y="180" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">int</text>
+        <text x="736" y="200" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">author_pub_id</text>
+        <text x="944" y="200" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+        <rect x="720" y="280" width="240" height="120" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+        <rect x="720" y="280" width="240" height="40" rx="6" fill="#2d3142" fill-opacity="0.04" stroke="none"/>
+        <rect x="720" y="312" width="240" height="8" fill="#2d3142" fill-opacity="0.04"/>
+        <line x1="720" y1="320" x2="960" y2="320" stroke="#2d3142" stroke-opacity="0.22" stroke-width="1"/>
+        <text x="736" y="296" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ENTITY · SCHOLAR</text>
+        <text x="736" y="312" fill="#2d3142" font-size="14" font-weight="600" font-family="'Geist', sans-serif">Co-author</text>
+        <text x="736" y="340" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace"># scholar_id</text>
+        <text x="944" y="340" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+        <text x="736" y="360" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">name</text>
+        <text x="944" y="360" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+        <text x="736" y="380" fill="#2d3142" font-size="10" font-family="'Geist Mono', monospace">affiliation</text>
+        <text x="944" y="380" fill="#4f5d75" font-size="10" font-family="'Geist Mono', monospace" text-anchor="end">text</text>
+      </svg>
