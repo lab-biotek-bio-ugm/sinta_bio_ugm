@@ -1,2 +1,9 @@
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# graphify
+graphify-out/
+data/graphify-out/

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coverage by university · Bar chart</title>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&amp;family=Geist:wght@400;500;600&amp;family=Geist+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --paper: #f5f5f5; --ink: #2d3142; --muted: #4f5d75;
+      --sans: 'Geist', system-ui, sans-serif; --serif: 'Instrument Serif', serif; --mono: 'Geist Mono', ui-monospace, monospace; }
+    body { min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 3rem 2rem; background: var(--paper); color: var(--ink); font-family: var(--sans); }
+    .frame { width: 100%; max-width: 1200px; }
+    .diagram-container { width: 100%; overflow-x: auto; }
+    .eyebrow { margin-bottom: 0.5rem; color: var(--muted); font: 500 0.66rem var(--mono); letter-spacing: 0.18em; text-transform: uppercase; }
+    h1 { margin-bottom: 1.5rem; color: var(--ink); font: 400 clamp(1.5rem, 2.4vw + 0.75rem, 2rem)/1.15 var(--serif); letter-spacing: -0.02em; }
+    svg { display: block; width: 100%; min-width: 1000px; }
+    @media print { .diagram-container { overflow-x: visible; } svg { min-width: 0; } }
+  </style>
+</head>
+<body>
+  <main class="frame">
+    <p class="eyebrow">Bar chart · sinta_ls stats</p>
+    <h1>27,454 publications from 349 lecturers</h1>
+    <div class="diagram-container">
+    <svg viewBox="0 0 1000 516" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="coverage-title coverage-desc">
+      <title id="coverage-title">Publications scraped per university</title>
+      <desc id="coverage-desc">Google Scholar publications per university: IPB 12,485 from 116 lecturers, ITB 5,732 from 88 lecturers, UGM 4,998 from 84 lecturers, UB 2,300 from 22 lecturers, UI 1,939 from 39 lecturers.</desc>
+      <rect width="100%" height="100%" fill="#f5f5f5"/>
+      <!-- Gridlines + axes -->
+      <line x1="80" y1="325" x2="960" y2="325" stroke="rgba(45,49,66,0.08)" stroke-width="0.8"/>
+      <line x1="80" y1="230" x2="960" y2="230" stroke="rgba(45,49,66,0.08)" stroke-width="0.8"/>
+      <line x1="80" y1="135" x2="960" y2="135" stroke="rgba(45,49,66,0.08)" stroke-width="0.8"/>
+      <line x1="80" y1="40" x2="960" y2="40" stroke="rgba(45,49,66,0.08)" stroke-width="0.8"/>
+      <text x="72" y="423" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">0</text>
+      <text x="72" y="328" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">4,000</text>
+      <text x="72" y="233" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">8,000</text>
+      <text x="72" y="138" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">12,000</text>
+      <text x="72" y="43" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">16,000</text>
+      <line x1="80" y1="40" x2="80" y2="420" stroke="rgba(45,49,66,0.25)" stroke-width="1"/>
+      <line x1="80" y1="420" x2="960" y2="420" stroke="rgba(45,49,66,0.25)" stroke-width="1"/>
+      <text transform="rotate(-90 24 230)" x="24" y="230" fill="#4f5d75" font-size="7" font-family="'Geist Mono', monospace" letter-spacing="0.14em" text-anchor="middle">PUBLICATIONS</text>
+      <!-- Bars -->
+      <rect x="116" y="123" width="104" height="297" fill="#f5f5f5"/>
+      <rect x="116" y="123" width="104" height="297" fill="rgba(79,93,117,0.15)" stroke="#4f5d75" stroke-width="1"/>
+      <text x="168" y="115" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">12,485</text>
+      <text x="168" y="440" fill="#2d3142" font-size="11" font-weight="600" font-family="'Geist', sans-serif" text-anchor="middle">IPB</text>
+      <text x="168" y="454" fill="#7a8399" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">116 lecturers</text>
+      <rect x="292" y="284" width="104" height="136" fill="#f5f5f5"/>
+      <rect x="292" y="284" width="104" height="136" fill="rgba(79,93,117,0.15)" stroke="#4f5d75" stroke-width="1"/>
+      <text x="344" y="276" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">5,732</text>
+      <text x="344" y="440" fill="#2d3142" font-size="11" font-weight="600" font-family="'Geist', sans-serif" text-anchor="middle">ITB</text>
+      <text x="344" y="454" fill="#7a8399" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">88 lecturers</text>
+      <rect x="468" y="301" width="104" height="119" fill="#f5f5f5"/>
+      <rect x="468" y="301" width="104" height="119" fill="rgba(235,108,54,0.12)" stroke="#eb6c36" stroke-width="1"/>
+      <text x="520" y="293" fill="#eb6c36" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">4,998</text>
+      <text x="520" y="440" fill="#eb6c36" font-size="11" font-weight="600" font-family="'Geist', sans-serif" text-anchor="middle">UGM</text>
+      <text x="520" y="454" fill="#7a8399" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">84 lecturers</text>
+      <rect x="644" y="365" width="104" height="55" fill="#f5f5f5"/>
+      <rect x="644" y="365" width="104" height="55" fill="rgba(79,93,117,0.15)" stroke="#4f5d75" stroke-width="1"/>
+      <text x="696" y="357" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">2,300</text>
+      <text x="696" y="440" fill="#2d3142" font-size="11" font-weight="600" font-family="'Geist', sans-serif" text-anchor="middle">UB</text>
+      <text x="696" y="454" fill="#7a8399" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">22 lecturers</text>
+      <rect x="820" y="374" width="104" height="46" fill="#f5f5f5"/>
+      <rect x="820" y="374" width="104" height="46" fill="rgba(79,93,117,0.15)" stroke="#4f5d75" stroke-width="1"/>
+      <text x="872" y="366" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">1,939</text>
+      <text x="872" y="440" fill="#2d3142" font-size="11" font-weight="600" font-family="'Geist', sans-serif" text-anchor="middle">UI</text>
+      <text x="872" y="454" fill="#7a8399" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">39 lecturers</text>
+      <!-- Legend -->
+      <line x1="40" y1="472" x2="960" y2="472" stroke="rgba(45,49,66,0.10)" stroke-width="0.8"/>
+      <text x="40" y="488" fill="#4f5d75" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.18em">LEGEND</text>
+      <rect x="40" y="496" width="16" height="10" rx="2" fill="rgba(235,108,54,0.12)" stroke="#eb6c36" stroke-width="1"/>
+      <text x="64" y="505" fill="#4f5d75" font-size="8.5" font-family="'Geist', sans-serif">UGM · home institution</text>
+      <rect x="220" y="496" width="16" height="10" rx="2" fill="rgba(79,93,117,0.15)" stroke="#4f5d75" stroke-width="1"/>
+      <text x="244" y="505" fill="#4f5d75" font-size="8.5" font-family="'Geist', sans-serif">Other universities</text>
+      <text x="960" y="505" fill="#7a8399" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">Google Scholar publications listed per university · sorted by count</text>
+    </svg>
+    </div>
+  </main>
+</body>
+</html>
