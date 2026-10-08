@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SINTA Life Sciences</title>
+<style>
+  :root { --bg:#fff; --fg:#1b1f24; --muted:#59636e; --line:#d1d9e0; --card:#f6f8fa; --link:#0969da; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0d1117; --fg:#e6edf3; --muted:#9198a1; --line:#3d444d; --card:#151b23; --link:#4493f8; }
+    img.diagram { background:#fff; border-radius:6px; }
+  }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.6 system-ui, sans-serif; }
+  main { max-width:1100px; margin:0 auto; padding:24px 16px 64px; }
+  a { color:var(--link); }
+  h1 { margin-bottom:0; } .sub { color:var(--muted); margin-top:4px; }
+  h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:48px; }
+  img { max-width:100%; height:auto; display:block; }
+  iframe { width:100%; border:1px solid var(--line); border-radius:6px; background:#fff; }
+  figure { margin:24px 0; } figcaption { color:var(--muted); font-size:14px; margin-top:6px; }
+  .table-wrap { overflow-x:auto; }
+  table { border-collapse:collapse; width:100%; font-variant-numeric:tabular-nums; }
+  th, td { padding:6px 12px; border-bottom:1px solid var(--line); text-align:right; }
+  th:first-child, td:first-child { text-align:left; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:16px; }
+  nav a { margin-right:16px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>SINTA Life Sciences</h1>
+  <p class="sub">SINTA and Google Scholar profiles of life-science lecturers at UGM, UI, ITB, IPB and UB, plus the UGM Faculty of Biology.
+    · <a href="https://github.com/lab-biotek-bio-ugm/sinta_bio_ugm">Source on GitHub</a></p>
+  <nav><a href="#coverage">Coverage</a><a href="#pipeline">Pipeline</a><a href="#all">5 universities</a><a href="#ugm-bio">UGM Biology</a></nav>
+
+  <h2 id="coverage">Coverage</h2>
+  <figure><img class="diagram" src="diagrams/coverage.svg" alt="Publications scraped per university"></figure>
+  <div class="table-wrap"><table>
+    <thead><tr><th>set</th><th>lecturers</th><th>with Google Scholar</th><th>publications</th><th>co-authors listed</th></tr></thead>
+    <tbody>
+      <tr><td>UGM</td><td>84</td><td>79</td><td>4,998</td><td>410</td></tr>
+      <tr><td>UI</td><td>39</td><td>27</td><td>1,939</td><td>97</td></tr>
+      <tr><td>ITB</td><td>88</td><td>88</td><td>5,732</td><td>381</td></tr>
+      <tr><td>IPB</td><td>116</td><td>97</td><td>12,485</td><td>770</td></tr>
+      <tr><td>UB</td><td>22</td><td>16</td><td>2,300</td><td>23</td></tr>
+      <tr><td>UGM_BIO</td><td>69</td><td>69</td><td>4,920</td><td>491</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2 id="pipeline">Pipeline</h2>
+  <figure><img class="diagram" src="diagrams/pipeline.svg" alt="Pipeline: roster, SINTA, Google Scholar, store, cluster, network"></figure>
+  <figure><img class="diagram" src="diagrams/data-model.svg" alt="Data model of one lecturer record"><figcaption>Each record merges three sources.</figcaption></figure>
+
+  <h2 id="all">Five universities (k = 6)</h2>
+  <figure><iframe src="figures/ALL/01_clusterplot_publication_titles.html" height="260" title="Choosing k"></iframe>
+    <figcaption>Choosing k: elbow, silhouette, Davies-Bouldin.</figcaption></figure>
+  <figure><iframe src="figures/ALL/01_PCA_publication_titles.html" height="720" loading="lazy" title="PCA clusters, 5 universities"></iframe>
+    <figcaption>TF-IDF of publication titles → PCA → KMeans. Hover for lecturer details.</figcaption></figure>
+  <div class="grid">
+    <figure><img src="figures/ALL/02.0_co-author_graph.png" alt="Co-author graph, 5 universities" loading="lazy"><figcaption>Co-author graph</figcaption></figure>
+    <figure><img src="figures/ALL/02.2_connecting_co-author_graph.png" alt="Shared co-author subgraph, 5 universities" loading="lazy"><figcaption>Co-authors shared by more than one lecturer</figcaption></figure>
+  </div>
+
+  <h2 id="ugm-bio">UGM Faculty of Biology (k = 12)</h2>
+  <figure><iframe src="figures/UGM_BIO/01_clusterplot_publication_titles.html" height="260" loading="lazy" title="Choosing k"></iframe>
+    <figcaption>Choosing k: elbow, silhouette, Davies-Bouldin.</figcaption></figure>
+  <figure><iframe src="figures/UGM_BIO/01_PCA_publication_titles.html" height="720" loading="lazy" title="PCA clusters, UGM Biology"></iframe></figure>
+  <div class="grid">
+    <figure><img src="figures/UGM_BIO/02.0_co-author_graph.png" alt="Co-author graph, UGM Biology" loading="lazy"><figcaption>Co-author graph</figcaption></figure>
+    <figure><img src="figures/UGM_BIO/02.2_connecting_co-author_graph.png" alt="Shared co-author subgraph, UGM Biology" loading="lazy"><figcaption>Co-authors shared by more than one lecturer</figcaption></figure>
+  </div>
+  <figure><img src="figures/UGM_BIO/02.1_co-author_graph_cytoscape.png" alt="Cytoscape render of the UGM Biology co-author graph" loading="lazy"><figcaption>Hand-made Cytoscape render</figcaption></figure>
+</main>
+</body>
+</html>
